@@ -1,0 +1,12 @@
+[Unit]
+Description=Publish the daily-jobs dataset to GitHub (after job-fit-board's morning scan)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/projects/daily-jobs
+Environment=PYTHONUNBUFFERED=1
+Environment=TZ=America/Chicago
+ExecStart=/usr/bin/nice -n 10 /usr/bin/python3 %h/projects/daily-jobs/tools/publish.py daily
+TimeoutStartSec=8h

@@ -1,0 +1,13 @@
+{
+  "name": "daily-jobs",
+  "description": "find-jobs skill: searches a daily dataset of US job postings, judges them against your resume, and builds a board of matches. Includes the scrapers for 44 job-board systems.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Code-Tomato",
+    "url": "https://github.com/Code-Tomato"
+  },
+  "homepage": "https://github.com/Code-Tomato/daily-jobs",
+  "repository": "https://github.com/Code-Tomato/daily-jobs",
+  "license": "MIT",
+  "keywords": ["jobs", "internships", "new grad", "job search", "scraping", "resume"]
+}

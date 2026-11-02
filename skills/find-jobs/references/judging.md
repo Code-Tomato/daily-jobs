@@ -1,0 +1,64 @@
+# Judging a posting
+
+You decide two things for each posting: does the person meet its hard requirements at the time the job starts, and is the
+work what they want. Then you pick a tier and write one or two plain sentences.
+
+## Tiers
+
+| tier | meaning |
+|---|---|
+| `strong` | Meets every hard requirement, and the day-to-day work is squarely what they want (their core field or interests). Apply now. |
+| `good` | Meets every hard requirement and the work is reasonably close to what they want, or squarely theirs with one soft doubt. Worth applying. |
+| `stretch` | One gap they could plausibly bridge: a year short on experience, a "required" skill they have only from coursework, a degree field that is adjacent. Name the gap. |
+| `no` | Fails a hard requirement, or the work isn't what they're looking for. |
+
+Unclear is not the same as met. If a hard requirement can't be checked from the excerpt or the posting, the best tier is
+`good`, and `gaps` says what to confirm ("The posting doesn't say whether it sponsors visas").
+
+## Hard requirements, in the order to check them
+
+1. **Level and timing.** Internship or co-op: does the term match what they want (summer 2027, fall co-op)? Does the
+   posting restrict class standing ("rising seniors", "sophomores and juniors", "graduating between Dec 2026 and
+   Jun 2027", "must return to school after the internship")? Check against their graduation date. Don't assume they will
+   start grad school unless the profile says it's confirmed. New grad: does their graduation date fall in the window?
+2. **Degree.** A required degree they don't have by the start date fails ("Master's required" for a BS student; a
+   bachelor's required for a role starting before they graduate, unless the posting allows finishing by then). A
+   degree field that is listed with "or related field" usually passes for adjacent majors.
+3. **Experience.** Count internships, co-ops and research as experience, but only so far: about two years of internships
+   and research satisfy "1+ years of experience" or "internship experience", not "3+ years" and not "N years of
+   non-internship / full-time / professional experience" for N ≥ 2. A posting that asks for 2–3 years is at most a
+   `stretch` for a new grad with strong internships.
+4. **Work authorization.** If they need sponsorship (now or later), "will not sponsor", "must be authorized without
+   sponsorship now or in the future", "US citizens only", ITAR/EAR "US person" (citizens and permanent residents) all
+   fail. If they are a US citizen, none of these matter. Don't guess their status; use the profile.
+5. **Clearance.** A required active clearance fails unless they have one. "Ability to obtain" passes for citizens who
+   are fine with it, and fails for non-citizens.
+6. **Location.** Onsite in a place they won't move to fails. Remote-in-the-US passes for anyone in the US.
+7. **Other gates.** Minimum GPA, licenses or certifications (RN, CPA, PE, CDL), required languages, travel, physical
+   requirements, shift work. Check only what the posting states.
+
+## Fit
+
+How close is the day-to-day work to what they've done and what they said they want? Read the responsibilities and the
+required skills, not just the title: "Software Engineer" at a chip company may be RTL verification; "Analyst" may be
+SQL dashboards or investment banking. A role they could do but that uses none of their background is `good` at best.
+
+## Writing `why` and `gaps`
+
+- `why`: one or two factual sentences naming the role and the reason it fits: "Summer 2027 firmware internship for EE
+  juniors; their STM32 motor-control project is the core of the work." For `no`, the reason it fails: "Requires an
+  active TS/SCI clearance." or "Senior role asking for 6+ years."
+- `gaps`: what may hold them back, or null. "Asks for 2 years of professional experience; they have internships."
+- Plain sentences, no dashes as punctuation, no hype, no exclamation marks. Never invent facts the posting doesn't state.
+
+## Verdict file format
+
+One JSON object per line, then `python3 jobs.py verdict --file FILE`:
+
+```json
+{"id": "acme:123", "tier": "strong", "why": "…", "gaps": null}
+{"id": "acme:456", "tier": "stretch", "why": "…", "gaps": "Asks for 2+ years of experience."}
+{"id": "acme:789", "tier": "no", "why": "Requires a master's degree."}
+```
+
+Recording `no` verdicts matters: `search --unjudged` hides every judged posting, so next time only new ones come back.

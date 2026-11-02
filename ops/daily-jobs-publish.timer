@@ -1,0 +1,11 @@
+[Unit]
+Description=Publish the daily-jobs dataset every morning
+
+[Timer]
+# job-fit-board's scan starts at 08:00 and holds its pipeline lock until it finishes; publish.py waits for that lock.
+OnCalendar=*-*-* 08:30:00 America/Chicago
+Persistent=true
+AccuracySec=1min
+
+[Install]
+WantedBy=timers.target
