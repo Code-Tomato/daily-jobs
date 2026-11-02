@@ -1,6 +1,6 @@
 # New grad and entry level: Other
 
-899 open, newest first (by the date the scraper first saw them), updated 2026-11-02. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+874 open, newest first (by the date the scraper first saw them), updated 2026-11-02. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -15,9 +15,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Continental | [Truck Wire Cutter (TWC)- Illinois](https://jobs.smartrecruiters.com/Continental/744000158797679-truck-wire-cutter-twc-illinois) | Mount Vernon, IL, us | $28.20 to $29.75/hour | 2026-11-02 |  |
 | Continental | [Truck General Trucker (TGT)- Illinois](https://jobs.smartrecruiters.com/Continental/744000158779884-truck-general-trucker-tgt-illinois) | Mount Vernon, IL, us | $27.06 to $28.52/hour | 2026-11-02 |  |
 | GEICO | [Auto Damage Trainee (Field)](https://geico.wd1.myworkdayjobs.com/External/job/Cleveland-OH/Auto-Damage-Trainee--Field-_R0066585) | Cleveland, OH | $27.98 to $43.75/hour | 2026-11-02 | no visa sponsorship |
-| ICF | [Archeological Field Tech (On-Call)](https://careers.icf.com/us/en/job/R2603684) | Austin, Texas, United States of America | $50,605 to $86,028 | 2026-11-02 |  |
+| ICF | [Archeological Field Tech (On-Call)](https://careers.icf.com/us/en/job/R2603684) | Austin, Texas, United States of America | $50,605 to $86,028 | 2026-11-02 | no visa sponsorship |
 | Intuitive Surgical | [Final Quality Inspector](https://jobs.smartrecruiters.com/Intuitive/744000158841404-final-quality-inspector) | Mississippi City, MS, us |  | 2026-11-02 |  |
-| Lowe's | [Replenishment Specialist](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Replenishment-Specialist_JR-02686557-1) | Mooresville, NC (SSC) 1999 |  | 2026-11-02 |  |
+| Lowe's | [Replenishment Specialist](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Replenishment-Specialist_JR-02686557-1) | Mooresville, NC (SSC) 1999 |  | 2026-11-02 | no visa sponsorship |
 | Medtronic | [Toolmaker II](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dexter-Michigan-United-States-of-America/Toolmaker-II_R77102-1) | Dexter, Michigan, United States of America | $55,200 to $82,800 | 2026-11-02 |  |
 | Medtronic | [Inspector II](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fort-Worth-Texas-United-States-of-America/Inspector-II_R80863-1) | Fort Worth, Texas, United States of America | $44,800 to $67,200 | 2026-11-02 |  |
 | Memorial Hermann | [Imaging Aide - Days](https://jobs.memorialhermann.org/us/en/job/100187903) | Houston, Texas, United States of America |  | 2026-11-02 |  |
@@ -65,7 +65,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Prosperity Bank | [Teller I (Full Time) -Westlake](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604395&lang=en_US) | WESTLAKE, Austin, TX, US |  | 2026-10-29 |  |
 | Prosperity Bank | [Teller I (Part Time) Lubbock, Milwaukee](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604482&lang=en_US) | Lubbock, TX, US |  | 2026-10-29 |  |
 | Baylor Scott & White Health | [CRNA- Waco Hillcrest](https://jobs.bswhealth.com/us/en/job/26018239) | Waco, Texas, United States |  | 2026-10-29 |  |
-| Centene | [Contract Negotiator I](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IN/Contract-Negotiator-I_1672106) | Remote-IN | $56,200 to $101,000 | 2026-10-29 |  |
+| Centene | [Contract Negotiator I](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IN/Contract-Negotiator-I_1672106) | Remote-IN | $56,200 to $101,000 | 2026-10-29 | no visa sponsorship |
 | CommonSpirit Health (St. Luke's Health) | [Central Svs Tech](https://www.commonspirit.careers/job/bakersfield/central-svs-tech/35300/102552348176) | BAKERSFIELD, CA |  | 2026-10-29 |  |
 | CommonSpirit Health (St. Luke's Health) | [Central Svs Tech](https://www.commonspirit.careers/job/bakersfield/central-svs-tech/35300/102561396464) | BAKERSFIELD, CA |  | 2026-10-29 |  |
 | CommonSpirit Health (St. Luke's Health) | [Certified Instrument Tech](https://www.commonspirit.careers/job/glendale/certified-instrument-tech/35300/102576372304) | GLENDALE, CA |  | 2026-10-29 |  |
@@ -78,7 +78,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | KLA | [Paradox Klara Go Live Test Req U.S.](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Paradox-Klara-Go-Live-Test-Req-US_2643122) | Milpitas, CA | $66,700 to $113,400 | 2026-10-29 |  |
 | Medtronic | [Global Trade Classification Specialist – HS, HTS & ECCN (Remote, USA)](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Global-Trade-Classification-Specialist---HS--HTS---ECCN--Remote--USA-_R79438-2) | Minneapolis, Minnesota, United States of America (remote) | $64,800 to $97,200 | 2026-10-29 |  |
 | Motorola Solutions | [NOC Dispatch Agent (Hybrid)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Service-Desk-Representative--Hybrid-_R70176-1) | Schaumburg, IL (hybrid) | $34,564.80 to $37,564.80 | 2026-10-29 | no visa sponsorship, US citizens/persons only, clearance |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/IN---Indianapolis/Family-Service-Advisor_Req168598) | IN - Indianapolis |  | 2026-10-29 |  |
 | Service Corporation International | [Interment Services Specialist I](https://sci.wd5.myworkdayjobs.com/SCI/job/PA---Huntingdon-Valley/Interment-Services-Specialist-I_Req168440) | PA - Huntingdon Valley |  | 2026-10-29 |  |
 | Tenet Healthcare | [CT Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603018395) | Memphis, TN, United States |  | 2026-10-29 |  |
 | University Health (San Antonio) | [Unit Clerk](https://careers.universityhealth.com/job/san-antonio/unit-clerk/43277/71422883360) | San Antonio, TX |  | 2026-10-29 |  |
@@ -143,7 +142,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Samsara | [(New Grad) Account Development Representative II - Phoenix](https://www.samsara.com/company/careers/roles/8325356?gh_jid=8325356) | Remote - AZ | $54,621 to $73,400 | 2026-10-27 |  |
 | Samsara | [(New Grad) Account Development Representative II - Phoenix](https://www.samsara.com/company/careers/roles/8325054?gh_jid=8325054) | Phoenix, Arizona, United States (hybrid) | $54,621 to $73,400 | 2026-10-27 |  |
 | Tenet Healthcare | [CV Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603026505) | Worcester, MA, United States |  | 2026-10-27 |  |
-| UCAR / NCAR | [2027 NSF SOARS First-Year Protege](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/XMLNAME-2027-NSF-SOARS-First-Year-Protege_REQ-2026-208-1) | Boulder, CO | $936.40/week | 2026-10-27 | no visa sponsorship, US citizens/persons only |
 | UnitedHealth Group | [Epic Trainer](https://careers.unitedhealthgroup.com/job/farmington/epic-trainer/34088/102473025984) | Farmington, Connecticut | $72,800 to $130,000 | 2026-10-27 |  |
 | Worley | [Graduate Project Controls](https://jobs.worley.com/careers/job/1133916526320) | Reading, PA, US |  | 2026-10-27 |  |
 | Argonne National Laboratory | [Margaret Butler Fellowship – Argonne Scholar](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Margaret-Butler-Fellowship---Argonne-Scholar_423595) | Lemont, IL USA (hybrid) | $85,781 to $142,968 | 2026-10-26 |  |
@@ -162,7 +160,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lowe's | [Services Solutions Expediter](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Services-Solutions-Expediter_JR-02679748-1) | Mooresville, NC (SSC) 1999 (remote) | $17.73 to $29.61/hour | 2026-10-24 |  |
 | Medtronic | [Shipping/Receiving Clerk II](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Salt-Lake-City-Utah-United-States-of-America/Shipping-Receiving-Clerk-II_R79430) | Salt Lake City, Utah, United States of America | $42,000 to $63,000 | 2026-10-24 |  |
 | Prairie View A&M University | [Contracts Specialist I](https://tamus.wd1.myworkdayjobs.com/PVAMU_External/job/Prairie-View-TX/Contracts-Specialist-I_R-096913) | Prairie View, TX |  | 2026-10-24 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Gotha/Family-Service-Advisor_Req168416) | FL - Gotha | $50,000 to $150,000 | 2026-10-24 |  |
 | Stewart Information Services | [Quality Review Specialist I (MCS)](https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX---Remote/Quality-Review-Specialist-I--MCS-_JR108616-1) | USA TX - Remote |  | 2026-10-24 |  |
 | Tenet Healthcare | [Central Dispatch Clerk](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603014014) | Memphis, TN, United States |  | 2026-10-24 |  |
 | Texas A&M International University | [Registrar Services Specialist I](https://tamus.wd1.myworkdayjobs.com/TAMIU_External/job/Laredo-TX/Registrar-Services-Specialist-I_R-098281-1) | Laredo, TX | $17.54/hour | 2026-10-24 |  |
@@ -181,7 +178,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CommonSpirit Health (St. Luke's Health) | [ED Tech](https://www.commonspirit.careers/job/roseburg/ed-tech/35300/102298850416) | ROSEBURG, OR |  | 2026-10-23 |  |
 | CommonSpirit Health (St. Luke's Health) | [Ultrasound Tech I](https://www.commonspirit.careers/job/stockton/ultrasound-tech-i/35300/102308049280) | STOCKTON, CA |  | 2026-10-23 |  |
 | CommonSpirit Health (St. Luke's Health) | [Ultrasound Tech I](https://www.commonspirit.careers/job/stockton/ultrasound-tech-i/35300/102308049312) | STOCKTON, CA |  | 2026-10-23 |  |
-| CommonSpirit Health (St. Luke's Health) | [ER Tech](https://www.commonspirit.careers/job/tacoma/er-tech/35300/102303478224) | TACOMA, WA |  | 2026-10-23 |  |
 | CommonSpirit Health (St. Luke's Health) | [Rehab Aide](https://www.commonspirit.careers/job/tacoma/rehab-aide/35300/102313727408) | TACOMA, WA |  | 2026-10-23 |  |
 | Continental | [Uniformity Clerk (UNE)- Illinois](https://jobs.smartrecruiters.com/Continental/744000157203856--uniformity-clerk-une-illinois) | Mount Vernon, IL, us | $22.22/hour | 2026-10-23 |  |
 | Etsy | [HRBP Specialist](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/HRBP-Specialist_JR6045-1) | Brooklyn, New York |  | 2026-10-23 |  |
@@ -189,11 +185,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | GEICO | [Auto Damage Trainee (Field)](https://geico.wd1.myworkdayjobs.com/External/job/Remote-United-States/Auto-Damage-Trainee--Field-_R0066463) | Remote (United States) | $27.98 to $43.75/hour | 2026-10-23 | no visa sponsorship |
 | GEICO | [Auto Damage Trainee (Field)](https://geico.wd1.myworkdayjobs.com/External/job/Philadelphia-PA/Auto-Damage-Trainee--Field-_R0066462) | Philadelphia, PA | $30.53 to $47.31/hour | 2026-10-23 | no visa sponsorship |
 | GEICO | [Auto Damage Trainee (Field)](https://geico.wd1.myworkdayjobs.com/External/job/Chicago-IL/Auto-Damage-Trainee--Field-_R0066471) | Chicago, IL | $30.53 to $47.31/hour | 2026-10-23 | no visa sponsorship |
-| ICF | [Energy and Climate Researcher (Entry Level, Summer 2027, Hybrid)](https://careers.icf.com/us/en/job/R2603617) · Summer 2027 | Arlington, Virginia, United States of America (hybrid) | $60,000 to $103,643 | 2026-10-23 |  |
+| ICF | [Energy and Climate Researcher (Entry Level, Summer 2027, Hybrid)](https://careers.icf.com/us/en/job/R2603617) · Summer 2027 | Arlington, Virginia, United States of America (hybrid) | $60,000 to $103,643 | 2026-10-23 | no visa sponsorship |
 | Memorial Hermann | [Sterile Process Tech II - FT, Weekends](https://jobs.memorialhermann.org/us/en/job/100188519) | The Woodlands, Texas, United States of America |  | 2026-10-23 |  |
 | Memorial Hermann | [Sterile Process Tech II - FT, Nights](https://jobs.memorialhermann.org/us/en/job/100188523) | The Woodlands, Texas, United States of America |  | 2026-10-23 |  |
 | Memorial Hermann | [Sterile Processing Tech II - Full-Time](https://jobs.memorialhermann.org/us/en/job/100188522) | The Woodlands, Texas, United States of America |  | 2026-10-23 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/MD---Rockville/Family-Service-Advisor_Req168332) | MD - Rockville | $50,000 to $150,000 | 2026-10-23 |  |
 | Sony Pictures Entertainment | [Fire Marshal](https://www.sonypicturesjobs.com/job/culver-city/fire-marshal/22978/102298428272) | Culver City, California |  | 2026-10-23 |  |
 | SpaceX | [Technical Trainer, EHS (Starship)](https://boards.greenhouse.io/spacex/jobs/8907769002?gh_jid=8907769002) | Starbase, TX |  | 2026-10-23 | US citizens/persons only |
 | TD Bank | [Contact Center Rep. II - Bilingual Spanish Greenville, SC.](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Greenville-South-Carolina/Contact-Center-Rep-II---Bilingual-Spanish-Greenville--SC_R_1516593) | Greenville, South Carolina |  | 2026-10-23 | no visa sponsorship |
@@ -206,7 +201,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Aflac | [Customer Care Specialist (Hybrid; Must Reside in Connecticut)](https://careers.aflac.com/job/Windsor-Customer-Care-Specialist-%28Hybrid-Must-Reside-in-Connecticut%29-CT-06095/1442172900/) | Remote, OR, US (hybrid) | $37,440 to $51,500 | 2026-10-22 |  |
 | Baylor Scott & White Health | [Access Services Representative I - PRN, Days (5a-7p)](https://jobs.bswhealth.com/us/en/job/26019607) | Mckinney, Texas, United States |  | 2026-10-22 |  |
 | BD | [Inventory Control Clerk](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Four-Oaks/Inventory-Control-Clerk_R-558043) | USA NC - Four Oaks |  | 2026-10-22 |  |
-| Chevron | [Field Specialist A](https://careers.chevron.com/job/carlsbad/field-specialist-a/38138/102245732960) | Carlsbad, New Mexico |  | 2026-10-22 |  |
+| Chevron | [Field Specialist A](https://careers.chevron.com/job/carlsbad/field-specialist-a/38138/102245732960) | Carlsbad, New Mexico |  | 2026-10-22 | no visa sponsorship |
 | Chevron | [Field Specialist](https://careers.chevron.com/job/carlsbad/field-specialist/38138/102254955280) | Carlsbad, New Mexico |  | 2026-10-22 |  |
 | CommonSpirit Health (St. Luke's Health) | [CT Tech](https://www.commonspirit.careers/job/colorado-springs/ct-tech/35300/102261256080) | Colorado Springs, CO |  | 2026-10-22 |  |
 | CommonSpirit Health (St. Luke's Health) | [Instrument Tech](https://www.commonspirit.careers/job/san-bernardino/instrument-tech/35300/75789870192) | SAN BERNARDINO, CA |  | 2026-10-22 |  |
@@ -227,6 +222,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Texas A&M University | [Immigration Specialist I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Immigration-Specialist-I_R-098081-1) | College Station, TX |  | 2026-10-22 |  |
 | U.S. Bank | [Peak Time Teller - Denver Tower - Denver, CO (19 hrs)](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Denver-CO/Peak-Time-Teller---Denver-Tower---Denver--CO--19-hrs-_2026-0032937) | Denver, CO | $20.34 to $24.86/hour | 2026-10-22 |  |
 | UnitedHealth Group | [Epic Application Trainer](https://careers.unitedhealthgroup.com/job/redlands/epic-application-trainer/34088/102250547600) | Redlands, California | $24 to $43/hour | 2026-10-22 |  |
+| UnitedHealth Group | [Per-diem ASR II-The Woodlands](https://careers.unitedhealthgroup.com/job/shenandoah/per-diem-asr-ii-the-woodlands/34088/100780818464) | Shenandoah, Texas | $18 to $32/hour | 2026-10-22 |  |
 | University Health (San Antonio) | [Unit Clerk](https://careers.universityhealth.com/job/san-antonio/unit-clerk/43277/62597907216) | San Antonio, Texas |  | 2026-10-22 |  |
 | Baylor Scott & White Health | [Access Services Rep 1](https://jobs.bswhealth.com/us/en/job/26012598) | Irving, Texas, United States |  | 2026-10-22 |  |
 | Accenture | [Field Services Support Practitioner 6496751](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/TX---Houston/Field-Services-Support-Practitioner-6496751_14746210) | TX - Houston | $25 to $30/hour | 2026-10-22 |  |
@@ -242,7 +238,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Blue Origin | [Tube shop Tech Bender Level 1](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Huntsville-AL/Tube-shop-Tech-Bender-Level-1_R70524-1) | Huntsville, AL |  | 2026-10-21 | US citizens/persons only |
 | BNSF Railway | [Dispatcher Trainee (Fort Worth, TX)](https://jobs.bnsf.com/us/en/job/96114) | Fort Worth, TX, United States | $202.53/hour | 2026-10-21 |  |
 | Carvana | [Auto Wheel Repair Specialist - (2nd Shift - 4/10 Schedule)](https://www.carvana.com/careers/apply?gh_jid=8303409) | Framingham, MA | $23 to $27/hour | 2026-10-21 | no visa sponsorship |
-| Centene | [Retention Representative](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-NY/Retention-Representative_1656294) | Remote-NY | $15.87 to $27.25/hour | 2026-10-21 |  |
+| Centene | [Retention Representative](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-NY/Retention-Representative_1656294) | Remote-NY | $15.87 to $27.25/hour | 2026-10-21 | no visa sponsorship |
 | CommonSpirit Health (St. Luke's Health) | [Sterile Processing Tech II](https://www.commonspirit.careers/job/houston/sterile-processing-tech-ii/35300/102205309248) | HOUSTON, TX |  | 2026-10-21 |  |
 | CommonSpirit Health (St. Luke's Health) | [Sterile Processing Tech II](https://www.commonspirit.careers/job/houston/sterile-processing-tech-ii/35300/102205309312) | HOUSTON, TX |  | 2026-10-21 |  |
 | CommonSpirit Health (St. Luke's Health) | [HIM Specialist](https://www.commonspirit.careers/job/prescott/him-specialist/35300/99134901392) | PRESCOTT, AZ |  | 2026-10-21 |  |
@@ -283,7 +279,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CommonSpirit Health (St. Luke's Health) | [LVN/LPT Psych Acute](https://www.commonspirit.careers/job/san-bernardino/lvn-lpt-psych-acute/35300/101270756800) | SAN BERNARDINO, CA |  | 2026-10-20 |  |
 | GEICO | [Auto Damage Trainee](https://geico.wd1.myworkdayjobs.com/External/job/Richardson-TX/Auto-Damage-Trainee_R0066419) | Richardson, TX | $30.53/hour | 2026-10-20 |  |
 | GEICO | [Auto Damage Trainee (Field)](https://geico.wd1.myworkdayjobs.com/External/job/New-York-City-NY/Auto-Damage-Trainee--Field-_R0066327) | New York City, NY | $32.05 to $50.36/hour | 2026-10-20 | no visa sponsorship |
-| ICF | [Environmental Modeler](https://careers.icf.com/us/en/job/R2603580) | Reston, Virginia, United States of America | $67,355 to $114,503 | 2026-10-20 |  |
+| ICF | [Environmental Modeler](https://careers.icf.com/us/en/job/R2603580) | Reston, Virginia, United States of America | $67,355 to $114,503 | 2026-10-20 | no visa sponsorship |
 | Kodiak Gas Services | [Inventory Specialist, Entry](https://kodiakgas.wd12.myworkdayjobs.com/KodiakGasCareers/job/NM---Carlsbad/Inventory-Specialist--Entry_JR3863) | NM - Carlsbad |  | 2026-10-20 |  |
 | Medtronic | [Global Trade Classification Specialist – HS, HTS & ECCN](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Global-Trade-Analyst---Product-Classification_R75166-1) | Minneapolis, Minnesota, United States of America | $64,800 to $97,200 | 2026-10-20 |  |
 | Methodist Health System | [Care Transition Navigator Sal](https://methodisthealthsystem.wd1.myworkdayjobs.com/MHS_Careers/job/Midlothian-Texas/Care-Transition-Navigator-Sal_JR1000039320) | Midlothian, Texas |  | 2026-10-20 |  |
@@ -293,9 +289,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Prosperity Bank | [Teller I (Full Time) - Elgin](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604164&lang=en_US) | Elgin, Elgin, TX, US |  | 2026-10-20 |  |
 | Prosperity Bank | [Teller (Part Time) - Liberty](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604124&lang=en_US) | LIBERTY, Liberty, TX, US |  | 2026-10-20 |  |
 | Service Corporation International | [Interment Services Specialist I](https://sci.wd5.myworkdayjobs.com/SCI/job/DE---New-Castle/Interment-Services-Specialist-I_Req168068) | DE - New Castle |  | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Orlando/Family-Service-Advisor_Req168146-1) | FL - Orlando | $50,000 to $150,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Orlando/Family-Service-Advisor_Req168149) | FL - Orlando | $50,000 to $150,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Orlando/Family-Service-Advisor_Req168144-1) | FL - Orlando | $50,000 to $150,000 | 2026-10-20 |  |
 | Sharp HealthCare | [EKG Tech II - Cardiology - Sharp Rees-Stealy - Days - Full Time](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/EKG-Tech-II---Cardiology---Sharp-Rees-Stealy---Days---Full-Time_JR210570) | San Diego, CA | $26.32 to $36.83/hour | 2026-10-20 |  |
 | TD Bank | [Teller I - 20 hours - East Springfield](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Springfield-Massachusetts/Teller-I---20-hours---East-Springfield_R_1517377) | Springfield, Massachusetts | $21.50 to $26.75/hour | 2026-10-20 |  |
 | Thrive Market | [CRM Specialist](https://thrivemarketjobs.com/job_posting.html?id=4457972009&gh_jid=4457972009) | Remote | $60,000 to $75,000 | 2026-10-20 |  |
@@ -396,7 +389,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | H-E-B | [Custodial Specialist I](https://careers.heb.com/careers-home/jobs/247323) | San Antonio, Texas |  | 2026-10-20 |  |
 | Hyundai Motor America | [Transfer2026 - 25 Production Control One Kit Fixed 3rd - Plant Wide](https://careers-americas.hyundai.com/hmma/job/Montgomery-Transfer2026-25-Production-Control-One-Kit-Fixed-3rd-Plant-Wide-AL-36101/1439465700/) | Montgomery, AL, US |  | 2026-10-20 |  |
 | Polaris | [Process Tech I - Liquid Paint](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Huntsville-AL-USA/Process-Tech-I---Liquid-Paint_R31553-1) | Huntsville, AL, USA | $24.66 to $29.47/hour | 2026-10-20 | no visa sponsorship |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---St-Petersburg/Family-Service-Advisor_Req168017) | FL - St. Petersburg | $50,000 to $150,000 | 2026-10-20 |  |
 | UnitedHealth Group | [Provider Relations Advocate - Remote in Massachusetts](https://careers.unitedhealthgroup.com/job/boston/provider-relations-advocate-remote-in-massachusetts/34088/101927208976) | Boston, Massachusetts (remote) | $60,200 to $107,400 | 2026-10-20 |  |
 | Waste Connections | [Diesel PM Tech](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/2011-OPF-Main-Ofc/Preventative-Maintenance-Technician_R-103358) | 2011-OPF Main Ofc | $27 to $30/hour | 2026-10-20 |  |
 | Baylor Scott & White Health | [Access Services Rep 1 - Nights](https://jobs.bswhealth.com/us/en/job/26018989) | Mckinney, Texas, United States |  | 2026-10-20 |  |
@@ -408,15 +400,14 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CommonSpirit Health (St. Luke's Health) | [ED Tech](https://www.commonspirit.careers/job/redding/ed-tech/35300/101875126272) | REDDING, CA |  | 2026-10-20 |  |
 | Expand Energy | [Roughneck](https://jobs.expandenergy.com/job/Mansfield-Roughneck-LA-71052-4692/1280811700/) | Mansfield, LA, US |  | 2026-10-20 |  |
 | Fidelity Investments | [Security Representative](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Security-Representative_2127914) | Boston, MA | $48,000 to $91,000 | 2026-10-20 | no visa sponsorship |
-| GM | [Entry Level - Researcher - System Safety](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Researcher---System-Safety_JR-202621823) | Warren, Michigan, United States of America |  | 2026-10-20 | US citizens/persons only |
-| GM | [Entry-Level – Researcher, Aftertreatment Catalysis](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Researcher--Aftertreatment-Catalysis_JR-202621814) | Warren, Michigan, United States of America |  | 2026-10-20 | US citizens/persons only |
+| GM | [Entry Level - Researcher - System Safety](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Researcher---System-Safety_JR-202621823) | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship, US citizens/persons only |
+| GM | [Entry-Level – Researcher, Aftertreatment Catalysis](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Researcher--Aftertreatment-Catalysis_JR-202621814) | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship, US citizens/persons only |
 | Harris Health | [Sterile Processing Tech II - Central Sterile Processing - Full-Time - LBJ](https://jobs.harrishealth.org/sterile-processing-tech-ii-central-sterile-processing-full-time-lbj/job/76A56A45C059350CC215FA5E79D34C7B) | Houston, TX, US |  | 2026-10-20 |  |
 | Harris Health | [Supplemental Porter- LBJ Hospital](https://jobs.harrishealth.org/supplemental-porter-lbj-hospital/job/CC633B6A9666AC67DFD68732CBA0E5CC) | Houston, TX, US |  | 2026-10-20 |  |
 | Harris Health | [Sterile Processing Tech I - Central Sterile Processing - Full-Time - LBJ - Day](https://jobs.harrishealth.org/sterile-processing-tech-i-central-sterile-processing-full-time-lbj-day/job/F86D7AB0E27ED9FB27E59353E6D32E23) | Houston, TX, US |  | 2026-10-20 |  |
 | Hyundai Motor America | [HRD/Learning and Development Professional I](https://careers-americas.hyundai.com/hatci/job/superior-township-HRDLearning-and-Development-Professional-I-MI-48198/1439281600/) | superior township, MI, US |  | 2026-10-20 |  |
 | Kiewit | [Safety Specialist - South Central District (Entry Level)](https://kiewitcareers.kiewit.com/job/Westlake-Safety-Specialist-South-Central-District-%28Entry-Level%29-TX/1439048100/) | Jackson, MS, US |  | 2026-10-20 |  |
 | NBCUniversal | [EHS Specialist](https://jobs.smartrecruiters.com/NBCUniversal3/744000155103029-ehs-specialist) | Universal City, CALIFORNIA, us | $65,000 to $85,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Englewood/Family-Service-Advisor_Req167963) | FL - Englewood | $50,000 to $150,000 | 2026-10-20 |  |
 | Sharp HealthCare | [LVN - Hospice Homes - Days - Full Time](https://sharp.wd1.myworkdayjobs.com/External/job/Bonita-Home---3850-Valley-Vista-Road/LVN---Hospice-Homes---Days---Full-Time_JR208556-1) | Bonita Home - 3850 Valley Vista Road | $31.35 to $43.89/hour | 2026-10-20 |  |
 | Sharp HealthCare | [Imaging Specialist I - Mammography - Sharp Rees-Stealy Santee - Evening Shift - Full Time](https://sharp.wd1.myworkdayjobs.com/External/job/Santee-CA/Imaging-Specialist-I---Mammography---Sharp-Rees-Stealy-Santee---Evening-Shift---Full-Time_JR209303) | Santee, CA | $47.60 to $68.81/hour | 2026-10-20 |  |
 | Sharp HealthCare | [Chaplain - Sharp Chula Vista - Variable Shift - Full Time](https://sharp.wd1.myworkdayjobs.com/External/job/Chula-Vista-CA/Chaplain---Sharp-Chula-Vista---Variable-Shift---Full-Time_JR207878) | Chula Vista, CA | $38.02 to $54.95/hour | 2026-10-20 |  |
@@ -438,7 +429,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Formosa Plastics USA | [PRODUCT SPECIALIST I](https://jobs.dayforcehcm.com/en-US/fpcusa/CANDIDATEPORTAL/jobs/10612) | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA |  | 2026-10-20 |  |
 | Memorial Hermann | [Supp. Sterile Process Tech II - Sugar Land](https://jobs.memorialhermann.org/us/en/job/100186947) | Sugar Land, Texas, United States of America |  | 2026-10-20 |  |
 | NOV | [Shop Foreman](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/44957) | Mills, WY, United States |  | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Pensacola/Family-Service-Advisor_Req167905) | FL - Pensacola | $50,000 to $150,000 | 2026-10-20 |  |
 | Caterpillar | [R0000384349 Patternmaker- 2nd Shift Mapleton Cast Metal Org. (CMO)](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mapleton-Illinois/R0000384349-Patternmaker--2nd-Shift-Mapleton-Cast-Metal-Org--CMO-_R0000386638) | Mapleton, Illinois | $26.68 to $39.44/hour | 2026-10-20 |  |
 | Chipotle | [Specialist, Customer Incident](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/8890---500-Neil-Ave/Specialist--Customer-Incident_JR-2026-01406560) | 8890 - 500 Neil Ave | $22.59 to $28.37/hour | 2026-10-20 |  |
 | CommonSpirit Health (St. Luke's Health) | [CT Tech](https://www.commonspirit.careers/job/colorado-springs/ct-tech/35300/101704330112) | Colorado Springs, CO |  | 2026-10-20 |  |
@@ -477,7 +467,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Fox Corporation | [Freelance Makeup Artist](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Freelance-Makeup-Artist_R50034049) | New York, New York, USA | $45 to $55/hour | 2026-10-20 |  |
 | GEICO | [Auto Damage Trainee (Field)](https://geico.wd1.myworkdayjobs.com/External/job/Midland-TX/Auto-Damage-Trainee--Field-_R0066132) | Midland, TX | $30.53 to $47.31/hour | 2026-10-20 | no visa sponsorship |
 | ICF | [Field Archaeologist - On-Call (Northern California)](https://careers.icf.com/us/en/job/R2602840) | Sacramento, California, United States of America | $50,386 to $103,643 | 2026-10-20 |  |
-| Plains All American | [Utility Line Locator I](https://plains.wd1.myworkdayjobs.com/Plains/job/Hobbs-NM/Utility-Line-Locator-I_R0015097-2) | Hobbs, NM |  | 2026-10-20 |  |
+| Plains All American | [Utility Line Locator I](https://plains.wd1.myworkdayjobs.com/Plains/job/Hobbs-NM/Utility-Line-Locator-I_R0015097-2) | Hobbs, NM |  | 2026-10-20 | no visa sponsorship |
 | Waste Connections | [CDL Trainee in Juneau AK](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/2436-Alaska-Juneau/CDL-Trainee-in-Juneau-AK_R-102283) | 2436-Alaska Juneau | $25 to $27/hour | 2026-10-20 |  |
 | Westlake | [HSE Specialist](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Lake-Wales-FL/HSE-Specialist_R33818) | US - Lake Wales, FL |  | 2026-10-20 |  |
 | Zachry Group | [Helper 2](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15276) | Woods Cross, UT, United States |  | 2026-10-20 |  |
@@ -495,7 +485,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | M&T Bank | [Teller Part Time 25 hours](https://mtb.wd5.myworkdayjobs.com/MTB/job/Greencastle-PA/Teller-Part-Time--25-hours_R90900-1) | Greencastle, PA | $18 to $26.21/hour | 2026-10-20 |  |
 | Primoris | [Fiber Splicer - Houston, TX](https://prim.wd108.myworkdayjobs.com/Primoris/job/Houston-TX/Fiber-Splicer---Houston--TX_JR102210) | Houston, TX |  | 2026-10-20 |  |
 | Quanta Services | [Safety and Training Advisor](https://careers-quanta.icims.com/jobs/18974/safety-and-training-advisor/job) | Vacaville, CA | $45 to $50/hour | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Sarasota/Family-Service-Advisor_Req167729) | FL - Sarasota | $50,000 to $150,000 | 2026-10-20 |  |
 | Bank of America | [Preferred - Deposits 2nd Shift](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Worth/Preferred---Deposits-2nd-Shift_26036165) | Fort Worth |  | 2026-10-20 |  |
 | Baylor Scott & White Health | [Chaplain 1 (PRN)](https://jobs.bswhealth.com/us/en/job/26017513) | College Station, Texas, United States |  | 2026-10-20 |  |
 | Clear Channel Outdoor | [Regional Sign Inspector](https://clearchanneloutdoor.wd5.myworkdayjobs.com/CCO/job/Chicago-IL-1032-West-43rd-St-Unit-D-60609/Regional-Sign-Inspector_Req23848) | Chicago, IL (1032 West 43rd St., Unit D, 60609) | $28 to $30/hour | 2026-10-20 |  |
@@ -577,10 +566,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | MKS Instruments | [Production Tech 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Andover-MA/Production-Tech-2_R20688) | Andover, MA | $18.89 to $31.40/hour | 2026-10-20 | US citizens/persons only |
 | Motorola Solutions | [Field Service Representative (FSR) I - III](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Georgia-Remote-Work/Field-Service-Representative--FSR--I---III_R65154) | Georgia Remote Work | $71,000 to $100,000 | 2026-10-20 | US citizens/persons only |
 | Prosperity Bank | [Teller (Full Time) - McKinney Redbud](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=603449&lang=en_US) | McKinney, TX, US |  | 2026-10-20 |  |
-| Charter Communications | [Accounts Payable Specialist](https://jobs.spectrum.com/job/st-louis/accounts-payable-specialist/4673/99047230720) | Saint Louis, Missouri |  | 2026-10-20 |  |
+| Charter Communications | [Accounts Payable Specialist](https://jobs.spectrum.com/job/st-louis/accounts-payable-specialist/4673/99047230720) | Saint Louis, Missouri |  | 2026-10-20 | no visa sponsorship |
 | Formosa Plastics USA | [PRODUCT STEWARDSHIP SPECIALIST](https://jobs.dayforcehcm.com/en-US/fpcusa/CANDIDATEPORTAL/jobs/10542) | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA |  | 2026-10-20 |  |
 | M&T Bank | [Teller Part Time - 25 hours](https://mtb.wd5.myworkdayjobs.com/MTB/job/Spring-Grove-PA/Teller_R89866) | Spring Grove, PA | $18 to $26.21/hour | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/MS---Jackson/Family-Service-Advisor_Req167474) | MS - Jackson | $50,000 to $150,000 | 2026-10-20 |  |
 | UnitedHealth Group | [LMSW Hospice PRN](https://careers.unitedhealthgroup.com/job/bryant/lmsw-hospice-prn/34088/101148840704) | Bryant, Arkansas | $28.75 to $43.10/hour | 2026-10-20 |  |
 | Baylor Scott & White Health | [CRNA Temple Memorial](https://jobs.bswhealth.com/us/en/job/25004979) | Temple, Texas, United States |  | 2026-10-20 |  |
 | Baylor Scott & White Health | [CRNA Waco Hillcrest- OB 24/Shift](https://jobs.bswhealth.com/us/en/job/26016526) | Waco, Texas, United States |  | 2026-10-20 |  |
@@ -609,8 +597,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of Hope | [Catering Service Worker - Part time, EveningsOC](https://www.cityofhopejobs.org/job/12101/catering-service-worker-part-time-eveningsoc-food-services-us-ca-irvine/) | Irvine, CA, US |  | 2026-10-20 |  |
 | M&T Bank | [Teller Part Time 25 hours](https://mtb.wd5.myworkdayjobs.com/MTB/job/Manchester-PA/Teller-Part-Time-25-hours_R90491) | Manchester, PA | $18 to $26.21/hour | 2026-10-20 |  |
 | Primoris | [Splicer](https://prim.wd108.myworkdayjobs.com/Primoris/job/Austin-TX/Splicer_JR101446) | Austin, TX |  | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/AL---Northport/Family-Service-Advisor_Req167172) | AL - Northport | $50,000 to $150,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/AL---Northport/Family-Service-Advisor_Req167171) | AL - Northport |  | 2026-10-20 |  |
 | Tenet Healthcare | [CT Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603022094) | San Antonio, TX, United States |  | 2026-10-20 |  |
 | Tenet Healthcare | [Vascular Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603023531) | Brownsville, TX, United States |  | 2026-10-20 |  |
 | Texas A&M International University | [Task Worker I (Athletics)](https://tamus.wd1.myworkdayjobs.com/TAMIU_External/job/Laredo-TX/Task-Worker-I--Athletics-_R-097334) | Laredo, TX | $20/hour | 2026-10-20 |  |
@@ -646,18 +632,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Primoris | [Rodbuster / Primoris Energy Services / 24005 Rayburn](https://prim.wd108.myworkdayjobs.com/Primoris/job/Sherman-TX/Rodbuster---Primoris-Energy-Services---24005-Rayburn_JR101057) | Sherman, TX |  | 2026-10-20 |  |
 | Rady Children's Health Orange County (CHOC) | [Interpreter/Translator, Spanish (Per Diem)](https://rch.wd108.myworkdayjobs.com/Careers/job/Main-Campus---Orange/Interpreter-Translator--Spanish--Per-Diem-Evenings-_R-31856-1) | Main Campus - Orange | $29 to $30/hour | 2026-10-20 |  |
 | RELX | [Delaware Courts Reporter](https://relx.wd3.myworkdayjobs.com/relx/job/Delaware/Delaware-Courts-Reporter_R117154-2) | Delaware | $77,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/MS---Jackson/Family-Service-Advisor_Req166824) | MS - Jackson | $50,000 to $150,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Rockledge/Family-Service-Advisor_Req166785) | FL - Rockledge | $50,000 to $150,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Rockledge/Family-Service-Advisor_Req166778) | FL - Rockledge | $50,000 to $150,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Rockledge/Family-Service-Advisor_Req166777) | FL - Rockledge | $50,000 to $150,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Rockledge/Family-Service-Advisor_Req166775-1) | FL - Rockledge | $50,000 to $150,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Palm-Bay/Family-Service-Advisor_Req165433) | FL - Palm Bay | $50,000 to $150,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Palm-Bay/Family-Service-Advisor_Req165431) | FL - Palm Bay | $50,000 to $150,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/CO---Thornton/Family-Service-Advisor_Req165702) | CO - Thornton | $50,000 to $100,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/MN---Minneapolis/Family-Service-Advisor_Req163308) | MN - Minneapolis | $50,000 to $100,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/VA---Falls-Church/Family-Service-Advisor_Req162581) | VA - Falls Church | $50,000 to $150,000 | 2026-10-20 |  |
 | Service Corporation International | [Family Service Advisor](https://sci.wd5.myworkdayjobs.com/SCI/job/MI---Clinton-Township/Family-Service-Advisor_Req162482) | MI - Clinton Township | $50,000 to $100,000 | 2026-10-20 |  |
-| Service Corporation International | [Family Care Specialist](https://sci.wd5.myworkdayjobs.com/SCI/job/KY---Shepherdsville/Family-Service-Advisor_Req156413) | KY - Shepherdsville | $50,000 to $100,000 | 2026-10-20 |  |
 | Service Corporation International | [General Duty-Transitional](https://sci.wd5.myworkdayjobs.com/SCI/job/PR---San-Juan/General-Duty-Transitional_Req154378-1) | PR - San Juan |  | 2026-10-20 |  |
 | Shriners Children's | [Certified Prosthetist / Orthotist](https://shrinerschildrens.wd12.myworkdayjobs.com/Shriners/job/Sacramento-CA/Prosthetist---Orthotist--Certified-_JR100194-1) | Sacramento, CA | $48.70 to $73.05/hour | 2026-10-20 |  |
 | Shriners Children's | [Child Life Specialist](https://shrinerschildrens.wd12.myworkdayjobs.com/Shriners/job/Shreveport-LA/Child-Life-Specialist_JR100279-1) | Shreveport, LA |  | 2026-10-20 |  |
@@ -744,7 +719,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Samsara | [(New Grad) Account Development Representative II - Atlanta](https://www.samsara.com/company/careers/roles/8094373?gh_jid=8094373) | Atlanta, Georgia, United States (hybrid) | $54,621 to $73,440 | 2026-10-20 |  |
 | Samsara | [(New Grad) Account Development Representative II - Phoenix](https://www.samsara.com/company/careers/roles/8094371?gh_jid=8094371) | Phoenix, Arizona, United States (hybrid) | $54,621 to $73,400 | 2026-10-20 |  |
 | Tenet Healthcare | [IR Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2403008289) | Goodyear, AZ, United States |  | 2026-10-20 |  |
-| Bosch | [Receiving Clerk](https://jobs.smartrecruiters.com/BoschGroup/744000144599039-receiving-clerk) | Lincolnshire, IL, us | $20 to $23/hour | 2026-10-20 |  |
+| Bosch | [Receiving Clerk](https://jobs.smartrecruiters.com/BoschGroup/744000144599039-receiving-clerk) | Lincolnshire, IL, us | $20 to $23/hour | 2026-10-20 | no visa sponsorship |
 | Intuitive Surgical | [IQC Inspector 1](https://jobs.smartrecruiters.com/Intuitive/744000144487540-iqc-inspector-1) | Gilroy, CA, us |  | 2026-10-20 |  |
 | Intuitive Surgical | [IQC Inspector 1 - Swing Shift](https://jobs.smartrecruiters.com/Intuitive/744000144489649-iqc-inspector-1-swing-shift) | Gilroy, CA, us |  | 2026-10-20 |  |
 | Intuitive Surgical | [IQC Inspector 1](https://jobs.smartrecruiters.com/Intuitive/744000144489429-iqc-inspector-1) | Gilroy, CA, us |  | 2026-10-20 |  |
@@ -756,3 +731,28 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Prosperity Bank | [Teller (Part Time) - Slaton](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=602055&lang=en_US) | Slaton, Slaton, TX, US |  | 2026-10-20 |  |
 | Zachry Group | [Carpenter II](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15325) | Baytown, TX, United States |  | 2026-10-20 |  |
 | CommonSpirit Health (St. Luke's Health) | [EEG Tech](https://www.commonspirit.careers/job/omaha/eeg-tech/35300/99166768688) | OMAHA, NE |  | 2026-10-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [Multi-Modality Tech Weekend Option](https://www.commonspirit.careers/job/westminster/multi-modality-tech-weekend-option/35300/99190714048) | Westminster, CO |  | 2026-10-20 |  |
+| Nabors | [NORTH DAKOTA DRILLER I](https://jobs.nabors.com/en/sites/nabors-careers/job/1001451) | Williston, ND, United States |  | 2026-10-20 |  |
+| Quanta Services | [Field Safety Specialist](https://careers-quanta.icims.com/jobs/17627/field-safety-specialist/job) | King of Prussia, PA |  | 2026-10-20 |  |
+| Quanta Services | [Field Safety Specialist](https://careers-quanta.icims.com/jobs/17629/field-safety-specialist/job) | UNAVAILABLE, OH |  | 2026-10-20 |  |
+| Baylor Scott & White Health | [Police Dispatcher](https://jobs.bswhealth.com/us/en/job/26003694) | Dallas, Texas, United States |  | 2026-10-20 |  |
+| Carvana | [Block Clerk - Part Time on Thursdays](https://www.carvana.com/careers/apply?gh_jid=8122639) | Boise, ID | $18 to $19/hour | 2026-10-20 | no visa sponsorship |
+| UnitedHealth Group | [Per Diem Registration Representative](https://careers.unitedhealthgroup.com/job/portland/per-diem-registration-representative/34088/99080926064) | Portland, Maine | $16 to $29/hour | 2026-10-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [Multi Modality Tech](https://www.commonspirit.careers/job/durango/multi-modality-tech/35300/99038019904) | Durango, CO |  | 2026-10-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [Monitor Tech](https://www.commonspirit.careers/job/lufkin/monitor-tech/35300/99042742464) | LUFKIN, TX |  | 2026-10-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [SURGICAL TECH II](https://www.commonspirit.careers/job/arroyo-grande/surgical-tech-ii/35300/98898131152) | ARROYO GRANDE, CA |  | 2026-10-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [Endoscopy Tech](https://www.commonspirit.careers/job/tacoma/endoscopy-tech/35300/98864174080) | TACOMA, WA |  | 2026-10-20 |  |
+| Rady Children's Health San Diego | [EEG Tech I - Electroencephalogram](https://jobs.rchsd.org/job/san-diego/eeg-tech-i-electroencephalogram/1717/98882295872) | San Diego, California | $40.62 to $56.51/hour | 2026-10-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [CT Tech](https://www.commonspirit.careers/job/san-bernardino/ct-tech/35300/98806208032) | SAN BERNARDINO, CA |  | 2026-10-20 |  |
+| Nabors | [ALASKA ROUSTABOUT](https://jobs.nabors.com/en/sites/nabors-careers/job/1001668) | AK, United States |  | 2026-10-20 |  |
+| Tenet Healthcare | [Mammo Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603018852) | Rock Hill, SC, United States |  | 2026-10-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [Sterile Processing Tech I](https://www.commonspirit.careers/job/pasadena/sterile-processing-tech-i/35300/93197447600) | Pasadena, TX |  | 2026-10-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [SURGICAL TECH II](https://www.commonspirit.careers/job/santa-maria/surgical-tech-ii/35300/98706630544) | SANTA MARIA, CA |  | 2026-10-20 |  |
+| Tenet Healthcare | [CV Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603006011) | Framingham, MA, United States |  | 2026-10-20 |  |
+| Christus Health | [Coding Quality Specialist I - Coding](https://careers.christushealth.org/opportunity/coding-quality-specialist-i-coding-375909) | Irving, TX, US |  | 2026-10-20 |  |
+| Texas Southern University | [Police Dispatcher](https://jobs.tsu.edu/postings/11624) | Houston, TX | $16.74 to $21.34/hour | 2026-10-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [Ultrasound Diagnostic Tech Stat](https://www.commonspirit.careers/job/prescott/ultrasound-diagnostic-tech-stat/35300/98488852256) | PRESCOTT, AZ |  | 2026-10-20 |  |
+| H-E-B | [Tire Tech](https://careers.heb.com/careers-home/jobs/226027) | Houston, Texas |  | 2026-10-20 |  |
+| Harris Health | [Sup Sterile Processing Tech II-PT (Ben Taub Hospital)](https://jobs.harrishealth.org/sup-sterile-processing-tech-ii-pt-ben-taub-hospital/job/1B2ED94191E07613575B84E583241E10) | Houston, TX, US |  | 2026-10-20 |  |
+| Carvana | [Block Clerk - Part Time Wednesdays](https://www.carvana.com/careers/apply?gh_jid=8092709) | Barnhart, MO | $17/hour | 2026-10-20 | no visa sponsorship |
+| CommonSpirit Health (St. Luke's Health) | [Multi-Modality Tech](https://www.commonspirit.careers/job/frisco/multi-modality-tech/35300/94534980640) | Frisco, CO |  | 2026-10-20 |  |

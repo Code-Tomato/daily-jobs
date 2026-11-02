@@ -3,12 +3,12 @@
 
 Usage: python3 jobs.py <command> [options]          (Python 3.9+, standard library only)
 
-  update [--force]          download the newest dataset (~25 MB) when there is one
+  update [--force]          download the newest dataset (~12 MB) when there is one
   status                    dataset date and counts, cache folder, workspace files
   search [filters]          postings that pass every filter, newest first (filters below; --count for the funnel)
-  show ID [ID ...]          each posting's facts and its eligibility excerpt (~1,800 chars; fetched on demand)
-  verdict ID --tier T --why TEXT [--gaps TEXT]     record your judgment (tier: strong, good, stretch, no)
-  verdict --file FILE       record many: one JSON object per line {"id", "tier", "why", "gaps"}
+  show ID [ID ...]          each posting's facts and its eligibility excerpt (~1,800 chars; fetched once over the network, then cached)
+  verdict ID --tier T --why TEXT [--gaps TEXT] [--score 0-100]   record your judgment (tier: strong, good, stretch, no)
+  verdict --file FILE       record many: one JSON object per line {"id", "tier", "why", "gaps", "score"}
   track ID STATUS [--note TEXT]   saved, applied, interviewing, offer, rejected, not-interested (or "clear")
   board [--open]            write the workspace's board.html and matches.md from the verdicts
   companies [REGEX]         companies in the data with posting counts and board status
@@ -19,15 +19,17 @@ Search filters (all optional, combined with AND; REGEX is case-insensitive; repe
   --title REGEX  --not-title REGEX  --company REGEX  --not-company REGEX  --category REGEX
   --location REGEX  --state TX,CA  --remote  --or-remote (a remote posting passes the location filters)
   --level intern,new-grad,entry,mid,senior,manager,unknown     --family software,data,hardware,... (see `status`)
+  --company/--title etc. take Python regexes; use \\b for word edges (--not-title "\\bsr\\b|\\blead\\b")
   --max-years N (stated minimum experience; postings that state none pass)   --degree hs|associate|bs|ms|phd (the person's
-  highest; postings that require more are dropped)   --term "summer 2027" (internship term; --strict-term drops unstated)
+  highest; postings that require more are dropped)   --term "summer 2027" (season and/or year; postings that state
+  no term pass unless --strict-term)
   --needs-sponsorship (drop no-sponsorship and citizens-only postings)   --no-citizen-only   --no-clearance
   --min-pay N (yearly; hourly x 2,080; --has-pay drops postings without pay)   --since DATE|Nd (first seen)   --posted-since DATE|Nd
   --unjudged (not in your verdicts)   --ids FILE (one id per line)
 Output: --limit N (default 60) | --all, --sort seen|posted|company|pay, --json (full rows), --ids-only, --count (funnel and breakdowns)
 
 Files: the dataset is cached in ~/.cache/daily-jobs ($DAILY_JOBS_CACHE). Your verdicts, statuses and board live in the
-workspace, ~/job-search ($JOBS_WORKSPACE or --workspace DIR). Data: https://github.com/Code-Tomato/daily-jobs ($DAILY_JOBS_REPO).
+workspace, ~/job-search ($JOBS_WORKSPACE, or --workspace DIR before or after the command). Data: https://github.com/Code-Tomato/daily-jobs ($DAILY_JOBS_REPO).
 """
 import gzip, html, json, os, re, shutil, sys, tempfile, time, urllib.error, urllib.request, webbrowser, zlib
 from collections import Counter
@@ -296,6 +298,17 @@ def _rx(vals, what):
         raise Fail(f"Bad {what} regex {vals}: {e}")
 
 
+def _season_year(text):
+    m = re.search(r"(summer|fall|autumn|spring|winter)", text or "", re.I)
+    y = re.search(r"(20\d\d)", text or "")
+    return (m.group(1).lower().replace("autumn", "fall") if m else None, y.group(1) if y else None)
+
+
+def _term_ok(want, have):
+    """Seasons must agree when both are known, and years too: "Fall" passes "fall 2027"; "Summer 2028" does not."""
+    return all(w is None or h is None or w == h for w, h in zip(want, have))
+
+
 def _csv(vals):
     return {x.strip().lower() for v in vals for x in v.split(",") if x.strip()}
 
@@ -349,8 +362,10 @@ def build_filters(args, ws):
             raise Fail(f"--degree takes one of {', '.join(order)}")
         f.append(("degree", lambda r: not r.get("degree") or order.index(r["degree"]) <= order.index(d)))
     if opt(args, "--term"):
-        t, strict = opt(args, "--term").lower(), flag(args, "--strict-term")
-        f.append(("term", lambda r: t in r["term"].lower() if r.get("term") else not strict))
+        want, strict = _season_year(opt(args, "--term")), flag(args, "--strict-term")
+        if want == (None, None):
+            raise Fail("--term takes a season and/or year, like \"summer 2027\" or \"fall\"")
+        f.append(("term", lambda r: _term_ok(want, _season_year(r["term"])) if r.get("term") else not strict))
     if flag(args, "--needs-sponsorship"):
         f.append(("sponsorship", lambda r: not r.get("no_sponsor") and not r.get("citizen")))
     elif flag(args, "--no-citizen-only"):
@@ -410,7 +425,8 @@ def line(r, v=None, s=None):
         bits.append(r["remote"])
     bits += flags_of(r)
     tail = f" | seen {r.get('seen') or '?'}" + (f" | YOU: {v['tier']}" if v else "") + (f" [{s['status']}]" if s else "") + (" | local" if r.get("local") else "")
-    return f"{r['id']}  {r['company']} | {r['title']} | {r.get('location') or '?'} | {', '.join(bits)}{tail}"
+    cut = lambda t, n: t if len(t) <= n else t[:n - 1] + "…"
+    return f"{r['id']}  {r['company']} | {cut(r['title'], 90)} | {cut(r.get('location') or '?', 45)} | {', '.join(bits)}{tail}"
 
 
 def search(args):
@@ -502,12 +518,18 @@ def verdict(args):
     else:
         if not positional(args):
             raise Fail("verdict ID --tier strong|good|stretch|no --why TEXT [--gaps TEXT], or verdict --file FILE")
-        items = [{"id": positional(args)[0], "tier": opt(args, "--tier"), "why": opt(args, "--why"), "gaps": opt(args, "--gaps")}]
+        items = [{"id": positional(args)[0], "tier": opt(args, "--tier"), "why": opt(args, "--why"), "gaps": opt(args, "--gaps"),
+                  "score": opt(args, "--score")}]
     for v in items:
         if v.get("tier") not in TIERS:
             raise Fail(f"{v.get('id')}: tier must be one of {', '.join(TIERS)}")
         if not v.get("why"):
             raise Fail(f"{v.get('id')}: give a one-sentence why")
+        if v.get("score") is not None:
+            try:
+                v["score"] = max(0, min(100, int(float(v["score"]))))
+            except (TypeError, ValueError):
+                raise Fail(f"{v.get('id')}: score must be a number from 0 to 100")
     try:
         found = {r["id"]: r for r in get_rows([v["id"] for v in items])}
     except Fail as e:
@@ -515,7 +537,7 @@ def verdict(args):
     now = datetime.now().isoformat(timespec="seconds")
     with open(os.path.join(ws, "verdicts.jsonl"), "a") as f:
         for v in items:
-            f.write(json.dumps({"id": v["id"], "tier": v["tier"], "why": v["why"], "gaps": v.get("gaps") or None, "at": now,
+            f.write(json.dumps({"id": v["id"], "tier": v["tier"], "why": v["why"], "gaps": v.get("gaps") or None, "score": v.get("score"), "at": now,
                                 **_posting_fields(found[v["id"]])}, ensure_ascii=False) + "\n")
     c = Counter(v["tier"] for v in items)
     print(f"Recorded {len(items)} verdict{'s' * (len(items) != 1)} ({', '.join(f'{n} {t}' for t, n in c.items())}) in {ws}/verdicts.jsonl")
@@ -533,7 +555,7 @@ def track(args):
     with open(os.path.join(ws, "tracking.jsonl"), "a") as f:
         f.write(json.dumps({"id": jid, "status": status, "note": opt(args, "--note"), "at": datetime.now().isoformat(timespec="seconds"),
                             **{k: known.get(k) for k in ("company", "title", "url")}}, ensure_ascii=False) + "\n")
-    print(f"{jid}: {status}")
+    print(f"{jid}: status cleared" if status == "clear" else f"{jid}: {status}")
 
 
 BOARD_CSS = """
@@ -574,7 +596,8 @@ def board(args):
         r = live.get(i)
         current[i] = {**v, **(_posting_fields(r) if r else {}), "gone": r is None and have_data}
     order = {t: n for n, t in enumerate(TIERS)}
-    jobs = sorted(current.values(), key=lambda v: (order[v["tier"]], -(int((v.get("seen") or "0000-00-00").replace("-", "")))))
+    jobs = sorted(current.values(), key=lambda v: (order[v["tier"]], -(v.get("score") if v.get("score") is not None else 50),
+                                                    -(int((v.get("seen") or "0000-00-00").replace("-", "")))))
     m = meta() or {}
     e = html.escape
     sections = []
@@ -647,8 +670,9 @@ def status(args):
     if local:
         print("Local scrapes: " + ", ".join(f"{c} {n}" for c, n in local.items()))
     vs, ss = verdicts(ws), statuses(ws)
-    print(f"Workspace: {ws} ({len(vs)} verdicts: " + ", ".join(f"{t} {n}" for t, n in Counter(v['tier'] for v in vs.values()).items())
-          + f"; {len(ss)} tracked)" + ("; profile.md present" if os.path.exists(os.path.join(ws, "profile.md")) else "; no profile.md yet"))
+    tiers = ", ".join(f"{n} {t}" for t, n in Counter(v["tier"] for v in vs.values()).items())
+    print(f"Workspace: {ws}: {len(vs)} postings judged" + (f" ({tiers})" if tiers else "") + f", {len(ss)} tracked, "
+          + ("profile.md present" if os.path.exists(os.path.join(ws, "profile.md")) else "no profile.md yet"))
 
 
 # --- live scraping ---------------------------------------------------------------------------------------------------
@@ -758,6 +782,8 @@ def find_board(args):
             if n is not None:
                 found.append({"company": company, "ats": name, "slug": slug, "_postings": n})
                 break
+    if any(c.get("_postings") for c in found):  # an empty board with the same slug is usually someone else's
+        found = [c for c in found if c.get("_postings") is None or c["_postings"] > 0]
     if not found:
         print("Nothing found. Open the company's careers page, click a job, and look at the address: e.g. job-boards.greenhouse.io/<slug>, "
               "jobs.lever.co/<slug>, jobs.ashbyhq.com/<slug>, <tenant>.wd5.myworkdayjobs.com/<site>. Then rerun with --slug or --url.")
@@ -773,11 +799,13 @@ COMMANDS = {"update": update, "status": status, "search": search, "show": show, 
 
 
 def main(argv):
-    if not argv or argv[0] in ("-h", "--help", "help") or argv[0] not in COMMANDS:
+    argv = list(argv)
+    cmd = next((i for i, a in enumerate(argv) if a in COMMANDS and (i == 0 or argv[i - 1] != "--workspace")), None)
+    if cmd is None or "-h" in argv or "--help" in argv or "help" in argv[:1]:
         print(__doc__)
-        return 0 if argv and argv[0] in ("-h", "--help", "help") else 2
+        return 0 if cmd is not None or any(a in ("-h", "--help", "help") for a in argv) else 2
     try:
-        COMMANDS[argv[0]](argv[1:])
+        COMMANDS[argv[cmd]](argv[cmd + 1:] + argv[:cmd])  # options given before the command still count
     except Fail as e:
         print(e, file=sys.stderr)
         return 1

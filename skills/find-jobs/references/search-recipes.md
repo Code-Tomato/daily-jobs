@@ -15,14 +15,17 @@ repeating a flag ORs its values (`--title A --title B`), and different flags AND
 `unknown` matters: many postings say nothing about level in the title, so `level` is set from the stated years, and is
 empty when there are none. `--max-years` lets postings that state no minimum through.
 
-Always add `--not-title "senior|sr\.?|staff|principal|lead|manager|director|head of|vp"` for students and new grads; it
-catches titles the level parser missed.
+Always add `--not-title "senior|\bsr\b|staff|principal|\blead\b|manager|director|head of|\bvp\b"` for students and new
+grads; it catches titles the level parser missed. Use `\b` around short words so they don't match inside longer ones.
+
+Degree: `--degree bs` drops postings whose required degree is above the person's (MS/PhD internships, "enrolled in a
+graduate program"). Postings that name no degree pass.
 
 ## Fields (title regexes)
 
 | field | `--title` | also |
 |---|---|---|
-| software | `software|developer|swe|sde|full.?stack|back.?end|front.?end|platform|infrastructure|devops|sre|mobile|ios|android` | `--family software` |
+| software | `software|\bsw\b|developer|\bswe\b|\bsde\b|full.?stack|back.?end|front.?end|platform|infrastructure|devops|\bsre\b|mobile|\bios\b|android|engineering intern` | `--family software` |
 | systems / low level | `firmware|embedded|kernel|compiler|operating system|gpu|systems software|performance|hpc` | |
 | ML / AI | `machine learning|\bml\b|\bai\b|deep learning|llm|nlp|computer vision|research (engineer|scientist)|applied scientist` | `--family data` |
 | data | `data (scien|analy|engineer)|analytics|business intelligence|statistic|quantitative` | |
@@ -49,7 +52,8 @@ narrow a big result or to browse. `--category REGEX` matches the board's own dep
 ## Work authorization and clearance
 
 - Needs sponsorship now or later (F-1 OPT, H-1B...): `--needs-sponsorship` drops "won't sponsor" and citizens/US-persons-only postings.
-  Many postings say nothing either way; those stay in, so check the excerpt.
+  Many postings say nothing either way; those stay in. The parser misses some wordings, so a posting without the flag
+  can still refuse sponsorship: check the excerpt.
 - Permanent resident: `--no-citizen-only` is too strict for ITAR "US person" roles (residents qualify); judge those by reading.
 - No clearance and not a citizen: `--no-clearance`. Citizens who'd accept a clearance can skip it.
 
@@ -60,7 +64,10 @@ narrow a big result or to browse. `--category REGEX` matches the board's own dep
 
 ## Shaping the funnel
 
-- Too many (thousands): add the `--not-title` above, a `--since`, a place, `--family`; split into several searches.
+- Too many (thousands): add the `--not-title` above, `--degree`, a `--since`, a place, `--family`, `--strict-term`;
+  split into several searches.
+- One company flooding the list (TikTok, ByteDance and big banks post dozens of near-identical roles): `--not-company`
+  for a second pass, or judge one and copy the verdict to its siblings.
 - Too few: loosen the title regex, add `unknown` to `--level`, drop `--strict-term` or the place filter, check `companies`
   for a company that should be there.
 - Specific companies: `--company "nvidia|amd|apple"`. Exclude: `--not-company "staffing|recruit"`.

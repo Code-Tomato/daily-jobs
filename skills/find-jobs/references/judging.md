@@ -12,15 +12,23 @@ work what they want. Then you pick a tier and write one or two plain sentences.
 | `stretch` | One gap they could plausibly bridge: a year short on experience, a "required" skill they have only from coursework, a degree field that is adjacent. Name the gap. |
 | `no` | Fails a hard requirement, or the work isn't what they're looking for. |
 
-Unclear is not the same as met. If a hard requirement can't be checked from the excerpt or the posting, the best tier is
-`good`, and `gaps` says what to confirm ("The posting doesn't say whether it sponsors visas").
+Unclear is not the same as met: if the posting states a hard requirement you can't check against the profile (a
+graduation window cut off in the excerpt, a license they may or may not have), the best tier is `good`, and `gaps` says
+what to confirm. Silence is different. Most postings say nothing about visas; for someone who needs sponsorship, silence
+is not a failed requirement (large employers routinely hire interns on CPT and new grads on OPT), so it can still be
+`strong`, with "The posting doesn't say whether it sponsors visas" in `gaps`.
+
+Give each verdict a `score` from 0 to 100 too: your overall sense of the match, used only to order postings within a
+tier (two `good` postings are rarely equally good).
 
 ## Hard requirements, in the order to check them
 
 1. **Level and timing.** Internship or co-op: does the term match what they want (summer 2027, fall co-op)? Does the
    posting restrict class standing ("rising seniors", "sophomores and juniors", "graduating between Dec 2026 and
-   Jun 2027", "must return to school after the internship")? Check against their graduation date. Don't assume they will
-   start grad school unless the profile says it's confirmed. New grad: does their graduation date fall in the window?
+   Jun 2027", "must return to school after the internship")? Check against their graduation date. "Currently pursuing a
+   degree" means enrolled when applying and, for nearly every internship, still enrolled during it: someone who graduates
+   in May 2027 does not qualify for a summer 2027 internship unless they will be in a graduate program by then. Don't
+   assume grad school unless the profile says it's confirmed. New grad: does their graduation date fall in the window?
 2. **Degree.** A required degree they don't have by the start date fails ("Master's required" for a BS student; a
    bachelor's required for a role starting before they graduate, unless the posting allows finishing by then). A
    degree field that is listed with "or related field" usually passes for adjacent majors.
@@ -36,6 +44,9 @@ Unclear is not the same as met. If a hard requirement can't be checked from the 
 6. **Location.** Onsite in a place they won't move to fails. Remote-in-the-US passes for anyone in the US.
 7. **Other gates.** Minimum GPA, licenses or certifications (RN, CPA, PE, CDL), required languages, travel, physical
    requirements, shift work. Check only what the posting states.
+
+Also note, without changing the tier on its own: a `posted` date many months old (evergreen or stale listing; say
+"posted in May 2025, may be an evergreen req"), and a deadline that is past or within days.
 
 ## Fit
 
@@ -56,9 +67,13 @@ SQL dashboards or investment banking. A role they could do but that uses none of
 One JSON object per line, then `python3 jobs.py verdict --file FILE`:
 
 ```json
-{"id": "acme:123", "tier": "strong", "why": "…", "gaps": null}
-{"id": "acme:456", "tier": "stretch", "why": "…", "gaps": "Asks for 2+ years of experience."}
+{"id": "acme:123", "tier": "strong", "score": 92, "why": "…", "gaps": null}
+{"id": "acme:456", "tier": "stretch", "score": 55, "why": "…", "gaps": "Asks for 2+ years of experience."}
 {"id": "acme:789", "tier": "no", "why": "Requires a master's degree."}
 ```
 
 Recording `no` verdicts matters: `search --unjudged` hides every judged posting, so next time only new ones come back.
+
+Near-duplicates: when a company posts the same role many times (one per team or city), read one or two, then give the
+rest the same verdict with the same why. Don't let one company fill the strong tier with copies; say "and N similar
+postings" in your summary instead.

@@ -127,6 +127,10 @@ class Pipeline(unittest.TestCase):
         self.assertEqual(out.split(), ["acme:2"])
         code, out, _ = self.run_cli("search", "--title", "engineer", "--count")
         self.assertIn("after --title: 3", out)
+        code, out, _ = self.run_cli("--workspace", os.environ["JOBS_WORKSPACE"], "search", "--term", "summer", "--ids-only")
+        self.assertEqual(out.split(), ["acme:1", "globex:9", "acme:2"])  # postings that state no term pass
+        code, out, _ = self.run_cli("search", "--term", "fall 2027", "--strict-term", "--ids-only")
+        self.assertEqual(out.split(), [])
         code, _, err = self.run_cli("search", "--level", "wizard")
         self.assertEqual(code, 1)
         self.assertIn("Unknown level", err)

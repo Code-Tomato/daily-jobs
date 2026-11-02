@@ -1,6 +1,6 @@
 # New grad and entry level: Other engineering
 
-268 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+267 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -19,7 +19,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Blue Origin | [Engineer - Quality I (Machine Shops) - Early Career (2027 Starts) (Evergreen)](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Huntsville-AL/Engineer---Quality-I--Machine-Shops----Early-Career--2027-Starts---Evergreen-_R75095-1) | Huntsville, AL | $75,289 to $105,404.25 | 2026-10-29 | US citizens/persons only |
 | Micron | [New College Grad - Product Applications Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/New-College-Grad---Product-Applications-Engineer_JR115693-1) | Longmont-MAX- Office, CO | $75,000 to $127,000 | 2026-10-29 |  |
 | Relativity Space | [NDE Engineer I](https://boards.greenhouse.io/relativity/jobs/8922242002?gh_jid=8922242002) | Long Beach, California, United States | $90,000 to $136,000 | 2026-10-29 |  |
-| Sonos | [Junior CI/CD Engineer](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineer_R2853) | Boston, MA | $93,000 to $115,900 | 2026-10-29 |  |
+| Sonos | [Junior CI/CD Engineer](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineer_R2853) | Boston, MA | $93,000 to $115,900 | 2026-10-29 | no visa sponsorship |
 | SpaceX | [Recovery Engineer (Starship Range Ops)](https://boards.greenhouse.io/spacex/jobs/8922378002?gh_jid=8922378002) | Starbase, TX |  | 2026-10-29 | US citizens/persons only |
 | Airbus | [A320 Family MAP Cabin & Cargo Engineer](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/A320-Family-MAP-Cabin---Cargo-Engineer_JR10452849) | Mobile Area, AL |  | 2026-10-28 | no visa sponsorship |
 | Applied Materials | [Field Service Engineer](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Customer-Engineer_R2632235) | Boise,ID | $31 to $42.40/hour | 2026-10-28 |  |
@@ -39,7 +39,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Microsoft | [Technical Support Engineer](https://apply.careers.microsoft.com/careers/job/1970393556924490) | Charlotte, NC, US; Redmond, WA, US; Irving, TX, US; Fargo, ND, US | $70,500 to $153,200 | 2026-10-23 |  |
 | Tempus | [ServiceNow Engineer I](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/ServiceNow-Engineer-I_JR202600764) | Chicago |  | 2026-10-23 |  |
 | KPMG | [Engineer, Development](https://www.kpmguscareers.com/jobdetail/?jobId=139480) | Atlanta, GA (hybrid) |  | 2026-10-23 |  |
-| DNV | [Junior Approval Engineer](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7799) | Houston, TX, United States (hybrid) |  | 2026-10-22 |  |
+| DNV | [Junior Approval Engineer](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7799) | Houston, TX, United States (hybrid) |  | 2026-10-22 | no visa sponsorship |
 | GlobalFoundries | [Sr Failure Analysis Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Sr-Failure-Analysis-Engineer--2027-New-College-Graduate-_JR-2604786) | USA - New York - Malta | $69,000 to $120,000 | 2026-10-22 |  |
 | NVIDIA | [High-Performance LLM Training Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237) | US, CA, Santa Clara |  | 2026-10-22 |  |
 | Seagate | [HDM Senior Engineer - Early Career](https://seagatecareers.com/job/Shakopee-HDM-Senior-Engineer-Early-Career-MN/1442447200/) | Shakopee, United States | $94,000 to $118,000 | 2026-10-22 |  |
@@ -87,7 +87,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Nordstrom | [Engineer 1 (Hybrid - Seattle, WA)](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936) | Seattle, WA (hybrid) | $104,500 to $188,500 | 2026-10-20 |  |
 | Seagate | [Development Engineer - Early Career](https://seagatecareers.com/job/Bloomington-Development-Engineer-Early-Career-MN/1433419000/) | Normandale, United States | $70,000 to $79,000 | 2026-10-20 |  |
 | Sierra Space | [Loads & Dynamics Engineer I](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Loads---Dynamics-Engineer-I_R26356-1) | Centennial, CO | $82,646 to $113,638.25 | 2026-10-20 |  |
-| Allegro MicroSystems | [Test Development Engineer](https://allegromicro.wd5.myworkdayjobs.com/AllegroCareers/job/Manchester-NH/Test-Engineer_R6937) | Manchester, NH |  | 2026-10-20 | no visa sponsorship |
 | BD | [Field Service Engineer - Orange County / Los Angeles, CA](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---California---Los-Angeles/Field-Service-Engineer---Orange-County---Los-Angeles--CA_R-554802-1) | USA - California - Los Angeles | $28.20 to $45.10/hour | 2026-10-20 |  |
 | BD | [Field Service Engineer - Bay Area, CA](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---California---San-Francisco/Field-Service-Engineer---Bay-Area--CA_R-554582-1) | USA - California - San Francisco | $28.20 to $45.10/hour | 2026-10-20 |  |
 | BD | [Field Service Engineer - Los Angeles, CA](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---California---Los-Angeles/Field-Service-Engineer---Los-Angeles--CA_R-554579-1) | USA - California - Los Angeles | $28.20 to $45.10/hour | 2026-10-20 |  |
@@ -188,7 +187,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Huntsman | [Process Safety Engineer](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---Conroe/Process-Safety-Engineer_J-020227) | USA - Texas - Houston - Conroe |  | 2026-10-20 |  |
 | PTC | [Technical Training Engineer - Specialist](https://ptc.wd1.myworkdayjobs.com/PTC/job/USA-HO-California/Technical-Training-Engineer_JR112741) | USA-HO-California | $70,000 to $85,000 | 2026-10-20 | no visa sponsorship |
 | Garmin | [Aviation Programs Engineer - General Aviation](https://careers.garmin.com/careers-home/jobs/19504) | Olathe, Kansas |  | 2026-10-20 |  |
-| Siemens | [Application Engineer - Protection and Automation Proposals (Early Career)](https://jobs.siemens.com/en_US/externaljobs/JobDetail/522677) | Wendell, North Carolina, United States of America (hybrid) |  | 2026-10-20 |  |
+| Siemens | [Application Engineer - Protection and Automation Proposals (Early Career)](https://jobs.siemens.com/en_US/externaljobs/JobDetail/522677) | Wendell, North Carolina, United States of America (hybrid) |  | 2026-10-20 | no visa sponsorship |
 | Emerson (NI) | [Early Career Field Service Engineer, Power & Water Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010371) | Pittsburgh, PA, United States | $75,000 to $80,000 | 2026-10-20 |  |
 | Form Energy | [Battery Engineer I/II](https://jobs.ashbyhq.com/formenergy/663c5327-c01f-4fd6-b4ce-47971a312859) | Somerville, MA |  | 2026-10-20 |  |
 | Keysight | [R&D Engineer 1](https://jobs.keysight.com/careers-home/jobs/54213) | Santa Rosa, California | $76,870 to $128,120 | 2026-10-20 | no visa sponsorship |
@@ -240,7 +239,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Entergy | [Engineer I (Pwr Gen)](https://jobs.entergy.com/job/Redfield-Engineer-I-%28Pwr-Gen%29-Arka/1432055700/) | Redfield, Arkansas, United States |  | 2026-10-20 | no visa sponsorship |
 | KPMG | [Engineer, Development](https://www.kpmguscareers.com/jobdetail/?jobId=134317) | Atlanta, GA (hybrid) |  | 2026-10-20 |  |
 | NRG Energy | [Support Engineer](https://careers.nrgenergy.com/nrg/job/Houston-Support-Engineer-TX-77010/1420628800/) | Houston, TX, US |  | 2026-10-20 |  |
-| Siemens Energy | [Field Service Engineer - Early Career Engineering Training Program (P)](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Field-Service-Engineer-Early-Career-Engineering-Training-Program-P/301668) | Orlando, Florida, United States of America; Chicago, Illinois, UNITED  | $72,000 to $79,000 | 2026-10-20 | no visa sponsorship |
+| Siemens Energy | [Field Service Engineer - Early Career Engineering Training Program (P)](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Field-Service-Engineer-Early-Career-Engineering-Training-Program-P/301668) | Orlando, Florida, United States of America; Chicago, Illinois, UNITED  | $72,000 to $79,000 | 2026-10-20 |  |
 | TikTok | [Testing Engineer Graduate (TikTok-Testing-Social-User and Relation) - 2027 Start](https://lifeattiktok.com/search/7670331433437956405) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Testing Engineer Graduate (TikTok - Intelligent Creation) - 2027 Start](https://lifeattiktok.com/search/7670351062847260981) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | Teradyne | [Factory Applications Engineer, New College Graduate, (Teradyne, San Jose, CA)](https://jobs.teradyne.com/Teradyne/job/San-Jose-Factory-Applications-Engineer%2C-New-College-Graduate%2C-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1413379500/) | San Jose, CA, US | $85,000 to $135,900 | 2026-10-19 | no visa sponsorship |

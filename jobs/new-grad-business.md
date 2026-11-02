@@ -1,6 +1,6 @@
 # New grad and entry level: Business, consulting and operations
 
-4,016 open, newest first (by the date the scraper first saw them), updated 2026-11-02. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+4,013 open, newest first (by the date the scraper first saw them), updated 2026-11-02. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -17,7 +17,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Gap Inc. | [Associate Graphic Designer, Digital](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/NY-55-Thomas-St/Associate-Graphic-Designer--Digital_R223831) | NY 55 Thomas St |  | 2026-11-02 |  |
 | H-E-B | [Kerrville 01 (Main St/Hays St) Shelf Edge - Overnight Shelf Edge Specialist - Full time](https://careers.heb.com/careers-home/jobs/243179) | Kerrville, Texas |  | 2026-11-02 |  |
 | Home Depot | [Pro Experience Manager](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/HUTTO---TX-STORE---8439/Pro-Experience-Manager_Req197767) | HUTTO - TX STORE - 8439 |  | 2026-11-02 |  |
-| ICF | [Associate Operations Specialist](https://careers.icf.com/us/en/job/R2603692) | Phoenix, Arizona, United States of America | $55,400 to $94,180 | 2026-11-02 |  |
+| ICF | [Associate Operations Specialist](https://careers.icf.com/us/en/job/R2603692) | Phoenix, Arizona, United States of America | $55,400 to $94,180 | 2026-11-02 | no visa sponsorship |
 | Lowe's | [Associate Merchant](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Associate-Merchant_JR-02675370) | Mooresville, NC (SSC) 1999 |  | 2026-11-02 |  |
 | NBCUniversal | [Project Coordinator, Media Group Decision Sciences](https://jobs.smartrecruiters.com/NBCUniversal3/744000159170845-project-coordinator-media-group-decision-sciences) | New York, NEW YORK, us | $60,000 to $80,000 | 2026-11-02 |  |
 | Principal Financial Group | [Associate, Client Service Manager](https://careers.principal.com/careers-home/jobs/54060) | Waco, Texas (hybrid) | $24.21 to $28.32/hour | 2026-11-02 |  |
@@ -57,11 +57,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Carvana | [Title Administrator](https://www.carvana.com/careers/apply?gh_jid=8336839) | Sterling, VA | $19 to $20/hour | 2026-11-02 | no visa sponsorship |
 | Carvana | [Title Administrator](https://www.carvana.com/careers/apply?gh_jid=8337798) | Mira Loma, CA | $20 to $22/hour | 2026-11-02 | no visa sponsorship |
 | Caterpillar | [Warehouse Associate - Starting At $20.55 Per Hour](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Spokane-Washington/Warehouse-Associate---Starting-At--2055-Per-Hour_R0000403108) | Spokane, Washington | $19.35 to $25.15/hour | 2026-11-02 |  |
-| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/bluffton/account-executive-spectrum-community-solutions/4673/100836462160) | Bluffton, South Carolina |  | 2026-11-02 |  |
-| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/irwindale/account-executive-spectrum-community-solutions/4673/102657546320) | Irwindale, California | $57,400 to $113,800 | 2026-11-02 |  |
-| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/murrells-inlet/account-executive-spectrum-community-solutions/4673/100988880160) | Murrells Inlet, South Carolina |  | 2026-11-02 |  |
-| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/west-columbia/account-executive-spectrum-community-solutions/4673/100836462032) | West Columbia, South Carolina |  | 2026-11-02 |  |
-| Chevron | [Third Assistant Engineer](https://careers.chevron.com/job/san-ramon/third-assistant-engineer/38138/102637410848) | San Ramon, California | $148,279 | 2026-11-02 |  |
+| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/bluffton/account-executive-spectrum-community-solutions/4673/100836462160) | Bluffton, South Carolina |  | 2026-11-02 | no visa sponsorship |
+| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/irwindale/account-executive-spectrum-community-solutions/4673/102657546320) | Irwindale, California | $57,400 to $113,800 | 2026-11-02 | no visa sponsorship |
+| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/murrells-inlet/account-executive-spectrum-community-solutions/4673/100988880160) | Murrells Inlet, South Carolina |  | 2026-11-02 | no visa sponsorship |
+| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/west-columbia/account-executive-spectrum-community-solutions/4673/100836462032) | West Columbia, South Carolina |  | 2026-11-02 | no visa sponsorship |
+| Chevron | [Third Assistant Engineer](https://careers.chevron.com/job/san-ramon/third-assistant-engineer/38138/102637410848) | San Ramon, California | $148,279 | 2026-11-02 | no visa sponsorship |
 | Cigna | [Strategic Account Executive: U500 (Hybrid; Chattanooga/Knoxville)](https://jobs.thecignagroup.com/us/en/job/26010362) | Chattanooga, Tennessee, United States of America (hybrid) |  | 2026-11-02 |  |
 | Citizens | [Citizens Teller](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50139) | Pittsburgh, PA, United States | $21/hour | 2026-11-02 |  |
 | Citizens | [Citizens Teller - Part Time](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50149) | Brooklyn, NY, United States | $21 to $29.30/hour | 2026-11-02 |  |
@@ -110,7 +110,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rivian | [Demand Planner - For Future Consideration](https://careers.rivian.com/careers-home/jobs/35406) | Plymouth, Michigan | $63,300 to $91,790 | 2026-11-02 |  |
 | Rockwell Automation | [EDGE, Information Technology Rotational Program](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/EDGE-Associate--Information-Technology-Rotational-Program_R26-5375-1) · Spring 2027 | Milwaukee, Wisconsin, United States (hybrid) |  | 2026-11-02 | no visa sponsorship |
 | RTI International | [Early-Career Marketing Intelligence Analyst](https://careers.rti.org/careers-home/jobs/13685) | Research Triangle Park, North Carolina (hybrid) |  | 2026-11-02 |  |
-| Siemens | [Buyer](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527857) | Broken Arrow, Oklahoma, United States of America |  | 2026-11-02 |  |
+| Siemens | [Buyer](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527857) | Broken Arrow, Oklahoma, United States of America |  | 2026-11-02 | no visa sponsorship |
 | TIAA | [Client Outreach Retention Consultant](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/Client-Outreach-Retention-Consultant_R260900206-2) | Charlotte, NC, USA | $71,800 to $77,000 | 2026-11-02 |  |
 | Uber | [Recruiting Coordinator](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Uber/job/304312) | San Francisco, CA, United States | $32.70 to $34.38/hour | 2026-11-02 |  |
 | UC Irvine | [Program Assistant (Part-Time)](https://jobs.uci.edu/careers-home/jobs/152949) | Irvine, California |  | 2026-11-02 |  |
@@ -157,7 +157,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ascension | [Office Operations Assistant](https://jobs.ascension.org/us/en/job/24225) | Wauwatosa, WI, US |  | 2026-10-30 |  |
 | Base Power | [Global Supply Analyst](https://jobs.ashbyhq.com/base-power/44b7c9ca-0738-4f13-a12a-0aea702619db) | Austin, TX |  | 2026-10-30 |  |
 | Black & Veatch | [Project Coordinator](https://careers.bv.com/job/Cartersville-Project-Coordinator-GA-30120/1424971733/) | Cartersville, GA, US |  | 2026-10-30 |  |
-| Centene | [Incident Response Analyst I](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Incident-Response-Analyst-I_1671641) | Remote-MO | $30.58 to $55.09/hour | 2026-10-30 |  |
+| Centene | [Incident Response Analyst I](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Incident-Response-Analyst-I_1671641) | Remote-MO | $30.58 to $55.09/hour | 2026-10-30 | no visa sponsorship |
 | Cisco | [Virtual Sales Account Executive - Defense Joint Forces (Remote)](https://careers.cisco.com/global/en/job/2029694) | Mclean, Virginia, United States of America (remote) | $109,000 to $165,800 | 2026-10-30 |  |
 | H-E-B | [Houston 60 (Jones/West) Shelf Edge - Shelf Edge Specialist - Part time](https://careers.heb.com/careers-home/jobs/250687) | Houston, Texas |  | 2026-10-30 |  |
 | Home Depot | [Pro Experience Manager - 3646](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/S-BLVD-W-CHARLOTTE-STORE---3646/Pro-Experience-Manager---3646_Req196859) | S BLVD (W CHARLOTTE) STORE - 3646 |  | 2026-10-30 |  |
@@ -199,7 +199,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Inventory Control Coordinator](https://jobs.cvshealth.com/us/en/job/R1090722) | 7251 South Eastern Avenue, Las Vegas, Nevada,United States | $17 to $31.30/hour | 2026-10-30 |  |
 | Enbridge | [Gas Operations Technician I](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Eagle-Mountain-UT-USA/Gas-Operations-Technician-I_73476-1) | Eagle Mountain, UT, USA | $24 to $40.68/hour | 2026-10-30 |  |
 | Esri | [Customer Success Associate](https://www.esri.com/careers/5279538007?gh_jid=5279538007) | Redlands, CA | $19.10 to $33/hour | 2026-10-30 | no visa sponsorship |
-| Fiserv | [Warehouse Associate](https://careers.fiserv.com/us/en/job/R-10405602) | Stafford, Texas, United States of America | $16/hour | 2026-10-30 |  |
+| Fiserv | [Warehouse Associate](https://careers.fiserv.com/us/en/job/R-10405602) | Stafford, Texas, United States of America | $16/hour | 2026-10-30 | no visa sponsorship |
 | Fox Corporation | [Freelance Associate Producer, Kudlow](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Freelance-Associate-Producer--Kudlow_R50034199) | New York, New York, USA | $28 to $36.05/hour | 2026-10-30 |  |
 | Freddie Mac | [Multifamily Analyst – Guide & Compliance Team](https://careers.freddiemac.com/us/en/job/JR17738) | McLean, Virginia, United States of America | $73,000 to $109,000 | 2026-10-30 |  |
 | Golden Pass LNG | [Product Control Analyst](https://goldenpasslng.rec.pro.ukg.net/GOL1501GLNG/JobBoard/94ec2537-7c35-487f-ab29-c54c35fccea8/OpportunityDetail?opportunityId=6a203650-2d09-4d7f-a006-526d5cb37861) | Houston, TX, USA |  | 2026-10-30 |  |
@@ -208,10 +208,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Home Depot | [Operations Experience Manager](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/LANHAM-MD-STORE---8548/Operations-Experience-Manager_Req197284) | LANHAM MD STORE - 8548 | $48,500 to $60,000 | 2026-10-30 |  |
 | Home Depot | [Pro Experience Manager](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/MOUNT-LAUREL-STORE---0914/Pro-Experience-Manager_Req196592-1) | MOUNT LAUREL STORE - 0914 | $52,000 to $62,000 | 2026-10-30 |  |
 | Humana | [Records Retrieval Specialist](https://careers.humana.com/us/en/job/R-435565) | Remote, Virginia, United States of America | $40,000 to $52,300 | 2026-10-30 |  |
-| ICF | [Policy Analyst (Reston, VA or Waltham, MA HYBRID role)](https://careers.icf.com/us/en/job/R2603695) | Cambridge, Massachusetts, United States of America (hybrid) | $55,424 to $94,221 | 2026-10-30 |  |
+| ICF | [Policy Analyst (Reston, VA or Waltham, MA HYBRID role)](https://careers.icf.com/us/en/job/R2603695) | Cambridge, Massachusetts, United States of America (hybrid) | $55,424 to $94,221 | 2026-10-30 | no visa sponsorship |
 | ICON | [Print Operations Technician](https://job-boards.greenhouse.io/iconcareers/jobs/6238956004) | Austin, Texas, United States |  | 2026-10-30 |  |
-| Intel | [Supply Chain Analyst](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Supply-Chain-Analyst_JR0287743) | US, Oregon, Hillsboro | $76,780 to $152,460 | 2026-10-30 |  |
-| Intel | [Employee and Executive Communications Specialist](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Employee-and-Executive-Communications-Specialist_JR0288370) | US, California, Santa Clara (hybrid) | $73,820 to $143,270 | 2026-10-30 |  |
+| Intel | [Supply Chain Analyst](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Supply-Chain-Analyst_JR0287743) | US, Oregon, Hillsboro | $76,780 to $152,460 | 2026-10-30 | no visa sponsorship |
+| Intel | [Employee and Executive Communications Specialist](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Employee-and-Executive-Communications-Specialist_JR0288370) | US, California, Santa Clara (hybrid) | $73,820 to $143,270 | 2026-10-30 | no visa sponsorship |
 | Intercontinental Exchange | [Junior Event Associate](https://careers.ice.com/careers-home/jobs/13922) | New York, New York | $55,000 to $70,000 | 2026-10-30 |  |
 | IQVIA | [Business Process Analyst](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milwaukee-Wisconsin-United-States-of-America/Business-Process-Analyst_R1571587) | Milwaukee, Wisconsin, United States of America | $47,500 to $118,800 | 2026-10-30 |  |
 | Kiewit | [Survey Manager - Kiewit Offshore Services](https://kiewitcareers.kiewit.com/job/Ingleside-Survey-Manager-Kiewit-Offshore-Services-TX/1445120000/) | Ingleside, TX, US |  | 2026-10-30 |  |
@@ -287,7 +287,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ascension | [Office Operations Assistant Float Pool](https://jobs.ascension.org/us/en/job/24172) | Menasha, WI, US |  | 2026-10-29 |  |
 | Humana | [TRICARE Community Liaison](https://careers.humana.com/us/en/job/R-434840) | Pensacola, Florida, United States of America | $58,700 to $68,200 | 2026-10-29 | US citizens/persons only |
 | Humana | [TRICARE Community Liaison](https://careers.humana.com/us/en/job/R-434841) | Bethesda, Maryland, United States of America | $64,600 to $75,000 | 2026-10-29 | US citizens/persons only |
-| KeyBank | [2027 Commercial Bank Rotational Analyst Program – Product, Risk & Operations Track](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Commercial-Bank-Rotational-Analyst-Program---Product--Risk---Operations-Track_R-41401) | Cleveland, OH | $75,000 | 2026-10-29 |  |
+| KeyBank | [2027 Commercial Bank Rotational Analyst Program – Product, Risk & Operations Track](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Commercial-Bank-Rotational-Analyst-Program---Product--Risk---Operations-Track_R-41401) | Cleveland, OH | $75,000 | 2026-10-29 | no visa sponsorship |
 | Macy's | [Digital Promo and Events Assistant - Marketplace and Loyalty](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/94254) | New York, NY, United States |  | 2026-10-29 |  |
 | Macy's | [Assistant Textile Designer - Style & Co](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/93761) | New York, NY, United States |  | 2026-10-29 |  |
 | Texas Children's Hospital | [Security Officer - CSO](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428226) | Houston, TX, United States |  | 2026-10-29 |  |
@@ -341,7 +341,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Elevance Health | [Administrative Assistant (PRN) - Paragon Infusion Centers](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/MO-ST-LOUIS-12669-OLIVE-BLVD-STE-A/Administrative-Assistant--PRN----Paragon-Infusion-Centers_JR211399) | MO-ST. LOUIS, 12669 OLIVE BLVD, STE A |  | 2026-10-29 |  |
 | Elevance Health | [Utilization Management Representative I](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NY-LATHAM-15-PLAZA-DR/Utilization-Management-Representative-I_JR211246) | NY-LATHAM, 15 PLAZA DR | $16.76 to $27.53/hour | 2026-10-29 |  |
 | Expedia Group | [Associate Account Manager](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Associate-Account-Manager_R-110877) | Austin Domain 11 - HomeAway | $70,000 to $112,000 | 2026-10-29 |  |
-| Fiserv | [Collections - Associate II](https://careers.fiserv.com/us/en/job/R-10405266) | Marietta, Georgia, United States of America |  | 2026-10-29 |  |
+| Fiserv | [Collections - Associate II](https://careers.fiserv.com/us/en/job/R-10405266) | Marietta, Georgia, United States of America |  | 2026-10-29 | no visa sponsorship |
 | GE HealthCare | [EHS Manager LATAM](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/EHS-Manager-LATAM_R4048359) | Remote |  | 2026-10-29 |  |
 | Guidehouse | [Jr PMO Analyst](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Jr-PMO-Analyst_45874) | US - VA, Arlington |  | 2026-10-29 | clearance |
 | H-E-B | [San Antonio 26 (IH35/FM 3009) Shelf Edge - Overnight Shelf Edge Specialist - Part time](https://careers.heb.com/careers-home/jobs/250997) | Schertz, Texas |  | 2026-10-29 |  |
@@ -353,7 +353,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Home Depot | [Operations Experience Manager](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/MERRIAM-STORE---2202/Operations-Experience-Manager_Req197369) | MERRIAM STORE - 2202 |  | 2026-10-29 |  |
 | Honda | [Sales Operations Analyst](https://careers.honda.com/us/en/job/13153) | Alpharetta, Georgia, United States |  | 2026-10-29 |  |
 | Honda | [Purchasing Specialist](https://careers.honda.com/us/en/job/13194) | Greensburg, Indiana, United States |  | 2026-10-29 |  |
-| ICF | [Sustainable Mobility Specialist (Entry Level, Summer 2027, Remote - New York)](https://careers.icf.com/us/en/job/R2603689) · Summer 2027 | Albany, New York, United States of America (remote) | $50,605 to $86,028 | 2026-10-29 |  |
+| ICF | [Sustainable Mobility Specialist (Entry Level, Summer 2027, Remote - New York)](https://careers.icf.com/us/en/job/R2603689) · Summer 2027 | Albany, New York, United States of America (remote) | $50,605 to $86,028 | 2026-10-29 | no visa sponsorship |
 | Intuitive Surgical | [Endoluminal Territory Associate](https://jobs.smartrecruiters.com/Intuitive/744000158374999-endoluminal-territory-associate) | Los Angeles, CA, us |  | 2026-10-29 |  |
 | IQVIA | [Business Development Representative 1](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Business-Development-Representative-1_R1576960) | Durham, North Carolina, United States of America | $41,600 to $103,900 | 2026-10-29 |  |
 | IQVIA | [Associate Consultant, Regulatory Science and Strategy](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Falls-Church-Virginia-United-States-of-America/Associate-Consultant--Regulatory-Science-and-Strategy_R1574041) | Falls Church, Virginia, United States of America | $58,700 to $146,800 | 2026-10-29 |  |
@@ -472,7 +472,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Children's Health (Dallas) | [Child Life Assistant PRN](https://jobsearch.childrens.com/us/en/job/33513) | Plano, TX, US |  | 2026-10-28 |  |
 | Citizens | [Citizens Teller](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50088) | RI, United States | $20.67 to $25.48/hour | 2026-10-28 |  |
 | City of Hope | [Unit Ambassador-OC](https://www.cityofhopejobs.org/job/12425/unit-ambassador-oc-allied-health-us-ca-irvine/) | Irvine, CA, US |  | 2026-10-28 |  |
-| ClickUp | [Business Development Representative (AMER)](https://jobs.ashbyhq.com/clickup/d6782da5-01cc-4c43-b7e2-e88af54dc6a0) | United States - San Diego Office (hybrid) |  | 2026-10-28 |  |
+| ClickUp | [Business Development Representative (AMER)](https://jobs.ashbyhq.com/clickup/d6782da5-01cc-4c43-b7e2-e88af54dc6a0) | United States - San Diego Office (hybrid) |  | 2026-10-28 | no visa sponsorship |
 | CommonSpirit Health (St. Luke's Health) | [Inventory Control Assistant](https://www.commonspirit.careers/job/bakersfield/inventory-control-assistant/35300/102528404864) | BAKERSFIELD, CA |  | 2026-10-28 |  |
 | CVS Health | [Encounters Technical Analyst](https://jobs.cvshealth.com/us/en/job/R0948889) | Work At Home, Phoenix, Arizona,United States | $46,988 to $122,400 | 2026-10-28 |  |
 | CVS Health | [Digital Operations Associate, Care Management](https://jobs.cvshealth.com/us/en/job/R1085105) | Work at Home, Arizona, United States | $18.50 to $35.29/hour | 2026-10-28 |  |
@@ -497,7 +497,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Humana | [Transformation Strategy Analyst](https://careers.humana.com/us/en/job/R-435239) | Arlington, Virginia, United States of America (hybrid) | $78,200 to $107,600 | 2026-10-28 |  |
 | Humana | [Grievances and Appeals Representative](https://careers.humana.com/us/en/job/R-435096) | Remote, Nationwide, United States of America | $43,000 to $56,200 | 2026-10-28 |  |
 | Huntington Bank | [Process Administrator - Covington, KY](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Covington-KY/Process-Administrator---Covington--KY_R0077237) | Covington, KY |  | 2026-10-28 | no visa sponsorship |
-| ICF | [Jr Technical Business Analyst](https://careers.icf.com/us/en/job/R2603626) | Reston, Virginia, United States of America | $61,232 to $104,094 | 2026-10-28 |  |
+| ICF | [Jr Technical Business Analyst](https://careers.icf.com/us/en/job/R2603626) | Reston, Virginia, United States of America | $61,232 to $104,094 | 2026-10-28 | no visa sponsorship |
 | Intuitive Surgical | [Endoluminal Territory Associate](https://jobs.smartrecruiters.com/Intuitive/744000158039634-endoluminal-territory-associate) | Los Angeles, CA, us |  | 2026-10-28 |  |
 | Lowe's | [Warehouse Specialty Associate](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/LPS---Columbus-OH-4511/Warehouse-Specialty-Associate_JR-02682412) | LPS - Columbus, OH 4511 |  | 2026-10-28 |  |
 | Lowe's | [Warehouse Associate II](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/LWS_USA_LPS---Oklahoma-City-OK-4533/Warehouse-Associate-II_JR-02682784) | LWS_USA_LPS - Oklahoma City, OK 4533 |  | 2026-10-28 |  |
@@ -518,8 +518,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Sharp HealthCare | [Access Management Representative - STC Admitting - Day Shift - Full Time](https://sharp.wd1.myworkdayjobs.com/External/job/STCMC-Tri-City-MedicalCenter-Main-Campus---4002-Vista-Way/Access-Management-Representative---STC-Admitting---Day-Shift---Full-Time_JR210121-1) | STCMC Tri-City Medical Center Main Campus - 4002 Vista Way | $25 to $29.76/hour | 2026-10-28 |  |
 | Sharp HealthCare | [Access Management Representative - STC Admitting - Day Shift - PRN](https://sharp.wd1.myworkdayjobs.com/External/job/STCMC-Tri-City-MedicalCenter-Main-Campus---4002-Vista-Way/Access-Management-Representative---STC-Admitting---Day-Shift---PRN_JR210152-1) | STCMC Tri-City Medical Center Main Campus - 4002 Vista Way | $25.15 to $27.65/hour | 2026-10-28 |  |
 | Sharp HealthCare | [Security Officer 1 - Security - Grossmont Hospital - Nights - Full Time](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/Security-Officer-1---Security---Grossmont-Hospital---Nights---Full-Time_JR206258) | La Mesa, CA | $25.81 to $31.48/hour | 2026-10-28 |  |
-| Siemens | [Fire/Life Safety Solutions Sales Executive](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527344) | Fresno, California, United States of America | $55,264 to $94,738 | 2026-10-28 |  |
-| Siemens | [Fire/Life Safety Solutions Sales Executive](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527343) | Sacramento, California, United States of America | $55,264 to $94,738 | 2026-10-28 |  |
+| Siemens | [Fire/Life Safety Solutions Sales Executive](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527344) | Fresno, California, United States of America | $55,264 to $94,738 | 2026-10-28 | no visa sponsorship |
+| Siemens | [Fire/Life Safety Solutions Sales Executive](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527343) | Sacramento, California, United States of America | $55,264 to $94,738 | 2026-10-28 | no visa sponsorship |
 | State Street | [Asset & Liability Management Analyst-Officer](https://careers.statestreet.com/global/en/job/R-797926) | Boston, Massachusetts, United States of America | $70,000 to $118,750 | 2026-10-28 |  |
 | Teradyne | [Applications Engineer - Rotational Development Program, New College Graduate, (North Reading, MA)](https://jobs.teradyne.com/Teradyne/job/North-Reading-Applications-Engineer-Rotational-Development-Program%2C-New-College-Graduate%2C-%28North-Reading%2C-MA%29-MA/1444242500/) | North Reading, MA, US | $82,800 to $132,500 | 2026-10-28 | no visa sponsorship, US citizens/persons only |
 | Texas A&M University | [Program Specialist I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/McAllen-TX/Program-Specialist-I_R-096619-1) | McAllen, TX |  | 2026-10-28 |  |
@@ -563,7 +563,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Wells Fargo | [Client Associate](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/HONOLULU-HI/Client-Associate_R-581193) | HONOLULU, HI |  | 2026-10-28 | no visa sponsorship |
 | Wells Fargo | [Registered Client Associate](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MANHATTAN-BEACH-CA/Registered-Client-Associate_R-574304) | MANHATTAN BEACH, CA |  | 2026-10-28 | no visa sponsorship |
 | Ascension | [Office Operations Assistant](https://jobs.ascension.org/us/en/job/21980) | Miramar Beach, FL, US |  | 2026-10-28 |  |
-| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/blue-ash/account-executive-spectrum-community-solutions/4673/102509876576) | Blue Ash, Ohio | $47,800 to $79,100 | 2026-10-28 |  |
+| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/blue-ash/account-executive-spectrum-community-solutions/4673/102509876576) | Blue Ash, Ohio | $47,800 to $79,100 | 2026-10-28 | no visa sponsorship |
 | Enverus | [Data Acquisition Associate Imaging - Contract - 26427](https://jobs.jobvite.com/enverus/job/o7i0AfwJ) | Austin, Texas, United States |  | 2026-10-28 |  |
 | KPMG | [Associate, ServiceNow](https://www.kpmguscareers.com/jobdetail/?jobId=139638) | Charlotte, NC |  | 2026-10-28 | no visa sponsorship |
 | TikTok | [Risk Analyst](https://lifeattiktok.com/search/7681309958333516037) | San Jose, California, United States of America |  | 2026-10-28 |  |
@@ -574,7 +574,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CenterPoint Energy | [Associate Service Consultant- South Houston](https://careers.centerpointenergy.com/job/Houston-Associate-Service-Consultant-South-Houston-TX-77034/1444026900/) | Houston, TX, US |  | 2026-10-27 |  |
 | CenterPoint Energy | [Associate Service Consultant- Rosenberg, TX](https://careers.centerpointenergy.com/job/Rosenberg-Associate-Service-Consultant-Rosenberg%2C-TX-TX-77471/1444041200/) | Rosenberg, TX, US |  | 2026-10-27 |  |
 | Chainalysis | [Revenue Operations Analyst](https://jobs.ashbyhq.com/chainalysis-careers/5bca0902-d919-4267-a827-8ddd7072c73a) | New York Office |  | 2026-10-27 |  |
-| Fiserv | [Production Associate](https://careers.fiserv.com/us/en/job/R-10405124) | Stafford, Texas, United States of America | $16/hour | 2026-10-27 |  |
+| Fiserv | [Production Associate](https://careers.fiserv.com/us/en/job/R-10405124) | Stafford, Texas, United States of America | $16/hour | 2026-10-27 | no visa sponsorship |
 | Kroger | [Logistics Maintenance Helper](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/244503) | Phoenix, AZ, United States |  | 2026-10-27 |  |
 | Prosperity Bank | [Teller I (Full Time) - Tulsa, Garnett](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604391&lang=en_US) | GARNETT, Tulsa, OK, US |  | 2026-10-27 |  |
 | Samsung Semiconductor | [Procurement Specialist I – AFF IPC SCM Part](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Procurement-Specialist-I---AFF-IPC-SCM-Part_R121654) | 645 Clyde Avenue, Mountain View, CA, USA | $92,500 to $114,000 | 2026-10-27 | no visa sponsorship |
@@ -598,8 +598,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Caterpillar | [Manager Supply Chain Planning](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mapleton-Illinois/Manager-Supply-Chain-Planning_R0000400970) | Mapleton, Illinois | $97,530 to $146,290 | 2026-10-27 | no visa sponsorship |
 | Cboe | [Prediction Market Analyst](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Prediction-Market-Analyst_R-4749) | Chicago, IL | $84,150 | 2026-10-27 | no visa sponsorship |
 | Charles River Associates | [(2027 Graduates) Senior Associate - Management Advisory (Energy Practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8325474) | Boston, MA, United States; New York, NY, United States; Washington, DC | $140,000 to $152,500 | 2026-10-27 |  |
-| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/charlotte/account-executive-spectrum-community-solutions/4673/102475773264) | Charlotte, North Carolina |  | 2026-10-27 |  |
-| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/greensboro/account-executive-spectrum-community-solutions/4673/102475773392) | Greensboro, North Carolina |  | 2026-10-27 |  |
+| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/charlotte/account-executive-spectrum-community-solutions/4673/102475773264) | Charlotte, North Carolina |  | 2026-10-27 | no visa sponsorship |
+| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/greensboro/account-executive-spectrum-community-solutions/4673/102475773392) | Greensboro, North Carolina |  | 2026-10-27 | no visa sponsorship |
 | Christus Health | [Field Service Technician I - IM Regional Operations](https://careers.christushealth.org/opportunity/field-service-technician-i-im-regional-operations-399675) | Irving, TX, US |  | 2026-10-27 |  |
 | Citizens | [Citizens Teller](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50060) | VA, United States | $21/hour | 2026-10-27 |  |
 | Citizens | [Citizens Teller - Part Time](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50063) | Bethesda, MD, United States | $20.67 to $25.48/hour | 2026-10-27 |  |
@@ -616,7 +616,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Farmers Insurance | [Information Security Analyst](https://jobs.farmersinsurance.com/job/Information-Security-Analyst/1375885857/) | US | $67,950 to $123,090 | 2026-10-27 |  |
 | Fidelity Investments | [Relationship Manager - San Francisco, CA](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/San-Francisco-CA/Relationship-Manager---San-Francisco--CA_2137225) | San Francisco, CA | $48,000 to $91,000 | 2026-10-27 | no visa sponsorship |
 | Fifth Third Bank | [Securities Analyst I - Ops](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Securities-Analyst-I---Ops_R72980) | Cincinnati, OH |  | 2026-10-27 |  |
-| Fiserv | [B2B Collections Specialist – Merchant Services](https://careers.fiserv.com/us/en/job/R-10405255) | Marietta, Georgia, United States of America |  | 2026-10-27 |  |
+| Fiserv | [B2B Collections Specialist – Merchant Services](https://careers.fiserv.com/us/en/job/R-10405255) | Marietta, Georgia, United States of America |  | 2026-10-27 | no visa sponsorship |
 | Ford | [Production Control Coordinator](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72437) | Flat Rock, MI, United States | $72,480 to $141,360 | 2026-10-27 | no visa sponsorship |
 | Ford | [Digital Modeler](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72836) | Dearborn, MI, United States | $74,300 to $144,900 | 2026-10-27 |  |
 | Gap Inc. | [Analyst - Pricing Optimization](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/NY-55-Thomas-St/Analyst---Pricing-Optimization_R223956) | NY 55 Thomas St |  | 2026-10-27 |  |
@@ -738,10 +738,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ascension | [Security Officer Armed](https://jobs.ascension.org/us/en/job/21378) | Round Rock, TX, US |  | 2026-10-24 |  |
 | Ascension | [Armed Security Officer](https://jobs.ascension.org/us/en/job/21114) | Wichita, KS, US |  | 2026-10-24 |  |
 | Ascension | [Office Operations Assistant](https://jobs.ascension.org/us/en/job/21360) | Jacksonville, FL, US |  | 2026-10-24 |  |
-| Boston Scientific | [R & D Technician Associate](https://bostonscientific.eightfold.ai/careers/job/563602813697279) | US | $38,688 to $65,728 | 2026-10-24 | no visa sponsorship |
 | Bot Auto | [Office Administrator](https://job-boards.greenhouse.io/botauto/jobs/5462728008) | Houston, TX |  | 2026-10-24 |  |
-| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/las-vegas/account-executive-spectrum-community-solutions/4673/102352459328) | Las Vegas, Nevada |  | 2026-10-24 |  |
-| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/milwaukee/account-executive-spectrum-community-solutions/4673/102352451120) | Milwaukee, Wisconsin |  | 2026-10-24 |  |
+| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/las-vegas/account-executive-spectrum-community-solutions/4673/102352459328) | Las Vegas, Nevada |  | 2026-10-24 | no visa sponsorship |
+| Charter Communications | [Account Executive, Spectrum Community Solutions](https://jobs.spectrum.com/job/milwaukee/account-executive-spectrum-community-solutions/4673/102352451120) | Milwaukee, Wisconsin |  | 2026-10-24 | no visa sponsorship |
 | Citizens | [Citizens Teller](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/47542) | RI, United States | $20.67 to $25.48/hour | 2026-10-24 |  |
 | Citizens | [Citizens Teller - Part Time](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50038) | NY, United States | $21 to $29.30/hour | 2026-10-24 |  |
 | Citizens | [Citizens Teller - Part Time](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50042) | NJ, United States | $21 to $29.30/hour | 2026-10-24 |  |
@@ -750,9 +749,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CommonSpirit Health (St. Luke's Health) | [Security Officer](https://www.commonspirit.careers/job/houston/security-officer/35300/102347817312) | HOUSTON, TX |  | 2026-10-24 |  |
 | CVS Health | [Implementation Manager](https://jobs.cvshealth.com/us/en/job/R1071076) | Work At Home, Columbia, South Carolina,United States | $46,988 to $122,400 | 2026-10-24 |  |
 | CVS Health | [Eligibility Consultant](https://jobs.cvshealth.com/us/en/job/R1043832) | 3100 West Road, East Lansing, Michigan,United States | $17 to $34.15/hour | 2026-10-24 |  |
-| Fiserv | [B2B Collections Specialist – Merchant Services](https://careers.fiserv.com/us/en/job/R-10396420) | Marietta, Georgia, United States of America |  | 2026-10-24 |  |
-| Fiserv | [Collections - Associate II](https://careers.fiserv.com/us/en/job/R-10405267) | Coral Springs, Florida, United States of America |  | 2026-10-24 |  |
+| Fiserv | [B2B Collections Specialist – Merchant Services](https://careers.fiserv.com/us/en/job/R-10396420) | Marietta, Georgia, United States of America |  | 2026-10-24 | no visa sponsorship |
+| Fiserv | [Collections - Associate II](https://careers.fiserv.com/us/en/job/R-10405267) | Coral Springs, Florida, United States of America |  | 2026-10-24 | no visa sponsorship |
 | Ford | [Product Development Engineer-10 Speed RWD Transmission Systems](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72713) | Livonia, MI, United States | $65,100 to $166,200 | 2026-10-24 |  |
 | Fox Corporation | [Account Executive (Regular Full-Time)](https://fox.wd1.myworkdayjobs.com/Domestic/job/Phoenix-Arizona-USA/Account-Executive--Regular-Full-Time-_R50034172-1) | Phoenix, Arizona, USA | $140,000 to $150,000 | 2026-10-24 |  |
 | Fox Corporation | [Account Executive (Regular Full-Time)](https://fox.wd1.myworkdayjobs.com/Domestic/job/Phoenix-Arizona-USA/Account-Executive--Regular-Full-Time-_R50034171-1) | Phoenix, Arizona, USA | $100,000 to $110,000 | 2026-10-24 |  |
 | Guardian Life | [Sales Analyst](https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/Atlanta---Regional-Office/Sales-Analyst_R000110415-1) | Atlanta - Regional Office (hybrid) | $49,260 to $73,890 | 2026-10-24 | no visa sponsorship |
+| Guidehouse | [Threat Monitoring Analyst](https://guidehouse.wd1.myworkdayjobs.com/External/job/Home-Office-Tysons-VA/Threat-Monitoring-Analyst_45761) | Home Office: Tysons, VA |  | 2026-10-24 | US citizens/persons only |

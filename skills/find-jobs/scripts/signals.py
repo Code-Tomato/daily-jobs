@@ -96,13 +96,13 @@ _YEARS = re.compile(r"(?:(?:at least|minimum(?: of)?|min\.?|over|more than)\s+)?
                     r"(?:\s*(?:\+|plus))?(?:\s*(?:-|–|—|to|or)\s*" + _N + r")?(?:\s*\(\d+\))?\s*(?:\+\s*)?(?:or more\s+)?"
                     r"(?:full[- ]time\s+|professional\s+|relevant\s+|related\s+|industry\s+|post[- ]graduate\s+|progressive(?:ly)?\s+|"
                     r"hands[- ]on\s+|practical\s+|work(?:ing)?\s+|technical\s+|direct\s+|prior\s+|total\s+|combined\s+)*"
-                    r"(?:years?|yrs?)\b(?:\s*['’]\s*)?(?!\s*(?:old|of age|ago|or older|or over|and older|and over|in business|in operation|of history|of (?:service|serving)))"
+                    r"(?:years?|yrs?)\b(?:\s*['’]\s*)?(?!\s*(?:old|of age|ago|or older|or over|and older|and over|in business|in operation|of history|of (?:service|serving)|of (?:full[- ]time )?(?:study|school|college|university|undergrad\w*|coursework|academic\w*|enrollment|degree)))"
                     r"(?=[^.;\n]{0,80}\b(?:experience|exp\b|background|track record|working|work(?:ing)? (?:in|with|on)|developing|"
                     r"designing|building|programming|coding|in (?:a|an|the)\b|of\b|with\b|as\b|post\b|after\b|beyond\b))", re.I)
 _YEARS_NOT = re.compile(r"\b(?:we have|we'?ve|our|company|founded|history|since|for over|serving|served|in business|legacy|anniversary|"
                         r"within|commit\w* to (?:stay|remain)|remain in|stay in|contract|duration|term of|program (?:lasts|is)|"
                         r"\d+[- ]year (?:program|rotation|degree)|graduat\w* (?:in|within)|degree program|"
-                        r"age|old|retire|vesting|warranty|guarantee|lease)\b", re.I)
+                        r"age|old|retire|vesting|warranty|guarantee|lease|complet\w*|finish\w*)\b", re.I)
 
 
 _BACHELOR = re.compile(r"bachelor|baccalaur|\bB\.?S\.?\b|\bB\.?A\.?\b|\bBSc\b|undergraduate degree|4[- ]year degree", re.I)
@@ -163,13 +163,14 @@ _DEGREES = [  # word forms ignore case; abbreviations (BS, MS, PhD...) must be w
     ("associate", re.compile(r"\bassociate'?s?(?: degree| of (?:science|arts|applied))|associate[’']s degree|(?-i:\bA\.?A\.?S\.?\b)", re.I)),
     ("bs", re.compile(r"\b(?:bachelor|baccalaureate|undergraduate degree|(?:4|four)[- ]year (?:college |university )?degree)|bachelor[’']s|"
                       r"(?-i:\b(?:BS|B\.S\.|BA|B\.A\.|BSc|B\.Sc\.|BSEE|BSME|BSCS|BSE|BEng|B\.Eng\.?|B\.E\.|B\.Tech|BTech)(?![\w]))", re.I)),
-    ("ms", re.compile(r"\b(?:master'?s?|master[’']s|graduate degree|advanced degree)\b|"
+    ("ms", re.compile(r"\b(?:master'?s?|master[’']s|graduate degree|advanced degree|graduate (?:program|student|school|studies))\b|"
                       r"(?-i:\b(?:MS|M\.S\.|MSc|M\.Sc\.|MEng|M\.Eng\.?|MBA|M\.B\.A\.|MSEE|MSCS|MPH|MPA)(?![\w]))", re.I)),
     ("phd", re.compile(r"\b(?:ph\.\s?d\.?|phd|doctorate|doctoral degree|doctoral)\b|(?-i:\bD\.Phil\b)", re.I)),
 ]
 _DEGREE_CTX = re.compile(r"degree|diploma|graduat|pursu|enroll|equivalent|major|field of study|related field|discipline|required|"
                          r"minimum|or higher|or above|candidate|student|program|(?-i:\bin [A-Z])", re.I)
 _ORDER = ["hs", "associate", "bs", "ms", "phd"]
+_PURSUING = re.compile(r"pursu|enrol|currently (?:in|attending|working toward)|working toward|candidates? for|student", re.I)
 _DEGREE_HINT = re.compile(r"bachelor|baccalaur|master|ph\.?\s?d|doctor|degree|diploma|high school|secondary school|graduate|"
                           r"(?-i:\b(?:GED|BS|BA|BSc|BSE|BEng|MS|MSc|MEng|MBA|MPH|PhD|AAS)\b|\b[BM]\.[SAE])", re.I)
 
@@ -178,16 +179,19 @@ def degree(row):
     """Lowest degree named in the posting's required lines: "Bachelor's or Master's" is bs, "PhD in ..." is phd. None when no
     degree is named. Pursuing counts: an internship for "students pursuing a PhD" is phd."""
     req, _ = requirement_lines(row)
-    found = set()
+    found, pursued = set(), set()
     for line in req:
         if not _DEGREE_HINT.search(line) or not _DEGREE_CTX.search(line):
             continue
-        for name, rx in _DEGREES:
-            if rx.search(line):
-                found.add(name)
-    if not found:
-        return None
-    return min(found, key=_ORDER.index)
+        for part in re.split(r"(?<=[.;])\s+", line):
+            names = {name for name, rx in _DEGREES if rx.search(part)}
+            found |= names
+            if _PURSUING.search(part):
+                pursued |= names
+    # "BS in CS. Currently enrolled in an MS or PhD program": the degree being pursued is the gate
+    if pursued:
+        return min(pursued, key=_ORDER.index)
+    return min(found, key=_ORDER.index) if found else None
 
 
 # A required security clearance; ITAR / export-control "US person" rules are not a clearance (see `citizen`).
@@ -202,16 +206,18 @@ _CITIZEN = re.compile(
     r"|\bitar\b[^.;\n]{0,80}\b(?:requires?|required|must|eligib|u\.?s\.? person|citizen)", re.I)
 _CITIZEN_NOT = re.compile(r"regard(?:less)? (?:to|of)|without regard|protected|discriminat|equal opportunity|national origin|"
                           r"e-?verify|i-9|form i|employment eligibility verification|not required|is not a requirement", re.I)
+_SP_WORDS = r"(?:any |the |company |employer |employment[- ]based |immigration |visa |employment |work |future |current |now |or |and |h-?1b )*"
 _NO_SPONSOR = re.compile(
     r"(?:will not|won'?t|unable to|not able to|cannot|can ?not|can'?t|does not|do not|doesn'?t|don'?t|is not able to|are not able to|"
     r"no longer|not (?:currently )?(?:in a position to|offering|providing|available to))\s+(?:be\s+)?(?:able to\s+)?"
-    r"(?:provide |offer |support |consider |pursue |sponsor )?(?:any )?(?:immigration |visa |employment |work )?"
-    r"(?:sponsor\w*|visa\w*|h-?1b)"
-    r"|without (?:the )?(?:need (?:for|of)|requiring|requirement (?:for|of)|necessity of)?\s*(?:current or future |now or in the future |future )?"
-    r"(?:employer[- ])?(?:immigration |visa |employment |work )?(?:sponsorship|sponsor)"
-    r"|(?:visa |immigration |employment |work )?sponsorship (?:is |will )?(?:not|n'?t) (?:be )?(?:available|provided|offered|supported|possible|considered)"
-    r"|\bno (?:visa |immigration |employment )?sponsorship\b|not eligible for (?:visa |immigration )?sponsorship|"
-    r"(?:not|n'?t) (?:require|need) (?:visa |immigration |employment )?sponsorship (?:now|currently|at any time)", re.I)
+    r"(?:provide |offer |support |consider |pursue |accept |sponsor )?" + _SP_WORDS + r"(?:sponsor\w*|h-?1b)"
+    r"|without (?:the )?(?:need (?:for|of)|needing|requiring|requirement (?:for|of)|necessity (?:for|of))?\s*" + _SP_WORDS + r"sponsorship"
+    r"|sponsorship[^.;\n]{0,50}?\b(?:is |are |will be )?(?:not|n'?t) (?:be )?(?:available|provided|offered|supported|possible|considered)"
+    r"|sponsorship (?:now or in the future|currently or in the future|now or at any (?:point|time) in the future)"
+    r"|\bno\b[^.;\n]{0,80}?\b(?:visa|immigration|employment[- ]based|work) sponsorship"
+    r"|not eligible for (?:[\w-]+ ){0,3}?sponsorship"
+    r"|(?:not|n'?t) (?:require|need) (?:[\w-]+ ){0,3}?sponsorship", re.I)
+_SPONSOR_OK = re.compile(r"(?<!not )(?<!n't )\b(?:will|can|able to|happy to|glad to) sponsor|sponsorship (?:is |may be )?available|discriminat", re.I)
 
 
 def _flag(rx, text, not_rx=None):
@@ -241,7 +247,7 @@ def no_sponsor(text):
     low = (text or "").lower()
     if "sponsor" not in low and "visa" not in low and "h1b" not in low and "h-1b" not in low:
         return False
-    return _flag(_NO_SPONSOR, text, re.compile(r"\bwill sponsor|sponsorship (?:is )?available|able to sponsor|can sponsor", re.I))
+    return _flag(_NO_SPONSOR, text, _SPONSOR_OK)
 
 
 # --- pay, deadline, gpa, term, remote ------------------------------------------------------------------------------
@@ -314,15 +320,17 @@ _MONTHS = {m: i + 1 for i, m in enumerate("jan feb mar apr may jun jul aug sep o
 _MON = r"(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?|aug(?:ust)?|sept?(?:ember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\.?"
 _DATE = rf"({_MON})\s+(\d{{1,2}})(?:st|nd|rd|th)?,?\s+(20\d\d)|(\d{{1,2}})/(\d{{1,2}})/(20\d\d)|(20\d\d)-(\d\d)-(\d\d)|(\d{{1,2}})\s+({_MON}),?\s+(20\d\d)"
 _DEADLINE = re.compile(r"(?:deadline|apply (?:by|before|no later than)|applications? (?:are |is |will be )?(?:due|close[sd]?|closing|"
-                       r"must be (?:received|submitted)|accepted (?:until|through)|open (?:until|through))|closing date|close date|"
-                       r"posting (?:end|close)s?(?: date)?|end date for applications|accepting applications (?:until|through)|"
+                       r"must be (?:received|submitted)|(?:will be )?accepted (?:at least )?(?:until|through)|open (?:until|through))|closing date|close date|"
+                       r"postings? (?:end|close)s?(?: date)?|end date for applications|accepting applications (?:until|through)|"
+                       r"application (?:period|window) (?:closure|closes?|ends?)(?: date)?(?: is)?|"
+                       r"accepted (?:at least )?(?:until|through)|"
                        r"submit (?:your |an )?applications? by|no later than)[^.]{0,40}?(?:" + _DATE + ")", re.I)
 
 
 def deadline(text):
     """The application deadline the text states, as YYYY-MM-DD, or None."""
     low = (text or "").lower()
-    if not any(w in low for w in ("deadline", "apply", "application", "clos", "no later", "end date", "submit")):
+    if not any(w in low for w in ("deadline", "apply", "application", "clos", "no later", "end date", "submit", "accepted", "posting")):
         return None
     m = _DEADLINE.search(text)
     if not m:
@@ -355,18 +363,22 @@ def gpa(text):
     return (m.group(1) or m.group(2)) if m else None
 
 
-_TERM = re.compile(r"\b(summer|fall|autumn|spring|winter)\s*(?:semester |term |quarter |session )?['’]?(20\d\d|\d\d)\b", re.I)
+_TERM = re.compile(r"\b(summer|fall|autumn|spring|winter)\s*(?:semester |term |quarter |session )?['’]?(20\d\d|\d\d)\b"
+                   r"|\b(20\d\d)\s*[-–]?\s*(summer|fall|autumn|spring|winter)\b", re.I)
+_SEASON = re.compile(r"\b(summer|fall|autumn|spring|winter)\b", re.I)
 
 
 def term(row):
-    """The internship or co-op term, "Summer 2027", from the title, else the first one the description names."""
+    """The internship or co-op term, "Summer 2027" ("2027 Summer" too), from the title, else the first one the description
+    names. A title that names only a season ("Fall Co-op") gives "Fall"."""
     for text in (row.get("title"), row.get("description")):
         m = _TERM.search(text or "")
         if m:
-            season = m.group(1).lower().replace("autumn", "fall").title()
-            yr = m.group(2)
+            season = (m.group(1) or m.group(4)).lower().replace("autumn", "fall").title()
+            yr = m.group(2) or m.group(3)
             return f"{season} {yr if len(yr) == 4 else '20' + yr}"
-    return None
+    m = _SEASON.search(row.get("title") or "")
+    return m.group(1).lower().replace("autumn", "fall").title() if m else None
 
 
 _REMOTE = re.compile(r"\b(?:remote|work from home|wfh|telecommut\w*|virtual|anywhere in the (?:us|united states))\b", re.I)
@@ -598,6 +610,9 @@ _ABOUT = re.compile(r"^\W*(?:about (?:us|the company|[A-Z][\w&.]*(?: [A-Z][\w&.]
 _BOILER = re.compile(r"equal (?:employment )?opportunit|without regard|regardless of|protected (?:veteran|characteristic|class)|disabilit|"
                      r"accommodation|e-?verify|pay transparency|privacy (?:notice|policy)|benefits? (?:include|package)|401\(?k|paid time off|"
                      r"medical, dental|recruit\w* (?:agenc|fraud)|scam|background check|drug[- ]free|at-will|know your rights", re.I)
+_WORK_HEAD = re.compile(r"^\W*(?:key |main |core |primary )?(?:responsibilities|duties|what you(?:'ll| will) (?:do|work on|be doing)|"
+                        r"what you(?:'ll| will) do|the role|about the (?:role|job|team|position)|your (?:role|impact|day)|day[- ]to[- ]day|"
+                        r"in this role|job (?:summary|description)|position (?:summary|overview)|overview)\b", re.I)
 EXCERPT = 1800
 
 
@@ -605,18 +620,24 @@ def excerpt(row, limit=EXCERPT):
     """At most `limit` characters of the posting, picked for eligibility and fit: qualifications, degree, years, class standing,
     graduation window, citizenship or clearance, place and onsite. Lines keep their original order."""
     head = []
-    for label, key, cap in (("Basic qualifications", "basic", 800), ("Preferred qualifications", "preferred", 400)):
+    for label, key, cap in (("Basic qualifications", "basic", 1000), ("Preferred qualifications", "preferred", 350)):
         t = "; ".join(p for p in _pieces(re.sub(r"(?:^|\s)- ", "\n", row.get(key) or "")) if not _BOILER.search(p))
         if t:
             head.append(f"{label}: {t if len(t) <= cap else t[:cap - 1] + chr(0x2026)}")
     budget = limit - sum(len(h) + 1 for h in head)
-    pieces, scored, after_head, lead = _pieces(row.get("description")), [], 0, 0
+    pieces, scored, after_head, after_work, lead = _pieces(row.get("description")), [], 0, 0, 0
     for i, p in enumerate(pieces):
         s = 0
         if _HEAD.search(p):
-            after_head = 10
+            after_head, after_work = 10, 0
+        elif _WORK_HEAD.search(p) and len(p) < 80:
+            after_work, after_head = 5, 0
+            s += 1
         elif after_head:
             after_head -= 1
+            s += 1
+        elif after_work:
+            after_work -= 1
             s += 1
         s += 3 if _GATE.search(p) else 1 if _FIT.search(p) else 0
         if _BOILER.search(p) or _ABOUT.search(p):

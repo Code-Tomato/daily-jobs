@@ -32,6 +32,10 @@ class Years(unittest.TestCase):
         self.assertEqual(s.years(post("Minimum of three (3) years of related experience")), 3)
 
 
+    def test_study_is_not_experience(self):
+        self.assertIsNone(s.years(post("Requirements\nExpected completion of one year of study prior to the internship")))
+
+
 class Level(unittest.TestCase):
     def test_titles(self):
         cases = {"Software Engineer Intern (Summer 2027)": "intern", "Co-op, Mechanical Design": "intern",
@@ -58,6 +62,11 @@ class Degree(unittest.TestCase):
         self.assertEqual(s.degree(post("Requirements\nBS in Computer Science or related field")), "bs")
         self.assertEqual(s.degree(post("Requirements\nHigh school diploma or GED required")), "hs")
 
+    def test_pursued_degree_is_the_gate(self):
+        self.assertEqual(s.degree(post("Requirements\nBS in Computer Science. Currently enrolled in an MS or PhD program")), "ms")
+        self.assertEqual(s.degree(post("Requirements\nBachelor's degree completed. Must be enrolled in a graduate program")), "ms")
+        self.assertEqual(s.degree(post("Requirements\nPursuing a BS, MS, or PhD in Computer Science")), "bs")
+
     def test_prose_is_not_a_degree(self):
         self.assertIsNone(s.degree(post("Requirements\nMust be able to be on site; MS Office skills")))
 
@@ -77,6 +86,14 @@ class Authorization(unittest.TestCase):
         self.assertTrue(s.no_sponsor("Candidates must be authorized to work in the US without the need for current or future sponsorship."))
         self.assertTrue(s.no_sponsor("We are unable to provide visa sponsorship for this position."))
         self.assertTrue(s.no_sponsor("This role is not eligible for visa sponsorship."))
+        for text in ("We are unable to sponsor or take over sponsorship of an employment Visa at this time",
+                     "No company sponsored housing, relocation, visa sponsorship or Green Card assistance available",
+                     "Applicants must not require employment-based sponsorship now or in the future",
+                     "This internship aligns to a potential role that is not eligible for Qualcomm immigration sponsorship",
+                     "Sponsorship and future sponsorship are not available for this opportunity, including F-1 OPT"):
+            self.assertTrue(s.no_sponsor(text), text)
+        self.assertFalse(s.no_sponsor("Sponsorship for future roles is not guaranteed"))
+        self.assertFalse(s.no_sponsor("We do not discriminate on the basis of visa status"))
         self.assertFalse(s.no_sponsor("We will sponsor visas for qualified candidates."))
         self.assertFalse(s.no_sponsor("Great benefits and a friendly team."))
 
@@ -124,10 +141,15 @@ class Misc(unittest.TestCase):
         self.assertEqual(s.term({"title": "Software Intern - Summer 2027"}), "Summer 2027")
         self.assertEqual(s.term({"title": "Co-op", "description": "This co-op runs Fall '27"}), "Fall 2027")
         self.assertIsNone(s.term({"title": "Intern", "description": "Join us"}))
+        self.assertEqual(s.term({"title": "ML Engineer Intern - 2027 Summer"}), "Summer 2027")
+        self.assertEqual(s.term({"title": "Fall Co-op, Mechanical"}), "Fall")
 
     def test_deadline_and_gpa(self):
         self.assertEqual(s.deadline("Applications close on January 15, 2027."), "2027-01-15")
         self.assertIsNone(s.deadline("We hire year round."))
+        self.assertEqual(s.deadline("Applications for this job will be accepted at least until November 2, 2026."), "2026-11-02")
+        self.assertEqual(s.deadline("Postings close: September 27, 2026"), "2026-09-27")
+        self.assertEqual(s.deadline("The estimated job application period closure is May 25 2027"), "2027-05-25")
         self.assertEqual(s.gpa("Minimum 3.0 cumulative GPA"), "3.0")
         self.assertEqual(s.gpa("GPA of 3.25 or higher"), "3.25")
 

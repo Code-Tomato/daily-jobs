@@ -1,6 +1,6 @@
 # New grad and entry level: Healthcare
 
-7,238 open, newest first (by the date the scraper first saw them), updated 2026-11-02. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+7,225 open, newest first (by the date the scraper first saw them), updated 2026-11-02. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -672,7 +672,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rady Children's Health San Diego | [Registered Nurse (RN) (Part-Time) - Urgent Care, San Diego, CA](https://jobs.rchsd.org/job/san-diego/registered-nurse-rn-part-time-urgent-care-san-diego-ca/1717/102591440800) | San Diego, California | $64.39 to $92.09/hour | 2026-10-29 |  |
 | Rady Children's Health San Diego | [Registered Nurse (RN) - Pediatric Sub-Acute](https://jobs.rchsd.org/job/san-diego/registered-nurse-rn-pediatric-sub-acute/1717/102591438464) | San Diego, California | $53.27 to $88/hour | 2026-10-29 |  |
 | Rady Children's Health San Diego | [Registered Nurse (RN) (Per-Diem) - Pediatric Sub-Acute](https://jobs.rchsd.org/job/san-diego/registered-nurse-rn-per-diem-pediatric-sub-acute/1717/102591438512) | San Diego, California | $53.27 to $88/hour | 2026-10-29 |  |
-| Service Corporation International | [Family Service Counselor](https://sci.wd5.myworkdayjobs.com/SCI/job/WV---Saint-Albans/Family-Service-Counselor_Req168205) | WV - Saint Albans |  | 2026-10-29 |  |
 | Sharp HealthCare | [Clinical Nurse RN - Float Pool Med-Surg - PCU - Short Stay Observation - Physical Acute Rehab Units - Sharp Me](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Clinical-Nurse-RN---Float-Pool-Med-Surg---PCU---Short-Stay-Observation---Physical-Acute-Rehab-Units---Sharp-Metro-Campus---Day---FT_JR211168) | San Diego, CA | $64.21 to $93.76/hour | 2026-10-29 |  |
 | Sharp HealthCare | [RN - 4E Pulmonary/CHF Progressive Care Unit - Sharp Grossmont Hospital - Days - Full Time - May be eligible fo](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/RN---4E-Pulmonary-CHF-Progressive-Care-Unit---Sharp-Grossmont-Hospital---Days---Full-Time---May-be-eligible-for-New-Hire-Relocation-Incentive_JR210474-1) | La Mesa, CA | $64.21 to $93.76/hour | 2026-10-29 |  |
 | Sharp HealthCare | [Pharmacist I – Sharp Grossmont Hospital – Variable Shift – Per Diem](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/Pharmacist-I---Sharp-Grossmont-Hospital---Variable-Shift---Per-Diem_JR211337) | La Mesa, CA | $82.09 to $118.64/hour | 2026-10-29 |  |
@@ -756,3 +755,4 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | UnitedHealth Group | [Licensed Vocational Nurse LVN UMC/Amedisys Home He](https://careers.unitedhealthgroup.com/job/lubbock/licensed-vocational-nurse-lvn-umc-amedisys-home-he/34088/102559024768) | Lubbock, Texas | $22.39 to $40.30/hour | 2026-10-29 |  |
 | UnitedHealth Group | [Occupational Therapy Assistant OTA COTA PRN - UMC/](https://careers.unitedhealthgroup.com/job/lubbock/occupational-therapy-assistant-ota-cota-prn-umc/34088/102568780656) | Lubbock, Texas | $48,175 to $72,263 | 2026-10-29 |  |
 | UnitedHealth Group | [RN-IM/FM, Pedi, and OB/GYN. Kelsey Seybold The Woodlands](https://careers.unitedhealthgroup.com/job/magnolia/rn-im-fm-pedi-and-ob-gyn-kelsey-seybold-the-woodlands/34088/102555245376) | Magnolia, Texas | $29 to $52/hour | 2026-10-29 |  |
+| UnitedHealth Group | [Clinical Manager - Home Health Registered Nurse Medford](https://careers.unitedhealthgroup.com/job/medford/clinical-manager-home-health-registered-nurse-medford/34088/102568780352) | Medford, New York | $110,000 to $120,000 | 2026-10-29 |  |

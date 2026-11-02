@@ -1,6 +1,6 @@
 # New grad and entry level: Skilled trades, service and retail
 
-1,807 open, newest first (by the date the scraper first saw them), updated 2026-11-02. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,804 open, newest first (by the date the scraper first saw them), updated 2026-11-02. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -32,7 +32,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Blue Origin | [Technician - Maintenance I](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Grandview-MO/Technician---Maintenance-I_R74294-1) | Grandview, MO |  | 2026-11-02 | US citizens/persons only |
 | Boston Scientific | [Capital Equipment Technician I - 2nd shift Defined Term](https://bostonscientific.eightfold.ai/careers/job/563602813872844) | Arden Hills, MN, US | $35,984 to $61,152 | 2026-11-02 | no visa sponsorship |
 | Cardinal Health | [Delivery Driver](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/GA-Augusta-Nucl-Pharm-60/Delivery-Driver_20190247) | GA-Augusta-Nucl Pharm #60 | $17/hour | 2026-11-02 |  |
-| Caterpillar | [Shop Technician I](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/El-Reno-Oklahoma/Shop-Technician-I_R0000403016) | El Reno, Oklahoma | $19 to $26.55/hour | 2026-11-02 |  |
+| Caterpillar | [Shop Technician I](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/El-Reno-Oklahoma/Shop-Technician-I_R0000403016) | El Reno, Oklahoma | $19 to $26.55/hour | 2026-11-02 | no visa sponsorship |
 | CommonSpirit Health (St. Luke's Health) | [CS/Sterile Processing Technician](https://www.commonspirit.careers/job/bellevue/cs-sterile-processing-technician/35300/93516427488) | Bellevue, WA |  | 2026-11-02 |  |
 | CommonSpirit Health (St. Luke's Health) | [Cook](https://www.commonspirit.careers/job/garrison/cook/35300/102652816640) | Garrison, ND |  | 2026-11-02 |  |
 | CommonSpirit Health (St. Luke's Health) | [Cook](https://www.commonspirit.careers/job/lexington/cook/35300/102638884592) | LEXINGTON, KY |  | 2026-11-02 |  |
@@ -100,9 +100,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Order Selector 1st Shift](https://jobs.cvshealth.com/us/en/job/R1090074) | 7590 Empire Drive, Indianapolis, Indiana,United States | $16 to $26.21/hour | 2026-10-30 |  |
 | CVS Health | [Order Selector- 2nd Shift](https://jobs.cvshealth.com/us/en/job/R1090069) | 7590 Empire Drive, Indianapolis, Indiana,United States | $16 to $26.21/hour | 2026-10-30 |  |
 | CVS Health | [Order Selector- 2nd Shift](https://jobs.cvshealth.com/us/en/job/R1090071) | 7590 Empire Drive, Indianapolis, Indiana,United States | $16 to $26.21/hour | 2026-10-30 |  |
-| Intel | [AMHS Equipment Technician - Night Shift 6](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AMHS-Equipment-Technician---Night-Shift-6_JR0288275) | US, Arizona, Phoenix | $51,710 to $99,770 | 2026-10-30 |  |
-| Intel | [AMHS Equipment Technician - Day Shift 5](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AMHS-Equipment-Technician---Day-Shift-5_JR0288273) | US, Arizona, Phoenix | $51,710 to $99,770 | 2026-10-30 |  |
-| Intel | [AMHS Equipment Technician - Night Shift 4](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AMHS-Equipment-Technician---Night-Shift-4_JR0288272) | US, Arizona, Phoenix | $51,710 to $99,770 | 2026-10-30 |  |
+| Intel | [AMHS Equipment Technician - Night Shift 6](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AMHS-Equipment-Technician---Night-Shift-6_JR0288275) | US, Arizona, Phoenix | $51,710 to $99,770 | 2026-10-30 | no visa sponsorship |
+| Intel | [AMHS Equipment Technician - Day Shift 5](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AMHS-Equipment-Technician---Day-Shift-5_JR0288273) | US, Arizona, Phoenix | $51,710 to $99,770 | 2026-10-30 | no visa sponsorship |
+| Intel | [AMHS Equipment Technician - Night Shift 4](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AMHS-Equipment-Technician---Night-Shift-4_JR0288272) | US, Arizona, Phoenix | $51,710 to $99,770 | 2026-10-30 | no visa sponsorship |
 | KLA | [Material Handler - 2nd Shift](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Material-Handler_2642914) | Totowa, NJ | $16.93 to $28.75/hour | 2026-10-30 |  |
 | Lenovo | [Test Technician](https://jobs.lenovo.com/en_US/careers/JobDetail/Test-Technician/83418) | United States of America, North Carolina, Whitsett |  | 2026-10-30 |  |
 | Memorial Hermann | [Maintenance Mechanic I](https://jobs.memorialhermann.org/us/en/job/100188566) | Houston, Texas, United States of America |  | 2026-10-30 |  |
@@ -120,7 +120,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rockwell Automation | [Material Handler](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Ladysmith-Wisconsin-United-States/Material-Handler_R26-8615) | Ladysmith, Wisconsin, United States |  | 2026-10-30 | no visa sponsorship |
 | Rockwell Automation | [Prototype Assembler 2 – 1st Shift](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Richland-Center-Wisconsin-United-States/Prototype-Assembler-2---1st-Shift_R26-7143) | Richland Center, Wisconsin, United States |  | 2026-10-30 | no visa sponsorship |
 | Siemens | [Fitter / Welder I](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527374) | Sacramento, California, United States of America | $23.01/hour | 2026-10-30 |  |
-| Siemens | [Forklift Warehouse Operator](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527476) | Southaven, Mississippi, United States of America | $18/hour | 2026-10-30 |  |
+| Siemens | [Forklift Warehouse Operator](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527476) | Southaven, Mississippi, United States of America | $18/hour | 2026-10-30 | no visa sponsorship |
 | SLB | [Mechanic Helper](https://careers.slb.com/jobdescription.aspx?id=WDR00137274) | Odessa, United States |  | 2026-10-30 |  |
 | SLB | [DCN Tool Crib Technician](https://careers.slb.com/jobdescription.aspx?id=EF18928-en_US%201) | Shreveport, United States |  | 2026-10-30 | no visa sponsorship |
 | Texas A&M University-Kingsville | [Maintenance Worker I](https://tamus.wd1.myworkdayjobs.com/TAMUK_External/job/Kingsville-TX/Maintenance-Worker-I_R-088762-1) | Kingsville, TX |  | 2026-10-30 |  |
@@ -159,7 +159,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ConocoPhillips | [Measurement Technician - Eagle Ford](https://conocophillips.wd1.myworkdayjobs.com/External/job/Kenedy-TX/Measurement-Technician---Eagle-Ford_REQ-006723) | Kenedy, TX |  | 2026-10-29 |  |
 | Cox Enterprises | [Maintenance Technician I (Manheim)](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Riverside-CA/Maintenance-Technician-I--Manheim-_R202684270) | Riverside CA | $21.83 to $32.79/hour | 2026-10-29 | no visa sponsorship |
 | Emerson (NI) | [Welder (1, 2's & 3's)](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013104) | Pearland, TX, United States | $26 to $36/hour | 2026-10-29 | no visa sponsorship |
-| Fiserv | [Silkscreen Operator](https://careers.fiserv.com/us/en/job/R-10405577) | Nashville, Tennessee, United States of America |  | 2026-10-29 |  |
+| Fiserv | [Silkscreen Operator](https://careers.fiserv.com/us/en/job/R-10405577) | Nashville, Tennessee, United States of America |  | 2026-10-29 | no visa sponsorship |
 | FormFactor | [Material Handler 2 - Shipping](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Material-Handler-2---Shipping_JR101367) | Livermore, CA | $19.30 to $25.36/hour | 2026-10-29 |  |
 | FormFactor | [Material Handler 2 - Shipping](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Material-Handler-2---Shipping_JR101366) | Livermore, CA | $19.30 to $25.36/hour | 2026-10-29 |  |
 | H-E-B | [Hourly Loss Prevention Specialist - San Antonio](https://careers.heb.com/careers-home/jobs/249962) | San Antonio, Texas |  | 2026-10-29 |  |
@@ -198,7 +198,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Waste Connections | [Roll Off Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/3185B-Waste-Away-Transport/Roll-Off-Driver_R-104510) | 3185B-Waste Away Transport |  | 2026-10-29 |  |
 | Waste Connections | [Residential Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/3185B-Waste-Away-Transport/Front-Load-CDL-Driver_R-104396) | 3185B-Waste Away Transport |  | 2026-10-29 |  |
 | DoorDash | [Line Cook, Kitchens](https://job-boards.greenhouse.io/doordashusa/jobs/6249056) | Redwood City, CA | $21/hour | 2026-10-29 |  |
-| Siemens Energy | [Overhead Beam Crane Operator (Mon-Fri, 8am-4pm)](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Overhead-Beam-Crane-Operator-Mon-Fri-8am-4pm/305554) | Charlotte, North Carolina, United States of America |  | 2026-10-29 | no visa sponsorship |
+| Siemens Energy | [Overhead Beam Crane Operator (Mon-Fri, 8am-4pm)](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Overhead-Beam-Crane-Operator-Mon-Fri-8am-4pm/305554) | Charlotte, North Carolina, United States of America |  | 2026-10-29 |  |
 | Ascension | [Certified Sterile Processing Technician](https://jobs.ascension.org/us/en/job/22811) | Austin, TX, US |  | 2026-10-28 |  |
 | Ascension | [Operator Switchboard](https://jobs.ascension.org/us/en/job/17836) | Tulsa, OK, US |  | 2026-10-28 |  |
 | AEP | [Stores Attendant Jr](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/Stores-Attendant-Jr_R20608) | Tulsa, OK | $31.88 to $32.64/hour | 2026-10-28 |  |
@@ -293,7 +293,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BNSF Railway | [Conductor Trainee - Primary Recall - Denver, CO](https://jobs.bnsf.com/us/en/job/95999) | Denver, CO, United States | $259.65/hour | 2026-10-26 |  |
 | BNSF Railway | [Conductor Trainee - Primary Recall - Alliance, Nebraska](https://jobs.bnsf.com/us/en/job/95997) | Alliance, NE, United States | $259.65/hour | 2026-10-26 |  |
 | Macy's | [Starbucks Barista Trainer, Fresno Fashion Fair - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/REQ_820615) | Fresno, CA, United States |  | 2026-10-25 |  |
-| ICF | [On-Call Archaeological Field Technician (Southeast US)](https://careers.icf.com/us/en/job/R2603658) | Raleigh, North Carolina, United States of America | $41,623 to $77,835 | 2026-10-25 |  |
+| ICF | [On-Call Archaeological Field Technician (Southeast US)](https://careers.icf.com/us/en/job/R2603658) | Raleigh, North Carolina, United States of America | $41,623 to $77,835 | 2026-10-25 | no visa sponsorship |
 | Polaris | [Production Operator - 3rd Shift](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Huntsville-AL-USA/Production-Operator---3rd-Shift_R31693) | Huntsville, AL, USA | $20.32 to $24.22/hour | 2026-10-25 | no visa sponsorship |
 | Ascension | [Sterile Processing Technician](https://jobs.ascension.org/us/en/job/1325750) | Jacksonville, FL, US |  | 2026-10-25 |  |
 | UT Southwestern | [Refractive Technician, Ophthalmology](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=978625&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-10-24 |  |
@@ -353,7 +353,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Edwards Lifesciences | [Technician, Pilot Quality](https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/USA---California--Irvine/Technician--Pilot-Quality_Req-51748-1) | USA - California – Irvine | $44,000 to $63,000 | 2026-10-23 |  |
 | Entegris | [Purifier Technician I - 3rd Shift](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/San-Luis-Obispo-CA/Purifier-Technician-I---3rd-Shift_REQ-15397-1) | San Luis Obispo, CA | $23 to $25/hour | 2026-10-23 |  |
 | Entegris | [Machine Technician I - 2nd Shift](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/San-Luis-Obispo-CA/Machine-Technician-I---2nd-Shift_REQ-15388) | San Luis Obispo, CA | $22 to $24/hour | 2026-10-23 |  |
-| Fiserv | [Machine Operator](https://careers.fiserv.com/us/en/job/R-10403116) | Indianapolis, Indiana, United States of America |  | 2026-10-23 |  |
+| Fiserv | [Machine Operator](https://careers.fiserv.com/us/en/job/R-10403116) | Indianapolis, Indiana, United States of America |  | 2026-10-23 | no visa sponsorship |
 | Kodiak Gas Services | [Field Service Technician, Entry](https://kodiakgas.wd12.myworkdayjobs.com/KodiakGasCareers/job/TX---Midland/Field-Service-Technician--Entry_JR3870) | TX - Midland |  | 2026-10-23 |  |
 | Loma Linda University Health | [Diet Technician 1](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17700) | Loma Linda, CA, United States |  | 2026-10-23 |  |
 | Oil States International | [CDL HAZMAT Driver](https://recruiting2.ultipro.com/OIL1000OIL/JobBoard/db65c907-0c03-4705-9894-b6385fdde36e/OpportunityDetail?opportunityId=dd0b6813-9308-4e9d-8976-5ae7b12e8517) | Millsap, TX, USA |  | 2026-10-23 |  |
@@ -443,7 +443,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Boston Scientific | [Machine Operator I - 2nd Shift](https://bostonscientific.eightfold.ai/careers/job/563602813818313) | Maple Grove, MN, US |  | 2026-10-21 | no visa sponsorship |
 | CVS Health | [Case Picker - 2nd Shift](https://jobs.cvshealth.com/us/en/job/R1080616) | 19802 Imperial Valley Drive, Houston, Texas,United States | $16 to $28.84/hour | 2026-10-21 |  |
 | Enbridge | [Right-of-Way Maintenance Technician I](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Asheville-NC-USA/Right-of-Way-Maintenance-Technician-I_73165) | Asheville, NC, USA | $30 to $33/hour | 2026-10-21 |  |
-| Fiserv | [Machine Operator](https://careers.fiserv.com/us/en/job/R-10405183) | Shoreview, Minnesota, United States of America | $20 to $22/hour | 2026-10-21 |  |
+| Fiserv | [Machine Operator](https://careers.fiserv.com/us/en/job/R-10405183) | Shoreview, Minnesota, United States of America | $20 to $22/hour | 2026-10-21 | no visa sponsorship |
 | Halliburton | [US Victoria: Service Operator II - Frac/Acid](https://careers.halliburton.com/job/victoria/us-victoria-service-operator-ii-frac-acid/543/101320985696) | Victoria, TX |  | 2026-10-21 |  |
 | Kodiak Gas Services | [Field Service Technician, Entry](https://kodiakgas.wd12.myworkdayjobs.com/KodiakGasCareers/job/NM---Carlsbad/Field-Service-Technician--Entry_JR3873) | NM - Carlsbad |  | 2026-10-21 |  |
 | Lennox | [Machine Operator](https://globalcareers-lennox.icims.com/jobs/55189/machine-operator/job) | Bay Shore, NY | $17 to $20/hour | 2026-10-21 |  |
@@ -525,7 +525,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CommonSpirit Health (St. Luke's Health) | [COOK](https://www.commonspirit.careers/job/santa-maria/cook/35300/102167059488) | SANTA MARIA, CA |  | 2026-10-20 |  |
 | Devon Energy | [Truck Driver](https://wd5.myworkdaysite.com/recruiting/devonenergy/Careers/job/Montrose-PA/Truck-Driver_R26424) | Montrose, PA |  | 2026-10-20 |  |
 | Enbridge | [Wind Turbine Technician I](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Corpus-Christi-TX-USA/Wind-Turbine-Technician-I_73201-2) | Corpus Christi, TX, USA | $24 to $28/hour | 2026-10-20 |  |
-| Intel | [Facilities Water/Waste Treatment Technician](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Facilities-Water-Waste-Treatment-Technician_JR0288254) | US, Arizona, Phoenix | $72,680 to $102,610 | 2026-10-20 |  |
+| Intel | [Facilities Water/Waste Treatment Technician](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Facilities-Water-Waste-Treatment-Technician_JR0288254) | US, Arizona, Phoenix | $72,680 to $102,610 | 2026-10-20 | no visa sponsorship |
 | KLA | [Machinist](https://kla.wd1.myworkdayjobs.com/Search/job/Hayward-CA/Machinist_2636683) | Hayward, CA | $20.77 to $35.29/hour | 2026-10-20 |  |
 | Kodiak Gas Services | [Field Service Technician, Entry](https://kodiakgas.wd12.myworkdayjobs.com/KodiakGasCareers/job/TX---Pecos/Field-Service-Technician--Entry_JR3867) | TX - Pecos |  | 2026-10-20 |  |
 | Kodiak Gas Services | [Field Service Technician, Entry](https://kodiakgas.wd12.myworkdayjobs.com/KodiakGasCareers/job/NM---Carlsbad/Field-Service-Technician--Entry_JR3869) | NM - Carlsbad |  | 2026-10-20 |  |
@@ -599,7 +599,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Republic Services | [Container Shop Welder](https://jobs.republicservices.com/us/en/job/R-186807) | Cuyahoga Falls, Ohio, United States of America |  | 2026-10-20 |  |
 | Republic Services | [Entry Level Diesel Mechanic](https://jobs.republicservices.com/us/en/job/R-186746) | Tyngsboro, Massachusetts, United States of America | $25.15 to $34.60/hour | 2026-10-20 |  |
 | Rivian | [Weld Technician, EDV Body (Afternoon Shift)](https://careers.rivian.com/careers-home/jobs/33169) | Normal, Illinois | $26/hour | 2026-10-20 |  |
-| RSM US | [Delivery Assurance Manager](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/All-Locations---US/Delivery-Assurance-Manager_JR121904) | All Locations - US | $107,000 to $214,500 | 2026-10-20 |  |
+| RSM US | [Delivery Assurance Manager](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/All-Locations---US/Delivery-Assurance-Manager_JR121904) | All Locations - US | $107,000 to $214,500 | 2026-10-20 | no visa sponsorship |
 | SLB | [Field Service Technician](https://careers.slb.com/jobdescription.aspx?id=WDR00137171) | Watford City, United States |  | 2026-10-20 | no visa sponsorship |
 | Symbotic | [Cell Operator](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Jackson-GA/Cell-Operator_R8287) | USA Jackson, GA | $21 to $25/hour | 2026-10-20 |  |
 | Symbotic | [Cell Operator](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Manchester-PA/Cell-Operator_R8274) | USA Manchester, PA | $21 to $25/hour | 2026-10-20 |  |
@@ -735,7 +735,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Shriners Children's | [Surgical Technician I](https://shrinerschildrens.wd12.myworkdayjobs.com/Shriners/job/Portland-OR/Surgical-Technician-I_JR102423) | Portland, OR |  | 2026-10-20 |  |
 | SLB | [Local Hazmat CDL Driver](https://careers.slb.com/jobdescription.aspx?id=WDR00137131) | Hobbs, United States |  | 2026-10-20 | no visa sponsorship |
 | SLB | [Local Hazmat CDL Driver](https://careers.slb.com/jobdescription.aspx?id=WDR00136678) | Odessa, United States |  | 2026-10-20 | no visa sponsorship |
-| Tandem Diabetes Care | [Failure Investigation Technician I](https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California---Barnes/Failure-Investigation-Technician-I_JR101585-1) | California - Barnes | $20.50 to $23/hour | 2026-10-20 |  |
+| Tandem Diabetes Care | [Failure Investigation Technician I](https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California---Barnes/Failure-Investigation-Technician-I_JR101585-1) | California - Barnes | $20.50 to $23/hour | 2026-10-20 | no visa sponsorship |
 | TechnipFMC | [Field Service Technician I](https://careers.technipfmc.com/job/Muncy-Field-Service-Technician-I-PA-17756/1439494700/) | Muncy, PA, US |  | 2026-10-20 |  |
 | Texas Health Resources | [Cook I - PRN](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26003818&lang=en) | Dallas |  | 2026-10-20 |  |
 | Waste Connections | [Residential Driver - Class A Route](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/3300-Phoenix-East-Valley-Hauling/Residential-Driver---Class-A-Route_R-104529) | 3300-Phoenix East Valley Hauling | $25/hour | 2026-10-20 |  |
@@ -754,5 +754,5 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AEP | [Line Mechanic-C-A](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Abilene-TX/Line-Mechanic-C-A_R18378) | Abilene, TX | $34.96 to $56.52/hour | 2026-10-20 |  |
 | AEP | [Service Mechanic C - A (Weslaco, TX)](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Weslaco-TX/Service-Mechanic-C---A--Weslaco--TX-_R20064) | Weslaco, TX | $34.96 to $66.41/hour | 2026-10-20 |  |
 | AEP | [Line Mechanic C-A (Weslaco, TX)](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Weslaco-TX/Line-Mechanic-C-A--Weslaco--TX-_R20020) | Weslaco, TX | $34.96 to $66.41/hour | 2026-10-20 |  |
-| Alcon | [Electro Maintenance Technician (Night Shift)](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Johns-Creek-Georgia/Electro-Maintenace-Technician--Night-Shift-_R-2025-40380-1) | Johns Creek, Georgia |  | 2026-10-20 |  |
+| Alcon | [Electro Maintenance Technician (Night Shift)](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Johns-Creek-Georgia/Electro-Maintenace-Technician--Night-Shift-_R-2025-40380-1) | Johns Creek, Georgia |  | 2026-10-20 | no visa sponsorship |
 | Archrock | [Preservation Mechanic Entry](https://edva.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10000761) | Victoria, TX, United States |  | 2026-10-20 |  |

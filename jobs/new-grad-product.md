@@ -9,7 +9,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Honda | [New Model Project Manager](https://careers.honda.com/us/en/job/12789) | Raymond, Ohio, United States |  | 2026-11-02 |  |
 | Symbotic | [New Grad - Onsite Project Manager](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/New-Grad---Onsite-Project-Manager_R7970) | USA Remote & Travel | $79,500 to $116,600 | 2026-11-02 |  |
 | UC Irvine | [Project Manager (Part-Time Limited)](https://jobs.uci.edu/careers-home/jobs/152952) | Orange, California |  | 2026-11-02 |  |
-| ICF | [Associate Program Manager – Home Weatherization Program](https://careers.icf.com/us/en/job/R2603660) | Newark, New Jersey, United States of America | $89,261 to $151,744 | 2026-10-30 |  |
+| ICF | [Associate Program Manager – Home Weatherization Program](https://careers.icf.com/us/en/job/R2603660) | Newark, New Jersey, United States of America | $89,261 to $151,744 | 2026-10-30 | no visa sponsorship |
 | Lenovo | [Associate Product Manager – Strategic Partnerships (Fresh Grad)](https://jobs.lenovo.com/en_US/careers/JobDetail/Associate-Product-Manager-Strategic-Partnerships-Fresh-Grad/82513) | United States of America, North Carolina, Morrisville |  | 2026-10-30 |  |
 | Black & Veatch | [Project Manager- Substation and Transmission](https://careers.bv.com/job/Phoenix-Project-Manager-Substation-and-Transmission-AZ-85001/1452316433/) | Phoenix, AZ, US |  | 2026-10-29 |  |
 | CommonSpirit Health (St. Luke's Health) | [Program Manager Community Spiritual Care](https://www.commonspirit.careers/job/phoenix/program-manager-community-spiritual-care/35300/102566335776) | PHOENIX, AZ |  | 2026-10-29 |  |
@@ -28,9 +28,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Google | [Program Manager I, Data Center Maintenance Planner, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/119448228339819206) | New Albany, OH, USA | $108,000 to $153,000 | 2026-10-20 |  |
 | Northern Trust | [Associate Product Manager, Private Passport](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/R160791-Associate-Product-Manager--Private-Passport_R163146) | Chicago, IL | $80,800 to $133,400 | 2026-10-20 | no visa sponsorship |
 | Palo Alto Networks | [Product Manager, User Identity](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Product-Manager--User-Identity_JR-022860) | Office - USA - CA - Headquarters | $129,200 to $209,000 | 2026-10-20 | no visa sponsorship |
-| Charter Communications | [Project Manager](https://jobs.spectrum.com/job/stamford/project-manager/4673/101675503024) | Stamford, Connecticut | $81,800 to $131,000 | 2026-10-20 |  |
+| Charter Communications | [Project Manager](https://jobs.spectrum.com/job/stamford/project-manager/4673/101675503024) | Stamford, Connecticut | $81,800 to $131,000 | 2026-10-20 | no visa sponsorship |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Fayetteville-Project-Manager-WaterWastewater-AR-72701/1438094733/) | Fayetteville, AR, US |  | 2026-10-20 |  |
-| Charter Communications | [Organizational Effectiveness Program Manager](https://jobs.spectrum.com/job/charlotte/organizational-effectiveness-program-manager/4673/99688377008) | Charlotte, North Carolina |  | 2026-10-20 |  |
+| Charter Communications | [Organizational Effectiveness Program Manager](https://jobs.spectrum.com/job/charlotte/organizational-effectiveness-program-manager/4673/99688377008) | Charlotte, North Carolina |  | 2026-10-20 | no visa sponsorship |
 | Normal Computing | [Product Manager](https://jobs.ashbyhq.com/normalcomputing/acc80301-3574-4cc8-904a-fb66a346ebd4) | New York |  | 2026-10-20 |  |
 | BD | [Associate Global Product Manager - Capital](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Associate-Global-Product-Manager---Capital_R-557433) | USA GA - Covington BMD |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - LNG](https://careers.bv.com/job/Overland-Park-Project-Manager-LNG-KS-66062/1436742933/) | Houston, TX, US (hybrid) |  | 2026-10-20 |  |
@@ -52,13 +52,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Project Manager, Industrial Water](https://careers.bv.com/job/Overland-Park-Project-Manager%2C-Industrial-Water-KS-66062/1402034333/) | Cary, NC, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager, Industrial Water](https://careers.bv.com/job/Greenwood-Village-Project-Manager%2C-Industrial-Water-CO-80110/1402035033/) | Greenwood Village, CO, US | $142,648 to $242,495 | 2026-10-20 |  |
 | Black & Veatch | [Distribution Project Manager](https://careers.bv.com/job/Ann-Arbor-Distribution-Project-Manager-MI-48103/1423580433/) | Ann Arbor, MI, US |  | 2026-10-20 |  |
-| Charter Communications | [Project Manager](https://jobs.spectrum.com/job/stamford/project-manager/4673/101444347008) | Stamford, Connecticut | $81,800 to $131,000 | 2026-10-20 |  |
+| Charter Communications | [Project Manager](https://jobs.spectrum.com/job/stamford/project-manager/4673/101444347008) | Stamford, Connecticut | $81,800 to $131,000 | 2026-10-20 | no visa sponsorship |
 | Marvell | [M&A Project Manager](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/M-A-Project-Manager_2602942) | Santa Clara, CA |  | 2026-10-20 |  |
 | Northern Trust | [Associate Product Manager, Global Family Office](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-Product-Manager--Global-Family-Office_R161950) | Chicago, IL | $80,800 to $133,400 | 2026-10-20 | no visa sponsorship |
 | Black & Veatch | [Project Manager - Underground Transmission](https://careers.bv.com/job/Overland-Park-Project-Manager-Underground-Transmission-KS-66062/1292504801/) | Overland Park, KS, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Underground Transmission](https://careers.bv.com/job/Burlington-Project-Manager-Underground-Transmission-MA-01803/1292506401/) | Burlington, MA, US | $126,360 to $221,136 | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Transmission](https://careers.bv.com/job/Burlington-Project-Manager-Transmission-MA-01803/1292507701/) | Burlington, MA, US | $126,360 to $221,136 | 2026-10-20 |  |
-| Intel | [Tool Install & Qualification Project Manager](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Tool-Install---Qualification-Project-Manager_JR0286750) | US, Oregon, Hillsboro | $52,000 to $200,000 | 2026-10-20 |  |
+| Intel | [Tool Install & Qualification Project Manager](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Tool-Install---Qualification-Project-Manager_JR0286750) | US, Oregon, Hillsboro | $52,000 to $200,000 | 2026-10-20 | no visa sponsorship |
 | Invesco | [Associate Product Manager, Equities](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Assoc-Product-Mgr-EM-Equities_R-15536) | New York, New York |  | 2026-10-20 |  |
 | Aptiv | [Product Manager ADAS](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Boston-MA---USA/Product-Manager-ADAS_J000703323) | Boston, MA - USA |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Columbus-Project-Manager-WaterWastewater-OH-43085/1421396233/) | Seven Hills, OH, US |  | 2026-10-20 |  |
@@ -74,11 +74,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Project Manager - Advanced Power Generation](https://careers.bv.com/job/Overland-Park-Project-Manager-Advanced-Power-Generation-KS-66062/1286435701/) | Ann Arbor, MI, US |  | 2026-10-20 |  |
 | Guidehouse | [Program Management SETA](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Program-Management-SETA_42728) | US - MD, Bethesda | $115,200 to $172,800 | 2026-10-20 | clearance |
 | ICF | [Program Manager, Public Sector](https://careers.icf.com/us/en/job/R2603161) | Los Angeles, California, United States of America | $89,261 to $151,744 | 2026-10-20 |  |
-| SIG | [Technology Project Manager / Market Data](https://careers.sig.com/careers-home/jobs/11213) | Bala Cynwyd (Philadelphia Area), Pennsylvania |  | 2026-10-20 |  |
+| SIG | [Technology Project Manager / Market Data](https://careers.sig.com/careers-home/jobs/11213) | Bala Cynwyd (Philadelphia Area), Pennsylvania |  | 2026-10-20 | no visa sponsorship |
 | KeyBank | [Product Owner - Teller 21](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Digital-II_R-41440) | Brooklyn, OH | $69,000 to $105,000 | 2026-10-20 |  |
 | Kinder Morgan | [Engineer-Production CO2](https://careers.kindermorgan.com/careers-home/jobs/6168) | SNYDER, Texas |  | 2026-10-20 |  |
-| Siemens | [Associate Project Manager - Medium Voltage Switchgear](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521824) | Raleigh - North Carolina - United States of America; Wendell - North C |  | 2026-10-20 |  |
-| Siemens | [Commercial Project Management Development Program](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521258) |  |  | 2026-10-20 |  |
+| Siemens | [Associate Project Manager - Medium Voltage Switchgear](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521824) | Raleigh - North Carolina - United States of America; Wendell - North C |  | 2026-10-20 | no visa sponsorship |
+| Siemens | [Commercial Project Management Development Program](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521258) |  |  | 2026-10-20 | no visa sponsorship |
 | Roblox | [[2027] Associate Product Manager, Early Career](https://careers.roblox.com/jobs/8143976?gh_jid=8143976) | San Mateo, CA, United States | $143,000 | 2026-10-20 |  |
 | ICF | [Commercial Program Manager – Small Business Energy Savings](https://careers.icf.com/us/en/job/R2602830) | Atlanta, Georgia, United States of America | $98,614 to $167,644 | 2026-10-20 |  |
 | City of Hope | [Associate Project Manager](https://www.cityofhopejobs.org/job/11862/associate-project-manager-clinical-research-us-ca-duarte/) | Duarte, CA, US |  | 2026-10-20 |  |
@@ -96,7 +96,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Arrive Logistics | [Associate Product Manager](https://jobs.lever.co/arrivelogistics/205390b1-157c-46ba-9f51-2887d8f95d1c) | Austin, TX |  | 2026-10-20 |  |
 | ByteDance | [Security Program Manager - Data Center Development](https://joinbytedance.com/search/7659869961426749749) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | ByteDance | [Security Program Manager - Data Center Development](https://joinbytedance.com/search/7659872058170427653) | Ashburn, Virginia, United States of America |  | 2026-10-20 |  |
-| Siemens Energy | [Jr Commercial Project Manager](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Jr-Commercial-Project-Manager/305027) | Orlando, Florida, United States of America |  | 2026-10-20 | no visa sponsorship |
+| Siemens Energy | [Jr Commercial Project Manager](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Jr-Commercial-Project-Manager/305027) | Orlando, Florida, United States of America |  | 2026-10-20 |  |
 | TikTok | [Listing Governance Program Manager Graduate (TikTok Shop - Governance & Experience) - 2027 Start](https://lifeattiktok.com/search/7693569931690182965) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
 | TikTok | [Content Governance Strategy Program Manager Graduate (TikTok Shop - Governance & Experience) - 2027 Start](https://lifeattiktok.com/search/7689566686433331461) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager, Video Moderation, Platform Responsibility](https://lifeattiktok.com/search/7688558723866151221) | San Jose, California, United States of America |  | 2026-10-20 |  |

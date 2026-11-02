@@ -17,7 +17,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Intel | [GPU Driver and Graphics Performance Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/GPU-Driver-and-Graphics-Performance-Engineer_JR0288152) | US, Oregon, Hillsboro (hybrid) | $111,030 to $181,940 | 2026-10-28 |  |
 | TikTok | [User Researcher](https://lifeattiktok.com/search/7699070278786058549) | San Jose, California, United States of America |  | 2026-10-24 |  |
 | Google | [UX Engineer, HUE Futures](https://www.google.com/about/careers/applications/jobs/results/131685895836181190) | San Francisco, CA, USA | $109,000 to $155,000 | 2026-10-22 |  |
-| RSM US | [UX Design Manager](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/UX-Design-Manager_JR122014) | Chicago | $126,500 to $223,900 | 2026-10-22 |  |
+| RSM US | [UX Design Manager](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/UX-Design-Manager_JR122014) | Chicago | $126,500 to $223,900 | 2026-10-22 | no visa sponsorship |
 | Electronic Arts | [Experience Designer - Madden Core](https://jobs.ea.com/en_US/careers/JobDetail/Experience-Designer-I/216492) | Orlando, United States of America |  | 2026-10-22 |  |
 | Ford | [Junior Designer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70670) | Long Beach, CA, United States | $95,600 to $145,000 | 2026-10-21 | no visa sponsorship |
 | Cook Children's | [Polysomnographic Tech (RPSGT)](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Polysomnographic-Tech--RPSGT-_JR-119823) | Fort Worth, TX |  | 2026-10-20 |  |

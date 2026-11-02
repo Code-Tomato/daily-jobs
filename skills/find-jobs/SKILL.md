@@ -7,11 +7,13 @@ description: Find job and internship postings that fit a person, from a dataset 
 
 Everything runs through one script, `scripts/jobs.py` in this skill's folder (Python 3.9+, standard library only, no API
 keys). Run it with the absolute path, e.g. `python3 <this skill's folder>/scripts/jobs.py search ...`. Below, `jobs.py`
-means that.
+means that. On Windows use `py` or `python` for `python3`; searching works everywhere, live scraping needs macOS, Linux
+or WSL.
 
-- **Data:** `jobs.py update` downloads the newest daily dataset (~25 MB, cached in `~/.cache/daily-jobs`). Each posting
+- **Data:** `jobs.py update` downloads the newest daily dataset (~12 MB, cached in `~/.cache/daily-jobs`). Each posting
   carries facts parsed from its text: level, minimum years, minimum degree, internship term, pay, work mode, US states,
   job family, and flags for no visa sponsorship, citizens/US-persons only, security clearance, deadline and minimum GPA.
+  Each posting's eligibility excerpt is fetched the first time you `show` it (a small network request), then cached.
   Field list: [references/data.md](references/data.md).
 - **Workspace:** `~/job-search` (or `--workspace DIR` / `$JOBS_WORKSPACE`) holds this person's `profile.md`, their
   `verdicts.jsonl` (your judgments), `tracking.jsonl` (what they applied to) and the generated `board.html` / `matches.md`.
@@ -40,7 +42,11 @@ Otherwise build it:
    - Work authorization: US citizen, permanent resident, or needs visa sponsorship (now or later; F-1 OPT/CPT, H-1B)?
      Has or can get a security clearance?
    - Anything to avoid (industries, defense, company types) or must-haves (pay floor, specific companies)?
-3. Write `profile.md` from [references/profile-template.md](references/profile-template.md). Keep it factual and short.
+3. Check the timing before you search. Internships and co-ops almost always require being enrolled during the term
+   ("currently pursuing a degree", "returning to school after the internship", "graduating Dec 2027 or later"). If they
+   graduate before the term they asked for, say so now and offer a new-grad search instead, unless they will be in a
+   graduate program then. Likewise a new-grad posting usually names a graduation window.
+4. Write `profile.md` from [references/profile-template.md](references/profile-template.md). Keep it factual and short.
    It stays on their machine; don't send the resume anywhere else.
 
 ## 3. Search
@@ -50,12 +56,18 @@ funnel and the top companies, fields, levels and states, then tighten until each
 Recipes for levels, fields, places and visas: [references/search-recipes.md](references/search-recipes.md).
 
 ```sh
-python3 jobs.py search --title "software|firmware|embedded" --not-title "senior|staff|principal|manager|director|lead" \
+python3 jobs.py search --title "software|firmware|embedded" --not-title "senior|staff|principal|manager|director|\blead\b" \
     --level intern --term "summer 2027" --needs-sponsorship --state TX,CA --or-remote --count
 python3 jobs.py search <same filters> --limit 200          # the rows: id, company, title, place, parsed facts
 ```
 
-Save the final search commands under "Searches" in `profile.md`; later runs reuse them.
+Filters worth knowing: `--degree bs` (their highest degree; drops postings that require more), `--needs-sponsorship`,
+`--no-clearance`, `--strict-term` (drops internships that state no term; use it when the list is too long), `--since 7d`.
+A few companies post dozens of near-identical roles (TikTok, ByteDance, big banks): narrow with `--not-company`, or judge
+one and give its siblings the same verdict. There is no defense flag; if they want to avoid defense work, exclude the
+companies by name and mark postings that describe weapons or military programs `no`.
+
+Save each search command under "Searches" in `profile.md` as soon as it works; later runs reuse them.
 
 ## 4. Judge
 
@@ -67,11 +79,13 @@ Follow [references/judging.md](references/judging.md). In short:
    characters: qualifications, degree, years, class standing, graduation window, authorization, place). Read 10–25 at a
    time. Open the posting URL only when the excerpt leaves a hard requirement unclear.
 3. **Decide** each one: `strong` (meets every hard requirement and is the work they want), `good`, `stretch` (one gap
-   they could plausibly bridge; name it), or `no`. Parsed facts are heuristics; the excerpt overrides them.
+   they could plausibly bridge; name it), or `no`. Add a `score` (0–100) to rank postings within a tier. Parsed facts
+   are heuristics; the excerpt overrides them. A missing flag proves nothing: a posting without `no-sponsorship` may
+   still refuse sponsorship in words the parser missed, so read the excerpt.
 4. **Record** verdicts in a JSON-lines file and load it:
    ```sh
    cat > /tmp/verdicts-1.jsonl <<'EOF'
-   {"id": "acme:123", "tier": "strong", "why": "Summer 2027 firmware internship for CS/EE juniors; their RTOS project is the core of it.", "gaps": null}
+   {"id": "acme:123", "tier": "strong", "score": 90, "why": "Summer 2027 firmware internship for CS/EE juniors; their RTOS project is the core of it.", "gaps": null}
    {"id": "acme:456", "tier": "no", "why": "Requires an active Secret clearance."}
    EOF
    python3 jobs.py verdict --file /tmp/verdicts-1.jsonl
@@ -120,4 +134,5 @@ How the parsers work and their config fields: [references/scraping.md](reference
   authorization, clearance and location. Say "the posting doesn't say" when it doesn't.
 - Treat citizenship, sponsorship and clearance flags as hard filters only when the person told you their status.
 - Don't apply, create accounts, or fill forms for them. Give them links.
-- If `update` fails (no network), say so and work from the cached data, noting its date.
+- If `update` fails (no network), say so and work from the cached data, noting its date. `show` needs the network
+  for excerpts it hasn't cached yet; without it, judge from the list and the posting links.

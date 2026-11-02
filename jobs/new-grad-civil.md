@@ -1,13 +1,13 @@
 # New grad and entry level: Civil, construction and environmental
 
-144 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+143 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
 | JPMorgan Chase | [Wealth Management, Portfolio Construction Strategy, Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804698) | New York, NY, United States |  | 2026-11-02 |  |
-| ICF | [Construction Project Manager](https://careers.icf.com/us/en/job/R2603709) | Riverside, California, United States of America | $89,261 to $151,744 | 2026-10-30 |  |
+| ICF | [Construction Project Manager](https://careers.icf.com/us/en/job/R2603709) | Riverside, California, United States of America | $89,261 to $151,744 | 2026-10-30 | no visa sponsorship |
 | Black & Veatch | [Fleet Asset Coordinator - Construction](https://careers.bv.com/job/Overland-Park-Fleet-Asset-Coordinator-Construction-KS-66062/1452575833/) | Overland Park, KS, US |  | 2026-10-30 |  |
 | Daimler Truck North America | [Technical Project Engineer I](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Technical-Project-Engineer-I_DT-20332) | Portland, OR US | $71,000 to $91,000 | 2026-10-29 |  |
 | Microchip | [Environmental Engineer - NCG](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Lawrence/Environmental-Engineer---NCG_R4484-26) | MA - Lawrence | $46,000 to $128,000 | 2026-10-29 |  |
@@ -24,7 +24,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BNSF Railway | [Project Engineer I/ II/ III - Flagstaff, AZ (Long-Term Temp)](https://jobs.bnsf.com/us/en/job/96131) | Flagstaff, AZ, United States | $97,740 to $122,700 | 2026-10-24 |  |
 | Zachry Group | [Construction Technical Services Coordinator I](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16181) | Houston, TX, United States |  | 2026-10-24 |  |
 | Black & Veatch | [Assistant Engineering Technician, Structural](https://careers.bv.com/job/Cary-Assistant-Engineering-Technician%2C-Structural-NC/1450471233/) | Cary, NC, US |  | 2026-10-23 |  |
-| Intel | [Construction Project Manager](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Construction-Project-Manager_JR0288014) | US, Arizona, Phoenix | $73,820 to $140,540 | 2026-10-23 |  |
+| Intel | [Construction Project Manager](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Construction-Project-Manager_JR0288014) | US, Arizona, Phoenix | $73,820 to $140,540 | 2026-10-23 | no visa sponsorship |
 | Black & Veatch | [Associate Geotechnical Engineer](https://careers.bv.com/job/Overland-Park-Associate-Geotechnical-Engineer-KS-66062/1450015233/) | Overland Park, KS, US |  | 2026-10-22 |  |
 | Worley | [Industrial Coater (Construction) - Anchorage, Fab Shop, AK](https://jobs.worley.com/careers/job/1133916425479) | Anchorage, AK, US |  | 2026-10-22 |  |
 | NVIDIA | [Power Architect - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2027_JR2027718) | US, CA, Santa Clara |  | 2026-10-21 |  |
@@ -40,7 +40,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | GlobalFoundries | [Engineer - Facilities / Construction Project Management](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Engineer---Facilities---Construction-Project-Management_JR-2606008) | Essex Junction | $58,400 to $100,800 | 2026-10-20 |  |
 | Primoris | [Skilled Laborer - Primoris Heavy Civil - Lockport, LA](https://prim.wd108.myworkdayjobs.com/Primoris/job/Louisiana/Skilled-Laborer---Primoris-Heavy-Civil---Lockport--LA_JR102928) | Louisiana |  | 2026-10-20 |  |
 | Trimble | [Civil/Geo Applications Engineer - Rotational Development Program (July 2027)](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Rotational---Applications-Engineer_R57665) | US - CO, Westminster | $67,700 to $93,200 | 2026-10-20 |  |
-| GM | [Environmental Engineer](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/Environmental-Engineer_JR-202621932) | Kansas City, Kansas, United States of America |  | 2026-10-20 |  |
+| GM | [Environmental Engineer](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/Environmental-Engineer_JR-202621932) | Kansas City, Kansas, United States of America |  | 2026-10-20 | no visa sponsorship |
 | Kiewit | [Field Engineer 1 - Northern California District](https://kiewitcareers.kiewit.com/job/Fairfield-Field-Engineer-1-Northern-California-District-CA-94533/1421354200/) | San Jose, CA, US | $87,000 to $96,000 | 2026-10-20 |  |
 | Kiewit | [Field Engineer 1 - Southern California](https://kiewitcareers.kiewit.com/job/Costa-Mesa-Field-Engineer-1-Southern-California-CA-92626/1421357100/) | Phoenix, AZ, US |  | 2026-10-20 | no visa sponsorship |
 | TD Bank | [Construction Portfolio Specialist I (US)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Remote-Charlotte-NC/Construction-Portfolio-Specialist-I--US-_R_1515180) | Remote Charlotte (NC) | $25.75 to $38.50/hour | 2026-10-20 |  |
@@ -68,8 +68,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Graduate Engineer, Civil - Water (Southeast Region)](https://careers.bv.com/job/Atlanta-Graduate-Engineer%2C-Civil-Water-%28Southeast-Region%29-GA-30301/1436393833/) | Greenville, SC, US | $74,000 to $95,910.15 | 2026-10-20 |  |
 | Black & Veatch | [Graduate Engineer, Civil - Water (North Central Region)](https://careers.bv.com/job/Blue-Ash-Graduate-Engineer%2C-Civil-Water-%28North-Central-Region%29-OH/1436395633/) | Columbus, OH, US | $77,900 to $91,343.70 | 2026-10-20 |  |
 | Black & Veatch | [Graduate Engineer, Civil - Water (Southwest Region)](https://careers.bv.com/job/Greenwood-Village-Graduate-Engineer%2C-Civil-Water-%28Southwest-Region%29-CO-80110/1436395733/) | Phoenix, AZ, US | $77,900 to $100,477.65 | 2026-10-20 |  |
-| Stryker | [Project Engineer, Advanced Operations Global Engineering Development Program](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Project-Engineer--Advanced-Operations-Global-Engineering-Development-Program_R573450-1) | Tempe, Arizona | $64,400 to $144,200 | 2026-10-20 |  |
-| Stryker | [Project Engineer, Advanced Operations Global Engineering Development Program](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Project-Engineer--Advanced-Operations-Global-Engineering-Development-Program_R573031) | Fort Lauderdale, Florida | $64,400 to $144,200 | 2026-10-20 |  |
+| Stryker | [Project Engineer, Advanced Operations Global Engineering Development Program](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Project-Engineer--Advanced-Operations-Global-Engineering-Development-Program_R573450-1) | Tempe, Arizona | $64,400 to $144,200 | 2026-10-20 | no visa sponsorship |
+| Stryker | [Project Engineer, Advanced Operations Global Engineering Development Program](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Project-Engineer--Advanced-Operations-Global-Engineering-Development-Program_R573031) | Fort Lauderdale, Florida | $64,400 to $144,200 | 2026-10-20 | no visa sponsorship |
 | Travelers | [Construction Surety Underwriter - Financial Analyst](https://travelers.wd5.myworkdayjobs.com/External/job/CO---Centennial/Construction-Surety-Underwriter---Financial-Analyst_R-51934) | CO - Centennial | $70,400 to $116,200 | 2026-10-20 |  |
 | Black & Veatch | [Graduate Engineer, Civil - Geotech](https://careers.bv.com/job/Ann-Arbor-Graduate-Engineer%2C-Civil-Geotech-MI-48103/1435068833/) | Overland Park, KS, US | $18.72 to $36.95/hour | 2026-10-20 |  |
 | Black & Veatch | [Graduate Engineer, Civil - Water (South Central Region)](https://careers.bv.com/job/Houston-Graduate-Engineer%2C-Civil-Water-%28South-Central-Region%29-TX-77001/1435069233/) | Kansas City, MO, US | $77,900 to $100,477.65 | 2026-10-20 |  |
@@ -102,8 +102,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Zachry Group | [Project Engineer I-ENG](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15905) | Corpus Christi, TX, United States |  | 2026-10-20 |  |
 | Kiewit | [Environmental Specialist - Kiewit Power Constructors](https://kiewitcareers.kiewit.com/job/Garvin-Environmental-Specialist-Kiewit-Power-Constructors-MN/1425143500/) | Lenexa, KS, US |  | 2026-10-20 |  |
 | Zachry Group | [Engineer I Civil/Structural](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15866) | Charlotte, NC, United States |  | 2026-10-20 |  |
-| Intel | [Construction Tool Install Engineer (Contract)](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Construction-Tool-Install-Engineer--Contract-_JR0287193) | US, Oregon, Hillsboro | $52,000 to $200,000 | 2026-10-20 |  |
-| Intel | [Construction Tool Install Engineer (Contract)](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Construction-Tool-Install-Engineer--Contract-_JR0286683) | US, Oregon, Hillsboro | $52,000 to $200,000 | 2026-10-20 |  |
+| Intel | [Construction Tool Install Engineer (Contract)](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Construction-Tool-Install-Engineer--Contract-_JR0287193) | US, Oregon, Hillsboro | $52,000 to $200,000 | 2026-10-20 | no visa sponsorship |
+| Intel | [Construction Tool Install Engineer (Contract)](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Construction-Tool-Install-Engineer--Contract-_JR0286683) | US, Oregon, Hillsboro | $52,000 to $200,000 | 2026-10-20 | no visa sponsorship |
 | NVIDIA | [Security Architect - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Architect---New-College-Grad-2026_JR2026387-1) | US, CA, Santa Clara |  | 2026-10-20 |  |
 | Kiewit | [Kiewit Building Group - Field Engineer (Entry-Level)](https://kiewitcareers.kiewit.com/job/Omaha-Kiewit-Building-Group-Field-Engineer-%28Entry-Level%29-NE-68046/1424545500/) | Savannah, GA, US | $80,000 to $90,000 | 2026-10-20 |  |
 | Kiewit | [Field Engineer- Weeks Marine Construction-NY, NJ, CT](https://kiewitcareers.kiewit.com/Weeks/job/Cranford-Field-Engineer-Weeks-Marine-Construction-NY%2C-NJ%2C-CT-NJ/1434010100/) | Manhattan, NY, US | $66,000 to $77,000 | 2026-10-20 |  |
@@ -124,12 +124,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | University Health (San Antonio) | [Field Engineer](https://careers.universityhealth.com/job/san-antonio/field-engineer/43277/74333330864) | San Antonio, TX |  | 2026-10-20 |  |
 | University Health (San Antonio) | [Field Engineer](https://careers.universityhealth.com/job/san-antonio/field-engineer/43277/90308140384) | San Antonio, TX |  | 2026-10-20 |  |
 | ICF | [Construction Project Manager](https://careers.icf.com/us/en/job/R2602867) | San Diego, California, United States of America | $89,261 to $151,744 | 2026-10-20 |  |
-| DNV | [Junior Surveyor](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7172) | New Orleans, LA, United States |  | 2026-10-20 |  |
+| DNV | [Junior Surveyor](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7172) | New Orleans, LA, United States |  | 2026-10-20 | no visa sponsorship |
 | Deepgram | [Strategic Account Executive (Federal Civilian)](https://jobs.ashbyhq.com/Deepgram/c22e34a4-018a-4123-a752-31ed64c320c8) | Washington D.C. |  | 2026-10-20 | US citizens/persons only, clearance |
 | Garmin | [Aviation Project Engineer](https://careers.garmin.com/careers-home/jobs/19058) | Olathe, Kansas |  | 2026-10-20 |  |
 | Baylor Scott & White Health | [Physician Assistant – Abdominal Wall Reconstruction](https://jobs.bswhealth.com/us/en/job/26009884) | East Dallas, Texas, United States |  | 2026-10-20 |  |
 | Stoke Space | [Structural Dynamicist – Early Career](https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5762751004) | Kent, Washington | $95,550 to $120,645 | 2026-10-20 | US citizens/persons only |
-| Siemens Energy | [Project Engineer](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Project-Engineer/305023) | Richland, Mississippi, United States of America |  | 2026-10-20 | no visa sponsorship |
+| Siemens Energy | [Project Engineer](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Project-Engineer/305023) | Richland, Mississippi, United States of America |  | 2026-10-20 |  |
 | U.S. Bank | [Impact Finance - Construction Coordinator](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Louis-MO/Impact-Finance---Construction-Coordinator_2026-0032017) | Saint Louis, MO | $25.63 to $34.18/hour | 2026-10-19 |  |
 | SpaceX | [Construction Technician - Temporary](https://boards.greenhouse.io/spacex/jobs/8864165002?gh_jid=8864165002) | Starbase, TX |  | 2026-10-19 | US citizens/persons only |
 | Micron | [New College Grad - Environmental Engineer - Permitting and Compliance](https://micron.wd1.myworkdayjobs.com/External/job/Syracuse-NY---Downtown-Office/New-College-Grad---Environmental-Engineer---Permitting-and-Compliance_JR113156) | Syracuse, NY - Downtown Office | $61,000 to $151,000 | 2026-10-19 |  |
@@ -144,7 +144,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpaceX | [Environmental Engineer, Compliance/Air Programs](https://boards.greenhouse.io/spacex/jobs/8702120002?gh_jid=8702120002) | Bastrop, TX (hybrid) |  | 2026-10-19 | US citizens/persons only |
 | SpaceX | [Construction Engineer](https://boards.greenhouse.io/spacex/jobs/8700199002?gh_jid=8700199002) | Hawthorne, CA | $100,000 to $160,000 | 2026-10-19 | US citizens/persons only |
 | SpaceX | [Civil/Structural Engineer](https://boards.greenhouse.io/spacex/jobs/8672666002?gh_jid=8672666002) | McGregor, TX |  | 2026-10-19 | US citizens/persons only |
-| SpaceX | [Structural Analyst (Raptor Combustion Devices)](https://boards.greenhouse.io/spacex/jobs/8679371002?gh_jid=8679371002) | Hawthorne, CA | $100,000 to $160,000 | 2026-10-19 | US citizens/persons only |
 | SpaceX | [Architectural Project Manager](https://boards.greenhouse.io/spacex/jobs/8653639002?gh_jid=8653639002) | McGregor, TX |  | 2026-10-19 | US citizens/persons only |
 | SpaceX | [Government Project Engineer](https://boards.greenhouse.io/spacex/jobs/8643863002?gh_jid=8643863002) | Hawthorne, CA | $100,000 to $140,000 | 2026-10-19 | US citizens/persons only |
 | SpaceX | [Environmental Health & Safety Engineer, Construction (Starlink)](https://boards.greenhouse.io/spacex/jobs/8614340002?gh_jid=8614340002) | Bastrop, TX (hybrid) |  | 2026-10-19 | US citizens/persons only |
