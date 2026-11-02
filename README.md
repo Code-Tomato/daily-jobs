@@ -4,6 +4,36 @@ Every US job posting from about 1,000 company career sites, scraped fresh every 
 your resume and finds the ones you actually qualify for.
 
 <!-- stats -->
+**262,198 US job postings from 1,000 companies**, updated 2026-11-02 (7,438 first seen that day).
+
+- [Internships and co-ops](jobs/internships.md): 10,990 open, 1,110 new this week
+- [New grad and entry level](jobs/new-grad.md): 21,623 open, 3,468 new this week
+
+<details><summary>Postings by field</summary>
+
+| Field | Postings |
+|---|---:|
+| Healthcare | 48,449 |
+| Business, consulting and operations | 47,520 |
+| Finance, accounting and banking | 25,936 |
+| Skilled trades, service and retail | 25,746 |
+| Software engineering | 25,064 |
+| Sales, marketing and communications | 14,571 |
+| Data, ML and AI | 13,000 |
+| Other | 12,973 |
+| Mechanical, aerospace and manufacturing | 12,935 |
+| Hardware, chips and embedded | 10,026 |
+| Product, program and project management | 6,779 |
+| Other engineering | 4,913 |
+| Civil, construction and environmental | 4,482 |
+| HR, legal and policy | 4,007 |
+| Science and research | 3,556 |
+| Design and creative | 1,528 |
+| Education | 713 |
+
+</details>
+
+Boards that failed or looked wrong on their last check (their older postings are kept): Autodesk, Dexterity, Houston Methodist, MD Anderson, Old Mission, Prosperity Bank, Service Corporation International, Tempus.
 <!-- /stats -->
 
 ## Three ways to use it

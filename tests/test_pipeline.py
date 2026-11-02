@@ -102,6 +102,9 @@ class Pipeline(unittest.TestCase):
 
     def test_2_lists_and_readme(self):
         readme = open(os.path.join(self.repo, "README.md")).read()
+        open(os.path.join(self.repo, "README.md"), "w").write("<!-- stats -->\n<!-- /stats -->\n")  # an empty block fills too
+        self.publish.lists(self.out, repo=self.repo)
+        self.assertIn("US job postings", open(os.path.join(self.repo, "README.md")).read())
         self.assertIn("**3 US job postings from 2 companies**", readme)
         self.assertIn("more text", readme)
         self.assertNotIn("\nold\n", readme)

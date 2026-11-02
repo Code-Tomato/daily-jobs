@@ -293,7 +293,9 @@ def lists(out, repo=REPO):
              + (f"\n\nBoards that failed or looked wrong on their last check (their older postings are kept): {', '.join(failed)}." if failed else ""))
     readme = os.path.join(repo, "README.md")
     text = open(readme).read()
-    new = re.sub(r"(<!-- stats -->\n).*?(\n<!-- /stats -->)", lambda m: m.group(1) + block + m.group(2), text, flags=re.S)
+    new = re.sub(r"(<!-- stats -->).*?(<!-- /stats -->)", lambda m: m.group(1) + "\n" + block + "\n" + m.group(2), text, flags=re.S)
+    if new == text and "<!-- stats -->" not in text:
+        log("README has no <!-- stats --> block; stats not written")
     with open(readme, "w") as f:
         f.write(new)
     log(f"lists: " + ", ".join(f"{n} {total}" for n, _, total, _ in summary))
