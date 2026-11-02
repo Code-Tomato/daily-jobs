@@ -619,6 +619,7 @@ EXCERPT = 1800
 def excerpt(row, limit=EXCERPT):
     """At most `limit` characters of the posting, picked for eligibility and fit: qualifications, degree, years, class standing,
     graduation window, citizenship or clearance, place and onsite. Lines keep their original order."""
+    row = clean(row)
     head = []
     for label, key, cap in (("Basic qualifications", "basic", 1000), ("Preferred qualifications", "preferred", 350)):
         t = "; ".join(p for p in _pieces(re.sub(r"(?:^|\s)- ", "\n", row.get(key) or "")) if not _BOILER.search(p))
@@ -658,8 +659,17 @@ def excerpt(row, limit=EXCERPT):
 
 # --- everything at once ----------------------------------------------------------------------------------------------
 
+_ODD_SPACE = re.compile(r"[\u00a0\u2000-\u200b\u202f\u205f\u3000\ufeff]")
+
+
+def clean(row):
+    """The row with no-break and other unusual spaces made plain (Workday text is full of them; regexes expect " ")."""
+    return {k: _ODD_SPACE.sub(" ", v) if isinstance(v, str) else v for k, v in row.items()}
+
+
 def facts(row):
     """Every signal for one posting row ({title, location, category, description, basic, preferred, ...})."""
+    row = clean(row)
     text = "\n".join(filter(None, (row.get("basic"), row.get("preferred"), row.get("description"))))
     yrs = years(row)
     lvl = level(row, yrs)

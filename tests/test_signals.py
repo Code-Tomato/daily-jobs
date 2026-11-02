@@ -93,6 +93,7 @@ class Authorization(unittest.TestCase):
                      "Sponsorship and future sponsorship are not available for this opportunity, including F-1 OPT"):
             self.assertTrue(s.no_sponsor(text), text)
         self.assertFalse(s.no_sponsor("Sponsorship for future roles is not guaranteed"))
+        self.assertTrue(s.facts(post("No company sponsored housing, relocation, visa\xa0sponsorship or Green Card\xa0assistance available"))["no_sponsor"])
         self.assertFalse(s.no_sponsor("We do not discriminate on the basis of visa status"))
         self.assertFalse(s.no_sponsor("We will sponsor visas for qualified candidates."))
         self.assertFalse(s.no_sponsor("Great benefits and a friendly team."))
