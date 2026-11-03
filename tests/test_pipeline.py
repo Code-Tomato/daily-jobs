@@ -1,6 +1,6 @@
 """End to end without the network: a fake store goes through publish.export and publish.lists, and jobs.py searches,
 shows, judges, tracks and builds a board from the result (release downloads are served from the export folder)."""
-import contextlib, gzip, importlib, io, json, os, shutil, sys, tempfile, unittest
+import contextlib, gzip, importlib, io, json, os, re, shutil, sys, tempfile, unittest
 from datetime import date
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
@@ -179,3 +179,108 @@ class Pipeline(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class JevGrading(unittest.TestCase):
+    """jobs.py jev against a fake TypeSafe API."""
+
+    @classmethod
+    def setUpClass(cls):
+        Pipeline.setUpClass.__func__(cls)
+        import jev
+        cls.jev = jev
+        cls.ws = os.path.join(cls.tmp, "jev-ws")
+        os.makedirs(cls.ws)
+        cls.resume = os.path.join(cls.tmp, "resume.md")
+        with open(cls.resume, "w") as f:
+            f.write("# Test Person\n\nB.S. Computer Science, May 2028. Software intern at Example Co, Python and C++.\n" * 3)
+        cls.calls = []
+
+        def fake_post(body, key, timeout=90):
+            req = json.loads(body)
+            cls.calls.append(req)
+            if key == "bad-key-0000000000000":
+                import urllib.error
+                raise urllib.error.HTTPError("https://api.typesafe.ai", 401, "unauthorized", {}, io.BytesIO(b"{}"))
+            title = req["state"]["job"]["title"]
+            fit = 2.8 if "Intern" in title else 0.4
+            return {"model": "jev-1.14.0", "usage": {"input_tokens": 2000, "output_tokens": 0},
+                    "answers": {"eligible": {"noul": 0.9 if "Senior" not in title else 0.1},
+                                "fit": {"score": fit, "confidence": 0.8}}}
+        jev._post = fake_post
+
+    @classmethod
+    def tearDownClass(cls):
+        os.environ.pop("TYPESAFE_API_KEY", None)
+        shutil.rmtree(cls.tmp, ignore_errors=True)
+
+    run_cli = Pipeline.run_cli
+
+    def setUp(self):
+        os.environ["TYPESAFE_API_KEY"] = "test-key-000000000000000"
+        self.run_cli("update")
+
+    def test_1_rubric_must_be_filled(self):
+        code, out, _ = self.run_cli("jev", "rubric", "--workspace", self.ws)
+        self.assertEqual(code, 0)
+        code, _, err = self.run_cli("jev", "estimate", "--all", "--resume", self.resume, "--price-per-mtok", "0.042", "--workspace", self.ws)
+        self.assertEqual(code, 1)
+        self.assertIn("placeholders", err)
+        text = re.sub(r"^- \[.*\]$\n?", "", open(os.path.join(self.ws, "rubric.md")).read(), flags=re.M)
+        text = text.replace("[kinds of work they don't want, e.g. \"sales, customer support, retail, or any non-engineering role\"]", "sales")
+        text = text.replace("[generic example]", "IT support").replace("[their 3 to 6 core areas, in their words]", "systems software")
+        text = text.replace("[their core areas]", "systems software")
+        open(os.path.join(self.ws, "rubric.md"), "w").write(text)
+        rules, levels = self.jev.load_rubric(self.ws)
+        self.assertEqual(len(levels), 4)
+        self.assertTrue(rules)
+
+    def test_2_estimate_and_grade(self):
+        code, out, err = self.run_cli("jev", "estimate", "--all", "--resume", self.resume, "--price-per-mtok", "0.042", "--workspace", self.ws)
+        self.assertEqual(code, 0, err)
+        self.assertIn("3 postings to grade", out)
+        self.assertEqual(self.calls, [])  # estimate sends nothing
+        code, _, err = self.run_cli("jev", "grade", "--all", "--resume", self.resume, "--price-per-mtok", "0.042", "--workspace", self.ws)
+        self.assertEqual(code, 1)
+        self.assertIn("--max-cost", err)
+        code, out, err = self.run_cli("jev", "grade", "--all", "--resume", self.resume, "--max-cost", "1", "--price-per-mtok", "0.042",
+                                      "--workers", "2", "--workspace", self.ws)
+        self.assertEqual(code, 0, err)
+        self.assertIn("Graded 3 of 3", out)
+        sent = self.calls[0]
+        self.assertIn("Software intern at Example Co", sent["state"]["resume"])  # the resume goes verbatim
+        self.assertTrue(sent["state"]["job"]["excerpt"])
+        self.assertEqual(set(sent["questions"]), {"eligible", "fit"})
+        # a second run grades nothing new and reuses the saved resume and selection
+        n = len(self.calls)
+        code, out, _ = self.run_cli("jev", "grade", "--max-cost", "1", "--price-per-mtok", "0.042", "--workspace", self.ws)
+        self.assertIn("0 postings to grade", out)
+        self.assertEqual(len(self.calls), n)
+        code, out, _ = self.run_cli("search", "--graded", "--min-fit", "2", "--min-eligible", "0.5", "--sort", "rank", "--workspace", self.ws)
+        self.assertIn("acme:1", out)
+        self.assertNotIn("acme:2", out)
+        self.assertIn("jev fit 2.8", out)
+        code, out, _ = self.run_cli("board", "--workspace", self.ws)
+        self.assertIn("1 Jev picks", out)
+        self.assertIn("Jev's top picks", open(os.path.join(self.ws, "board.html")).read())
+        spend = self.jev.spend(self.ws)
+        self.assertAlmostEqual(spend[-1]["usd"], 3 * 2000 * 0.042 / 1e6, places=8)
+
+    def test_3_cost_cap_and_bad_key(self):
+        ws = os.path.join(self.tmp, "jev-ws2")
+        os.makedirs(ws, exist_ok=True)
+        shutil.copy(os.path.join(self.ws, "rubric.md"), ws)
+        code, out, err = self.run_cli("jev", "grade", "--all", "--resume", self.resume, "--max-cost", "0.0000001",
+                                      "--price-per-mtok", "0.042", "--workspace", ws)
+        self.assertEqual(code, 0, err)
+        self.assertIn("Graded 0 of 3", out)
+        self.assertIn("cap", out)
+        os.environ["TYPESAFE_API_KEY"] = "bad-key-0000000000000"
+        code, _, err = self.run_cli("jev", "grade", "--all", "--resume", self.resume, "--max-cost", "1", "--price-per-mtok", "0.042", "--workspace", ws)
+        self.assertEqual(code, 1)
+        self.assertIn("key", err)
+
+    def test_4_price_page_parsing(self):
+        page = "| Price (per Btok / per Mtok) | \\$42 / \\$0.042 | \\$42 / \\$0.042 |"
+        self.assertEqual(self.jev.parse_price(page), 0.042)
+        self.assertIsNone(self.jev.parse_price("nothing here"))

@@ -1,6 +1,6 @@
 ---
 name: find-jobs
-description: Find job and internship postings that fit a person, from a dataset of every US posting on ~1,000 company career sites (Greenhouse, Lever, Ashby, Workday, iCIMS, Oracle, Eightfold, Google, Apple and more) refreshed daily. Reads their resume, turns their goals into filters (role, level, location, internship term, visa sponsorship, clearance, pay), judges each shortlisted posting against their background, and builds a ranked board of matches with links. Also scrapes a company's job board live with bundled parsers. Use when someone asks to find jobs or internships, see what's new since last time, check whether they qualify for postings, or pull a company's open roles.
+description: Find job and internship postings that fit a person, from a dataset of every US posting on ~1,000 company career sites (Greenhouse, Lever, Ashby, Workday, iCIMS, Oracle, Eightfold, Google, Apple and more) refreshed daily. Turns their goals into filters (role, level, location, internship term, visa sponsorship, clearance, pay), judges postings against their background, and builds a ranked board of matches with links. With a TypeSafe API key, Jev (a fast System One decision model) grades their resume against the whole database for about $15. Also scrapes a company's job board live with bundled parsers. Use when someone asks to find jobs or internships, see what's new since last time, check whether they qualify for postings, or pull a company's open roles.
 ---
 
 # Find jobs
@@ -15,6 +15,9 @@ or WSL.
   job family, and flags for no visa sponsorship, citizens/US-persons only, security clearance, deadline and minimum GPA.
   Each posting's eligibility excerpt is fetched the first time you `show` it (a small network request), then cached.
   Field list: [references/data.md](references/data.md).
+- **Jev (optional):** with the person's own TypeSafe API key, `jobs.py jev grade` sends their resume file and each
+  posting to Jev, TypeSafe's System One model, and gets back eligibility (0–1) and fit (0–3) for every posting in the
+  database: about 1,500 input tokens a posting, roughly $15 for all ~260k, a few cents a day after. See section 3b.
 - **Workspace:** `~/job-search` (or `--workspace DIR` / `$JOBS_WORKSPACE`) holds this person's `profile.md`, their
   `verdicts.jsonl` (your judgments), `tracking.jsonl` (what they applied to) and the generated `board.html` / `matches.md`.
   Use one workspace per person.
@@ -42,6 +45,10 @@ Otherwise build it:
    - Work authorization: US citizen, permanent resident, or needs visa sponsorship (now or later; F-1 OPT/CPT, H-1B)?
      Has or can get a security clearance?
    - Anything to avoid (industries, defense, company types) or must-haves (pay floor, specific companies)?
+   - Do they have a TypeSafe API key, or want one? With it, Jev grades every posting against their resume (section
+     3b; they pay TypeSafe directly, about $15 for the whole database). Without it, you narrow the data with filters
+     and read the shortlist yourself (sections 3 and 4).
+   If they choose Jev, ask only for the resume's file path and don't open the file: the script sends it to Jev as is.
 3. Check the timing before you search. Internships and co-ops almost always require being enrolled during the term
    ("currently pursuing a degree", "returning to school after the internship", "graduating Dec 2027 or later"). If they
    graduate before the term they asked for, say so now and offer a new-grad search instead, unless they will be in a
@@ -68,6 +75,36 @@ one and give its siblings the same verdict. There is no defense flag; if they wa
 companies by name and mark postings that describe weapons or military programs `no`.
 
 Save each search command under "Searches" in `profile.md` as soon as it works; later runs reuse them.
+
+## 3b. Or: grade everything with Jev
+
+Jev is TypeSafe's System One model: not a chat model, a fast decision model that answers typed questions (here: does
+this person meet every hard requirement, and how close is the work to what they want) with calibrated numbers. The
+script does all of it; you never parse the resume, the dataset files, or the job lists.
+
+1. **Key.** They get one at https://console.typesafe.ai/keys. The console is also where they check usage, spend and
+   rate limits; prices are at https://docs.typesafe.ai/models.md. They store it themselves, in their own terminal:
+   `python3 <this skill's folder>/scripts/jobs.py jev key` (hidden prompt), or `export TYPESAFE_API_KEY=...` in their
+   shell profile. On a Mac they can instead copy the key and let you run `pbpaste | python3 jobs.py jev key`; the key
+   goes through the pipe and is never printed. Never ask them to paste it into the chat; if they do, tell them to revoke it in the console and make a
+   new one. `jobs.py jev status --check` confirms the key works (one tiny request, a fraction of a cent).
+2. **Rubric.** `jobs.py jev rubric` writes `rubric.md` in the workspace. Replace each `[bracket]` with what the person
+   told you: work authorization, clearance, places they can't work, the work they want (fit 2 and 3) and don't (fit 0).
+   Don't copy anything from the resume; Jev reads it. Tell them their resume goes to TypeSafe with every request.
+3. **Scope and cost.** `jobs.py jev estimate --all --resume PATH` for the whole database, or with search filters to
+   skip what can't fit (`--level intern,new-grad,entry,unknown`, `--state TX --or-remote`...). It prints postings,
+   tokens, dollars and minutes, and spends nothing. Tell them; they choose the scope and the most it may spend.
+4. **Run.** `jobs.py jev grade --all --resume PATH --max-cost 20 --workers 8`. It stops before passing the cap, and a
+   stopped or interrupted run continues where it left off. The whole database takes a few hours, so start it in the
+   background and check on it; a few thousand postings take minutes.
+5. **Results.** `jobs.py search --graded --min-eligible 0.5 --min-fit 2 --sort rank --limit 100` lists Jev's best, and
+   `jobs.py board` adds a "Jev's top picks" section. Jev reads each posting's excerpt, not the whole page; before you call
+   one a strong match, `show` it and judge it as in section 4 (your verdicts move picks into the tiers).
+6. **Next time.** `update`, then `jobs.py jev grade --max-cost 2`: it reuses the saved resume and scope and grades only
+   postings it hasn't seen. Editing the resume or rubric makes the old grades stale, so the next run regrades (check
+   `jev estimate` first). `jobs.py jev spend` lists what each run cost.
+
+Details, including exactly what is sent: [references/jev.md](references/jev.md).
 
 ## 4. Judge
 
@@ -129,6 +166,10 @@ Scrape one company at a time and only ones the person asked about; big boards (W
 How the parsers work and their config fields: [references/scraping.md](references/scraping.md).
 
 ## Rules
+
+- `jobs.py` is the only way into the data. Don't open the repo's `jobs/*.md` lists or the dataset files
+  (`jobs.jsonl.gz`, `excerpts.bin`) to look for jobs; they are for people browsing and for the script.
+- On the Jev path, don't read, summarize or convert the resume; pass its path. Never see or handle the API key.
 
 - Never claim someone qualifies without checking the excerpt (or posting) for degree, graduation timing, years,
   authorization, clearance and location. Say "the posting doesn't say" when it doesn't.

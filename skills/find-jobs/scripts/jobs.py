@@ -14,6 +14,7 @@ Usage: python3 jobs.py <command> [options]          (Python 3.9+, standard libra
   companies [REGEX]         companies in the data with posting counts and board status
   scrape COMPANY | --board JSON   fetch one company's board live with the bundled scrapers; its rows join your searches
   find-board COMPANY [--url CAREERS_URL] [--slug SLUG]   work out which job board a company uses (for scrape --board)
+  jev ...                   grade postings against the resume with Jev, TypeSafe's System One model (`jobs.py jev` for help)
 
 Search filters (all optional, combined with AND; REGEX is case-insensitive; repeat a flag to OR its values):
   --title REGEX  --not-title REGEX  --company REGEX  --not-company REGEX  --category REGEX
@@ -26,7 +27,8 @@ Search filters (all optional, combined with AND; REGEX is case-insensitive; repe
   --needs-sponsorship (drop no-sponsorship and citizens-only postings)   --no-citizen-only   --no-clearance
   --min-pay N (yearly; hourly x 2,080; --has-pay drops postings without pay)   --since DATE|Nd (first seen)   --posted-since DATE|Nd
   --unjudged (not in your verdicts)   --ids FILE (one id per line)
-Output: --limit N (default 60) | --all, --sort seen|posted|company|pay, --json (full rows), --ids-only, --count (funnel and breakdowns)
+  --graded / --ungraded, --min-fit F (0-3), --min-eligible E (0-1): Jev grades from `jobs.py jev grade`
+Output: --limit N (default 60) | --all, --sort seen|posted|company|pay|rank (Jev fit x eligible), --json (full rows), --ids-only, --count (funnel and breakdowns)
 
 Files: the dataset is cached in ~/.cache/daily-jobs ($DAILY_JOBS_CACHE). Your verdicts, statuses and board live in the
 workspace, ~/job-search ($JOBS_WORKSPACE, or --workspace DIR before or after the command). Data: https://github.com/Code-Tomato/daily-jobs ($DAILY_JOBS_REPO).
@@ -38,6 +40,7 @@ from datetime import date, datetime, timedelta
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import signals  # noqa: E402
+import jev  # noqa: E402
 
 REPO = os.environ.get("DAILY_JOBS_REPO", "Code-Tomato/daily-jobs")
 CACHE = os.environ.get("DAILY_JOBS_CACHE") or os.path.join(os.path.expanduser("~"), ".cache", "daily-jobs")
@@ -66,7 +69,8 @@ def flag(args, name):
 
 
 BOOL_FLAGS = {"--force", "--count", "--json", "--ids-only", "--all", "--remote", "--or-remote", "--strict-term", "--needs-sponsorship",
-              "--no-citizen-only", "--no-clearance", "--has-pay", "--unjudged", "--open", "--keep-non-us"}
+              "--no-citizen-only", "--no-clearance", "--has-pay", "--unjudged", "--open", "--keep-non-us", "--graded", "--ungraded",
+              "--check", "--yes"}
 
 
 def positional(args):
@@ -148,7 +152,7 @@ def update(args):
         json.dump(latest, f)
     os.replace(os.path.join(CACHE, "meta.json.tmp"), os.path.join(CACHE, "meta.json"))
     for n in os.listdir(CACHE):  # excerpts fetched for an older release no longer match its offsets
-        if n.startswith("excerpts-") and n != f"excerpts-{latest['tag']}.jsonl":
+        if n.startswith("excerpts-") and latest["tag"] not in n:
             os.remove(os.path.join(CACHE, n))
     new = f", {latest['new_today']:,} first seen that day" if latest.get("new_today") else ""
     print(f"Updated to {latest['date']}: {latest['postings']:,} postings from {latest['companies']:,} companies{new}.")
@@ -277,6 +281,29 @@ def statuses(ws):
     return out
 
 
+def jev_config(ws):
+    try:
+        with open(os.path.join(ws, "jev.json")) as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return {}
+
+
+def save_jev_config(ws, cfg):
+    with open(os.path.join(ws, "jev.json"), "w") as f:
+        json.dump(cfg, f, indent=1)
+
+
+def current_grades(ws):
+    """Jev grades made under the resume and rubric of the last `jev grade` run."""
+    h = jev_config(ws).get("h")
+    return jev.grades(ws, h) if h else {}
+
+
+def rank(g):
+    return (g.get("fit") or 0) * (g.get("eligible") or 0)
+
+
 # --- search ----------------------------------------------------------------------------------------------------------
 
 def _days(s):
@@ -393,6 +420,15 @@ def build_filters(args, ws):
     if opt(args, "--ids"):
         want = {l.strip() for l in open(opt(args, "--ids")) if l.strip()}
         f.append(("ids", lambda r: r["id"] in want))
+    if any(flag(args, x) or opt(args, x) for x in ("--graded", "--ungraded", "--min-fit", "--min-eligible")):
+        gs = current_grades(ws)
+        if flag(args, "--ungraded"):
+            f.append(("ungraded", lambda r: r["id"] not in gs))
+        elif not gs:
+            raise Fail("No Jev grades yet (see `jobs.py jev --help`).")
+        else:
+            lo_fit, lo_el = float(opt(args, "--min-fit", 0)), float(opt(args, "--min-eligible", 0))
+            f.append(("graded", lambda r: r["id"] in gs and gs[r["id"]]["fit"] >= lo_fit and gs[r["id"]]["eligible"] >= lo_el))
     return f
 
 
@@ -411,7 +447,7 @@ def flags_of(r):
     return out
 
 
-def line(r, v=None, s=None):
+def line(r, v=None, s=None, g=None):
     bits = [r.get("level") or "level ?"]
     if r.get("years") is not None:
         bits.append(f"{r['years']}+ yrs")
@@ -424,7 +460,8 @@ def line(r, v=None, s=None):
     if r.get("remote"):
         bits.append(r["remote"])
     bits += flags_of(r)
-    tail = f" | seen {r.get('seen') or '?'}" + (f" | YOU: {v['tier']}" if v else "") + (f" [{s['status']}]" if s else "") + (" | local" if r.get("local") else "")
+    tail = (f" | seen {r.get('seen') or '?'}" + (f" | jev fit {g['fit']:.1f} elig {g['eligible']:.2f}" if g else "")
+            + (f" | YOU: {v['tier']}" if v else "")) + (f" [{s['status']}]" if s else "") + (" | local" if r.get("local") else "")
     cut = lambda t, n: t if len(t) <= n else t[:n - 1] + "…"
     return f"{r['id']}  {r['company']} | {cut(r['title'], 90)} | {cut(r.get('location') or '?', 45)} | {', '.join(bits)}{tail}"
 
@@ -460,7 +497,9 @@ def search(args):
         return
     sort = opt(args, "--sort", "seen")
     keys = {"seen": lambda r: (r.get("seen") or "", r.get("posted") or ""), "posted": lambda r: (r.get("posted") or "", r.get("seen") or ""),
-            "company": lambda r: (r["company"].lower(), r["title"].lower()), "pay": lambda r: signals.yearly(r.get("pay")) or 0}
+            "company": lambda r: (r["company"].lower(), r["title"].lower()), "pay": lambda r: signals.yearly(r.get("pay")) or 0,
+            "rank": lambda r: rank(gs.get(r["id"], {}))}
+    gs = current_grades(ws) if sort == "rank" or not flag(args, "--json") else {}
     if sort not in keys:
         raise Fail(f"--sort takes {', '.join(keys)}")
     out.sort(key=keys[sort], reverse=sort != "company")
@@ -474,7 +513,7 @@ def search(args):
     else:
         vs, ss = verdicts(ws), statuses(ws)
         for r in shown:
-            print(line(r, vs.get(r["id"]), ss.get(r["id"])))
+            print(line(r, vs.get(r["id"]), ss.get(r["id"]), gs.get(r["id"])))
         more = f" (showing {len(shown)}; --limit N or --all for more)" if len(out) > len(shown) else ""
         print(f"\n{len(out):,} match{'' if len(out) == 1 else 'es'}{more}", file=sys.stderr)
 
@@ -485,6 +524,7 @@ def show(args):
         raise Fail("show takes posting ids (from search)")
     rs = get_rows(ids)
     ex = excerpts(rs)
+    gs = current_grades(workspace(args))
     if flag(args, "--json"):
         for r in rs:
             print(json.dumps({**{k: v for k, v in r.items() if k != "x"}, "excerpt": ex.get(r["id"], "")}, ensure_ascii=False))
@@ -498,6 +538,9 @@ def show(args):
         if r.get("pay"):
             facts.append("pay " + signals.pay_text(r["pay"]))
         facts += [f for f in flags_of(r) if not f.startswith(("gpa", "deadline"))]
+        g = gs.get(r["id"])
+        if g:
+            facts.append(f"Jev: fit {g['fit']:.2f} of 3, eligible {g['eligible']:.2f}")
         print(f"=== {r['id']}\n{r['company']}: {r['title']}\n{r.get('location') or '?'} | posted {r.get('posted') or '?'} | first seen {r.get('seen') or '?'}\n"
               f"{r.get('url')}\nParsed: {'; '.join(facts)}\n--- excerpt\n{ex.get(r['id'], '(no text)')}\n")
 
@@ -625,6 +668,19 @@ def board(args):
             '<option value="open">Not applied yet</option><option value="all">Everything</option>'
             + "".join(f'<option value="{s}">{s}</option>' for s in STATUSES) + "</select></div>"
             + "".join(sections) + f"<script>{BOARD_JS}</script></main></body></html>")
+    picks = jev_picks(ws, vs)
+    if picks:
+        rows_html = "".join(
+            f'<div class="job" data-status="{e(ss.get(r["id"], {}).get("status", ""))}" data-text="{e((r["company"] + " " + r["title"] + " " + (r.get("location") or "")).lower())}">'
+            f'<div class="top"><div><a href="{e(r.get("url") or "#")}" target="_blank" rel="noopener">{e(r["title"])}</a> <span class="co">· {e(r["company"])}</span></div>'
+            f'<span class="chip">fit {g["fit"]:.1f} · eligible {g["eligible"]:.0%}</span></div><div class="meta">'
+            + "".join(f'<span class="chip">{e(str(c))}</span>' for c in (r.get("location"), signals.pay_text(r.get("pay")), r.get("term"),
+                                                                         f"first seen {r['seen']}" if r.get("seen") else None) if c)
+            + "</div></div>" for r, g in picks)
+        page = page.replace(f"<script>{BOARD_JS}</script>",
+                            f'<section class="tier-good"><h2>Jev\'s top picks, not reviewed yet <small><span class="n">{len(picks)}</span></small></h2>'
+                            f'<p class="sub">Ranked by fit × eligibility from Jev\'s pass over the data. Read the posting before applying.</p>{rows_html}</section>'
+                            f"<script>{BOARD_JS}</script>")
     path = os.path.join(ws, "board.html")
     with open(path, "w") as f:
         f.write(page)
@@ -639,11 +695,29 @@ def board(args):
                           + (f" · {signals.pay_text(v.get('pay'))}" if v.get("pay") else "") + (f" · **{s}**" if s else "")
                           + (" · posting gone" if v.get("gone") else "") + f"\n  {v.get('why')}" + (f" Gap: {v['gaps']}" if v.get("gaps") else ""))
             md.append("")
+    if picks:
+        md += [f"## Jev's top picks, not reviewed yet ({len(picks)})", ""]
+        md += [f"- [{r['company']}: {r['title']}]({r.get('url')}) · {r.get('location') or '?'} · fit {g['fit']:.1f}, eligible {g['eligible']:.0%}"
+               for r, g in picks]
     with open(os.path.join(ws, "matches.md"), "w") as f:
         f.write("\n".join(md))
-    print(f"Wrote {path} and matches.md ({len(jobs)} matches)")
+    print(f"Wrote {path} and matches.md ({len(jobs)} judged matches" + (f", {len(picks)} Jev picks" if picks else "") + ")")
     if flag(args, "--open"):
         webbrowser.open("file://" + path)
+
+
+def jev_picks(ws, vs, limit=150):
+    """Graded postings Jev rates eligible (>= 0.5) and related (fit >= 2), best first, minus ones already judged."""
+    gs = current_grades(ws)
+    if not gs:
+        return []
+    good = {i for i, g in gs.items() if g["eligible"] >= 0.5 and g["fit"] >= 2 and i not in vs}
+    try:
+        live = [r for r in rows() if r["id"] in good]
+    except Fail:
+        return []
+    live.sort(key=lambda r: -rank(gs[r["id"]]))
+    return [(r, gs[r["id"]]) for r in live[:limit]]
 
 
 def companies(args):
@@ -669,6 +743,11 @@ def status(args):
     local = Counter(r["company"] for r in local_rows())
     if local:
         print("Local scrapes: " + ", ".join(f"{c} {n}" for c, n in local.items()))
+    gs, cfg = current_grades(ws), jev_config(ws)
+    if cfg or jev.api_key():
+        total = sum(x.get("usd") or 0 for x in jev.spend(ws))
+        print(f"Jev: key {'set' if jev.api_key() else 'missing'}, {len(gs):,} current grades, ${total:.2f} spent in this workspace"
+              + ("" if os.path.exists(os.path.join(ws, "rubric.md")) else ", no rubric.md yet"))
     vs, ss = verdicts(ws), statuses(ws)
     tiers = ", ".join(f"{n} {t}" for t, n in Counter(v["tier"] for v in vs.values()).items())
     print(f"Workspace: {ws}: {len(vs)} postings judged" + (f" ({tiers})" if tiers else "") + f", {len(ss)} tracked, "
@@ -794,8 +873,169 @@ def find_board(args):
     print("\nUse one with: python3 jobs.py scrape --board '<the JSON above>'", file=sys.stderr)
 
 
+# --- Jev (TypeSafe System One) ------------------------------------------------------------------------------------
+
+JEV_HELP = """Grade postings against the person's resume with Jev (TypeSafe's System One model), one request per posting.
+  jev status [--check]       key set? (--check sends one tiny request, a fraction of a cent, to prove it works)
+  jev key                    the PERSON runs this in their own terminal: a hidden prompt saves the key (never paste it in chat)
+  jev rubric                 create the workspace's rubric.md from the template; then fill in its [brackets]
+  jev estimate [filters | --all] [--resume PATH]          how many postings, tokens, dollars and minutes; spends nothing
+  jev grade [filters | --all] --resume PATH --max-cost USD [--workers N] [--model jev-latest] [--limit N]
+                             grade every selected posting not graded yet under this resume + rubric; stops before
+                             passing --max-cost. Later runs reuse the saved resume and selection: `jev grade --max-cost 2`
+  jev spend                  what each run cost
+Filters are the search filters (--title, --level, --state...). --all selects the whole dataset. Results: search
+--sort rank, --min-fit 2, --min-eligible 0.5, --graded/--ungraded; show and board include Jev's grades.
+Key, usage and rate limits: https://console.typesafe.ai  ·  prices: https://docs.typesafe.ai/models.md"""
+
+
+def _jev_selection(args, ws, cfg):
+    """(rows to grade, hash, resume, rules, levels, model, filter args) for estimate/grade."""
+    resume_path = opt(args, "--resume") or cfg.get("resume")
+    if not resume_path:
+        raise Fail("Pass --resume PATH (the person's resume file; the script reads it, you don't need to).")
+    resume_path = os.path.abspath(os.path.expanduser(resume_path))
+    try:
+        resume = jev.read_resume(resume_path)
+        rules, levels = jev.load_rubric(ws)
+    except jev.JevError as e:
+        raise Fail(str(e))
+    model = opt(args, "--model") or cfg.get("model") or jev.DEFAULT_MODEL
+    sel = [a for a in args if a not in ("--yes", "--check")]
+    for name in ("--resume", "--max-cost", "--workers", "--model", "--limit", "--price-per-mtok", "--workspace"):
+        while name in sel:
+            i = sel.index(name)
+            del sel[i:i + 2]
+    if not sel:
+        sel = cfg.get("selection") or []
+        if not sel:
+            raise Fail("Say what to grade: search filters (e.g. --level intern --family software), or --all for every posting.")
+    filters = [] if sel == ["--all"] else build_filters(sel, ws)
+    h = jev.input_hash(resume, rules, levels, model)
+    done = jev.grades(ws, h)
+    todo = [r for r in rows() if r["id"] not in done and all(p(r) for _, p in filters)]
+    todo.sort(key=lambda r: (r.get("seen") or "", r.get("posted") or ""), reverse=True)  # newest first, so a capped run covers them
+    if opt(args, "--limit"):
+        todo = todo[:int(opt(args, "--limit"))]
+    return todo, len(done), h, resume, rules, levels, model, sel, resume_path
+
+
+def _jev_estimate(todo, resume, rules, levels, price, workers):
+    fixed = jev.tokens_of(resume) + jev.tokens_of(json.dumps(jev.questions(rules, levels))) + 60
+    excerpt_tokens = sum(jev.tokens_of(r["title"] + r["company"] + (r.get("location") or "")) + (r.get("x") or [0, 1500 / 3])[1] * 3 / 3.6
+                         for r in todo)
+    tokens = len(todo) * fixed + excerpt_tokens
+    return tokens, tokens * price / 1e6, len(todo) * 0.45 / max(1, workers) / 60
+
+
+def _excerpt_source(todo):
+    """excerpt_for(row) for a grading run: byte ranges for a few hundred postings, the whole excerpts file for more."""
+    m = need_data()
+    if len(todo) <= 1500:
+        got = {}
+        for i in range(0, len(todo), 300):
+            got.update(excerpts(todo[i:i + 300]))
+        return lambda r: got.get(r["id"], "")
+    path = os.path.join(CACHE, f"excerpts-{m['tag']}.bin")
+    if not os.path.exists(path):
+        _download(f"https://github.com/{REPO}/releases/download/{m['tag']}/excerpts.bin", path, "excerpts.bin (once per dataset)")
+    zdict = open(os.path.join(CACHE, "excerpts.dict"), "rb").read()
+    import threading
+    lock, fh = threading.Lock(), open(path, "rb")
+    local = {r["id"]: r.get("excerpt", "") for r in todo if r.get("local")}
+
+    def read(r):
+        if r["id"] in local:
+            return local[r["id"]]
+        if not r.get("x"):
+            return ""
+        with lock:
+            fh.seek(r["x"][0])
+            blob = fh.read(r["x"][1])
+        d = zlib.decompressobj(-15, zdict=zdict)
+        return (d.decompress(blob) + d.flush()).decode("utf-8", "replace")
+    return read
+
+
+def jev_cmd(args):
+    ws = workspace(args)
+    sub = positional(args)[:1]
+    if not sub or sub[0] not in ("status", "key", "rubric", "estimate", "grade", "spend"):
+        print(JEV_HELP)
+        return
+    sub, rest = sub[0], args[args.index(sub[0]) + 1:] + ([a for a in args[:args.index(sub[0])]])
+    cfg = jev_config(ws)
+    if sub == "key":
+        try:
+            jev.save_key()
+        except jev.JevError as e:
+            raise Fail(str(e))
+    elif sub == "status":
+        k = jev.api_key()
+        src = "TYPESAFE_API_KEY" if os.environ.get("TYPESAFE_API_KEY") else jev.KEY_FILE
+        print(f"Key: {'set, from ' + src if k else 'not set'}" + ("" if k else f" (get one at {jev.CONSOLE}/keys; the person runs `jobs.py jev key`)"))
+        if k and flag(rest, "--check"):
+            try:
+                print(f"Key works (answered by {jev.check_key()}).")
+            except jev.JevError as e:
+                raise Fail(str(e))
+        print(f"Rubric: {'present' if os.path.exists(os.path.join(ws, 'rubric.md')) else 'missing (jobs.py jev rubric)'}"
+              f"; resume: {cfg.get('resume') or 'not chosen yet (--resume PATH)'}")
+        if cfg.get("selection"):
+            print("Saved selection: " + " ".join(cfg["selection"]))
+        gs = current_grades(ws)
+        print(f"Grades: {len(gs):,} current; spent ${sum(x.get('usd') or 0 for x in jev.spend(ws)):.3f} in this workspace. "
+              f"Usage and limits: {jev.CONSOLE}")
+    elif sub == "rubric":
+        path = os.path.join(ws, "rubric.md")
+        if os.path.exists(path):
+            print(f"{path} already exists; edit it there.")
+        else:
+            with open(path, "w") as f:
+                f.write(jev.RUBRIC_TEMPLATE)
+            print(f"Wrote {path}. Fill in the [brackets] from what the person told you (not from the resume; Jev reads that itself).")
+    elif sub == "spend":
+        runs = jev.spend(ws)
+        for x in runs:
+            print(f"{x['at']}: {x['graded']:,} graded, {x['input_tokens']:,} tokens, ${x['usd']:.4f}" + (f", stopped: {x['stopped']}" if x.get("stopped") else ""))
+        print(f"Total: ${sum(x.get('usd') or 0 for x in runs):.4f} over {len(runs)} runs. TypeSafe's own record: {jev.CONSOLE}")
+    else:
+        todo, n_done, h, resume, rules, levels, model, sel, resume_path = _jev_selection(rest, ws, cfg)
+        workers = int(opt(rest, "--workers", 4))
+        try:
+            price = jev.price_per_mtok(model, opt(rest, "--price-per-mtok"))
+        except jev.JevError as e:
+            raise Fail(str(e))
+        tokens, usd, minutes = _jev_estimate(todo, resume, rules, levels, price, workers)
+        print(f"{len(todo):,} postings to grade ({n_done:,} already graded under this resume and rubric). "
+              + (f"About {tokens / 1e6:.1f}M input tokens" if tokens >= 1e6 else f"About {tokens / 1e3:.0f}k input tokens"))
+        print(f"  = about ${usd:.2f}" if usd >= 0.1 else f"  = about ${usd:.4f}", f"at ${price}/M input tokens, about {max(1, round(minutes))} min with {workers} workers.")
+        if sub == "estimate":
+            return
+        if not todo:
+            print("Nothing to grade.")
+            save_jev_config(ws, {**cfg, "resume": resume_path, "selection": sel, "model": model, "h": h})
+            return
+        if not opt(rest, "--max-cost"):
+            raise Fail("Pass --max-cost USD (the most this run may spend; the person decides it). Nothing was sent.")
+        if not jev.api_key():
+            raise Fail(f"No TypeSafe key. The person runs `python3 {os.path.abspath(__file__)} jev key` in their own terminal "
+                       f"(or sets TYPESAFE_API_KEY). Keys: {jev.CONSOLE}/keys")
+        save_jev_config(ws, {**cfg, "resume": resume_path, "selection": sel, "model": model, "h": h})
+        excerpt_for = _excerpt_source(todo)
+        try:
+            out = jev.run(todo, excerpt_for, resume, rules, levels, model, ws, float(opt(rest, "--max-cost")), price, workers,
+                          progress=lambda m: print(m, flush=True))
+        except jev.JevError as e:
+            raise Fail(str(e))
+        note = f"; stopped at the ${float(opt(rest, '--max-cost')):.2f} cap, rerun to continue" if out["stopped"] == "cost cap" else ""
+        print(f"Graded {out['graded']:,} of {out['selected']:,} in {out['minutes']} min for ${out['usd']:.4f}"
+              + (f" ({out['failed']} failed; rerun retries them)" if out["failed"] else "") + note + ".")
+        print("Next: python3 jobs.py search --graded --min-eligible 0.5 --min-fit 2 --sort rank")
+
+
 COMMANDS = {"update": update, "status": status, "search": search, "show": show, "verdict": verdict, "track": track, "board": board,
-            "companies": companies, "scrape": scrape, "find-board": find_board}
+            "companies": companies, "scrape": scrape, "find-board": find_board, "jev": jev_cmd}
 
 
 def main(argv):
