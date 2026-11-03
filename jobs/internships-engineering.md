@@ -1,11 +1,20 @@
 # Internships and co-ops: Other engineering
 
-356 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+363 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Garmin | [Design Certification Engineer Intern](https://careers.garmin.com/careers-home/jobs/19773) | Olathe, Kansas |  | 2026-11-03 |  |
+| Worley | [Society of Women Engineers Expression of Interest - Engineering Intern](https://jobs.worley.com/careers/job/1133916619405) | Charleston, WV, US; Houston, TX, US; Reading, PA, US; Denver, CO, US |  | 2026-11-03 |  |
+| BD | [R&D Intern](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MA---Woburn/R-D-Intern_R-558787) | USA MA - Woburn |  | 2026-11-03 |  |
+| Micron | [Intern - System Engineer, HBM](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469) | Boise, ID - Main Site |  | 2026-11-03 |  |
+| Micron | [Intern- YE Physical Failure Analysis Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--YE-Physical-Failure-Analysis-Engineer_JR114537) | Boise, ID - ID1 |  | 2026-11-03 |  |
+| NXP | [HW/SW System and Application Engineer Intern-Summer 2027](https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708) · Summer 2027 | Chandler (Office) |  | 2026-11-03 |  |
+| Skyworks | [Applications Engineering Intern](https://careers.skyworksinc.com/job/Greensboro-Applications-Engineering-Intern-NC-27409/1446921300/) | Greensboro, US | $23 to $49/hour | 2026-11-03 | no visa sponsorship |
+| Skyworks | [Test Characterization Engineering Intern](https://careers.skyworksinc.com/job/Richardson-Test-Characterization-Engineering-Intern-TX-75081/1446911300/) | Richardson, US | $23 to $49/hour | 2026-11-03 | no visa sponsorship |
+| Fermilab | [LBNF/DUNE in South Dakota I&I Engineering Internship](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Lead-SD/LBNF-DUNE-Internship-in-South-Dakota_R_010100) | Lead, SD | $20/hour | 2026-11-02 |  |
 | Boston Scientific | [URO R&D Co-op (JAN-AUG) 2027](https://bostonscientific.eightfold.ai/careers/job/563602813751490) · Winter 2027 | Arden Hills, MN, US (hybrid) | $52,000 to $66,560 | 2026-11-02 | no visa sponsorship |
 | Boston Scientific | [URO R&D Co-op (MAY- DEC) 2027](https://bostonscientific.eightfold.ai/careers/job/563602813751491) · Winter 2027 | Maple Grove, MN, US (hybrid) | $58,552 to $73,736 | 2026-11-02 | no visa sponsorship |
 | Principal Financial Group | [Technical Engineer Internship - Des Moines, IA (Summer 2027)](https://careers.principal.com/careers-home/jobs/52566) · Summer 2027 | Des Moines, Iowa (hybrid) | $28 to $30/hour | 2026-11-02 |  |
@@ -87,8 +96,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Johnson & Johnson | [R&D Engineer Intern WCH](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Intern-WCH_R-103053) · Summer 2027 | Raritan, New Jersey, United States of America | $23.50 to $52.50/hour | 2026-10-20 | no visa sponsorship |
 | BorgWarner | [eDrive Engineering Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/eDrive-Engineering-Intern_R2026-4146-1) | Kokomo Technical Center - Indiana - USA | $17 to $28.65/hour | 2026-10-20 | no visa sponsorship |
 | Siemens | [Strategic Student Program: Simulation Engineering Internship (Spring 2027, SIM)](https://jobs.siemens.com/en_US/externaljobs/JobDetail/520106) · Spring 2027 | Costa Mesa, California, United States of America |  | 2026-10-20 | no visa sponsorship |
-| SLB | [Undergraduate Engineering Co-Op – Scott, LA](https://careers.slb.com/jobdescription.aspx?id=WDR00137199) · Fall 2027 | Scott, United States |  | 2026-10-20 | no visa sponsorship |
 | SLB | [Undergraduate Engineering Co-Op](https://careers.slb.com/jobdescription.aspx?id=WDR00137198) · Fall 2027 | Evansville, United States |  | 2026-10-20 | no visa sponsorship |
+| SLB | [Undergraduate Engineering Co-Op](https://careers.slb.com/jobdescription.aspx?id=WDR00137132) · Fall 2027 | Sugar Land, United States |  | 2026-10-20 | no visa sponsorship |
+| SLB | [Undergraduate Engineering Co-Op – Scott, LA](https://careers.slb.com/jobdescription.aspx?id=WDR00137199) · Fall 2027 | Scott, United States |  | 2026-10-20 | no visa sponsorship |
 | Wolfspeed | [Wets/Cleans Engineering Intern - Summer 2027](https://cree.wd108.myworkdayjobs.com/EXT/job/Marcy-New-York/Wets-Cleans-Engineering-Intern---Summer-2027_26-940) · Summer 2027 | Marcy, New York | $16.35 to $49.95/hour | 2026-10-20 |  |
 | Zachry Group | [Engineering Summer Intern](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16120) · Summer | Houston, TX, United States |  | 2026-10-20 |  |
 | Zachry Group | [Engineering Summer Intern](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16121) · Summer | Downers Grove, IL, United States |  | 2026-10-20 |  |
@@ -114,7 +124,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bechtel | [27 Intern / US / Environmental Engr](https://jobs.bechtel.com/us/en/job/297666) | United States | $21.34 to $27.50/hour | 2026-10-20 |  |
 | Bechtel | [27 Intern / US / Process Engr](https://jobs.bechtel.com/us/en/job/297670) | United States | $23.98 to $30.59/hour | 2026-10-20 | no visa sponsorship |
 | Constellation Energy | [Summer 2027 Reactor Engineering Intern - Morris, IL](https://jobs.constellationenergy.com/careers-home/jobs/139590) · Summer 2027 | Morris, Illinois |  | 2026-10-20 |  |
-| SLB | [Undergraduate Engineering Co-Op](https://careers.slb.com/jobdescription.aspx?id=WDR00137132) · Fall 2027 | Sugar Land, United States |  | 2026-10-20 | no visa sponsorship |
 | Symbotic | [Co-Op- System Engineer](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Melrose-Park-IL/Co-Op--System-Engineer_R8215) | USA Melrose Park, IL | $25 to $34/hour | 2026-10-20 |  |
 | Symbotic | [Co-Op- System Engineer](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Palestine-TX/Co-Op--System-Engineer_R8211) | USA Palestine, TX | $25 to $34/hour | 2026-10-20 |  |
 | Wing | [Aerodynamics Engineering Intern, Summer 2027](https://wing.com/careers/8872473002?gh_jid=8872473002) · Summer 2027 | Palo Alto, California (hybrid) | $128,000 to $135,000 | 2026-10-20 |  |
@@ -130,17 +139,16 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AEP | [Engineering Intern – Ft. Wayne, IN](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Ft-Wayne-IN/Engineering-Intern---Ft-Wayne--IN_R20041) | Ft. Wayne, IN | $1,500/month | 2026-10-20 | no visa sponsorship |
 | BD | [Engineering Intern](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1) | USA UT - Sandy |  | 2026-10-20 |  |
 | Monolithic Power Systems | [Applications Engineering Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Applications-Engineering-Intern_R-2041) | San Jose, CA | $40 to $55/hour | 2026-10-20 |  |
-| Phillips 66 | [2027 University Intern- Midstream Engineering](https://careers.phillips66.com/job/Houston-2027-University-Intern-Midstream-Engineering-TX-77042/1418408900/) | Midland, TX, US |  | 2026-10-20 | US citizens/persons only |
-| Phillips 66 | [2027 University Intern - Refining Engineer](https://careers.phillips66.com/job/Sweeny-2027-University-Intern-Refining-Engineer-TX-77480/1418467500/) | Ponca City, OK, US |  | 2026-10-20 | US citizens/persons only |
+| Phillips 66 | [2027 University Intern - Refining Engineer](https://careers.phillips66.com/job/Sweeny-2027-University-Intern-Refining-Engineer-TX-77480/1418467500/) | Borger, TX, US |  | 2026-10-20 | US citizens/persons only |
 | Rockwell Automation | [Intern, Customer Response Engineering](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270-1) | Mayfield Heights, Ohio, United States | $20 to $32/hour | 2026-10-20 | no visa sponsorship |
 | Constellation Energy | [Summer 2027 Engineering Internship - Pottstown, PA](https://jobs.constellationenergy.com/careers-home/jobs/139810) · Summer 2027 | Pottstown, Pennsylvania |  | 2026-10-20 |  |
 | Constellation Energy | [Summer 2027 Engineering Intern - Ontario, NY](https://jobs.constellationenergy.com/careers-home/jobs/139809) · Summer 2027 | Ontario, New York |  | 2026-10-20 |  |
 | KLA | [Applications Development Engineering Intern - BBP](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1) | Milpitas, CA | $35 to $47/hour | 2026-10-20 |  |
-| National Laboratory of the Rockies (NREL) | [Post-Undergraduate Intern (Year-Round) - Separations Engineering](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-Undergraduate-Intern--Year-Round----Separations-Engineering_R14529-1) | Golden, CO | $39,600 to $63,400 | 2026-10-20 |  |
 | BorgWarner | [System Engineering Intern (Year-Round)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/System-Engineering-Intern--Year-Round-_R2026-3983) | Auburn Hills - Michigan - USA |  | 2026-10-20 | no visa sponsorship |
 | GE Aerospace | [Inspection Engineering Intern - Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Springdale/Inspection-Engineering-Intern---Summer-2027_R5040956-1) · Summer 2027 | Springdale | $24/hour | 2026-10-20 | no visa sponsorship |
 | Infineon | [Internship – R&D Project Specialist](https://jobs.infineon.com/careers/job/563808972077332) | Leominster, MA, US | $29 to $34/hour | 2026-10-20 | US citizens/persons only |
 | Keysight | [R&D Usability Engineering Intern](https://jobs.keysight.com/careers-home/jobs/54779) | Santa Rosa, California | $41.14 to $44.31/hour | 2026-10-20 | no visa sponsorship |
+| National Laboratory of the Rockies (NREL) | [Post-Undergraduate Intern (Year-Round) - Separations Engineering](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-Undergraduate-Intern--Year-Round----Separations-Engineering_R14529-1) | Golden, CO | $39,600 to $63,400 | 2026-10-20 |  |
 | NXP | [Field Applications Engineer (FAE) Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Field-Applications-Engineer--FAE--Intern---Summer-2027_R-10067221) · Summer 2027 | Austin (Oakhill, Office) |  | 2026-10-20 |  |
 | Abbott | [2027 R&D Cancer Diagnostics Intern](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---La-Jolla/XMLNAME-2027-R-D-Cancer-Diagnostic-Intern_31162891) | United States - California - La Jolla |  | 2026-10-20 | no visa sponsorship |
 | BorgWarner | [Component Engineering Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Component-Engineering-Intern_R2026-3933) | Kokomo Technical Center - Indiana - USA | $17 to $28.65/hour | 2026-10-20 | no visa sponsorship |
@@ -151,6 +159,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Motorola Solutions | [Prototype Engineer Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Prototype-Engineer-Intern---Summer-2027_R69267-1) · Summer 2027 | Plantation, FL |  | 2026-10-20 |  |
 | Rockwell Automation | [Intern, Application Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Application-Engineer_R26-7707-1) | Milwaukee, Wisconsin, United States (hybrid) | $22 to $32/hour | 2026-10-20 | no visa sponsorship |
 | Viant Technology | [UCI Career Fair - 2027 Summer Internship](https://job-boards.greenhouse.io/vianttechnology/jobs/4434141009) · Summer 2027 | Irvine, California, United States |  | 2026-10-20 |  |
+| Nike | [NIKE, Inc. NXT SPACE Engineering, Innovation Graduate Internship](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-NXT-SPACE-Engineering--Innovation-Graduate-Internship_R-94423-1) · Spring 2028 | Beaverton, Oregon |  | 2026-10-20 |  |
+| Occidental University Recruiting | [Engineering Intern (Oil & Gas Business)](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Midland-Texas/Engineering-Intern--Oil---Gas-Business-_JR110204) | Midland, Texas |  | 2026-10-20 |  |
 | Federal Reserve System | [Summer 2027 Intern-Networking and Computer Engineering](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Networking-and-Computer-Engineering_R-0000033610) · Summer 2027 | Chicago, IL | $20/hour | 2026-10-20 | no visa sponsorship |
 | Garmin | [Audio Engineer Intern](https://careers.garmin.com/careers-home/jobs/20289) | Miramar, Florida |  | 2026-10-20 |  |
 | Oceaneering | [Intervention Engineering Intern](https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/11622) | Houston, TX, United States |  | 2026-10-20 | no visa sponsorship |
@@ -164,7 +174,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Johnson & Johnson | [2027 Jax R&D Internship (STEM, Eng/Chem)](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/XMLNAME-2027-Jax-R-D-Internship--STEM--Eng-Chem-_R-099052) | Jacksonville, Florida, United States of America |  | 2026-10-20 | no visa sponsorship |
 | KLA | [Product Development Engineer Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1) | Milpitas, CA | $56/hour | 2026-10-20 |  |
 | KLA | [Product Development Engineer Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641772-2) | Milpitas, CA | $56/hour | 2026-10-20 |  |
-| Nike | [NIKE, Inc. NXT SPACE Engineering, Innovation Graduate Internship](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-NXT-SPACE-Engineering--Innovation-Graduate-Internship_R-94423-1) · Spring 2028 | Beaverton, Oregon |  | 2026-10-20 |  |
 | Rivian | [Engineering Intern - Motor Development (Spring 2027 Co-op)](https://careers.rivian.com/careers-home/jobs/33809) · Spring 2027 | Carson, California | $38 to $45/hour | 2026-10-20 | no visa sponsorship |
 | Cboe | [Linux Engineer Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Linux-Engineer-Intern_R-4661) | Chicago, IL | $22 to $42/hour | 2026-10-20 | no visa sponsorship |
 | Constellation Energy | [Summer 2027 Site Engineering Internship - Middletown, PA](https://jobs.constellationenergy.com/careers-home/jobs/138648) · Summer 2027 | Middletown, Pennsylvania |  | 2026-10-20 |  |
@@ -262,8 +271,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Flowserve | [Engineering Co-op](https://flowserve.wd1.myworkdayjobs.com/applied/job/Houston-Texas/Engineering-Co-op_R-21092) | Houston, Texas |  | 2026-10-20 |  |
 | Helmerich & Payne | [Field-Based Engineering Internship](https://hpinc.wd5.myworkdayjobs.com/HPINC/job/Odessa-TX-USA/Field-Based-Engineering-Internship_REQ-2786) | Odessa-TX-USA |  | 2026-10-20 |  |
 | Kimberly-Clark | [2027 Engineering Co-ops & Internships](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/Neenah-WI-USA/XMLNAME-2027-Engineering-Co-ops---Internships_887059) · Summer 2027 | Neenah, WI, USA | $24.50/hour | 2026-10-20 | no visa sponsorship |
-| Nike | [NIKE, Inc. Air MI Engineering Undergraduate Internship](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Air-MI-Engineering-Undergraduate-Internship_R-91417-1) · Spring 2028 | Beaverton, Oregon |  | 2026-10-20 |  |
-| Occidental University Recruiting | [Engineering Intern (Oil & Gas Business)](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Midland-Texas/Engineering-Intern--Oil---Gas-Business-_JR110204) | Midland, Texas |  | 2026-10-20 |  |
 | Plains All American | [Engineering Intern - Multiple Internships Available](https://plains.wd1.myworkdayjobs.com/Plains/job/Houston-TX/Engineering-Intern---Multiple-Internships-Available_R0014954-1) | Houston, TX |  | 2026-10-20 |  |
 | Repsol | [Development Engineering Intern](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Development-Engineering-Intern_83948-1) · Summer 2027 | Houston |  | 2026-10-20 | no visa sponsorship |
 | Repsol | [Production Allocation Engineering Intern](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Production-Allocation-Engineering-Intern_83947-1) · Summer 2027 | Houston |  | 2026-10-20 | no visa sponsorship |

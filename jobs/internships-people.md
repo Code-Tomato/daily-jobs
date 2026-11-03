@@ -1,11 +1,15 @@
 # Internships and co-ops: HR, legal and policy
 
-222 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+225 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Travelers | [Legal Intern](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Walnut-Creek/Legal-Intern_R-53515) | CA - Walnut Creek | $36 to $37/hour | 2026-11-03 | no visa sponsorship |
+| Charles Schwab | [2027 SOX Compliance Intern](https://www.schwabjobs.com/job/lone-tree/2027-sox-compliance-intern/33727/100959818672) | Lone Tree, Colorado |  | 2026-11-03 |  |
+| Grant Thornton | [Risk Advisory Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115684) · Summer 2027 | Denver, CO, United States | $37/hour | 2026-11-03 | no visa sponsorship |
+| WM (Waste Management) | [Apprentice, Driver - Benefits Day One](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355512) | Chester, WV, United States |  | 2026-11-03 |  |
 | Cboe | [Legal Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Legal-Intern_R-4788) | Chicago, IL | $22 to $42/hour | 2026-11-02 | no visa sponsorship |
 | Protiviti | [New York City Legal, Risk and Compliance Intern - 2027](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-Legal--Risk-and-Compliance-Intern---2027_JR-258930) | NEW YORK CITY | $28 to $38/hour | 2026-11-02 | no visa sponsorship |
 | KPMG | [Seasonal Intern BPG, Global Mobility Services - Compliance Center / Dallas Winter 2027](https://www.kpmguscareers.com/jobdetail/?jobId=139735) · Winter 2027 | Dallas, TX |  | 2026-11-02 | no visa sponsorship |
@@ -106,6 +110,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Travelers | [Legal Intern](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Rancho-Cordova/Legal-Intern_R-52959) | CA - Rancho Cordova | $36 to $37/hour | 2026-10-20 | no visa sponsorship |
 | Travelers | [Legal Intern](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Glendale/Legal-Intern_R-52956-1) | CA - Glendale | $36 to $37/hour | 2026-10-20 | no visa sponsorship |
 | Travelers | [Legal Intern](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Diamond-Bar/Legal-Intern_R-52955) | CA - Diamond Bar | $36 to $37/hour | 2026-10-20 | no visa sponsorship |
+| Cardinal Health | [Human Resources - Talent Acquisition Internship (Summer 2027)](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Human-Resources---Talent-Acquisition-Internship--Summer-2027-_20185916) · Summer 2027 | OH-Dublin-Cardinal Place | $21/hour | 2026-10-20 | no visa sponsorship |
 | Ericsson | [Intern - Americas Talent and Development](https://jobs.ericsson.com/careers/job/563121776966566) | Plano, TX, US |  | 2026-10-20 | no visa sponsorship |
 | Muon Space | [Legal Intern (Summer 2027)](https://job-boards.greenhouse.io/muonspace/jobs/5253395007) · Summer 2027 | Remote | $50/hour | 2026-10-20 | US citizens/persons only |
 | GlobalFoundries | [Commercial Agreements Legal Intern (2027 Summer)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Commercial-Agreements-Legal-Intern--2027-Summer-_JR-2604244) · Summer 2027 | USA - Vermont - Essex Junction | $20 to $40/hour | 2026-10-20 |  |
@@ -129,16 +134,15 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Garmin | [International Trade Compliance Intern](https://careers.garmin.com/careers-home/jobs/19975) | Olathe, Kansas |  | 2026-10-20 |  |
 | Kinder Morgan | [2027 BOLT Intern- Human Resources (Compensation)](https://careers.kindermorgan.com/careers-home/jobs/6309) | HOUSTON, Texas |  | 2026-10-20 |  |
 | SLB | [Learning & Competency Training Intern](https://careers.slb.com/jobdescription.aspx?id=EF18559-en_US%201) | Houston, United States |  | 2026-10-20 |  |
-| SLB | [HR Intern](https://careers.slb.com/jobdescription.aspx?id=EF20388-en_US%201) | Houston, United States |  | 2026-10-20 |  |
-| SLB | [Student Intern](https://careers.slb.com/jobdescription.aspx?id=EF20778-en_US%201) | Houston, United States |  | 2026-10-20 |  |
-| SLB | [HR Intern](https://careers.slb.com/jobdescription.aspx?id=EF20393-en_US%201) | Houston, United States |  | 2026-10-20 |  |
-| SLB | [Student Intern](https://careers.slb.com/jobdescription.aspx?id=EF20377-en_US%201) | Houston, United States |  | 2026-10-20 |  |
-| SLB | [Student Intern](https://careers.slb.com/jobdescription.aspx?id=EF20777-en_US%201) | Houston, United States |  | 2026-10-20 |  |
-| SLB | [HR Intern](https://careers.slb.com/jobdescription.aspx?id=EF20908-en_US%201) | Shreveport, United States |  | 2026-10-20 |  |
-| SLB | [HR Intern](https://careers.slb.com/jobdescription.aspx?id=EF20909-en_US%201) | Houston, United States |  | 2026-10-20 |  |
 | SLB | [Student Intern](https://careers.slb.com/jobdescription.aspx?id=EF20376-en_US%201) | Houston, United States |  | 2026-10-20 |  |
+| SLB | [Student Intern](https://careers.slb.com/jobdescription.aspx?id=EF20377-en_US%201) | Houston, United States |  | 2026-10-20 |  |
+| SLB | [HR Intern](https://careers.slb.com/jobdescription.aspx?id=EF20388-en_US%201) | Houston, United States |  | 2026-10-20 |  |
+| SLB | [HR Intern](https://careers.slb.com/jobdescription.aspx?id=EF20909-en_US%201) | Houston, United States |  | 2026-10-20 |  |
+| SLB | [HR Intern](https://careers.slb.com/jobdescription.aspx?id=EF20393-en_US%201) | Houston, United States |  | 2026-10-20 |  |
+| SLB | [Student Intern](https://careers.slb.com/jobdescription.aspx?id=EF20778-en_US%201) | Houston, United States |  | 2026-10-20 |  |
+| SLB | [HR Intern](https://careers.slb.com/jobdescription.aspx?id=EF20908-en_US%201) | Shreveport, United States |  | 2026-10-20 |  |
+| SLB | [Student Intern](https://careers.slb.com/jobdescription.aspx?id=EF20777-en_US%201) | Houston, United States |  | 2026-10-20 |  |
 | Redwood Materials | [Staff Recruiter, Early Career and Interns](https://boards.greenhouse.io/redwoodmaterials/jobs/6199677004?gh_jid=6199677004) | McCarran, NV; San Francisco, California, United States |  | 2026-10-20 |  |
-| Cardinal Health | [Human Resources - Talent Acquisition Internship (Summer 2027)](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Human-Resources---Talent-Acquisition-Internship--Summer-2027-_20185916) · Summer 2027 | OH-Dublin-Cardinal Place | $21/hour | 2026-10-20 | no visa sponsorship |
 | Covestro | [HR Intern](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/HR-Intern_JR-2026-02025) | Pittsburgh, PA |  | 2026-10-20 |  |
 | Danaher | [IT Governance, Risk & Compliance Intern](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Coralville-Iowa-United-States/IT-Governance--Risk---Compliance-Intern_R1316774) | Coralville, Iowa, United States | $30/hour | 2026-10-20 |  |
 | Diamondback Energy | [Summer 2027 Human Resources Intern](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Human-Resources-Intern_R100831) · Summer 2027 | Midland, TX |  | 2026-10-20 |  |
@@ -173,7 +177,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | DTCC | [Compliance Intern [2027 Internship Program]](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214571) · Spring 2028 | Jersey City, NJ, United States (hybrid) |  | 2026-10-20 | no visa sponsorship |
 | Lennox | [SAP/Kronos HR Intern](https://globalcareers-lennox.icims.com/jobs/54560/sap-kronos-hr-intern/job) | Richardson, TX | $22.50 to $25/hour | 2026-10-20 |  |
 | EOG Resources | [Geoscience Intern](https://careers.eogresources.com/jobdetails.asp?jo_num=11399&apply=yes&) | Midland, TX, US |  | 2026-10-20 |  |
-| Liberty Mutual | [Early Talent Acquisition & Programs Co-op (January - June 2027)](https://searchjobs.libertymutualgroup.com/careers/job/618519466956) | Boston, Massachusetts, United States |  | 2026-10-20 | no visa sponsorship |
 | DTCC | [Government Relations Intern [2027 Internship Program]](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214570) · Spring 2028 | Washington, DC, United States (hybrid) |  | 2026-10-20 | no visa sponsorship |
 | BNY | [2027 BNY Summer Internship Program - Risk and Compliance (New York, NY)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81271) · Summer | New York, NY, United States | $52,000 to $80,000 | 2026-10-20 | no visa sponsorship |
 | BNY | [2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81276) · Summer | Pittsburgh, PA, United States |  | 2026-10-20 | no visa sponsorship |

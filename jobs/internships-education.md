@@ -1,11 +1,15 @@
 # Internships and co-ops: Education
 
-6 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+10 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Amgen | [Grad Intern – Amgen Library (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871) · Summer 2027 | United States - Remote | $35.34 to $42.20/hour | 2026-11-03 |  |
+| NASA JPL | [Academic Part Time Intern](https://www.jpl.jobs/us/en/job/R6220) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-11-03 |  |
+| NASA JPL | [Business Admin (Academic Part Time Intern)](https://www.jpl.jobs/us/en/job/R6200) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-11-03 |  |
+| NVIDIA | [Math Libraries Intern, cuEST - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) · Summer 2027 | US, CA, Santa Clara |  | 2026-11-03 |  |
 | Seagate | [Sustaining Intern - Graduating High School Senior (Summer 2027)](https://seagatecareers.com/job/Bloomington-Sustaining-Intern-Graduating-High-School-Senior-%28Summer-2027%29-MN/1442410600/) · Summer 2027 | Normandale, United States | $20 to $22/hour | 2026-10-22 |  |
 | NASA JPL | [Academic Part Time Intern](https://www.jpl.jobs/us/en/job/R6089) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-10-20 |  |
 | NVIDIA | [Sparse Linear Algebra Libraries Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429) · Summer 2027 | US, CA, Santa Clara |  | 2026-10-20 |  |

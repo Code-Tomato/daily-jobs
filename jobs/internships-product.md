@@ -1,11 +1,15 @@
 # Internships and co-ops: Product, program and project management
 
-198 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+200 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Applied Materials | [Summer 2027 Data Intelligence/Technical Program Management Intern- Master's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) · Summer 2027 | Santa Clara,CA |  | 2026-11-03 |  |
+| Applied Materials | [Summer 2027 Technical Project/Program Management Intern- Master's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Technical-Project-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627706) · Summer 2027 | Santa Clara,CA |  | 2026-11-03 |  |
+| Walmart Global Tech | [Summer 2026 MBA Intern Conversion: 2027 APD Senior Product Manager (MBA)](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2026-MBA-Intern-Conversion--2027-APD-Senior-Product-Manager--MBA-_R-2649805) · Summer 2026 | (USA) Together Building AR Bentonville Home Office | $90,000 to $180,000 | 2026-11-03 |  |
+| Zebra Technologies | [2027 Summer Internship (US) - Global Marketing Program Management](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Global-Marketing-Program-Management_JR103611) · Summer 2027 | Lincolnshire, Illinois | $24 to $25.50/hour | 2026-11-03 | no visa sponsorship |
 | Microsoft | [Business Program Manager, Global Intern Experience & Innovation](https://apply.careers.microsoft.com/careers/job/1970393557043712) | Redmond, WA, US | $97,600 to $206,400 | 2026-11-02 |  |
 | Applied Materials | [2027 Spring Project Manager Co-op (Billerica, MA)](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Project-Manager-Co-op--Billerica--MA-_R2631534) · Spring 2027 | Billerica,MA | $31 to $41/hour | 2026-11-02 |  |
 | Amgen | [Undergrad Intern – Global Program Management (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Global-Program-Management--Summer-2027-_R-260084) · Summer 2027 | United States - Remote | $28.87/hour | 2026-11-02 |  |
@@ -60,9 +64,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Home Depot | [2027 Summer Internship - Product Management](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931) · Summer 2027 | STORE SUPPORT CENTER, ATLANTA - 9090 |  | 2026-10-21 |  |
 | Q2 | [2027 Summer Internship - Product Operations](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) · Summer 2027 | Austin, Texas |  | 2026-10-20 | no visa sponsorship |
 | Boston Scientific | [Technical Communications & Project Management Intern](https://bostonscientific.eightfold.ai/careers/job/563602813563529) · Fall 2027 | Arden Hills, MN, US | $43,368 to $73,736 | 2026-10-20 | no visa sponsorship |
+| Kinder Morgan | [2027 BOLT Intern - Terminals Engineering Project Managment](https://careers.kindermorgan.com/careers-home/jobs/6037) | PASADENA, Texas |  | 2026-10-20 |  |
 | DocuSign | [Program Management Intern](https://careers.docusign.com/careers-home/jobs/30469) | Seattle, Washington | $38 to $40/hour | 2026-10-20 | no visa sponsorship |
 | Insomniac Games | [Publishing Project Management Intern - Undergraduate](https://job-boards.greenhouse.io/insomniac/jobs/6226347004) | United States, Burbank, CA | $36.50/hour | 2026-10-20 | no visa sponsorship |
-| Kinder Morgan | [2027 BOLT Intern - Terminals Engineering Project Managment](https://careers.kindermorgan.com/careers-home/jobs/6037) | PASADENA, Texas |  | 2026-10-20 |  |
 | Microsoft | [Business Program Management INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999329) | Redmond, WA, US | $4,700 to $9,490/month | 2026-10-20 |  |
 | Nintendo of America | [Intern - IT Project Manager](https://careers.nintendo.com/?gh_jid=4417316009) | Redmond, WA |  | 2026-10-20 | no visa sponsorship |
 | Nintendo of America | [Intern - Project Manager](https://careers.nintendo.com/?gh_jid=4417308009) | Redmond, WA |  | 2026-10-20 | no visa sponsorship |
@@ -70,13 +74,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Trimble | [Agriculture Product Management Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893) | US - CO, Westminster | $22.69 to $28.32/hour | 2026-10-20 | no visa sponsorship |
 | Qorvo | [Product Management Intern](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421954200/) | Greensboro, NC, US | $31 to $42/hour | 2026-10-20 | no visa sponsorship |
 | Qorvo | [Product Management Intern](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421973000/) | Greensboro, NC, US | $31 to $42/hour | 2026-10-20 | no visa sponsorship |
-| HCSC | [Early Careers - Project Management Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Project-Management-Intern_R0059491) | IL - Chicago | $19.13 to $34.17/hour | 2026-10-20 | no visa sponsorship |
 | Rivian | [Engineering Intern - Technical Program Management (Spring 2027 Co-op)](https://careers.rivian.com/careers-home/jobs/34505) · Spring 2027 | Palo Alto, California | $45 to $51/hour | 2026-10-20 | no visa sponsorship |
 | SAP | [SAPiXp - Global Revenue Operations Intern – Project Management and Business Analysis](https://jobs.sap.com/en/jobs/744000156047893/sapixp-global-revenue-operations-intern-project-management-and-business-analysis/) | Alpharetta, Georgia, US |  | 2026-10-20 |  |
 | Commonwealth Fusion Systems | [Intern - Assembly Technical Project Manager - Spring 2027](https://jobs.lever.co/cfsenergy/43b60f04-f044-47dd-9291-f40b38ffaab3) · Spring 2027 | Devens, MA |  | 2026-10-20 |  |
 | Constellation Energy | [Summer 2027 Project Management Intern - Kennett Square, PA](https://jobs.constellationenergy.com/careers-home/jobs/139996) · Summer 2027 | Kennett Square, Pennsylvania |  | 2026-10-20 |  |
 | Duolingo | [Product Manager, MBA Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888266002) · Spring 2028 | Pittsburgh, PA | $63 to $65/hour | 2026-10-20 |  |
 | Duolingo | [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) · Spring 2028 | Pittsburgh, PA | $63 to $65/hour | 2026-10-20 |  |
+| HCSC | [Early Careers - Project Management Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Project-Management-Intern_R0059491) | IL - Chicago | $19.13 to $34.17/hour | 2026-10-20 | no visa sponsorship |
 | NVIDIA | [Product Management MBA Intern, Laptop - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) · Summer 2027 | US, CA, Santa Clara |  | 2026-10-20 |  |
 | GlobalFoundries | [GF Labs Research Program Management Intern (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/GF-Labs-Research-Program-Management-Intern--Summer-2027-_JR-2604430) · Summer 2027 | USA - New York - Malta | $20 to $40/hour | 2026-10-20 |  |
 | SAP | [SAPiXp - Global Revenue Operations Intern – Project Management and Business Analysis](https://jobs.sap.com/en/jobs/744000155613289/sapixp-global-revenue-operations-intern-project-management-and-business-analysis/) | Tempe, Arizona, US |  | 2026-10-20 |  |
@@ -128,11 +132,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Quanta Services | [Associate Project Manager Intern](https://careers-quanta.icims.com/jobs/18404/associate-project-manager-intern/job) · Summer 2027 | Hubbard, OR | $25/hour | 2026-10-20 |  |
 | Intuit | [Summer 2027: Product Manager Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) · Summer 2027 | Mountain View, California | $39.57 to $76.92/hour | 2026-10-20 |  |
 | Intuit | [Summer 2027: Technical Program Manager (TPM) Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-technical-program-manager-tpm-intern/27595/100620927664) · Summer 2027 | Mountain View, California | $40.50 to $74.42/hour | 2026-10-20 |  |
-| Kinder Morgan | [2027 BOLT Intern - Project Management](https://careers.kindermorgan.com/careers-home/jobs/6148) | HOUSTON, Texas |  | 2026-10-20 |  |
 | Kinder Morgan | [2027 BOLT Intern – Engineering (OSG)](https://careers.kindermorgan.com/careers-home/jobs/6178) | HOUSTON, Texas |  | 2026-10-20 |  |
 | Microsoft | [Product Management Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983226) | Redmond, WA, US |  | 2026-10-20 | US citizens/persons only, clearance |
 | Microsoft | [Technical Program Management Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983238) | Redmond, WA, US |  | 2026-10-20 | US citizens/persons only, clearance |
-| Kinder Morgan | [2027 BOLT Intern - Project Management](https://careers.kindermorgan.com/careers-home/jobs/6150) | BIRMINGHAM, Alabama |  | 2026-10-20 |  |
 | Navy Federal Credit Union | [Summer Associate Internship (Fraud Associate Project Manager)](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/32311) · Summer | Pensacola, FL, United States |  | 2026-10-20 |  |
 | Navy Federal Credit Union | [Summer Associate Internship (Project Management)](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/32366) · Summer | Vienna, VA, United States |  | 2026-10-20 |  |
 | Navy Federal Credit Union | [Summer Associate Internship (Program Manager/Experience Owner)](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/32454) · Summer | Pensacola, FL, United States |  | 2026-10-20 |  |

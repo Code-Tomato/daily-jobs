@@ -1,11 +1,14 @@
 # New grad and entry level: Other engineering
 
-267 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+269 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Airbus | [Stress Engineer I](https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Stress-Engineer-I_JR10454658) | Wichita, KS |  | 2026-11-03 | no visa sponsorship |
+| Applied Materials | [Applications Engineer New College Grad- Bachelor's/Master's (Santa Clara/Austin)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Applications-Engineer-New-College-Grad--Bachelor-s-Master-s--Santa-Clara-Austin-_R2632413) | Santa Clara,CA | $86,500 to $119,000 | 2026-11-03 |  |
+| Trace3 | [System Engineer](https://job-boards.greenhouse.io/trace3/jobs/8338241) | Colorado Springs, CO | $65,000 to $100,000 | 2026-11-03 | clearance |
 | Airbus | [Cabin Engineer I - Contract](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Cabin-Engineer-I---Contract_JR10454140) | Mobile Area, AL |  | 2026-11-02 |  |
 | Argonne National Laboratory | [Accelerator Development Engineer](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Accelerator-Development-Engineer_423630-1) | Lemont, IL USA | $57,764 to $93,600 | 2026-11-02 |  |
 | Comcast | [Support Engineer 1](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/IL---Virtual---C/Support-Engineer-1_R447061) | IL - Virtual - C+ (remote) | $46,696.88 to $70,045.32 | 2026-11-02 |  |
@@ -68,11 +71,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Symbotic | [Site Engineer](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Buckeye-AZ/System-Engineer_R6991-1) | USA Buckeye, AZ | $71,000 to $97,900 | 2026-10-20 |  |
 | Symbotic | [Site Engineer](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Lathrop-CA/System-Engineer_R6654) | USA Lathrop, CA | $71,000 to $107,000 | 2026-10-20 |  |
 | Symbotic | [Site Engineer](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Bethlehem-PA/System-Engineer_R8151) | USA Bethlehem, PA | $71,000 to $97,900 | 2026-10-20 |  |
-| Target | [Engineer - US](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---US_R0000454091) | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | $75,400 to $135,700 | 2026-10-20 |  |
 | Bechtel | [27 New Grad / US / Automation Engr](https://jobs.bechtel.com/us/en/job/297369) | United States | $84,948 to $101,940 | 2026-10-20 | no visa sponsorship |
 | Honda | [Battery Management System Engineer](https://careers.honda.com/us/en/job/12973) | Raymond, Ohio, United States |  | 2026-10-20 |  |
 | HPE | [Engineering Resolution Team Engineer Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553-1) | Spring, Texas, United States of America | $53,600 to $107,400 | 2026-10-20 |  |
 | Rivian | [Early Career - Occupant Safety Engineer](https://careers.rivian.com/careers-home/jobs/34417) | Irvine, California | $107,000 to $133,700 | 2026-10-20 |  |
+| Target | [Engineer - US](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---US_R0000454091) | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | $75,400 to $135,700 | 2026-10-20 |  |
 | Bechtel | [27 New Grad / US / Plant Design Engr](https://jobs.bechtel.com/us/en/job/297390) | United States | $82,992 to $99,600 | 2026-10-20 | no visa sponsorship |
 | Bechtel | [27 New Grad / US / Control Sys Engr](https://jobs.bechtel.com/us/en/job/297373) | United States | $86,736 to $104,088 | 2026-10-20 | no visa sponsorship |
 | Bechtel | [27 New Grad / US / Process Engr](https://jobs.bechtel.com/us/en/job/297391) | United States | $87,612 to $105,144 | 2026-10-20 | no visa sponsorship |
@@ -123,7 +126,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Honda | [Entry Level Contingent Engineer 1 1](https://careers.honda.com/us/en/job/12871) | Santa Clarita, California, United States |  | 2026-10-20 |  |
 | KLA | [Customer Engagement Applications Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Customer-Engagement-Applications-Engineer_2641471-1) | Austin, TX | $83,100 to $121,900 | 2026-10-20 |  |
 | Seagate | [Senior Development Engineer - Early Career](https://seagatecareers.com/job/Bloomington-Senior-Development-Engineer-Early-Career-MN/1436216400/) | Normandale, United States | $94,000 to $118,000 | 2026-10-20 |  |
-| ERCOT | [GMS Development Program – Entry Level Power & Computer Engineer](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2513-1) | Austin, TX |  | 2026-10-20 |  |
 | GlobalFoundries | [Field Application Engineer, Santa Clara (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Field-Application-Engineer--Santa-Clara--2027-New-College-Graduate-_JR-2604189) | USA - California - Santa Clara | $55,400 to $90,000 | 2026-10-20 |  |
 | KLA | [Applications Development Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer_2638540-1) | Milpitas, CA | $120,000 to $176,000 | 2026-10-20 |  |
 | Lam Research | [Field Service Engineer - Early Career Opportunity](https://careers.lamresearch.com/careers/job/1099552011686) | Hillsboro, OR, US |  | 2026-10-20 |  |

@@ -1,11 +1,14 @@
 # Internships and co-ops: Civil, construction and environmental
 
-164 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+166 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Fluor | [Spring 2027 CO-OP - Industrial Construction Development Program (PURDUE)](https://careers.fluor.com/careers/job/1099556886951) · Spring 2027 | Lebanon, US-IN, United States | $43,000 to $66,000 | 2026-11-03 |  |
+| Fluor | [Spring 2027 CO-OP - Industrial Construction Development Program (PURDUE)](https://careers.fluor.com/careers/job/1099556886948) · Spring 2027 | Lebanon, US-IN, United States | $43,000 to $66,000 | 2026-11-03 |  |
+| Fluor | [Spring 2027 CO-OP - Industrial Construction Development Program (PURDUE)](https://careers.fluor.com/careers/job/1099556075292) · Spring 2027 | Lebanon, US-IN, United States | $43,000 to $66,000 | 2026-11-03 |  |
 | Commonwealth Fusion Systems | [Intern - Structural Engineer - Summer 2027](https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3) · Summer 2027 | Devens, MA |  | 2026-11-02 |  |
 | Marsh McLennan | [2027 Summer Internship Program: Construction/Surety Specialty Practice](https://mmc.wd1.myworkdayjobs.com/MMC/job/Boise---Broadway/XMLNAME-2027-Summer-Internship-Program--Construction-Surety-Specialty-Practice_R_371085) · Summer 2027 | Boise - Broadway | $18.85/hour | 2026-11-02 |  |
 | Marsh McLennan | [2027 Summer Internship Program: Construction/Surety Specialty Practice](https://mmc.wd1.myworkdayjobs.com/MMC/job/Spokane---Riverpoint/XMLNAME-2027-Summer-Internship-Program--Construction-Surety-Specialty-Practice_R_371086) · Summer 2027 | Spokane - Riverpoint | $18.85/hour | 2026-11-02 |  |
@@ -47,7 +50,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Federal Reserve System | [Project Management /Engineering Construction Co-Op](https://rb.wd5.myworkdayjobs.com/FRS/job/Philadelphia-PA/Electrical-Engineer---Project-Management---Co-Op--hourly-non-benefit-_R-0000033755) | Philadelphia, PA | $23/hour | 2026-10-20 |  |
 | GE HealthCare | [Surgery Field Engineer Apprentice (Pittsburgh, PA)](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Pittsburgh/Surgery-Field-Engineer-Apprentice--Pittsburgh--PA-_R4039858-1) | Pittsburgh | $48,000 to $72,000 | 2026-10-20 | no visa sponsorship |
 | Kiewit | [Architectural Intern - Kiewit Architecture and Engineering (Summer 2027)](https://kiewitcareers.kiewit.com/job/Lenexa-Architectural-Intern-Kiewit-Architecture-and-Engineering-%28Summer-2027%29-KS/1420623400/) · Summer 2027 | Lenexa, KS, US |  | 2026-10-20 |  |
-| SLB | [WEC Field Engineer - M&D Intern](https://careers.slb.com/jobdescription.aspx?id=EF21177-en_US%201) | Prudhoe Bay, United States |  | 2026-10-20 |  |
 | Symbotic | [Co-Op- Project Engineer, Commissioning](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Co-Op-Project-Engineer_R8240) | USA Wilmington, MA - ITC | $29 to $37.95/hour | 2026-10-20 |  |
 | Worley | [Construction Management Intern](https://jobs.worley.com/careers/job/1133916347120) | Houston, TX, US |  | 2026-10-20 |  |
 | Bechtel | [27 Intern / US / Civil Engr](https://jobs.bechtel.com/us/en/job/297660) | United States | $23 to $28.67/hour | 2026-10-20 | no visa sponsorship |
@@ -93,6 +95,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kroger | [Summer 2027 Construction Project Engineer Intern](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/237319) · Summer 2027 | Portland, OR, United States |  | 2026-10-20 |  |
 | Kroger | [Summer 2027 Construction Project Engineer Intern](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/237329) · Summer 2027 | Shenandoah, TX, United States |  | 2026-10-20 |  |
 | Kroger | [Summer 2027 Construction Project Engineer Intern](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/237325) · Summer 2027 | Tolleson, AZ, United States |  | 2026-10-20 |  |
+| Baker Hughes | [Intern/Co-op - Field Engineering - Spring 2027 Opportunities](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-11150-EQUITY-DRIVE/Intern-Co-op---Field-Engineering---Spring-2027-Opportunities_R169120) · Spring 2027 | US-TX-HOUSTON-11150 EQUITY DRIVE | $22 to $44/hour | 2026-10-20 | no visa sponsorship |
+| Occidental University Recruiting | [Environmental Engineering Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Environmental-Engineering-Intern_JR110519) |  |  | 2026-10-20 |  |
 | Black & Veatch | [Structural Engineer Intern, Federal](https://careers.bv.com/job/Overland-Park-Structural-Engineer-Intern%2C-Federal-KS-66062/1434011033/) | Overland Park, KS, US |  | 2026-10-20 | US citizens/persons only |
 | Black & Veatch | [Construction Intern](https://careers.bv.com/job/Overland-Park-Construction-Intern-KS-66062/1434029233/) | Overland Park, KS, US |  | 2026-10-20 |  |
 | Black & Veatch | [Construction Intern](https://careers.bv.com/job/Livermore-Construction-Intern-CA-94550/1434030133/) | Livermore, CA, US | $23.38 to $41.44/hour | 2026-10-20 |  |
@@ -111,7 +115,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kiewit | [Structural Engineer Intern - Kiewit Industrial & Water Engineering (Summer 2027)](https://kiewitcareers.kiewit.com/job/Lenexa-Structural-Engineer-Intern-Kiewit-Industrial-&-Water-Engineering-%28Summer-2027%29-KS/1416432000/) · Summer 2027 | Lenexa, KS, US |  | 2026-10-20 |  |
 | Kiewit | [Field Engineer Intern - Heavy Civil - Central District (Summer 2027)](https://kiewitcareers.kiewit.com/job/Lone-Tree-Field-Engineer-Intern-Heavy-Civil-Central-District-%28Summer-2027%29-CO-80112/1426596700/) · Summer 2027 | Louisville, KY, US | $21 to $25/hour | 2026-10-20 |  |
 | Kiewit | [Survey Intern - Heavy Civil - Central District (Summer 2027)](https://kiewitcareers.kiewit.com/job/Lone-Tree-Survey-Intern-Heavy-Civil-Central-District-%28Summer-2027%29-CO-80112/1426596900/) · Summer 2027 | Missoula, MT, US | $20 to $24/hour | 2026-10-20 | no visa sponsorship |
-| Baker Hughes | [Intern/Co-op - Field Engineering - Spring 2027 Opportunities](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-11150-EQUITY-DRIVE/Intern-Co-op---Field-Engineering---Spring-2027-Opportunities_R169120) · Spring 2027 | US-TX-HOUSTON-11150 EQUITY DRIVE | $22 to $44/hour | 2026-10-20 | no visa sponsorship |
 | TC Energy | [Intern, US Construction Services](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Rayne-Louisiana/Intern--US-Construction-Services_JR-10963) | Rayne, Louisiana (hybrid) |  | 2026-10-20 |  |
 | Airbus | [Long-term Internship - Civil Programs](https://ag.wd3.myworkdayjobs.com/Airbus/job/Columbus-MS/Long-term-Internship---Civil-Programs_JR10440243) | Columbus, MS |  | 2026-10-20 | US citizens/persons only |
 | Black & Veatch | [Construction Intern - Field](https://careers.bv.com/job/Field-Assignment-Construction-Intern-Field-KS/1442050133/) · Summer 2027 | Field Assignment, KS, US |  | 2026-10-20 |  |
@@ -123,7 +126,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AEP | [Civil/Structural Designer Intern - Roanoke, VA](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Roanoke-VA/Civil-Structural-Designer-Intern---Roanoke--VA_R19382) | Roanoke, VA | $20 to $22/hour | 2026-10-20 |  |
 | AEP | [Civil/Structural Designer Intern - Tulsa, OK](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/Civil-Structural-Designer-Intern---Tulsa--OK_R19381) | Tulsa, OK | $20 to $22/hour | 2026-10-20 |  |
 | Marathon Petroleum | [Intern/Co-op - Refining Construction Management (Summer 2027)](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Refining-Construction-Management--Summer-2027-_00023670) · Summer 2027 | Findlay, Ohio | $28.62 to $36.22/hour | 2026-10-20 | no visa sponsorship |
-| Occidental University Recruiting | [Environmental Engineering Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Environmental-Engineering-Intern_JR110519) |  |  | 2026-10-20 |  |
 | Primoris | [Field Engineer Intern](https://prim.wd108.myworkdayjobs.com/Primoris/job/Nationwide/Field-Engineer-Intern_JR102285) | Nationwide |  | 2026-10-20 |  |
 | Quanta Services | [Associate Project Engineer Intern](https://careers-quanta.icims.com/jobs/18399/associate-project-engineer-intern/job) · Summer 2027 | Tigard, OR | $25/hour | 2026-10-20 |  |
 | Constellation Energy | [2027 Summer Construction Project Management Intern (Warrendale, PA)](https://jobs.constellationenergy.com/careers-home/jobs/138762) · Summer 2027 | Warrendale, Pennsylvania |  | 2026-10-20 |  |

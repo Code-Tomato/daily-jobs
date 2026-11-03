@@ -1,11 +1,17 @@
 # New grad and entry level: Data, ML and AI
 
-597 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+592 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Western Midstream | [ROC Data Capture Specialist](https://careers.westernmidstream.com/job/The-Woodlands-ROC-Data-Capture-Specialist-TX-77380/1447207500/) | The Woodlands, TX, US |  | 2026-11-03 |  |
+| Boston Consulting Group | [Delivery AI Product Analyst, OrgBuilder, United States - X Delivery](https://careers.bcg.com/global/en/job/61435) | Chicago, Illinois, United States of America | $99,000 | 2026-11-03 | US citizens/persons only, clearance |
+| Capital Group | [AI Scientist](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/AI-Scientist_JR7703) | Los Angeles | $141,648 to $264,296 | 2026-11-03 |  |
+| KLA | [Computational Physics Algorithm Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Computational-Physics-Algorithm-Engineer_2641964-2) | Milpitas, CA | $136,300 to $231,700 | 2026-11-03 |  |
+| SpaceX | [Data Scientist (Starlink)](https://boards.greenhouse.io/spacex/jobs/8920514002?gh_jid=8920514002) | Redmond, WA | $125,000 to $200,000 | 2026-11-03 | US citizens/persons only |
+| UnitedHealth Group | [Patient Access Center Data Analyst I - Kelsey Seybold Clinic](https://careers.unitedhealthgroup.com/job/houston/patient-access-center-data-analyst-i-kelsey-seybold-clinic/34088/102038593744) | Houston, Texas | $60,200 to $107,400 | 2026-11-03 |  |
 | Applied Materials | [New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376) · Spring 2027 | Santa Clara,CA | $138,000 to $190,000 | 2026-11-02 |  |
 | Cisco | [AI Researcher](https://careers.cisco.com/global/en/job/2028324) | Alpharetta, Georgia, United States of America | $154,300 to $274,600 | 2026-11-02 |  |
 | Formosa Plastics USA | [DATA ANALYST I](https://jobs.dayforcehcm.com/en-US/fpcusa/CANDIDATEPORTAL/jobs/10726) | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA |  | 2026-11-02 |  |
@@ -41,8 +47,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | JPMorgan Chase | [Data Scientist – Process Intelligence Analytics](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800587) | Plano, TX, United States |  | 2026-10-28 |  |
 | NVIDIA | [Deep Learning Performance Architect - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177) | US, CA, Santa Clara |  | 2026-10-28 |  |
 | T. Rowe Price | [Quantitative Investment Analyst](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Quantitative-Investment-Analyst_84187) | Baltimore, MD |  | 2026-10-28 |  |
-| UnitedHealth Group | [Associate Data Engineer](https://careers.unitedhealthgroup.com/job/eden-prairie/associate-data-engineer/34088/102507844720) | Eden Prairie, Minnesota | $60,200 to $107,400 | 2026-10-28 |  |
-| UnitedHealth Group | [Associate AI/ML Engineer](https://careers.unitedhealthgroup.com/job/minnetonka/associate-ai-ml-engineer/34088/102526430176) | Minnetonka, Minnesota | $77,000 to $137,600 | 2026-10-28 |  |
 | American Express | [Analyst-Data Science](https://careers.americanexpress.com/en/sites/CX_1/job/26015250) | Phoenix, AZ, United States |  | 2026-10-27 | no visa sponsorship |
 | Atlassian | [AI Researcher, 2027 Graduate U.S.](https://www.atlassian.com/company/careers/details/26246) | San Francisco - United States - San Francisco, California 94104 United |  | 2026-10-27 |  |
 | Carvana | [Data Entry Specialist](https://www.carvana.com/careers/apply?gh_jid=8325869) | Baltimore, MD | $19/hour | 2026-10-27 | no visa sponsorship |
@@ -66,15 +70,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kiewit | [Data Engineer 1 - Kiewit Technology Group](https://kiewitcareers.kiewit.com/job/Omaha-Data-Engineer-1-Kiewit-Technology-Group-NE-68046/1437057500/) | Omaha, NE, US |  | 2026-10-24 |  |
 | Man Group | [Junior Quant - PM Analytics](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960827101) | Boston | $110,000 to $130,000 | 2026-10-24 |  |
 | ByteDance | [Research Scientist" - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD)](https://joinbytedance.com/search/7670374385110599989) | San Jose, California, United States of America |  | 2026-10-24 |  |
-| Xcel Energy | [Associate Data Scientist - Workforce Analytics](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Associate-Data-Scientist---Workforce-Analytics_JR116164-1) | Minneapolis, MN, 55401 (hybrid) | $84,900 to $120,567 | 2026-10-23 |  |
 | Bank of America | [Research & Adjustments Rep III](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Phoenix/Research---Adjustments-Rep-III_26036372) | Phoenix |  | 2026-10-23 |  |
-| CVS Health | [Data Scientist - Pharmacy Benefits](https://jobs.cvshealth.com/us/en/job/R1069422) | 161 Avenue of the Americas, New York, New York,United States | $79,310 to $173,040 | 2026-10-23 |  |
+| Xcel Energy | [Associate Data Scientist - Workforce Analytics](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Associate-Data-Scientist---Workforce-Analytics_JR116164-1) | Minneapolis, MN, 55401 (hybrid) | $84,900 to $120,567 | 2026-10-23 |  |
 | Humana | [Technology Solutions Professional](https://careers.humana.com/us/en/job/R-433880) | Remote, Nationwide, United States of America | $73,400 to $100,100 | 2026-10-23 |  |
 | Thermo Fisher Scientific | [Data Engineer](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Data-Engineer_R-01372756) | Pittsburgh, Pennsylvania, USA |  | 2026-10-23 |  |
 | TransUnion | [Data Scientist](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Scientist_19042997) | Chicago, Illinois (hybrid) | $67,500 to $112,500 | 2026-10-23 |  |
 | TransUnion | [Data Scientist, Financial Services Consulting](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Scientist--Financial-Services-Consulting_19042996) | Chicago, Illinois (hybrid) | $67,500 to $112,500 | 2026-10-23 |  |
 | UT Southwestern | [Biostatistical Consultant I](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=982776&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-10-23 |  |
-| UTMB Health | [Research Scientist I, Pathology Research](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2606194&lang=en) | United States-Texas-Galveston |  | 2026-10-23 |  |
 | UTMB Health | [Research Scientist I, Biochemistry & Molecular Biology](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2606570&lang=en) | United States-Texas-Galveston |  | 2026-10-23 |  |
 | Southwest Research Institute | [COMPUTER SCIENTIST - ENGINEER - RESEARCH ENGINEER - Robotics](https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=10-01558) | San Antonio, Texas |  | 2026-10-23 | US citizens/persons only |
 | Southwest Research Institute | [ENGINEER - RESEARCH ENGINEER - Signal Processing Engineer](https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=16-01566) | San Antonio, Texas |  | 2026-10-23 | US citizens/persons only |
@@ -93,7 +95,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Tanium | [AI Research Scientist](https://job-boards.greenhouse.io/tanium/jobs/8232146) | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emer | $143,000 to $219,000 | 2026-10-22 | US citizens/persons only |
 | ByteDance | [Research Scientist (Seed Model-Alignment&Preparedness)- 2027 Start (PhD)](https://joinbytedance.com/search/7698902624389482757) | San Jose, California, United States of America |  | 2026-10-22 |  |
 | ByteDance | [Research Scientist (Seed Model-Alignment&Preparedness) - 2026 Start (PhD)](https://joinbytedance.com/search/7698902624003229957) | San Jose, California, United States of America |  | 2026-10-22 |  |
-| CVS Health | [Encounter Data Analyst- DSNP (Dual Eligible Special Needs Plan)](https://jobs.cvshealth.com/us/en/job/R1016439) | Work at Home, Pennsylvania, United States | $43,888 to $93,574 | 2026-10-21 |  |
 | Entegris | [Scientist I, Analytics & Metrology](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/San-Luis-Obispo-CA/Scientist-I--Analytics---Metrology_REQ-15350) | San Luis Obispo, CA | $75,000 to $80,000 | 2026-10-21 |  |
 | Guidehouse | [Financial Management Data Analyst](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Financial-Management-Data-Analyst_45435) | US - VA, Arlington | $74,000 to $124,000 | 2026-10-21 |  |
 | Milliman | [Healthcare Data Analyst (MedInsight)](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=ee934efa-4296-49ed-b390-d8d0aff4a875) | Seattle, WA, USA (hybrid) | $80,168 to $109,020 | 2026-10-21 |  |
@@ -122,7 +123,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | KLA | [Research Scientist](https://kla.wd1.myworkdayjobs.com/Search/job/USA-MI-Ann-Arbor-KLA/Research-Scientist_2640190-2) | USA-MI-Ann Arbor-KLA | $105,900 to $180,000 | 2026-10-20 |  |
 | Nordstrom | [Engineer 1: Agentic AI - Inventory Solutions (Hybrid - Seattle, WA)](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1_R-889191) | Seattle, WA (hybrid) | $104,500 to $162,500 | 2026-10-20 |  |
 | RTI International | [Entry-level Economist](https://careers.rti.org/careers-home/jobs/13660) | United States | $63,000 to $77,000 | 2026-10-20 | clearance |
-| UnitedHealth Group | [Data Entry Representative](https://careers.unitedhealthgroup.com/job/dallas/data-entry-representative/34088/102178653184) | Dallas, Texas | $16 to $29/hour | 2026-10-20 |  |
 | Hyundai Motor America | [AI Control Systems Engineer](https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-AI-Control-Systems-Engineer-MI-48198/1393620500/) | Superior Charter Township, MI, US |  | 2026-10-20 |  |
 | KeyBank | [Quantitative Analytics Associate](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Quantitative-Analytics-Associate_R-42695) | Brooklyn, OH | $69,000 to $105,000 | 2026-10-20 | no visa sponsorship, US citizens/persons only |
 | Lenovo | [AI Application Engineer](https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Application-Engineer/82510) | United States of America, North Carolina, Morrisville |  | 2026-10-20 |  |
@@ -171,6 +171,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Republic Services | [Data Scientist I](https://jobs.republicservices.com/us/en/job/R-181844) | Phoenix, Arizona, United States of America |  | 2026-10-20 |  |
 | UT Southwestern | [Biostatistical Consultant I](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=976931&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-10-20 |  |
 | UTMB Health | [Research Scientist I - Brain Health Institute](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2605121&lang=en) | United States-Texas-Galveston |  | 2026-10-20 |  |
+| Bank of America | [Quantitative Engineer](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Quantitative-Engineer_26035240-3) | Chicago | $90,000 to $155,500 | 2026-10-20 |  |
+| Dow | [2026-2027 Campus Graduate - Research & Development (BS/MS)](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Graduate---Research---Development--BS-MS-_R2068809) | Midland (MI, USA) |  | 2026-10-20 | no visa sponsorship |
+| PwC | [AI Governance Experienced Associate](https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/AI-Governance-Experienced-Associate_742625WD-1) | NY-New York | $63,000 to $141,500 | 2026-10-20 |  |
+| Target | [Data Analyst - Digital & E-commerce (experimentation, ML, Math/Stats)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Data-Analyst---ECommerce-Product-Analytics--experimentation--ML--Math-Stats-_R0000442291) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $69,800 to $125,700 | 2026-10-20 |  |
+| Vistra | [Associate Data Analyst-Retail](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Associate-Data-Analyst-Retail_40015958-2) | Irving, Texas |  | 2026-10-20 |  |
 | PayPal | [Data Scientist - Payments Risk Management & Data Analytics](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-Analytics_R0138042) | Chicago, Illinois, United States of America (hybrid) | $106,000 to $157,300 | 2026-10-20 |  |
 | PayPal | [Data Scientist - Payments Risk Management & Data analytics](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-analytics_R0138043) | San Jose, California, United States of America (hybrid) | $116,500 to $173,250 | 2026-10-20 |  |
 | University of Chicago | [Research Professional](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR35149-1) | Chicago, IL | $59,000 to $62,000 | 2026-10-20 |  |
@@ -181,8 +186,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CommonSpirit Health (St. Luke's Health) | [Research Scientist I](https://www.commonspirit.careers/job/phoenix/research-scientist-i/35300/101444232352) | PHOENIX, AZ |  | 2026-10-20 |  |
 | Kyndryl | [Early Career Consult Program - Associate AI Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2) | Dallas (USDALFRI) Frisco AI HUB | $77,000 | 2026-10-20 | no visa sponsorship |
 | NVIDIA | [Research Scientist, Fundamental Generative AI - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) | US, CA, Santa Clara |  | 2026-10-20 |  |
-| PwC | [AI Governance Experienced Associate](https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/AI-Governance-Experienced-Associate_742625WD-1) | NY-New York | $63,000 to $141,500 | 2026-10-20 |  |
-| PwC | [AI Engineer / Data Scientist, AI Experienced Associate](https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/IL-Chicago/AI-Engineer---Data-Scientist--AI-Experienced-Associate_754265WD) | IL-Chicago | $63,000 to $141,500 | 2026-10-20 |  |
 | ZS Associates | [AI Engineer Associate Consultant](https://jobs.zs.com/careers-home/jobs/67605) | Princeton, New Jersey |  | 2026-10-20 | no visa sponsorship |
 | Deutsche Bank | [Associate, Loans Strat, Group Strategic Analytics](https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-1-Columbus-Circle/Associate--Loans-Strat--Group-Strategic-Analytics_R0453927) | New York, 1 Columbus Circle | $150,000 to $163,000 | 2026-10-20 |  |
 | GlobalFoundries | [Device Compact Modeling Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Device-Compact-Modeling-Engineer--2027-New-College-Graduate-_JR-2604318) | USA - Texas - Austin | $58,400 to $100,800 | 2026-10-20 |  |
@@ -198,7 +201,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Prairie View A&M University | [Postdoctoral Researcher (Artificial Intelligence)](https://tamus.wd1.myworkdayjobs.com/PVAMU_External/job/Prairie-View-TX/Postdoctoral-Researcher--Artificial-Intelligence-_R-097663-1) | Prairie View, TX |  | 2026-10-20 |  |
 | Recidiviz | [Data Analyst (Entry-Level)](https://job-boards.greenhouse.io/recidiviz/jobs/4717510006) | Remote, New York City, or Oakland | $85,000 | 2026-10-20 | no visa sponsorship |
 | Cobot | [Mechanical Engineer, AI Data Collection](https://jobs.ashbyhq.com/cobot/f060d83e-3b73-4a41-b8e1-c19359d572b4) | Santa Clara | $140,000 to $160,000 | 2026-10-20 |  |
-| Dow | [2026-2027 Campus Graduate - Research & Development (BS/MS)](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Graduate---Research---Development--BS-MS-_R2068809) | Midland (MI, USA) |  | 2026-10-20 | no visa sponsorship |
 | NextEra Energy | [Applied Scientist I](https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1434800800/) | St. Paul, MN, US | $96,000 to $144,000 | 2026-10-20 |  |
 | NVIDIA | [Research Scientist, Fundamental Generative AI - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739) | US, CA, Santa Clara |  | 2026-10-20 |  |
 | NVIDIA | [Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) | US, CA, Santa Clara |  | 2026-10-20 |  |
@@ -224,7 +226,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NVIDIA | [Research Scientist, ML Systems - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) | US, CA, Santa Clara |  | 2026-10-20 |  |
 | Polaris | [Digital & IT Leadership Development Program Associate - Predictive Data Science](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Predictive-Data-Science_R30564) | Medina, MN, USA | $79,000 to $88,500 | 2026-10-20 | no visa sponsorship |
 | Black & Veatch | [AI Program Manager - Power Delivery & Grid](https://careers.bv.com/job/Overland-Park-AI-Program-Manager-Power-Delivery-&-Grid-KS-66062/1400049433/) | Atlanta, GA, US |  | 2026-10-20 |  |
-| Bank of America | [Quantitative Engineer](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Quantitative-Engineer_26035240-3) | Chicago | $90,000 to $155,500 | 2026-10-20 |  |
 | Lincoln Financial | [Associate Data Engineer, AI Data Products](https://jobs.lincolnfinancial.com/job/Radnor-Associate-Data-Engineer%2C-AI-Data-Products-PA/1433876400/) | Radnor, PA, US |  | 2026-10-20 |  |
 | Rivian | [Early Career - Durability Modeling & Simulation Engineer](https://careers.rivian.com/careers-home/jobs/33972) | Irvine, California | $96,700 to $120,900 | 2026-10-20 | no visa sponsorship |
 | Seagate | [Sr Engineer - Early Career - Experimental Data Storage Physics](https://seagatecareers.com/job/Bloomington-Sr-Engineer-Early-Career-Experimental-Data-Storage-Physics-MN/1433890200/) | Normandale, United States | $94,000 to $118,000 | 2026-10-20 |  |
@@ -239,8 +240,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TotalEnergies | [Quantitative Regulatory Reporting Analyst](https://jobs.totalenergies.com/en_US/careers/JobDetail/Quantitative-Regulatory-Reporting-Analyst/84338) | HOUSTON, United States / US |  | 2026-10-20 | no visa sponsorship |
 | Arrowstreet Capital | [Quantitative Researcher](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher_R1066-5) | Boston | $155,000 to $260,000 | 2026-10-20 |  |
 | Arrowstreet Capital | [Quantitative Researcher](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/job/Boston/Quantitative-Researcher_R1066-3) | Boston | $155,000 to $260,000 | 2026-10-20 |  |
-| Bank of America | [Data Scientist I](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Atlanta/Data-Scientist-I_26034307) | Atlanta |  | 2026-10-20 |  |
-| Bank of America | [Data Scientist I](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Atlanta/Data-Scientist-I_26034313-2) | Atlanta |  | 2026-10-20 |  |
 | Gartner | [Business Intelligence Analyst](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Business-Intelligence-Analyst_112102-1) | Stamford, CT |  | 2026-10-20 |  |
 | Guidehouse | [Junior Data Scientist](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Junior-Data-Scientist_44662) | US - VA, Arlington | $74,000 to $124,000 | 2026-10-20 |  |
 | Guidehouse | [Data Scientist](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Data-Scientist_44617) | US - MD, Bethesda | $65,000 to $108,000 | 2026-10-20 |  |
@@ -248,12 +247,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Morgan Stanley | [Associate - AI Governance & Reporting - Model Risk](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate---AI-Governance---Reporting---Model-Risk_PT-JR043622) | New York, New York, United States of America | $100,000 to $140,000 | 2026-10-20 |  |
 | PIMCO | [Quantitative Research Analyst - Client Solutions & Analytics](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst_R106236) | Newport Beach, CA USA | $205,000 to $230,000 | 2026-10-20 |  |
 | RELX | [Data Scientist I (DSAP)](https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Data-Scientist-I--DSAP-_R116014-1) | Alpharetta, GA | $59,200 to $98,600 | 2026-10-20 |  |
-| Target | [Data Analyst - Digital & E-commerce (experimentation, ML, Math/Stats)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Data-Analyst---ECommerce-Product-Analytics--experimentation--ML--Math-Stats-_R0000442291) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $69,800 to $125,700 | 2026-10-20 |  |
 | The Hartford | [Associate, Product Analytics Leadership Development Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate--Product-Leadership-Development-Program_R2626425-1) | Hartford, CT (hybrid) | $60,000 to $90,000 | 2026-10-20 |  |
 | Thermo Fisher Scientific | [FSP-Associate Research Scientist](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/FSP-Associate-Research-Scientist_R-01368026) | Collegeville, Pennsylvania, USA |  | 2026-10-20 |  |
 | TransUnion | [Data Scientist, Financial Services Consulting](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Scientist--Financial-Services-Consulting_19042464) | Chicago, Illinois (hybrid) | $67,500 to $112,500 | 2026-10-20 |  |
 | Travelers | [Engineering Development Program (EDP) - Data Engineering](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-52272) | CT - Hartford | $70,400 to $116,200 | 2026-10-20 | no visa sponsorship |
-| Vistra | [Associate Data Analyst-Retail](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Associate-Data-Analyst-Retail_40015958-2) | Irving, Texas |  | 2026-10-20 |  |
 | DRW | [Data Analyst, Exploration](https://job-boards.greenhouse.io/drweng/jobs/8189760) | Chicago | $100,000 to $120,000 | 2026-10-20 |  |
 | Cedars-Sinai | [Research Facilities Coord I -Facilities Management](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20359) | Los Angeles, CA, United States |  | 2026-10-20 |  |
 | Garmin | [Aviation Pilot Data Analyst](https://careers.garmin.com/careers-home/jobs/20183) | Olathe, Kansas |  | 2026-10-20 |  |
@@ -295,11 +292,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of Hope | [Research Professor - Statistician](https://www.cityofhopejobs.org/job/11875/research-professor-statistician-research-us-ca-duarte/) | Duarte, CA, US |  | 2026-10-20 |  |
 | DV Trading | [Junior Quantitative Trader](https://job-boards.greenhouse.io/dvtrading/jobs/4725689005) | Remote |  | 2026-10-20 |  |
 | Infineon | [International Graduate Program – System Application Engineer for AI Power](https://jobs.infineon.com/careers/job/563808971774409) | San Jose, CA, US | $120,000 | 2026-10-20 |  |
-| Southwest Research Institute | [ENGINEER - RESEARCH ENGINEER - Aerospace Structures - Layton, UT](https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=18-01647) | Layton, Utah |  | 2026-10-20 | US citizens/persons only |
 | Rivian | [Early Career - Durability Analytics Engineer](https://careers.rivian.com/careers-home/jobs/30306) | Irvine, California | $96,700 to $120,900 | 2026-10-20 | no visa sponsorship |
 | Applied Intuition | [Research Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) · Summer 2027 | Sunnyvale |  | 2026-10-20 |  |
 | UT Southwestern | [Biostatistical Consultant I, Internal Medicine](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=934853&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-10-20 |  |
-| Southwest Research Institute | [ENGINEER - RESEARCH ENGINEER - Fluids Engineering Dept. Experimental Engineer](https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=18-01639) | San Antonio, Texas |  | 2026-10-20 | US citizens/persons only |
 | Belvedere Trading | [Quantitative Trader - Entry Level 2027](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee) | Chicago, Illinois |  | 2026-10-20 |  |
 | Carvana | [Data Entry Specialist](https://www.carvana.com/careers/apply?gh_jid=8107017) | Latham, NY | $18/hour | 2026-10-20 | no visa sponsorship |
 | Upstart | [Applied Scientist](https://careers.upstart.com/jobs?gh_jid=7293116) | United States / Remote | $141,500 to $196,000 | 2026-10-20 |  |

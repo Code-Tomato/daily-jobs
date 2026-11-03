@@ -1,11 +1,14 @@
 # New grad and entry level: Product, program and project management
 
-116 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+118 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| UC San Diego | [Graduate Program Manager - 142001](https://employment.ucsd.edu/graduate-program-manager-142001/job/7F4A271CCC63BCB2E11C1DECA9C4F465) | Remote | $62,100 to $107,100 | 2026-11-03 |  |
+| Black & Veatch | [Project Manager, APG EPC](https://careers.bv.com/job/Project-Manager%2C-APG-EPC-LA/1453569833/) | LA, US |  | 2026-11-03 |  |
+| Charter Communications | [Onboarding Project Manager](https://jobs.spectrum.com/job/town-of-stamford/onboarding-project-manager/4673/102776574656) | Stamford, Connecticut | $81,800 to $131,000 | 2026-11-03 | no visa sponsorship |
 | Honda | [New Model Project Manager](https://careers.honda.com/us/en/job/12789) | Raymond, Ohio, United States |  | 2026-11-02 |  |
 | Symbotic | [New Grad - Onsite Project Manager](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/New-Grad---Onsite-Project-Manager_R7970) | USA Remote & Travel | $79,500 to $116,600 | 2026-11-02 |  |
 | UC Irvine | [Project Manager (Part-Time Limited)](https://jobs.uci.edu/careers-home/jobs/152952) | Orange, California |  | 2026-11-02 |  |
@@ -68,7 +71,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Charlotte-Project-Manager-WaterWastewater-NC-28201/1421012033/) | Nashville, TN, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Greenville-Project-Manager-WaterWastewater-SC/1421015133/) | Savannah, GA, US |  | 2026-10-20 |  |
 | Black & Veatch | [Data Center Project Manager](https://careers.bv.com/job/Overland-Park-Data-Center-Project-Manager-KS-66062/1441543633/) | Cary, NC, US |  | 2026-10-20 |  |
-| Ayar Labs | [Technical Program Manager - Contract](https://ayarlabs.com/careers/?gnk=job&gni=8a7887aca0abfca001a0cee0e7d527c2) | San Jose, CA, United States | $85 to $100/hour | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Dallas-Project-Manager-WaterWastewater-TX-75201/1429680833/) | Fort Worth, TX, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Advanced Power Generation](https://careers.bv.com/job/Overland-Park-Project-Manager-Advanced-Power-Generation-KS-66062/1286435501/) | Ann Arbor, MI, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Advanced Power Generation](https://careers.bv.com/job/Overland-Park-Project-Manager-Advanced-Power-Generation-KS-66062/1286435701/) | Ann Arbor, MI, US |  | 2026-10-20 |  |

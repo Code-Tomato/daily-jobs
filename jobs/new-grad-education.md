@@ -1,11 +1,12 @@
 # New grad and entry level: Education
 
-47 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+48 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Texas A&M University | [Graduate Academic Advisor II](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Graduate-Academic-Advisor-II_R-098338-2) | College Station, TX |  | 2026-11-03 |  |
 | UTMB Health | [Federal Work Study Student, Dean of Graduate School](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2600926&lang=en) | United States-Texas-Galveston |  | 2026-11-02 |  |
 | UTRGV | [ACADEMIC ADVISOR](https://careers.utrgv.edu/postings/52993) | Edinburg, Texas |  | 2026-10-30 |  |
 | Texas A&M University | [Library Specialist I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Library-Specialist-I_R-098109-1) | College Station, TX | $15.85/hour | 2026-10-28 |  |
@@ -23,6 +24,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Prairie View A&M University | [Adjunct Instructor (Theatre)](https://tamus.wd1.myworkdayjobs.com/PVAMU_External/job/Prairie-View-TX/Adjunct-Instructor--Theatre-_R-097382-2) | Prairie View, TX |  | 2026-10-20 |  |
 | Texas Health Resources | [Admissions Specialist – Admitting ER - Part Time - Weekends](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26010645&lang=en) | Plano |  | 2026-10-20 |  |
 | UT Dallas | [Part-time Lecturer - Archer Fellowship Program](https://jobs.utdallas.edu/postings/32971) | Washington, D.C. |  | 2026-10-20 |  |
+| Texas Children's Hospital | [Diabetes Educator II](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/427793) | Houston, TX, United States |  | 2026-10-20 |  |
 | Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=925621) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-10-20 |  |
 | ICF | [Library Technician](https://careers.icf.com/us/en/job/R2603422) | Bethesda, Maryland, United States of America | $50,605 to $86,028 | 2026-10-20 | clearance |
 | Texas Health Resources | [Admissions Specialist-ER-Full-Time Days](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26010927&lang=en) | Fort Worth |  | 2026-10-20 |  |
@@ -43,7 +45,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | H-E-B | [Border - School of Retail Leadership - Laredo](https://careers.heb.com/careers-home/jobs/191519) | Edinburg, Texas |  | 2026-10-20 |  |
 | Christus Health | [Dietician - Oncology](https://careers.christushealth.org/opportunity/dietician-oncology-381661) | Longview, TX, US |  | 2026-10-20 |  |
 | Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=922483) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-10-20 |  |
-| Baylor Scott & White Health | [Certified Diabetes Educator I - RD](https://jobs.bswhealth.com/us/en/job/25010330) | Round Rock, Texas, United States |  | 2026-10-20 |  |
 | Texas Southern University | [Academic Advisor](https://jobs.tsu.edu/postings/11682) | Houston, TX | $45,486.69 to $57,995.53 | 2026-10-20 |  |
 | CommonSpirit Health (St. Luke's Health) | [Group Fitness Instructor](https://www.commonspirit.careers/job/bryan/group-fitness-instructor/35300/99761238752) | BRYAN, TX |  | 2026-10-20 |  |
 | H-E-B | [Houston School of Retail Leadership Program](https://careers.heb.com/careers-home/jobs/190134) | Spring, Texas |  | 2026-10-20 |  |

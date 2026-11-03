@@ -1,6 +1,6 @@
 # New grad and entry level: Design and creative
 
-46 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+43 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -10,9 +10,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / C-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51985) | Sparks, Nevada |  | 2026-11-02 |  |
 | Oceaneering | [Visual Media Specialist I](https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/11819) | Hanover, MD, United States |  | 2026-10-30 | clearance |
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / A-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51993) | Sparks, Nevada |  | 2026-10-30 |  |
-| Duolingo | [Illustrator](https://careers.duolingo.com/jobs/8922037002?gh_jid=8922037002) | Detroit, MI; Pittsburgh, PA | $110,500 to $149,500 | 2026-10-29 |  |
 | Target | [UX Designer - Search & Recommendations](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Designer---Search---Recommendations_R0000475220-1) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $75,400 to $135,700 | 2026-10-29 |  |
-| CVS Health | [Graphic Designer- Meritain](https://jobs.cvshealth.com/us/en/job/R1065956) | Work At Home, Harrisburg, Pennsylvania,United States | $21.10 to $44.99/hour | 2026-10-28 |  |
 | Garmin | [Product Designer 1](https://careers.garmin.com/careers-home/jobs/19863) | Olathe, Kansas |  | 2026-10-28 |  |
 | Intel | [GPU Driver and Graphics Performance Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/GPU-Driver-and-Graphics-Performance-Engineer_JR0288152) | US, Oregon, Hillsboro (hybrid) | $111,030 to $181,940 | 2026-10-28 |  |
 | TikTok | [User Researcher](https://lifeattiktok.com/search/7699070278786058549) | San Jose, California, United States of America |  | 2026-10-24 |  |
@@ -38,7 +36,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Service Corporation International | [Memorial Designer](https://sci.wd5.myworkdayjobs.com/SCI/job/TX---Pflugerville/Memorial-Designer_Req167535) | TX - Pflugerville |  | 2026-10-20 |  |
 | Figma | [Early Career, Product Designer (2027)](https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004) | San Francisco, CA • New York, NY | $140,000 | 2026-10-20 |  |
 | DNOW | [Engineering Designer](https://distributionnow.wd5.myworkdayjobs.com/DNOW_Careers/job/US-CO-Denver-1422-Delgany-Street-Suite-100/Engineering-Designer_R08523) | US CO Denver 1422 Delgany Street, Suite 100 |  | 2026-10-20 |  |
-| UnitedHealth Group | [Visual Field Technician](https://careers.unitedhealthgroup.com/job/everett/visual-field-technician/34088/100685631216) | Everett, Washington | $18 to $32/hour | 2026-10-20 |  |
 | The New York Times | [Journalist, Graphics Intensive](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4728037005) | New York, NY | $82,414.80 | 2026-10-20 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/18646) | Olathe, Kansas |  | 2026-10-20 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/18738) | Portland, Oregon |  | 2026-10-20 |  |

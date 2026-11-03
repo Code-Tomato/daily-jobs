@@ -1,11 +1,13 @@
 # New grad and entry level: Civil, construction and environmental
 
-143 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+144 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Black & Veatch | [Construction Associate](https://careers.bv.com/job/Field-Assignment-Construction-Associate-KS/1453605133/) | Field Assignment, KS, US |  | 2026-11-03 |  |
+| Kiewit | [Finance Analyst 1 - Weeks Marine Construction](https://kiewitcareers.kiewit.com/Weeks/job/Cranford-Finance-Analyst-1-Weeks-Marine-Construction-NJ/1446884300/) | New London, CT, US | $75,000 to $87,906 | 2026-11-03 | no visa sponsorship |
 | JPMorgan Chase | [Wealth Management, Portfolio Construction Strategy, Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804698) | New York, NY, United States |  | 2026-11-02 |  |
 | ICF | [Construction Project Manager](https://careers.icf.com/us/en/job/R2603709) | Riverside, California, United States of America | $89,261 to $151,744 | 2026-10-30 | no visa sponsorship |
 | Black & Veatch | [Fleet Asset Coordinator - Construction](https://careers.bv.com/job/Overland-Park-Fleet-Asset-Coordinator-Construction-KS-66062/1452575833/) | Overland Park, KS, US |  | 2026-10-30 |  |
@@ -127,7 +129,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | DNV | [Junior Surveyor](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7172) | New Orleans, LA, United States |  | 2026-10-20 | no visa sponsorship |
 | Deepgram | [Strategic Account Executive (Federal Civilian)](https://jobs.ashbyhq.com/Deepgram/c22e34a4-018a-4123-a752-31ed64c320c8) | Washington D.C. |  | 2026-10-20 | US citizens/persons only, clearance |
 | Garmin | [Aviation Project Engineer](https://careers.garmin.com/careers-home/jobs/19058) | Olathe, Kansas |  | 2026-10-20 |  |
-| Baylor Scott & White Health | [Physician Assistant – Abdominal Wall Reconstruction](https://jobs.bswhealth.com/us/en/job/26009884) | East Dallas, Texas, United States |  | 2026-10-20 |  |
 | Stoke Space | [Structural Dynamicist – Early Career](https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5762751004) | Kent, Washington | $95,550 to $120,645 | 2026-10-20 | US citizens/persons only |
 | Siemens Energy | [Project Engineer](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Project-Engineer/305023) | Richland, Mississippi, United States of America |  | 2026-10-20 |  |
 | U.S. Bank | [Impact Finance - Construction Coordinator](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Louis-MO/Impact-Finance---Construction-Coordinator_2026-0032017) | Saint Louis, MO | $25.63 to $34.18/hour | 2026-10-19 |  |

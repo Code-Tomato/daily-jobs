@@ -1,6 +1,6 @@
 # Internships and co-ops: Design and creative
 
-58 open, newest first (by the date the scraper first saw them), updated 2026-11-02.
+58 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -38,6 +38,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Duolingo | [Illustrator, Intern](https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002) · Fall 2027 | Detroit, MI | $39 to $41/hour | 2026-10-20 |  |
 | GM | [Summer 2027 Intern - Industrial Design](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship |
 | TensorWave | [Podcast Producer Intern](https://jobs.ashbyhq.com/tensorwave/ba1b8977-ee96-440e-a4bd-353f745dffd1) | Las Vegas, Nevada |  | 2026-10-20 |  |
+| Target | [UX Design Internship - Minneapolis, MN (Starting Summer, 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Design-Internship---Minneapolis--MN--Starting-Summer--2027-_R0000451077) · Summer 2027 | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $34/hour | 2026-10-20 |  |
 | Activision | [Activision 2027 Summer Internships - Game Design](https://careers.activision.com/us/en/job/R028091) · Summer 2027 | Playa Vista, California, United States of America | $20 to $50/hour | 2026-10-20 |  |
 | Fox Corporation | [Summer 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033985) · Summer 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
 | Entegris | [Designer/Drafter Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/San-Luis-Obispo-CA/Designer-Drafter-Co-Op_REQ-14428-1) · Spring 2027 | San Luis Obispo, CA | $20 to $30/hour | 2026-10-20 |  |
@@ -46,7 +47,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Stryker | [Summer 2027 Intern - Industrial Design, User Experience - Michigan](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833) · Summer 2027 | Portage, Michigan | $35/hour | 2026-10-20 |  |
 | Fox Corporation | [Spring 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033952-1) · Spring 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
 | Dick's Sporting Goods | [Product Design (UX) - Summer 2027 Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Product-Design--UX----Summer-2027-Corporate-Internship_202608790-1) · Summer 2027 | Customer Support Center (hybrid) |  | 2026-10-20 |  |
-| Target | [UX Design Internship - Minneapolis, MN (Starting Summer, 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Design-Internship---Minneapolis--MN--Starting-Summer--2027-_R0000451077) · Summer 2027 | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $34/hour | 2026-10-20 |  |
 | Epic Games | [Game Design Intern](https://epicgames.com/careers/jobs/6193647004?gh_jid=6193647004) | Cary,North Carolina,United States |  | 2026-10-20 |  |
 | Garmin | [Product Designer Intern](https://careers.garmin.com/careers-home/jobs/20190) | Olathe, Kansas |  | 2026-10-20 |  |
 | Charter Communications | [2027 Summer Intern: Product Designer UI/UX](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-product-designer-ui-ux/4673/100133776400) · Summer 2027 | Greenwood Village, Colorado | $28.50 to $29.50/hour | 2026-10-20 | no visa sponsorship |
