@@ -1,11 +1,29 @@
 # New grad and entry level: Science and research
 
-374 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
+391 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| UC San Diego | [Lab Assistant I, Neurosciences - 142054](https://employment.ucsd.edu/lab-assistant-i-neurosciences-142054/job/E3C8AD2955342DAA47DB652F3A3F6A3B) | San Diego, CA, US | $27.04 to $32.31/hour | 2026-11-04 |  |
+| Baylor Scott & White Health | [Lab Tech 2](https://jobs.bswhealth.com/us/en/job/26020348) | Austin, Texas, United States |  | 2026-11-04 |  |
+| Cedars-Sinai | [Clinical Research Coordinator I - Heart Institute - Makkar Team](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21567) | Los Angeles, CA, United States |  | 2026-11-04 |  |
+| Chevron | [Laboratory Technician Trainee](https://careers.chevron.com/job/pascagoula/laboratory-technician-trainee/38138/102817153904) | Pascagoula, Mississippi |  | 2026-11-04 |  |
+| City of Hope | [Research Associate I - Organic Chemistry](https://www.cityofhopejobs.org/job/12463/research-associate-i-organic-chemistry-research-us-ca-duarte/) | Duarte, CA, US |  | 2026-11-04 |  |
+| CommonSpirit Health (St. Luke's Health) | [Clinical Lab Scientist](https://www.commonspirit.careers/job/carmichael/clinical-lab-scientist/35300/102814585696) | CARMICHAEL, CA |  | 2026-11-04 |  |
+| FICO | [Analytic Scientist I](https://fico.wd1.myworkdayjobs.com/External/job/San-Rafael-CA/Analytic-Scientist-I_32344-1) | San Rafael, CA (hybrid) | $88,000 to $121,000 | 2026-11-04 |  |
+| IQVIA | [Associate Scientist, Lab Operations](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Valencia-CA-United-States-of-America/Associate-Scientist--Lab-Operations_R1574290) | Valencia, CA, United States of America | $42,700 to $89,000 | 2026-11-04 |  |
+| IQVIA | [Clinical Research Coordinator - Thomasville, GA](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Tallahassee-FL/Clinical-Research-Coordinator---Thomasville--GA_R1578002) | Tallahassee, FL | $35 to $42/hour | 2026-11-04 | no visa sponsorship |
+| IQVIA | [Clinical Research Coordinator - Wyomissing, PA](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wyomissing-PA/Clinical-Research-Coordinator---Wyomissing--PA_R1577997) | Wyomissing, PA | $35 to $42/hour | 2026-11-04 | no visa sponsorship |
+| Natera | [Scientist, Genomics and Cancer Biology](https://job-boards.greenhouse.io/natera/jobs/6231943004) | San Carlos, CA | $101,400 to $126,700 | 2026-11-04 |  |
+| Tenet Healthcare | [Lab Assistant II](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603026911) | San Antonio, TX, United States |  | 2026-11-04 |  |
+| Tenet Healthcare | [Medical Lab Scientist (MLS)](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028076) | Tucson, AZ, United States |  | 2026-11-04 |  |
+| Texas A&M University | [Research Assistant](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098558-1) | College Station, TX | $45,000 | 2026-11-04 |  |
+| UT Health San Antonio | [Hospital - Clinical Lab Assistant (Entry Level)](https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8435) | San Antonio, TX, United States |  | 2026-11-04 |  |
+| UT Southwestern | [Clinical Research Coordinator I](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=984937&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-11-04 |  |
+| UT Southwestern | [Research Assistant I, Internal Medicine](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=985292&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-11-04 |  |
+| Oak Ridge National Laboratory | [Chemical Engineer](https://jobs.ornl.gov/job/Oak-Ridge-Chemical-Engineer-TN-37830/1447381200/) | Oak Ridge, TN, US |  | 2026-11-04 | no visa sponsorship, clearance |
 | Illumina | [Scientist 1](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Scientist-1_43647-JOB) | US - California - San Diego | $62,900 to $94,300 | 2026-11-03 | no visa sponsorship |
 | Tenet Healthcare | [Lab Assistant II](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603026362) | San Antonio, TX, United States |  | 2026-11-03 |  |
 | Tenet Healthcare | [Lab Assistant II](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603027553) | El Paso, TX, United States |  | 2026-11-03 |  |
@@ -101,6 +119,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | MD Anderson | [Medical Laboratory Scientist - PT20 hours - Thurs - Fri 7am - 5:30pm](https://jobs.mdanderson.org/search/jobdetails/medical-laboratory-scientist---pt20-hours---thurs---fri-7am---530pm/ee087c62-47df-4170-a8dd-acdea54348f2) | Missouri City, Texas, US |  | 2026-10-21 |  |
 | Baylor Scott & White Health | [Lab Tech 2](https://jobs.bswhealth.com/us/en/job/26018496) | Round Rock, Texas, United States |  | 2026-10-20 |  |
 | Tempus | [Clinical Operations Coordinator (Reference Lab)](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Clinical-Operations-Coordinator--Reference-Lab-_JR202600865) | Chicago |  | 2026-10-20 |  |
+| Morgan Stanley | [Equity Research – Associate, SMID Cap Biotech (New York)](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Equity-Research---Associate--Biopharma--New-York-_JR045717-1) | New York, New York, United States of America | $150,000 to $200,000 | 2026-10-20 |  |
 | Baylor Scott & White Health | [Lab Tech 2 PRN](https://jobs.bswhealth.com/us/en/job/26016825) | Irving, Texas, United States |  | 2026-10-20 |  |
 | Entegris | [Quality Lab Scientist I, Thu-Sun 12:00 PM - 10:30 PM](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Bedford-MA/Quality-Lab-Scientist-II--Thu-Sun-12-00-PM---10-30-PM_REQ-13218-1) | Bedford, MA | $60,000 to $87,000 | 2026-10-20 |  |
 | Tempus | [Molecular Technologist I (Extractions)](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Molecular-Technologist-I--Extractions-_JR202500418) | Chicago |  | 2026-10-20 |  |
@@ -178,7 +197,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Cedars-Sinai | [Clinical Research Data Specialist I - Heart Institute - Ouyang Lab](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20899) | Los Angeles, CA, United States |  | 2026-10-20 |  |
 | Tenet Healthcare | [Lab Assistant II](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603024455) | El Paso, TX, United States |  | 2026-10-20 |  |
 | UT Southwestern | [Clinical Research Coordinator I](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=976932&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-10-20 |  |
+| Air Products | [Ph.D. Career Development Program – Chemical Engineer FY2027](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/PhD-Career-Development-Program---Chemical-Engineer-FY2027_JR-2026-21952) | Allentown, Pennsylvania |  | 2026-10-20 |  |
+| Core Laboratories | [Laboratory Technician I](https://corelab.wd12.myworkdayjobs.com/CLB/job/Broussard-Louisiana/Laboratory-Technician-I_R1193) | Broussard, Louisiana |  | 2026-10-20 |  |
 | Tenet Healthcare | [Medical Lab Scientist (MLS) II Microbiology](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603014074) | Memphis, TN, United States |  | 2026-10-20 |  |
+| Westlake | [Chemical Engineer (Rotational Program)](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/Chemical-Engineer--Rotational-Program-_R33165) | US - Houston, TX |  | 2026-10-20 |  |
 | Houston Methodist | [Clinical Research Nurse - Transplant Center](https://houstonmethodist.wd12.myworkdayjobs.com/GTI/job/HM-Texas-Medical-Center---Research-Institute/Clinical-Research-Nurse---Transplant-Center_JR-12956-1) | HM Texas Medical Center - Research Institute |  | 2026-10-20 |  |
 | Houston Methodist | [Clinical Research Nurse - Transplant Center](https://houstonmethodist.wd12.myworkdayjobs.com/GTI/job/HM-Texas-Medical-Center---Research-Institute/Clinical-Research-Nurse---Transplant-Center_JR-11795-1) | HM Texas Medical Center - Research Institute |  | 2026-10-20 |  |
 | Houston Methodist | [Clinical Research Nurse - Neurology - Alzheimer](https://houstonmethodist.wd12.myworkdayjobs.com/GTI/job/HM-Texas-Medical-Center---Scurlock-Tower/Clinical-Research-Nurse---Neurology---Alzheimer_JR-5799-1) | HM Texas Medical Center - Scurlock Tower |  | 2026-10-20 |  |
@@ -236,10 +258,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Cedars-Sinai | [Research Associate II - Heart Institute - Ciullo Lab](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20378) | Los Angeles, CA, United States |  | 2026-10-20 |  |
 | City of Hope | [Research Associate I - Precision Oncology of Gastrointestinal Cancers](https://www.cityofhopejobs.org/job/12098/research-associate-i-precision-oncology-of-gastrointestinal-cancers-research-us-ca-monrovia/) | Monrovia, CA, US |  | 2026-10-20 |  |
 | Texas Health Resources | [Endoscopic Retrograde Cholangiopancreatography Technician (ERCP) - Endo/GI Lab](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26009818&lang=en) | Plano |  | 2026-10-20 |  |
-| Air Liquide | [Quality Control Lab Technician I](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Upper-Mount-Bethel-PA---Advanced-materials---UMB/Quality-Control-Lab-Technician-I_R10095644-1) | Upper Mount Bethel, PA - Advanced materials - UMB | $28/hour | 2026-10-20 |  |
-| Air Products | [Ph.D. Career Development Program – Chemical Engineer FY2027](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/PhD-Career-Development-Program---Chemical-Engineer-FY2027_JR-2026-21952) | Allentown, Pennsylvania |  | 2026-10-20 |  |
 | Alcon | [Associate Scientist, Analytical Chemistry](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Durham--Emperor-Blvd/Associate-Scientist--Analytical-Chemistry_R-2026-48629-2) | Durham – Emperor Blvd |  | 2026-10-20 |  |
-| Core Laboratories | [Laboratory Technician I](https://corelab.wd12.myworkdayjobs.com/CLB/job/Broussard-Louisiana/Laboratory-Technician-I_R1193) | Broussard, Louisiana |  | 2026-10-20 |  |
 | IQVIA | [Clinical Research Coordinator - Jefferson City, MO](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Jefferson-City-MO/Clinical-Research-Coordinator---Jefferson-City--MO_R1561898) | Jefferson City, MO | $35 to $42/hour | 2026-10-20 | no visa sponsorship |
 | IQVIA | [Medical Laboratory Scientist](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Fairfax-VA-United-States-of-America/Medical-Laboratory-Scientist_R1531084) | Fairfax, VA, United States of America | $46,200 to $96,200 | 2026-10-20 |  |
 | IQVIA | [Clinical Research Associate, Sponsor Dedicated](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Carlsbad-CA-United-States-of-America/Clinical-Research-Associate--Sponsor-Dedicated_R1541497) | Carlsbad, CA, United States of America | $71,900 to $189,000 | 2026-10-20 |  |
@@ -252,8 +271,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rady Children's Health Orange County (CHOC) | [Clinical Laboratory Scientist, Microbiology (Part Time, Nights, Non Benefitted)](https://rch.wd108.myworkdayjobs.com/Careers/job/Main-Campus---Orange/Clinical-Laboratory-Scientist--Microbiology--Part-Time--Nights--Non-Benefitted-_R-32202) | Main Campus - Orange | $50.40 to $83.16/hour | 2026-10-20 |  |
 | Texas A&M AgriLife Extension | [RSSI Graduate Research Assistant](https://tamus.wd1.myworkdayjobs.com/AgriLife_Extension_External/job/College-Station-TX/RSSI-Graduate-Research-Assistant_R-089229-1) | College Station, TX |  | 2026-10-20 |  |
 | Texas A&M AgriLife Research | [Postdoctoral Research Associate](https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Postdoctoral-Research-Associate_R-093332-1) | College Station, TX |  | 2026-10-20 |  |
-| Venture Global | [Technician, Laboratory](https://venturegloballng.wd108.myworkdayjobs.com/External_Careers/job/Plaquemines-Parish-LA/Technician--Laboratory_JR514) | Plaquemines Parish, LA |  | 2026-10-20 |  |
-| Westlake | [Chemical Engineer (Rotational Program)](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/Chemical-Engineer--Rotational-Program-_R33165) | US - Houston, TX |  | 2026-10-20 |  |
 | Tenet Healthcare | [Medical Lab Scientist - Weekend nights 12-hour shifts ED](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603023403) | Fort Mill, SC, United States |  | 2026-10-20 |  |
 | Cedars-Sinai | [Research Associate II - Center for Autonomous Robotic Surgery](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20183) | West Hollywood, CA, United States |  | 2026-10-20 |  |
 | Christus Health | [MLT, Medical Lab Technician I - General Lab](https://careers.christushealth.org/opportunity/mlt-medical-lab-technician-i-general-lab-384695) | Beaumont, TX, US |  | 2026-10-20 |  |

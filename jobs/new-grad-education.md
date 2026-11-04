@@ -1,11 +1,13 @@
 # New grad and entry level: Education
 
-48 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
+48 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Accenture | [Instructor Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-3565-Piedmont-Rd-NE-ACN-Ops/Instructor-Specialist_14465756) | Atlanta, 3565 Piedmont Rd NE., ACN Ops | $63,800 to $154,800 | 2026-11-04 |  |
+| Baylor Scott & White Health | [Certified Diabetes Educator I - RD](https://jobs.bswhealth.com/us/en/job/26020011) | Remote, United States |  | 2026-11-04 |  |
 | Texas A&M University | [Graduate Academic Advisor II](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Graduate-Academic-Advisor-II_R-098338-2) | College Station, TX |  | 2026-11-03 |  |
 | UTMB Health | [Federal Work Study Student, Dean of Graduate School](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2600926&lang=en) | United States-Texas-Galveston |  | 2026-11-02 |  |
 | UTRGV | [ACADEMIC ADVISOR](https://careers.utrgv.edu/postings/52993) | Edinburg, Texas |  | 2026-10-30 |  |
@@ -41,8 +43,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | West Texas A&M University | [Academic Advisor III](https://tamus.wd1.myworkdayjobs.com/WTAMU_External/job/Canyon-TX/Academic-Advisor-III_R-096970-1) | Canyon, TX |  | 2026-10-20 | no visa sponsorship |
 | Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=923632) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-10-20 |  |
 | Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=923098) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-10-20 |  |
-| H-E-B | [Border - School of Retail Leadership - Southwest](https://careers.heb.com/careers-home/jobs/191426) | Edinburg, Texas |  | 2026-10-20 |  |
-| H-E-B | [Border - School of Retail Leadership - Laredo](https://careers.heb.com/careers-home/jobs/191519) | Edinburg, Texas |  | 2026-10-20 |  |
 | Christus Health | [Dietician - Oncology](https://careers.christushealth.org/opportunity/dietician-oncology-381661) | Longview, TX, US |  | 2026-10-20 |  |
 | Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=922483) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-10-20 |  |
 | Texas Southern University | [Academic Advisor](https://jobs.tsu.edu/postings/11682) | Houston, TX | $45,486.69 to $57,995.53 | 2026-10-20 |  |

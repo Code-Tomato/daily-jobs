@@ -1,11 +1,14 @@
 # Internships and co-ops: Education
 
-10 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
+13 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Motorola Solutions | [Global Education Intern (Summer 2027 Internship)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Education-Intern--Summer-2027-Internship-_R70403) · Summer 2027 | Chicago, IL |  | 2026-11-04 |  |
+| Motorola Solutions | [Global Education Intern (Summer 2027 Internship)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Education-Intern--Summer-2027-Internship-_R70401) · Summer 2027 | Chicago, IL |  | 2026-11-04 |  |
+| UCAR / NCAR | [2027 CISL Outreach, Development & Education Intern (CODE)](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/XMLNAME-2027-CISL-Outreach--Development---Education-Intern--CODE-_REQ-2026-229-1) · Summer 2027 | Boulder, CO | $28.32/hour | 2026-11-04 | no visa sponsorship |
 | Amgen | [Grad Intern – Amgen Library (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871) · Summer 2027 | United States - Remote | $35.34 to $42.20/hour | 2026-11-03 |  |
 | NASA JPL | [Academic Part Time Intern](https://www.jpl.jobs/us/en/job/R6220) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-11-03 |  |
 | NASA JPL | [Business Admin (Academic Part Time Intern)](https://www.jpl.jobs/us/en/job/R6200) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-11-03 |  |

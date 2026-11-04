@@ -4,36 +4,36 @@ Every US job posting from about 1,000 company career sites, scraped fresh every 
 your resume and finds the ones you actually qualify for.
 
 <!-- stats -->
-**257,786 US job postings from 1,000 companies**, updated 2026-11-03 (6,296 first seen that day).
+**258,703 US job postings from 1,000 companies**, updated 2026-11-04 (6,792 first seen that day).
 
-- [Internships and co-ops](jobs/internships.md): 10,703 open, 978 new this week
-- [New grad and entry level](jobs/new-grad.md): 21,269 open, 3,416 new this week
+- [Internships and co-ops](jobs/internships.md): 10,698 open, 968 new this week
+- [New grad and entry level](jobs/new-grad.md): 21,539 open, 3,434 new this week
 
 <details><summary>Postings by field</summary>
 
 | Field | Postings |
 |---|---:|
-| Business, consulting and operations | 46,878 |
-| Healthcare | 44,770 |
-| Finance, accounting and banking | 25,967 |
-| Software engineering | 25,232 |
-| Skilled trades, service and retail | 25,112 |
-| Sales, marketing and communications | 14,715 |
-| Mechanical, aerospace and manufacturing | 13,106 |
-| Data, ML and AI | 12,934 |
-| Other | 12,852 |
-| Hardware, chips and embedded | 10,122 |
-| Product, program and project management | 6,845 |
-| Other engineering | 4,967 |
-| Civil, construction and environmental | 4,505 |
-| HR, legal and policy | 4,011 |
-| Science and research | 3,511 |
-| Design and creative | 1,534 |
-| Education | 725 |
+| Business, consulting and operations | 46,739 |
+| Healthcare | 45,901 |
+| Finance, accounting and banking | 26,424 |
+| Software engineering | 25,499 |
+| Skilled trades, service and retail | 23,868 |
+| Sales, marketing and communications | 14,989 |
+| Mechanical, aerospace and manufacturing | 13,140 |
+| Data, ML and AI | 13,101 |
+| Other | 12,893 |
+| Hardware, chips and embedded | 10,107 |
+| Product, program and project management | 6,903 |
+| Other engineering | 4,953 |
+| Civil, construction and environmental | 4,283 |
+| HR, legal and policy | 4,035 |
+| Science and research | 3,589 |
+| Design and creative | 1,545 |
+| Education | 734 |
 
 </details>
 
-Boards that failed or looked wrong on their last check (their older postings are kept): American Express, Autodesk, Deloitte, Dexterity, GEICO, H-E-B, MD Anderson, Old Mission, Shell, Southwest Airlines, T-Mobile, USAA, University Health (San Antonio).
+Boards that failed or looked wrong on their last check (their older postings are kept): American Express, Atmos Energy, Autodesk, Deloitte, Dexterity, Enbridge, MD Anderson, Motiva, ONE Gas, Old Mission, Southwest Airlines, T-Mobile, TC Energy, Valaris.
 <!-- /stats -->
 
 ## Three ways to use it

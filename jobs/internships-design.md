@@ -1,11 +1,12 @@
 # Internships and co-ops: Design and creative
 
-58 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
+58 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| TikTok | [Product Designer Project Intern (TikTok-Design-UX) - 2026 Start - Project Intern (TikTok Design) - 2027 Start](https://lifeattiktok.com/search/7533145462880127240) | San Jose, California, United States of America |  | 2026-11-04 |  |
 | Thomson Reuters | [Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Reuters-News-Internship-Program--Temp-Guild----New-York_JREQ204985) | United States of America, New York, New York | $23 to $24/hour | 2026-11-02 |  |
 | Dell | [Industrial Design Intern - Enterprise (ISG)](https://jobs.dell.com/en/sites/CX_1/job/302049) | Round Rock, TX, United States | $29.60 to $31.80/hour | 2026-11-02 |  |
 | The New York Times | [Creative Development Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005) | New York, NY | $20/hour | 2026-11-02 |  |
@@ -23,6 +24,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | KeyBank | [2027 Summer Graphic Design Internship](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Graphic-Design-Internship_R-42823) · Summer 2027 | Brooklyn, OH | $23/hour | 2026-10-22 | no visa sponsorship |
 | Garmin | [User Interface Designer Intern](https://careers.garmin.com/careers-home/jobs/19938) · Summer 2027 | Olathe, Kansas |  | 2026-10-21 |  |
 | Home Depot | [2027 Summer Internship - User Experience](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---User-Experience_Req192109) · Summer 2027 | STORE SUPPORT CENTER, ATLANTA - 9090 |  | 2026-10-21 |  |
+| AEP | [User Experience Design Intern](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/User-Experience-Design-Intern_R20054) | Columbus, OH |  | 2026-10-20 | no visa sponsorship |
 | Disney | [Disney Experiences Graphic Design Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Disney-Experiences-Graphic-Design-Intern--Spring-2027_10160434) · Spring 2027 | Kissimmee, FL, USA | $23/hour | 2026-10-20 |  |
 | Disney | [Disney Consumer Products Retail Creative Graphic Design Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Disney-Consumer-Products-Retail-Creative-Graphic-Design-Intern--Spring-2027_10160400-2) · Spring 2027 | Kissimmee, FL, USA | $23/hour | 2026-10-20 |  |
 | Garmin | [Industrial Designer Intern (Spring 2027)](https://careers.garmin.com/careers-home/jobs/20385) · Spring 2027 | Olathe, Kansas |  | 2026-10-20 |  |
@@ -32,8 +34,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Nintendo of America | [Intern - User Experience](https://careers.nintendo.com/?gh_jid=4418258009) | Redmond, WA |  | 2026-10-20 | no visa sponsorship |
 | Polaris | [Transportation Industrial Design Intern](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Transportation-Industrial-Design-Intern_R31551) | Medina, MN, USA | $19.50 to $30.75/hour | 2026-10-20 | no visa sponsorship, US citizens/persons only |
 | KLA | [Precision Motion Control Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Precision-Motion-Control-Intern_2642139-1) | Milpitas, CA |  | 2026-10-20 |  |
-| Xcel Energy | [Journeyman Lineman/Advanced Step (5th step or higher) Apprentice Lineman - Montevideo Service Center - Montevi](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Montevideo-MN-56265/Journeyman-Lineman-Advanced-Step--5th-step-or-higher--Apprentice-Lineman---Montevideo-Service-Center---Montevideo--MN_JR116837-1) | Montevideo, MN, 56265 | $49.82 to $62.27/hour | 2026-10-20 |  |
-| AEP | [User Experience Design Intern](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/User-Experience-Design-Intern_R20054) | Columbus, OH |  | 2026-10-20 |  |
 | Duolingo | [Illustrator, Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8864014002) · Fall 2027 | Detroit, MI | $39 to $41/hour | 2026-10-20 |  |
 | Duolingo | [Illustrator, Intern](https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002) · Fall 2027 | Detroit, MI | $39 to $41/hour | 2026-10-20 |  |
 | GM | [Summer 2027 Intern - Industrial Design](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship |

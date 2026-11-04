@@ -1,14 +1,14 @@
 # Internships and co-ops: Product, program and project management
 
-200 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
+199 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Intuitive Machines | [Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575114&lang=en_US) | Greenbelt, MD, US |  | 2026-11-04 | US citizens/persons only |
 | Applied Materials | [Summer 2027 Data Intelligence/Technical Program Management Intern- Master's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) · Summer 2027 | Santa Clara,CA |  | 2026-11-03 |  |
 | Applied Materials | [Summer 2027 Technical Project/Program Management Intern- Master's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Technical-Project-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627706) · Summer 2027 | Santa Clara,CA |  | 2026-11-03 |  |
-| Walmart Global Tech | [Summer 2026 MBA Intern Conversion: 2027 APD Senior Product Manager (MBA)](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2026-MBA-Intern-Conversion--2027-APD-Senior-Product-Manager--MBA-_R-2649805) · Summer 2026 | (USA) Together Building AR Bentonville Home Office | $90,000 to $180,000 | 2026-11-03 |  |
 | Zebra Technologies | [2027 Summer Internship (US) - Global Marketing Program Management](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Global-Marketing-Program-Management_JR103611) · Summer 2027 | Lincolnshire, Illinois | $24 to $25.50/hour | 2026-11-03 | no visa sponsorship |
 | Microsoft | [Business Program Manager, Global Intern Experience & Innovation](https://apply.careers.microsoft.com/careers/job/1970393557043712) | Redmond, WA, US | $97,600 to $206,400 | 2026-11-02 |  |
 | Applied Materials | [2027 Spring Project Manager Co-op (Billerica, MA)](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Project-Manager-Co-op--Billerica--MA-_R2631534) · Spring 2027 | Billerica,MA | $31 to $41/hour | 2026-11-02 |  |
@@ -52,7 +52,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Panasonic North America | [Intern - Product Management](https://careers.na.panasonic.com/careers-home/jobs/51897) | Bridgeton, Missouri |  | 2026-10-24 |  |
 | Principal Financial Group | [Product Management Internship (Summer 2027)](https://careers.principal.com/careers-home/jobs/53674) · Summer 2027 | Des Moines, Iowa (hybrid) | $28 to $30/hour | 2026-10-24 |  |
 | Rivian | [Technical Program Management Intern - Field Service Programs & Applied Intelligence (Spring 2027 Co-op)](https://careers.rivian.com/careers-home/jobs/34674) · Spring 2027 | San Jose, California | $24 to $51/hour | 2026-10-24 | no visa sponsorship |
-| Walmart Global Tech | [Summer 2027 Intern: Automation - Product Manager - Corporate Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739) · Summer 2027 | (USA) TX LANCASTER 07382 ECOMM FULFILLMENT SERVICES | $21 to $40/hour | 2026-10-23 | no visa sponsorship |
 | Charter Communications | [2027 Summer Intern: Project Manager](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-project-manager/4673/100143764432) · Summer 2027 | Greenwood Village, Colorado |  | 2026-10-22 | no visa sponsorship |
 | Electronic Arts | [Product Management Intern, Fan Care Community Care - Summer 2027](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) · Summer 2027 | Austin, United States of America |  | 2026-10-22 |  |
 | Electronic Arts | [Strategy & Program Management Intern, Fan Care Community Care - Summer 2027](https://jobs.ea.com/en_US/careers/JobDetail/Strategy-Program-Management-Intern-Fan-Care-Community-Care-Summer-2027/216184) · Summer 2027 | Austin, United States of America |  | 2026-10-22 |  |
@@ -65,6 +64,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Q2 | [2027 Summer Internship - Product Operations](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) · Summer 2027 | Austin, Texas |  | 2026-10-20 | no visa sponsorship |
 | Boston Scientific | [Technical Communications & Project Management Intern](https://bostonscientific.eightfold.ai/careers/job/563602813563529) · Fall 2027 | Arden Hills, MN, US | $43,368 to $73,736 | 2026-10-20 | no visa sponsorship |
 | Kinder Morgan | [2027 BOLT Intern - Terminals Engineering Project Managment](https://careers.kindermorgan.com/careers-home/jobs/6037) | PASADENA, Texas |  | 2026-10-20 |  |
+| Western Midstream | [Project Management Office- Intern](https://careers.westernmidstream.com/job/The-Woodlands-Project-Management-Office-Intern-TX-77380/1432523500/) | The Woodlands, TX, US |  | 2026-10-20 |  |
 | DocuSign | [Program Management Intern](https://careers.docusign.com/careers-home/jobs/30469) | Seattle, Washington | $38 to $40/hour | 2026-10-20 | no visa sponsorship |
 | Insomniac Games | [Publishing Project Management Intern - Undergraduate](https://job-boards.greenhouse.io/insomniac/jobs/6226347004) | United States, Burbank, CA | $36.50/hour | 2026-10-20 | no visa sponsorship |
 | Microsoft | [Business Program Management INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999329) | Redmond, WA, US | $4,700 to $9,490/month | 2026-10-20 |  |
@@ -117,7 +117,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Astranis | [Technical Project Management Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4708364006) · Winter 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
 | Siemens | [Building Automation Systems Project Management Intern](https://jobs.siemens.com/en_US/externaljobs/JobDetail/523648) · Summer 2027 | Hartford, Connecticut, United States of America |  | 2026-10-20 |  |
 | Danaher | [Product Management & Marketing Intern (Summer 2027 Intern)](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) · Summer 2027 | Logan, Utah, United States |  | 2026-10-20 |  |
-| Western Midstream | [Project Management Office- Intern](https://careers.westernmidstream.com/job/The-Woodlands-Project-Management-Office-Intern-TX-77380/1432523500/) | The Woodlands, TX, US |  | 2026-10-20 |  |
 | Rivian | [MBA Intern - Product Management Product Development (Spring 2027 Co-Op)](https://careers.rivian.com/careers-home/jobs/33793) · Spring 2027 | Palo Alto, California | $33 to $51/hour | 2026-10-20 | no visa sponsorship |
 | Dick's Sporting Goods | [Product Management - Summer 2027 Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) · Summer 2027 | Customer Support Center (hybrid) |  | 2026-10-20 |  |
 | Red Hat | [Product Manager Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Product-Manager-Intern_R-059060) | Raleigh |  | 2026-10-20 |  |

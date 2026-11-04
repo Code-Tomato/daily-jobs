@@ -1,11 +1,15 @@
 # New grad and entry level: HR, legal and policy
 
-137 open, newest first (by the date the scraper first saw them), updated 2026-11-03.
+138 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Brex | [Business Recruiter](https://www.brex.com/careers/8928177002?gh_jid=8928177002) | Seattle, Washington, United States | $96,728 to $120,910 | 2026-11-04 |  |
+| Brex | [Business Recruiter](https://www.brex.com/careers/8928173002?gh_jid=8928173002) | New York, New York, United States | $96,728 to $120,910 | 2026-11-04 |  |
+| Brex | [Business Recruiter](https://www.brex.com/careers/8928174002?gh_jid=8928174002) | San Francisco, California, United States | $96,728 to $120,910 | 2026-11-04 |  |
+| Brex | [Business Recruiter](https://www.brex.com/careers/8928181002?gh_jid=8928181002) | Salt Lake City, Utah, United States | $85,600 to $107,000 | 2026-11-04 |  |
 | Runway | [Commercial Counsel Fellowship](https://jobs.ashbyhq.com/runway-ml/b03fbac5-d23d-4300-ae62-68d6cece1d9b) | Remote |  | 2026-11-03 |  |
 | Stewart Information Services | [Policy Production Processor I](https://stewart.wd1.myworkdayjobs.com/External/job/USA-SC---Remote/Policy-Production-Processor-I_JR108940) | USA SC - Remote |  | 2026-11-03 |  |
 | WM (Waste Management) | [Heavy Equipment Operator Benefits Day 1, Stable Hours, 401K Match](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355438) | Portland, OR, United States | $28/hour | 2026-11-03 |  |
@@ -16,7 +20,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | State Farm | [Attorney](https://jobs.statefarm.com/careers-home/jobs/46782) | Indianapolis, Indiana (hybrid) | $163,000 | 2026-10-29 | no visa sponsorship |
 | Capital One | [Full Time Branch Ambassador - Larose Cutoff (21/hr)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Larose-LA/Full-Time-Branch-Ambassador---Larose-Cutoff--21-hr-_R1004475) | Larose, LA |  | 2026-10-29 | no visa sponsorship |
 | Fifth Third Bank | [Legal Ops Servicing Specialist](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Legal-Ops-Servicing-Specialist_R74259-1) | Cincinnati, OH |  | 2026-10-28 |  |
-| Republic Services | [Talent Acquisition Sourcer](https://jobs.republicservices.com/us/en/job/R-187359) | Phoenix, Arizona, United States of America | $56,400 to $77,550 | 2026-10-28 |  |
 | Texas Tech University | [Research Compliance Specialist I](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=926848) | Lubbock, Texas, US | $21.39 to $34.23/hour | 2026-10-28 |  |
 | WM (Waste Management) | [Heavy Equipment Operator Benefits Day 1, Stable Hours, 401K](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355237) | Washtucna, WA, United States | $32/hour | 2026-10-28 |  |
 | WM (Waste Management) | [Heavy Equipment Operator Benefits Day 1, Stable Hours, 401K Match](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355277) | Maricopa, AZ, United States | $24 to $26/hour | 2026-10-28 |  |
@@ -63,6 +66,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | WM (Waste Management) | [Heavy Equipment Operator Benefits Day 1, Stable Hours, 401K Match](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2351841) | Omaha, NE, United States | $26 to $28/hour | 2026-10-21 |  |
 | WM (Waste Management) | [Heavy Equipment Operator Benefits Day 1, Stable Hours, 401K Match](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2350899) | Erie, PA, United States | $20/hour | 2026-10-21 |  |
 | Lubrizol | [Product Safety & Regulatory Compliance Specialist](https://jobs.lubrizol.com/job/Wickliffe-Product-Safety-&-Regulatory-Compliance-Specialist-OH-44092-2298/1441822800/) | Wickliffe, OH, US |  | 2026-10-21 |  |
+| Bechtel | [27 New Grad / US / Human Resources](https://jobs.bechtel.com/us/en/job/297261) | United States | $70,008 to $84,012 | 2026-10-20 | no visa sponsorship |
+| LyondellBasell | [HR Reporting Specialist](https://careers.lyondellbasell.com/job/Houston-HR-Reporting-Specialist-TX-77056/1435607900/) | Houston, TX, US |  | 2026-10-20 |  |
 | GlobalFoundries | [Talent Acquisition Specialist, Early Talent & University Recruiting (2026 New College Grad)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Talent-Acquisition-Specialist--Early-Talent---University-Recruiting--2026-New-College-Grad-_JR-2605810) | USA - Texas - Austin | $50,400 to $88,200 | 2026-10-20 |  |
 | Ameriprise Financial | [Paralegal](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Paralegal_R26_3221) | Boston, Massachusetts | $56,100 to $98,600 | 2026-10-20 |  |
 | Insperity | [HCM Benefits Specialist I](https://insperity.wd12.myworkdayjobs.com/NSP/job/Scottsdale-AZ/HCM-Benefits-Specialist-I_JR103426) | Scottsdale, AZ |  | 2026-10-20 |  |
@@ -77,7 +82,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Quanta Services | [Recruiter](https://careers-quanta.icims.com/jobs/19350/recruiter/job) | Springville, UT | $20 to $23/hour | 2026-10-20 |  |
 | Molina Healthcare | [Specialist, Training-Bilingual (Spanish)](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2039759) | United States |  | 2026-10-20 |  |
 | Sony Pictures Entertainment | [Trainee, Talent Relations and Publicity, Sony Pictures Television - Spring 2027](https://www.sonypicturesjobs.com/job/culver-city/trainee-talent-relations-and-publicity-sony-pictures-television-spring-2027/22978/101958159808) · Spring 2027 | Culver City, California |  | 2026-10-20 |  |
-| Bechtel | [27 New Grad / US / Human Resources](https://jobs.bechtel.com/us/en/job/297261) | United States | $70,008 to $84,012 | 2026-10-20 | no visa sponsorship |
 | Ameriprise Financial | [Paralegal](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Paralegal_R26_4146) | Boston, Massachusetts | $56,100 to $98,600 | 2026-10-20 |  |
 | Austin Community College | [Specialist I, Talent Search (Hourly)](https://austincc.wd1.myworkdayjobs.com/External/job/Austin-Community-College/Specialist-I--Talent-Search--Hourly-_R-9977) | Austin Community College | $23/hour | 2026-10-20 |  |
 | Databricks | [Product Design New Grad (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002) · Fall 2026 | San Francisco, California; Seattle, Washington | $128,000 to $140,000 | 2026-10-20 |  |
@@ -99,19 +103,16 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Farmers Insurance | [FBS (Mexico) - Loss Control Regulatory Service Junior](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-Loss-Control-Regulatory-Service-Junior/1373748557/) | MX Remote Work, mx |  | 2026-10-20 | no visa sponsorship |
 | Republic Services | [Environmental Compliance Technician I - TSDF](https://jobs.republicservices.com/us/en/job/R-184080) | Robstown, Texas, United States of America |  | 2026-10-20 |  |
 | GlobalFoundries | [Human Resources Business Partner, GF Burlington (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Human-Resources-Business-Partner--GF-Burlington--2027-New-College-Graduate-_JR-2604468) | USA - Vermont - Essex Junction | $50,400 to $88,200 | 2026-10-20 |  |
-| LyondellBasell | [HR Reporting Specialist](https://careers.lyondellbasell.com/job/Houston-HR-Reporting-Specialist-TX-77056/1435607900/) | Houston, TX, US |  | 2026-10-20 |  |
 | Pariveda | [Technical Corporate Recruiter](https://jobs.ashbyhq.com/pariveda/d3b8c1c0-a66b-4c00-97fe-c552f3db23fb) | Dallas |  | 2026-10-20 | no visa sponsorship |
 | GlobalFoundries | [Human Resources Business Partner, GF Malta (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Business-Partner--GF-Malta--2027-New-College-Graduate-_JR-2604467) | USA - New York - Malta | $50,400 to $88,200 | 2026-10-20 |  |
 | Humana | [Compliance UMAC 3 (Wed-Sun)](https://careers.humana.com/us/en/job/R-421517) | Remote, Nationwide, United States of America | $44,900 to $60,200 | 2026-10-20 |  |
 | GlobalFoundries | [Talent Accelerator Program (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Talent-Accelerator-Program--2027-New-College-Graduate-_JR-2604196-1) | USA - Texas - Austin | $50,400 to $88,200 | 2026-10-20 |  |
 | KLA | [Product Safety & Compliance Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Safety---Compliance-Enigineer_2635508) | Ann Arbor, MI | $105,900 to $180,000 | 2026-10-20 |  |
-| Black & Veatch | [Litigation Counsel](https://careers.bv.com/job/Overland-Park-Litigation-Counsel-KS-66062/1431665033/) | Overland Park, KS, US |  | 2026-10-20 |  |
 | Molina Healthcare | [Manager, Regional Delegation Oversight](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2039204) | United States |  | 2026-10-20 |  |
 | BD | [Regulatory Affairs, Specialist I](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Regulatory-Affairs--Specialist-I_R-554960-1) | USA GA - Covington BMD |  | 2026-10-20 |  |
 | Belvedere Trading | [Early Career Talent Partner - Technology & Platform](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) | Chicago, Illinois |  | 2026-10-20 | no visa sponsorship |
 | Gartner | [Talent Sourcer](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Talent-Sourcer_113399) | Irving, TX |  | 2026-10-20 |  |
 | Gartner | [Talent Sourcer](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Talent-Sourcer_108681) | Irving, TX |  | 2026-10-20 |  |
-| Waste Connections | [Recruiting New Hire Specialist (Onsite)](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6300-Eastern-Region-Office/Onsite-Region-Recruiter_R-85893) | 6300-Eastern Region Office |  | 2026-10-20 |  |
 | Carta | [Junior Paralegal, Contracts](https://job-boards.greenhouse.io/carta/jobs/7997383003) | Seattle,WA; Sandy,UT; Dallas,TX | $53,664 to $90,640 | 2026-10-20 |  |
 | Match Group | [Global Escalations Specialist](https://jobs.lever.co/matchgroup/9880c945-51f1-4071-abbf-658887e93a80) | Los Angeles, California |  | 2026-10-20 |  |
 | Lucid Motors | [HR Generalist](https://lucidmotors.com/careers/search/5234720007?gh_jid=5234720007) | Phoenix, AZ |  | 2026-10-20 |  |
