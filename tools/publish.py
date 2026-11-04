@@ -37,7 +37,7 @@ DEFAULT_STORE = os.environ.get("JOBBOARD_STORE") or os.path.expanduser("~/projec
 DEFAULT_SRC = os.environ.get("JOBBOARD_SRC") or os.path.expanduser("~/projects/job-fit-board")
 EXCLUDED_ATS = {"amazon", "neogov"}  # amazon.jobs terms forbid automated extraction; NEOGOV's robots.txt admits only search engines
 SCHEMA = 1
-FACTS_VERSION = "4"  # bump when signals.py changes in a way that should re-parse every posting
+FACTS_VERSION = "5"  # bump when signals.py changes in a way that should re-parse every posting
 
 
 def arg(args, name, default):

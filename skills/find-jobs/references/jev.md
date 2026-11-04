@@ -38,11 +38,11 @@ read). Every request carries the whole resume, so its length sets the price: a r
 with a one-page resume ($0.00008 a posting, about $8 per 100,000 postings) and about 3,950 with a detailed two-page one
 (about $17 per 100,000). A day's new postings cost cents. Run `estimate` for the real figure.
 
-Jev answers in about 0.4 s on its own, but with several runs on one key at once a request took about 2 s (a shared
-rate limit). Expect a few hundred postings a minute with `--workers 8`: a few thousand take minutes, the whole database
-many hours. A 429 or 529 (rate limit, overload) is retried with backoff. Each organization's limits are on
-https://console.typesafe.ai (rate limits page); new accounts may need fewer workers. Grade the likeliest postings first
-(their fields or titles), then widen: results arrive while the long run continues.
+Jev answers in about 0.4 s. Throughput is set by `--workers`: in the November 2026 tests 8 workers graded about 260
+postings a minute and 32 about 1,500, with no rate limiting (429). Use 16 to 32 for runs of tens of thousands; a 429 or
+529 (rate limit, overload) is retried with backoff, and each organization's limits are on https://console.typesafe.ai
+(rate limits page). Grade the likeliest postings first (`grade` orders titles that match the rubric's top fit levels
+first), then widen: results arrive while the long run continues.
 
 ## Safety rails
 

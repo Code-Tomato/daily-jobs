@@ -105,10 +105,13 @@ the dataset files or job lists yourself. You still read the resume to know the p
    resume's text word for word into `resume.txt` in the workspace and pass that path.
 3. **Scope and cost.** `jobs.py jev estimate --all --resume PATH` for the whole database, or with search filters to
    skip what can't fit (`--level intern,new-grad,entry,unknown`, `--state TX --or-remote`...). It prints postings,
-   tokens, dollars and minutes, and spends nothing. Tell them; they choose the scope and the most it may spend.
+   tokens, dollars and minutes, and spends nothing. Tell them; they choose the scope and the most it may spend. Over
+   their budget? Narrow by what can't fit them anyway (`--level`, `--family`/`--or-title`, `--state ... --or-remote`,
+   `--needs-sponsorship`), or set `--max-total` to the budget: the likeliest postings are graded first, so a run that
+   stops at the cap has spent it on the right ones.
 4. **Run.** Grade the postings most likely to fit first, so the person has results in minutes: a first run with their
    fields (`--family software,data`) or title words, then the wider scope.
-   `jobs.py jev grade <filters> --resume PATH --max-total 20 --workers 8`. `--max-total` is their budget for this
+   `jobs.py jev grade <filters> --resume PATH --max-total 20 --workers 16`. `--max-total` is their budget for this
    workspace over all runs (earlier runs and interrupted ones count); `--max-cost` caps a single run. It stops before
    passing the cap, records spend as it goes, and a stopped or interrupted run continues where it left off when you
    rerun it. Tens of thousands of postings take an hour or more: start it in the background (`nohup ... &`, or your
@@ -134,8 +137,8 @@ Follow [references/judging.md](references/judging.md). In short:
 1. **Triage by the list.** Titles, companies and parsed facts already rule out many postings (wrong field, wrong term,
    senior). Record those as `no` with a short why, so they never come back (see the file format below).
 2. **Read the rest.** `python3 jobs.py show ID ID ...` prints each posting's facts and an eligibility excerpt (~1,800
-   characters: qualifications, degree, years, class standing, graduation window, authorization, place). Read about 10 at a
-   time (each is up to ~2 KB; much bigger batches overflow tool output). When the excerpt leaves a hard requirement unclear, `show --full ID` prints the whole posting, fetched live
+   characters: qualifications, degree, years, class standing, graduation window, authorization, place). Read 5 to 10 at a
+   time (each is up to ~2 KB; bigger batches overflow tool output). When the excerpt leaves a hard requirement unclear, `show --full ID` prints the whole posting, fetched live
    from its job board (Workday, Greenhouse, Lever, Ashby, SmartRecruiters APIs, else the page).
 3. **Decide** each one: `strong` (meets every hard requirement and is the work they want), `good`, `stretch` (one gap
    they could plausibly bridge; name it), or `no`. Add a `score` (0–100) to rank postings within a tier. Parsed facts

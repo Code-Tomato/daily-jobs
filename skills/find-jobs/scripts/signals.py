@@ -34,9 +34,19 @@ def _pieces(text):
     for line in re.split(r"\n|•|\s\*\s|\s·\s", (text or "").replace("\xa0", " ")):
         line = " ".join(line.split())
         for s in (re.split(r"(?<=[.!?;])\s+(?=[A-Z(])", line) if len(line) > 300 else [line]):
+            if len(s) > 350:  # cut a long sentence around its visa / citizenship / clearance words, not at a fixed length
+                m = _KEEP.search(s)
+                if m and m.end() > 330:
+                    a = max(0, m.start() - 160)
+                    s = ("…" if a else "") + s[a:a + 340].strip() + "…"
+                else:
+                    s = s[:349] + "…"
             if len(s) > 2:
-                out.append(s if len(s) <= 350 else s[:349] + "…")
+                out.append(s)
     return out
+
+
+_KEEP = re.compile(r"sponsor|visa\b|citizen|clearance|authoriz|permanent resident|green card|u\.?s\.? persons?|itar|export control", re.I)
 
 
 _PREFERRED = re.compile(r"\b(prefer\w*|desir\w*|nice[- ]to[- ]have|bonus|a plus|is a plus|ideal(ly)?|advantage\w*|strongly considered|"
