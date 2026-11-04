@@ -181,5 +181,28 @@ class Misc(unittest.TestCase):
         self.assertEqual(f["states"], ["TX"])
 
 
+class Nov4Fixes(unittest.TestCase):
+    """Parser fixes from the 2026-11-04 end-to-end tests."""
+
+    def test_benefit_amounts_are_not_pay(self):
+        self.assertIsNone(s.pay("Benefits\n- $500 per month credit for waiving medical benefits"))
+        self.assertEqual(s.pay("Salary: $150,000 - $200,000\n- $500 per month credit for waiving medical"), [150000, 200000, "year"])
+        self.assertEqual(s.pay("The base salary range is $100,000 - $120,000 base salary plus bonus"), [100000, 120000, "year"])
+
+    def test_not_open_to_remote(self):
+        row = {"location": "Redmond, WA", "description": "This position is onsite in Redmond, WA, and not open to remote status at this time."}
+        self.assertEqual(s.remote(row), "onsite")
+
+    def test_excerpt_keeps_headings_with_their_lines(self):
+        desc = ("About us\nWe build things.\nWhat you’ll do\nDesign fixtures.\nMinimum Qualifications\nBachelor's degree in ME\n"
+                "Preferred Qualifications\nMaster's degree in ME\nBenefits available to all full-time employees (global)\n- Flexible PTO\n"
+                + "Equal opportunity employer, all qualified applicants will receive consideration.\n" * 30)
+        ex = s.excerpt({"title": "Mechanical Engineer", "description": desc}, limit=300)
+        self.assertIn("Preferred Qualifications\nMaster's degree in ME", ex)  # never a preferred line without its heading
+        self.assertNotIn("Flexible PTO", ex)
+        self.assertFalse(s._is_heading("Experience with SolidWorks and ANSYS"))
+        self.assertTrue(s._is_heading("You may be a good fit if you:"))
+
+
 if __name__ == "__main__":
     unittest.main()

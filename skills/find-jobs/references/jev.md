@@ -31,20 +31,24 @@ One request per posting:
 
 ## Cost and speed
 
-Jev bills input tokens only (output is free). On 2026-11-03 it was $0.042 per million tokens; `estimate` and `grade`
+Jev bills input tokens only (output is free). On 2026-11-04 it was $0.042 per million tokens; `estimate` and `grade`
 read the current price from https://docs.typesafe.ai/models.md every run (pass `--price-per-mtok` if that page can't be
-read). A request is about 1,500 tokens with a one-page resume, so about $0.00006 a posting: roughly $15 for the whole
-~260k-posting database, a few cents for a day's new postings. A test of 8 postings used 11,724 tokens ($0.0005).
+read). Every request carries the whole resume, so its length sets the price: a request measured about 1,850 tokens
+with a one-page resume ($0.00008 a posting, about $8 per 100,000 postings) and about 3,950 with a detailed two-page one
+(about $17 per 100,000). A day's new postings cost cents. Run `estimate` for the real figure.
 
-Jev answers in about 0.4 s. With `--workers 8` the whole database takes about four hours; with 4, about eight. A 429 or
-529 (rate limit, overload) is retried with backoff. Each organization's limits are on https://console.typesafe.ai
-(rate limits page); new accounts may need fewer workers.
+Jev answers in about 0.4 s on its own, but with several runs on one key at once a request took about 2 s (a shared
+rate limit). Expect a few hundred postings a minute with `--workers 8`: a few thousand take minutes, the whole database
+many hours. A 429 or 529 (rate limit, overload) is retried with backoff. Each organization's limits are on
+https://console.typesafe.ai (rate limits page); new accounts may need fewer workers. Grade the likeliest postings first
+(their fields or titles), then widen: results arrive while the long run continues.
 
 ## Safety rails
 
-- `--max-cost` is required; the run reserves a pessimistic cost before each request and stops before it could pass the
-  cap. Actual spend comes from the API's own `usage.input_tokens` and is appended to `jev-spend.jsonl` in the workspace.
-  The console shows TypeSafe's own record.
+- `--max-cost` (this run) or `--max-total` (the workspace, all runs together) is required; the run reserves a
+  pessimistic cost before each request and stops before it could pass the cap. Actual spend comes from the API's own
+  `usage.input_tokens`: each grade in `grades.jsonl` carries its tokens, and `jev-spend.jsonl` gets a checkpoint every
+  20 seconds and at the end, so a killed run still counts. The console shows TypeSafe's own record.
 - A 401/403 (bad or revoked key) or 402 stops the run at once. A posting that fails after retries is skipped and retried
   on the next run.
 - Grades are appended to `grades.jsonl` as they arrive, keyed by posting id and a hash of resume + rubric + model. An

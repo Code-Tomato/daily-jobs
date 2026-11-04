@@ -93,25 +93,25 @@ def read_resume(path):
 RUBRIC_TEMPLATE = """# Jev rubric
 
 <!-- Jev reads this with the resume for every posting. Keep the two headings; the Fit section needs exactly four
-bullets (levels 0 to 3). Fill in the [brackets] from what the person told you; don't copy facts out of the resume,
-Jev reads the resume itself. Editing this file makes existing grades stale. -->
+bullets (levels 0 to 3). Replace each [bracket] with what the person told you, or delete the line when it doesn't apply
+to them. Don't copy facts out of the resume; Jev reads the resume itself. Editing this file makes existing grades stale. -->
 
 ## Eligibility rules
 
-- Use the graduation date and degree shown in the resume. A required degree counts as met only if the role starts after that date or the posting allows finishing it by then. Do not assume an unstated start date.
-- For internships and co-ops, check class-year, graduation-window and enrollment requirements against the resume. "Currently pursuing a degree" means enrolled during the internship. Do not assume graduate school unless the resume shows admission.
-- Count internships and research as experience: they satisfy "1+ years of experience" or "internship experience", not "N+ years of full-time / professional experience" for N >= 2.
-- A Master's or PhD requirement is met only if the resume shows that degree, completed or expected before the start date.
+- Use the degrees, dates, experience and certifications shown in the resume. A required degree, license or certification is met only if the resume shows it, completed or expected before the start date, or the posting accepts equivalent experience that the resume shows. Do not assume an unstated start date.
+- Count years of experience from the dates in the resume. Internships and research satisfy "1+ years of experience" or "internship experience", not "N+ years of full-time / professional experience" for N >= 2.
+- [Students and new grads, keep this line; delete it for anyone else: "For internships and co-ops, check class-year, graduation-window and enrollment requirements against the resume. 'Currently pursuing a degree' or 'returning to school after the internship' means enrolled during and after the internship. The candidate graduates <month year>; <state any confirmed graduate school admission, or: do not assume graduate school>."]
+- [Career changers, keep this line; delete it otherwise: e.g. "The candidate is moving from <old field> to <new field>. Experience in <old field> counts toward a requirement only where the posting asks for that skill itself (training, curriculum design, data analysis...), not toward 'N years as a <new-field title>'."]
 - [Work authorization, from the person: e.g. "The candidate is a US citizen; citizenship, US-person and clearance-eligibility requirements are met." or "The candidate will need visa sponsorship (F-1 OPT now, H-1B later). A posting that will not sponsor, or requires US citizenship, permanent residency or US-person status, is not met."]
-- [Clearance: e.g. "The candidate has no clearance; an active clearance requirement is not met." Delete if not relevant.]
-- [Anything else they told you that decides eligibility, e.g. "The candidate cannot relocate outside Texas; an onsite role elsewhere is not met." Delete if none.]
+- [Clearance, if relevant: e.g. "The candidate has no clearance and cannot get one; an active or obtainable clearance requirement is not met." Delete if not relevant.]
+- [Anything else they told you that decides eligibility, e.g. "The candidate can only work in Texas or remotely; an onsite role elsewhere is not met." Delete if none.]
 
 ## Fit levels
 
 - 0: Unrelated: [kinds of work they don't want, e.g. "sales, customer support, retail, or any non-engineering role"].
 - 1: Adjacent: work they could do, but that uses little of their background or interests, e.g. [generic example].
 - 2: Some direct overlap: the role touches at least one of their core areas: [their 3 to 6 core areas, in their words].
-- 3: Strong match: the role is centered on [their core areas], the kind of work they want next.
+- 3: Strong match: the role is centered on [their core areas], at the level they asked for, the kind of work they want next.
 """
 
 
@@ -139,25 +139,35 @@ def load_rubric(ws):
     return rules, levels
 
 
+QUESTIONS_VERSION = "2"  # part of the grade hash: rewording the questions makes old grades stale
+
+
 def questions(rules, levels):
     return {
         "eligible": {"type": "noul", "instructions": {
-            "question": "Would the candidate in `resume` satisfy every hard requirement of `job` at the time this role would start? "
-                        "The requirements are in `job.excerpt` (qualifications, degree, years, class standing, graduation window, "
-                        "work authorization, location).",
+            "question": "Does the candidate in `resume` pass the hard gates `job` sets, the ones an employer screens on before "
+                        "reading further: degree and field, graduation date, class standing or enrollment, minimum years of "
+                        "experience, a seniority far above the candidate's (Senior, Staff, Principal, Lead, Manager), work "
+                        "authorization or citizenship, security clearance, a required license or certification, and where the "
+                        "work is done? Read them in `job.excerpt` and judge them under `rules`. Skills, tools and topics listed "
+                        "as qualifications belong to fit, not to this question.",
             "rules": rules},
-            "criteria": {"true": "Every hard requirement is met under `rules`, or the only unmet one is a soft 'or equivalent' clause.",
-                         "false": "At least one hard requirement fails under `rules`: years of experience, degree, graduation window or "
-                                  "enrollment, work authorization, clearance, location, or a required license or skill the resume lacks."}},
+            "criteria": {"true": "Every gate the posting states is met under `rules`. An 'or equivalent experience' clause is met "
+                                 "when the resume shows that experience. Listed skills or technologies the resume doesn't show do "
+                                 "not make this false.",
+                         "false": "At least one stated gate fails under `rules`: too few years of experience, a seniority well "
+                                  "above the candidate's, a missing degree or wrong field, graduation timing or enrollment, work "
+                                  "authorization or citizenship, clearance, a required license or certification, or a location "
+                                  "the candidate ruled out."}},
         "fit": {"type": "score",
-                "instructions": "How closely does the day-to-day work in `job` match the candidate's demonstrated experience and stated "
-                                "interests in `resume`, judged on the levels below?",
+                "instructions": "How closely does the day-to-day work in `job` match the candidate's demonstrated experience, skills "
+                                "and stated interests in `resume`, judged on the levels below?",
                 "criteria": levels},
     }
 
 
 def input_hash(resume, rules, levels, model):
-    return hashlib.sha256(json.dumps([resume, rules, levels, model], ensure_ascii=False).encode()).hexdigest()[:16]
+    return hashlib.sha256(json.dumps([resume, rules, levels, model, QUESTIONS_VERSION], ensure_ascii=False).encode()).hexdigest()[:16]
 
 
 # --- price -----------------------------------------------------------------------------------------------------------
@@ -167,15 +177,34 @@ def price_per_mtok(model, override=None):
     the page when the column can't be pinned down, so estimates err high)."""
     if override is not None:
         return float(override)
+    saved = os.path.join(os.path.dirname(KEY_FILE), "last_price.json")  # the last price read, for a page that won't load
+    text, err = None, None
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(PRICING_URL, headers={"User-Agent": "daily-jobs-skill"}), timeout=30) as r:
+                text = r.read(500_000).decode("utf-8", "replace").replace("\\$", "$")
+            break
+        except Exception as e:
+            err = e
+            time.sleep(2 * (attempt + 1))
+    p = parse_price(text) if text else None
+    if p is not None:
+        try:
+            os.makedirs(os.path.dirname(saved), mode=0o700, exist_ok=True)
+            with open(saved, "w") as f:
+                json.dump({"price": p, "at": date.today().isoformat()}, f)
+        except OSError:
+            pass
+        return p
     try:
-        with urllib.request.urlopen(urllib.request.Request(PRICING_URL, headers={"User-Agent": "daily-jobs-skill"}), timeout=30) as r:
-            text = r.read(500_000).decode("utf-8", "replace").replace("\\$", "$")
-    except Exception as e:
-        raise JevError(f"Couldn't read the price list at {PRICING_URL} ({e}). Check it yourself and pass --price-per-mtok N.")
-    p = parse_price(text)
-    if p is None:
-        raise JevError(f"Couldn't find the per-Mtok price on {PRICING_URL}; check it and pass --price-per-mtok N.")
-    return p
+        last = json.load(open(saved))
+        if (date.today() - date.fromisoformat(last["at"])).days <= 7:
+            print(f"(Couldn't read {PRICING_URL}; using the price read on {last['at']}: ${last['price']}/M tokens.)", file=sys.stderr)
+            return float(last["price"])
+    except (OSError, ValueError, KeyError):
+        pass
+    why = f"read the price list at {PRICING_URL} ({err})" if text is None else f"find the per-Mtok price on {PRICING_URL}"
+    raise JevError(f"Couldn't {why}. Check it yourself and pass --price-per-mtok N.")
 
 
 def parse_price(text):
@@ -263,6 +292,17 @@ def run(rows, excerpt_for, resume, rules, levels, model, ws, max_cost, price, wo
     started = time.time()
     last = [started]
     fatal = []
+    run_id = f"{datetime.now():%Y%m%dT%H%M%S}-{os.getpid()}"
+
+    def record(final):
+        """The run's spend so far, appended to jev-spend.jsonl; spend() keeps the last record of each run, so a run that
+        is killed still counts what it spent up to its last checkpoint (and grades.jsonl has every request's tokens)."""
+        summary = {"run": run_id, "at": datetime.now().isoformat(timespec="seconds"), "model": model, "graded": spent["done"],
+                   "failed": spent["failed"], "input_tokens": spent["tokens"], "usd": round(spent["usd"], 6), "price_per_mtok": price,
+                   "selected": len(rows), "minutes": round((time.time() - started) / 60, 1), "final": final}
+        with open(os.path.join(ws, "jev-spend.jsonl"), "a") as f:
+            f.write(json.dumps(summary) + "\n")
+        return summary
 
     def one(r):
         if stop.is_set():
@@ -284,7 +324,8 @@ def run(rows, excerpt_for, resume, rules, levels, model, ws, max_cost, price, wo
             toks = (resp.get("usage") or {}).get("input_tokens")
             toks = toks if isinstance(toks, int) and toks >= 0 else int(tokens_of(body.decode()))
             rec = {"id": r["id"], "eligible": round(float(el), 4), "fit": round(float(fit), 3),
-                   "conf": a["fit"].get("confidence"), "model": resp.get("model"), "h": h, "at": datetime.now().isoformat(timespec="seconds")}
+                   "conf": a["fit"].get("confidence"), "model": resp.get("model"), "h": h, "tok": toks,
+                   "at": datetime.now().isoformat(timespec="seconds")}
             with lock:
                 spent["reserved"] -= worst
                 spent["tokens"] += toks
@@ -294,6 +335,7 @@ def run(rows, excerpt_for, resume, rules, levels, model, ws, max_cost, price, wo
                     f.write(json.dumps(rec) + "\n")
                 if time.time() - last[0] > 20:
                     last[0] = time.time()
+                    record(False)
                     rate = spent["done"] / max(1, time.time() - started)
                     left = (len(rows) - spent["done"] - spent["failed"]) / max(rate, 0.01)
                     progress(f"graded {spent['done']:,}/{len(rows):,}, ${spent['usd']:.3f} spent, about {left / 60:.0f} min left")
@@ -320,11 +362,8 @@ def run(rows, excerpt_for, resume, rules, levels, model, ws, max_cost, price, wo
                 futs = []
         for f in futs:
             f.result()
-    summary = {"at": datetime.now().isoformat(timespec="seconds"), "model": model, "graded": spent["done"], "failed": spent["failed"],
-               "input_tokens": spent["tokens"], "usd": round(spent["usd"], 6), "price_per_mtok": price, "selected": len(rows),
-               "minutes": round((time.time() - started) / 60, 1), "stopped": "cost cap" if stop.is_set() and not fatal else (fatal[0] if fatal else None)}
-    with open(os.path.join(ws, "jev-spend.jsonl"), "a") as f:
-        f.write(json.dumps(summary) + "\n")
+    summary = record(True)
+    summary["stopped"] = "cost cap" if stop.is_set() and not fatal else (fatal[0] if fatal else None)
     if fatal:
         raise JevError(fatal[0] + f" ({spent['done']:,} graded before it stopped; rerun to continue.)")
     return summary
@@ -347,9 +386,22 @@ def grades(ws, h=None):
 
 
 def spend(ws):
-    rows = []
+    """One record per run (the last checkpoint of each), oldest first."""
+    runs, order = {}, []
     path = os.path.join(ws, "jev-spend.jsonl")
     if os.path.exists(path):
         with open(path) as f:
-            rows = [json.loads(l) for l in f if l.strip()]
-    return rows
+            for i, l in enumerate(f):
+                try:
+                    x = json.loads(l)
+                except ValueError:
+                    continue
+                k = x.get("run") or f"line{i}"
+                if k not in runs:
+                    order.append(k)
+                runs[k] = x
+    return [runs[k] for k in order]
+
+
+def total_spent(ws):
+    return sum(x.get("usd") or 0 for x in spend(ws))

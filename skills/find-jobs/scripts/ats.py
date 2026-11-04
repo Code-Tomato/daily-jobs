@@ -42,7 +42,9 @@ _US_SUFFIX = re.compile(r"(?<!" + _PROV + r", )(?<!" + _PROV + r" )(?:(?<=, )|(?
                         + r")(?i:,\s*(?:us|usa|remote|hybrid|on-?site))?\s*(?:[;|•/()–—-]|$)")  # not a bare ",": "Chennai, TN, in"
 # A country or province code ending the location: lower-case after a region ("Bagneux, HAUTS-DE-SEINE, fr", whose DE is no Delaware),
 # upper-case after a two-letter region that is no US state ("Vadodara, GJ, IN" is India, not Indiana), or a Canadian province ("CA - Woodbridge, ON").
-_CC_TAIL = re.compile(r",\s*[^,]+,\s*(?!us\b)[a-z]{2}\s*$|,\s*(?!(?:" + "|".join(sorted(_US_STATES)) + r")\b)[A-Z]{2},\s*(?!US\b)[A-Z]{2}\s*$|,\s*" + _PROV + r"\s*$")
+_CC_TAIL = re.compile(r",\s*[^,]+,\s*(?!us\b)[a-z]{2}\s*$|,\s*(?!(?:" + "|".join(sorted(_US_STATES)) + r")\b)[A-Z]{2},\s*(?!US\b)[A-Z]{2}\s*$|,\s*" + _PROV + r"\s*$"
+                      # a lower-case country code after a single comma ("MX Remote Work, mx"), but not a lower-case state ("Austin, tx")
+                      r"|,\s*(?!(?:us|pr|" + "|".join(sorted(x.lower() for x in _US_STATES)) + r")\b)[a-z]{2}\s*$")
 
 def is_us(location):
     """Cheap US check on a free-text location. An explicit US country/state wins; then a named foreign place loses ("Remote - Canada",

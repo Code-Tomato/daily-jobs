@@ -25,10 +25,13 @@ tier (two `good` postings are rarely equally good).
 
 1. **Level and timing.** Internship or co-op: does the term match what they want (summer 2027, fall co-op)? Does the
    posting restrict class standing ("rising seniors", "sophomores and juniors", "graduating between Dec 2026 and
-   Jun 2027", "must return to school after the internship")? Check against their graduation date. "Currently pursuing a
-   degree" means enrolled when applying and, for nearly every internship, still enrolled during it: someone who graduates
-   in May 2027 does not qualify for a summer 2027 internship unless they will be in a graduate program by then. Don't
-   assume grad school unless the profile says it's confirmed. New grad: does their graduation date fall in the window?
+   Jun 2027", "must return to school after the internship")? Check against their graduation date. For someone who
+   graduates before the internship starts (May 2027 grad, summer 2027 internship) and has no confirmed grad school:
+   - `no` when the posting requires returning to school after it, enrollment during it, or a graduation date after it.
+   - `stretch` when it only says "currently pursuing a degree" or "students": many such programs mean enrolled during
+     the internship, some only at application. Gap: "may require enrollment during the internship; you graduate first".
+   Don't assume grad school unless the profile says it's confirmed. New grad: does their graduation date fall in the
+   window?
 2. **Degree.** A required degree they don't have by the start date fails ("Master's required" for a BS student; a
    bachelor's required for a role starting before they graduate, unless the posting allows finishing by then). A
    degree field that is listed with "or related field" usually passes for adjacent majors.

@@ -38,6 +38,8 @@ graduate program"). Postings that name no degree pass.
 | product / program | `product manager|associate product|program manager|project manager` | `--family product` |
 | design | `designer|ux|ui|user research|product design` | `--family design` |
 | nursing / health | `nurse|rn\b|new grad rn|clinical|therapist|pharmac` | `--family healthcare` |
+| learning / training / edtech | `instructional design|learning (experience|design|and development|& development)|\bl&d\b|curriculum|training (specialist|manager|developer)|enablement|customer education|e-?learning|implementation specialist|customer success` | `--family education,people,business,other`; these roles are filed under several fields, so prefer the title regex, or `--family education --or-title "..."` |
+| career changer | the title regex for the new field, `--level entry,mid,unknown`, and no `--max-years` until you've seen the funnel | judge "N years as a <new title>" as a gap, not a pass |
 
 `--family` is a coarse guess from the title (see `status` for the list); prefer `--title` regexes, and use `--family` to
 narrow a big result or to browse. `--category REGEX` matches the board's own department label when it has one.

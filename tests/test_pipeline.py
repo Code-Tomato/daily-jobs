@@ -137,6 +137,18 @@ class Pipeline(unittest.TestCase):
         code, _, err = self.run_cli("search", "--level", "wizard")
         self.assertEqual(code, 1)
         self.assertIn("Unknown level", err)
+        # every filter keeps its own value when several are combined (they used to share a closure variable)
+        code, out, _ = self.run_cli("search", "--max-years", "2", "--min-pay", "1k", "--ids-only")
+        self.assertEqual(out.split(), ["acme:1", "globex:9"])  # acme:2 asks 7+ years; postings without pay pass
+        ids = os.path.join(self.tmp, "ids.txt")
+        open(ids, "w").write("acme:1\nacme:2\n")
+        code, out, _ = self.run_cli("search", "--term", "summer 2027", "--strict-term", "--ids", ids, "--ids-only")
+        self.assertEqual(out.split(), ["acme:1"])
+        code, out, _ = self.run_cli("search", "--since", "2026-09-01", "--posted-since", TODAY, "--ids-only", "--sort", "company")
+        self.assertEqual(out.split(), ["acme:1", "globex:9"])
+        code, out, _ = self.run_cli("search", "--level", "senior,intern", "--family", "software", "--count")
+        self.assertIn("after --level: 2", out)
+        self.assertIn("after --family: 2", out)
 
     def test_4_show_fetches_excerpts_by_range(self):
         self.run_cli("update")
@@ -284,3 +296,81 @@ class JevGrading(unittest.TestCase):
         page = "| Price (per Btok / per Mtok) | \\$42 / \\$0.042 | \\$42 / \\$0.042 |"
         self.assertEqual(self.jev.parse_price(page), 0.042)
         self.assertIsNone(self.jev.parse_price("nothing here"))
+
+
+class JevBudget(JevGrading):
+    """--max-total caps the workspace's spend over all runs, and an interrupted run's checkpoint still counts."""
+
+    def test_5_max_total_and_checkpoints(self):
+        ws = os.path.join(self.tmp, "jev-ws3")
+        os.makedirs(ws, exist_ok=True)
+        shutil.copy(os.path.join(self.ws, "rubric.md"), ws)
+        # a run killed after its last checkpoint: only the checkpoint line exists
+        with open(os.path.join(ws, "jev-spend.jsonl"), "w") as f:
+            f.write(json.dumps({"run": "r1", "at": "2026-11-01T10:00:00", "graded": 5, "failed": 0, "input_tokens": 1000,
+                                "usd": 0.5, "final": False}) + "\n")
+            f.write(json.dumps({"run": "r0", "at": "2026-11-01T09:00:00", "graded": 1, "failed": 0, "input_tokens": 10,
+                                "usd": 0.1, "final": False}) + "\n")
+            f.write(json.dumps({"run": "r0", "at": "2026-11-01T09:01:00", "graded": 2, "failed": 0, "input_tokens": 20,
+                                "usd": 0.2, "final": True}) + "\n")
+        self.assertAlmostEqual(self.jev.total_spent(ws), 0.7)  # last record per run
+        code, out, _ = self.run_cli("jev", "spend", "--workspace", ws)
+        self.assertIn("interrupted", out)
+        code, _, err = self.run_cli("jev", "grade", "--all", "--resume", self.resume, "--max-total", "0.7",
+                                    "--price-per-mtok", "0.042", "--workspace", ws)
+        self.assertEqual(code, 1)
+        self.assertIn("used up", err)
+        code, out, err = self.run_cli("jev", "grade", "--all", "--resume", self.resume, "--max-total", "1",
+                                      "--price-per-mtok", "0.042", "--workspace", ws)
+        self.assertEqual(code, 0, err)
+        self.assertIn("Graded 3 of 3", out)
+        recs = [json.loads(l) for l in open(os.path.join(ws, "grades.jsonl"))]
+        self.assertTrue(all(r["tok"] == 2000 for r in recs))
+        code, out, _ = self.run_cli("jev", "grade", "--help", "--workspace", ws)
+        self.assertIn("--max-total", out)
+
+
+class LiveCheck(unittest.TestCase):
+    """check: job-board APIs decide open/closed; other pages are read for a closed notice."""
+
+    def test_live_status(self):
+        sys.path.insert(0, os.path.join(ROOT, "skills", "find-jobs", "scripts"))
+        import jobs
+        calls = []
+
+        def fake(url, headers=None, limit=None):
+            calls.append(url)
+            if "boards-api.greenhouse.io" in url:
+                return (404, url, "") if url.endswith("/2") else (200, url, "{}")
+            if "myworkdayjobs.com/wday/cxs/acme/External/job/" in url:
+                return 200, url, json.dumps({"jobPostingInfo": {"canApply": False}})
+            if "careers.example.com/closed" in url:
+                return 200, url, "<html><h1>Sorry, this position has been filled.</h1></html>"
+            return 200, url, "<html>Apply now</html>"
+        old = jobs._status_code
+        jobs._status_code = fake
+        try:
+            gh = lambda i: {"id": f"acme:{i}", "ats": "greenhouse", "company": "Acme", "url": f"https://job-boards.greenhouse.io/acme/jobs/{i}"}
+            self.assertEqual(jobs.live_status(gh(1))[0], "open")
+            self.assertEqual(jobs.live_status(gh(2))[0], "closed")
+            wd = {"id": "acme:R1", "ats": "workday", "company": "Acme", "url": "https://acme.wd5.myworkdayjobs.com/en-US/External/job/Austin-TX/Engineer_R1"}
+            self.assertEqual(jobs.live_status(wd)[0], "closed")
+            self.assertIn("/wday/cxs/acme/External/job/Austin-TX/Engineer_R1", calls[-1])  # locale dropped
+            page = lambda u: {"id": "x:1", "ats": "phenom", "company": "X", "url": u}
+            self.assertEqual(jobs.live_status(page("https://careers.example.com/closed/1"))[0], "closed")
+            self.assertEqual(jobs.live_status(page("https://careers.example.com/open/1"))[0], "open?")
+        finally:
+            jobs._status_code = old
+
+
+class Filters(unittest.TestCase):
+    def test_or_title_and_expired(self):
+        sys.path.insert(0, os.path.join(ROOT, "skills", "find-jobs", "scripts"))
+        import jobs
+        rows = [{"id": "a:1", "title": "Instructional Designer", "family": "people", "deadline": "2020-01-01"},
+                {"id": "a:2", "title": "Learning Experience Designer", "family": "design"},
+                {"id": "a:3", "title": "Teacher", "family": "education"}]
+        keep = lambda args: [r["id"] for r in rows if all(p(r) for _, p in jobs.build_filters(args, tempfile.mkdtemp()))]
+        self.assertEqual(keep(["--family", "education", "--or-title", "designer"]), ["a:2", "a:3"])  # a:1's deadline passed
+        self.assertEqual(keep(["--family", "education", "--or-title", "designer", "--include-expired"]), ["a:1", "a:2", "a:3"])
+        self.assertEqual(jobs.prefilter(["--family", "education", "--or-title", "designer"]), [])  # titles need parsing

@@ -28,7 +28,7 @@ DEFAULT_STORE = os.environ.get("JOBBOARD_STORE") or os.path.expanduser("~/projec
 DEFAULT_SRC = os.environ.get("JOBBOARD_SRC") or os.path.expanduser("~/projects/job-fit-board")
 EXCLUDED_ATS = {"amazon", "neogov"}  # amazon.jobs terms forbid automated extraction; NEOGOV's robots.txt admits only search engines
 SCHEMA = 1
-FACTS_VERSION = "3"  # bump when signals.py changes in a way that should re-parse every posting
+FACTS_VERSION = "4"  # bump when signals.py changes in a way that should re-parse every posting
 
 
 def arg(args, name, default):
@@ -187,7 +187,7 @@ def export(store, out, workers=4):
     for co, n in counts.items():
         st = status.get(co, {})
         boards[co] = {"rows": n, "status": st.get("status") or "ok", "full_refresh": (st.get("full") or "")[:10] or None,
-                      "checked": (st.get("at") or "")[:10] or None}
+                      "checked": (st.get("at") or "")[:10] or None, **({"found": True} if st.get("by") == "wide" else {})}
     for name in ("jobs.jsonl.gz", "excerpts.bin", "excerpts.dict"):
         os.replace(os.path.join(out, name + ".tmp"), os.path.join(out, name))
     meta = {"schema": SCHEMA, "tag": f"data-{today}", "date": today, "generated": datetime.now().astimezone().isoformat(timespec="seconds"),
@@ -195,7 +195,7 @@ def export(store, out, workers=4):
             "excerpts": {"file": "excerpts.bin", "dict": "excerpts.dict", "format": "raw deflate per posting, zlib preset dictionary"},
             "levels": dict(levels.most_common()), "families": dict(families.most_common()), "boards": dict(sorted(boards.items()))}
     with open(os.path.join(out, "meta.json"), "w") as f:
-        json.dump(meta, f, indent=1)
+        json.dump(meta, f, separators=(",", ":"))  # one entry per company: tens of thousands since the discovered boards
     log(f"exported {len(written)} postings from {len(counts)} companies ({new_today} new today); excerpts {offset / 1e6:.0f} MB")
     return meta
 
@@ -286,11 +286,16 @@ def lists(out, repo=REPO):
     # README stats block
     fam_rows = "\n".join(f"| {signals.FAMILY_LABELS.get(k, k)} | {v:,} |" for k, v in meta["families"].items())
     lists_md = "\n".join(f"- [{t}](jobs/{n}.md): {total:,} open, {fresh:,} new this week" for n, t, total, fresh in summary)
-    failed = sorted(co for co, b in meta["boards"].items() if b["status"] != "ok")
+    failed = sorted(co for co, b in meta["boards"].items() if b["status"] != "ok" and not b.get("found"))
+    found = [b for b in meta["boards"].values() if b.get("found")]
+    found_failed = sum(b["status"] != "ok" for b in found)
     block = (f"**{meta['postings']:,} US job postings from {meta['companies']:,} companies**, updated {meta['date']} "
              f"({meta['new_today']:,} first seen that day).\n\n{lists_md}\n\n<details><summary>Postings by field</summary>\n\n"
              f"| Field | Postings |\n|---|---:|\n{fam_rows}\n\n</details>"
-             + (f"\n\nBoards that failed or looked wrong on their last check (their older postings are kept): {', '.join(failed)}." if failed else ""))
+             + (f"\n\n{len(meta['boards']) - len(found):,} companies are a curated list; {len(found):,} more were found on the job-board systems "
+                f"with open APIs (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, BambooHR and others) and are checked daily"
+                + (f" ({found_failed:,} failed on their last check)" if found_failed else "") + "." if found else "")
+             + (f"\n\nCurated boards that failed or looked wrong on their last check (their older postings are kept): {', '.join(failed)}." if failed else ""))
     readme = os.path.join(repo, "README.md")
     text = open(readme).read()
     new = re.sub(r"(<!-- stats -->).*?(<!-- /stats -->)", lambda m: m.group(1) + "\n" + block + "\n" + m.group(2), text, flags=re.S)
@@ -342,9 +347,10 @@ def git(*args, check=True):
     return subprocess.run(["git", *args], cwd=REPO, check=check, capture_output=True, text=True)
 
 
-def wait_for_scan(src, hours=5):
-    """Block while job-fit-board's daily run holds its pipeline lock, so the export never reads a half-updated day."""
-    path = os.path.join(src, ".lock")
+def wait_for_scan(src, hours=5, lock=".lock", what="the daily scan"):
+    """Block while job-fit-board's daily run holds its pipeline lock (or wide.py its own), so the export never reads a
+    half-updated day."""
+    path = os.path.join(src, lock)
     if not os.path.exists(path):
         return
     with open(path) as f:
@@ -356,7 +362,7 @@ def wait_for_scan(src, hours=5):
                 return
             except BlockingIOError:
                 if time.time() > deadline:
-                    log("the daily scan is still running; publishing what the store has")
+                    log(f"{what} is still running; publishing what the store has")
                     return
                 time.sleep(60)
 
@@ -383,6 +389,7 @@ def daily(args):
     lock = open(os.path.join(STATE, ".publish.lock"), "w")
     fcntl.flock(lock, fcntl.LOCK_EX)
     wait_for_scan(src)
+    wait_for_scan(src, hours=3, lock=os.path.join("wide", ".lock"), what="the scrape of discovered boards (wide.py)")
     if "--no-push" not in args and git("pull", "--ff-only", "--quiet", check=False).returncode:
         log("git pull failed; continuing with the local main")
     sync_note = sync_and_test(src)

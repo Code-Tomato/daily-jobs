@@ -57,8 +57,8 @@ board for me?"*
 
 **Grade everything with Jev (optional).** With your own [TypeSafe](https://console.typesafe.ai/keys) API key, the skill
 can have Jev, TypeSafe's System One model, read your resume against every posting in the database and rank them all by
-eligibility and fit: about $15 for the whole ~260k postings, a few cents a day after that, with a hard spending cap you
-set. The script sends your resume file as is; you type the key into a hidden prompt, never into the chat. Details:
+eligibility and fit: about $8 per 100,000 postings (it tells you the exact cost first), a few cents a day after that,
+with a hard spending cap you set. The script sends your resume file as is; you type the key into a hidden prompt, never into the chat. Details:
 [references/jev.md](skills/find-jobs/references/jev.md).
 
 **Other agents** (Codex, Cursor, Gemini CLI, ...): `npx skills add Code-Tomato/daily-jobs`, or copy

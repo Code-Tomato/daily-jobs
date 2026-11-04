@@ -259,6 +259,8 @@ _PAY = re.compile(r"(?:\$|\bUSD\s?|\bUS\$\s?)\s?" + _NUM + r"(?:\s*(?:-|–|—|
 _PAY_CONTEXT = re.compile(r"salary|\bpay\b|compensation|wage|\bbase\b|\brate\b|range|stipend|earn|hourly|annual|\bote\b|\bcomp\b", re.I)
 _NOT_PAY = re.compile(r"bonus|sign[- ]?on|signing|relocat|housing|tuition|reimburs|allowance|referral|401|match|equity|stock|raised|funding|"
                       r"revenue|valuation|assets|donat|insurance|wellness|gym|commut|meal|lunch|budget|credit|discount|\bfee|cost|price|spend|grant", re.I)
+_NOT_PAY_AFTER = re.compile(r"^\s*(?:[\w-]+\s+){0,2}?(?:credit|subsidy|reimbursement|allowance|stipend (?:for|toward)|toward|towards|"
+                            r"for waiving|signing|sign[- ]on|relocation|bonus|match|budget|in (?:equity|stock))\b", re.I)
 _UNIT = {"hour": "hour", "hr": "hour", "hourly": "hour", "year": "year", "yr": "year", "annum": "year", "annually": "year", "yearly": "year",
          "annual": "year", "month": "month", "mo": "month", "monthly": "month", "week": "week", "wk": "week", "weekly": "week"}
 _SANE = {"hour": (7, 500), "year": (15000, 2000000), "month": (500, 30000), "week": (200, 10000)}
@@ -274,7 +276,8 @@ def pay(text):
     found = []
     for m in _PAY.finditer(text or ""):
         before, after = text[max(0, m.start() - 120):m.start()], text[m.end():m.end() + 20]
-        if re.match(r"\s*(?:million|billion|trillion|m\b|mm\b|bn?\b|\+)", after, re.I) or _NOT_PAY.search(before[-60:]):
+        if re.match(r"\s*(?:million|billion|trillion|m\b|mm\b|bn?\b|\+)", after, re.I) or _NOT_PAY.search(before[-60:]) \
+                or _NOT_PAY_AFTER.search(text[m.end():m.end() + 60]):  # "$500 per month credit for waiving medical"
             continue
         lo = _amount(*m.group(1, 2, 3))
         hi = _amount(*m.group(4, 5, 6)) if m.group(4) else lo
@@ -384,11 +387,12 @@ def term(row):
 _REMOTE = re.compile(r"\b(?:remote|work from home|wfh|telecommut\w*|virtual|anywhere in the (?:us|united states))\b", re.I)
 _HYBRID = re.compile(r"\bhybrid\b", re.I)
 _REMOTE_DESC = re.compile(r"\b(?:this (?:is a |role is |position is )(?:fully |100% )?remote|(?:fully|100%) remote (?:role|position|opportunity)|"
-                          r"remote[- ]first|can be (?:performed|done|worked) remotely|open to remote|remote (?:within|in) the (?:us|united states))\b", re.I)
+                          r"remote[- ]first|can be (?:performed|done|worked) remotely|(?<!not )(?<!n't )open to remote|remote (?:within|in) the (?:us|united states))\b", re.I)
 _HYBRID_DESC = re.compile(r"\b(?:this (?:is a |role is |position is )hybrid|hybrid (?:role|position|schedule|work model|work arrangement)|"
                           r"\d days? (?:a|per) week (?:in|at) (?:the|our) (?:office|site))\b", re.I)
 _ONSITE_DESC = re.compile(r"\b(?:this (?:is an? |role is |position is )(?:fully )?(?:on-?site|in[- ](?:office|person))|"
-                          r"(?:fully|100%) (?:on-?site|in[- ]office|in[- ]person)|on-?site (?:role|position)|must (?:work|be) on-?site)\b", re.I)
+                          r"(?:fully|100%) (?:on-?site|in[- ]office|in[- ]person)|on-?site (?:role|position)|must (?:work|be) on-?site|"
+                          r"not (?:open to |eligible for |available for |a )?remote|no remote|(?:is|are) not remote)\b", re.I)
 
 
 def remote(row):
@@ -595,9 +599,13 @@ def family(row):
 
 # --- excerpt ---------------------------------------------------------------------------------------------------------
 
-_HEAD = re.compile(r"^\W*(?:basic |minimum |preferred |required |key |desired |additional )?(?:qualifications?|requirements?|eligibility|"
-                   r"what you(?:'ll| will)? (?:need|bring|have)|who you are|about you|you (?:have|bring|are|might)|must[- ]haves?|nice[- ]to[- ]haves?|"
-                   r"education|experience|skills)\b", re.I)
+_HEAD = re.compile(r"^\W*(?:basic |minimum |preferred |required |key |desired |additional |essential |critical |job |your )?(?:qualifications?|"
+                   r"requirements?|eligibility|knowledge|what you(?:['’]ll| will)? (?:need|bring|have)|what we(?:['’]re| are) looking for|"
+                   r"who you are|about you|you (?:have|bring|are|might|may be|should have|will need)|you(?:['’]ll| will) need|"
+                   r"for this role,? you(?:['’]ll| will) need|here['’]?s what you(?:['’]ll)? need|(?:you|you['’]ll) (?:may|might|could|would) be a "
+                   r"(?:good|great|strong) fit|strong candidates|(?:the )?ideal candidate|even better if|bonus points|"
+                   r"it(?:['’]s| is| would be) (?:a )?(?:plus|bonus|nice)|we(?:['’]re| are) excited about you|must[- ]haves?|nice[- ]to[- ]haves?|"
+                   r"preferred|required|education|experience|skills)\b", re.I)
 _GATE = re.compile(r"bachelor|master'?s|ph\.?\s?d|doctora|degree|\bb\.?s\.?\b|\bm\.?s\.?\b|\d\+? years?|years? of|freshm[ae]n|sophomore|junior|"
                    r"senior standing|first[- ]year|second[- ]year|rising|class of|graduat|enrolled|pursuing|undergrad|\bgpa\b|citizen|permanent resident|"
                    r"clearance|authoriz|sponsor|visa|itar|export|u\.?s\.? persons?|on-?site|in[- ]office|in[- ]person|hybrid|remote|relocat|"
@@ -610,9 +618,33 @@ _ABOUT = re.compile(r"^\W*(?:about (?:us|the company|[A-Z][\w&.]*(?: [A-Z][\w&.]
 _BOILER = re.compile(r"equal (?:employment )?opportunit|without regard|regardless of|protected (?:veteran|characteristic|class)|disabilit|"
                      r"accommodation|e-?verify|pay transparency|privacy (?:notice|policy)|benefits? (?:include|package)|401\(?k|paid time off|"
                      r"medical, dental|recruit\w* (?:agenc|fraud)|scam|background check|drug[- ]free|at-will|know your rights", re.I)
-_WORK_HEAD = re.compile(r"^\W*(?:key |main |core |primary )?(?:responsibilities|duties|what you(?:'ll| will) (?:do|work on|be doing)|"
-                        r"what you(?:'ll| will) do|the role|about the (?:role|job|team|position)|your (?:role|impact|day)|day[- ]to[- ]day|"
-                        r"in this role|job (?:summary|description)|position (?:summary|overview)|overview)\b", re.I)
+_WORK_HEAD = re.compile(r"^\W*(?:key |main |core |primary )?(?:responsibilities|duties|what you(?:['’]ll| will) (?:do|work on|be doing)|"
+                        r"what you(?:['’]ll| will) do|the role|about the (?:role|job|team|position|opportunity)|your (?:role|impact|day)|"
+                        r"day[- ]to[- ]day|in this role|job (?:summary|description)|position (?:summary|overview)|overview)\b", re.I)
+
+
+_OTHER_HEAD = re.compile(r"^\W*(?:benefits?|perks|(?:our )?(?:benefits|perks) (?:and|&) (?:perks|benefits)|what we offer|what(?:['’]s| is) in it for you|"
+                         r"why (?:join|work)|compensation|salary|pay (?:range|transparency)|our culture|life at|equal (?:employment )?opportunity|"
+                         r"eeo|about us|who we are|our (?:mission|values|story)|how to apply|application process|additional information|"
+                         r"physical (?:requirements|demands)|work environment|disclaimer|privacy)\b", re.I)
+_GENERIC_HEAD = re.compile(r"^\W*(?:\w+ )?(?:education|experience|skills|knowledge|preferred|required)\b", re.I)
+_PREPS = {"with", "in", "of", "for", "using", "to", "on", "from", "at", "as", "the", "a", "an", "is", "are", "be"}
+
+
+def _is_heading(p):
+    """A section heading ("Minimum qualifications:", "What you'll do"), not a content line that starts like one
+    ("Experience with SolidWorks and ANSYS", "Required – 0 to 3 years")."""
+    t = p.strip()
+    if not (_HEAD.search(t) or _WORK_HEAD.search(t) or _OTHER_HEAD.search(t)) or len(t) >= 70 or re.search(r"\d", t):
+        return False
+    if t.endswith((":", "…", "...", "?")):
+        return True
+    words = re.findall(r"[\w'’]+", t.lower())
+    if _GENERIC_HEAD.search(t):  # "Skills", "Education and Experience", not "Experience with SolidWorks"
+        return len(words) <= 5 and not _PREPS & set(words)
+    return len(words) <= (10 if _OTHER_HEAD.search(t) else 7)  # "Benefits available to all full-time employees (global)"
+
+
 EXCERPT = 1800
 
 
@@ -626,9 +658,21 @@ def excerpt(row, limit=EXCERPT):
         if t:
             head.append(f"{label}: {t if len(t) <= cap else t[:cap - 1] + chr(0x2026)}")
     budget = limit - sum(len(h) + 1 for h in head)
-    pieces, scored, after_head, after_work, lead = _pieces(row.get("description")), [], 0, 0, 0
+    seen_in_head = re.sub(r"\W+", " ", " ".join(head)).lower()
+    pieces = [p for p in _pieces(row.get("description")) if re.search(r"\w{2}", p)  # no empty bullets
+              and not (len(p) > 30 and re.sub(r"\W+", " ", p).lower().strip() in seen_in_head)]  # already in the qualifications above
+    scored, after_head, after_work, lead = [], 0, 0, 0
+    section, heads, cur, other = {}, set(), None, set()  # line -> the heading it sits under ("Minimum qualifications", "Preferred...")
     for i, p in enumerate(pieces):
+        if _is_heading(p):
+            cur = i
+            heads.add(i)
+            if _OTHER_HEAD.search(p) and not _HEAD.search(p):
+                other.add(i)
+        section[i] = cur
         s = 0
+        if section[i] in other:
+            s -= 3  # benefits, culture, how to apply: not about whether they qualify
         if _HEAD.search(p):
             after_head, after_work = 10, 0
         elif _WORK_HEAD.search(p) and len(p) < 80:
@@ -651,9 +695,13 @@ def excerpt(row, limit=EXCERPT):
     for s, i in sorted(scored, key=lambda x: (-x[0], x[1])):
         if s < 0 or budget <= 0:
             break
-        if len(pieces[i]) + 1 <= budget:
-            keep.add(i)
-            budget -= len(pieces[i]) + 1
+        if i in heads:
+            continue  # a heading comes in with the first line kept from its section
+        h = section.get(i)
+        need = len(pieces[i]) + 1 + (len(pieces[h]) + 1 if h is not None and h not in keep else 0)
+        if need <= budget:  # never a line without its heading: "Preferred qualifications" changes what it means
+            keep.update({i} | ({h} if h is not None else set()))
+            budget -= need
     return "\n".join(head + [pieces[i] for i in sorted(keep)])
 
 

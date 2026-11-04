@@ -8,6 +8,7 @@ What is copied, into skills/find-jobs/scripts/:
   ats.py, probe.py, detect_ats.py, adapters/*.py   verbatim
   companies.json                                    companies.json + companies.d/*.json merged, one board per line,
                                                     minus EXCLUDED_ATS, without the private "store_only" flag
+  companies-found.json                              wide/boards.json (discover.py's boards), same shape
 Nothing is copied when a file trips the leak scan (home paths, e-mail addresses, API keys, private keys, and the
 words listed in ~/.config/daily-jobs/private-words, which stays off the repo); the findings are printed, exit code 2.
 """
@@ -17,7 +18,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DEST = os.path.join(HERE, "..", "skills", "find-jobs", "scripts")
 CODE = ["ats.py", "probe.py", "detect_ats.py"]
 EXCLUDED_ATS = {"amazon", "neogov"}  # amazon.jobs terms forbid automated extraction; NEOGOV's robots.txt admits only search engines
-DROP_KEYS = {"store_only"}
+DROP_KEYS = {"store_only", "wide"}
 
 LEAKS = [
     (r"/home/[a-z]", "home path"), (r"/Users/[A-Za-z]", "home path"), (r"[\w.+-]+@(?:gmail|utexas|icloud|yahoo|outlook|hotmail)\.\w+", "e-mail"),
@@ -60,12 +61,32 @@ def boards(src):
     return "[\n" + ",\n".join(json.dumps(c, ensure_ascii=False) for c in out) + "\n]\n"
 
 
+def found_boards(src):
+    """wide/boards.json (the boards discover.py found on the open-API job-board systems) as companies-found.json, one per
+    line. These are scraped company names, not code: a line the leak scan flags is dropped instead of stopping the sync."""
+    path = os.path.join(src, "wide", "boards.json")
+    if not os.path.exists(path):
+        return None
+    out = []
+    for c in json.load(open(path)):
+        if c.get("ats") in EXCLUDED_ATS:
+            continue
+        line = json.dumps({k: v for k, v in c.items() if k not in DROP_KEYS}, ensure_ascii=False)
+        if not leaks(line):
+            out.append(line)
+    out.sort(key=str.lower)
+    return "[\n" + ",\n".join(out) + "\n]\n"
+
+
 def plan(src):
     """{relative dest path: new text} for every file the sync owns."""
     files = {name: open(os.path.join(src, name)).read() for name in CODE}
     for path in sorted(glob.glob(os.path.join(src, "adapters", "*.py"))):
         files["adapters/" + os.path.basename(path)] = open(path).read()
     files["companies.json"] = boards(src)
+    found = found_boards(src)
+    if found is not None:
+        files["companies-found.json"] = found
     return files
 
 
