@@ -51,7 +51,9 @@ narrow a big result or to browse. `--category REGEX` matches the board's own dep
   Charlotte, FL stay out. `--location "austin|round rock"` matches the text only (any state). `--state`, `--place` and
   `--location` together are alternatives (OR). A metro area is several towns: list the suburbs the person would commute
   to, or use `--state` and read the places.
-- Remote too: add `--or-remote`. Remote only: `--remote`.
+- Remote too: add `--or-remote`. Remote only: `--remote`. A remote posting tied to one state ("Remote - Texas",
+  "GEORGIA - VIRTUAL") passes `--or-remote` only when that state is in `--state`; search lines mark it
+  "remote in TX only?". With `--remote` alone, read that mark before recommending it.
 - Anywhere in the US: no place filter (the dataset is US-only).
 
 ## Work authorization and clearance

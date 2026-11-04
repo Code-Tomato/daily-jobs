@@ -513,7 +513,9 @@ def build_filters(args, ws):
     if location or st or places:
         def place(r):
             if or_remote and r.get("remote") == "remote":
-                return True
+                tied = remote_states(r)  # "GEORGIA - VIRTUAL": remote, but for people in Georgia
+                if not tied or (st and st & tied):
+                    return True
             if location and location.search(r.get("location") or ""):
                 return True
             low = (r.get("location") or "").lower()
@@ -593,6 +595,19 @@ def prefilter(args):
     return checks
 
 
+_NATIONWIDE = re.compile(r"\b(?:us|usa|u\.s\.|united states|nationwide|anywhere|any state|all states|north america)\b|\bor remote\b|/\s*remote", re.I)
+
+
+def remote_states(r):
+    """The states a remote posting is tied to ("GEORGIA - VIRTUAL - GA01", "Remote, CO"), or an empty set when it's open
+    across the US or names no state. Only remote postings with a state and no nationwide wording are tied."""
+    loc = r.get("location") or ""
+    if r.get("remote") != "remote" or not r.get("states") or _NATIONWIDE.search(loc) or len(r["states"]) > 3 \
+            or not re.search(r"\b(?:remote|virtual|work from home|wfh|telecommute)\b", loc, re.I):
+        return set()  # "Cleveland, OH" with "this role is remote" in the text is an office address, not a limit
+    return set(r["states"])
+
+
 def flags_of(r):
     out = []
     if r.get("no_sponsor"):
@@ -619,7 +634,8 @@ def line(r, v=None, s=None, g=None):
     if r.get("pay"):
         bits.append(signals.pay_text(r["pay"]))
     if r.get("remote"):
-        bits.append(r["remote"])
+        tied = remote_states(r)
+        bits.append(r["remote"] + (f" in {'/'.join(sorted(tied))} only?" if tied else ""))
     bits += flags_of(r)
     old = r.get("posted") and r["posted"] < time.strftime("%Y-%m-%d", time.localtime(time.time() - 365 * 86400))
     tail = (f" | seen {r.get('seen') or '?'}" + (f" | posted {r['posted']} (over a year ago)" if old else "") + (f" | jev fit {g['fit']:.1f} elig {g['eligible']:.2f}" if g else "")

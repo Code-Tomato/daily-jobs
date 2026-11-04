@@ -399,3 +399,17 @@ class JevScopes(JevGrading):
         self.assertEqual(len(self.calls), n)
         code, out, _ = self.run_cli("jev", "status", "--workspace", ws)
         self.assertEqual(out.count("Saved scope:"), 2)
+
+
+class StateTiedRemote(unittest.TestCase):
+    def test_remote_for_one_state(self):
+        sys.path.insert(0, os.path.join(ROOT, "skills", "find-jobs", "scripts"))
+        import jobs
+        rows = [{"id": "hd", "title": "x", "location": "GEORGIA - VIRTUAL - GA01", "states": ["GA"], "remote": "remote"},
+                {"id": "us", "title": "x", "location": "Remote - US", "states": [], "remote": "remote"},
+                {"id": "cle", "title": "x", "location": "Cleveland, OH", "states": ["OH"], "remote": "remote"},
+                {"id": "chi", "title": "x", "location": "Chicago, IL", "states": ["IL"], "remote": ""}]
+        fs = jobs.build_filters(["--state", "IL", "--or-remote"], tempfile.mkdtemp())
+        self.assertEqual([r["id"] for r in rows if all(p(r) for _, p in fs)], ["us", "cle", "chi"])
+        fs = jobs.build_filters(["--state", "GA", "--or-remote"], tempfile.mkdtemp())
+        self.assertIn("hd", [r["id"] for r in rows if all(p(r) for _, p in fs)])
