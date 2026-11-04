@@ -153,7 +153,15 @@ Follow [references/judging.md](references/judging.md). In short:
 More than ~80 postings to read? Run `jobs.py update --with-excerpts` once first (it downloads every excerpt, a few
 hundred MB, so `show` stops waiting on the network). If you can start subagents, split the ids into batches of 25–40
 and give each subagent this skill's folder path, the profile path, its ids, `references/judging.md`, and its own output
-file; then load every file with `verdict --file` (ids that left the data are skipped and listed). Otherwise work through them in batches yourself and tell the person how far you got.
+file; then load every file with `verdict --file` (ids that left the data are skipped and listed). A brief that works:
+
+```
+Judge job postings for the person in PROFILE (read it first; their hard limits are in it). Rules: SKILL/references/judging.md.
+Your ids, one per line: IDS_FILE. For each, run `python3 SKILL/scripts/jobs.py show ID --workspace WS` (about 10 ids
+per call; `show --full ID` when a requirement is cut off). Write one JSON line per id to OUT_FILE:
+{"id", "tier": strong|good|stretch|no, "score": 0-100, "why": one sentence, "gaps": text or null}. Every id gets a line.
+Don't run `verdict`, don't apply anywhere, don't contact anyone. Reply with your tier counts.
+``` Otherwise work through them in batches yourself and tell the person how far you got.
 
 ## 5. Show the results
 

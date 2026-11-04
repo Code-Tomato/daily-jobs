@@ -104,3 +104,17 @@ postings" in your summary instead.
   `search ... --text "<that sentence>"` to tier every sibling at once; spot-check a few.
 - **Technician experience.** PCT, CNA or student-nurse work counts as health care experience, not as RN experience: a
   posting that asks for "1 year of RN experience" is not met by it, while "experience preferred" is a gap, not a no.
+
+## Experienced hires and career changers
+
+- **Years.** Count full-time years from the resume's dates (internships and part-time work count only toward "1+ year"
+  or "internship experience"). Under the bar by less than about half a year is a `stretch` with the gap named; a year or
+  more under is `no`. A senior title with no stated years usually means 5+.
+- **Two gaps** (years short and a required tool or domain missing) make it `no`, not `stretch`.
+- **Pay.** A range whose top reaches their floor passes; say "$60k–$130k; your $85k floor is inside the range" rather
+  than calling it a fit. Missing pay is a gap to confirm, not a pass. Hourly pay assumes full time (2,080 hours):
+  part-time or short contracts don't reach a yearly floor however high the rate.
+- **Contracts and leave covers** are fine only if the person said so; otherwise `stretch` with "contract" as the gap.
+- **Aggregators and staffing firms** reposting a client's role: judge the role, and say it goes through an agency.
+- **Career changers.** Experience from the old field counts toward a requirement only where the posting asks for that
+  skill itself (training, curriculum, data analysis), not for "N years as a <new-field title>".

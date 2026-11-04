@@ -762,11 +762,16 @@ def live_status(r, cache=None):
         if a == "workday" and host.endswith("myworkdayjobs.com") and "job" in parts:
             if re.fullmatch(r"[a-z]{2}-[A-Z]{2}", parts[0]):
                 parts = parts[1:]
-            code, _, body = _status_code(f"https://{host}/wday/cxs/{host.split('.')[0]}/{'/'.join(parts)}", {**J, "Content-Type": "application/json"})
+            api = f"https://{host}/wday/cxs/{host.split('.')[0]}/{'/'.join(parts)}"
+            code, _, body = _status_code(api, {**J, "Content-Type": "application/json"})
+            if code in (403, 429):  # a busy or picky tenant: one slower retry, then the page
+                time.sleep(3)
+                code, _, body = _status_code(api, {**J, "Content-Type": "application/json", "Referer": url})
             if code == 200:
                 info = json.loads(body).get("jobPostingInfo") or {}
                 return ("open", "Workday API") if info.get("canApply", True) else ("closed", "Workday: not accepting applications")
-            return ("closed", f"Workday API {code}") if code in (404, 410) else ("unknown", f"Workday API {code or 'unreachable'}")
+            if code in (404, 410):
+                return "closed", f"Workday API {code}"
         if a == "greenhouse":
             slug = parts[0] if host in ("boards.greenhouse.io", "job-boards.greenhouse.io") and parts else None
             slug = slug or next((c.get("slug") for c in _all_cfgs() if c["company"] == r["company"] and c["ats"] == "greenhouse"), None)
@@ -1409,7 +1414,8 @@ def jev_cmd(args):
     elif sub == "status":
         k = jev.api_key()
         src = "TYPESAFE_API_KEY" if os.environ.get("TYPESAFE_API_KEY") else jev.KEY_FILE
-        print(f"Key: {'set, from ' + src if k else 'not set'}" + ("" if k else f" (get one at {jev.CONSOLE}/keys; the person runs `jobs.py jev key`)"))
+        print(f"Key: {'set, from ' + src if k else 'not set'}" + ("" if k else f" (get one at {jev.CONSOLE}/keys; the person runs `jobs.py jev key`)")
+              + (" (a machine-wide key file: make sure it is this person's before you spend from it)" if k and src == jev.KEY_FILE else ""))
         if k and flag(rest, "--check"):
             try:
                 print(f"Key works (answered by {jev.check_key()}).")
