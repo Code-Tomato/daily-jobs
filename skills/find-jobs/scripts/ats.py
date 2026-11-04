@@ -75,6 +75,9 @@ def get_text(url, data=None, headers=None, opener=None):
         except urllib.error.HTTPError as e:
             if e.code not in (429, 500, 502, 503, 504) or attempt == 4:
                 raise
+            wait = e.headers.get("Retry-After") if e.code == 429 and e.headers else None
+            if wait and wait.isdigit() and int(wait) > 300:
+                raise  # a block for hours (a spent daily quota): waiting here helps nothing
             time.sleep(10 * (attempt + 1) if e.code == 429 else 2 ** attempt)
         except Exception:
             if attempt == 4:

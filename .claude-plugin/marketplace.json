@@ -1,7 +1,7 @@
 {
   "$schema": "https://code.claude.com/schemas/marketplace.json",
   "name": "daily-jobs",
-  "description": "Every US job posting from ~1,000 company career sites, refreshed daily, and a skill that finds the ones that fit you.",
+  "description": "Every US job posting at 14,000+ companies, refreshed daily, and a skill that finds the ones that fit you.",
   "owner": {
     "name": "Code-Tomato",
     "url": "https://github.com/Code-Tomato"

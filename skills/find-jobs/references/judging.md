@@ -21,6 +21,16 @@ is not a failed requirement (large employers routinely hire interns on CPT and n
 Give each verdict a `score` from 0 to 100 too: your overall sense of the match, used only to order postings within a
 tier (two `good` postings are rarely equally good).
 
+## Two mistakes the end-to-end tests caught
+
+- **A required qualification is not a soft gap.** A certification (EIT, PE, a license), a hands-on skill, or "N years in a
+  similar position" listed under required or minimum qualifications, and absent from the resume, makes the posting
+  `stretch` at best, and `no` when it is the core of the job. Only "preferred", "nice to have" or "bonus" items are gaps
+  a `good` can carry.
+- **Don't invent exclusions.** Reject a posting for something the person ruled out, not for something they didn't
+  mention (they asked for med-surg; a part-time ICU role is a `stretch` or `good` alternative, not a `no`). When unsure
+  whether they'd want it, keep it as `stretch` and say why in `gaps`.
+
 ## Hard requirements, in the order to check them
 
 1. **Level and timing.** Internship or co-op: does the term match what they want (summer 2027, fall co-op)? Does the

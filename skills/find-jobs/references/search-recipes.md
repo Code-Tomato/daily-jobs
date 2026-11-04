@@ -62,7 +62,12 @@ narrow a big result or to browse. `--category REGEX` matches the board's own dep
 ## Freshness and pay
 
 - `--since 7d` first seen in the last week (the date the scraper first saw it; `--posted-since` uses the posting's own date, which some boards don't give).
-- `--min-pay 70k` (yearly; hourly × 2,080). Postings without pay pass unless `--has-pay`.
+- `--min-pay 70k` (yearly; hourly × 2,080). A range passes when its top reaches the floor ($60k–$130k passes 70k: say
+  so when you recommend it). Postings without pay pass unless `--has-pay`.
+- Postings whose parsed application deadline has passed are hidden; `--include-expired` shows them. Before you
+  recommend a posting, `check` it: closed postings can stay in the data for a few days.
+- `--text "REGEX"` filters on each posting's excerpt after the other filters: one template sentence ("12 months of
+  recent RN experience", "new graduates welcome") sorts hundreds of near-identical postings at once.
 
 ## Shaping the funnel
 

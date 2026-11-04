@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Search the daily-jobs dataset: every US posting from ~1,000 company career sites, refreshed daily.
+"""Search the daily-jobs dataset: every US posting at 14,000+ companies, refreshed daily.
 
 Usage: python3 jobs.py <command> [options]          (Python 3.9+, standard library only)
 
-  update [--force]          download the newest dataset (~12 MB) when there is one
+  update [--force]          download the newest dataset (a few tens of MB) when there is one
   status                    dataset date and counts, cache folder, workspace files
   search [filters]          postings that pass every filter, newest first (filters below; --count for the funnel)
   show ID [ID ...] [--full] each posting's facts and its eligibility excerpt (~1,800 chars; fetched once over the network, then
@@ -210,9 +210,17 @@ def need_data():
     return m
 
 
+ACTIVE_WS = None  # the workspace of the command being run (set by main)
+
+
+def _local_dir():
+    """Live scrapes belong to one person's workspace: someone else's searches on the same machine don't see them."""
+    return os.path.join(ACTIVE_WS or os.environ.get("JOBS_WORKSPACE") or os.path.join(os.path.expanduser("~"), "job-search"), "scrapes")
+
+
 def local_rows():
     """Rows scraped on this machine (scrape command); they override the dataset's rows with the same id."""
-    d = os.path.join(CACHE, "local")
+    d = _local_dir()
     if not os.path.isdir(d):
         return
     for n in sorted(os.listdir(d)):
@@ -793,7 +801,9 @@ def live_status(r, cache=None):
         return "closed", f"page {code}"
     if code != 200:
         return "unknown", f"page {code or 'unreachable'}"
-    m = CLOSED_TEXT.search(re.sub(r"<[^>]+>", " ", body))
+    page = re.sub(r"<[^>]+>", " ", body)
+    m = next((m for m in CLOSED_TEXT.finditer(page)  # "open until the position is filled" is not a closed notice
+              if not re.search(r"\b(?:until|once|when|if|after|before|unless|as soon as)\b[^.]{0,25}$", page[max(0, m.start() - 40):m.start()], re.I)), None)
     if m or re.search(r"[?&]error=true", final):
         return "closed", f"page says \"{m[0] if m else 'error=true'}\""
     return "open?", "page loads with no closed notice (pages built by scripts can't always tell)"
@@ -1093,11 +1103,18 @@ def jev_picks(ws, vs, limit=150):
 
 
 def companies(args):
+    """Companies in the data whose name matches REGEX, biggest first (the first 200 without a REGEX)."""
     m = need_data()
     rx = _rx(positional(args), "company")
-    for co, b in m.get("boards", {}).items():
-        if not rx or rx.search(co):
-            print(f"{co}: {b['rows']:,} postings, {b['status']}" + (f", full refresh {b['full_refresh']}" if b.get("full_refresh") else ""))
+    hits = sorted(((co, b) for co, b in m.get("boards", {}).items() if not rx or rx.search(co)), key=lambda x: -x[1]["rows"])
+    limit = None if rx else 200
+    for co, b in hits[:limit]:
+        print(f"{co}: {b['rows']:,} postings, {b['status']}" + (f", full refresh {b['full_refresh']}" if b.get("full_refresh") else "")
+              + (" (found on an open job board)" if b.get("found") else ""))
+    if not hits:
+        print("No company in the data matches. find-board and scrape can fetch one live.")
+    elif limit and len(hits) > limit:
+        print(f"... and {len(hits) - limit:,} more; pass a REGEX (\"acme|globex\") to look for specific companies.", file=sys.stderr)
 
 
 def status(args):
@@ -1191,9 +1208,9 @@ def scrape(args):
         out.append({k: r[k] for k in ("id", "company", "title", "location", "url", "posted", "ats", "category")}
                    | {"seen": published.get(r["id"]) or today} | {k: v for k, v in facts.items() if v not in (None, False, "", [])}
                    | {"excerpt": signals.excerpt(r)})
-    os.makedirs(os.path.join(CACHE, "local"), exist_ok=True)
+    os.makedirs(_local_dir(), exist_ok=True)
     name = re.sub(r"[^a-z0-9]+", "-", cfgs[0]["company"].lower()).strip("-") or "company"
-    path = os.path.join(CACHE, "local", name + ".jsonl")
+    path = os.path.join(_local_dir(), name + ".jsonl")
     if not out and os.path.exists(path) and os.path.getsize(path):
         raise Fail(f"The scrape returned no postings; kept the earlier scrape in {path}. Check the board config or try later.")
     with open(path, "w") as f:
@@ -1303,7 +1320,15 @@ def _jev_selection(args, ws, cfg):
     h = jev.input_hash(resume, rules, levels, model)
     done = jev.grades(ws, h)
     todo = [r for r in rows(prefilter(args)) if r["id"] not in done and all(p(r) for _, p in filters)]
-    todo.sort(key=lambda r: (r.get("seen") or "", r.get("posted") or ""), reverse=True)  # newest first, so a capped run covers them
+    # Likeliest first, so a capped or interrupted run has spent its money on the right postings: titles that share words
+    # with the rubric's top two fit levels, then newest.
+    stop = {"role", "roles", "work", "with", "that", "their", "they", "them", "this", "from", "into", "about", "areas", "core",
+            "words", "kind", "next", "want", "centered", "match", "strong", "some", "direct", "overlap", "touches", "least",
+            "level", "levels", "asked", "candidate", "candidates", "position", "positions", "jobs", "engineering"}
+    want = {w for w in re.findall(r"[a-z][a-z+#-]{3,}", " ".join(levels[2:]).lower()) if w not in stop}
+    def likely(r):
+        return sum(w in want for w in re.findall(r"[a-z][a-z+#-]{3,}", r["title"].lower()))
+    todo.sort(key=lambda r: (likely(r) > 0, likely(r), r.get("seen") or "", r.get("posted") or ""), reverse=True)
     if opt(args, "--limit"):
         todo = todo[:int(opt(args, "--limit"))]
     return todo, len(done), h, resume, rules, levels, model, sel, resume_path
@@ -1451,7 +1476,9 @@ def main(argv):
     if cmd is None or "-h" in argv or "--help" in argv or "help" in argv[:1]:
         print(__doc__)
         return 0 if cmd is not None or any(a in ("-h", "--help", "help") for a in argv) else 2
+    global ACTIVE_WS
     try:
+        ACTIVE_WS = workspace(argv[cmd + 1:] + argv[:cmd])
         COMMANDS[argv[cmd]](argv[cmd + 1:] + argv[:cmd])  # options given before the command still count
     except Fail as e:
         print(e, file=sys.stderr)

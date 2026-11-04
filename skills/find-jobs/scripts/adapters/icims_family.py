@@ -40,6 +40,13 @@ def jibe(cfg, known=()):
                            strip((j.get("description") or "") + "\n" + (j.get("responsibilities") or "")), strip(j.get("qualifications"))))
         page += 1
         if len(jobs) < 100 or len(out) >= d.get("totalCount", 0):
+            try:  # a country value the board spells differently ("United States of America") returns almost nothing
+                every = get(f"https://{cfg['host']}/api/jobs?page=1&limit=1").get("totalCount", 0)
+                if every > 100 and len(out) < every / 10:
+                    print(f"{cfg['company']}: only {len(out)} of {every} postings match country={cfg['country']!r}; "
+                          f"check the board's country spelling", file=sys.stderr)
+            except Exception:
+                pass
             return out
 
 def radancy(cfg, known=()):

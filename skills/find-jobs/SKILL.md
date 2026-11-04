@@ -1,6 +1,6 @@
 ---
 name: find-jobs
-description: Find job and internship postings that fit a person, from a dataset of every US posting on ~1,000 company career sites (Greenhouse, Lever, Ashby, Workday, iCIMS, Oracle, Eightfold, Google, Apple and more) refreshed daily. Turns their goals into filters (role, level, location, internship term, visa sponsorship, clearance, pay), judges postings against their background, and builds a ranked board of matches with links. With a TypeSafe API key, Jev (a fast System One decision model) grades their resume against every posting for about $8 per 100,000 postings. Also scrapes a company's job board live with bundled parsers. Use when someone asks to find jobs or internships, see what's new since last time, check whether they qualify for postings, or pull a company's open roles.
+description: Find job and internship postings that fit a person, from a dataset of every US posting at 14,000+ companies (the career sites of ~1,000 large employers on Workday, Oracle, iCIMS and others, plus every company found on Greenhouse, Lever, Ashby, SmartRecruiters, BambooHR and other open job boards), refreshed daily. Turns their goals into filters (role, level, location, internship term, visa sponsorship, clearance, pay), judges postings against their background, and builds a ranked board of matches with links. With a TypeSafe API key, Jev (a fast System One decision model) grades their resume against every posting for about $8 per 100,000 postings. Also scrapes a company's job board live with bundled parsers. Use when someone asks to find jobs or internships, see what's new since last time, check whether they qualify for postings, or pull a company's open roles.
 ---
 
 # Find jobs
@@ -10,7 +10,7 @@ keys). Run it with the absolute path, e.g. `python3 <this skill's folder>/script
 means that. On Windows use `py` or `python` for `python3`; searching works everywhere, live scraping needs macOS, Linux
 or WSL.
 
-- **Data:** `jobs.py update` downloads the newest daily dataset (~12 MB, cached in `~/.cache/daily-jobs`). Each posting
+- **Data:** `jobs.py update` downloads the newest daily dataset (a few tens of MB, cached in `~/.cache/daily-jobs`). Each posting
   carries facts parsed from its text: level, minimum years, minimum degree, internship term, pay, work mode, US states,
   job family, and flags for no visa sponsorship, citizens/US-persons only, security clearance, deadline and minimum GPA.
   Each posting's eligibility excerpt is fetched the first time you `show` it (a small network request), then cached.
@@ -20,7 +20,8 @@ or WSL.
   about 1,850 input tokens a posting with a one-page resume, about $8 per 100,000 postings (twice that for a long
   resume; `jev estimate` gives the real number), a few cents a day after. See section 3b.
 - **Workspace:** `~/job-search` (or `--workspace DIR` / `$JOBS_WORKSPACE`) holds this person's `profile.md`, their
-  `verdicts.jsonl` (your judgments), `tracking.jsonl` (what they applied to) and the generated `board.html` / `matches.md`.
+  `verdicts.jsonl` (your judgments), `tracking.jsonl` (what they applied to), live scrapes (`scrapes/`) and the generated
+  `board.html` / `matches.md`.
   Use one workspace per person.
 
 You find and judge postings. You never apply, sign in, or submit anything for the person.

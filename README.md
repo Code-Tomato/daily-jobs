@@ -1,7 +1,9 @@
 # daily-jobs
 
-Every US job posting from about 1,000 company career sites, scraped fresh every day, plus a Claude skill that reads
-your resume and finds the ones you actually qualify for.
+Every US job posting from more than 14,000 companies, scraped fresh every day, plus a Claude skill that reads your
+resume and finds the ones you actually qualify for. The companies are the career sites of about 1,000 large employers
+(Workday, Oracle, iCIMS, Phenom and others) plus every company we could find on the job-board systems with open APIs:
+Greenhouse, Lever, Ashby, SmartRecruiters, Workable, BambooHR, Breezy, Rippling, Recruitee, Teamtailor, Pinpoint and Gem.
 
 <!-- stats -->
 **258,703 US job postings from 1,000 companies**, updated 2026-11-04 (6,792 first seen that day).
@@ -102,7 +104,8 @@ skill so you can run them yourself:
 - `ats.py` and `adapters/`: 44 job-board systems (Greenhouse, Lever, Ashby, Workday, Oracle, SuccessFactors, Taleo,
   iCIMS, Eightfold, Phenom, Avature, UKG, Dayforce, BrassRing, PeopleAdmin, Apple, Google, ByteDance, any site with
   JSON-LD job pages, and more). Each returns postings in one normalized shape.
-- `companies.json`: the 1,000+ boards scraped every day.
+- `companies.json`: the ~1,000 curated boards; `companies-found.json`: the boards found on the open-API systems
+  (Common Crawl's URL index plus name guesses, each checked against the board's API). Both are scraped every day.
 - `signals.py`: the text parsers that pull level, years, degree, pay, term, location and eligibility flags out of a posting.
 - `jobs.py scrape "Company"` refetches one company live; `jobs.py find-board "Company" --url <careers page>` works out
   which system a company uses so you can scrape one that isn't listed.
