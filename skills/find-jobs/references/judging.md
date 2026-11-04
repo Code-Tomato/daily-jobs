@@ -107,6 +107,10 @@ postings" in your summary instead.
 
 ## Experienced hires and career changers
 
+- **Recent graduates** (out of school a year or two). New-grad programs name a window ("graduated between May 2025 and
+  June 2027", "class of 2026 or 2027", "within the last 12 months"): inside it is a pass, outside it is `no`. "Entry
+  level" or "0-2 years" roles with no window are open to them; their internships and co-ops count toward "1 year".
+
 - **Years.** Count full-time years from the resume's dates (internships and part-time work count only toward "1+ year"
   or "internship experience"). Under the bar by less than about half a year is a `stretch` with the gap named; a year or
   more under is `no`. A senior title with no stated years usually means 5+.

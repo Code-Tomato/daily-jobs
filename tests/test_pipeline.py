@@ -357,6 +357,11 @@ class LiveCheck(unittest.TestCase):
             self.assertEqual(jobs.live_status(wd)[0], "closed")
             self.assertIn("/wday/cxs/acme/External/job/Austin-TX/Engineer_R1", calls[-1])  # locale dropped
             page = lambda u: {"id": "x:1", "ats": "phenom", "company": "X", "url": u}
+            hidden = ('<script type="application/ld+json">{"@type": "JobPosting", "title": "Engineer"}</script>'
+                      '<div style="display:none">We are no longer accepting applications</div>')
+            jobs._status_code, keep = (lambda url, headers=None, limit=None: (200, url, hidden)), jobs._status_code
+            self.assertEqual(jobs.live_status(page("https://careers.example.com/live/1"))[0], "open")  # Honda's hidden template
+            jobs._status_code = keep
             self.assertEqual(jobs.live_status(page("https://careers.example.com/closed/1"))[0], "closed")
             self.assertEqual(jobs.live_status(page("https://careers.example.com/open/1"))[0], "open?")
         finally:

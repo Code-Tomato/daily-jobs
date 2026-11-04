@@ -621,7 +621,8 @@ def line(r, v=None, s=None, g=None):
     if r.get("remote"):
         bits.append(r["remote"])
     bits += flags_of(r)
-    tail = (f" | seen {r.get('seen') or '?'}" + (f" | jev fit {g['fit']:.1f} elig {g['eligible']:.2f}" if g else "")
+    old = r.get("posted") and r["posted"] < time.strftime("%Y-%m-%d", time.localtime(time.time() - 365 * 86400))
+    tail = (f" | seen {r.get('seen') or '?'}" + (f" | posted {r['posted']} (over a year ago)" if old else "") + (f" | jev fit {g['fit']:.1f} elig {g['eligible']:.2f}" if g else "")
             + (f" | YOU: {v['tier']}" if v else "")) + (f" [{s['status']}]" if s else "") + (" | local" if r.get("local") else "")
     cut = lambda t, n: t if len(t) <= n else t[:n - 1] + "…"
     return f"{r['id']}  {r['company']} | {cut(r['title'], 90)} | {cut(r.get('location') or '?', 45)} | {', '.join(bits)}{tail}"
@@ -817,11 +818,27 @@ def live_status(r, cache=None):
         return "closed", f"page {code}"
     if code != 200:
         return "unknown", f"page {code or 'unreachable'}"
+    if re.search(r"[?&]error=true", final):
+        return "closed", "the board sent it back to its search page"
+    # Posting data embedded in the page (JSON-LD) is what search engines index, and sites remove it when a job closes.
+    # Some sites also ship a hidden "no longer accepting applications" template on live pages (Honda), so when the data
+    # is there it decides, by its own expiry date.
+    for blob in re.findall(r'(?is)<script[^>]*application/ld\+json[^>]*>(.*?)</script>', body):
+        try:
+            d = json.loads(blob.strip())
+        except ValueError:
+            continue
+        for x in d if isinstance(d, list) else d.get("@graph", [d]) if isinstance(d, dict) else []:
+            if isinstance(x, dict) and x.get("@type") == "JobPosting":
+                until = str(x.get("validThrough") or "")[:10]
+                if until and until < time.strftime("%Y-%m-%d"):
+                    return "closed", f"the page's posting data expired {until}"
+                return "open", "the page carries its posting data"
     page = re.sub(r"<[^>]+>", " ", body)
     m = next((m for m in CLOSED_TEXT.finditer(page)  # "open until the position is filled" is not a closed notice
               if not re.search(r"\b(?:until|once|when|if|after|before|unless|as soon as)\b[^.]{0,25}$", page[max(0, m.start() - 40):m.start()], re.I)), None)
-    if m or re.search(r"[?&]error=true", final):
-        return "closed", f"page says \"{m[0] if m else 'error=true'}\""
+    if m:
+        return "closed", f"page says \"{m[0]}\""
     return "open?", "page loads with no closed notice (pages built by scripts can't always tell)"
 
 

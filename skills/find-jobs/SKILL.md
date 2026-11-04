@@ -176,7 +176,12 @@ python3 jobs.py verdict ID --tier no --why "closed"   # for each closed one
 python3 jobs.py board        # writes board.html (filterable, by tier) and matches.md in the workspace; add --open to open it
 ```
 
-Search results also mark a parsed deadline that has passed (`deadline 2026-10-01 PASSED`).
+`open?` means the page loaded with no sign it closed, and `unknown` that the board wouldn't answer (some Workday sites):
+treat both as probably open and tell the person you couldn't confirm it. Search results also mark a parsed deadline that
+has passed (`deadline 2026-10-01 PASSED`) and a posting dated over a year ago.
+
+Some commands take minutes: the first `update` on a slow connection, `update --with-excerpts`, `check` of hundreds of
+ids, a big `jev grade`. Run them in the background or with a long timeout so your tool call doesn't cut them off.
 
 Then answer in chat: how many postings you scanned and judged, then the strong matches (company, title, place, one-line
 why, link), then the good ones briefly, then stretches with their gap. Point them to `board.html`. Mention deadlines that
