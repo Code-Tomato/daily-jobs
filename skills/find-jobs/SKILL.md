@@ -77,7 +77,8 @@ python3 jobs.py search --title "software|firmware|embedded" --not-title "senior|
 python3 jobs.py search <same filters> --limit 200          # the rows: id, company, title, place, parsed facts
 ```
 
-Filters worth knowing: `--degree bs` (their highest degree; drops postings that require more), `--needs-sponsorship`,
+Filters worth knowing: `--no-staffing` (staffing agencies and train-and-place firms flood new-grad searches),
+`--degree bs` (their highest degree; drops postings that require more), `--needs-sponsorship`,
 `--no-clearance`, `--strict-term` (drops internships that state no term; use it when the list is too long), `--since 7d`.
 A few companies post dozens of near-identical roles (TikTok, ByteDance, big banks): narrow with `--not-company`, or judge
 one and give its siblings the same verdict. There is no defense flag; if they want to avoid defense work, exclude the
@@ -121,7 +122,9 @@ the dataset files or job lists yourself. You still read the resume to know the p
    and clearance, weaker at timing (terms, graduation windows, "return to school"): put the term in the scope
    (`--term "summer 2027" --strict-term`) and check timing yourself. For new grads and career changers its eligibility
    runs low (a teacher's curriculum work against "2 years of instructional design"): review `--min-fit 2.5
-   --min-eligible 0.2` too, and decide those yourself. Jev reads each posting's excerpt, not the whole
+   --min-eligible 0.2` too, and decide those yourself. Fit is continuous and tops out just under 3, so `--min-fit 2.5`
+   is the top band (`--min-fit 3` finds nothing). More picks than you can read? Take the best few hundred by
+   `--sort rank` and say how many you left unread. Jev reads each posting's excerpt, not the whole
    page; before you call one a strong match, `show` it and judge it as in section 4 (your verdicts move picks into the
    tiers), and `check` it (section 5).
 6. **Next time.** `update`, then `jobs.py jev grade --max-cost 2` (or their `--max-total`): with no filters it grades

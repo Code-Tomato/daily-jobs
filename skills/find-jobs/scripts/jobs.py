@@ -26,6 +26,7 @@ Search filters (all optional, combined with AND; REGEX is case-insensitive; repe
   --level intern,new-grad,entry,mid,senior,manager,unknown     --family software,data,hardware,... (see `status`)
   --or-title REGEX (with --family: a title match also passes, for roles filed under another field)
   --include-expired (postings whose parsed application deadline has passed are hidden unless you pass this)
+  --no-staffing (drop staffing agencies, train-and-place firms and paid-study / data-labeling gig listings)
   --company/--title etc. take Python regexes; use \\b for word edges (--not-title "\\bsr\\b|\\blead\\b")
   --max-years N (stated minimum experience; postings that state none pass)   --degree hs|associate|bs|ms|phd (the person's
   highest; postings that require more are dropped)   --term "summer 2027" (season and/or year; postings that state
@@ -75,8 +76,8 @@ def flag(args, name):
     return name in args
 
 
-BOOL_FLAGS = {"--help", "-h", "--include-expired", "--full", "--with-excerpts", "--force", "--count", "--json", "--ids-only", "--all", "--remote", "--or-remote", "--strict-term", "--needs-sponsorship",
-              "--no-citizen-only", "--no-clearance", "--has-pay", "--unjudged", "--open", "--keep-non-us", "--graded", "--ungraded",
+BOOL_FLAGS = {"--help", "-h", "--include-expired", "--no-staffing", "--full", "--with-excerpts", "--force", "--count", "--json", "--ids-only", "--all", "--remote", "--or-remote", "--strict-term", "--needs-sponsorship",
+              "--no-citizen-only", "--no-clearance", "--no-staffing", "--has-pay", "--unjudged", "--open", "--keep-non-us", "--graded", "--ungraded",
               "--check", "--yes"}
 
 
@@ -96,7 +97,7 @@ def positional(args):
 SEARCH_FLAGS = {"--title", "--not-title", "--company", "--not-company", "--category", "--location", "--state", "--level", "--family",
                 "--or-title", "--place", "--max-years", "--degree", "--term", "--min-pay", "--since", "--posted-since", "--ids", "--min-fit",
                 "--min-eligible", "--workspace", "--or-remote", "--remote", "--strict-term", "--needs-sponsorship", "--no-citizen-only",
-                "--no-clearance", "--has-pay", "--include-expired", "--unjudged", "--graded", "--ungraded", "--limit", "--all", "--sort",
+                "--no-clearance", "--no-staffing", "--has-pay", "--include-expired", "--unjudged", "--graded", "--ungraded", "--limit", "--all", "--sort",
                 "--json", "--ids-only", "--count", "--text", "--not-text"}
 JEV_FLAGS = {"--resume", "--max-cost", "--max-total", "--workers", "--model", "--price-per-mtok", "--yes", "--check", "--help", "-h"}
 
@@ -497,6 +498,8 @@ def build_filters(args, ws):
         f.append(("not-title", lambda r: not not_title.search(r["title"])))
     if company:
         f.append(("company", lambda r: company.search(r["company"])))
+    if flag(args, "--no-staffing"):
+        f.append(("no-staffing", lambda r: not STAFFING.search(r["company"])))
     if not_company:
         f.append(("not-company", lambda r: not not_company.search(r["company"])))
     if category:
@@ -596,6 +599,15 @@ def prefilter(args):
 
 
 _NATIONWIDE = re.compile(r"\b(?:us|usa|u\.s\.|united states|nationwide|anywhere|any state|all states|north america)\b|\bor remote\b|/\s*remote", re.I)
+
+
+STAFFING = re.compile(r"\b(?:revature|synergisticit|smoothstack|fdm group|genspark|mthree|skillstorm|collabera|jobot|robert half|"
+                      r"teksystems|insight global|kforce|aerotek|actalent|randstad|adecco|manpower|kelly services|cybercoders|"
+                      r"jobgether|motion recruitment|apex systems|beacon hill|vaco|solomon page|express employment|staffmark|"
+                      r"spherion|yoh|judge group|diverse lynx|hays|lhh|talentburst|akkodis|experis|sonsoft|artech|usm business|"
+                      r"atria group|prosidian|"
+                      # paid studies and data-labeling gigs, listed as jobs
+                      r"focus ?group ?panel|prolific|outlier|dataannotation|remotasks|appen|alignerr|mercor)\b", re.I)
 
 
 def remote_states(r):
@@ -850,7 +862,8 @@ def live_status(r, cache=None):
                 if until and until < time.strftime("%Y-%m-%d"):
                     return "closed", f"the page's posting data expired {until}"
                 return "open", "the page carries its posting data"
-    page = re.sub(r"<[^>]+>", " ", body)
+    # Only what a reader sees: Apple and Garmin pages carry "no longer available" strings in their scripts on live jobs
+    page = re.sub(r"<[^>]+>", " ", re.sub(r"(?is)<(script|style|template|noscript)\b[^>]*>.*?</\1>", " ", body))
     m = next((m for m in CLOSED_TEXT.finditer(page)  # "open until the position is filled" is not a closed notice
               if not re.search(r"\b(?:until|once|when|if|after|before|unless|as soon as)\b[^.]{0,25}$", page[max(0, m.start() - 40):m.start()], re.I)), None)
     if m:
@@ -1080,7 +1093,8 @@ def board(args):
         cards = []
         for v in (j for j in jobs if j["tier"] == tier):
             s = ss.get(v["id"], {}).get("status", "")
-            chips = [x for x in (v.get("location"), signals.pay_text(v.get("pay")), v.get("term"), v.get("remote"),
+            chips = [x for x in ({"intern": "internship", "new-grad": "new grad"}.get(v.get("level"), v.get("level")),
+                                 v.get("location"), signals.pay_text(v.get("pay")), v.get("term"), v.get("remote"),
                                  f"deadline {v['deadline']}" if v.get("deadline") else None, f"first seen {v['seen']}" if v.get("seen") else None,
                                  "posting gone" if v.get("gone") else None) if x]
             text = " ".join(str(x) for x in (v.get("company"), v.get("title"), v.get("location"), v.get("why"), v.get("gaps"))).lower()
