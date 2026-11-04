@@ -73,7 +73,8 @@ def read_resume(path):
     if low.endswith(".pdf"):
         if not shutil.which("pdftotext"):
             raise JevError("This is a PDF and pdftotext isn't installed (poppler). Install it (macOS: brew install poppler; "
-                           "Debian/Ubuntu: apt install poppler-utils), or save the resume as .txt / .md and pass that.")
+                           "Debian/Ubuntu: apt install poppler-utils), or copy the resume's text, word for word, into a resume.txt "
+                           "in the workspace and pass that.")
         text = subprocess.run(["pdftotext", "-layout", path, "-"], capture_output=True, text=True, check=True).stdout
     elif low.endswith(".docx"):
         with zipfile.ZipFile(path) as z:

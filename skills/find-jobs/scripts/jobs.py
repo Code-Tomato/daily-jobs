@@ -175,6 +175,7 @@ def update(args):
     base = f"https://github.com/{REPO}/releases/download/{latest['tag']}"
     for name in files:
         _download(f"{base}/{name}", os.path.join(CACHE, name), name)
+    _unpack()
     with open(os.path.join(CACHE, "meta.json.tmp"), "w") as f:
         json.dump(latest, f)
     os.replace(os.path.join(CACHE, "meta.json.tmp"), os.path.join(CACHE, "meta.json"))
@@ -185,6 +186,21 @@ def update(args):
         _download(f"{base}/excerpts.bin", whole, "excerpts.bin")
     new = f", {latest['new_today']:,} first seen that day" if latest.get("new_today") else ""
     print(f"Updated to {latest['date']}: {latest['postings']:,} postings from {latest['companies']:,} companies{new}.")
+
+
+def _unpack():
+    """An uncompressed copy of the index next to the download: every command reads the index, and plain text reads
+    about four times faster than gzip. Rebuilt whenever it is missing or older than the download."""
+    gz, plain = os.path.join(CACHE, "jobs.jsonl.gz"), os.path.join(CACHE, "jobs.jsonl")
+    if os.path.exists(plain) and os.path.getmtime(plain) >= os.path.getmtime(gz):
+        return plain
+    try:
+        with gzip.open(gz, "rb") as src, tempfile.NamedTemporaryFile("wb", dir=CACHE, delete=False) as tmp:
+            shutil.copyfileobj(src, tmp, 1 << 20)
+        os.replace(tmp.name, plain)
+        return plain
+    except OSError:  # a full disk: the gzip still works
+        return gz
 
 
 def need_data():
@@ -216,7 +232,8 @@ def rows(pre=(), seen=None, funnel=None):
     need_data()
     local = {r["id"]: r for r in local_rows()}
     local_cos = {r["company"] for r in local.values()}
-    with gzip.open(os.path.join(CACHE, "jobs.jsonl.gz"), "rt", encoding="utf-8") as f:
+    path = _unpack()
+    with (gzip.open(path, "rt", encoding="utf-8") if path.endswith(".gz") else open(path, encoding="utf-8")) as f:
         for line in f:
             if seen is not None:
                 seen[0] += 1
@@ -237,9 +254,13 @@ def rows(pre=(), seen=None, funnel=None):
 
 
 def get_rows(ids, partial=False):
-    """The rows for ids, in order. A missing id fails, unless partial: then (rows, missing ids)."""
+    """The rows for ids, in order. A missing id fails, unless partial: then (rows, missing ids). Index lines start with
+    {"id":"...", so the id is read off the raw line and only matching rows are parsed (a few ids: ~0.3 s, not 3 s)."""
     want = set(ids)
-    found = {r["id"]: r for r in rows() if r["id"] in want}
+    def has_id(line):
+        end = line.find('"', 7)
+        return line.startswith('{"id":"') and end > 7 and line[7:end] in want or not line.startswith('{"id":"')
+    found = {r["id"]: r for r in rows([("ids", has_id)]) if r["id"] in want}
     missing = [i for i in ids if i not in found]
     if partial:
         return [found[i] for i in ids if i in found], missing

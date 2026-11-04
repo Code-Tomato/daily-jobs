@@ -100,6 +100,8 @@ the dataset files or job lists yourself. You still read the resume to know the p
 2. **Rubric.** `jobs.py jev rubric` writes `rubric.md` in the workspace. Replace each `[bracket]` with what the person
    told you: work authorization, clearance, places they can't work, the work they want (fit 2 and 3) and don't (fit 0).
    Don't copy anything from the resume; Jev reads it. Tell them their resume goes to TypeSafe with every request.
+   The script reads .md, .txt, .docx, and .pdf when `pdftotext` (poppler) is installed. For a PDF without it, copy the
+   resume's text word for word into `resume.txt` in the workspace and pass that path.
 3. **Scope and cost.** `jobs.py jev estimate --all --resume PATH` for the whole database, or with search filters to
    skip what can't fit (`--level intern,new-grad,entry,unknown`, `--state TX --or-remote`...). It prints postings,
    tokens, dollars and minutes, and spends nothing. Tell them; they choose the scope and the most it may spend.
@@ -129,8 +131,8 @@ Follow [references/judging.md](references/judging.md). In short:
 1. **Triage by the list.** Titles, companies and parsed facts already rule out many postings (wrong field, wrong term,
    senior). Record those as `no` with a short why, so they never come back (see the file format below).
 2. **Read the rest.** `python3 jobs.py show ID ID ...` prints each posting's facts and an eligibility excerpt (~1,800
-   characters: qualifications, degree, years, class standing, graduation window, authorization, place). Read 10–25 at a
-   time. When the excerpt leaves a hard requirement unclear, `show --full ID` prints the whole posting, fetched live
+   characters: qualifications, degree, years, class standing, graduation window, authorization, place). Read about 10 at a
+   time (each is up to ~2 KB; much bigger batches overflow tool output). When the excerpt leaves a hard requirement unclear, `show --full ID` prints the whole posting, fetched live
    from its job board (Workday, Greenhouse, Lever, Ashby, SmartRecruiters APIs, else the page).
 3. **Decide** each one: `strong` (meets every hard requirement and is the work they want), `good`, `stretch` (one gap
    they could plausibly bridge; name it), or `no`. Add a `score` (0–100) to rank postings within a tier. Parsed facts
