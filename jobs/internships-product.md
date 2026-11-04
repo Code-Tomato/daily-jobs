@@ -1,12 +1,63 @@
 # Internships and co-ops: Product, program and project management
 
-199 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
+250 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
 | Intuitive Machines | [Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575114&lang=en_US) | Greenbelt, MD, US |  | 2026-11-04 | US citizens/persons only |
+| Veolia Environnement SA | [Project Management Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159676644-project-management-intern) | Glen Allen, VA, us |  | 2026-11-04 | no visa sponsorship |
+| SharkNinja | [Spring 2027:Technical Project Management Co-op (January to June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721697006) · Spring 2027 | Needham, MA, United States |  | 2026-11-04 |  |
+| USAFacts | [Technical Product Manager Intern](https://job-boards.greenhouse.io/usafacts/jobs/4478253009) | Bellevue, WA (hybrid) | $33/hour | 2026-11-04 |  |
+| ParetoHealth | [Product Manager Summer Intern](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) · Summer 2027 | Philadelphia, Pennsylvania, United States |  | 2026-11-04 | no visa sponsorship |
+| Teamworks | [Product Management MBA Intern](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06) | United States |  | 2026-11-04 | no visa sponsorship |
+| ARCO/Murray National Construction | [Controls Project Management Intern (Summer 2027)](https://job-boards.greenhouse.io/amn/jobs/4469761009) · Summer 2027 | Downers Grove, IL, US | $27 to $28/hour | 2026-11-04 |  |
+| Parallel Systems | [Product Management Intern](https://boards.greenhouse.io/parallel/jobs/5275719007?gh_jid=5275719007) | Los Angeles, CA |  | 2026-11-04 |  |
+| Tenstorrent University | [Business Operations & Program Management Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5271796007) | Austin, Texas, United States; Santa Clara, California, United States;  | $24 to $70/hour | 2026-11-04 |  |
+| 1Password | [Product Management Intern, End User Experience - Winter 2027](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) · Winter 2027 | Remote (United States / Canada) |  | 2026-11-04 |  |
+| R2 | [Product Operations Intern](https://r2.bamboohr.com/careers/199) | Remote |  | 2026-11-04 |  |
+| OneEthos | [Product Management Intern (Fall 2026/Spring- Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) · Fall 2026 | United States - Remote |  | 2026-11-04 |  |
+| GoFundMe | [MBA Product Management Internship, Summer 2027](https://job-boards.greenhouse.io/gofundme/jobs/8304644) · Summer 2027 | San Francisco, CA (hybrid) | $75/hour | 2026-11-04 |  |
+| Legend Biotech US | [Site Project Management Office Intern](https://job-boards.greenhouse.io/legendcareers/jobs/4745151005) | Raritan, New Jersey, United States |  | 2026-11-04 |  |
+| Amplify | [Summer 2027: Product Management Intern](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e) · Summer 2027 | Remote - United States |  | 2026-11-04 |  |
+| Anduril Industries | [2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) · Summer 2027 | Costa Mesa, California, United States; Honolulu, Hawaii, United States | $28 to $45/hour | 2026-11-04 | US citizens/persons only |
+| KnowBe4 | [CSM Project Manager Intern](https://job-boards.greenhouse.io/knowbe4/jobs/8899901002) | Clearwater, Florida (hybrid) |  | 2026-11-04 |  |
+| US Internships Public Careers Site | [Technical Program Management Intern - Undergraduate](https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221742004) | United States, Aliso Viejo, CA | $36.50/hour | 2026-11-04 | no visa sponsorship |
+| Arcesium LLC | [Product Management Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) | New York |  | 2026-11-04 |  |
+| Carlisle | [Product Management Intern](https://jobs.smartrecruiters.com/Carlisle/3743990016055226-product-management-intern) · Spring 2027 | Carlisle, Pennsylvania, us |  | 2026-11-04 |  |
+| Fortune Brands | [Product Manager Intern](https://jobs.smartrecruiters.com/FortuneBrands/744000152963619-product-manager-intern) | Deerfield, ILLINOIS, us | $33,300 to $45,760 | 2026-11-04 |  |
+| B&S Site Development | [Midwest Internship Program - Summer 2027](https://job-boards.greenhouse.io/bssitedevelopment/jobs/4423205009) · Summer 2027 | Columbus, Ohio |  | 2026-11-04 |  |
+| B&S Site Development | [Northern Virginia Internship Program - Summer 2027](https://job-boards.greenhouse.io/bssitedevelopment/jobs/4423294009) · Summer 2027 | Manassas, Virginia |  | 2026-11-04 |  |
+| B&S Site Development | [Southeast Internship Program - Summer 2027](https://job-boards.greenhouse.io/bssitedevelopment/jobs/4423295009) · Summer 2027 | Atlanta, Georgia |  | 2026-11-04 |  |
+| B&S Site Development | [Southern Virginia Internship Program - Summer 2027](https://job-boards.greenhouse.io/bssitedevelopment/jobs/4423287009) · Summer 2027 | Richmond, Virginia |  | 2026-11-04 |  |
+| Veeam Software | [Project Management Intern- Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4987731101) · Summer 2027 | Alpharetta, GA, USA (hybrid) | $20 to $25/hour | 2026-11-04 |  |
+| Bound | [Product Management Intern (Summer 2027)](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) · Summer 2027 | Ames, IA |  | 2026-11-04 |  |
+| Cadence Solutions | [Product Management Intern](https://job-boards.greenhouse.io/solutions/jobs/4715294006) · Summer 2027 | Remote | $55/hour | 2026-11-04 |  |
+| Farmers Mutual Hail Insurance Company | [Product Owner Intern](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404335009) · Summer 2027 | West Des Moines, IA |  | 2026-11-04 | no visa sponsorship |
+| RF-SMART | [Agile Delivery (Scrum Master) Internship - Summer 2027](https://job-boards.greenhouse.io/rfsmart/jobs/5407097008) · Summer 2027 | Jacksonville, Florida, United States | $25/hour | 2026-11-04 | no visa sponsorship |
+| Smarty | [Product Management Intern](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) | Orem, UT |  | 2026-11-04 |  |
+| Anduril Industries | [Winter 2027 Technical Program Management Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007) · Winter 2027 | Washington, District of Columbia, United States | $28 to $45/hour | 2026-11-04 | US citizens/persons only |
+| Lunar Outpost | [Project Management Intern - Summer 2027](https://lunaroutpost.bamboohr.com/careers/389) · Summer 2027 | Golden, Colorado, United States |  | 2026-11-04 |  |
+| Fortune Brands | [Product Management Intern, B2B Security](https://jobs.smartrecruiters.com/FortuneBrands/744000149058098-product-management-intern-b2b-security) | Deerfield, ILLINOIS, us | $33,300 to $45,760 | 2026-11-04 |  |
+| J Benton Construction | [Project Management Co-op: Summer 2027](https://jbenton.bamboohr.com/careers/265) · Summer 2027 | US Virgin Islands, Virgin Islands, United States |  | 2026-11-04 |  |
+| Barnhart Crane & Rigging | [Project Management Intern](https://barnhart-crane-rigging.breezy.hr/p/50e74bb6cc7a-project-management-intern) | United States |  | 2026-11-04 |  |
+| CLEAR Global | [Project Management Intern - Corpus Creation - MIIS](https://clear.bamboohr.com/careers/492) | Remote |  | 2026-11-04 |  |
+| Auld & White Constructors | [Project Management Intern](https://job-boards.greenhouse.io/auldwhiteconstructors/jobs/5369733008) | Jacksonville, FL |  | 2026-11-04 |  |
+| Dynamic Catholic | [Internship - Project Management](https://jobs.lever.co/dynamiccatholic/5ff4e715-64f2-4558-a412-b10aeb2a24fb) | Erlanger, Kentucky |  | 2026-11-04 | no visa sponsorship |
+| ARCO Companies | [Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4384586009) · Summer 2027 | Richmond Heights, MO, US |  | 2026-11-04 |  |
+| Appian Corporation | [Product Manager Intern](https://job-boards.greenhouse.io/appian/jobs/8041243) · Summer 2027 | McLean, Virginia | $50/hour | 2026-11-04 | no visa sponsorship |
+| J Benton Construction | [Project Management Co-op: Spring 2027](https://jbenton.bamboohr.com/careers/257) · Spring 2027 | US Virgin Islands, Virgin Islands, United States |  | 2026-11-04 |  |
+| Fessler & Bowman Inc | [Project Management Intern](https://fesslerbowman.bamboohr.com/careers/922) | Knoxville, Tennessee, United States |  | 2026-11-04 |  |
+| Senior plc | [Program Manager Intern](https://jobs.smartrecruiters.com/SeniorPlc1/3743990014017976-program-manager-intern) | Burbank, California, us | $25/hour | 2026-11-04 | US citizens/persons only |
+| Fessler & Bowman Inc | [Project Management Intern](https://fesslerbowman.bamboohr.com/careers/898) | Smyrna, Tennessee, United States |  | 2026-11-04 |  |
+| Amca | [Program Management Internship, Business Operations (Summer 2027)](https://job-boards.greenhouse.io/amca/jobs/4253815009) · Summer 2027 | El Segundo, CA | $30 to $50/hour | 2026-11-04 | US citizens/persons only |
+| LightGuide, Inc. | [Product Innovation Co-op](https://ats.rippling.com/lightguide/jobs/1675cecb-fa30-4ea6-9946-7f8a4ac83408) | Wixom, MI |  | 2026-11-04 |  |
+| Creatify Lab Inc | [Product Manager Intern](https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2) | Mountain View |  | 2026-11-04 |  |
+| Ignite Digital | [Project Management Analyst- Skillbridge Internship](https://ignite-digital.com/careers/job-listings/?gh_jid=4077476008) | Charleston, South Carolina, United States |  | 2026-11-04 | US citizens/persons only |
+| Rise8 | [SkillBridge Intern - Product Manager](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | Remote |  | 2026-11-04 | US citizens/persons only |
+| Technergetics | [SkillBridge Project Management Internship](https://job-boards.greenhouse.io/technergetics/jobs/4345298006) | Remote |  | 2026-11-04 | US citizens/persons only |
+| ProSidian Consulting, LLC | [Program Manager - Youth Apprenticeships Project](https://jobs.smartrecruiters.com/prosidianconsulting/743999686635345-program-manager-youth-apprenticeships-project) | Charlotte, NC, us |  | 2026-11-04 |  |
 | Applied Materials | [Summer 2027 Data Intelligence/Technical Program Management Intern- Master's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) · Summer 2027 | Santa Clara,CA |  | 2026-11-03 |  |
 | Applied Materials | [Summer 2027 Technical Project/Program Management Intern- Master's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Technical-Project-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627706) · Summer 2027 | Santa Clara,CA |  | 2026-11-03 |  |
 | Zebra Technologies | [2027 Summer Internship (US) - Global Marketing Program Management](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Global-Marketing-Program-Management_JR103611) · Summer 2027 | Lincolnshire, Illinois | $24 to $25.50/hour | 2026-11-03 | no visa sponsorship |

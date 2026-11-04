@@ -1,13 +1,202 @@
 # New grad and entry level: Education
 
-48 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
+237 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Per Scholas | [Low Voltage Telecom Instructor](https://job-boards.greenhouse.io/perscholashires/jobs/4726978006) | United States | $50 to $55/hour | 2026-11-04 |  |
+| Trinity Logistics | [Agent Education & Training Specialist](https://trinitylogistics.com/join-us/job/?gh_jid=8929315002) | Seaford, DE (hybrid) |  | 2026-11-04 |  |
 | Accenture | [Instructor Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-3565-Piedmont-Rd-NE-ACN-Ops/Instructor-Specialist_14465756) | Atlanta, 3565 Piedmont Rd NE., ACN Ops | $63,800 to $154,800 | 2026-11-04 |  |
+| Zeta Charter Schools | [Elementary School Science Teacher (2027-2028)](https://zetaschools.org/careers?gh_jid=8044944003) | New York City, NY | $71,500 to $115,500 | 2026-11-04 |  |
+| Zeta Charter Schools | [Elementary School Teacher (2027-2028)](https://zetaschools.org/careers?gh_jid=8044848003) | New York City, NY | $71,500 to $115,500 | 2026-11-04 |  |
+| Zeta Charter Schools | [Middle School English Teacher (2027-2028)](https://zetaschools.org/careers?gh_jid=8045010003) | New York City, NY | $71,500 to $115,500 | 2026-11-04 |  |
+| Zeta Charter Schools | [Middle School History Teacher (2027-2028)](https://zetaschools.org/careers?gh_jid=8045034003) | New York City, NY | $71,500 to $115,500 | 2026-11-04 |  |
+| Zeta Charter Schools | [Middle School Math Teacher (2027-2028)](https://zetaschools.org/careers?gh_jid=8045035003) | New York City, NY | $71,500 to $115,500 | 2026-11-04 |  |
+| Zeta Charter Schools | [Middle School Science Teacher (2027-2028)](https://zetaschools.org/careers?gh_jid=8045036003) | New York City, NY | $71,500 to $115,500 | 2026-11-04 |  |
+| Zeta Charter Schools | [Special Education Teacher - SETSS (2027-2028)](https://zetaschools.org/careers?gh_jid=8044953003) | New York City, NY | $71,500 to $115,500 | 2026-11-04 |  |
+| Aspireearlylearningacademy | [Full Time Infant Teacher](https://aspireearlylearningacademy.bamboohr.com/careers/82) | Moncks Corner, South Carolina, United States |  | 2026-11-04 |  |
+| Apollo After School | [After School Educator](https://apollo-after-school.breezy.hr/p/b81520edd15f-after-school-educator) | Washington, DC | $20/hour | 2026-11-04 |  |
 | Baylor Scott & White Health | [Certified Diabetes Educator I - RD](https://jobs.bswhealth.com/us/en/job/26020011) | Remote, United States |  | 2026-11-04 |  |
+| Brella | [Preschool Teacher - Playa Vista](https://brella.breezy.hr/p/4eb1a8cbe06a-preschool-teacher-playa-vista) | Los Angeles, CA |  | 2026-11-04 |  |
+| Catlin Gabel School | [School Bus Route Driver with Sign On Bonus](https://ats.rippling.com/catlin-gabel-school/jobs/ec83d771-4e95-4894-9b1f-7e2a87dca138) | Portland, OR | $28 to $32/hour | 2026-11-04 |  |
+| Williamsburg Charter High School | [NYS Certified Special Education Teacher](https://williamsburgcharterhighschool.recruitee.com/o/nys-certified-special-education-teacher-2) | Brooklyn, NY, US | $68,000 to $90,000 | 2026-11-04 |  |
+| Apollo After School | [After School Educator (North- West Chicago)](https://apollo-after-school.breezy.hr/p/1387af086c01-after-school-educator-north-west-chicago) | Chicago, IL | $20/hour | 2026-11-04 |  |
+| Uncommon Schools | [Middle School ELA Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000158514785-middle-school-ela-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-04 |  |
+| Framework | [Virtual High Impact Tutor](https://framework.breezy.hr/p/c1fb4336e170-virtual-high-impact-tutor) | Ashburn, VA (remote) | $18 to $22/hour | 2026-11-04 |  |
+| East Harlem Tutorial Program | [Music Teacher (PreK - 7th Grade)](https://job-boards.greenhouse.io/eastharlemtutorialprogram/jobs/8324630) | New York, New York, United States |  | 2026-11-04 |  |
+| Harvard University | [Custodian B, , FAS Academic Science Center](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016420601-custodian-b-fas-academic-science-center) | Cambridge, MA, us | $28.75/hour | 2026-11-04 | no visa sponsorship |
+| Red Rabbit | [Porter/Dishwasher In-School (No Weekends - No Nights), Northeast Philadelphia, PA](https://red-rabbit.breezy.hr/p/9a88d026b136-porter-dishwasher-in-school-no-weekends-no-nights-northeast-philadelphia-pa) | Philadelphia, PA | $16 to $18/hour | 2026-11-04 |  |
+| ECE Substitutes | [Child Care Substitute Teacher](https://ecesubstitutes.bamboohr.com/careers/989) | Wilmington, Delaware, United States | $50/hour | 2026-11-04 |  |
+| Aspireearlylearningacademy | [Full Time Teacher](https://aspireearlylearningacademy.bamboohr.com/careers/76) | West Columbia, South Carolina, United States |  | 2026-11-04 |  |
+| Uncommon Schools | [High School History Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000157366350-high-school-history-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-04 |  |
+| Cairo | [Inclusion Classroom Aide - ELC](https://cairo.bamboohr.com/careers/324) | Portland, Oregon, United States | $23.16/hour | 2026-11-04 |  |
+| Domino's | [Shift Manager(06615) - 1300 Gattis School Rd., Ste 700](https://jobs.smartrecruiters.com/Dominos/744000157021891-shift-manager-06615-1300-gattis-school-rd-ste-700) | Round Rock, TX, us |  | 2026-11-04 |  |
+| Domino's | [Delivery Driver(08783) - 4909 Gattis School Rd](https://jobs.smartrecruiters.com/Dominos/744000156965452-delivery-driver-08783-4909-gattis-school-rd) | Hutto, TX, us |  | 2026-11-04 |  |
+| Domino's | [Shift Manager(08783) - 4909 Gattis School Rd., Suite 110](https://jobs.smartrecruiters.com/Dominos/744000156946438-shift-manager-08783-4909-gattis-school-rd-suite-110) | Hutto, TX, us |  | 2026-11-04 |  |
+| Patch | [On Call Substitute Childcare Teacher, Atlanta, GA](https://www.patchcaregiving.com/careers?gh_jid=8042182003) | Atlanta, GA | $18 to $20/hour | 2026-11-04 |  |
+| Domino's | [Delivery Driver(06615) - 1300 Gattis School Rd., Ste 700](https://jobs.smartrecruiters.com/Dominos/744000156683650-delivery-driver-06615-1300-gattis-school-rd-ste-700) | Round Rock, TX, us |  | 2026-11-04 |  |
+| Comply | [Education Training Specialist](https://ats.rippling.com/complycareers/jobs/eb3582be-952e-4420-b0a8-db9cf627db7e) | New York, NY | $49,500 to $57,200 | 2026-11-04 | no visa sponsorship |
+| Henry Ford Health | [Unit Educator - MPCU - 40 Hours - Days](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016278596-unit-educator-mpcu-40-hours-days-) | West Bloomfield, MI, us |  | 2026-11-04 |  |
+| LaAmistad | [Afterschool Instructor SY26-27](https://laamistadinc.bamboohr.com/careers/496) | Atlanta, Georgia, United States |  | 2026-11-04 | no visa sponsorship |
+| Covista | [Primary Care of the Childbearing and Childrearing Family Practicum - Part-time Faculty](https://jobs.smartrecruiters.com/Covista/744000156067879-primary-care-of-the-childbearing-and-childrearing-family-practicum-part-time-faculty) | Remote, REMOTE, us |  | 2026-11-04 |  |
+| Discoverykidzone | [Part Time Teacher — Tues/Thurs Childcare & Preschool (Entry Level)](https://discoverykidzone.bamboohr.com/careers/480) | Bozeman, Montana, United States |  | 2026-11-04 |  |
+| KIPP | [Paraprofessional](https://jobs.smartrecruiters.com/KIPP/744000155772116-paraprofessional-) | Baltimore, MD, us |  | 2026-11-04 |  |
+| Stanford Medicine Children's Health | [Certified Diabetes Care and Education Specialist](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990016158706-certified-diabetes-care-and-education-specialist) | PALO ALTO, CA, us | $49.06 to $61.33/hour | 2026-11-04 |  |
+| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034552003) | Leland, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
+| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034547003) | Shallotte, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
+| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034550003) | Southport, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
+| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034545003) | Wilmington, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
+| Apollo After School | [Substitute Educator (After care/ morning care)](https://apollo-after-school.breezy.hr/p/aa9e5b7e0e4f-substitute-educator-after-care-morning-care) | Beachwood, OH | $20/hour | 2026-11-04 |  |
+| Aspireearlylearningacademy | [Full Time Teacher](https://aspireearlylearningacademy.bamboohr.com/careers/80) | Moncks Corner, South Carolina, United States |  | 2026-11-04 |  |
+| The Wonderful Company | [GEAR-UP Tutor](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000155304022-gear-up-tutor) | Sanger, CA, us | $18/hour | 2026-11-04 |  |
+| Uncommon Schools | [5-12 Teacher - Middle, High School Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000155305354-5-12-teacher-middle-high-school-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-04 |  |
+| Uncommon Schools | [Middle School Math Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000155304859-middle-school-math-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-04 |  |
+| Revolution Prep | [Professional Online Tutor – SAT/ACT Math & Academics](https://ats.rippling.com/revolution-prep-careers/jobs/8244e71f-8e98-4c0e-9368-2eba6fdf37ae) | MI | $25 to $29/hour | 2026-11-04 |  |
+| Apollo After School | [Part Time Substitute Educator](https://apollo-after-school.breezy.hr/p/7337b96b63d2-part-time-substitute-educator) | Alhambra, CA | $21/hour | 2026-11-04 |  |
+| Proximity Learning Inc. | [Chicago Title I SAT Prep Instructor](https://proxlearn.bamboohr.com/careers/209) | Chicago , Illinois, United States | $40/hour | 2026-11-04 |  |
+| Uncommon Schools | [High School Science Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000154675789-high-school-science-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-04 |  |
+| Wellthy Care Network | [Part Time Spanish Tutor – San Gabriel, CA](https://job-boards.greenhouse.io/wellthy-care-network/jobs/8019749003) | United States | $25 to $30/hour | 2026-11-04 |  |
+| ACI Learning | [Admissions Advisor - National](https://job-boards.greenhouse.io/acilearning/jobs/4429518009) | Remote | $55,000 to $70,000 | 2026-11-04 |  |
+| Stanford Medicine Children's Health | [Certified Diabetes Care and Education Specialist](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990015978056-certified-diabetes-care-and-education-specialist) | PALO ALTO, CA, us | $49.06 to $61.33/hour | 2026-11-04 |  |
+| Tines | [Technical Support Engineer I](https://job-boards.greenhouse.io/tines/jobs/6220150004) | Boston, MA | $85,000 to $95,000 | 2026-11-04 |  |
+| Alabaster City Schools | [Secretary I, II, III - ACSD - Apply 10/02/2026](https://alabaster-city-schools.breezy.hr/p/39ad3384c02d-secretary-i-ii-iii-acsd-apply-10-02-2026) | Alabaster City Schools District, AL |  | 2026-11-04 |  |
+| Freudigmanbillings | [Junior Admissions Test Prep Instructor](https://freudigmanbillings.bamboohr.com/careers/85) | Westport, Connecticut, United States | $67,000 to $75,000 | 2026-11-04 |  |
+| Patch | [On Call Substitute Childcare Teacher, Arlington, TX](https://www.patchcaregiving.com/careers?gh_jid=8008692003) | Arlington, TX | $19 to $21/hour | 2026-11-04 |  |
+| Unitek Learning | [Student Services Specialist](https://jobs.smartrecruiters.com/UnitekLearning/744000152498428-student-services-specialist) | Idaho Falls, ID, us |  | 2026-11-04 |  |
+| YMCA of Central Texas | [Specialty & Enrichment Instructor](https://ymca-of-central-texas.breezy.hr/p/57e1f742bcc3-specialty-enrichment-instructor) | Round Rock, TX | $15 to $19/hour | 2026-11-04 |  |
+| Apollo After School | [Part-Time Substitute Educator](https://apollo-after-school.breezy.hr/p/f525d8832968-part-time-substitute-educator) | Mendham, NJ | $20/hour | 2026-11-04 |  |
+| Urbanecologycenter | [Substitute Environmental Educator](https://urbanecologycenter.bamboohr.com/careers/364) | Milwaukee, Wisconsin, United States | $20/hour | 2026-11-04 |  |
+| Alma del Mar Charter School | [English as a Second Language (ESL) Specialist Teacher](https://alma-del-mar-charter-school.breezy.hr/p/c6f0cdf1d955-english-as-a-second-language-esl-specialist-teacher) | New Bedford, MA | $49,150 | 2026-11-04 |  |
+| Patch | [On Call Substitute Childcare Teacher, Shippensburg, PA](https://www.patchcaregiving.com/careers?gh_jid=8001268003) | Shippensburg, PA | $18 to $20/hour | 2026-11-04 |  |
+| Revolution Prep | [Professional Online Tutor – SAT/ACT & Academics](https://ats.rippling.com/revolution-prep-careers/jobs/ff4e6822-ae1c-4b69-840e-3162c9efd1b5) | Remote (Colorado, US) | $25 to $29/hour | 2026-11-04 |  |
+| Revolution Prep | [Professional Online Tutor – SAT/ACT English & Academics](https://ats.rippling.com/revolution-prep-careers/jobs/1b856687-4ec0-43bd-8962-fb5ed98c8eb7) | AL | $25 to $29/hour | 2026-11-04 |  |
+| Red Rabbit | [Porter/Dishwasher, In School (No Nights / Weekends) - NYC](https://red-rabbit.breezy.hr/p/c12edcf99967-porter-dishwasher-in-school-no-nights-weekends-nyc) | NYC, NY | $17 to $19/hour | 2026-11-04 |  |
+| Willamalane Park and Recreation District | [Youth Tumbling Instructor](https://willamalanedistrict.bamboohr.com/careers/354) | Springfield, Oregon, United States |  | 2026-11-04 |  |
+| Assessment Intervention Management | [Math Test Prep Tutor and/or English Test Prep Tutor](https://assessment-intervention-management.breezy.hr/p/0e68c6776686-math-test-prep-tutor-and-or-english-test-prep-tutor) | San Antonio, TX | $25 to $40/hour | 2026-11-04 | no visa sponsorship |
+| Ensemble Performing Arts | [Beginner Piano Teacher - Montclair, NJ](https://ensemble-performing-arts.breezy.hr/p/4497b40aaae9-beginner-piano-teacher-montclair-nj) | Montclair, NJ | $30 to $34/hour | 2026-11-04 |  |
+| Per Scholas | [Low Voltage Telecom Instructor](https://job-boards.greenhouse.io/perscholashires/jobs/4711919006) | Phoenix, Arizona, United States | $40 to $45/hour | 2026-11-04 |  |
+| Odcinc | [Youth Services Mentor-After School](https://odcinc.bamboohr.com/careers/579) | Wausau, Wisconsin, United States | $17/hour | 2026-11-04 |  |
+| Apollo After School | [Part-Time Substitute Educator – Before Care](https://apollo-after-school.breezy.hr/p/943b4cf45e1b-part-time-substitute-educator-before-care) | Mendham, NJ | $20/hour | 2026-11-04 |  |
+| Odcinc | [Youth Services Mentor-After School](https://odcinc.bamboohr.com/careers/564) | Marshfield, Wisconsin, United States | $17/hour | 2026-11-04 |  |
+| Red Rabbit | [Porter/Dishwasher In-School (No Weekends - No Nights), Brooklyn, NY](https://red-rabbit.breezy.hr/p/61b31f3db76b-porter-dishwasher-in-school-no-weekends-no-nights-brooklyn-ny) | Brooklyn, NY | $17 to $19/hour | 2026-11-04 |  |
+| Apollo After School | [Before School, After School & Recess Educator Opportunities – Northwest Chicago](https://apollo-after-school.breezy.hr/p/9f2ebc24b0c8-before-school-after-school-recess-educator-opportunities-northwest-chicago) | Chicago, IL | $19 to $20/hour | 2026-11-04 |  |
+| Red Rabbit | [Food Service Worker (Part-Time), In School (No Nights/Weekends/Holidays) - North Broad Philadelphia](https://red-rabbit.breezy.hr/p/2c456c5a8f9d-food-service-worker-part-time-in-school-no-nights-weekends-holidays-north-broad-philadelphia) | Philadelphia, PA | $16.50 to $18.50/hour | 2026-11-04 |  |
+| Apollo After School | [Behavior Support Educator](https://apollo-after-school.breezy.hr/p/1f2ce66479fc-behavior-support-educator) | Washington, DC | $25/hour | 2026-11-04 |  |
+| Red Rabbit | [Food Service Worker/Packer (Part-Time), In-School - Northeast Philadelphia](https://red-rabbit.breezy.hr/p/6211464cb64d-food-service-worker-packer-part-time-in-school-northeast-philadelphia) | Philadelphia, PA | $16.50 to $18.50/hour | 2026-11-04 |  |
+| Red Rabbit | [Porter/Dishwasher, In School (No Nights / Weekends) - Washington, DC](https://red-rabbit.breezy.hr/p/ee755354f6e2-porter-dishwasher-in-school-no-nights-weekends-washington-dc) | Washington, DC | $18.50 to $20.50/hour | 2026-11-04 |  |
+| Primer | [Admissions Representative](https://jobs.ashbyhq.com/primer/f48737c1-a88e-431b-8c9d-894ef15ee6f0) | Houston |  | 2026-11-04 |  |
+| Primer | [Admissions Representative](https://jobs.ashbyhq.com/primer/65a65498-b564-4630-b231-22c703ba8645) | Gainesville, Florida |  | 2026-11-04 |  |
+| Primer | [Admissions Representative](https://jobs.ashbyhq.com/primer/3a038e27-3102-4b71-8ef4-7a94bdf03096) | Orlando, Florida |  | 2026-11-04 |  |
+| Red Rabbit | [Food Service Worker/Packer , In-School - Washinton D.C.](https://red-rabbit.breezy.hr/p/9e21ccf451d1-food-service-worker-packer-in-school-washinton-d-c) | Washington, DC | $18 to $20/hour | 2026-11-04 |  |
+| Aspireearlylearningacademy | [Full Time Infant/Toddler Teacher](https://aspireearlylearningacademy.bamboohr.com/careers/70) | Moncks Corner, South Carolina, United States |  | 2026-11-04 |  |
+| Covista | [MSN Acute Care NP (Adjunct)](https://jobs.smartrecruiters.com/Covista/744000143871784-msn-acute-care-np-adjunct-) | remote, REMOTE, us |  | 2026-11-04 |  |
+| KIPP | [KIPP - Instructional Aide - Elementary School (26-27)](https://jobs.smartrecruiters.com/KIPP/744000143922449-kipp-instructional-aide-elementary-school-26-27-) | San Francisco, CA, us | $20.92 to $24.84/hour | 2026-11-04 |  |
+| IXL Learning | [Curriculum Alignment Specialist, Math Focus](https://www.ixl.com/company/jobs?gh_jid=8713967002) | Raleigh, NC |  | 2026-11-04 |  |
+| Apollo After School | [After Care Educator](https://apollo-after-school.breezy.hr/p/c2ab51009f1f-after-care-educator) | Beachwood, OH | $20/hour | 2026-11-04 |  |
+| Boyd Gaming | [Dealer School Trainee](https://jobs.smartrecruiters.com/BoydGaming/3743990014382054-dealer-school-trainee) | Michigan City, IN, us |  | 2026-11-04 |  |
+| KIPP | [School Bus Driver](https://jobs.smartrecruiters.com/KIPP/744000140530499-school-bus-driver) | Miami, FL, us | $18/hour | 2026-11-04 |  |
+| KIPP | [KIPP - After School Program Instructor (Part Time) - Middle- Oakland (26-27)](https://jobs.smartrecruiters.com/KIPP/744000138188510-kipp-after-school-program-instructor-part-time-middle-oakland-26-27-) | Oakland, CA, us | $20.92 to $24.84/hour | 2026-11-04 |  |
+| YMCA of Central Texas | [Dance Instructor](https://ymca-of-central-texas.breezy.hr/p/3ccbb825f560-dance-instructor) | Round Rock, TX | $14 to $19/hour | 2026-11-04 |  |
+| Apollo After School | [Recess teacher](https://apollo-after-school.breezy.hr/p/0978e52fbcfb-recess-teacher) | Chicago, IL | $19/hour | 2026-11-04 |  |
+| KIPP | [KIPP - After School Program Instructor (Part Time) - K-8 - Elementary/Middle School (26-27 SY)](https://jobs.smartrecruiters.com/KIPP/744000134561269-kipp-after-school-program-instructor-part-time-k-8-elementary-middle-school-26-27-sy-) | Stockton, CA, us | $20 to $23/hour | 2026-11-04 |  |
+| Growing Up New Mexico | [Teacher's Aide](https://growingupnm.bamboohr.com/careers/88) | Santa Fe, New Mexico, United States | $41,000 | 2026-11-04 |  |
+| KIPP | [KIPP - After School Program Instructor (Part Time) - 26-27 SY](https://jobs.smartrecruiters.com/KIPP/744000134040072-kipp-after-school-program-instructor-part-time-26-27-sy) | San Jose, CA, us | $20.92 to $24.84/hour | 2026-11-04 |  |
+| Prepory Coaching Group LLC | [Graduate College Admissions Coach (Part-Time)](https://ats.rippling.com/prepory/jobs/3034174e-2041-4058-b62d-61931c479edc) | Remote (Davie, Florida, US) | $25 to $35/hour | 2026-11-04 |  |
+| Wonderschool | [Part-Time Substitute Teacher (Up to $144 daily)](https://job-boards.greenhouse.io/wonderschool/jobs/7778218003) | North Carolina, USA | $14 to $144/hour | 2026-11-04 |  |
+| Catlin Gabel School | [School Bus Driver - On-Call/Trips](https://ats.rippling.com/catlin-gabel-school/jobs/7bd4c3ae-a72e-4edd-bd6e-798fba4f1e48) | Portland, OR | $28 to $32/hour | 2026-11-04 |  |
+| Svetness Personal Training | [Water Aerobics Instructor - Austin, TX](https://job-boards.greenhouse.io/svetness/jobs/5149154007) | Austin, TX |  | 2026-11-04 |  |
+| Prepory Coaching Group LLC | [College Admissions Coach (Remote, Part-Time)](https://ats.rippling.com/prepory/jobs/0721e34d-dab3-49cf-9f3f-510926803d9d) | Remote (United States) | $23.75 to $32.75/hour | 2026-11-04 |  |
+| Alpha Public Schools | [Academic Interventionist (26-27)](https://job-boards.greenhouse.io/alphapublicschools/jobs/7951876) | San Jose, California, United States | $23.18/hour | 2026-11-04 |  |
+| Rivermont Schools | [Special Education Teacher](https://jobs.ashbyhq.com/Rivermont-Schools/9f85256c-7f91-4d63-8770-ac0d72607a3e) | Fairfield, VA |  | 2026-11-04 |  |
+| Ilisagvik | [Adjunct Instructor (CDL/HEO)](https://ilisagvik.bamboohr.com/careers/337) | Utqiaġvik, Alaska, United States |  | 2026-11-04 |  |
+| Colusa | [Tutor (Educational Liaison)](https://colusa.bamboohr.com/careers/175) | Colusa, California, United States |  | 2026-11-04 |  |
+| Think Academy US | [(Recent Graduate/Class of 2026 friendly) Full-Time Math Teacher](https://job-boards.greenhouse.io/thinkacademyus/jobs/7721136003) | San Jose, CA | $70,000 to $90,000 | 2026-11-04 |  |
+| GOODWILL IND OF THE CHESAPEAKE INC | [Early Head Start Teacher Aide](https://goodwill-ind-of-the-chesapeake-inc.breezy.hr/p/01fc652e0dba-early-head-start-teacher-aide) | Baltimore, MD | $18/hour | 2026-11-04 |  |
+| Elmhurst Park District | [Recreational Gymnastics Instructor (Boys Gymnastics)](https://elmhurstpark.bamboohr.com/careers/301) | Elmhurst, Illinois, United States | $16 to $35.50/hour | 2026-11-04 |  |
+| Think Academy US | [Remote Math Teacher (in Costa Rica）](https://job-boards.greenhouse.io/thinkacademyus/jobs/7701235003) | remote | $10 to $15/hour | 2026-11-04 |  |
+| Rivermont Schools | [Special Education Teacher](https://jobs.ashbyhq.com/Rivermont-Schools/e6f3dbaa-51d2-421a-8ca4-f78ee1e1afcf) | Roanoke, VA (Southeast) |  | 2026-11-04 |  |
+| Svetness Personal Training | [Water Aerobics Instructor - Pittsburgh, PA](https://job-boards.greenhouse.io/svetness/jobs/5106394007) | Pittsburgh, PA |  | 2026-11-04 |  |
+| Rivermont Schools | [Special Education Teacher](https://jobs.ashbyhq.com/Rivermont-Schools/232c5732-01dd-4082-b6c1-aa09cc1731ac) | Roanoke, VA (Southwest) |  | 2026-11-04 |  |
+| Primer | [Admissions Representative](https://jobs.ashbyhq.com/primer/a4a68abc-abb4-4f82-999a-ac5bd02d780e) | San Antonio, Texas |  | 2026-11-04 |  |
+| Svetness Personal Training | [Water Aerobics Instructor - Raleigh, NC](https://job-boards.greenhouse.io/svetness/jobs/5083837007) | Raleigh, NC |  | 2026-11-04 |  |
+| Tahoe Truckee Unified School District | [Basketball - Junior Varsity Women THS](https://tahoetruckeeusd.teamtailor.com/jobs/7404181-basketball-junior-varsity-women-ths) | Truckee, United States |  | 2026-11-04 |  |
+| Think Academy US | [Full-Time Remote Math Teacher](https://job-boards.greenhouse.io/thinkacademyus/jobs/7668579003) | Remote | $16 to $45/hour | 2026-11-04 |  |
+| Patch | [On Call Substitute Childcare Teacher, Middletown, PA](https://www.patchcaregiving.com/careers?gh_jid=7639680003) | Middletown, PA | $18 to $20/hour | 2026-11-04 |  |
+| Redeemer Lincoln Square | [Sunday Morning Teacher](https://ats.rippling.com/redeemer-presbyterian-church-lsq/jobs/8dcbd60c-ce1a-48e0-83d1-655c1c0baaf3) | New York, NY | $30 to $33/hour | 2026-11-04 |  |
+| Telluride Academy | [Junior Field Instructor](https://tellurideacademy.bamboohr.com/careers/43) | Telluride, Colorado, United States | $19/hour | 2026-11-04 |  |
+| YMCA of Central Texas | [Dance Instructor](https://ymca-of-central-texas.breezy.hr/p/b459e8185997-dance-instructor) | Cedar Park, TX | $15 to $17/hour | 2026-11-04 |  |
+| Prep Academy Tutors | [Experienced Tutor](https://prep-academy-tutors.breezy.hr/p/9d0d95e73d81-experienced-tutor) | Naples, FL |  | 2026-11-04 |  |
+| Kokua Education - LinkedIn | [Substitute Teacher - Odessa / Midland, TX](https://job-boards.greenhouse.io/kokualinkedin/jobs/8126041002) | Odessa / Midland, TX | $140 to $172/hour | 2026-11-04 |  |
+| Proximity Learning Inc. | [Chicago Title I Secondary Math Instructor](https://proxlearn.bamboohr.com/careers/180) | Chicago , Illinois, United States | $30/hour | 2026-11-04 |  |
+| ProSidian Consulting, LLC | [Certified Team Building Instructor/Facilitator / Team Building [VHA0020019]](https://jobs.smartrecruiters.com/prosidianconsulting/744000067257245-certified-team-building-instructor-facilitator-team-building-vha0020019-) | Linthicum Heights, MD, us |  | 2026-11-04 | clearance |
+| ProSidian Consulting, LLC | [Certified Virtual Retreats Instructor/Facilitator / Virtual Retreats [VHA0019018]](https://jobs.smartrecruiters.com/prosidianconsulting/744000067255348-certified-virtual-retreats-instructor-facilitator-virtual-retreats-vha0019018-) | Linthicum Heights, MD, us (remote) |  | 2026-11-04 | clearance |
+| ProSidian Consulting, LLC | [Certified Webinars and Workshops Instructor/Facilitator / Webinars and Workshops [VHA0018017]](https://jobs.smartrecruiters.com/prosidianconsulting/744000067250010-certified-webinars-and-workshops-instructor-facilitator-webinars-and-workshops-vha0018017-) | Linthicum Heights, MD, us |  | 2026-11-04 | clearance |
+| ProSidian Consulting, LLC | [Certified Wellness Challenges For Continuous, Wellness And Well-Being Instructor/Facilitator / Wellness Challe](https://jobs.smartrecruiters.com/prosidianconsulting/744000067247937-certified-wellness-challenges-for-continuous-wellness-and-well-being-instructor-facilitator-wellness-challenges-for-continuous-wellness-and-well-being-vha0016015-) | Linthicum Heights, MD, us |  | 2026-11-04 | clearance |
+| ProSidian Consulting, LLC | [Certified Fitness Classes Instructor/Facilitator / Fitness Classes [VHA0014013]](https://jobs.smartrecruiters.com/prosidianconsulting/744000067242778-certified-fitness-classes-instructor-facilitator-fitness-classes-vha0014013-) | Linthicum Heights, MD, us |  | 2026-11-04 | clearance |
+| ProSidian Consulting, LLC | [Certified Mindfulness For Instructor/Facilitator / Mindfulness For [VHA0013012]](https://jobs.smartrecruiters.com/prosidianconsulting/744000067240580-certified-mindfulness-for-instructor-facilitator-mindfulness-for-vha0013012-) | Linthicum Heights, MD, us |  | 2026-11-04 | clearance |
+| ProSidian Consulting, LLC | [Certified Meditation Instructor/Facilitator / Meditation [VHA0012011]](https://jobs.smartrecruiters.com/prosidianconsulting/744000067235646-certified-meditation-instructor-facilitator-meditation-vha0012011-) | Linthicum Heights, MD, us |  | 2026-11-04 | clearance |
+| ProSidian Consulting, LLC | [Certified Guided Imagery Instructor/Facilitator / Guided Imagery [VHA0011010]](https://jobs.smartrecruiters.com/prosidianconsulting/744000067103071-certified-guided-imagery-instructor-facilitator-guided-imagery-vha0011010-) | Linthicum Heights, MD, us |  | 2026-11-04 | clearance |
+| ProSidian Consulting, LLC | [Certified Qi Gong Instructor/Facilitator / Qi Gong [VHA0010009]](https://jobs.smartrecruiters.com/prosidianconsulting/744000067102152-certified-qi-gong-instructor-facilitator-qi-gong-vha0010009-) | Linthicum Heights, MD, us |  | 2026-11-04 | clearance |
+| ProSidian Consulting, LLC | [Certified Tai Chi Instructor/Facilitator / Tai Chi [VHA0009008]](https://jobs.smartrecruiters.com/prosidianconsulting/744000067099123-certified-tai-chi-instructor-facilitator-tai-chi-vha0009008-) | Linthicum Heights, MD, us |  | 2026-11-04 | clearance |
+| ProSidian Consulting, LLC | [Certified Yoga Instructor/Facilitator / Yoga [VHA0008007]](https://jobs.smartrecruiters.com/prosidianconsulting/744000067099666-certified-yoga-instructor-facilitator-yoga-vha0008007-) | Linthicum Heights, MD, us |  | 2026-11-04 | clearance |
+| KIPP | [KIPP - After School Program Instructor (Part-Time) - East Palo Alto/Redwood City](https://jobs.smartrecruiters.com/KIPP/744000066906647-kipp-after-school-program-instructor-part-time-east-palo-alto-redwood-city) | Redwood City, CA, us | $20.92 to $24.84/hour | 2026-11-04 |  |
+| Growing Up New Mexico | [PreK and Infant/Toddler Substitute Teacher On-Call](https://growingupnm.bamboohr.com/careers/33) | Santa Fe, New Mexico, United States |  | 2026-11-04 |  |
+| Kokua Education - LinkedIn | [Part-time Substitute Teacher - Dallas, TX](https://job-boards.greenhouse.io/kokualinkedin/jobs/6619142002) | Dallas, TX | $120 to $135/hour | 2026-11-04 |  |
+| Kokua Education - LinkedIn | [Part-time Substitute Teacher - San Antonio, TX](https://job-boards.greenhouse.io/kokualinkedin/jobs/6619030002) | San Antonio, TX | $140 to $172/hour | 2026-11-04 |  |
+| Kokua Education - LinkedIn | [Part-time Substitute Teacher - up to $145 daily](https://job-boards.greenhouse.io/kokualinkedin/jobs/6872300002) | McAllen, TX | $145/hour | 2026-11-04 |  |
+| Kokua Education - LinkedIn | [Part-time Substitute Teacher - Up to $167 daily](https://job-boards.greenhouse.io/kokualinkedin/jobs/6619244002) | Fort Worth, TX | $151 to $167/hour | 2026-11-04 |  |
+| The SwimSquad | [2025 Private Swim Instructor and/or Private Party Lifeguard in Manalapan, NJ](https://the-swim-squad.breezy.hr/p/0e4732aba82d-2025-private-swim-instructor-and-or-private-party-lifeguard-in-manalapan-nj) | Manalapan, NJ | $20 to $40/hour | 2026-11-04 |  |
+| Hutchcc | [Part-Time Instructors - Natural Science, Social Science and Mathematics (PTI3008)](https://hutchcc.bamboohr.com/careers/515) | Hutchinson, Kansas, United States |  | 2026-11-04 |  |
+| Rhaegal - Arago Sandbox | [Tutor (800 A)](https://jobs.smartrecruiters.com/RhaegalSandbox/744000035615965-tutor-800-a-) | Buffalo Grove, IL, us |  | 2026-11-04 |  |
+| Kokua Education - LinkedIn | [Substitute Teacher - Austin, TX](https://job-boards.greenhouse.io/kokualinkedin/jobs/7684005002) | Austin, TX | $150 to $200/hour | 2026-11-04 |  |
+| BattleCreek Church | [Part Time Teacher (BattleCreek Kids PM Ministry)](https://ats.rippling.com/battlecreekchurch/jobs/17101a24-b3e5-4489-b533-4765c25e3934) | Broken Arrow, OK | $16/hour | 2026-11-04 |  |
+| Thrive Training Center | [Instructor II](https://thrivetc.bamboohr.com/careers/13) | Atascadero, California, United States |  | 2026-11-04 |  |
+| Thrive Training Center | [Instructor II](https://thrivetc.bamboohr.com/careers/14) | Paso Robles, California, United States |  | 2026-11-04 |  |
+| Oswegoland Park District | [Preschool Teacher (Fall)](https://oswegolandparkdistrict.bamboohr.com/careers/32) | Oswego, Illinois, United States | $19 to $21/hour | 2026-11-04 |  |
+| Proximity Learning Inc. | [Chicago Academic After-School Tutor](https://proxlearn.bamboohr.com/careers/127) | Chicago , Illinois, United States | $30/hour | 2026-11-04 |  |
+| Kokua Education - LinkedIn | [Substitute Teacher - Nashville, TN](https://job-boards.greenhouse.io/kokualinkedin/jobs/6921519002) | Nashville, TN | $171 to $206/hour | 2026-11-04 |  |
+| Kokua Education - LinkedIn | [Substitute Teacher - Up to $190 daily](https://job-boards.greenhouse.io/kokualinkedin/jobs/6842192002) | Washington D.C. | $170 to $190/hour | 2026-11-04 |  |
+| Kokua Education - LinkedIn | [Part-time Substitute Teacher - Brooklyn, NY](https://job-boards.greenhouse.io/kokualinkedin/jobs/6620815002) | Brooklyn, NY | $177 to $204/hour | 2026-11-04 |  |
+| Kokua Education - LinkedIn | [Part-time Substitute Teacher - Up to $185 daily](https://job-boards.greenhouse.io/kokualinkedin/jobs/6620216002) | New York, NY | $170 to $222/hour | 2026-11-04 |  |
+| Kokua Education - LinkedIn | [Part-time Substitute Teacher - Up to $220 daily](https://job-boards.greenhouse.io/kokualinkedin/jobs/6620906002) | Denver, CO | $200 to $220/hour | 2026-11-04 |  |
+| Proximity Learning Inc. | [Academic Tutors](https://proxlearn.bamboohr.com/careers/61) | Chicago , Illinois, United States | $30/hour | 2026-11-04 |  |
+| Philadelphiaballet | [School Accompanist](https://philadelphiaballet.bamboohr.com/careers/39) | Philadelphia, Pennsylvania, United States |  | 2026-11-04 | clearance |
+| Nypl | [Adult English Language and Literacy Intake Advisor (Wakefield Library - Bronx)](https://nypl.pinpointhq.com/en/postings/aeb05a95-b97d-4c3a-ad6c-22caadd3ba26) | Bronx, New York |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor](https://ymcaboston.pinpointhq.com/en/postings/01a40c0b-d554-4d78-87ea-def17e0b15f6) | Needham, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Substitute teacher for Remote or hybrid ESOL Instructors: Beginner – Advanced levels](https://ymcaboston.pinpointhq.com/en/postings/58b1db2e-e99d-492e-9b69-2ba190679d80) | Boston, Massachusetts (hybrid) |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Sports Instructor - Jr. Celtics Youth Sports Coach](https://ymcaboston.pinpointhq.com/en/postings/9bbf8983-a4f1-450f-b0c4-b4607c5907b6) | Brighton, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - LaBlast](https://ymcaboston.pinpointhq.com/en/postings/c66dc226-e363-411f-b0f4-a6b3f48ccb99) | Needham, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Spin](https://ymcaboston.pinpointhq.com/en/postings/755b7cbe-05be-4301-99ea-6fe94c1c7d8e) | Hyde Park, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Tai Chi](https://ymcaboston.pinpointhq.com/en/postings/a83c85a8-17c7-446b-bbf2-fbc8f1a2534a) | Boston, Massachusetts |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor- Barre](https://ymcaboston.pinpointhq.com/en/postings/671a62a7-3f14-48de-9358-973c85e4dcc6) | Boston, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor](https://ymcaboston.pinpointhq.com/en/postings/2a2843a8-e7e8-422c-b00a-237feb4fdb41) | Woburn, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor- Conditioning](https://ymcaboston.pinpointhq.com/en/postings/a2ed6a33-db69-4446-b479-3fa0c64f7233) | Waltham, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor- Body Pump](https://ymcaboston.pinpointhq.com/en/postings/66e18ec5-0e1d-49d4-a72d-1e501ea67e30) | Waltham, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Pilates](https://ymcaboston.pinpointhq.com/en/postings/cba90df0-0e8e-478b-959d-32022fb616c3) | Dorchester, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Youth Gymnastics Instructor](https://ymcaboston.pinpointhq.com/en/postings/ef05142e-ef52-40d3-8c69-db402fea0f19) | Brighton, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Cycle](https://ymcaboston.pinpointhq.com/en/postings/eb3202c4-94e3-467d-9820-f46cbdd3e68a) | Charlestown, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor](https://ymcaboston.pinpointhq.com/en/postings/4a629cd1-d56d-4235-83d3-1fccacfc4ca8) | Charlestown, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Strength Classes](https://ymcaboston.pinpointhq.com/en/postings/f8378fcc-cd55-4627-9036-8510862f862f) | Brighton, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Yoga](https://ymcaboston.pinpointhq.com/en/postings/044fd6c2-e71a-43b9-9098-9c229d74edb7) | Brighton, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Core Strength](https://ymcaboston.pinpointhq.com/en/postings/1c5ad3d0-e552-4d31-8c16-378800ce39c2) | Brighton, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Body Pump](https://ymcaboston.pinpointhq.com/en/postings/4b1bbcd8-9a57-4b14-afe2-59c13c01cd9e) | Brighton, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - HIIT](https://ymcaboston.pinpointhq.com/en/postings/924c6815-05b1-45ce-b1a4-c41899963bfe) | Brighton, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor](https://ymcaboston.pinpointhq.com/en/postings/48868a9c-443b-44e6-bad4-e5b06df5dccb) | Waltham, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Sports Instructor - Jr. Celtics Coach](https://ymcaboston.pinpointhq.com/en/postings/4555bd69-12d3-4cc4-8dd0-f1aab52aa5c8) | Boston, Massachusetts |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Spin](https://ymcaboston.pinpointhq.com/en/postings/8bf23c56-aaf9-4cad-b0e1-f55bca044b32) | East Boston, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Cycle](https://ymcaboston.pinpointhq.com/en/postings/38f1c2d2-b798-4f40-b924-cf131f592964) | Boston, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Les Mills BodyPump](https://ymcaboston.pinpointhq.com/en/postings/ed042f1f-df32-4923-829e-b2e702095d75) | Boston, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - REFORMER PILATES](https://ymcaboston.pinpointhq.com/en/postings/529798e6-d35c-4ec7-a5ba-3141f846ed7f) | Boston, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Cycle](https://ymcaboston.pinpointhq.com/en/postings/e2973bab-6b98-4171-ac2f-6691f59b2958) | Waltham, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Girl's Jr. Celtics Basketball Instructor](https://ymcaboston.pinpointhq.com/en/postings/b86d7c93-b84e-4ae0-8c33-8a6196d6ac18) | Hyde Park, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Pilates Reformer Instructor](https://ymcaboston.pinpointhq.com/en/postings/cc771597-616e-4f63-bf7c-5a7d23b7d7fb) | West Roxbury, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Tai Chi](https://ymcaboston.pinpointhq.com/en/postings/03eec98f-3a10-4a48-82da-055dd353be60) | West Roxbury, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Fit for Life](https://ymcaboston.pinpointhq.com/en/postings/75b93418-3da7-4e6a-8b74-cf366e927d5c) | Woburn, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Aqua Zumba (certification required)](https://ymcaboston.pinpointhq.com/en/postings/a61a4db0-60e5-4b9e-857a-7f79ee89c003) | Woburn, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Aqua Fitness](https://ymcaboston.pinpointhq.com/en/postings/293ea85e-6dfa-46ac-9b35-e0f109eb30e4) | Woburn, MA |  | 2026-11-04 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Body Combat (certification required or equivalent experience)](https://ymcaboston.pinpointhq.com/en/postings/1d0f2e1d-e00b-4f54-a440-5d5cd181398b) | Woburn, MA |  | 2026-11-04 |  |
 | Texas A&M University | [Graduate Academic Advisor II](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Graduate-Academic-Advisor-II_R-098338-2) | College Station, TX |  | 2026-11-03 |  |
 | UTMB Health | [Federal Work Study Student, Dean of Graduate School](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2600926&lang=en) | United States-Texas-Galveston |  | 2026-11-02 |  |
 | UTRGV | [ACADEMIC ADVISOR](https://careers.utrgv.edu/postings/52993) | Edinburg, Texas |  | 2026-10-30 |  |

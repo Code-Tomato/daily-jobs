@@ -1,12 +1,59 @@
 # Internships and co-ops: Science and research
 
-91 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
+138 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AbbVie | [2027 Formulation Sciences Intern (PhD)](https://jobs.smartrecruiters.com/AbbVie/3743990016617271-2027-formulation-sciences-intern-phd-) | North Chicago, IL, us |  | 2026-11-04 |  |
+| AbbVie | [2027 Synthetic Chemistry Intern (PhD)](https://jobs.smartrecruiters.com/AbbVie/3743990016617336-2027-synthetic-chemistry-intern-phd-) | North Chicago, IL, us |  | 2026-11-04 |  |
+| Veolia Environnement SA | [Membrane R&D Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159693644-membrane-r-d-intern) | Minnetonka, MN, us | $25/hour | 2026-11-04 | no visa sponsorship |
+| Eurofins | [Intern](https://jobs.smartrecruiters.com/Eurofins/744000159388175-intern) | Lancaster, PA, us |  | 2026-11-04 |  |
 | Tenet Healthcare | [Cath Lab Tech Extern](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603027812) | Rock Hill, SC, United States |  | 2026-11-04 |  |
+| Environmental Science Associates | [Intern - Florida Environmental Internship (Winter and Summer 2027)](https://job-boards.greenhouse.io/environmentalscienceassociates/jobs/5457591008) · Summer 2027 | Tampa, Florida, United States |  | 2026-11-04 |  |
+| Capable Labs | [Chemistry Intern](https://jobs.ashbyhq.com/Capable/89475683-3915-4971-8c8c-19eeabb869ac) | San Francisco |  | 2026-11-04 |  |
+| Continental Group Sector ContiTech | [CO-OP Engineering Lab](https://jobs.smartrecruiters.com/ContinentalGroupSectorContiTech/744000158575235-co-op-engineering-lab) | Marysville, Ohio, us |  | 2026-11-04 |  |
+| Flagship Pioneering Co-Op Program | [Tilde Bio: Bioconjugation Chemistry Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8919167002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
+| LLNL | [Center for Global Security Research (CGSR) Undergraduate Research Associate - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016483776-center-for-global-security-research-cgsr-undergraduate-research-associate-summer-2027) · Summer 2027 | Livermore, CA, us (hybrid) | $23.26 to $31.62/hour | 2026-11-04 | clearance |
+| AbbVie | [2027 PDS&T Bioassay Scientist Co-Op (June - Dec)](https://jobs.smartrecruiters.com/AbbVie/3743990016415816-2027-pds-t-bioassay-scientist-co-op-june-dec-) | Irvine, CA, us |  | 2026-11-04 |  |
+| AbbVie | [2027 Biologics Analytical Development Co-Op (July-Dec)](https://jobs.smartrecruiters.com/AbbVie/3743990016415256-2027-biologics-analytical-development-co-op-july-dec-) | Waltham, MA, us |  | 2026-11-04 |  |
+| Benchmark Space Systems | [Propellant Chemistry Intern](https://benchmark-space-systems-inc.breezy.hr/p/9c79847f79fb-propellant-chemistry-intern) | Pleasanton, CA |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
+| BillionToOne | [Research Associate Intern](https://job-boards.greenhouse.io/billiontoone/jobs/4747865005) · Fall 2027 | Menlo Park, CA | $25/hour | 2026-11-04 |  |
+| Veolia Environnement SA | [R&D Laboratory Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157871059-r-d-laboratory-intern) | Tomball, TX, us |  | 2026-11-04 |  |
+| Flagship Pioneering Co-Op Program | [Etiome: Translational Biology / Target Validation Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8905763002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
+| Flagship Pioneering Co-Op Program | [Serif Biomedicines: Molecular Biology Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8806814002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
+| Syngenta Group | [Digital Genomics Prediction Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000156883109-digital-genomics-prediction-intern) | Durham, North Carolina, us | $20 to $45/hour | 2026-11-04 |  |
+| AECOM | [Intern Geologist](https://jobs.smartrecruiters.com/AECOM2/744000155857249-intern-geologist) | Arlington, VA, us |  | 2026-11-04 | US citizens/persons only |
+| Flagship Pioneering Co-Op Program | [Apriori Bio, Inc.: Translational Immunology Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8882282002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
+| SGS | [Microbiology Intern (8 Month Contract)](https://jobs.smartrecruiters.com/SGS/744000153516116-microbiology-intern-8-month-contract-) | Fairfield, NJ, us | $17/hour | 2026-11-04 |  |
+| Brooks Running | [Run Performance Graduate Internship, Run Research Team - Winter 2027](https://jobs.lever.co/brooksrunning/b4462155-4109-43ce-adfa-8e58bb429215) · Winter 2027 | US, Washington, Seattle | $33/hour | 2026-11-04 |  |
+| Focused | [Working Student – Laser Lab & Cleanroom Operations (f/m/d)](https://jobs.ashbyhq.com/focused/5795f547-b39c-43ef-81cc-9e8301821b56) | Darmstadt, DE |  | 2026-11-04 |  |
+| Upike | [WS - Spring Term INTERNSHIP - Biology Agricultural Research Technologist - FWS](https://upike.bamboohr.com/careers/564) · Spring | Pikeville, Kentucky, United States |  | 2026-11-04 |  |
+| Flagship Pioneering Co-Op Program | [Metaphore: Antibody Discovery and Molecular Biology Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8851766002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
+| Kernal Biologics, Inc. | [Co-op, Synthetic Biology (mRNA Therapeutics)](https://job-boards.greenhouse.io/kernalbio/jobs/8008352003) | Boston, MA (Seaport) | $20 to $25/hour | 2026-11-04 |  |
+| Flagship Pioneering Co-Op Program | [Abiologics: In Vitro Pharmacology Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8844496002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
+| Flagship Pioneering Co-Op Program | [Flagship Labs 117: Generative Chemistry Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8845062002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
+| Syngenta Group | [Functional Genomics Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000152251958-functional-genomics-intern) | Durham, North Carolina, us | $20 to $45/hour | 2026-11-04 |  |
+| Ginkgo Bioworks Inc. | [Automation Scientist Graduate Intern, RAC Operations](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5249264007) | Boston, Massachusetts | $37,700 to $53,500 | 2026-11-04 |  |
+| ATEME | [Lab Engineer Intern](https://careers.ateme.com/jobs/8445632-lab-engineer-intern) | Englewood, United States | $15.16 to $20/hour | 2026-11-04 |  |
+| Flagship Pioneering Co-Op Program | [Pioneering Medicines: Biologic Formulations Technical Operations Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8842350002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
+| Lydian | [Coatings Engineer/Scientist Co-op](https://jobs.ashbyhq.com/lydian/bc092b36-e885-41dd-b970-ae2c06f5e271) · Spring 2027 | Boston |  | 2026-11-04 |  |
+| Cartesian Systems | [Micro-Intern: Research Assistant (IAP - Alumni Host)](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009) | Cambridge, MA | $20 to $25/hour | 2026-11-04 |  |
+| NETZSCH Group | [Application Center (Lab) Intern](https://jobs.smartrecruiters.com/NETZSCHGroup/744000149939169-application-center-lab-intern) | Exton, PA, us |  | 2026-11-04 |  |
+| EQT Corporation | [Geology Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5421063008) | Canonsburg, PA |  | 2026-11-04 |  |
+| USA Rare Earth | [Geology Intern (Summer 2027)](https://ats.rippling.com/usare/jobs/bd553e0a-f638-439c-8371-7e271fb39443) · Summer 2027 | Sierra Blanca, TX |  | 2026-11-04 |  |
+| Flagship Pioneering Co-Op Program | [Flagship Labs 111: Cell Biology Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8786276002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
+| Hydrite | [QC Lab Intern (Summer 2027)](https://job-boards.greenhouse.io/hydritechemicalco/jobs/8189314) · Summer 2027 | Visalia, CA | $21 to $25/hour | 2026-11-04 |  |
+| Flagship Pioneering Co-Op Program | [Flagship Labs 116: Protein Chemistry Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8766460002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
+| Hydrite | [Part-Time QC Lab Intern (Winter - Summer 2027)](https://job-boards.greenhouse.io/hydritechemicalco/jobs/8157819) · Summer 2027 | Oshkosh, WI |  | 2026-11-04 |  |
+| SGS | [Summer Internship - Lab Technician](https://jobs.smartrecruiters.com/SGS/744000143536639-summer-internship-lab-technician) · Summer | Appleton, WI, us | $16/hour | 2026-11-04 |  |
+| Upike | [WS - NSF Biology Student Researcher - IWS](https://upike.bamboohr.com/careers/476) | Pikeville, Kentucky, United States | $10.50/hour | 2026-11-04 |  |
+| Upike | [WS - NSF Biology Student Researcher - IWS](https://upike.bamboohr.com/careers/477) | Pikeville, Kentucky, United States | $10.50/hour | 2026-11-04 |  |
+| Eridu AI | [Lab Intern](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | Saratoga, CA |  | 2026-11-04 |  |
+| Terasaki Institute for Biomedical Innovation | [Jr Biomedical Intern - 2026 (Year Round)](https://terasakiinstitute.bamboohr.com/careers/75) | Woodland Hills, California, United States |  | 2026-11-04 |  |
+| Ginkgo Bioworks Inc. | [Automation Scientist Intern, RAC Operations](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5022683007) | Boston, Massachusetts | $37,700 to $53,500 | 2026-11-04 |  |
+| Nanopath | [Research Associate Co-op (Jan '27 Start)](https://nanopath.com/careers?gh_jid=4605514005) | Cambridge, MA |  | 2026-11-04 |  |
 | GM | [2027 Summer Intern - Research and Development - EPSR Lab](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---EPSR-Lab_JR-202623300) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-11-02 | no visa sponsorship, US citizens/persons only |
 | Amgen | [Grad Intern – Bioanalytical Research Associate (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097) · Summer 2027 | US - California - Thousand Oaks | $35.34 to $41.20/hour | 2026-10-30 |  |
 | Cedars-Sinai | [Research Intern (Academic Credit) - Simpkins Lab - Department of Neurology - Per Diem (On-site)](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21589) | Los Angeles, CA, United States |  | 2026-10-29 |  |
@@ -24,7 +71,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Intuitive Surgical | [Clinical Scientist Intern](https://jobs.smartrecruiters.com/Intuitive/744000156899239-clinical-scientist-intern) | Sunnyvale, CA, us |  | 2026-10-22 |  |
 | KLA | [Analytical Chemist Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Analytical-Chemist-Intern_2642081-2) | Totowa, NJ | $31.50 to $50/hour | 2026-10-22 |  |
 | Micron | [Intern - Surface Lab](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Surface-Lab_JR114827) | Boise, ID - Main Site |  | 2026-10-22 |  |
-| Varda | [Pharmaceutical Lab Internship (Crystallization) Summer 2027](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) · Summer 2027 | El Segundo, California, United States | $33/hour | 2026-10-22 | US citizens/persons only |
+| Varda | [Pharmaceutical Lab Internship (Crystallization) Summer 2027](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) · Summer 2027 | El Segundo, California, United States |  | 2026-10-22 | US citizens/persons only |
 | Fluor | [Engineering Technician I- Chemical Engineering Internship](https://careers.fluor.com/careers/job/1099556116892) | Houston, US-TX, United States | $43,000 to $66,000 | 2026-10-21 |  |
 | HF Sinclair | [Intern Chemist](https://careers.hfsinclair.com/job/Petrolia-Intern-Chemist-PA-16050/1435063700/) | Petrolia, PA, US |  | 2026-10-20 |  |
 | Marathon Petroleum | [Refining Chemical Engineering Intern/Co-op Spring 2027](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Refining-Chemical-Engineering-Intern-Co-op-Spring-2027_00020447) · Spring 2027 | Findlay, Ohio |  | 2026-10-20 | no visa sponsorship |
@@ -59,7 +106,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Occidental University Recruiting | [Geophysics Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | Houston, Texas |  | 2026-10-20 |  |
 | Occidental University Recruiting | [Geology Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geology-Intern_JR110202) | Houston, Texas |  | 2026-10-20 |  |
 | Scripps Research | [INTERN RESEARCH STUDENT NONPAID - SANNA LAB](https://recruiting2.ultipro.com/SCR1003TSRI/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/OpportunityDetail?opportunityId=d0dae5fa-a3a8-4a63-bb87-2c11e7c61a89) | San Diego, CA, USA |  | 2026-10-20 |  |
-| Varda | [Formulation Science Internship - Summer 2027](https://job-boards.greenhouse.io/vardaspace/jobs/8005846003) · Summer 2027 | El Segundo, California, United States | $33/hour | 2026-10-20 | US citizens/persons only |
+| Varda | [Formulation Science Internship - Summer 2027](https://job-boards.greenhouse.io/vardaspace/jobs/8005846003) · Summer 2027 | El Segundo, California, United States |  | 2026-10-20 | US citizens/persons only |
 | Ascension | [Cath Lab Tech Intern](https://jobs.ascension.org/us/en/job/2026-445061) | Mount Pleasant, WI, US |  | 2026-10-20 |  |
 | Insulet | [Co-op, Sterilization and Microbiology: January - June 2027 (Onsite)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Sterilization-and-Microbiology--January---June-2026--Onsite-_REQ-2026-17951) | Acton, Massachusetts | $25 to $34/hour | 2026-10-20 | no visa sponsorship |
 | Analog Devices | [Biomedical Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577) | US, MA, Wilmington | $22 to $41/hour | 2026-10-20 |  |
@@ -85,7 +132,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Pacific Northwest National Laboratory | [PhD Intern - Geochemistry](https://careers.pnnl.gov/careers-home/jobs/12123) | Richland, Washington | $24.04 to $36.06/hour | 2026-10-20 |  |
 | Siemens | [Test Laboratory Co-op (North Carolina State University)](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521401) · Fall 2027 | Wendell, North Carolina, United States of America |  | 2026-10-20 | no visa sponsorship |
 | Southwest Research Institute | [STUDENT ASSISTANT-R&D - STUDENT ENGINEER - Laboratory Engineer](https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=18-01640) · Fall 2026 | San Antonio, Texas |  | 2026-10-20 | US citizens/persons only |
-| Varda | [Biologics Formulation Research Internship - Spring 2027](https://job-boards.greenhouse.io/vardaspace/jobs/7824834003) · Spring 2027 | El Segundo, California, United States | $33/hour | 2026-10-20 | US citizens/persons only |
+| Varda | [Biologics Formulation Research Internship - Spring 2027](https://job-boards.greenhouse.io/vardaspace/jobs/7824834003) · Spring 2027 | El Segundo, California, United States |  | 2026-10-20 | US citizens/persons only |
 | Tenet Healthcare | [Lab Student Extern - Float Pool](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503025142) | West Palm Beach, FL, United States |  | 2026-10-20 |  |
 | La Jolla Institute for Immunology | [Immunology Intern](https://jobs.dayforcehcm.com/en-US/lji/CANDIDATEPORTAL/jobs/1583) | 9420 Athena Cir, La Jolla, CA 92037, USA |  | 2026-10-20 |  |
 | UTMB Health | [Student Assistant, Clinical Laboratory Sciences](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2506203&lang=en) | United States-Texas-Galveston |  | 2026-10-20 |  |

@@ -1,12 +1,90 @@
 # Internships and co-ops: Design and creative
 
-58 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
+136 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| SharkNinja | [Spring 2027: CMF Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4722306006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
+| GigFinesse | [Graphic Design Intern (Spring 2027)](https://job-boards.greenhouse.io/gigfinesse/jobs/4725799006) · Spring 2027 | Austin, Texas (Remote) |  | 2026-11-04 |  |
+| Jomboy Media | [Social Graphics Internship- Spring 2027](https://job-boards.greenhouse.io/jomboymedia/jobs/4478059009) · Spring 2027 | New York, New York, United States |  | 2026-11-04 |  |
+| Jomboy Media | [Social Graphics Internship- Summer 2027](https://job-boards.greenhouse.io/jomboymedia/jobs/4478071009) · Summer 2027 | New York, New York, United States |  | 2026-11-04 |  |
+| Golden Hippo | [Visual Design Intern - Spring 2027](https://www.golden-careers.com/jobs/4748701005?gh_jid=4748701005) · Spring 2027 | Remote | $18 to $20/hour | 2026-11-04 |  |
+| Toshiba Global Commerce Solutions - External | [Industrial Design Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274347007) · Spring 2027 | Durham, NC |  | 2026-11-04 |  |
+| KnowBe4 | [Multimedia Designer Summer Internship (Hybrid)](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) · Summer | Clearwater, Florida (hybrid) |  | 2026-11-04 |  |
+| Fussball Club Cincinnati LLC (“FC Cincinnati”) | [Design Intern](https://job-boards.greenhouse.io/fccincinnati/jobs/8083877003) | Cincinnati, OH |  | 2026-11-04 |  |
+| SharkNinja | [Spring 2027: HW UX/UI Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721298006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
+| Online Labels Group | [Apprentice Flexographic Press Operator](https://online-labels.breezy.hr/p/8314ae86dce7-apprentice-flexographic-press-operator) | 2001 E Lake Mary Blvd Sanford, FL | $16/hour | 2026-11-04 |  |
+| Crystal Dynamics | [Presentation Animator Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746883005) · Spring 2027 | Remote/Flexible - United States | $20 to $23/hour | 2026-11-04 |  |
+| Pencor Services | [Spring Creative News Internship](https://pencor.bamboohr.com/careers/1093) · Spring | Lehighton, Pennsylvania, United States |  | 2026-11-04 |  |
+| SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006) · Spring 2027 | New York, New York, United States | $30 to $36/hour | 2026-11-04 |  |
+| SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
+| Crystal Dynamics | [Game Design Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005) · Spring 2027 | Remote/Flexible - United States | $20 to $24/hour | 2026-11-04 |  |
+| Excel Sports Management | [Spring 2027 - Intern, Creative](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747588005) · Spring 2027 | New York, New York, United States | $17/hour | 2026-11-04 | no visa sponsorship |
+| Iris North America | [Motion Design Intern](https://job-boards.greenhouse.io/iris/jobs/8319399) | Atlanta, GA (hybrid) | $18/hour | 2026-11-04 |  |
+| Nex | [Summer 2027 / UI Motion Artist Intern](https://job-boards.greenhouse.io/nex/jobs/5461373008) · Summer 2027 | San Jose, California |  | 2026-11-04 |  |
+| Businessolver | [Mobile UX/UI Design Intern (Remote)](https://www.businessolver.com/careers/openings/?gh_jid=8300879) | Remote - United States | $23/hour | 2026-11-04 |  |
+| PrizePicks | [UX Research Intern - Spring 2027](http://prizepicks.com/position?gh_jid=8031331003) · Spring 2027 | Atlanta, Georgia, United States | $30/hour | 2026-11-04 | no visa sponsorship |
+| Nominal | [Product Designer - Internship (Summer 2027)](https://jobs.gem.com/nominal/am9icG9zdDoPXJ5iXKNTyqm8k7nUAyu4) · Summer 2027 | New York, NY, Los Angeles, CA, Austin, TX |  | 2026-11-04 | US citizens/persons only |
+| Anduril Industries | [2027 Product Designer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) · Summer 2027 | Costa Mesa, California, United States | $34 to $42/hour | 2026-11-04 | US citizens/persons only |
+| Studio Museum in Harlem | [Spring 2027 Graphic Design Intern](https://ats.rippling.com/studiomuseumcareers/jobs/e7eecd45-dddc-45c1-8454-f4311928ec63) · Spring 2027 | New York, NY |  | 2026-11-04 |  |
+| Versant | [Versant Summer Internships: Sports Creative (Golf Channel, USA Sports)](https://jobs.smartrecruiters.com/Versant3/744000154165679-versant-summer-internships-sports-creative-golf-channel-usa-sports-) · Summer 2027 | Stamford, CT, us | $19/hour | 2026-11-04 | no visa sponsorship |
+| DLR Group | [Audiovisual Systems Design Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441252008) · Summer 2027 | Cleveland, Ohio, United States; Los Angeles, California, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
+| SeatGeek | [UX Design - Internship](https://seatgeek.com/jobs/8248125?gh_jid=8248125) | New York, New York | $50/hour | 2026-11-04 |  |
+| National Life Insurance Company | [Graphic Design Intern – Summer 2027](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4404976009) · Summer 2027 | Addison, TX; Montpelier, VT | $19 to $28/hour | 2026-11-04 | no visa sponsorship |
+| Bound | [UX Design Intern (Summer 2027)](https://ats.rippling.com/bound/jobs/ef56b967-e64c-4b26-8a1b-a02753c27d04) · Summer 2027 | Ames, IA |  | 2026-11-04 |  |
+| Understandingwar | [Multimedia & Video Production Internship Spring 2027](https://understandingwar.bamboohr.com/careers/249) · Spring 2027 | Washington, District of Columbia, United States |  | 2026-11-04 |  |
+| Athena Global Advisors, LLC | [Summer 2027 Intern, Designer, Creative Department](https://ats.rippling.com/athena-careers/jobs/6caed124-e1e5-45a8-a485-87bd9811c699) · Summer 2027 | Philadelphia, PA | $20/hour | 2026-11-04 |  |
+| Megazone Cloud US | [Visual Design Co-op 2027](https://jobs.ashbyhq.com/megazone/66b2d2e9-1b13-40d0-a4d4-e4599fd418ca) | Rochester, NY |  | 2026-11-04 |  |
+| Onetreeplanted | [Photo & Video Intern](https://onetreeplanted.bamboohr.com/careers/122) | Remote, New York, United States (Remote) |  | 2026-11-04 |  |
+| Rush Street Interactive | [Graphic Design Internship- Spring 2027](https://job-boards.greenhouse.io/rushstreetinteractive/jobs/6185808004) · Spring 2027 | USA - Remote | $16/hour | 2026-11-04 |  |
+| Timmons Group | [Landscape Designer Internship - Summer 2027](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148861879-landscape-designer-internship-summer-2027) · Summer 2027 | Charlottesville, VA, us | $25/hour | 2026-11-04 |  |
+| Timmons Group | [Landscape Designer Internship - Summer 2027](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148861399-landscape-designer-internship-summer-2027) · Summer 2027 | Richmond, VA, us | $25/hour | 2026-11-04 |  |
+| Force Factor | [Summer 2027 Digital Graphic Design Intern](https://forcefactor.com/pages/job-openings?gh_jid=6165087004) · Summer 2027 | Boston, MA or Bentonville, AR |  | 2026-11-04 |  |
+| Dynamic Catholic | [Internship - Videographer](https://jobs.lever.co/dynamiccatholic/ccbc8f9a-ea32-477a-ab54-6901c7ad7ca2) | Erlanger, Kentucky |  | 2026-11-04 |  |
+| Winsupply | [Graphic Design Intern](https://jobs.smartrecruiters.com/Winsupply1/3743990015014926-graphic-design-intern) | Moraine, OH, us |  | 2026-11-04 |  |
+| Human Computer Lab | [Intern - Industrial Designer](https://jobs.ashbyhq.com/human-computer-lab/9aa0a361-9807-404b-a87e-1460699a296d) | San Francisco |  | 2026-11-04 |  |
+| DMS International | [UI/UX Design Intern](https://dms-international.breezy.hr/p/01e49142535e-ui-ux-design-intern) | Silver Spring, MD |  | 2026-11-04 |  |
+| Rilla | [Product Designer, Internship](https://jobs.ashbyhq.com/rilla/c15fc0ad-6da3-4bab-9c64-f8288453b2ae) | New York City | $1,500/month | 2026-11-04 |  |
+| Turning Point Action | [Graphic Design Intern](https://tpaction.breezy.hr/p/e2331f5700ef-graphic-design-intern) | Phoenix, AZ |  | 2026-11-04 |  |
+| Elevation Church | [Elevation Church Creative Ministry Apprenticeship (Spring 2027)](https://elevation-church.breezy.hr/p/bc9ca484e5db-elevation-church-creative-ministry-apprenticeship-spring-2027) · Spring 2027 | Matthews, NC |  | 2026-11-04 |  |
+| Palantir Technologies | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a) | Palo Alto, CA | $8,500/month | 2026-11-04 | clearance |
+| Claim Health | [Visual Design Intern](https://jobs.ashbyhq.com/claim-health/b0180c40-f6a2-4946-b272-d61e9655d6ca) | New York City |  | 2026-11-04 |  |
+| Newform | [Creative Production Intern](https://jobs.ashbyhq.com/newform/ae7b1b6e-2a72-4186-ae5f-bf25bd95e656) | New York City |  | 2026-11-04 |  |
+| CT United FC | [Fan Activation & Promotions Intern [Fall]](https://ct-united-fc.breezy.hr/p/77277682fe55-fan-activation-promotions-intern-fall) · Fall | Stamford, US |  | 2026-11-04 |  |
+| CT United FC | [Fan Activation & Promotions Intern [Summer]](https://ct-united-fc.breezy.hr/p/cc17ad9c6970-fan-activation-promotions-intern-summer) · Summer | Stamford, US |  | 2026-11-04 |  |
+| MBJ Network | [Lead Graphic Designer - Intern / Remote](https://jobs.smartrecruiters.com/MBJNetwork/744000097967235-lead-graphic-designer-intern-remote) | Lombard, IL, us (remote) |  | 2026-11-04 |  |
+| C.A.C. INDUSTRIES, INC. | [Graphic Design & Proposal Intern](https://cacindinc.bamboohr.com/careers/61) | Long Island City, New York, United States |  | 2026-11-04 |  |
+| Palantir Technologies | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d) | New York, NY | $8,500/month | 2026-11-04 | clearance |
+| Grace Church of Arvada | [Grace Creative Team Intern](https://gracechurchco.bamboohr.com/careers/71) | Arvada, Colorado, United States |  | 2026-11-04 |  |
+| Grace Church of Arvada | [Grace Creative Team Video Intern](https://gracechurchco.bamboohr.com/careers/68) | Arvada, Colorado, United States |  | 2026-11-04 |  |
+| Palantir Technologies | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5) | Washington, D.C. | $8,500/month | 2026-11-04 | clearance |
+| Moonsail North | [Graphic Design Intern](https://moonsailnorth.bamboohr.com/careers/32) | Lansing, Michigan, United States |  | 2026-11-04 |  |
+| CASE Agency | [Intern, Graphic / Packaging Design](https://job-boards.greenhouse.io/caseagency/jobs/4025148007) | New York, New York, United States | $16 to $17/hour | 2026-11-04 |  |
+| PRISM Bags | [Graphic Design Intern](https://jobs.smartrecruiters.com/PRISMBags/743999835211846-graphic-design-intern) | Los Angeles, CA, us | $15/hour | 2026-11-04 |  |
+| Palantir Technologies | [Product Designer, Internship](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) | New York, NY | $8,500/month | 2026-11-04 |  |
+| CulinaryLocal | [Graphic Designer/Multimedia Designer UNPAID INTERNSHIP](https://jobs.smartrecruiters.com/CulinaryLocal/743999678929380-graphic-designer-multimedia-designer-unpaid-internship) | Atlanta, GA, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Graphic Designer Volunteer/Intern](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/743999658214477-graphic-designer-volunteer-intern) | Chicago, IL, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Graphic Design Volunteer/ Intern](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/102511142--graphic-design-volunteer-intern) | Chicago, IL, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Graphic Design/Creative Volunteer/Intern](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/91376102-graphic-design-creative-volunteer-intern) | Chicago, IL, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Graphic Designer Volunteer/Intern](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/91376083-graphic-designer-volunteer-intern) | Chicago, IL, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/91376045-motion-3d-after-effects-graphic-design-specialist-intern-volunteer) | Chicago, IL, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Graphic Designer Volunteer/Intern](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/91375988-graphic-designer-volunteer-intern) | Chicago, IL, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Digital Photographer Volunteer/Intern for 100 Women in S.T.E.M. Program](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/89097921-digital-photographer-volunteer-intern-for-100-women-in-s-t-e-m-program) | New York, NY, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Digital Photographer Volunteer/Intern for 100 Women in S.T.E.M. Program](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/85571504-digital-photographer-volunteer-intern-for-100-women-in-s-t-e-m-program) | Houston, TX, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Digital Photographer Intern/Volunteer](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83336090-digital-photographer-internship) | Chicago, IL, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Digital Photographer Volunteer/Intern for 100 Women in S.T.E.M. Program](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83079453-digital-photographer-volunteer-intern-for-100-women-in-s-t-e-m-program) | Miami, FL, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Digital Photographer Volunteer/Intern for 100 Women in S.T.E.M. Program](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83075874-digital-photographer-volunteer-intern-for-100-women-in-s-t-e-m-program) | Atlanta, GA, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Digital Photographer Volunteer/Intern for 100 Women in S.T.E.M. Program](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83075628-digital-photographer-volunteer-intern-for-100-women-in-s-t-e-m-program) | San Diego, CA, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Digital Photographer Volunteer/Intern for 100 Women in S.T.E.M. Program](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83075464-digital-photographer-volunteer-intern-for-100-women-in-s-t-e-m-program) | Washington, DC, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Digital Photographer Volunteer/Intern for 100 Women in S.T.E.M. Program](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83075366-digital-photographer-volunteer-intern-for-100-women-in-s-t-e-m-program) | Los Angeles, CA, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Digital Photographer Volunteer/Intern for 100 Women in S.T.E.M. Program](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83075077-digital-photographer-volunteer-intern-for-100-women-in-s-t-e-m-program) | Chicago, IL, us |  | 2026-11-04 |  |
+| The Aparecio Foundation, NFP | [Digital Photographer Internship (Unpaid)](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/80703850-digital-photographer-internship-unpaid-) | Chicago, IL, us |  | 2026-11-04 |  |
 | TikTok | [Product Designer Project Intern (TikTok-Design-UX) - 2026 Start - Project Intern (TikTok Design) - 2027 Start](https://lifeattiktok.com/search/7533145462880127240) | San Jose, California, United States of America |  | 2026-11-04 |  |
+| Trilon Group | [Graphic Design Intern](https://trilongroup.pinpointhq.com/en/postings/27869bf8-ee2c-4283-a2a6-eaeee72d1f13) | Charlotte, North Carolina |  | 2026-11-04 |  |
+| Trilon Group | [Internship - Landscape Designer](https://trilongroup.pinpointhq.com/en/postings/32345bfb-fa0d-4adb-9c3f-8ce7463eda0b) | Springfield, Massachusetts |  | 2026-11-04 | no visa sponsorship |
+| Trilon Group | [Internship - Landscape Designer](https://trilongroup.pinpointhq.com/en/postings/6f378edf-6e74-4f8d-86c2-89d5f775519d) | Providence, Rhode Island |  | 2026-11-04 | no visa sponsorship |
 | Thomson Reuters | [Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Reuters-News-Internship-Program--Temp-Guild----New-York_JREQ204985) | United States of America, New York, New York | $23 to $24/hour | 2026-11-02 |  |
 | Dell | [Industrial Design Intern - Enterprise (ISG)](https://jobs.dell.com/en/sites/CX_1/job/302049) | Round Rock, TX, United States | $29.60 to $31.80/hour | 2026-11-02 |  |
 | The New York Times | [Creative Development Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005) | New York, NY | $20/hour | 2026-11-02 |  |
