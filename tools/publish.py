@@ -338,9 +338,21 @@ def release(out, keep=7):
     notes = (f"{meta['postings']:,} US postings from {meta['companies']:,} companies, {meta['new_today']:,} first seen on {meta['date']}.\n\n"
              "Assets: `jobs.jsonl.gz` (one posting per line with parsed facts), `excerpts.bin` + `excerpts.dict` (eligibility excerpts, "
              "fetched per posting by byte range), `meta.json` (counts and board status). Field list: skills/find-jobs/references/data.md.")
-    if gh("release", "view", tag, check=False).returncode == 0:  # a rerun on the same day replaces that day's release
-        gh("release", "delete", tag, "--yes", "--cleanup-tag")
-        time.sleep(3)
+    existing = gh("release", "view", tag, "--json", "isDraft", check=False)
+    if existing.returncode == 0:
+        if json.loads(existing.stdout or "{}").get("isDraft"):  # a failed earlier run's draft: nobody could use it
+            gh("release", "delete", tag, "--yes", "--cleanup-tag")
+            time.sleep(3)
+        else:
+            # A rerun on the same day gets a tag of its own: whoever updated from the earlier release keeps an index whose
+            # excerpt offsets still match that release's excerpts.bin.
+            n = 2
+            while gh("release", "view", f"{tag}-{n}", check=False).returncode == 0:
+                n += 1
+            tag = f"{tag}-{n}"
+            meta["tag"] = tag
+            with open(os.path.join(out, "meta.json"), "w") as f:
+                json.dump(meta, f, separators=(",", ":"))
     gh("release", "create", tag, "--title", f"Jobs {meta['date']}", "--notes", notes, "--draft", "--target", "main")
     for a in assets:
         for attempt in range(6):
