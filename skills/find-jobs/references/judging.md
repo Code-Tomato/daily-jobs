@@ -80,3 +80,17 @@ Recording `no` verdicts matters: `search --unjudged` hides every judged posting,
 Near-duplicates: when a company posts the same role many times (one per team or city), read one or two, then give the
 rest the same verdict with the same why. Don't let one company fill the strong tier with copies; say "and N similar
 postings" in your summary instead.
+
+## Nursing and other licensed health roles
+
+- **License timing.** A new nurse takes the NCLEX after graduating. "RN license required at start" is met if the start
+  date leaves time for it (residency cohorts usually do); "active RN license required" at application is not met yet.
+  Same pattern for pharmacists, therapists and other licensed roles.
+- **Residencies and cohorts.** New-grad RN jobs are mostly residency programs with cohorts (Spring, Summer, Fall) and
+  graduation windows ("graduating between Dec 2026 and May 2027"). Match the cohort to their graduation and NCLEX date;
+  a closed application window is `no` even if the posting is still listed.
+- **Experience templates.** Health systems post hundreds of near-identical roles. Find the template sentence once
+  ("12 months of recent RN experience required", "new graduates welcome", "not for new graduates") and use
+  `search ... --text "<that sentence>"` to tier every sibling at once; spot-check a few.
+- **Technician experience.** PCT, CNA or student-nurse work counts as health care experience, not as RN experience: a
+  posting that asks for "1 year of RN experience" is not met by it, while "experience preferred" is a gap, not a no.

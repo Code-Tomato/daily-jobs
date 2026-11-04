@@ -6,7 +6,9 @@ Usage: python3 jobs.py <command> [options]          (Python 3.9+, standard libra
   update [--force]          download the newest dataset (~12 MB) when there is one
   status                    dataset date and counts, cache folder, workspace files
   search [filters]          postings that pass every filter, newest first (filters below; --count for the funnel)
-  show ID [ID ...]          each posting's facts and its eligibility excerpt (~1,800 chars; fetched once over the network, then cached)
+  show ID [ID ...] [--full] each posting's facts and its eligibility excerpt (~1,800 chars; fetched once over the network, then
+                            cached); --full prints the whole posting, fetched live from its job board
+  update --with-excerpts    also download every excerpt at once (a few hundred MB), before reading hundreds of postings
   check ID [ID ...] | --ids FILE   is each posting still open? (asks its job board's API, or loads its page)
   verdict ID --tier T --why TEXT [--gaps TEXT] [--score 0-100]   record your judgment (tier: strong, good, stretch, no)
   verdict --file FILE       record many: one JSON object per line {"id", "tier", "why", "gaps", "score"}
@@ -30,6 +32,7 @@ Search filters (all optional, combined with AND; REGEX is case-insensitive; repe
   --needs-sponsorship (drop no-sponsorship and citizens-only postings)   --no-citizen-only   --no-clearance
   --min-pay N (yearly; hourly x 2,080; a range passes when its top reaches N; postings without pay pass unless --has-pay)   --since DATE|Nd (first seen)   --posted-since DATE|Nd
   --unjudged (not in your verdicts)   --ids FILE (one id per line)
+  --text REGEX / --not-text REGEX (on each posting's excerpt, after the other filters: "new grad(uate)?s? (are )?(welcome|eligible)")
   --graded / --ungraded, --min-fit F (0-3), --min-eligible E (0-1): Jev grades from `jobs.py jev grade`
 Output: --limit N (default 60) | --all, --sort seen|posted|company|pay|rank (Jev fit x eligible), --json (full rows), --ids-only, --count (funnel and breakdowns)
 
@@ -71,7 +74,7 @@ def flag(args, name):
     return name in args
 
 
-BOOL_FLAGS = {"--help", "-h", "--include-expired", "--force", "--count", "--json", "--ids-only", "--all", "--remote", "--or-remote", "--strict-term", "--needs-sponsorship",
+BOOL_FLAGS = {"--help", "-h", "--include-expired", "--full", "--with-excerpts", "--force", "--count", "--json", "--ids-only", "--all", "--remote", "--or-remote", "--strict-term", "--needs-sponsorship",
               "--no-citizen-only", "--no-clearance", "--has-pay", "--unjudged", "--open", "--keep-non-us", "--graded", "--ungraded",
               "--check", "--yes"}
 
@@ -87,6 +90,21 @@ def positional(args):
         else:
             out.append(a)
     return out
+
+
+SEARCH_FLAGS = {"--title", "--not-title", "--company", "--not-company", "--category", "--location", "--state", "--level", "--family",
+                "--or-title", "--max-years", "--degree", "--term", "--min-pay", "--since", "--posted-since", "--ids", "--min-fit",
+                "--min-eligible", "--workspace", "--or-remote", "--remote", "--strict-term", "--needs-sponsorship", "--no-citizen-only",
+                "--no-clearance", "--has-pay", "--include-expired", "--unjudged", "--graded", "--ungraded", "--limit", "--all", "--sort",
+                "--json", "--ids-only", "--count", "--text", "--not-text"}
+JEV_FLAGS = {"--resume", "--max-cost", "--max-total", "--workers", "--model", "--price-per-mtok", "--yes", "--check", "--help", "-h"}
+
+
+def check_flags(args, known):
+    """A mistyped filter must not silently widen a search: fail on any option the command doesn't know."""
+    bad = [a for a in args if a.startswith("--") and a not in known]
+    if bad:
+        raise Fail(f"Unknown option {', '.join(bad)}. See: python3 jobs.py --help")
 
 
 def workspace(args):
@@ -147,8 +165,12 @@ def update(args):
         raise Fail(f"could not reach the dataset at github.com/{REPO} ({e}). Check the connection and try again.")
     have = meta()
     files = ("jobs.jsonl.gz", "excerpts.dict")
+    whole = os.path.join(CACHE, f"excerpts-{latest['tag']}.bin")
     if have and have.get("tag") == latest["tag"] and all(os.path.exists(os.path.join(CACHE, f)) for f in files) and not flag(args, "--force"):
         print(f"Up to date: {latest['postings']:,} postings from {latest['companies']:,} companies, {latest['date']}.")
+        if flag(args, "--with-excerpts") and not os.path.exists(whole):
+            _download(f"https://github.com/{REPO}/releases/download/{latest['tag']}/excerpts.bin", whole, "excerpts.bin")
+            print("Every excerpt is on this machine now; show reads them without the network.")
         return
     base = f"https://github.com/{REPO}/releases/download/{latest['tag']}"
     for name in files:
@@ -159,6 +181,8 @@ def update(args):
     for n in os.listdir(CACHE):  # excerpts fetched for an older release no longer match its offsets
         if n.startswith("excerpts-") and latest["tag"] not in n:
             os.remove(os.path.join(CACHE, n))
+    if flag(args, "--with-excerpts"):
+        _download(f"{base}/excerpts.bin", whole, "excerpts.bin")
     new = f", {latest['new_today']:,} first seen that day" if latest.get("new_today") else ""
     print(f"Updated to {latest['date']}: {latest['postings']:,} postings from {latest['companies']:,} companies{new}.")
 
@@ -212,12 +236,15 @@ def rows(pre=(), seen=None, funnel=None):
     yield from local.values()
 
 
-def get_rows(ids):
+def get_rows(ids, partial=False):
+    """The rows for ids, in order. A missing id fails, unless partial: then (rows, missing ids)."""
     want = set(ids)
     found = {r["id"]: r for r in rows() if r["id"] in want}
     missing = [i for i in ids if i not in found]
+    if partial:
+        return [found[i] for i in ids if i in found], missing
     if missing:
-        raise Fail("Not in the dataset (closed, or a typo?): " + ", ".join(missing[:10]))
+        raise Fail("Not in the dataset (closed, or a typo?): " + ", ".join(missing[:10]) + (f" and {len(missing) - 10} more" if len(missing) > 10 else ""))
     return [found[i] for i in ids]
 
 
@@ -561,6 +588,7 @@ def line(r, v=None, s=None, g=None):
 
 
 def search(args):
+    check_flags(args, SEARCH_FLAGS)
     ws = workspace(args)
     filters = build_filters(args, ws)
     funnel, out, seen = Counter(), [], [0]
@@ -577,10 +605,21 @@ def search(args):
             funnel[name] += 1
         if ok:
             out.append(r)
+    text_rx, not_text_rx = _rx(opts(args, "--text"), "--text"), _rx(opts(args, "--not-text"), "--not-text")
+    if text_rx or not_text_rx:  # last, on the few rows left: each needs its excerpt
+        if len(out) > 5000 and not os.path.exists(os.path.join(CACHE, f"excerpts-{need_data()['tag']}.bin")):
+            raise Fail(f"--text would fetch {len(out):,} excerpts; narrow the search first, or run `update --with-excerpts` once.")
+        ex = excerpts(out, progress=lambda m: print(m, file=sys.stderr, flush=True))
+        if text_rx:
+            out = [r for r in out if text_rx.search(ex.get(r["id"], ""))]
+            funnel["text"] = len(out)
+        if not_text_rx:
+            out = [r for r in out if not not_text_rx.search(ex.get(r["id"], ""))]
+            funnel["not-text"] = len(out)
     total = seen[0] + sum(1 for _ in local_rows())
     if flag(args, "--count"):
         print(f"{total:,} postings")
-        for name, _ in filters:
+        for name in [n for n, _ in filters] + [n for n in ("text", "not-text") if n in funnel]:
             print(f"  after --{name}: {funnel[name]:,}")
         for key, label in (("company", "companies"), ("family", "fields"), ("level", "levels"), ("states", "states")):
             c = Counter()
@@ -620,6 +659,11 @@ def show(args):
     if not ids:
         raise Fail("show takes posting ids (from search)")
     rs = get_rows(ids)
+    if flag(args, "--full"):  # the whole posting, live: when the excerpt leaves a requirement unclear
+        for r in rs:
+            text, src = full_text(r)
+            print(f"=== {r['id']}\n{r['company']}: {r['title']}\n{r.get('url')}\n--- full text (from {src})\n{text or '(none)'}\n")
+        return
     ex = excerpts(rs)
     gs = current_grades(workspace(args))
     if flag(args, "--json"):
@@ -734,6 +778,80 @@ def live_status(r, cache=None):
     return "open?", "page loads with no closed notice (pages built by scripts can't always tell)"
 
 
+def _text(h):
+    """Readable text from posting HTML: block tags become line breaks, the rest is stripped."""
+    h = re.sub(r"(?is)<(script|style)[^>]*>.*?</\1>", " ", h or "")
+    h = re.sub(r"(?i)<br\s*/?>|</(p|div|li|h[1-6]|tr|ul|ol)>", "\n", h)
+    h = re.sub(r"(?i)<li[^>]*>", "\n- ", h)
+    t = html.unescape(re.sub(r"<[^>]+>", " ", h))
+    t = re.sub(r"[ \t\u00a0]+", " ", t)
+    return re.sub(r"\n\s*\n+", "\n", "\n".join(l.strip() for l in t.splitlines())).strip()
+
+
+def full_text(r):
+    """(the posting's whole text, where it came from) from its job board's API, else from its page; ("", reason) if neither."""
+    url, a = r.get("url") or "", r.get("ats")
+    u = urllib.parse.urlsplit(url)
+    parts = [p for p in u.path.split("/") if p]
+    host = (u.hostname or "").lower()
+    jid = r["id"].split(":", 1)[1]
+    J = {"Accept": "application/json"}
+    try:
+        if a == "workday" and host.endswith("myworkdayjobs.com") and "job" in parts:
+            if re.fullmatch(r"[a-z]{2}-[A-Z]{2}", parts[0]):
+                parts = parts[1:]
+            code, _, body = _status_code(f"https://{host}/wday/cxs/{host.split('.')[0]}/{'/'.join(parts)}", {**J, "Content-Type": "application/json"})
+            if code == 200:
+                return _text((json.loads(body).get("jobPostingInfo") or {}).get("jobDescription")), "Workday API"
+        if a == "greenhouse":
+            slug = parts[0] if host in ("boards.greenhouse.io", "job-boards.greenhouse.io") and parts else None
+            slug = slug or next((c.get("slug") for c in _all_cfgs() if c["company"] == r["company"] and c["ats"] == "greenhouse"), None)
+            if slug:
+                code, _, body = _status_code(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs/{jid}", J)
+                if code == 200:
+                    return _text(html.unescape(json.loads(body).get("content") or "")), "Greenhouse API"
+        if a == "lever" and host.endswith("lever.co") and len(parts) >= 2:
+            api = "https://api.eu.lever.co" if ".eu." in host else "https://api.lever.co"
+            code, _, body = _status_code(f"{api}/v0/postings/{parts[0]}/{parts[1]}", J)
+            if code == 200:
+                d = json.loads(body)
+                lists = "\n".join(f"{l.get('text')}\n{_text(l.get('content'))}" for l in d.get("lists") or [])
+                return "\n".join(filter(None, [d.get("descriptionPlain"), lists, d.get("additionalPlain")])), "Lever API"
+        if a == "ashby" and host == "jobs.ashbyhq.com" and len(parts) >= 2:
+            q = ("query ApiJobPosting($organizationHostedJobsPageName: String!, $jobPostingId: String!) { jobPosting("
+                 "organizationHostedJobsPageName: $organizationHostedJobsPageName, jobPostingId: $jobPostingId) { id descriptionHtml } }")
+            body = json.dumps({"operationName": "ApiJobPosting", "query": q,
+                               "variables": {"organizationHostedJobsPageName": parts[0], "jobPostingId": parts[1]}}).encode()
+            req = urllib.request.Request("https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobPosting", data=body,
+                                         headers={**BROWSER, "Content-Type": "application/json"})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                d = (json.loads(resp.read()).get("data") or {}).get("jobPosting")
+            if d:
+                return _text(d.get("descriptionHtml")), "Ashby API"
+        if a == "smartrecruiters" and host.endswith("smartrecruiters.com") and parts:
+            code, _, body = _status_code(f"https://api.smartrecruiters.com/v1/companies/{parts[0]}/postings/{jid}", J)
+            if code == 200:
+                sec = (json.loads(body).get("jobAd") or {}).get("sections") or {}
+                return "\n".join(f"{v.get('title') or k}\n{_text(v.get('text'))}" for k, v in sec.items() if isinstance(v, dict) and v.get("text")), "SmartRecruiters API"
+    except (ValueError, KeyError, TypeError, OSError, http.client.HTTPException):
+        pass
+    if not url:
+        return "", "no link"
+    code, _, body = _status_code(url, limit=2_000_000)
+    if code != 200:
+        return "", f"page {code or 'unreachable'}"
+    for m in re.finditer(r'(?is)<script[^>]*application/ld\+json[^>]*>(.*?)</script>', body):  # most career sites embed a JobPosting
+        try:
+            d = json.loads(m.group(1).strip())
+        except ValueError:
+            continue
+        for x in d if isinstance(d, list) else d.get("@graph", [d]) if isinstance(d, dict) else []:
+            if isinstance(x, dict) and x.get("@type") == "JobPosting" and x.get("description"):
+                return _text(x["description"]), "the page's JobPosting data"
+    t = _text(body)
+    return (t[:15000], "the page's text (may include menus)") if len(t) > 300 else ("", "the page has no readable text (built by scripts)")
+
+
 def _all_cfgs():
     global _CFGS
     try:
@@ -802,10 +920,14 @@ def verdict(args):
                 v["score"] = max(0, min(100, int(float(v["score"]))))
             except (TypeError, ValueError):
                 raise Fail(f"{v.get('id')}: score must be a number from 0 to 100")
-    try:
-        found = {r["id"]: r for r in get_rows([v["id"] for v in items])}
-    except Fail as e:
-        raise Fail(f"{e}. Nothing was recorded.")
+    got, missing = get_rows([v["id"] for v in items], partial=True)
+    found = {r["id"]: r for r in got}
+    if missing:  # record the rest; a posting that left the data (closed) or a typo shouldn't sink the whole file
+        print(f"Skipped {len(missing)} id(s) not in the dataset (closed, or a typo?): " + ", ".join(missing[:10])
+              + (" ..." if len(missing) > 10 else ""), file=sys.stderr)
+        items = [v for v in items if v["id"] in found]
+        if not items:
+            raise Fail("Nothing was recorded.")
     now = datetime.now().isoformat(timespec="seconds")
     with open(os.path.join(ws, "verdicts.jsonl"), "a") as f:
         for v in items:
@@ -1018,7 +1140,17 @@ def scrape(args):
     for c in cfgs:
         print(f"Fetching {c['company']} ({c['ats']}); big boards can take several minutes...", file=sys.stderr, flush=True)
         t = time.time()
-        batch = ats.FETCHERS[c["ats"]](c, set())
+        import threading
+        done = threading.Event()
+
+        def beat():  # an agent's shell shows nothing for minutes otherwise; say it's alive
+            while not done.wait(30):
+                print(f"  still fetching {c['company']}: {(time.time() - t) / 60:.1f} min", file=sys.stderr, flush=True)
+        threading.Thread(target=beat, daemon=True).start()
+        try:
+            batch = ats.FETCHERS[c["ats"]](c, set())
+        finally:
+            done.set()
         if c["ats"] not in ats.US_FILTERED and not flag(args, "--keep-non-us"):
             n = len(batch)
             batch = [r for r in batch if ats.is_us(r["location"])]
@@ -1041,6 +1173,8 @@ def scrape(args):
     os.makedirs(os.path.join(CACHE, "local"), exist_ok=True)
     name = re.sub(r"[^a-z0-9]+", "-", cfgs[0]["company"].lower()).strip("-") or "company"
     path = os.path.join(CACHE, "local", name + ".jsonl")
+    if not out and os.path.exists(path) and os.path.getsize(path):
+        raise Fail(f"The scrape returned no postings; kept the earlier scrape in {path}. Check the board config or try later.")
     with open(path, "w") as f:
         for r in out:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
@@ -1122,6 +1256,9 @@ Key, usage and rate limits: https://console.typesafe.ai  ·  prices: https://doc
 
 def _jev_selection(args, ws, cfg):
     """(rows to grade, hash, resume, rules, levels, model, filter args) for estimate/grade."""
+    check_flags(args, SEARCH_FLAGS | JEV_FLAGS)
+    if opt(args, "--text") or opt(args, "--not-text"):
+        raise Fail("--text works in search only. For Jev: search ... --text REGEX --ids-only --all > ids.txt, then jev grade --ids ids.txt")
     resume_path = opt(args, "--resume") or cfg.get("resume")
     if not resume_path:
         raise Fail("Pass --resume PATH (the person's resume file; the script reads it, you don't need to).")

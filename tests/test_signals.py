@@ -204,5 +204,22 @@ class Nov4Fixes(unittest.TestCase):
         self.assertTrue(s._is_heading("You may be a good fit if you:"))
 
 
+    def test_years_alternatives_and_months(self):
+        y = lambda d: s.years({"title": "x", "description": "Requirements\n" + d, "basic": ""})
+        self.assertEqual(y("BSN AND 12 months of recent nursing experience, OR ADN with 2 years of recent nursing experience."), 1)
+        self.assertEqual(y("Bachelor's + 1 year of experience OR high school diploma + 4 years of experience"), 1)
+        self.assertEqual(y("3 or more years of experience in Python"), 3)
+        self.assertEqual(y("High school diploma and 8 years of experience, or Bachelor's degree and 4 years of experience"), 4)
+
+    def test_named_state_beats_city_list(self):
+        self.assertEqual(s.states("Columbus, GA"), ["GA"])
+        self.assertEqual(s.states("Portland, ME"), ["ME"])
+        self.assertEqual(s.states("Seattle"), ["WA"])
+
+    def test_nurse_residency_is_new_grad(self):
+        self.assertEqual(s.level({"title": "RN Residency Spring 2027", "description": ""}, None), "new-grad")
+        self.assertEqual(s.level({"title": "Nursing Residency Program Coordinator", "description": ""}, None), "")
+
+
 if __name__ == "__main__":
     unittest.main()

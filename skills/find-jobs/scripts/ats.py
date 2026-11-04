@@ -117,13 +117,32 @@ def row(cfg, ats, jid, title, location, category, posted, url, description, basi
             "url": url or "", "description": description or "", "basic": basic or "", "preferred": preferred or ""}
 
 def detail_map(cfg, known, items, key, fn, workers=8):
-    """Fetch per-job detail in parallel, skipping ids already in `known` (daily runs)."""
+    """Fetch per-job detail in parallel, skipping ids already in `known` (daily runs). One posting that closed between the
+    list and its detail call (404/410) or whose detail is malformed is skipped, not fatal to the board; if more than half
+    fail that way the board fails, so a broken adapter still shows up."""
     todo = [i for i in items if f"{cfg['company'].lower().replace(' ', '-')}:{key(i)}" not in known]
+    bad = []
+
+    def one(i):
+        try:
+            return fn(i)
+        except urllib.error.HTTPError as e:
+            if e.code not in (404, 410):
+                raise
+            bad.append(f"{key(i)}: HTTP {e.code}")
+        except (KeyError, ValueError, TypeError, IndexError, AttributeError) as e:
+            bad.append(f"{key(i)}: {type(e).__name__} {e}")
+        return None
     ex = ThreadPoolExecutor(workers)
     try:
-        return [r for r in ex.map(fn, todo) if r]
+        out = [r for r in ex.map(one, todo) if r]
     finally:
         ex.shutdown(wait=False, cancel_futures=True)  # a budget timeout must not wait on thousands of queued detail calls
+    if bad:
+        print(f"{cfg['company']}: skipped {len(bad)} posting(s): {'; '.join(bad[:3])}", file=sys.stderr)
+        if len(bad) > 5 and len(bad) > len(todo) / 2:
+            raise RuntimeError(f"{len(bad)} of {len(todo)} detail calls failed, e.g. {bad[0]}")
+    return out
 
 # --- adapters -------------------------------------------------------------
 

@@ -45,13 +45,13 @@ are in its docstring (`python3 -c "import ats; help(ats.FETCHERS['workday'])"` f
 | ashby | api.ashbyhq.com posting API | `slug` (jobs.ashbyhq.com/<slug>) |
 | smartrecruiters | api.smartrecruiters.com | `slug`, optional `country: "us"` |
 | workable, rippling | public widget / board APIs | `slug` |
-| workday | <tenant>.wd<N>.myworkdayjobs.com/wday/cxs | `host`, `tenant`, `site`, optional `facets` (US filter), `prefilter_us` |
+| workday | <tenant>.wd<N>.myworkdayjobs.com/wday/cxs | `host`, `tenant`, `site`, optional `facets` (US filter), `prefilter_us`, `searchText` (the board's own keyword search) |
 | oraclehcm | Oracle Recruiting Cloud REST | `host`, `site`, `us_filter` |
 | avature | Avature career portals | `host`, `list_path`, ... |
 | successfactors | SAP SuccessFactors RMK sitemaps and job pages | `host`, ... |
 | taleo | Taleo career sections | `host`, `section`, ... |
 | icims, jibe, radancy | iCIMS portals, Jibe and Radancy career sites | `host`, `country` / `facet` |
-| eightfold, eightfold_pcsx, phenom, gem | Eightfold (old and PCSX APIs), Phenom, Gem | `host`, `domain`, `country`, `slug` |
+| eightfold, eightfold_pcsx, phenom, gem | Eightfold (old and PCSX APIs), Phenom, Gem | `host`, `domain`, `country`, `slug`; Phenom also `keywords` |
 | apple, google, atlassian, bytedance, goldman, optiver, swri | those companies' own sites | mostly none |
 | ukg, dayforce, paylocity, paycor, adp | HR-suite job boards | `board`, `namespace`, `guid`, ... |
 | jobvite, comeet, bamboohr, recruitee, teamtailor, breezy, pinpoint | small-company ATSs | `slug` / `feed` |
@@ -77,3 +77,12 @@ Amazon is not in the dataset because amazon.jobs' terms forbid automated extract
 The scrapers identify as a normal browser, pace the systems known to rate-limit (Workday, Eightfold), and only read
 public job listings. Scrape single companies on request, not the whole list in a loop: the daily dataset already does
 that once a day for everyone.
+
+## Big boards: scrape only what the person needs
+
+A hospital system or a big employer can list 5,000 to 15,000 postings, and a full scrape makes one request per posting
+(10 to 30 minutes). When the person wants one kind of role there, pass the board's own keyword search in the config:
+`"searchText": "registered nurse"` for Workday, `"keywords": "registered nurse"` for Phenom. The scrape then takes a few
+minutes. A posting that closed between the list and its detail page is skipped, not fatal. One employer can run several
+portals (Emory has clinical-emory and nursing-emory on iCIMS) that list the same postings under the same numbers: scrape
+the one that has the roles, or expect duplicates.

@@ -75,7 +75,8 @@ def eightfold_pcsx(cfg, known=()):
     return detail_map(cfg, known, list(items.values()), lambda p: p["id"], one, workers=2)
 
 def phenom(cfg, known=()):
-    """cfg: host (careers.cisco.com), country (exact facet value, e.g. "United States of America"), optional site_path (default global/en)."""
+    """cfg: host (careers.cisco.com), country (exact facet value, e.g. "United States of America"), optional site_path (default global/en),
+    optional keywords (the board's own search, e.g. "registered nurse": a 10,000-posting health system in minutes, not an hour)."""
     url, site = f"https://{cfg['host']}/widgets", cfg.get("site_path", "global/en")
     h = {**CHROME, "Origin": f"https://{cfg['host']}", "Referer": f"https://{cfg['host']}/{site}/search-results"}
     common = {"lang": "en_us", "deviceType": "desktop", "country": "us", "siteType": "external"}
@@ -83,7 +84,7 @@ def phenom(cfg, known=()):
     while True:
         d = get(url, {**common, "pageName": "search-results", "ddoKey": "refineSearch", "sortBy": "", "subsearch": "", "from": frm, "jobs": True, "counts": True,
                       "all_fields": ["category", "country", "state", "city"], "size": 1000, "clearAll": False, "jdsource": "facets", "isSliderEnable": False,
-                      "pageId": "page12", "keywords": "", "global": True, "selected_fields": {"country": [cfg["country"]]}, "locationData": {}}, headers=h)["refineSearch"]
+                      "pageId": "page12", "keywords": cfg.get("keywords", ""), "global": True, "selected_fields": {"country": [cfg["country"]]}, "locationData": {}}, headers=h)["refineSearch"]
         jobs = d.get("data", {}).get("jobs", [])
         items += jobs; frm += len(jobs)
         if frm >= d.get("totalHits", 0) or not jobs:

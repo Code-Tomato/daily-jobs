@@ -102,6 +102,22 @@ def _build_dict(db, ids, size=32768):
     return out
 
 
+def _two_years_back(posted, seen, today):
+    """True when posted is about two years before the day it was first seen or before today: the fake date some iCIMS
+    portals give every posting (the day they are fetched, minus two years)."""
+    try:
+        p = date.fromisoformat(posted[:10])
+    except ValueError:
+        return False
+    for ref in (seen, today):
+        try:
+            if 725 <= (date.fromisoformat((ref or "")[:10]) - p).days <= 737:
+                return True
+        except ValueError:
+            pass
+    return False
+
+
 def export(store, out, workers=4):
     """Parse the store into out/. Returns the meta dict."""
     os.makedirs(out, exist_ok=True)
@@ -173,8 +189,11 @@ def export(store, out, workers=4):
                 blob = co.compress(excerpt.encode()) + co.flush()
                 exf.write(blob)
                 cat = r.get("category")
+                posted = r.get("posted") or ""
+                if posted and _two_years_back(posted, r.get("seen"), today):
+                    posted = ""  # an iCIMS portal stamps "fetched minus two years"; the adapter drops it, older rows still carry it
                 row = {"id": r["id"], "company": r["company"], "title": r["title"], "location": r.get("location") or "",
-                       "url": r.get("url") or "", "posted": r.get("posted") or "", "seen": r.get("seen") or "", "ats": r.get("ats") or "",
+                       "url": r.get("url") or "", "posted": posted, "seen": r.get("seen") or "", "ats": r.get("ats") or "",
                        "category": cat if isinstance(cat, str) else ", ".join(map(str, cat or [])),
                        **{k: v for k, v in facts.items() if v not in (None, False, "", [])},
                        "x": [offset, len(blob)]}

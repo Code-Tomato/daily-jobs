@@ -130,7 +130,8 @@ Follow [references/judging.md](references/judging.md). In short:
    senior). Record those as `no` with a short why, so they never come back (see the file format below).
 2. **Read the rest.** `python3 jobs.py show ID ID ...` prints each posting's facts and an eligibility excerpt (~1,800
    characters: qualifications, degree, years, class standing, graduation window, authorization, place). Read 10–25 at a
-   time. Open the posting URL only when the excerpt leaves a hard requirement unclear.
+   time. When the excerpt leaves a hard requirement unclear, `show --full ID` prints the whole posting, fetched live
+   from its job board (Workday, Greenhouse, Lever, Ashby, SmartRecruiters APIs, else the page).
 3. **Decide** each one: `strong` (meets every hard requirement and is the work they want), `good`, `stretch` (one gap
    they could plausibly bridge; name it), or `no`. Add a `score` (0–100) to rank postings within a tier. Parsed facts
    are heuristics; the excerpt overrides them. A missing flag proves nothing: a posting without `no-sponsorship` may
@@ -144,9 +145,10 @@ Follow [references/judging.md](references/judging.md). In short:
    python3 jobs.py verdict --file /tmp/verdicts-1.jsonl
    ```
 
-More than ~80 postings to read? If you can start subagents, split the ids into batches of 25–40 and give each subagent
-this skill's folder path, the profile path, its ids, `references/judging.md`, and its own output file; then load every
-file with `verdict --file`. Otherwise work through them in batches yourself and tell the person how far you got.
+More than ~80 postings to read? Run `jobs.py update --with-excerpts` once first (it downloads every excerpt, a few
+hundred MB, so `show` stops waiting on the network). If you can start subagents, split the ids into batches of 25–40
+and give each subagent this skill's folder path, the profile path, its ids, `references/judging.md`, and its own output
+file; then load every file with `verdict --file` (ids that left the data are skipped and listed). Otherwise work through them in batches yourself and tell the person how far you got.
 
 ## 5. Show the results
 

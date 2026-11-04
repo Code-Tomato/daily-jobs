@@ -1,5 +1,6 @@
 """iCIMS-backed boards: Jibe front-ends (careers.amd.com/api/jobs), Radancy front-ends (careers.arm.com) and classic iCIMS portals."""
 import json, re, sys, urllib.parse
+from datetime import date, datetime
 from ats import get, get_text, strip, row, detail_map
 
 CHROME = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
@@ -65,6 +66,18 @@ def radancy(cfg, known=()):
         return row(cfg, "radancy", jid(link), ld.get("title"), _ld_loc(ld), "", _iso(ld.get("datePosted")), url, strip(ld.get("description")))
     return detail_map(cfg, known, sorted(links), jid, one, workers=4)
 
+def _real_date(posted):
+    """Some iCIMS portals stamp every posting's JSON-LD datePosted as the day it is fetched minus two years (Celanese,
+    Joby, MaxLinear: 2024-11-04 on 2026-11-04). That date says nothing; keep it only when it isn't one of those."""
+    try:
+        d = datetime.fromisoformat(str(posted)[:10]).date()
+    except ValueError:
+        return posted
+    today = date.today()
+    fake = today.replace(year=today.year - 2) if not (today.month == 2 and today.day == 29) else today.replace(year=today.year - 2, day=28)
+    return "" if abs((d - fake).days) <= 3 else posted
+
+
 def icims(cfg, known=()):
     """cfg: host (careers-<co>.icims.com). Classic iCIMS portal HTML; list pages pr= are 0-based. fetch.py applies is_us."""
     h, paths, n = cfg["host"], {}, 0
@@ -79,7 +92,7 @@ def icims(cfg, known=()):
     def one(jid):
         url = f"https://{h}/jobs/{jid}/{paths[jid]}"; html = get_text(url + "?in_iframe=1", headers=CHROME); ld = _ld(html)
         if ld:
-            return row(cfg, "icims", jid, ld.get("title"), _ld_loc(ld), ld.get("occupationalCategory"), ld.get("datePosted"), url, strip(ld.get("description")))
+            return row(cfg, "icims", jid, ld.get("title"), _ld_loc(ld), ld.get("occupationalCategory"), _real_date(ld.get("datePosted")), url, strip(ld.get("description")))
         title = re.search(r"<h1[^>]*>(.*?)</h1>", html, re.S); loc = re.search(r"Job Locations</span>\s*<span[^>]*>\s*([^<]+)", html)
         posted = re.search(r"Posted Date</dt>\s*<dd[^>]*>\s*<span[^>]*>\s*([^<]+)", html); body = re.search(r'<div class="iCIMS_MainWrapper[^"]*">(.*)', html, re.S)
         return row(cfg, "icims", jid, strip(title[1]) if title else "", loc[1].strip() if loc else "", "", posted[1].strip() if posted else "", url,

@@ -74,7 +74,8 @@ NEW_GRAD = re.compile(r"\b(?:new[- ]?grad(?:uate)?s?|new college grad\w*|recent 
                       r"graduate (?:program|scheme|engineer|trainee|rotation\w*|development)|early[- ]?(?:career|talent|in[- ]career)|"
                       r"campus (?:hire|hiring)|class of 20\d\d|20\d\d (?:start|grad\w*)|(?:leadership |professional )?development program|"
                       r"rotational|rotation program|residency program|fellowship program|associate program|analyst program|"
-                      r"entry[- ]level program|university (?:hire|recruit\w*)|grad(?:uate)? hire|\bNCG\b|\bRCG\b)\b", re.I)
+                      r"entry[- ]level program|university (?:hire|recruit\w*)|grad(?:uate)? hire|\bNCG\b|\bRCG\b|"
+                      r"(?:nurse|nursing|rn|pharmacy|pharmacist|clinical) residency|graduate nurse|\bGN\b|nurse (?:fellowship|extern))\b", re.I)
 _MANAGER = re.compile(r"\b(?:director|head of|vp|svp|evp|avp|vice president|chief|cxo|cto|cfo|ceo|coo|president|supervisor|superintendent|"
                       r"general manager|(?:engineering|software|hardware|people|team|program management|development|store|branch|"
                       r"department|area|regional|district|plant|site|office|operations|practice|delivery|unit|nurse) manager|"
@@ -105,29 +106,40 @@ _YEARS_NOT = re.compile(r"\b(?:we have|we'?ve|our|company|founded|history|since|
                         r"age|old|retire|vesting|warranty|guarantee|lease|complet\w*|finish\w*)\b", re.I)
 
 
-_BACHELOR = re.compile(r"bachelor|baccalaur|\bB\.?S\.?\b|\bB\.?A\.?\b|\bBSc\b|undergraduate degree|4[- ]year degree", re.I)
+_BACHELOR = re.compile(r"bachelor|baccalaur|\bB\.?S\.?\b|\bB\.?A\.?\b|\bBSc\b|\bBS(?:N|E|EE|ME|CS|CE)\b|undergraduate degree|4[- ]year degree", re.I)
 
 
 def _num(s):
     return int(s) if s.isdigit() else _NUMWORD[s.lower()]
 
 
+_ALT = re.compile(r"\s+or\s+(?=(?:an?\s+|with\s+(?:an?\s+)?)?(?:high school|h\.s\.|ged\b|associate|adn\b|master|m\.?s\.?\b|"
+                  r"ph\.?\s?d|doctor|bachelor|b\.?s\.?\b|b\.?a\.?\b|bsn\b|diploma|equivalent))", re.I)
+_MONTHS_EXP = re.compile(r"\b(\d{1,2})\s*\+?\s*months?\s+(?:of\s+)?(?:[\w-]+\s+){0,3}experience", re.I)
+
+
 def years(row):
     """Minimum years of experience the posting requires (the largest 'N+ years ... experience' among its required lines,
-    which for 'BS + 4 years or MS + 2 years' is the bachelor's bar), or None when it states none."""
+    which for 'BS + 4 years or MS + 2 years' is the bachelor's bar), or None when it states none. Each alternative of
+    "Bachelor's + 1 year OR high school + 4 years" carries its own degree; "12 months of experience" is a year."""
     req, _ = requirement_lines(row)
-    found = []  # (years, line names a bachelor's)
+    found = []  # (years, clause names a bachelor's)
     for line in req:
         low = line.lower()
-        if "year" not in low and "yr" not in low:
+        if "year" not in low and "yr" not in low and "month" not in low:
             continue
-        for m in _YEARS.finditer(line):
-            before = line[max(0, m.start() - 50):m.start()]
-            if _YEARS_NOT.search(before):
-                continue
-            lo = _num(m.group(1))
-            if lo <= 15:
-                found.append((lo, bool(_BACHELOR.search(line))))
+        for clause in _ALT.split(line):
+            bs = bool(_BACHELOR.search(clause))
+            for m in _YEARS.finditer(clause):
+                before = clause[max(0, m.start() - 50):m.start()]
+                if _YEARS_NOT.search(before):
+                    continue
+                lo = _num(m.group(1))
+                if lo <= 15:
+                    found.append((lo, bs))
+            for m in _MONTHS_EXP.finditer(clause):
+                if int(m.group(1)) >= 12 and not _YEARS_NOT.search(clause[max(0, m.start() - 50):m.start()]):
+                    found.append((int(m.group(1)) // 12, bs))
     if not found:
         return None
     with_bs = [y for y, bs in found if bs]  # "HS + 8 years, or BS + 4 years, or MS + 2": the bachelor's bar
@@ -509,9 +521,12 @@ def states(location):
         if name == "new york" and "NY" in found:
             continue
         add(_BY_NAME[name])
-    for st, rx in _CITY_RX.items():
-        if st not in found and rx.search(loc):
-            add(st)
+    for seg in re.split(r"[;|•\n]|\s/\s", loc):  # a city only fills in a place that names no state: "Columbus, GA" is not OH
+        if _CODE_RX.search(seg) or _NAME_RX.search(seg.lower()):
+            continue
+        for st, rx in _CITY_RX.items():
+            if st not in found and rx.search(seg):
+                add(st)
     return found
 
 
