@@ -374,3 +374,23 @@ class Filters(unittest.TestCase):
         self.assertEqual(keep(["--family", "education", "--or-title", "designer"]), ["a:2", "a:3"])  # a:1's deadline passed
         self.assertEqual(keep(["--family", "education", "--or-title", "designer", "--include-expired"]), ["a:1", "a:2", "a:3"])
         self.assertEqual(jobs.prefilter(["--family", "education", "--or-title", "designer"]), [])  # titles need parsing
+
+
+class JevScopes(JevGrading):
+    def test_6_scopes_add_up(self):
+        ws = os.path.join(self.tmp, "jev-ws4")
+        os.makedirs(ws, exist_ok=True)
+        shutil.copy(os.path.join(self.ws, "rubric.md"), ws)
+        common = ["--resume", self.resume, "--max-cost", "1", "--price-per-mtok", "0.042", "--workspace", ws]
+        code, out, err = self.run_cli("jev", "grade", "--title", "intern", *common)
+        self.assertIn("Graded 1 of 1", out, err)
+        code, out, err = self.run_cli("jev", "grade", "--title", "mechanical", *common)
+        self.assertIn("Graded 1 of 1", out, err)
+        cfg = json.load(open(os.path.join(ws, "jev.json")))
+        self.assertEqual(len(cfg["selections"]), 2)
+        n = len(self.calls)
+        code, out, _ = self.run_cli("jev", "grade", "--max-cost", "1", "--price-per-mtok", "0.042", "--workspace", ws)
+        self.assertIn("0 postings to grade (2 already graded", out)  # both scopes, nothing new
+        self.assertEqual(len(self.calls), n)
+        code, out, _ = self.run_cli("jev", "status", "--workspace", ws)
+        self.assertEqual(out.count("Saved scope:"), 2)

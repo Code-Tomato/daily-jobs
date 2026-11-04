@@ -21,7 +21,8 @@ Usage: python3 jobs.py <command> [options]          (Python 3.9+, standard libra
 
 Search filters (all optional, combined with AND; REGEX is case-insensitive; repeat a flag to OR its values):
   --title REGEX  --not-title REGEX  --company REGEX  --not-company REGEX  --category REGEX
-  --location REGEX  --state TX,CA  --remote  --or-remote (a remote posting passes the location filters)
+  --location REGEX  --state TX,CA  --place "Atlanta, GA|Charlotte, NC" (city and state together)  --remote
+  --or-remote (a remote posting passes the location filters); location, state and place are alternatives (OR)
   --level intern,new-grad,entry,mid,senior,manager,unknown     --family software,data,hardware,... (see `status`)
   --or-title REGEX (with --family: a title match also passes, for roles filed under another field)
   --include-expired (postings whose parsed application deadline has passed are hidden unless you pass this)
@@ -93,7 +94,7 @@ def positional(args):
 
 
 SEARCH_FLAGS = {"--title", "--not-title", "--company", "--not-company", "--category", "--location", "--state", "--level", "--family",
-                "--or-title", "--max-years", "--degree", "--term", "--min-pay", "--since", "--posted-since", "--ids", "--min-fit",
+                "--or-title", "--place", "--max-years", "--degree", "--term", "--min-pay", "--since", "--posted-since", "--ids", "--min-fit",
                 "--min-eligible", "--workspace", "--or-remote", "--remote", "--strict-term", "--needs-sponsorship", "--no-citizen-only",
                 "--no-clearance", "--has-pay", "--include-expired", "--unjudged", "--graded", "--ungraded", "--limit", "--all", "--sort",
                 "--json", "--ids-only", "--count", "--text", "--not-text"}
@@ -502,11 +503,21 @@ def build_filters(args, ws):
         f.append(("category", lambda r: category.search(r.get("category") or "")))
     if flag(args, "--remote"):
         f.append(("remote", lambda r: r.get("remote") == "remote"))
-    if location or st:
+    places = []  # --place "Atlanta, GA|Charlotte, NC": the city AND its state, so Atlanta, TX and Port Charlotte, FL don't count
+    for spec in opts(args, "--place"):
+        for alt in spec.split("|"):
+            m = re.match(r"\s*(.+?)\s*,\s*([A-Za-z]{2})\s*$", alt)
+            if not m:
+                raise Fail(f'--place takes "City, ST" (several joined with |), not {alt!r}')
+            places.append((re.compile(r"(?<![a-z])" + re.escape(m[1].lower()) + r"(?![a-z])"), m[2].upper()))
+    if location or st or places:
         def place(r):
             if or_remote and r.get("remote") == "remote":
                 return True
             if location and location.search(r.get("location") or ""):
+                return True
+            low = (r.get("location") or "").lower()
+            if any(code in (r.get("states") or ()) and city.search(low) for city, code in places):
                 return True
             return bool(st and st & set(r.get("states") or ()))
         f.append(("location", place))
@@ -1285,11 +1296,22 @@ JEV_HELP = """Grade postings against the person's resume with Jev (TypeSafe's Sy
                              grade every selected posting not graded yet under this resume + rubric. --max-cost caps this
                              run; --max-total caps the workspace's spend over all runs (use it for the person's budget).
                              Spend is recorded as it goes, so an interrupted run still counts. Rerunning continues where
-                             it stopped. Later runs reuse the saved resume and selection: `jev grade --max-cost 2`
+                             it stopped. Each run's filters are saved: a later `jev grade --max-cost 2` with no filters
+                             grades what's new in every scope graded before, with the saved resume
   jev spend                  what each run cost, and the total
 Filters are the search filters (--title, --level, --state...). --all selects the whole dataset. Results: search
 --sort rank, --min-fit 2, --min-eligible 0.5, --graded/--ungraded; show and board include Jev's grades.
 Key, usage and rate limits: https://console.typesafe.ai  ·  prices: https://docs.typesafe.ai/models.md"""
+
+
+def _with_scope(cfg, sel, **fields):
+    """The Jev config with this run's scope added to the saved ones (a run without filters adds none)."""
+    saved = cfg.get("selections") or ([cfg["selection"]] if cfg.get("selection") else [])
+    if sel and sel not in saved:
+        saved = saved + [sel]
+    out = {**cfg, **fields, "selections": saved}
+    out.pop("selection", None)
+    return out
 
 
 def _jev_selection(args, ws, cfg):
@@ -1312,14 +1334,15 @@ def _jev_selection(args, ws, cfg):
         while name in sel:
             i = sel.index(name)
             del sel[i:i + 2]
-    if not sel:
-        sel = cfg.get("selection") or []
-        if not sel:
-            raise Fail("Say what to grade: search filters (e.g. --level intern --family software), or --all for every posting.")
-    filters = [] if sel == ["--all"] else build_filters(sel, ws)
+    saved = cfg.get("selections") or ([cfg["selection"]] if cfg.get("selection") else [])
+    scopes = [sel] if sel else saved  # no filters: every scope graded before, so "next time" covers all of them
+    if not scopes:
+        raise Fail("Say what to grade: search filters (e.g. --level intern --family software), or --all for every posting.")
+    fsets = [[] if s == ["--all"] else build_filters(s, ws) for s in scopes]
     h = jev.input_hash(resume, rules, levels, model)
     done = jev.grades(ws, h)
-    todo = [r for r in rows(prefilter(args)) if r["id"] not in done and all(p(r) for _, p in filters)]
+    pre = prefilter(scopes[0]) if len(scopes) == 1 else []
+    todo = [r for r in rows(pre) if r["id"] not in done and any(all(p(r) for _, p in fs) for fs in fsets)]
     # Likeliest first, so a capped or interrupted run has spent its money on the right postings: titles that share words
     # with the rubric's top two fit levels, then newest.
     stop = {"role", "roles", "work", "with", "that", "their", "they", "them", "this", "from", "into", "about", "areas", "core",
@@ -1394,8 +1417,8 @@ def jev_cmd(args):
                 raise Fail(str(e))
         print(f"Rubric: {'present' if os.path.exists(os.path.join(ws, 'rubric.md')) else 'missing (jobs.py jev rubric)'}"
               f"; resume: {cfg.get('resume') or 'not chosen yet (--resume PATH)'}")
-        if cfg.get("selection"):
-            print("Saved selection: " + " ".join(cfg["selection"]))
+        for scope in cfg.get("selections") or ([cfg["selection"]] if cfg.get("selection") else []):
+            print("Saved scope: " + " ".join(scope))
         gs = current_grades(ws)
         print(f"Grades: {len(gs):,} current; spent ${jev.total_spent(ws):.3f} in this workspace. Usage and limits: {jev.CONSOLE}")
         runs = jev.spend(ws)
@@ -1432,7 +1455,7 @@ def jev_cmd(args):
             return
         if not todo:
             print("Nothing to grade.")
-            save_jev_config(ws, {**cfg, "resume": resume_path, "selection": sel, "model": model, "h": h})
+            save_jev_config(ws, _with_scope(cfg, sel, resume=resume_path, model=model, h=h))
             return
         if not opt(rest, "--max-cost") and not opt(rest, "--max-total"):
             raise Fail("Pass --max-cost USD (the most this run may spend) or --max-total USD (the most this workspace may have "
@@ -1443,14 +1466,15 @@ def jev_cmd(args):
         if opt(rest, "--max-total"):
             already = jev.total_spent(ws)
             caps.append(float(opt(rest, "--max-total")) - already)
-            print(f"Spent so far in this workspace: ${already:.4f}; this run may spend up to ${max(0, caps[-1]):.4f}.")
+            print(f"Spent so far in this workspace: ${already:.4f}.")
         cap = min(caps)
+        print(f"This run may spend up to ${max(0, cap):.4f}.")
         if cap <= 0:
             raise Fail("The --max-total budget is used up. Nothing was sent.")
         if not jev.api_key():
             raise Fail(f"No TypeSafe key. The person runs `python3 {os.path.abspath(__file__)} jev key` in their own terminal "
                        f"(or sets TYPESAFE_API_KEY). Keys: {jev.CONSOLE}/keys")
-        save_jev_config(ws, {**cfg, "resume": resume_path, "selection": sel, "model": model, "h": h})
+        save_jev_config(ws, _with_scope(cfg, sel, resume=resume_path, model=model, h=h))
         excerpt_for = _excerpt_source(todo)
         try:
             out = jev.run(todo, excerpt_for, resume, rules, levels, model, ws, cap, price, workers,

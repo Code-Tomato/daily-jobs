@@ -116,11 +116,13 @@ the dataset files or job lists yourself. You still read the resume to know the p
 5. **Results.** `jobs.py search --graded --min-eligible 0.5 --min-fit 2 --sort rank --limit 100` lists Jev's best, and
    `jobs.py board` adds a "Jev's top picks" section. Jev is good at fit and at gates like degree, years, citizenship
    and clearance, weaker at timing (terms, graduation windows, "return to school"): put the term in the scope
-   (`--term "summer 2027" --strict-term`) and check timing yourself. Jev reads each posting's excerpt, not the whole
+   (`--term "summer 2027" --strict-term`) and check timing yourself. For new grads and career changers its eligibility
+   runs low (a teacher's curriculum work against "2 years of instructional design"): review `--min-fit 2.5
+   --min-eligible 0.2` too, and decide those yourself. Jev reads each posting's excerpt, not the whole
    page; before you call one a strong match, `show` it and judge it as in section 4 (your verdicts move picks into the
    tiers), and `check` it (section 5).
-6. **Next time.** `update`, then `jobs.py jev grade --max-cost 2` (or their `--max-total`): it reuses the saved resume
-   and scope and grades only postings it hasn't seen. Editing the resume or rubric makes the old grades stale, so the next run regrades (check
+6. **Next time.** `update`, then `jobs.py jev grade --max-cost 2` (or their `--max-total`): with no filters it grades
+   only the new postings in every scope graded before, with the saved resume. Editing the resume or rubric makes the old grades stale, so the next run regrades (check
    `jev estimate` first). `jobs.py jev spend` lists what each run cost.
 
 Details, including exactly what is sent: [references/jev.md](references/jev.md).

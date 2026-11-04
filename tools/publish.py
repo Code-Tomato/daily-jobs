@@ -22,6 +22,15 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 sys.path.insert(0, os.path.join(REPO, "skills", "find-jobs", "scripts"))
 import signals  # noqa: E402
+import functools  # noqa: E402
+import ats  # noqa: E402  (the synced scrapers: the same US rules the scrape applied)
+
+
+@functools.lru_cache(maxsize=None)
+def _us_place(location, filtered):
+    """The scrapers' US rule, applied again at export so a rule fixed today also cleans rows stored before it: a board
+    filtered to the US at the source loses only clearly foreign places; others must pass is_us."""
+    return not ats.is_foreign(location) if filtered else ats.is_us(location)
 
 STATE = os.environ.get("DAILY_JOBS_STATE") or os.path.expanduser("~/.local/state/daily-jobs")
 DEFAULT_STORE = os.environ.get("JOBBOARD_STORE") or os.path.expanduser("~/projects/job-fit-board/postings")
@@ -80,7 +89,8 @@ def _rows(path):
                 r = json.loads(line)
             except ValueError:
                 continue
-            if r.get("id") and r.get("title") and r.get("ats") not in EXCLUDED_ATS:
+            if r.get("id") and r.get("title") and r.get("ats") not in EXCLUDED_ATS \
+                    and _us_place(r.get("location") or "", r.get("ats") in ats.US_FILTERED):
                 yield r
 
 

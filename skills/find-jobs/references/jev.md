@@ -16,14 +16,15 @@ One request per posting:
     "job": {"company": "...", "title": "...", "location": "...", "posted": "...", "team": "...", "excerpt": "<~1,800 characters>"}
   },
   "questions": {
-    "eligible": {"type": "noul", "instructions": {"question": "Would the candidate in `resume` satisfy every hard requirement of `job` ...", "rules": ["<rubric.md's eligibility bullets>"]}, "criteria": {"true": "...", "false": "..."}},
+    "eligible": {"type": "noul", "instructions": {"question": "Does the candidate in `resume` pass the hard gates `job` sets ...", "rules": ["<rubric.md's eligibility bullets>"]}, "criteria": {"true": "...", "false": "..."}},
     "fit": {"type": "score", "instructions": "How closely does the day-to-day work in `job` match ...", "criteria": ["<rubric.md's four fit levels>"]}
   }
 }
 ```
 
 - The resume is read from the file the person names: `.md` and `.txt` as they are, `.docx` from its text, `.pdf`
-  through `pdftotext` (poppler) when it's installed. Up to 40,000 characters. The agent never reads it.
+  through `pdftotext` (poppler) when it's installed. Up to 40,000 characters, sent as is: the agent reads the resume to
+  know the person, but never rewrites or summarizes it for Jev.
 - The excerpt is the same one `jobs.py show` prints: the lines of the posting about qualifications, degree, years,
   class standing, graduation window, authorization and place.
 - The answers kept per posting: `eligible` (0–1, the probability every hard requirement is met), `fit` (0–3 on the

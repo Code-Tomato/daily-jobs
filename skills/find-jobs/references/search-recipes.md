@@ -47,7 +47,10 @@ narrow a big result or to browse. `--category REGEX` matches the board's own dep
 ## Place
 
 - A state or several: `--state TX,CA` (parsed from the location; multi-city postings list every state they name).
-- Cities: `--location "austin|round rock|san marcos"`. Both together OR.
+- Cities: `--place "Atlanta, GA|Decatur, GA|Charlotte, NC"` needs the city and its state, so Atlanta, TX and Port
+  Charlotte, FL stay out. `--location "austin|round rock"` matches the text only (any state). `--state`, `--place` and
+  `--location` together are alternatives (OR). A metro area is several towns: list the suburbs the person would commute
+  to, or use `--state` and read the places.
 - Remote too: add `--or-remote`. Remote only: `--remote`.
 - Anywhere in the US: no place filter (the dataset is US-only).
 

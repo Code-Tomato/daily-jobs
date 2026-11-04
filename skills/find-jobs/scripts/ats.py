@@ -44,7 +44,27 @@ _US_SUFFIX = re.compile(r"(?<!" + _PROV + r", )(?<!" + _PROV + r" )(?:(?<=, )|(?
 # upper-case after a two-letter region that is no US state ("Vadodara, GJ, IN" is India, not Indiana), or a Canadian province ("CA - Woodbridge, ON").
 _CC_TAIL = re.compile(r",\s*[^,]+,\s*(?!us\b)[a-z]{2}\s*$|,\s*(?!(?:" + "|".join(sorted(_US_STATES)) + r")\b)[A-Z]{2},\s*(?!US\b)[A-Z]{2}\s*$|,\s*" + _PROV + r"\s*$"
                       # a lower-case country code after a single comma ("MX Remote Work, mx"), but not a lower-case state ("Austin, tx")
-                      r"|,\s*(?!(?:us|pr|" + "|".join(sorted(x.lower() for x in _US_STATES)) + r")\b)[a-z]{2}\s*$")
+                      r"|,\s*(?!(?:us|pr|" + "|".join(sorted(x.lower() for x in _US_STATES)) + r")\b)[a-z]{2}\s*$"
+                      # an upper-case country code alone after the last comma ("San Jose, CR" is Costa Rica, not California)
+                      r"|,\s*(?!(?:US|PR|GU|VI|AS|MP|DC|" + "|".join(sorted(_US_STATES)) + r")\b)[A-Z]{2}\s*$")
+
+def is_foreign(location):
+    """True only when the location names a foreign place and no US one ("MX Remote Work, mx", "Toronto, ON"). Unlike
+    is_us, an unknown place ("Main Campus - Orange") is not foreign: for boards already filtered to the US at the source."""
+    l = (location or "").lower().strip()
+    if not l or re.search(r"\b(us|usa|u\.s\.|united states|north america)\b", l) \
+            or _US_SUFFIX.search(re.sub(r"\s*,\s*", ", ", re.sub(r"\s+", " ", location.strip()))) or any(n in l for n in _US_NAMES):
+        return False
+    return bool(_COUNTRY.search(l) or re.search(r",\s*(?!(?:us|pr)\b)(?:mx|ca|in|gb|uk|br|cr|co|ar|ph|ie|de|fr|es|pl|nl|sg|jp|cn|kr|au|il|ro)\s*$", location or ""))
+
+
+# Country names only (not cities or provinces, which collide with US places: Dublin OH, Ontario CA, Ottawa IL)
+_COUNTRY = re.compile(r"\b(mexico|canada|india|united kingdom|england|scotland|ireland|germany|france|spain|italy|netherlands|belgium|"
+                      r"switzerland|austria|sweden|norway|denmark|finland|poland|hungary|czech|romania|portugal|brazil|argentina|chile|"
+                      r"colombia|peru|costa rica|philippines|singapore|japan|china|korea|taiwan|vietnam|thailand|malaysia|indonesia|"
+                      r"australia|new zealand|israel|united arab emirates|saudi arabia|egypt|nigeria|kenya|south africa|"
+                      r"ukraine|pakistan|bangladesh)\b")
+
 
 def is_us(location):
     """Cheap US check on a free-text location. An explicit US country/state wins; then a named foreign place loses ("Remote - Canada",
