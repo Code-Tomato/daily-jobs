@@ -489,8 +489,9 @@ def push():
 
 def leave_note(title, text, kind="info"):
     """Tell the maintainer, through the `note` command when the machine has one."""
-    if shutil.which("note"):
-        subprocess.run(["note", title, "-m", text[-1500:], "--kind", kind, "--from", "daily-jobs"], capture_output=True, timeout=60)
+    exe = shutil.which("note") or next((p for p in [os.path.expanduser("~/.local/bin/note")] if os.access(p, os.X_OK)), None)
+    if exe:  # a systemd user service's PATH lacks ~/.local/bin, so the 2026-11-05 failure note was never sent
+        subprocess.run([exe, title, "-m", text[-1500:], "--kind", kind, "--from", "daily-jobs"], capture_output=True, timeout=60)
 
 
 def main():
