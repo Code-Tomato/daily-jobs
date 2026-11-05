@@ -338,7 +338,10 @@ def lists(out, repo=REPO):
 # --- release ---------------------------------------------------------------------------------------------------------
 
 def gh(*args, check=True):
-    return subprocess.run(["gh", *args], cwd=REPO, check=check, capture_output=True, text=True)
+    r = subprocess.run(["gh", *args], cwd=REPO, capture_output=True, text=True)
+    if check and r.returncode:  # say why: a bare CalledProcessError hid GitHub's message on 2026-11-05
+        raise RuntimeError(f"gh {' '.join(args[:2])} failed ({r.returncode}): {(r.stderr or r.stdout).strip()[:500]}")
+    return r
 
 
 def release(out, keep=7):
@@ -351,7 +354,7 @@ def release(out, keep=7):
     existing = gh("release", "view", tag, "--json", "isDraft", check=False)
     if existing.returncode == 0:
         if json.loads(existing.stdout or "{}").get("isDraft"):  # a failed earlier run's draft: nobody could use it
-            gh("release", "delete", tag, "--yes", "--cleanup-tag")
+            gh("release", "delete", tag, "--yes")  # a draft has no tag yet, so no --cleanup-tag (it fails with 422)
             time.sleep(3)
         else:
             # A rerun on the same day gets a tag of its own: whoever updated from the earlier release keeps an index whose
@@ -363,7 +366,14 @@ def release(out, keep=7):
             meta["tag"] = tag
             with open(os.path.join(out, "meta.json"), "w") as f:
                 json.dump(meta, f, separators=(",", ":"))
-    gh("release", "create", tag, "--title", f"Jobs {meta['date']}", "--notes", notes, "--draft", "--target", "main")
+    for attempt in range(3):  # GitHub's API fails now and then; the release is a draft until every asset is up
+        r = gh("release", "create", tag, "--title", f"Jobs {meta['date']}", "--notes", notes, "--draft", "--target", "main", check=False)
+        if r.returncode == 0:
+            break
+        log(f"release create failed ({(r.stderr or r.stdout).strip()[:300]}); retrying")
+        time.sleep(60 * (attempt + 1))
+    else:
+        raise RuntimeError(f"could not create release {tag}: {(r.stderr or r.stdout).strip()[:500]}")
     for a in assets:
         for attempt in range(6):
             r = gh("release", "upload", tag, a, "--clobber", check=False)
