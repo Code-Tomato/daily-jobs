@@ -1,11 +1,43 @@
 # Internships and co-ops: Design and creative
 
-136 open, newest first (by the date the scraper first saw them), updated 2026-11-04.
+165 open, newest first (by the date the scraper first saw them), updated 2026-11-05.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Pattern | [UX Design Intern - Summer 2027](https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d) · Summer 2027 | Lehi, UT, US (hybrid) |  | 2026-11-05 |  |
+| SharkNinja | [Summer 2027: Industrial Design Intern (May through August)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006) · Summer 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-05 |  |
+| T-Mobile | [Summer 2027 UX Design Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-UX-Design-Internship_REQ381307) · Summer 2027 | Philadelphia, Pennsylvania | $27 to $50/hour | 2026-11-05 |  |
+| Twelve NYC | [Industrial Design Intern](https://twelvenyc.bamboohr.com/careers/197) | Brooklyn, New York, United States | $22/hour | 2026-11-05 |  |
+| TH Experiential | [3-D Design Internship Fall/Winter 2026](https://thexperiential.bamboohr.com/careers/184) · Winter 2026 | New York, New York, United States (Remote) |  | 2026-11-05 |  |
+| TH Experiential | [Motion Graphic Internship Fall/Winter 2026](https://thexperiential.bamboohr.com/careers/185) · Winter 2026 | New York, New York, United States (Remote) |  | 2026-11-05 |  |
+| Viget | [Product & Web Designer Intern (2027)](https://jobs.lever.co/viget/938c3301-b358-42e3-afff-123b97b6d290) | Boulder, CO |  | 2026-11-05 | no visa sponsorship |
+| Road Commission for Oakland County | [Geographic Information Systems Internship](https://rcoc.bamboohr.com/careers/314) · Summer 2027 | Oakland County, Michigan, United States |  | 2026-11-05 |  |
+| SS Digital Media | [Oakland University Internship - Creative](https://ssdigitalmedia.bamboohr.com/careers/93) | Troy, Michigan, United States |  | 2026-11-05 |  |
+| Institute for the Study of War | [Multimedia & Video Production Internship Spring 2027](https://understandingwar.bamboohr.com/careers/249) · Spring 2027 | Washington, District of Columbia, United States |  | 2026-11-05 |  |
+| One Tree Planted | [Photo & Video Intern](https://onetreeplanted.bamboohr.com/careers/122) | Remote, New York, United States (Remote) |  | 2026-11-05 |  |
+| Immuta | [UX Design Internship - Summer 2027](https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3) · Summer 2027 | College Park, MD / Columbus, OH / Boston, MA |  | 2026-11-05 |  |
+| Epicosity | [2027 Graphic Design Intern](https://epicosity.bamboohr.com/careers/35) | Sioux Falls, South Dakota, United States |  | 2026-11-05 |  |
+| TH Experiential | [Graphic Design Internship Fall/Winter 2026](https://thexperiential.bamboohr.com/careers/180) · Winter 2026 | New York, New York, United States (Remote) |  | 2026-11-05 |  |
+| AP Corp | [Apprenticeship Program - Window Film & Graphics Install](https://apcorp.recruitee.com/o/apprenticeship-program-window-film-graphics-install-1) | Sykesville, MD, US | $16 to $26/hour | 2026-11-05 |  |
+| Adjective & Co. | [Creative Intern](https://jobs.smartrecruiters.com/AdjectiveCo/744000136822260-creative-intern) | Jacksonville Beach, FL, us |  | 2026-11-05 |  |
+| Snappr | [Visual Journalist Intern (Photo + Video), Snappr News](https://jobs.lever.co/snappr/dd7e6c07-0c7b-47a6-873a-fc6ed770d291) | San Francisco, CA | $25/hour | 2026-11-05 |  |
+| UX Woman | [Academic Research to UX Research Career Changer Apprenticeship](https://ux-woman.breezy.hr/p/a0a20016d82b-academic-research-to-ux-research-career-changer-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
+| UX Woman | [Education to UX Design Career Changer Apprenticeship](https://ux-woman.breezy.hr/p/f8b179f5aef3-education-to-ux-design-career-changer-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
+| UX Woman | [Fashion Design to UX Design Career Changer Apprenticeship](https://ux-woman.breezy.hr/p/73165708b050-fashion-design-to-ux-design-career-changer-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
+| UX Woman | [Graphic Design to UX Design Career Changer Apprenticeship](https://ux-woman.breezy.hr/p/2e6940970bf5-graphic-design-to-ux-design-career-changer-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
+| UX Woman | [Industrial Design to UX Design Career Changer Apprenticeship](https://ux-woman.breezy.hr/p/a2f8dee64d55-industrial-design-to-ux-design-career-changer-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
+| UX Woman | [Market Research to UX Research Career Changer Apprenticeship](https://ux-woman.breezy.hr/p/3ca8525de8f9-market-research-to-ux-research-career-changer-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
+| AutoNetTV | [Photography/Digital Media Internship](https://autonettv.bamboohr.com/careers/52) | Draper, Utah, United States |  | 2026-11-05 |  |
+| UX Woman | [Entry Level UX Design Apprenticeship](https://ux-woman.breezy.hr/p/f0d6d79eac59-entry-level-ux-design-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
+| UX Woman | [Entry Level UX Research Apprenticeship](https://ux-woman.breezy.hr/p/977eb5a6b06d-entry-level-ux-research-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
+| Grace Community Church | [Summer Intern- Worship](https://gcc.bamboohr.com/careers/20) · Summer | Newton, Kansas, United States |  | 2026-11-05 |  |
+| 617MediaGroup | [A/V Production Internship](https://617mediagroup.com/careers/?gh_jid=7974858002) | Greater Boston | $20.36/hour | 2026-11-05 |  |
+| Grace Community Church | [Summer Worship Intern](https://gcc.bamboohr.com/careers/13) · Summer | Newton, Kansas, United States |  | 2026-11-05 |  |
+| Recruit Aid Agency | [VIRTUAL INTERNSHIP: Graphic Designer/Graphic Illustrator](https://jobs.smartrecruiters.com/RecruitAidAgency/743999780672175-virtual-internship-graphic-designer-graphic-illustrator) | Nashville, TN, us (remote) |  | 2026-11-05 |  |
+| HUSH | [Intern: Design](https://jobs.lever.co/hush/6ca815d9-3477-4f62-82ab-6d2831b1bf0f) | Brooklyn, NY |  | 2026-11-05 |  |
+| Everywhere Capital | [Apprentice Designer - Remote](https://everywhere-capital.breezy.hr/p/2938326605ad-apprentice-designer-remote) | San Francisco, CA (remote) |  | 2026-11-05 |  |
 | SharkNinja | [Spring 2027: CMF Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4722306006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
 | GigFinesse | [Graphic Design Intern (Spring 2027)](https://job-boards.greenhouse.io/gigfinesse/jobs/4725799006) · Spring 2027 | Austin, Texas (Remote) |  | 2026-11-04 |  |
 | Jomboy Media | [Social Graphics Internship- Spring 2027](https://job-boards.greenhouse.io/jomboymedia/jobs/4478059009) · Spring 2027 | New York, New York, United States |  | 2026-11-04 |  |
@@ -18,8 +50,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Online Labels Group | [Apprentice Flexographic Press Operator](https://online-labels.breezy.hr/p/8314ae86dce7-apprentice-flexographic-press-operator) | 2001 E Lake Mary Blvd Sanford, FL | $16/hour | 2026-11-04 |  |
 | Crystal Dynamics | [Presentation Animator Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746883005) · Spring 2027 | Remote/Flexible - United States | $20 to $23/hour | 2026-11-04 |  |
 | Pencor Services | [Spring Creative News Internship](https://pencor.bamboohr.com/careers/1093) · Spring | Lehighton, Pennsylvania, United States |  | 2026-11-04 |  |
-| SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006) · Spring 2027 | New York, New York, United States | $30 to $36/hour | 2026-11-04 |  |
 | SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
+| SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006) · Spring 2027 | New York, New York, United States | $30 to $36/hour | 2026-11-04 |  |
 | Crystal Dynamics | [Game Design Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005) · Spring 2027 | Remote/Flexible - United States | $20 to $24/hour | 2026-11-04 |  |
 | Excel Sports Management | [Spring 2027 - Intern, Creative](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747588005) · Spring 2027 | New York, New York, United States | $17/hour | 2026-11-04 | no visa sponsorship |
 | Iris North America | [Motion Design Intern](https://job-boards.greenhouse.io/iris/jobs/8319399) | Atlanta, GA (hybrid) | $18/hour | 2026-11-04 |  |
@@ -34,10 +66,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SeatGeek | [UX Design - Internship](https://seatgeek.com/jobs/8248125?gh_jid=8248125) | New York, New York | $50/hour | 2026-11-04 |  |
 | National Life Insurance Company | [Graphic Design Intern – Summer 2027](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4404976009) · Summer 2027 | Addison, TX; Montpelier, VT | $19 to $28/hour | 2026-11-04 | no visa sponsorship |
 | Bound | [UX Design Intern (Summer 2027)](https://ats.rippling.com/bound/jobs/ef56b967-e64c-4b26-8a1b-a02753c27d04) · Summer 2027 | Ames, IA |  | 2026-11-04 |  |
-| Understandingwar | [Multimedia & Video Production Internship Spring 2027](https://understandingwar.bamboohr.com/careers/249) · Spring 2027 | Washington, District of Columbia, United States |  | 2026-11-04 |  |
 | Athena Global Advisors, LLC | [Summer 2027 Intern, Designer, Creative Department](https://ats.rippling.com/athena-careers/jobs/6caed124-e1e5-45a8-a485-87bd9811c699) · Summer 2027 | Philadelphia, PA | $20/hour | 2026-11-04 |  |
 | Megazone Cloud US | [Visual Design Co-op 2027](https://jobs.ashbyhq.com/megazone/66b2d2e9-1b13-40d0-a4d4-e4599fd418ca) | Rochester, NY |  | 2026-11-04 |  |
-| Onetreeplanted | [Photo & Video Intern](https://onetreeplanted.bamboohr.com/careers/122) | Remote, New York, United States (Remote) |  | 2026-11-04 |  |
 | Rush Street Interactive | [Graphic Design Internship- Spring 2027](https://job-boards.greenhouse.io/rushstreetinteractive/jobs/6185808004) · Spring 2027 | USA - Remote | $16/hour | 2026-11-04 |  |
 | Timmons Group | [Landscape Designer Internship - Summer 2027](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148861879-landscape-designer-internship-summer-2027) · Summer 2027 | Charlottesville, VA, us | $25/hour | 2026-11-04 |  |
 | Timmons Group | [Landscape Designer Internship - Summer 2027](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148861399-landscape-designer-internship-summer-2027) · Summer 2027 | Richmond, VA, us | $25/hour | 2026-11-04 |  |
@@ -95,7 +125,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Trimble | [Video Production Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/Video-Production-Intern_R58174) | US - OH, Dayton | $18.51 to $27.79/hour | 2026-10-29 |  |
 | Garmin | [UI Designer Intern (Spring 2027)](https://careers.garmin.com/careers-home/jobs/20499) · Spring 2027 | Olathe, Kansas |  | 2026-10-28 |  |
 | ServiceNow | [Experience Team – UX Research Internships – Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000157919529-experience-team-ux-research-internships-summer-2027) · Summer 2027 | San Diego, CALIFORNIA, us | $45.97 to $53.04/hour | 2026-10-28 |  |
-| Ascension | [UX Research Intern](https://jobs.ascension.org/us/en/job/16554) | Saint Louis, MO, US |  | 2026-10-27 |  |
 | Intercontinental Exchange | [Summer Internship Program 2027 - User Experience (UX) Designer Intern](https://careers.ice.com/careers-home/jobs/14111) · Summer | New York, New York | $30/hour | 2026-10-24 |  |
 | Intercontinental Exchange | [Summer Internship Program 2027 - Enterprise UX Intern](https://careers.ice.com/careers-home/jobs/14058) · Summer | Atlanta, Georgia |  | 2026-10-24 |  |
 | Entegris | [Designer/Drafter Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/San-Luis-Obispo-CA/Designer-Drafter-Co-Op_REQ-14429) · Spring 2027 | San Luis Obispo, CA | $20 to $30/hour | 2026-10-23 |  |
@@ -115,7 +144,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Duolingo | [Illustrator, Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8864014002) · Fall 2027 | Detroit, MI | $39 to $41/hour | 2026-10-20 |  |
 | Duolingo | [Illustrator, Intern](https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002) · Fall 2027 | Detroit, MI | $39 to $41/hour | 2026-10-20 |  |
 | GM | [Summer 2027 Intern - Industrial Design](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship |
-| TensorWave | [Podcast Producer Intern](https://jobs.ashbyhq.com/tensorwave/ba1b8977-ee96-440e-a4bd-353f745dffd1) | Las Vegas, Nevada |  | 2026-10-20 |  |
 | Target | [UX Design Internship - Minneapolis, MN (Starting Summer, 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Design-Internship---Minneapolis--MN--Starting-Summer--2027-_R0000451077) · Summer 2027 | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $34/hour | 2026-10-20 |  |
 | Activision | [Activision 2027 Summer Internships - Game Design](https://careers.activision.com/us/en/job/R028091) · Summer 2027 | Playa Vista, California, United States of America | $20 to $50/hour | 2026-10-20 |  |
 | Fox Corporation | [Summer 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033985) · Summer 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
@@ -131,6 +159,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Activision | [Activision 2027 Summer Internships - UI/UX](https://careers.activision.com/us/en/job/R028071) · Summer 2027 | Playa Vista, California, United States of America | $20 to $50/hour | 2026-10-20 |  |
 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) · Summer 2027 | Hybrid - San Francisco, CA | $60/hour | 2026-10-20 |  |
 | Formlabs | [Industrial Design Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232) · Spring 2027 | Somerville, MA |  | 2026-10-20 |  |
+| Zipline | [Video Production Intern (Spring 2027)](https://www.zipline.com/open-roles/7896577003?gh_jid=7896577003) · Spring 2027 | South San Francisco, California, USA | $34/hour | 2026-10-20 | no visa sponsorship |
 | Honda | [Creative Design and Research Co-op/Intern - Summer 2027](https://careers.honda.com/us/en/job/11171) · Summer 2027 | Torrance, California, United States | $26.58 to $34.38/hour | 2026-10-20 |  |
 | Honda | [Creative Design and Research Co-op/Intern - Spring 2027](https://careers.honda.com/us/en/job/10997) · Spring 2027 | Torrance, California, United States | $26.58 to $34.38/hour | 2026-10-20 |  |
 | Netflix | [Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026](https://explore.jobs.netflix.net/careers/job/790315673635) · Fall 2026 | Los Gatos, California, United States of America | $40 to $110/hour | 2026-10-20 |  |

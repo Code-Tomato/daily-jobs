@@ -1,11 +1,79 @@
 # Internships and co-ops: Hardware, chips and embedded
 
-1,023 open, newest first (by the date the scraper first saw them), updated 2026-11-04. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,066 open, newest first (by the date the scraper first saw them), updated 2026-11-05. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Black & Veatch | [Electrical Engineer Intern - Solar](https://careers.bv.com/job/Overland-Park-Electrical-Engineer-Intern-Solar-KS-66062/1444055833/) | Overland Park, KS, US |  | 2026-11-05 |  |
+| Alcon | [Spring/Summer MS&T Packaging Co-op](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Spring-Summer-MS-T-Packaging-Co-op_R-2026-50791) · Summer 2027 | Fort Worth, Texas |  | 2026-11-05 |  |
+| Ayar Labs | [Intern, Laser Control & Validation Engineering](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a748188b5d3d) | San Jose, CA, United States |  | 2026-11-05 |  |
+| Ayar Labs | [Intern, Digital Verification](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1a72032bf4b89) | San Jose, CA, United States |  | 2026-11-05 |  |
+| Bosch | [Project Management / Test Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000159649749-project-management-test-engineering-intern) | Plymouth, MI, us |  | 2026-11-05 |  |
+| Daimler Truck North America | [Vehicle Thermal Integration - Validation Engineering Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Vehicle-Thermal-Integration---Validation-Engineering-Intern_DT-20558) | Portland, OR US | $21 to $29/hour | 2026-11-05 |  |
+| Infineon | [Intern- Analog Design](https://jobs.infineon.com/careers/job/563808972303150) | Austin, TX, US | $21 to $36/hour | 2026-11-05 |  |
+| Keysight | [R&D DSP/FPGA Design Automation Intern](https://jobs.keysight.com/careers-home/jobs/55153) | Santa Rosa, California | $41.14 to $44.31/hour | 2026-11-05 | no visa sponsorship |
+| Rockwell Automation | [Intern, Electrical Engineering](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Electrical-Engineering_R26-8341-1) | Chelmsford, Massachusetts, United States | $22 to $32/hour | 2026-11-05 | no visa sponsorship |
+| Seagate | [Hardware Engineering Design Summer Internship](https://seagatecareers.com/job/Shakopee-Hardware-Engineering-Design-Summer-Internship-MN/1447935400/) · Summer 2027 | Shakopee, United States | $25 to $31/hour | 2026-11-05 |  |
+| Texas Instruments | [Analog Design Eng Intern](https://careers.ti.com/en/sites/CX_1/job/25019660) | Santa Clara, CA, United States |  | 2026-11-05 |  |
+| Texas Instruments | [Analog Design Verification Eng Intern](https://careers.ti.com/en/sites/CX_1/job/25019663) | Santa Clara, CA, United States |  | 2026-11-05 |  |
+| Texas Instruments | [Digital Design Verification Engineering Intern](https://careers.ti.com/en/sites/CX_1/job/25019665) | Santa Clara, CA, United States |  | 2026-11-05 | no visa sponsorship |
+| McAfee Heating and Air Conditioning | [Electricians & Electrical Apprentices – Explore Career Opportunities with McAfee](https://job-boards.greenhouse.io/mcafee/jobs/5468641008) | Dayton, OH |  | 2026-11-05 |  |
+| Diversified Automation | [Controls Engineering Co-Op](https://jobs.lever.co/diversified-automation/9506c50b-2859-4a78-a6b2-229b1366611d) | Louisville, KY |  | 2026-11-05 |  |
+| Diversified Automation | [Hardware Engineering Co-Op](https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3) | Louisville, KY |  | 2026-11-05 |  |
+| Black & Veatch | [Electrical Engineer Intern - APG (Kansas City)](https://careers.bv.com/job/Overland-Park-Electrical-Engineer-Intern-APG-%28Kansas-City%29-KS-66062/1441955333/) | Overland Park, KS, US |  | 2026-11-05 |  |
+| Morph | [Electrical Engineering Intern](https://job-boards.greenhouse.io/morph/jobs/4467369009) | New York City | $8,000/month | 2026-11-05 |  |
+| Woodard & Curran | [2027 Summer Internship - Electrical Engineering](https://jobs.lever.co/woodardcurran/d81ef1f3-e923-4be9-a86e-c0388ee5a2a6) · Summer 2027 | Bangor, ME |  | 2026-11-05 | no visa sponsorship |
+| Black & Veatch | [Electrical Engineer Intern - BESS](https://careers.bv.com/job/Overland-Park-Electrical-Engineer-Intern-BESS-KS-66062/1437783133/) | Overland Park, KS, US |  | 2026-11-05 |  |
+| Simbe Robotics | [Hardware / Mechanical Engineering Intern — Spring & Summer 2027](https://jobs.lever.co/SimbeRobotics/715377a7-1dc0-41b9-8146-ac2d2d752ca3) · Summer 2027 | San Francisco Bay Area |  | 2026-11-05 |  |
+| Tri-M Group | [Kennett Square Electrical Apprentice](https://trimgroup.bamboohr.com/careers/502) | Kennett Square, Pennsylvania, United States |  | 2026-11-05 |  |
+| Nomad GCS | [Electrical Engineering Intern](https://nomadgcs.bamboohr.com/careers/500) | Columbia Falls, Montana, United States |  | 2026-11-05 | no visa sponsorship, US citizens/persons only |
+| BGE, Inc | [AUSTIN - Electrical Engineer-Power Systems, Internship](https://job-boards.greenhouse.io/bgeinc/jobs/5441465008) | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 |  | 2026-11-05 |  |
+| Hiller Plumbing, Heating, Cooling & Electrical | [Electrical Install Apprentice](https://jobs.lever.co/happyhiller/4a8c2cc7-1236-4189-ae8d-150e18e31105) | Panama City, FL |  | 2026-11-05 |  |
+| Skilled Trades Partners | [Electrical Apprentice-Commercial Solar](https://skilled-trades-partners.breezy.hr/p/4ed656395e64-electrical-apprentice-commercial-solar) | Calumet City, IL | $20 to $30/hour | 2026-11-05 |  |
+| Terranova | [Mechanical/Test Engineering Intern](https://jobs.ashbyhq.com/Terranova/7ba048ea-818d-46b5-8ff8-3ce58d39bcc6) · Spring 2027 | Berkeley |  | 2026-11-05 |  |
+| Terranova | [Embedded Systems Intern](https://jobs.ashbyhq.com/Terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da) · Spring 2027 | Berkeley |  | 2026-11-05 |  |
+| Geophysical Survey Systems Inc. | [Electrical Engineering Co-Op](https://gssi.bamboohr.com/careers/119) | Nashua, New Hampshire, United States |  | 2026-11-05 |  |
+| ESCO Group | [Electrical Design Associate – Intern](https://escogroup.bamboohr.com/careers/363) · Summer 2027 | Marion, Iowa, United States |  | 2026-11-05 |  |
+| ESCO Group | [Electrical Design Associate – Intern](https://escogroup.bamboohr.com/careers/360) · Summer 2027 | Altoona, Iowa, United States |  | 2026-11-05 |  |
+| TKDA | [2027 Summer Intern - Electrical Engineering](https://jobs.lever.co/tkda/f59b3fca-34fd-4339-8034-5a48109434dc) · Summer 2027 | Bloomington, Minnesota |  | 2026-11-05 |  |
+| Wade Trim | [Electrical Engineer Summer Intern - #3046](https://jobs.lever.co/wadetrim/c3713837-17e6-423a-bce8-5c06635b002b) · Summer | Taylor, MI |  | 2026-11-05 |  |
+| Stanley Consultants | [Student Intern 2027 - Electrical](https://jobs.lever.co/stanleygroup/fa41e8a0-2ea2-487c-aab0-8ba63735a653) | Minneapolis, MN |  | 2026-11-05 | no visa sponsorship |
+| Stanley Consultants | [Student Intern 2027 - Electrical Substation](https://jobs.lever.co/stanleygroup/03d62996-30d5-45be-a3e7-9fad566de0b1) | Muscatine, IA |  | 2026-11-05 | no visa sponsorship |
+| Stanley Consultants | [Student Intern 2027 - Electrical Substation](https://jobs.lever.co/stanleygroup/5ff82180-07f0-45cd-87a7-9cc6123818fa) | Des Moines, IA |  | 2026-11-05 | no visa sponsorship |
+| Wind Energy Transmission Texas | [Summer 2027 Electrical Engineering Intern](https://windenergyoftexas.bamboohr.com/careers/145) · Summer 2027 | Austin, Texas, United States |  | 2026-11-05 |  |
+| BGE, Inc | [FRISCO - Electrical Engineer-Power Systems, Internship](https://job-boards.greenhouse.io/bgeinc/jobs/5416798008) | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 |  | 2026-11-05 |  |
+| WNA Engineering | [Intern Electrical Engineer](https://wnaengineering.bamboohr.com/careers/92) · Summer 2027 | Portersville, Pennsylvania, United States |  | 2026-11-05 | no visa sponsorship |
+| BranchPattern | [Electrical Engineering Intern - Summer 2027](https://improvinglife.bamboohr.com/careers/250) · Summer 2027 | Kansas City, Missouri, United States |  | 2026-11-05 |  |
+| Foth | [Mechanical Process Engineering Co-op (Summer/Fall 2027)](https://jobs.lever.co/foth/d8cc43b0-5927-407f-9f0a-84bf51460354) · Fall 2027 | Green Bay, Wisconsin |  | 2026-11-05 |  |
+| Foth | [Mechanical Process Engineering Intern (Summer 2027)](https://jobs.lever.co/foth/9b9e654e-cca7-463f-b0c0-fab83c0acd81) · Summer 2027 | Green Bay, Wisconsin |  | 2026-11-05 |  |
+| Specter Aerospace | [PLC/Controls Engineer Co-Op - Spring 2027](https://specteraerospace.bamboohr.com/careers/123) · Spring 2027 | Peabody, Massachusetts, United States |  | 2026-11-05 | US citizens/persons only |
+| Zeeco | [Control Engineer Intern](https://jobs.lever.co/zeeco/a2ac4a67-02fd-4e22-ace4-2369878930ec) · Summer 2027 | Tulsa, Oklahoma |  | 2026-11-05 |  |
+| Thea Energy | [Test Engineering Intern - Spring 2027](https://jobs.lever.co/thea.energy/5912ba14-1003-4f4f-84f2-74f7155e49ad) · Spring 2027 | Kearny, NJ | $21 to $25/hour | 2026-11-05 |  |
+| Wavetronix | [Electrical/Computer Engineering Internship Summer 2027](https://wavetronix.breezy.hr/p/0f4b5eea457a-electrical-computer-engineering-internship-summer-2027) · Summer 2027 | Springville, UT |  | 2026-11-05 |  |
+| E-Space | [RF Product Development Lab Intern](https://jobs.lever.co/espace/12e87c91-f00f-4aa4-a3cf-4280c3a1779d) | Arlington, TX |  | 2026-11-05 | US citizens/persons only |
+| Nexus Engineering Group | [Chemical Process Engineering Internship or Co-Op (Summer 2027)](https://jobs.lever.co/nexuse-group/803bdf77-0351-44ac-a61c-febd0c15f44b) · Summer 2027 | Cleveland, OH |  | 2026-11-05 | no visa sponsorship |
+| Nexus Engineering Group | [Electrical Engineering Internship or Co-Op (Fall 2027)](https://jobs.lever.co/nexuse-group/a30e0685-e8d2-457e-88a0-e47400768086) · Fall 2027 | Cleveland, OH |  | 2026-11-05 | no visa sponsorship |
+| Nexus Engineering Group | [Electrical Engineering Internship or Co-Op (Summer 2027)](https://jobs.lever.co/nexuse-group/a3686ec1-1d22-4df4-b83c-7afba9e69313) · Summer 2027 | Cleveland, OH |  | 2026-11-05 | no visa sponsorship |
+| Ace Electric | [Project Engineer College Intern - Electrical Construction (Summer 2027)](https://aceelectric.bamboohr.com/careers/997) · Summer 2027 | Valdosta, Georgia, United States |  | 2026-11-05 | no visa sponsorship |
+| Nexus Engineering Group | [Electrical/Substation Engineering Internship or Co-Op (Summer 2027)](https://jobs.lever.co/nexuse-group/9c859eeb-b251-4865-bc1a-a5737ef42620) · Summer 2027 | Maumee, OH |  | 2026-11-05 | no visa sponsorship |
+| Nexus Engineering Group | [Instrumentation & Controls Engineer Intern or Co-Op (Spring 2027)](https://jobs.lever.co/nexuse-group/0eff47b7-f4f4-4519-9016-5dc2b2470cf4) · Spring 2027 | Maumee, OH |  | 2026-11-05 | no visa sponsorship |
+| Surface Combustion | [Co-Op - Engineering](https://surfacecombustion.bamboohr.com/careers/89) | Maumee, Ohio, United States |  | 2026-11-05 |  |
+| Specter Aerospace | [Electrical Engineering Co-Op - Spring 2027](https://specteraerospace.bamboohr.com/careers/115) · Spring 2027 | Boston, Massachusetts, United States |  | 2026-11-05 | US citizens/persons only |
+| Specter Aerospace | [Propulsion Test Engineering Co-Op - Spring 2027](https://specteraerospace.bamboohr.com/careers/117) · Spring 2027 | Peabody, Massachusetts, United States |  | 2026-11-05 | US citizens/persons only |
+| Yellowstone Local | [Electrical Apprentice](https://jobs.yellowstonelocal.com/o/electrical-apprentice-49) | Plymouth, MN, US | $20 to $30/hour | 2026-11-05 |  |
+| Yellowstone Local | [Electrical Apprentice](https://jobs.yellowstonelocal.com/o/electrical-apprentice-47) | Livingston, MT, US | $20/hour | 2026-11-05 |  |
+| Layup Parts | [Electrical Engineering Intern](https://jobs.lever.co/layup/0d8b26c2-f4f9-4dc1-b987-1e496fd616aa) | Huntington Beach, CA |  | 2026-11-05 | US citizens/persons only |
+| Machina Labs | [Robotic Process Engineer, Intern](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) | Chatsworth, CA |  | 2026-11-05 |  |
+| Hoekstra Electrical Services | [3rd/4th Year Electrical Apprentice](https://hoekstraelectric.bamboohr.com/careers/78) | Holland, Michigan, United States |  | 2026-11-05 |  |
+| Tri-M Group | [Lock Haven Electrical Apprentice](https://trimgroup.bamboohr.com/careers/409) | Lock Haven, Pennsylvania, United States |  | 2026-11-05 |  |
+| SoloPulse | [Radar Digital Signal Processing (DSP) Intern/Co-Op](https://jobs.lever.co/solopulseco/663eecca-0951-4354-9a0f-14b52aa72ab9) | Peachtree Corners, GA |  | 2026-11-05 |  |
+| Conquest Solutions | [Building Automation System (BAS) Electrical Apprentice/Helper](https://conquestsolutions.bamboohr.com/careers/55) | Greenbelt, Maryland, United States |  | 2026-11-05 | clearance |
+| Franklin Electric | [Summer 2027 Lab Engineering Co-op (Mechanical/Electrical)](https://franklin-electric.pinpointhq.com/en/postings/c36b1047-a277-4ff4-83d7-5be78555489c) · Summer 2027 | Fort Wayne, Indiana |  | 2026-11-05 |  |
+| Franklin Electric | [Fall 2027 Lab Engineering Co-op (Mechanical/Electrical)](https://franklin-electric.pinpointhq.com/en/postings/7ee1ae96-828a-4261-afed-4d22439c9722) · Fall 2027 | Fort Wayne, Indiana |  | 2026-11-05 |  |
+| Skyworks | [RF Design Automation & Validation Summer/Fall Co-Op (June - Dec '27)](https://careers.skyworksinc.com/job/Andover-RF-Design-Automation-&-Validation-SummerFall-Co-Op-%28June-Dec-'27%29-MA-01810/1447657600/) · Fall 2027 | Andover, MA, US | $23 to $49/hour | 2026-11-05 |  |
+| Skyworks | [Test Engineering Intern](https://careers.skyworksinc.com/job/Richardson-Test-Engineering-Intern-TX-75080/1447897100/) | Richardson, US | $23 to $49/hour | 2026-11-05 | no visa sponsorship |
 | LG Electronics | [Vanderbilt University x LG Electronics Summer Internship Program](https://job-boards.greenhouse.io/lgelectronics/jobs/5473012008) · Summer | Englewood Cliffs, NJ | $25 to $28/hour | 2026-11-04 |  |
 | Logiqal | [Quantum Hardware Intern](https://jobs.ashbyhq.com/logiqal/2734f991-1e21-4c77-bb41-211ffa88449d) | Princeton, NJ | $30 to $50/hour | 2026-11-04 |  |
 | Nokia | [Optoelectronics Test Mech Development Intern](https://jobs.nokia.com/en/sites/CX_1/job/41694) | United States |  | 2026-11-04 |  |
@@ -81,7 +149,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CRB | [Process Engineer Intern (Summer 2027)](https://jobs.smartrecruiters.com/CRB/744000155493879-process-engineer-intern-summer-2027-) · Summer 2027 | Raleigh, NC, us |  | 2026-11-04 |  |
 | Quantinuum | [Optics Engineering Intern - 1077](https://jobs.eu.lever.co/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71) | US Broomfield, CO |  | 2026-11-04 | US citizens/persons only |
 | Skydio | [Process Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/Skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b) · Summer 2027 | Hayward, California, United States | $47 to $70/hour | 2026-11-04 |  |
-| Trimgroup | [Kennett Square Electrical Apprentice](https://trimgroup.bamboohr.com/careers/502) | Kennett Square, Pennsylvania, United States |  | 2026-11-04 |  |
 | Anduril Industries | [2027 Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) · Summer 2027 | Costa Mesa, California, United States | $42 to $50/hour | 2026-11-04 | US citizens/persons only |
 | Carlisle | [R&D Intern - Process Engineering](https://jobs.smartrecruiters.com/Carlisle/3743990016096066-r-d-intern-process-engineering) | Carlisle, Pennsylvania, us |  | 2026-11-04 |  |
 | Dubak Electrical | [Electrical Design Internship Summer 2027](https://dubak.bamboohr.com/careers/320) · Summer 2027 | La Grange Park, Illinois, United States | $20/hour | 2026-11-04 |  |
@@ -109,16 +176,15 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CesiumAstro | [Summer 2027 – Power Electronics Internship](https://jobs.lever.co/CesiumAstro/9d308f2f-7a8a-4f04-b24e-bc6353875cfa) · Summer 2027 | El Segundo, CA |  | 2026-11-04 | US citizens/persons only |
 | Relling | [Controls Engineering Intern](https://jobs.ashbyhq.com/Relling/7bd1608d-00e2-432a-b2ff-99ce92c13cf3) | San Francisco |  | 2026-11-04 |  |
 | BGE Inc. Campus | [AUSTIN - Electrical Engineer-Power Systems, Internship](https://job-boards.greenhouse.io/bgeinccampus/jobs/5441464008) | 101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728 |  | 2026-11-04 |  |
-| DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441880008) · Summer 2027 | Cleveland, Ohio, United States |  | 2026-11-04 | no visa sponsorship |
+| DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441771008) · Summer 2027 | Orlando, Florida, United States |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441041008) · Summer 2027 | Portland, Oregon, United States; Seattle, Washington, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441194008) · Summer 2027 | Minneapolis, Minnesota, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441288008) · Summer 2027 | Los Angeles, California, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441346008) · Summer 2027 | Denver, Colorado, United States; Phoenix, Arizona, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
-| DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441771008) · Summer 2027 | Orlando, Florida, United States |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441787008) · Summer 2027 | Overland Park, Kansas, United States |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441794008) · Summer 2027 | Dallas, Texas, United States; Houston, Texas, United States |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441808008) · Summer 2027 | Charlotte, North Carolina, United States |  | 2026-11-04 | no visa sponsorship |
-| DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441864008) · Summer 2027 | Omaha, Nebraska, United States |  | 2026-11-04 | no visa sponsorship |
+| DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441880008) · Summer 2027 | Cleveland, Ohio, United States |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Electrical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441882008) · Summer 2027 | Washington, D.C. | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
 | Solidigm | [Supply Chain & Procurement Intern for Integrated Circuits (ICs)](https://jobs.smartrecruiters.com/Solidigm/744000152988100-supply-chain-procurement-intern-for-integrated-circuits-ics-) | San Jose, CA, us |  | 2026-11-04 |  |
 | Stratarobot Com | [Electrical Engineer Intern (Spring 2027)](https://jobs.gem.com/stratarobot-com/am9icG9zdDria2I0yTxL61RVcanGsWtl) · Spring 2027 | Sunnyvale |  | 2026-11-04 |  |
@@ -129,7 +195,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CannonDesign | [Electrical Student Intern](http://www.cannondesign.com/careers/?gh_jid=8852053002) | Chicago, IL | $22.25 to $26.25/hour | 2026-11-04 |  |
 | CannonDesign | [Electrical Student Intern](http://www.cannondesign.com/careers/?gh_jid=8855579002) | Buffalo, NY | $22.25 to $26.25/hour | 2026-11-04 |  |
 | Wabtec | [Co-Op, Test Engineer - Transducer (January-June 2027)](https://jobs.smartrecruiters.com/Wabtec/3743990015763566-co-op-test-engineer-transducer-january-june-2027-) | State College, PA, us | $25 to $28/hour | 2026-11-04 | US citizens/persons only |
-| CannonDesign | [Electrical Student Intern](http://www.cannondesign.com/careers/?gh_jid=8852985002) | St. Louis, MO |  | 2026-11-04 |  |
 | Loenbro | [Electrical Apprenticeship Instructor](https://job-boards.greenhouse.io/loenbro/jobs/4422515009) | Afton, TX |  | 2026-11-04 |  |
 | Morrison-Maierle | [Electrical Engineer Internship](https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422771009) | Bend, OR | $25 to $30/hour | 2026-11-04 |  |
 | Morrison-Maierle | [Electrical Engineer Internship](https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422847009) | Spokane, WA | $25 to $30/hour | 2026-11-04 |  |
@@ -151,8 +216,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CRB | [Electrical Engineer Intern (Summer 2027)](https://jobs.smartrecruiters.com/CRB/744000149595117-electrical-engineer-intern-summer-2027-) · Summer 2027 | Kansas City, MO, us |  | 2026-11-04 |  |
 | Lunar Outpost | [Electrical Engineering Intern - Summer 2027](https://lunaroutpost.bamboohr.com/careers/396) · Summer 2027 | Golden, Colorado, United States |  | 2026-11-04 |  |
 | CRB | [Process Engineer Intern (Summer 2027)](https://jobs.smartrecruiters.com/CRB/744000149330899-process-engineer-intern-summer-2027-) · Summer 2027 | Emeryville, CA, us |  | 2026-11-04 |  |
-| EquipmentShare | [Intern: Engineering (Embedded)](https://www.equipmentshare.com/careers/openings/?gh_jid=8189297) · Summer 2027 | Columbia, MO (Headquarters) |  | 2026-11-04 |  |
 | EquipmentShare | [Intern: Engineering (Embedded)](https://www.equipmentshare.com/careers/openings/?gh_jid=8142763) · Summer 2027 | Columbia, MO (Headquarters) |  | 2026-11-04 |  |
+| EquipmentShare | [Intern: Engineering (Embedded)](https://www.equipmentshare.com/careers/openings/?gh_jid=8189297) · Summer 2027 | Columbia, MO (Headquarters) |  | 2026-11-04 |  |
 | Cirrus Logic | [2027 Internship - Analog Design Engineer](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec) · Fall 2027 | Austin, Texas |  | 2026-11-04 | no visa sponsorship |
 | Cirrus Logic | [2027 Internship - Design Verification Engineer](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e) · Fall 2027 | Austin, Texas |  | 2026-11-04 | no visa sponsorship |
 | Cirrus Logic | [2027 Internship - Digital Design Engineer](https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e) · Fall 2027 | Austin, Texas |  | 2026-11-04 | no visa sponsorship |
@@ -170,7 +235,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ChargePoint | [Power Systems Control Intern](https://www.chargepoint.com/about/opportunities/job/?gh_jid=8716808002) | US-CA-Campbell-254 |  | 2026-11-04 |  |
 | CRB | [Process Engineer Intern (Summer 2027)](https://jobs.smartrecruiters.com/CRB/744000148582739-process-engineer-intern-summer-2027-) · Summer 2027 | St. Louis, MO, us |  | 2026-11-04 |  |
 | CRB | [Process Engineer Intern (Summer 2027)](https://jobs.smartrecruiters.com/CRB/744000148557531-process-engineer-intern-summer-2027-) · Summer 2027 | Denver, CO, us |  | 2026-11-04 |  |
-| Hermeus | [Avionics Electrical Engineering Intern - Spring/Summer 2027](https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462) · Summer 2027 | Atlanta, GA |  | 2026-11-04 | US citizens/persons only |
+| Hermeus | [Avionics Electrical Engineering Intern - Summer 2027](https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462) · Summer 2027 | Atlanta, GA |  | 2026-11-04 | US citizens/persons only |
 | RE/SPEC Inc. | [Student Engineering Intern (Mechanical or Electrical)](https://jobs.smartrecruiters.com/RESPECInc/744000148594874-student-engineering-intern-mechanical-or-electrical-) | Anchorage, AK, us |  | 2026-11-04 |  |
 | Saronic Technologies | [Electrical Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a) · Summer 2027 | Austin, TX |  | 2026-11-04 | US citizens/persons only |
 | VPT Inc | [Electrical Engineering Intern](https://vptpower.bamboohr.com/careers/162) · Summer 2027 | Blacksburg, Virginia, United States | $20 to $30/hour | 2026-11-04 |  |
@@ -195,15 +260,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AKS Internships | [2027 AKS Mechanical, Electrical, & Plumbing Design (MEP) Internship Program](https://job-boards.greenhouse.io/aks-internships/jobs/4395457009) | Medford, Oregon, United States; Tualatin, Oregon, United States | $19 to $25/hour | 2026-11-04 |  |
 | Ephemeris Net | [2027 Spring Electrical Engineering Internship](https://ats.rippling.com/ephemeris-net/jobs/4609d054-c00a-4c51-b07f-a2dce2b3872e) · Spring 2027 | Oakland, CA | $70,400 | 2026-11-04 | US citizens/persons only |
 | Ephemeris Net | [2027 Spring Optical Engineering Internship](https://ats.rippling.com/ephemeris-net/jobs/8fbd8a67-529e-41ee-b501-567023d84ed1) · Spring 2027 | Oakland, CA | $70,400 | 2026-11-04 | US citizens/persons only |
-| Wnaengineering | [Intern Electrical Engineer](https://wnaengineering.bamboohr.com/careers/92) · Summer 2027 | Portersville, Pennsylvania, United States |  | 2026-11-04 | no visa sponsorship |
 | Reflect Orbital | [Embedded Firmware Engineering Intern](https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b) | Hawthorne, CA |  | 2026-11-04 |  |
 | Siemens | [Smart Infrastructure Electrical Products Engineering Leadership Development Program Internship](https://jobs.siemens.com/en_US/externaljobs/JobDetail/520912) | Grand Prairie - Texas - United States of America; Hingham - Massachuse |  | 2026-11-04 | no visa sponsorship |
 | Hermeus | [Subsystem Test Engineering Intern - Spring/Summer 2027](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) · Summer 2027 | Atlanta, GA |  | 2026-11-04 | US citizens/persons only |
-| Olsson | [Electrical Engineering Internship - Facilities](https://job-boards.greenhouse.io/olsson/jobs/5396167008) | Oklahoma City, OK; Tulsa, OK |  | 2026-11-04 |  |
 | Olsson | [Electrical Engineering Internship - Facilities](https://job-boards.greenhouse.io/olsson/jobs/5394106008) | Lincoln, NE |  | 2026-11-04 |  |
+| Olsson | [Electrical Engineering Internship - Facilities](https://job-boards.greenhouse.io/olsson/jobs/5396167008) | Oklahoma City, OK; Tulsa, OK |  | 2026-11-04 |  |
 | Shield AI | [Summer 2027 - Electrical Engineering Co-op (June 2027)](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) · Summer 2027 | Dallas, Texas |  | 2026-11-04 |  |
 | Shield AI | [Summer 2027 - Electrical Engineering Intern](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7) · Summer 2027 | Dallas, Texas |  | 2026-11-04 |  |
-| Specteraerospace | [PLC/Controls Engineer Co-Op - Spring 2027](https://specteraerospace.bamboohr.com/careers/123) · Spring 2027 | Peabody, Massachusetts, United States |  | 2026-11-04 | US citizens/persons only |
 | Olsson | [Electrical Engineering Internship - Data Center Facilities](https://job-boards.greenhouse.io/olsson/jobs/5395994008) · Summer 2027 | Fort Worth, TX; North Kansas City, MO; Omaha, NE |  | 2026-11-04 |  |
 | SK hynix memory solutions America Inc. | [SSD Firmware Development Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009) | San Jose | $35 to $45/hour | 2026-11-04 |  |
 | Fab2 | [Process Engineering Intern - Winter](https://jobs.ashbyhq.com/fab2/476007f4-4f8c-4160-86c2-8be11c5efee4) · Winter | Austin | $108,000 to $126,000 | 2026-11-04 |  |
@@ -215,13 +278,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | General Matter | [Summer 2027 Internship - Electrical Engineering (Buildings)](https://job-boards.greenhouse.io/generalmatter/jobs/5376639008) · Summer 2027 | Los Angeles, CA | $30 to $40/hour | 2026-11-04 |  |
 | General Matter | [Summer 2027 Internship - Electrical I&C Engineering](https://job-boards.greenhouse.io/generalmatter/jobs/5376057008) · Summer 2027 | Los Angeles, CA | $30 to $40/hour | 2026-11-04 |  |
 | H3X Technologies | [Test Engineering Intern (Spring)](https://jobs.ashbyhq.com/h3x-technologies/be8855c5-f8c7-4f09-bd3f-04ecbcf4b42d) · Summer 2027 | Louisville, Colorado | $23 to $37/hour | 2026-11-04 |  |
-| Foundation Robotics | [Electrical Engineer Intern](https://ats.rippling.com/foundation-robotics/jobs/6be9c342-d335-4955-83c9-3d4482811307) | San Francisco, CA |  | 2026-11-04 |  |
-| WindBorne Systems | [Electrical Engineer Intern](https://jobs.ashbyhq.com/windborne-systems/a0adb58d-37e7-4e37-abf5-c77d63d4dd8f) | Redwood City, CA | $33/hour | 2026-11-04 |  |
-| Aceelectric | [Project Engineer College Intern - Electrical Construction (Summer 2027)](https://aceelectric.bamboohr.com/careers/997) · Summer 2027 | Valdosta, Georgia, United States |  | 2026-11-04 | no visa sponsorship |
-| Persona AI Inc | [Electrical Engineering Internship](https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed) · Fall 2026 | Pensacola, FL or Houston, TX |  | 2026-11-04 |  |
 | DLB Associates | [Construction Coordinator Intern (Electrical)](https://ats.rippling.com/dlb-associates/jobs/a69f06cb-f0d7-4277-aff7-026ec05c1da4) | Remote (United States) |  | 2026-11-04 |  |
-| Specteraerospace | [Electrical Engineering Co-Op - Spring 2027](https://specteraerospace.bamboohr.com/careers/115) · Spring 2027 | Boston, Massachusetts, United States |  | 2026-11-04 | US citizens/persons only |
-| Specteraerospace | [Propulsion Test Engineering Co-Op - Spring 2027](https://specteraerospace.bamboohr.com/careers/117) · Spring 2027 | Peabody, Massachusetts, United States |  | 2026-11-04 | US citizens/persons only |
 | Peak Energy | [Systems Integration and Test Engineer Intern (Winter/Spring - Jan 2027 Start)](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5185852007&gh_jid=5185852007) · Winter 2027 | Burlingame, California | $35/hour | 2026-11-04 |  |
 | LotusWorks | [Electrical & Instrumentation Technician - Full Time Internship](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4912220101) | Rio Rancho, New Mexico, United States |  | 2026-11-04 |  |
 | Peak Energy | [Test Engineer Intern, ESS (Winter/Spring - Jan 2027 Start)](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5178781007&gh_jid=5178781007) · Spring 2027 | Burlingame, California | $35/hour | 2026-11-04 |  |
@@ -241,7 +298,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Albacore | [Electrical Engineering Intern](https://jobs.gem.com/albacore/am9icG9zdDoxi02cwSqJKbs_vOl4QtYW) | Philadelphia |  | 2026-11-04 | clearance |
 | Feyen Zylstra | [Electrical Apprentice](https://fz.bamboohr.com/careers/196) | Charleston, South Carolina, United States |  | 2026-11-04 |  |
 | Feyen Zylstra | [Electrical Apprentice](https://fz.bamboohr.com/careers/197) | Traverse City, Michigan, United States |  | 2026-11-04 |  |
-| Trimgroup | [Lock Haven Electrical Apprentice](https://trimgroup.bamboohr.com/careers/409) | Lock Haven, Pennsylvania, United States |  | 2026-11-04 |  |
 | AHRC NYC | [DSP Paid Internship Program - NYC Youth (18-24yrs. old)](https://jobs.smartrecruiters.com/AHRCNYC1/744000079755635-dsp-paid-internship-program-nyc-youth-18-24yrs-old-) | New York, NY, us | $18/hour | 2026-11-04 |  |
 | Nox Group | [Electrical Apprenticeship Interest](https://noxgroup.us/careers/?gh_jid=4882204008) | ALL; Austin, Texas, United States; Phoenix, Arizona, United States |  | 2026-11-04 |  |
 | Plix | [Internship - Hardware](https://jobs.gem.com/plixai/am9icG9zdDoFXd4MlXNZB7jawYqVyAXk) | San Mateo |  | 2026-11-04 |  |
@@ -301,17 +357,16 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Skyworks | [Test Engineering Intern](https://careers.skyworksinc.com/job/Greensboro-Test-Engineering-Intern-NC-27409/1444545600/) | Greensboro, US | $23 to $49/hour | 2026-10-29 | no visa sponsorship |
 | Skyworks | [Electrical CAD Engineer Intern](https://careers.skyworksinc.com/job/Richardson-Electrical-CAD-Engineer-Intern-TX-75081/1444520800/) | Richardson, US | $23 to $49/hour | 2026-10-29 | no visa sponsorship |
 | Skyworks | [Wafer Fab Materials Summer Intern (May-Aug '27)](https://careers.skyworksinc.com/job/Newbury-Park-Wafer-Fab-Materials-Summer-Intern-%28May-Aug-'27%29-CA-91320/1444888300/) · Summer | Newbury Park, CA, US | $23 to $49/hour | 2026-10-29 |  |
+| Aurora | [Lidar Systems Intern](https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1) · Summer 2027 | Mountain View, CA | $52 to $58/hour | 2026-10-28 |  |
+| Worley | [Instrumentation and Controls Undergraduate Intern](https://jobs.worley.com/careers/job/1133916568049) | Monrovia, CA, US; Long Beach, CA, US | $25.49 to $37.49/hour | 2026-10-28 |  |
+| Worley | [Electrical Undergraduate Intern](https://jobs.worley.com/careers/job/1133916568050) | Monrovia, CA, US; Long Beach, CA, US | $25.49 to $37.49/hour | 2026-10-28 |  |
 | Boston Dynamics | [Electrical Engineer Co-Op](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electrical-Engineer-Co-Op_R3315) | Waltham Office (POST) | $30 to $35/hour | 2026-10-28 | no visa sponsorship |
 | Daimler Truck North America | [Mechanical Product Validation Engineering Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Mechanical-Product-Validation-Engineering-Intern_DT-20436) | Portland, OR US | $21 to $29/hour | 2026-10-28 |  |
 | Delek US | [Electrical Engineering Intern](https://jobs.delekus.com/job/El-Dorado-Electrical-Engineering-Intern-AR-71730/1444185000/) | El Dorado, AR, US |  | 2026-10-28 |  |
 | GlobalFoundries | [Silicon Photonics Process Integration Intern (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604265) · Summer 2027 | USA - New York - Malta | $20 to $40/hour | 2026-10-28 |  |
 | Keysight | [R&D RF/Microwave Engineer Intern](https://jobs.keysight.com/careers-home/jobs/55092) | Santa Rosa, California | $39.53 to $42.57/hour | 2026-10-28 | no visa sponsorship |
 | Wing | [Hardware Test Engineering Intern](https://wing.com/careers/8918078002?gh_jid=8918078002) | Palo Alto, California (hybrid) |  | 2026-10-28 |  |
-| Worley | [Instrumentation and Controls Undergraduate Intern](https://jobs.worley.com/careers/job/1133916568049) | Monrovia, CA, US; Long Beach, CA, US | $25.49 to $37.49/hour | 2026-10-28 |  |
-| Worley | [Electrical Undergraduate Intern](https://jobs.worley.com/careers/job/1133916568050) | Monrovia, CA, US; Long Beach, CA, US | $25.49 to $37.49/hour | 2026-10-28 |  |
 | Renesas | [Digital Design Electrical Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000157896855-digital-design-electrical-engineer-intern) | Austin, TEXAS, us |  | 2026-10-28 |  |
-| Aurora | [Lidar Systems Intern](https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1) · Summer 2027 | Mountain View, CA | $52 to $58/hour | 2026-10-28 |  |
-| Aurora | [Lidar R&D and Architecture Intern](https://jobs.ashbyhq.com/aurora-operations-inc/b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad) | Bozeman, MT | $44 to $52/hour | 2026-10-28 |  |
 | Skyworks | [Analog Design Engineering Intern](https://careers.skyworksinc.com/job/Analog-Design-Engineering-Intern/1444266500/) | US | $23 to $49/hour | 2026-10-28 | no visa sponsorship |
 | Skyworks | [Device Engineering Intern](https://careers.skyworksinc.com/job/Richardson-Device-Engineering-Intern-TX-75080/1444246900/) | Richardson, US | $23 to $49/hour | 2026-10-28 | no visa sponsorship |
 | Skyworks | [RF Design Engineering Intern](https://careers.skyworksinc.com/job/Richardson-RF-Design-Engineering-Intern-TX-75081/1444249700/) | Richardson, US | $23 to $49/hour | 2026-10-28 | no visa sponsorship |
@@ -368,7 +423,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Micron | [Intern – AMHS Equipment Engineer ID1](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---AMHS-Equipment-Engineer-ID1_JR115126) | Boise, ID - Main Site |  | 2026-10-22 |  |
 | Seagate | [Device Physics Summer Intern (PhD)](https://seagatecareers.com/job/Bloomington-Device-Physics-Summer-Intern-%28PhD%29-MN/1442391800/) · Fall 2027 | Normandale, United States | $42 to $45/hour | 2026-10-22 |  |
 | Texas Instruments | [Process Engineering Intern](https://careers.ti.com/en/sites/CX_1/job/25019143) | Lehi, UT, United States |  | 2026-10-22 |  |
-| Worley | [Process Engineering Intern](https://jobs.worley.com/careers/job/1133915964412) | Charleston, WV, US |  | 2026-10-22 |  |
 | Kiewit | [Substation Engineer Intern - Kiewit Power Engineering (Summer 2027)](https://kiewitcareers.kiewit.com/job/Raleigh-Substation-Engineer-Intern-Kiewit-Power-Engineering-%28Summer-2027%29-NC-27601/1426396600/) · Summer 2027 | Raleigh, NC, US |  | 2026-10-21 |  |
 | AEP | [Electrical Engineering Intern- Spring 2027](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Electrical-Engineering-Intern--Spring-2027_R20445) · Spring 2027 | Columbus, OH | $1,500/month | 2026-10-21 | no visa sponsorship |
 | Garmin | [Electrical Design Engineer Intern](https://careers.garmin.com/careers-home/jobs/19383) | Tucson, Arizona |  | 2026-10-21 |  |
@@ -552,6 +606,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lam Research | [Summer 2027 - Process Engineering Intern - BS](https://careers.lamresearch.com/careers/job/1099556046189) · Summer 2027 | Fremont, CA, US | $29.75 to $40.25/hour | 2026-10-20 |  |
 | Lumentum | [Internship - Semiconductor Equipment Engineer](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Maintenance-Tech_20261461-1) | USA - NC- Greensboro |  | 2026-10-20 |  |
 | Worley | [Electrical/Instrumentation Engineering Intern](https://jobs.worley.com/careers/job/1133916219835) | Charleston, WV, US |  | 2026-10-20 |  |
+| Alcon | [2027 Summer Optical & Vision Science Engineering Interns](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Optical---Vision-Science-Engineering-Interns_R-2026-49481) · Summer 2027 | Fort Worth, Texas |  | 2026-10-20 | no visa sponsorship |
+| Alcon | [2027 Electrical & Computer Engineering Intern](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Electrical---Computer-Engineering-Intern_R-2026-49479) · Summer 2027 | Fort Worth, Texas |  | 2026-10-20 | no visa sponsorship |
 | Amgen | [Undergrad Co-op - Electrical Engineering (Jan - Mar 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Rhode-Island---West-Greenwich/Undergrad-Co-op---Electrical-Engineering--Jan---Mar-2027-_R-257526) | US - Rhode Island - West Greenwich | $28.87/hour | 2026-10-20 |  |
 | BorgWarner | [Electrical Design Engineer Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electrical-Design-Engineer-Intern_R2026-3965) | Kokomo Technical Center - Indiana - USA | $17 to $28.65/hour | 2026-10-20 | no visa sponsorship |
 | Cadence | [CST Application Engineer Intern - Silicon](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655-1) · Summer 2027 | SAN JOSE | $28.60 to $53.12/hour | 2026-10-20 |  |
@@ -589,7 +645,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ONEOK | [Instrumentation & Electrical Technician Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Midland-TX/Instrumentation---Electrical-Technician-Intern_R8354) | Midland, TX |  | 2026-10-20 |  |
 | ONEOK | [Instrumentation and Electrical Technician Intern (Tulsa or Oklahoma City, OK)](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Oklahoma-City-OK/Instrumentation-and-Electrical-Technician-Intern--Tulsa-or-Oklahoma-City--OK-_R8441-1) | Oklahoma City, OK |  | 2026-10-20 |  |
 | Rivian | [Engineering Intern - Electronics Design (Spring 2027 Co-Op)](https://careers.rivian.com/careers-home/jobs/34040) · Spring 2027 | Palo Alto, California | $45 to $51/hour | 2026-10-20 | no visa sponsorship |
-| Rocket Lab | [RF Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8013277003) · Summer 2027 | Long Beach, CA | $28/hour | 2026-10-20 | US citizens/persons only |
 | Westlake | [2027 Intern- Electrical Engineer](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Lake-Charles-LA/XMLNAME-2027-Intern--Electrical-Engineer_R33595) | US - Lake Charles, LA |  | 2026-10-20 | no visa sponsorship |
 | HPE | [Electric Hardware Engineering Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414) | Chippewa Falls, Wisconsin, United States of America | $35 to $41/hour | 2026-10-20 |  |
 | HPE | [Hardware Tools and Libraries Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085) | Sunnyvale, California, United States of America | $35 to $41/hour | 2026-10-20 |  |
@@ -701,58 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Intel | [Process Integration and Yield Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132) · Summer 2027 | US, Oregon, Hillsboro | $120,898 to $120,902 | 2026-10-20 |  |
 | Intel | [Module Engineering PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021) | US, Oregon, Hillsboro | $120,898 to $120,902 | 2026-10-20 |  |
 | Intel | [Module Engineering PhD Intern - Wet Etch](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047) | US, Oregon, Hillsboro | $120,898 to $120,902 | 2026-10-20 |  |
-| Intel | [Module Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287026) | US, Oregon, Hillsboro | $120,898 to $120,902 | 2026-10-20 |  |
-| Intel | [Platform Hardware and Systems Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) · Summer 2027 | US, Oregon, Hillsboro (hybrid) | $91,198 to $91,202 | 2026-10-20 |  |
-| Intel | [Platform Hardware and Systems Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828) · Summer 2027 | US, Oregon, Hillsboro (hybrid) | $105,698 to $105,702 | 2026-10-20 |  |
-| Intel | [Silicon Hardware Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829) · Summer 2027 | US, Oregon, Hillsboro | $91,198 to $91,202 | 2026-10-20 |  |
-| Intel | [Silicon Hardware Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830) · Summer 2027 | US, Oregon, Hillsboro | $105,698 to $105,702 | 2026-10-20 |  |
-| Johnson & Johnson | [Beatbox Electrical Engineering Co-op](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Beatbox-Electrical-Engineering-Co-op_R-101679) | Danvers, Massachusetts, United States of America | $23.50 to $52.50/hour | 2026-10-20 | no visa sponsorship |
-| Johnson & Johnson | [Impella Pump Systems Test Engineering Co-Op](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097) | Danvers, Massachusetts, United States of America | $23.50 to $52.50/hour | 2026-10-20 | no visa sponsorship |
-| Johnson & Johnson | [AIC Systems Test Engineering Co-Op](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094) | Danvers, Massachusetts, United States of America | $23.50 to $52.50/hour | 2026-10-20 | no visa sponsorship |
-| Johnson & Johnson | [Electrical Engineering Co-Op, Summer 2027](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736) · Summer 2027 | Cincinnati, Ohio, United States of America | $23.50 to $52.50/hour | 2026-10-20 | no visa sponsorship |
-| Johnson & Johnson | [Electrical Engineering Co-Op, Spring 2027](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineer-Co-Op--Spring-2027_R-095700) · Spring 2027 | Cincinnati, Ohio, United States of America |  | 2026-10-20 | no visa sponsorship |
-| Microchip | [Intern-Technician (Electronics)](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | PA - Mount Holly Springs | $17 to $22/hour | 2026-10-20 | no visa sponsorship, US citizens/persons only |
-| Motorola Solutions | [2027 Intern - SoC Digital Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Intern---SoC-Digital-Engineer_R69149) | Plantation, FL |  | 2026-10-20 |  |
-| Motorola Solutions | [Quality & Process Engineer Summer Internship 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Elgin-IL/Quality---Process-Engineer-Summer-Internship-2027_R68673) · Summer | Elgin, IL |  | 2026-10-20 | no visa sponsorship |
-| Motorola Solutions | [FPGA Design Engineering Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401) · Summer 2027 | Schaumburg, IL |  | 2026-10-20 | US citizens/persons only |
-| Motorola Solutions | [Test Engineering Internship 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Test-Engineering-Internship-2027_R68059) | Greater Chicago Area |  | 2026-10-20 | no visa sponsorship |
-| NXP | [Digital Physical Design (P&R) Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Chandler (Office) |  | 2026-10-20 |  |
-| Stryker | [Summer 2027 Internship - Process Engineer - Florida](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Process-Engineer---Florida_R572764) · Summer 2027 | Weston, Florida | $20/hour | 2026-10-20 | no visa sponsorship |
-| Stryker | [Summer 2027 Internship - Intern, Process Engineering, Advanced Operations - Tempe](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881) · Summer 2027 | Tempe, Arizona | $20/hour | 2026-10-20 | no visa sponsorship |
-| Stryker | [Summer 2027 Internship - Electrical Engineering - Florida](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740) · Summer 2027 | Weston, Florida | $20 to $35/hour | 2026-10-20 | no visa sponsorship |
-| Stryker | [Packaging Engineering Intern](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830) | Tempe, Arizona | $20/hour | 2026-10-20 | no visa sponsorship |
-| Stryker | [Summer 2027 Internship - Electrical Engineering - California](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Electrical-Engineering---California_R572604) · Summer 2027 | San Jose, California | $20 to $35/hour | 2026-10-20 | no visa sponsorship |
-| Stryker | [Summer 2027 Internship - Electrical Engineering - Michigan](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Electrical-Engineering---Michigan_R572609) · Summer 2027 | Portage, Michigan | $20/hour | 2026-10-20 | no visa sponsorship |
-| Astranis | [Electrical Integration Intern - Avionics (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704826006) · Winter 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Helion | [Electrical Engineering Summer 2027 Intern](https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4) · Summer 2027 | Everett, WA | $59/hour | 2026-10-20 |  |
-| Arista Networks | [Hardware Intern](https://jobs.smartrecruiters.com/AristaNetworks/744000151659973-hardware-intern-) | Nashua, NH, us |  | 2026-10-20 |  |
-| Astranis | [Electrical Integration Intern - RF (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4715788006) · Summer 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Astranis | [RF Validation Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4716499006) · Summer 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Astranis | [RF Validation Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4716184006) · Winter 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Bosch | [2027 Spring Logistics / Packaging Engineering Co-op / LOM](https://jobs.smartrecruiters.com/BoschGroup/744000151687099-2027-spring-logistics-packaging-engineering-co-op-lom) · Spring 2027 | Charleston, SC, us |  | 2026-10-20 | no visa sponsorship |
-| Keysight | [Semiconductor Advanced Packaging Process Engineering Intern](https://jobs.keysight.com/careers-home/jobs/54580) | Santa Rosa, California | $43.27 to $56.96/hour | 2026-10-20 | no visa sponsorship, US citizens/persons only |
-| Rocket Lab | [Test Engineering Intern Spring 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8003533003) · Spring 2027 | Wallops Island, VA | $25/hour | 2026-10-20 | US citizens/persons only |
-| Rocket Lab | [Test Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8003529003) · Summer 2027 | Wallops Island, VA | $25/hour | 2026-10-20 | US citizens/persons only |
-| Samsara | [Firmware Engineer Co-Op](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) | San Francisco - SF9 (hybrid) | $38 to $58/hour | 2026-10-20 |  |
-| Astranis | [Antenna Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704274006) · Summer 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Astranis | [Antenna Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704284006) · Winter 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Astranis | [FPGA Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704805006) · Summer 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Astranis | [FPGA Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704803006) · Winter 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Keysight | [Analog and Mixed Signal IC Design Engineer Intern](https://jobs.keysight.com/careers-home/jobs/54221) | Santa Clara, California | $63.53 to $68.41/hour | 2026-10-20 |  |
-| Keysight | [RF Engineering Content Intern](https://jobs.keysight.com/careers-home/jobs/54567) | Santa Rosa, California | $32.77 to $45.25/hour | 2026-10-20 | no visa sponsorship |
-| Astranis | [Electrical Reliability Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704784006) · Summer 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Astranis | [Electrical Reliability Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704782006) · Winter 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Astranis | [Hardware Test Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4707012006) · Winter 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Astranis | [Power Electronics Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4706425006) · Summer 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Astranis | [Power Electronics Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4706427006) · Winter 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Cisco | [Hardware Engineer II Intern - United States](https://careers.cisco.com/global/en/job/2024757) | San Jose, California, United States of America | $44,000 to $185,000 | 2026-10-20 |  |
-| Keysight | [Semiconductor Systems Automation Intern](https://jobs.keysight.com/careers-home/jobs/54371) | Santa Rosa, California | $43.14 to $52.84/hour | 2026-10-20 | no visa sponsorship |
-| Keysight | [R&D Hardware Engineer, Intern](https://jobs.keysight.com/careers-home/jobs/54326) | Santa Rosa, California |  | 2026-10-20 | no visa sponsorship |
-| Nokia | [Photonic Integrated Circuits Test Coop](https://jobs.nokia.com/en/sites/CX_1/job/40743) | United States |  | 2026-10-20 |  |
-| Keysight | [Semiconductor Process Engineering Intern](https://jobs.keysight.com/careers-home/jobs/54385) | Santa Rosa, California | $43.27 to $46.60/hour | 2026-10-20 | no visa sponsorship |
-| Qualcomm | [Embedded Engineering Internship - Summer 2027](https://careers.qualcomm.com/careers/job/446720737089) · Summer 2027 | San Diego, CA, US; Boxborough, MA, US; Santa Clara, CA, US | $17 to $98/hour | 2026-10-20 | no visa sponsorship |
-| Re:Build Manufacturing | [Automation & Controls Engineer Co-op/Intern](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4734540005) · Spring 2027 | Rochester, NY | $21 to $25/hour | 2026-10-20 |  |
-| Zipline | [Flight Test Engineer Intern (Spring 2027)](https://www.zipline.com/open-roles/7999929003?gh_jid=7999929003) · Spring 2027 | South San Francisco, California, USA | $40/hour | 2026-10-20 |  |
-| Zipline | [Flight Test Engineer Intern (Summer 2027)](https://www.zipline.com/open-roles/7999924003?gh_jid=7999924003) · Summer 2027 | South San Francisco, California, USA | $40/hour | 2026-10-20 |  |
-| Alcon | [2027 Summer Optical & Vision Science Engineering Interns](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Optical---Vision-Science-Engineering-Interns_R-2026-49481) · Summer 2027 | Fort Worth, Texas |  | 2026-10-20 | no visa sponsorship |
-| Alcon | [2027 Electrical & Computer Engineering Intern](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Electrical---Computer-Engineering-Intern_R-2026-49479) · Summer 2027 | Fort Worth, Texas |  | 2026-10-20 | no visa sponsorship |
