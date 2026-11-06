@@ -1,11 +1,17 @@
 # Internships and co-ops: Science and research
 
-150 open, newest first (by the date the scraper first saw them), updated 2026-11-05.
+151 open, newest first (by the date the scraper first saw them), updated 2026-11-06.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Analog Devices | [Wet Lab Sensor Research Co-Op](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Wet-Lab-Sensor-Research-Co-Op_R268534-1) | US, MA, Boston | $22 to $41/hour | 2026-11-06 |  |
+| LLNL | [Center for Global Security Research (CGSR) Undergraduate Research Associate - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016680716-center-for-global-security-research-cgsr-undergraduate-research-associate-summer-2027) · Summer 2027 | Livermore, CA, us (hybrid) | $23.26 to $31.62/hour | 2026-11-06 | clearance |
+| Amgen | [Undergrad Clinical Immunology Intern (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Undergrad-Clinical-Immunology-Intern--Summer-2027-_R-259640) · Summer 2027 | US - California - Thousand Oaks |  | 2026-11-06 |  |
+| Veolia Environnement SA | [Chemist Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159868969-chemist-intern) | New Philadelphia, OH, us | $20 to $25/hour | 2026-11-06 |  |
+| Cresilon, Inc. | [Spring Biotechnology Internship 2027](https://apply.workable.com/j/0D89E6B1B9) · Spring | Brooklyn, New York, United States | $30/hour | 2026-11-06 |  |
+| BLANKSLATE Partners | [Chemistry/Chemical Engineering Intern - Ionomr Innovations](https://apply.workable.com/j/43CFBEFFDB) | Boston, Massachusetts, United States | $23 to $27/hour | 2026-11-06 |  |
 | Amgen | [Grad Intern – R&D Translational Immunology (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---R-D-Translational-Immunology--Summer-2027-_R-260620) · Summer 2027 | US - California - South San Francisco | $35.34 to $41.20/hour | 2026-11-05 |  |
 | KEEN Footwear | [KEEN Maker Lab Intern](https://www.keenfootwear.com/careers-list.html?4750009005&gh_jid=4750009005) | Portland, OR | $22/hour | 2026-11-05 | no visa sponsorship |
 | Rasirc | [Chemical Engineering Intern (R&D)](https://rasirc.bamboohr.com/careers/120) | San Diego, California, United States | $20 to $25/hour | 2026-11-05 | US citizens/persons only |
@@ -61,7 +67,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lydian | [Coatings Engineer/Scientist Co-op](https://jobs.ashbyhq.com/lydian/bc092b36-e885-41dd-b970-ae2c06f5e271) · Spring 2027 | Boston |  | 2026-11-04 |  |
 | Cartesian Systems | [Micro-Intern: Research Assistant (IAP - Alumni Host)](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009) | Cambridge, MA | $20 to $25/hour | 2026-11-04 |  |
 | NETZSCH Group | [Application Center (Lab) Intern](https://jobs.smartrecruiters.com/NETZSCHGroup/744000149939169-application-center-lab-intern) | Exton, PA, us |  | 2026-11-04 |  |
-| EQT Corporation | [Geology Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5421063008) | Canonsburg, PA |  | 2026-11-04 |  |
 | Flagship Pioneering Co-Op Program | [Flagship Labs 111: Cell Biology Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8786276002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
 | Hydrite | [QC Lab Intern (Summer 2027)](https://job-boards.greenhouse.io/hydritechemicalco/jobs/8189314) · Summer 2027 | Visalia, CA | $21 to $25/hour | 2026-11-04 |  |
 | Flagship Pioneering Co-Op Program | [Flagship Labs 116: Protein Chemistry Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8766460002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
@@ -94,7 +99,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Marathon Petroleum | [Refining Chemical Engineering Intern/Co-op Spring 2027](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Refining-Chemical-Engineering-Intern-Co-op-Spring-2027_00020447) · Spring 2027 | Findlay, Ohio |  | 2026-10-20 | no visa sponsorship |
 | Johnson & Johnson | [TDS Lab Automation Co-Op](https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Lab-Automation-Co-Op_R-098640) | Malvern, Pennsylvania, United States of America |  | 2026-10-20 | no visa sponsorship |
 | National Laboratory of the Rockies (NREL) | [Undergraduate/Graduate Intern (year-round) –Chemical Engineering/Biomass conversion/Catalytic upgrading/Organi](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-Graduate-Intern--year-round---Chemical-Engineering-Biomass-conversion-Catalytic-upgrading-Organic-Chemistry_R14520) | Golden, CO | $44,500 to $71,200 | 2026-10-20 |  |
-| Cedars-Sinai | [Research Intern (Academic Credit) - Guzman Lab - Department of Neurology - Per Diem (On-site)](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21106) | Los Angeles, CA, United States |  | 2026-10-20 |  |
 | Johnson & Johnson | [Discovery Medicinal Chemistry Internship](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Diego-California-United-States-of-America/Discovery-Medicinal-Chemistry-Internship_R-104156-1) | San Diego, California, United States of America | $27 to $61/hour | 2026-10-20 | no visa sponsorship |
 | Johnson & Johnson | [Biomedical Engineering Intern, Imaging](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Biomedical-Engineering-Intern--Imaging_R-101306) | Raritan, New Jersey, United States of America | $28 to $52.50/hour | 2026-10-20 |  |
 | NextDecade | [Intern, Chemical Engineering](https://nextdecade.wd501.myworkdayjobs.com/GlobalCareers/job/Brownsville-Site/Intern--Chemical-Engineering_JR108) · Summer 2027 | Brownsville Site |  | 2026-10-20 |  |
@@ -137,9 +141,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Stryker | [Summer 2027 Internship - Biomedical Engineering - Florida](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Biomedical-Engineering---Florida_R572592) · Summer 2027 | Fort Lauderdale, Florida | $35/hour | 2026-10-20 | no visa sponsorship |
 | Stryker | [Summer 2027 Internship - Biomedical Engineering - Illinois](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Biomedical-Engineering---Illinois_R572593) · Summer 2027 | Cary, Illinois | $35/hour | 2026-10-20 | no visa sponsorship |
 | Stryker | [Summer 2027 Internship - Biomedical Engineering - New Jersey](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Biomedical-Engineering---New-Jersey_R572594-1) · Summer 2027 | Mahwah, New Jersey | $35/hour | 2026-10-20 | no visa sponsorship |
-| Amgen | [Undergrad Co-op – DSTS – Chemical Engineering - (January – June 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Massachusetts---Cambridge/Undergrad-Co-op---DSTS---Chemical-Engineering----January---June-2027-_R-255684) | US - Massachusetts - Cambridge | $28.87/hour | 2026-10-20 |  |
-| Danaher | [R&D Science Intern - Immunoassay Development](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Chaska-Minnesota-United-States/R-D-Science-Intern---Immunoassay-Development_R1316769) | Chaska, Minnesota, United States | $30/hour | 2026-10-20 |  |
-| Thermo Fisher Scientific | [Quality Control Laboratory Intern](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Plainville-Massachusetts-USA/Quality-Control-Laboratory-Intern_R-01366593) | Plainville, Massachusetts, USA | $18.50 to $28.75/hour | 2026-10-20 | no visa sponsorship |
 | Etched | [Lab Operations Intern](https://jobs.ashbyhq.com/etched/7d400861-c124-475f-8cef-73b9fd5199cf) | San Jose |  | 2026-10-20 |  |
 | Pacific Northwest National Laboratory | [PhD Intern - Geochemistry](https://careers.pnnl.gov/careers-home/jobs/12123) | Richland, Washington | $24.04 to $36.06/hour | 2026-10-20 |  |
 | Siemens | [Test Laboratory Co-op (North Carolina State University)](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521401) · Fall 2027 | Wendell, North Carolina, United States of America |  | 2026-10-20 | no visa sponsorship |

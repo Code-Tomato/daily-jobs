@@ -1,11 +1,52 @@
 # Internships and co-ops: Other
 
-1,448 open, newest first (by the date the scraper first saw them), updated 2026-11-05. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,455 open, newest first (by the date the scraper first saw them), updated 2026-11-06. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Amgen | [Translational Sciences undergrad intern (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Translational-Sciences-undergrad-intern--Summer-2027-_R-260532) · Summer 2027 | US - California - South San Francisco | $28.87/hour | 2026-11-06 |  |
+| Boston Scientific | [Quality Intern](https://bostonscientific.eightfold.ai/careers/job/563602813783098) · Fall 2027 | Arden Hills, MN, US | $43,368 to $73,736 | 2026-11-06 | no visa sponsorship |
+| Center for Disability & Elder Law | [2027 Summer PILI Intern](https://disability.bamboohr.com/careers/98) · Summer 2027 | Chicago, Illinois, United States |  | 2026-11-06 |  |
+| Match Group | [Product Design Intern](https://jobs.lever.co/matchgroup/dff2b57b-17a7-4ac7-b193-1ca6f143cfc2) | Los Angeles, California (hybrid) |  | 2026-11-06 |  |
+| Chubb | [Compensation Intern](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38420) · Summer 2027 | Chicago, IL, United States | $18 to $24/hour | 2026-11-06 |  |
+| CommonSpirit Health (St. Luke's Health) | [Intern](https://www.commonspirit.careers/job/centennial/intern/35300/102914767456) | CENTENNIAL, CO |  | 2026-11-06 |  |
+| CommonSpirit Health (St. Luke's Health) | [Intern](https://www.commonspirit.careers/job/durango/intern/35300/102914767408) | Durango, CO |  | 2026-11-06 |  |
+| CrowdStrike | [Intelligence Intern - Summer 2027](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605) · Summer 2027 | USA - Arlington, VA |  | 2026-11-06 |  |
+| Federal Reserve System | [Economics PhD, Internship – Summer 2027](https://rb.wd5.myworkdayjobs.com/FRS/job/Kansas-City-MO/Economics-PhD--Internship---Summer-2027_R-0000034017-1) · Summer 2027 | Kansas City, MO | $40/hour | 2026-11-06 | no visa sponsorship |
+| Intel | [GPU Architecture Graduate Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Architecture-Graduate-Intern_JR0287529) | US, California, Folsom | $105,698 to $105,702 | 2026-11-06 |  |
+| InterSystems | [Summer Internship 2027](https://job-boards.greenhouse.io/intersystems/jobs/8083103003) · Summer | Boston, MA | $45/hour | 2026-11-06 |  |
+| KEEN Footwear | [Footwear Design Intern](https://www.keenfootwear.com/careers-list.html?4751551005&gh_jid=4751551005) | Portland, OR | $22/hour | 2026-11-06 | no visa sponsorship |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4371114009) · Summer 2027 | Philadelphia, PA |  | 2026-11-06 |  |
+| Motorola Solutions | [UO FE Summer Internship 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Tennessee-Remote-Work/UO-FE-Summer-Internship-2027_R69092) · Summer | Tennessee Remote Work |  | 2026-11-06 | US citizens/persons only, clearance |
+| nTop | [Aircraft Design Fellow (Summer 2027 Internship)](https://jobs.gem.com/ntop/am9icG9zdDqsw8QdEms1JsLoDfdV18NX) · Summer 2027 | US NY HQ | $20/hour | 2026-11-06 |  |
+| Ramboll | [Intern, Air Quality](https://jobs.smartrecruiters.com/Ramboll3/744000159949759-intern-air-quality) | Los Angeles, California, us | $27 to $32/hour | 2026-11-06 |  |
+| Repsol | [Origination Intern](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/Origination-Intern_84101) | Downtown Houston |  | 2026-11-06 | no visa sponsorship |
+| Seagate | [Lapping Development Intern - Summer 2027](https://seagatecareers.com/job/Bloomington-Lapping-Development-Intern-Summer-2027-MN/1448211700/) · Summer 2027 | Normandale, United States | $27 to $35/hour | 2026-11-06 |  |
+| Stripe | [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332681) | San Francisco, Seattle, New York City |  | 2026-11-06 |  |
+| Toyota Research Institute | [Accelerated Science Intern, Multi-Agent Learning and Coordination](https://jobs.lever.co/tri/86e6a285-bb0a-4e84-8bf9-bd498d45c33d) | Los Altos, CA | $45 to $65/hour | 2026-11-06 |  |
+| Water Resources Group | [2027 Safety Internship](https://wrgroup.bamboohr.com/careers/113) | Deerwood, Minnesota, United States |  | 2026-11-06 |  |
+| Consigli Construction | [Estimating Intern (Summer 2027)](https://apply.workable.com/j/C49168C40F) · Summer 2027 | White Plains, New York, United States | $24 to $29/hour | 2026-11-06 |  |
+| Innocence Project | [2027 Post Conviction Litigation Summer Law Student Intern](https://apply.workable.com/j/D52B4434A9) · Summer 2027 | New York, New York, United States | $19.50/hour | 2026-11-06 | no visa sponsorship |
+| Charter Communications | [2027 Summer Intern: WiFi Product Team](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-wifi-product-team/4673/100194453584) · Summer 2027 | Greenwood Village, Colorado |  | 2026-11-06 | no visa sponsorship |
+| Consigli Construction | [Estimating Intern (Summer 2027)](https://apply.workable.com/j/B5739512B6) · Summer 2027 | New Brunswick, New Jersey, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Arch Energy Intern (Summer 2027)](https://apply.workable.com/j/FE05A3298C) · Summer 2027 | Milford, Massachusetts, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Estimating Intern (Summer 2027)](https://apply.workable.com/j/64279CB472) · Summer 2027 | Raleigh, North Carolina, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Safety Intern (Spring 2027)](https://apply.workable.com/j/5F2F7477C7) · Spring 2027 | Milford, Massachusetts, United States | $23 to $28/hour | 2026-11-06 |  |
+| Consigli Construction | [Estimating Intern (Summer 2027)](https://apply.workable.com/j/B0DBBF4F37) · Summer 2027 | Milford, Massachusetts, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Estimating Intern (Summer 2027)](https://apply.workable.com/j/07BD4362F2) · Summer 2027 | Albany, New York, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Estimating Intern (Summer 2027)](https://apply.workable.com/j/61AA9ED929) · Summer 2027 | Hartford, Connecticut, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Estimating Intern (Summer 2027)](https://apply.workable.com/j/7DA2083BC6) · Summer 2027 | New York, New York, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Estimating Intern (Summer 2027)](https://apply.workable.com/j/7C8BF0D06F) · Summer 2027 | Pleasant Valley, New York, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Safety Intern (Summer 2027)](https://apply.workable.com/j/B8D6CDFC32) · Summer 2027 | New York, New York, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Scheduling Intern (Summer 2027)](https://apply.workable.com/j/24EA14D227) · Summer 2027 | Milford, Massachusetts, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Self-Perform Intern (Summer 2027)](https://apply.workable.com/j/626B38D352) · Summer 2027 | Milford, Massachusetts, United States | $24 to $29/hour | 2026-11-06 |  |
+| Apogee Global RMS | [Junior Internship Opportunity](https://apply.workable.com/j/EBA153C666) | San Jose, California, United States |  | 2026-11-06 |  |
+| Cal Farley's Boys Ranch | [2027 UT Social Work Masters Level Final Field Internship](https://apply.workable.com/j/259736830C) | Boys Ranch, Texas, United States |  | 2026-11-06 |  |
+| Cal Farley's Boys Ranch | [Casework Intern](https://apply.workable.com/j/1635E0E31F) | Boys Ranch, Texas, United States |  | 2026-11-06 |  |
+| GOLFTEC Intellectual Property LLC | [GOLFTEC Coach Internship](https://apply.workable.com/j/4E94C1ABD5) | Englewood, Colorado, United States | $18 to $24/hour | 2026-11-06 |  |
+| Cal Farley's Boys Ranch | [Youth Ministry Intern (Residential)](https://apply.workable.com/j/9A26018D07) | Boys Ranch, Texas, United States |  | 2026-11-06 |  |
 | Black & Veatch | [Instrument & Controls Intern - Substation](https://careers.bv.com/job/Overland-Park-Instrument-&-Controls-Intern-Substation-KS-66062/1442088733/) | Houston, TX, US |  | 2026-11-05 |  |
 | Black & Veatch | [Instrument & Controls Intern - BESS](https://careers.bv.com/job/Overland-Park-Instrument-&-Controls-Intern-BESS-KS-66062/1444011333/) | Houston, TX, US |  | 2026-11-05 |  |
 | BGE, Inc | [NASHVILLE - Land/Site Development, Internship](https://job-boards.greenhouse.io/bgeinc/jobs/5473735008) | Nashville, Tennessee, United States |  | 2026-11-05 |  |
@@ -17,7 +58,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Expeditors | [Senior Intern](https://jobs.smartrecruiters.com/Expeditors/744000159731261-senior-intern) | Piperton, TN, us |  | 2026-11-05 | no visa sponsorship |
 | HCSC | [Early Careers - Experience Researcher Senior Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Experience-Researcher-Senior-Intern_R0056315) | IL - Chicago | $22.54 to $40.31/hour | 2026-11-05 | no visa sponsorship |
 | Mischler | [Intern or Entry Level](https://mischler.bamboohr.com/careers/13) | Stamford, Connecticut, United States |  | 2026-11-05 |  |
-| Molina Healthcare | [Intern](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040148) | NE, United States |  | 2026-11-05 |  |
 | NVIDIA | [VLSI Timing Methodology Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798) · Summer 2027 | US, CA, Santa Clara |  | 2026-11-05 |  |
 | SharkNinja | [Spring 2027: Product Development Co-op, Shark (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726452006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-05 |  |
 | SharkNinja | [Spring 2027: Product Integrity Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726437006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-05 |  |
@@ -42,7 +82,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lakewood Construction | [Architecture Intern](https://lakewoodgroup.bamboohr.com/careers/36) | Holland, Michigan, United States |  | 2026-11-05 |  |
 | NCJW | [Development Intern](https://ncjw.bamboohr.com/careers/56) | Washington, District of Columbia, United States | $18.40/hour | 2026-11-05 |  |
 | nuuds | [Apparel Design Intern](https://jobs.lever.co/nuuds/8dd1ddca-d7bb-45cc-b3b1-9c2d341da3ae) | Dallas, Texas |  | 2026-11-05 |  |
-| Place Showroom | [NYC Internship Spring 2027](https://jobs.lever.co/placeshowroom.com/9b067b1e-48f9-47ad-a6e5-94c919a4e36d) · Spring 2027 | New York City |  | 2026-11-05 |  |
 | Triangle Land Conservancy | [Historical Interpretation Intern](https://triangle-land-conservancy.breezy.hr/p/672c4ab5a7ec-historical-interpretation-intern) | Durham, NC |  | 2026-11-05 |  |
 | Black & Veatch | [Instrument & Controls Intern - APG](https://careers.bv.com/job/Overland-Park-Instrument-&-Controls-Intern-APG-KS-66062/1442495533/) | Ann Arbor, MI, US |  | 2026-11-05 |  |
 | NTI | [Summer Intern-Rockville](https://nti.bamboohr.com/careers/105) · Summer | Rockville, Maryland, United States |  | 2026-11-05 |  |
@@ -66,7 +105,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Father Nature Landscapes | [Summer Intern 2027](https://fathernaturelandscapes.bamboohr.com/careers/92) · Summer | Birmingham, Alabama, United States | $15/hour | 2026-11-05 |  |
 | Pine Tree Legal Assistance | [Summer 2027 Internships for Law Students](https://ptla.bamboohr.com/careers/142) · Summer 2027 | Portland, Maine, United States |  | 2026-11-05 |  |
 | Stanley Consultants | [Student Intern 2027 - Transportation Design](https://jobs.lever.co/stanleygroup/bbacfdb7-3553-4dbd-8c10-d11ddc5c9447) | Chicago, IL |  | 2026-11-05 |  |
-| Penta Group | [Monitoring & Insights Internship](https://jobs.lever.co/pentagrp/f3d7a9a9-fa1a-40c2-86be-4d650f7da8fe) | Remote | $20/hour | 2026-11-05 |  |
 | Rycon Construction | [JR169 Internship](https://rycon.bamboohr.com/careers/876) | Multiple Cities, Pennsylvania, United States |  | 2026-11-05 |  |
 | Houston Engineering, Inc. | [Survey Intern](https://jobs.smartrecruiters.com/HoustonEngineeringInc/744000153763429-survey-intern) | Fargo, ND, us |  | 2026-11-05 |  |
 | The Evoke Agency | [Internship - Spring 2027](https://theevokeagency.bamboohr.com/careers/136) · Spring 2027 | Madison, Wisconsin, United States |  | 2026-11-05 |  |
@@ -292,8 +330,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Center for a New American Security | [Development Intern](https://cnas.bamboohr.com/careers/139) | Washington, District of Columbia, United States | $1,900/month | 2026-11-04 |  |
 | Center for Strategic and International Studies, Inc. | [Spring Intern, Freeman Chair in China Studies](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4469684009) · Spring | Washington, D.C. | $18.40 to $20.40/hour | 2026-11-04 |  |
 | Center for Strategic and International Studies, Inc. | [Spring Intern, Japan Chair](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4464393009) · Spring | Washington, D.C. | $18.40 to $20.40/hour | 2026-11-04 |  |
-| Horace Mann | [Intern - Temporary](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6236091004) | Remote | $26/hour | 2026-11-04 |  |
 | Horace Mann | [Intern - Temporary](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6236094004) | Remote | $26/hour | 2026-11-04 |  |
+| Horace Mann | [Intern - Temporary](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6236091004) | Remote | $26/hour | 2026-11-04 |  |
 | REXEL | [Intern (Summer 2027)](https://jobs.smartrecruiters.com/REXEL1/744000158286680-intern-summer-2027-) · Summer 2027 | Indianapolis, IN, us |  | 2026-11-04 |  |
 | REXEL | [Intern (Summer 2027)](https://jobs.smartrecruiters.com/REXEL1/744000158285584-intern-summer-2027-) · Summer 2027 | Indianapolis, IN, us |  | 2026-11-04 |  |
 | SharkNinja | [Spring 2027: Consumer Insights Co-op, Shark (January to June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4724022006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
@@ -400,7 +438,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4429571009) · Summer 2027 | Syracuse, NY | $23 to $30/hour | 2026-11-04 |  |
 | LLNL | [Space Science Institute Graduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015908146-space-science-institute-graduate-intern-summer-2027) · Summer 2027 | Livermore, CA, us |  | 2026-11-04 | clearance |
 | LLNL | [Space Science Institute Undergraduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015908136--space-science-institute-undergraduate-intern-summer-2027) · Summer 2027 | Livermore, CA, us | $23.26 to $31.62/hour | 2026-11-04 | clearance |
-| nuHarbor | [Summer Internship](https://www.nuharborsecurity.com/careers?gh_jid=8259956) · Summer 2027 | Burlington, Vermont | $18/hour | 2026-11-04 | US citizens/persons only |
 | Circle Logistics | [Spring of 2027 Part-Time Internship](https://jobs.smartrecruiters.com/CircleLogistics1/3743990015895556-spring-of-2027-part-time-internship) · Spring 2027 | Fort Wayne, IN, us | $15/hour | 2026-11-04 |  |
 | CIVICUS | [Human Right Intern](https://civicus.bamboohr.com/careers/87) | Remote | $1,200/month | 2026-11-04 |  |
 | National Life Insurance Company | [People Center Intern – Summer 2027](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410926009) · Summer 2027 | Addison, TX; Montpelier, VT | $19 to $28/hour | 2026-11-04 | no visa sponsorship |
@@ -457,8 +494,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AECOM | [BIM Intern - Hiring Event with AECOM - Philadelphia](https://jobs.smartrecruiters.com/AECOM2/744000152268835-bim-intern-hiring-event-with-aecom-philadelphia) · Summer 2027 | Newark, DE, us |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Dark Wolf Solutions | [Creighton University College Fair - Internship](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8007372003) | Omaha, NE |  | 2026-11-04 |  |
 | Dark Wolf Solutions | [UCCS College Fair - Internship](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8007030003) | Colorado Springs, CO |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op – Land Surveying (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4421195009) · Summer 2027 | Dallas, TX |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Land Surveying (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4421156009) · Summer 2027 | Austin, TX |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op – Land Surveying (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4421195009) · Summer 2027 | Dallas, TX |  | 2026-11-04 |  |
 | Voyager Technologies, Inc. | [2027 Government Relations Intern](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423338009) | Washington D.C. | $23.50 to $30/hour | 2026-11-04 | US citizens/persons only |
 | Veeam Software | [Professional Services Intern- Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4987734101) · Summer 2027 | Alpharetta, GA, USA (hybrid) | $20 to $25/hour | 2026-11-04 |  |
 | Lampire Biological Laboratories, Inc. | [Internship - Everett Locations](https://lampire.bamboohr.com/careers/90) | Everett, Pennsylvania, United States |  | 2026-11-04 |  |
@@ -475,11 +512,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Alliance Animal Health | [DVM Student Externship - Riverdale Park Animal Hospital](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000150389710-dvm-student-externship-riverdale-park-animal-hospital) | Riverdale Park, MD, us |  | 2026-11-04 |  |
 | Clickstop | [Interested in an internship with us? Share your info here!](https://job-boards.greenhouse.io/clickstop/jobs/8822422002) · Summer 2027 | Urbana, IA |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4408765009) · Summer 2027 | Tampa, Florida, United States |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4407654009) · Summer 2027 | Parsippany, NJ | $24 to $31/hour | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4408781009) · Summer 2027 | West Palm Beach, Florida, United States |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403320009) · Summer 2027 | Fort Lauderdale, Florida, United States |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4408559009) · Summer 2027 | Miami, Florida, United States |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4408635009) · Summer 2027 | Orlando, Florida, United States |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4407654009) · Summer 2027 | Parsippany, NJ | $24 to $31/hour | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4408559009) · Summer 2027 | Miami, Florida, United States |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403320009) · Summer 2027 | Fort Lauderdale, Florida, United States |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Environmental (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4408781009) · Summer 2027 | West Palm Beach, Florida, United States |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Land Surveying (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403254009) · Summer 2027 | Pittsburgh, PA |  | 2026-11-04 |  |
 | AECOM | [Bridge Inspector Intern - Hiring Event with AECOM - Boston, MA](https://jobs.smartrecruiters.com/AECOM2/744000150197840-bridge-inspector-intern-hiring-event-with-aecom-boston-ma) · Summer 2027 | Providence, RI, us |  | 2026-11-04 | no visa sponsorship |
 | Circle Logistics | [Summer Internship 2027](https://jobs.smartrecruiters.com/CircleLogistics1/3743990015341401-summer-internship-2027) · Summer | Fort Wayne, IN, us | $15/hour | 2026-11-04 |  |
@@ -541,10 +578,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CLEAR Global | [Tarjimly WFP Uganda Pilot Intern - MIIS](https://clear.bamboohr.com/careers/488) | Remote |  | 2026-11-04 |  |
 | IDMe University | [Summer Intern 2027 - Product Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) · Summer | Mountain View, CA | $55 to $65/hour | 2026-11-04 |  |
 | Syska Hennessy Group | [Commissioning Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177888) · Summer | New York, NY | $26 to $28/hour | 2026-11-04 |  |
-| Syska Hennessy Group | [ICT Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8178032) · Summer | Charlotte, NC | $23 to $27/hour | 2026-11-04 |  |
 | Syska Hennessy Group | [ICT Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8175613) · Summer | Los Angeles, CA | $24 to $27/hour | 2026-11-04 |  |
 | Syska Hennessy Group | [ICT Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177497) · Summer | Chicago., IL | $23 to $27/hour | 2026-11-04 |  |
 | Syska Hennessy Group | [ICT Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177878) · Summer | New York, NY | $26 to $28/hour | 2026-11-04 |  |
+| Syska Hennessy Group | [ICT Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8178032) · Summer | Charlotte, NC | $23 to $27/hour | 2026-11-04 |  |
 | Syska Hennessy Group | [Jr Intern - 2027](https://job-boards.greenhouse.io/syskahennessy/jobs/8177955) | New York, NY | $17 to $18/hour | 2026-11-04 |  |
 | Syska Hennessy Group | [Lighting Design Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177851) · Summer | New York, NY | $35,027 to $52,541 | 2026-11-04 |  |
 | Flagship Pioneering Co-Op Program | [Etiome: Proteomics Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8783751002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
@@ -575,9 +612,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Winsupply | [Pricing Processing Specialist Intern](https://jobs.smartrecruiters.com/Winsupply1/3743990015014346-pricing-processing-specialist-intern) | Moraine, OH, us |  | 2026-11-04 |  |
 | Foundation Risk Partners | [FRP Internship - Summer 2027](https://job-boards.greenhouse.io/foundationriskpartners/jobs/5218476007) · Summer 2027 | Ormond Beach, Florida, United States |  | 2026-11-04 |  |
 | Foundation Risk Partners | [FRP Internship - Summer 2027](https://job-boards.greenhouse.io/foundationriskpartners/jobs/5218479007) · Summer 2027 | Sunrise, Florida, United States |  | 2026-11-04 |  |
+| Foundation Risk Partners | [Summer 2027 Internship](https://job-boards.greenhouse.io/foundationriskpartners/jobs/5218450007) · Summer 2027 | Camden, New Jersey, United States | $16 to $17/hour | 2026-11-04 |  |
 | Foundation Risk Partners | [Summer 2027 Internship](https://job-boards.greenhouse.io/foundationriskpartners/jobs/5218452007) · Summer 2027 | Louisville, Kentucky, United States |  | 2026-11-04 |  |
 | Foundation Risk Partners | [Summer 2027 Internship](https://job-boards.greenhouse.io/foundationriskpartners/jobs/5218443007) · Summer 2027 | New York, New York, United States | $16 to $17/hour | 2026-11-04 |  |
-| Foundation Risk Partners | [Summer 2027 Internship](https://job-boards.greenhouse.io/foundationriskpartners/jobs/5218450007) · Summer 2027 | Camden, New Jersey, United States | $16 to $17/hour | 2026-11-04 |  |
 | Olsson | [Student Internship - Environmental Sciences](https://job-boards.greenhouse.io/olsson/jobs/5412829008) · Summer 2027 | North Kansas City, MO |  | 2026-11-04 |  |
 | Olsson | [Survey Internship](https://job-boards.greenhouse.io/olsson/jobs/5394227008) | Grand Island, NE |  | 2026-11-04 |  |
 | Syngenta Group | [Trialing and Product Placement Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000146814069-trialing-and-product-placement-intern) | Woodland, CALIFORNIA, us | $20 to $45/hour | 2026-11-04 |  |
@@ -590,9 +627,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Syngenta Group | [Processing Tomato Plant Breeding Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000146738192-processing-tomato-plant-breeding-intern) | Woodland, CALIFORNIA, us | $20 to $45/hour | 2026-11-04 |  |
 | Turning Point Action | [Turning Point Action Intern](https://tpaction.breezy.hr/p/5e46563821a5-turning-point-action-intern) | Phoenix, AZ |  | 2026-11-04 |  |
 | Olsson | [Student Internship - Landscape Architecture](https://job-boards.greenhouse.io/olsson/jobs/5405639008) · Summer 2027 | Kansas City, MO; Lincoln, NE |  | 2026-11-04 |  |
-| Olsson | [Student Internship - Survey](https://job-boards.greenhouse.io/olsson/jobs/5407752008) · Summer 2027 | Overland Park, KS |  | 2026-11-04 |  |
 | Olsson | [Student Internship - Survey](https://job-boards.greenhouse.io/olsson/jobs/5411404008) · Summer 2027 | Fayetteville, AR |  | 2026-11-04 |  |
 | Olsson | [Student Internship - Survey](https://job-boards.greenhouse.io/olsson/jobs/5407709008) · Summer 2027 | North Kansas City, MO |  | 2026-11-04 |  |
+| Olsson | [Student Internship - Survey](https://job-boards.greenhouse.io/olsson/jobs/5407752008) · Summer 2027 | Overland Park, KS |  | 2026-11-04 |  |
 | Satterfield & Pontikes | [Intern - Summer 2027](https://satpon.bamboohr.com/careers/67) · Summer 2027 |  |  | 2026-11-04 |  |
 | Satterfield & Pontikes | [Intern - Summer 2027](https://satpon.bamboohr.com/careers/68) · Summer 2027 | Dallas, Texas, United States |  | 2026-11-04 |  |
 | Satterfield & Pontikes | [Intern - Summer 2027](https://satpon.bamboohr.com/careers/69) · Summer 2027 | San Antonio, Texas, United States |  | 2026-11-04 |  |
@@ -629,7 +666,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Alliance Animal Health | [DVM Student Externship - [Winder Animal Hospital]](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000145520969-dvm-student-externship-winder-animal-hospital-) | Winder, GA, us |  | 2026-11-04 |  |
 | Alliance Animal Health | [DVM Student Externship - [Central Hospital For Animals – Carbondale]](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000145516999-dvm-student-externship-central-hospital-for-animals-carbondale-) | Carbondale, IL, us |  | 2026-11-04 |  |
 | Alliance Animal Health | [DVM Student Externship - [Central Hospital For Animals – Harrisburg]](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000145516199-dvm-student-externship-central-hospital-for-animals-harrisburg-) | Harrisburg, IL, us |  | 2026-11-04 |  |
-| Compeer Financial | [Intern Leasing Specialist](https://job-boards.greenhouse.io/compeerfinancial/jobs/5406055008) | MN- Mankato; MN-Lakeville; MN-Rochester | $19 to $20/hour | 2026-11-04 | no visa sponsorship |
 | VetEvolve | [Danville Family Vet DVM/VMD Student Extern - Housing Available!](https://job-boards.greenhouse.io/vetevolve/jobs/5405465008) | United States |  | 2026-11-04 |  |
 | A.N. Publishing | [Center-Right Conservative Political Journalist Intern](https://jobs.smartrecruiters.com/ANPublishing1/744000145378219-center-right-conservative-political-journalist-intern) | Washington, DC, us |  | 2026-11-04 |  |
 | Alliance Animal Health | [DVM Student Externship - [Central Hospital For Animals – Herrin]](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000145366749-dvm-student-externship-central-hospital-for-animals-herrin-) | Herrin, IL, us |  | 2026-11-04 |  |
@@ -711,7 +747,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Western Veterinary Partners | [DVM Student Externship - Kentucky](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343729009) | Louisville, Kentucky, United States |  | 2026-11-04 |  |
 | Western Veterinary Partners | [DVM Student Externship - Louisiana](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343732009) | Shreveport, LA |  | 2026-11-04 |  |
 | Western Veterinary Partners | [DVM Student Externship - Massachusetts](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343738009) | Somerville, MA |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - Michigan](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343743009) | Traverse City, MI |  | 2026-11-04 |  |
+| Western Veterinary Partners | [DVM Student Externship - Michigan](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343743009) | Ann Arbor, MI |  | 2026-11-04 |  |
 | Western Veterinary Partners | [DVM Student Externship - Minnesota](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343746009) | Alexandria, MN; Forest Lake, MN; Inver Grove Heights, MN |  | 2026-11-04 |  |
 | Western Veterinary Partners | [DVM Student Externship - Mississippi](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343748009) | Madison, MS |  | 2026-11-04 |  |
 | Western Veterinary Partners | [DVM Student Externship - Missouri](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343756009) | Arnold, MO; Branson, MO |  | 2026-11-04 |  |
@@ -720,39 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Western Veterinary Partners | [DVM Student Externship - Nevada](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343817009) | Reno, NV |  | 2026-11-04 |  |
 | Western Veterinary Partners | [DVM Student Externship - New Jersey](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343819009) | Sewell, NJ |  | 2026-11-04 |  |
 | Western Veterinary Partners | [DVM Student Externship - New Mexico](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343825009) | Albuquerque, NM; Bernalillo, NM; Los Lunas, NM |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - North Carolina](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343837009) | Charlotte, NC; Greensboro, NC; Mebane, NC; Mooresville, North Carolina |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - North Dakota](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343842009) | Fargo, ND |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - Ohio](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343845009) | Batavia, OH; Cincinnati, OH; Cleveland, OH; Columbus, OH; Columbus, OH |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - Oklahoma](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343847009) | Bethany, OK; Broken Arrow, OK; Jenks, OK; Norman, OK; Norman, OK; Tuls |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - Oregon](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343849009) | Aloha, OR; Bend, OR; Bend, OR; Bend, OR; Cottage Grove, OR; Dallas, OR |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - Pennsylvania](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343855009) | Muncy, PA; Philadelphia, PA; Pittsburgh, PA; Springdale, PA |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - South Carolina](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343860009) | Columbia, SC; Hanahan, SC; Inman, SC; Irmo, SC; Little River, SC; Ridg |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - South Dakota](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343864009) | Rapid City, SD |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - Tennessee](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343867009) | Columbia, TN; Columbia, TN; Dandridge, TN; New Tazewell, TN; Oakland,  |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - Texas](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343875009) | Austin, TX |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - Utah](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343882009) | American Fork, UT; Cottonwood Heights, UT; Park City, UT; Park City, U |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - Virginia](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343888009) | Chesapeake, VA; Portsmouth, VA; Woodbridge, VA |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - Washington](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343892009) | Bellevue, WA; Cheney, WA; Duvall, WA; Lacey, WA; Mercer Island, WA; Mo |  | 2026-11-04 |  |
-| Western Veterinary Partners | [DVM Student Externship - Wisconsin](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4343904009) | Mount Pleasant, WI; Oconomowoc, WI; Wrightstown, WI |  | 2026-11-04 |  |
-| Aimpoint Digital | [SkillBridge Decision Science Intern 2026 - Active Duty US Military Only](https://aimpoint-digital.breezy.hr/p/763b82f1f40a-skillbridge-decision-science-intern-2026-active-duty-us-military-only) | Atlanta, GA |  | 2026-11-04 |  |
-| Alliance Animal Health | [DVM Student Externship](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000140715179-dvm-student-externship) | Pea Ridge, AR, us |  | 2026-11-04 |  |
-| Events/University | [OSU ColorStack - Summer 2027 Internships](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) · Summer 2027 | Tempe, Arizona, United States (remote) |  | 2026-11-04 | no visa sponsorship |
-| Veterinary Emergency Group (VEG) | [DVM Externship (January 2027 - June 2027)](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6116830004?gh_jid=6116830004) | Various Locations, United States |  | 2026-11-04 |  |
-| PR Consulting Internships | [PRC Internship, Beauty](https://job-boards.greenhouse.io/prcinternships/jobs/4336549009) | New York, NY |  | 2026-11-04 |  |
-| Maritime & Healthcare Group | [Tender & RFP Intern](https://maritimeandhealthcaregroup.teamtailor.com/jobs/8111905-tender-rfp-intern) | Remote |  | 2026-11-04 |  |
-| Tixr | [General Internship (Graduate)](https://ats.rippling.com/tixr/jobs/96ef2366-d423-4e7f-8afa-3561302caec5) | Santa Monica, CA |  | 2026-11-04 |  |
-| WellPower - All | [ASL Student Intern](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7808545003) | Denver |  | 2026-11-04 |  |
-| Democracy Defenders Action | [Paid Intern (Rolling/As Needed)](https://job-boards.greenhouse.io/democracydefendersaction/jobs/4318280009) | U.S. Remote |  | 2026-11-04 |  |
-| Telix Pharmaceuticals (AMER) | [Supplier Quality Intern](https://telixpharma.com/careers/find-a-job/?region=telixus&gh_jid=4695586006) | Fishers; USA- Remote |  | 2026-11-04 |  |
-| Astra | [2026 Fall Interns](https://ats.rippling.com/astra/jobs/82d5d6a5-257f-440e-8b8f-d49af4ec3209) · Fall 2026 | Alameda, CA | $22/hour | 2026-11-04 | US citizens/persons only |
-| Impiricus | [Impiricus Intern](https://job-boards.greenhouse.io/impiricus/jobs/5324077008) | Atlanta, GA, New York, NY, or Remote | $25/hour | 2026-11-04 |  |
-| The Price Center | [Internship - Direct Support](https://thepricecenter.bamboohr.com/careers/83) | Newton, Massachusetts, United States |  | 2026-11-04 |  |
-| Certified Group | [Future Internship Opportunities 2027](https://job-boards.greenhouse.io/certifiedgroup/jobs/4306008009) · Summer 2026 | Allentown, PA; Amarillo, TX; Atlanta, GA; Aurora, IL; Boise, ID; Brook |  | 2026-11-04 |  |
-| Create Music Group | [A&R Discovery Intern](https://ats.rippling.com/createmusicgroup/jobs/93350021-a388-43ff-839d-3395bc1b4eff) · Fall 2026 | Los Angeles, CA (hybrid) |  | 2026-11-04 |  |
-| Starfish Space Inc. | [Skillbridge Internship](https://jobs.ashbyhq.com/starfish-space-inc/a861c3d5-e80b-4e9d-82dd-a104ea5ecd58) | Tukwila, Washington |  | 2026-11-04 | US citizens/persons only |
-| Lampire Biological Laboratories, Inc. | [Internship - Eastern Locations](https://lampire.bamboohr.com/careers/50) | Ottsville, Pennsylvania, United States |  | 2026-11-04 |  |
-| Essex District Attorney's Office | [Undergrad Internship](https://ecdao.bamboohr.com/careers/39) | Salem, Massachusetts, United States |  | 2026-11-04 |  |
-| McAdams | [General Internship](https://job-boards.greenhouse.io/mcadams/jobs/5159993007) | Raleigh, North Carolina, United States |  | 2026-11-04 |  |
-| Jensen Hughes | [Intern](https://job-boards.greenhouse.io/jensenhughes/jobs/5253094008) | Concord, California, United States | $20 to $30/hour | 2026-11-04 |  |
-| Atlas Technica | [Intern Trainee - NY](https://atlas-technica.breezy.hr/p/215c49a26abe-intern-trainee-ny) | New York, NY |  | 2026-11-04 |  |
-| Messa, Inc. | [Generalist Intern](https://jobs.ashbyhq.com/messa/a7822443-df7a-424f-a209-fbd408e96f7b) | Americas |  | 2026-11-04 |  |

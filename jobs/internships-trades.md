@@ -1,11 +1,41 @@
 # Internships and co-ops: Skilled trades, service and retail
 
-614 open, newest first (by the date the scraper first saw them), updated 2026-11-05.
+623 open, newest first (by the date the scraper first saw them), updated 2026-11-06.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Arrow Electric | [Electrician Apprentice](https://ats.rippling.com/arrow-electric/jobs/d69bca31-7b69-439e-9ddb-25911bf7176b) | Louisville, KY |  | 2026-11-06 |  |
+| Bosch | [Apprentice Machinist](https://jobs.smartrecruiters.com/BoschGroup/744000159971724-apprentice-machinist) | Mount Prospect, IL, us | $33 to $38/hour | 2026-11-06 | no visa sponsorship |
+| Caterpillar | [Machinist Apprentice](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Green-Valley-Arizona/Machinist-Apprentice_R0000395414) | Green Valley, Arizona | $18.65 to $27.95/hour | 2026-11-06 | no visa sponsorship |
+| Charles Schwab | [2027 Retail Investor Services Intern](https://www.schwabjobs.com/job/austin/2027-retail-investor-services-intern/33727/102909807392) · Summer 2027 | Austin, Texas |  | 2026-11-06 | no visa sponsorship |
+| CommonSpirit Health (St. Luke's Health) | [Intern Surgical Technician](https://www.commonspirit.careers/job/chattanooga/intern-surgical-technician/35300/102897602048) | CHATTANOOGA, TN |  | 2026-11-06 |  |
+| East West Hospitality | [Food & Beverage Internship / Viceroy Snowmass](https://ats.rippling.com/east-west-hospitality/jobs/29f4c80d-97aa-4131-9fb0-89c7d87215f0) | Snowmass Village, CO | $15.16/hour | 2026-11-06 |  |
+| O-I | [Maintenance Apprentice (Journeyman)](https://jobs.smartrecruiters.com/O-I/744000159927240-maintenance-apprentice-journeyman-) | Toano, VA, us | $34.54/hour | 2026-11-06 |  |
+| Reliant Mission | [Mercy Church Apprenticeship](https://reliantinternships.breezy.hr/p/e0a04ac719ed-mercy-church-apprenticeship) | Charlotte, NC |  | 2026-11-06 |  |
+| Spark Power | [Electrician Apprentice](https://spark-power.breezy.hr/p/53647c706ea001-electrician-apprentice) | Atlanta, GA |  | 2026-11-06 |  |
+| Spark Power | [Electrician Apprentice](https://spark-power.breezy.hr/p/de77747e161f01-electrician-apprentice) | Santa Teresa, NM |  | 2026-11-06 |  |
+| Walmart Global Tech | [(USA) Summer 2027 Corporate Intern: Last Mile Delivery Shopper Experience Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Shopper-Experience-Intern_R-2686354) · Summer 2027 | (USA) Together Building AR Bentonville Home Office | $21 to $40/hour | 2026-11-06 |  |
+| Walmart Global Tech | [(USA) Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828) · Summer 2027 | (USA) J Street Offices, Suite #2 AR BENTONVILLE Home Office | $21 to $40/hour | 2026-11-06 |  |
+| WM (Waste Management) | [Apprentice, Driver, Commercial](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355745) | Liverpool, NY, United States | $23 to $25/hour | 2026-11-06 |  |
+| Xcel Energy | [Journeyman Lineman/Advanced Step (5th step or higher) Apprentice Lineman - Montrose, MN](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Montrose-MN-55363/Journeyman-Lineman-Advanced-Step--5th-step-or-higher--Apprentice-Lineman---Montrose--MN_JR117421-1) | Montrose, MN, 55363 | $49.82 to $62.27/hour | 2026-11-06 |  |
+| Hoffmann Brothers | [Plumbing Service Apprentice](https://apply.workable.com/j/9A407043B6) | Nashville, Tennessee, United States |  | 2026-11-06 |  |
+| Blue United Sourcing | [Copper Fabricator Apprentice, Mechanics and Military Veterans Wanted](https://apply.workable.com/j/4258DFD112) | Edison, New Jersey, United States | $28 to $30/hour | 2026-11-06 |  |
+| Geoprobe Systems® | [Welder-Fabricator Intern](https://apply.workable.com/j/D5CF54464C) | Salina, Kansas, United States |  | 2026-11-06 |  |
+| CBH Homes | [Plumbing Apprentice](https://apply.workable.com/j/7C2DEFAD2E) | Nampa, Idaho, United States |  | 2026-11-06 |  |
+| CBH Homes | [Redline Plumbing - Apprentice Plumber](https://apply.workable.com/j/13A00A17B7) | Nampa, Idaho, United States |  | 2026-11-06 |  |
+| James A. Wheat & Sons, Inc | [Residential Service Plumber - Not an Apprentice Position](https://apply.workable.com/j/8BF890E1BF) | Montgomery Village, Maryland, United States |  | 2026-11-06 |  |
+| Applewood Plumbing, Heating & Electric | [Apprentice Plumber](https://applewoodfixit.bamboohr.com/careers/6) | Denver, Colorado, United States |  | 2026-11-06 |  |
+| CBH Homes | [Experienced Electrician Apprentice](https://apply.workable.com/j/D15CED5CE6) | Nampa, Idaho, United States |  | 2026-11-06 |  |
+| CBH Homes | [Apprentice Electrician](https://apply.workable.com/j/FF2864C552) | Nampa, Idaho, United States |  | 2026-11-06 |  |
+| Monster Tree Service | [Grounds Crew/Apprentice Tree Climber - Monster Tree Service of Albany & Saratoga County](https://jobs.lever.co/whymonster/f90a1df2-713e-471d-b792-f5542d5daad0) | Clifton Park, New York |  | 2026-11-06 |  |
+| GXA | [Provisioning Technician (Intern)](https://apply.workable.com/j/D0766E6AE3) | Richardson, Texas, United States |  | 2026-11-06 |  |
+| Entergy | [Relay Apprentice](https://jobs.entergy.com/job/Brookhaven-Relay-Apprentice-Miss/1448168500/) | Brookhaven, Mississippi, United States |  | 2026-11-06 | no visa sponsorship |
+| Entergy | [Substation Apprentice](https://jobs.entergy.com/job/Grenada-Substation-Apprentice-Miss/1448190500/) | Grenada, Mississippi, United States |  | 2026-11-06 | no visa sponsorship |
+| Entergy | [Substation Apprentice](https://jobs.entergy.com/job/Flora-Substation-Apprentice-Miss/1448184900/) | Flora, Mississippi, United States |  | 2026-11-06 | no visa sponsorship |
+| Entergy | [Substation Apprentice](https://jobs.entergy.com/job/Vicksburg-Substation-Apprentice-Miss/1448181600/) | Vicksburg, Mississippi, United States |  | 2026-11-06 | no visa sponsorship |
+| Skyworks | [Product Development - Assembly and Tuning Summer/Fall Co-Op (June-Dec '27)](https://careers.skyworksinc.com/job/Newbury-Park-Product-Development-Assembly-and-Tuning-SummerFall-Co-Op-%28June-Dec-'27%29-CA-91320/1448446300/) · Summer | Newbury Park, CA, US | $23 to $49/hour | 2026-11-06 |  |
 | NextEra Energy | [Apprentice Instrument & Control Specialist - Itinerant](https://jobs.nexteraenergy.com/job/Indiantown-Apprentice-Instrument-&-Control-Specialist-Itinerant-FL-34956/1448042200/) | Ft Myers, FL, US |  | 2026-11-05 |  |
 | Sonic Automotive | [Powersports Apprentice Technician - Team Mancuso Powersports North](https://jobs.smartrecruiters.com/SonicAutomotive/744000159742824-powersports-apprentice-technician-team-mancuso-powersports-north) | Houston, TX, us | $20/hour | 2026-11-05 |  |
 | Caterpillar | [Welder Apprentice - 1st shift](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/North-Little-Rock-Arkansas/Welder-Apprentice---1st-shift_R0000391697) | North Little Rock, Arkansas | $21.75 to $27.30/hour | 2026-11-05 |  |
@@ -113,7 +143,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ces | [Apprentice Residential Electrician - Custom Homes](https://careers.in-charge-electric.com/en/postings/d253de44-2ac4-4061-88d1-08e434358c79) | Round Rock, Texas |  | 2026-11-05 |  |
 | Ces | [Apprentice Residential Electrician](https://careers.in-charge-electric.com/en/postings/58f12b75-40c3-465e-8111-d203d209a181) | Round Rock, Texas |  | 2026-11-05 |  |
 | Ces | [Apprentice Residential Electrician](https://careers.in-charge-electric.com/en/postings/a067d27d-c693-4aaf-b92a-bb4119e8bc59) | Temple, Texas |  | 2026-11-05 |  |
-| Ces | [Apprentice Electrician – Base Installations](https://careers.in-charge-electric.com/en/postings/e3f2db87-87ae-48cf-a7d1-3bffbe84f8e0) | League City, Texas |  | 2026-11-05 |  |
 | Avanath | [Maintenance Apprentice](https://job-boards.greenhouse.io/communitymanager/jobs/5284474007) | 16145 NW Spartan Way, Portland, OR 97229 | $22 to $24/hour | 2026-11-04 |  |
 | Garage Door Doctor | [Garage Door Technician Apprentice, Houston TX](https://jobs.ashbyhq.com/garage-door-doctor/e2ed95bd-55f9-48e3-861a-663043eff785) | Houston, TX |  | 2026-11-04 |  |
 | Sonic Automotive | [Apprentice Technician-Audi West Houston](https://jobs.smartrecruiters.com/SonicAutomotive/744000159722265-apprentice-technician-audi-west-houston) | Houston, TX, us | $20/hour | 2026-11-04 |  |
@@ -145,7 +174,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Service Wizard | [Duct Install Apprentice](https://job-boards.greenhouse.io/servicewizard/jobs/5459265008) | Hutto, TX | $60,000 to $80,000 | 2026-11-04 |  |
 | Sonic Automotive | [Apprentice Tech - Massey Cadillac of Orlando (North)](https://jobs.smartrecruiters.com/SonicAutomotive/744000156625369-apprentice-tech-massey-cadillac-of-orlando-north-) | Orlando, FL, us | $15/hour | 2026-11-04 |  |
 | Touchstone Climbing | [Routesetter Apprentice - Sacramento Pipeworks NorCal](https://ats.rippling.com/touchstone-climbing/jobs/f8b22e91-c3f5-43e7-b4da-eceb4b024732) | Sacramento, CA | $20/hour | 2026-11-04 |  |
-| Bell Brothers | [Plumbing Install Apprentice](https://job-boards.greenhouse.io/bellbros/jobs/5455943008) | Sacramento, CA | $50,000 to $70,000 | 2026-11-04 |  |
 | California Closets | [Installation Technician - Apprentice](https://jobs.smartrecruiters.com/CaliforniaClosets/744000156052277-installation-technician-apprentice) | Brisbane, CA, us | $26/hour | 2026-11-04 |  |
 | RR Donnelley | [Digital Press Operator Apprentice 1st shift](https://jobs.smartrecruiters.com/RRDonnelley/744000156063209-digital-press-operator-apprentice-1st-shift) | Cudahy, WI, us | $20 to $26/hour | 2026-11-04 |  |
 | AccorHotel | [Food Runner II (Internship)](https://jobs.smartrecruiters.com/AccorHotel/744000155860109-food-runner-ii-internship-) | Kohala Coast, Hawaii, us | $24.04/hour | 2026-11-04 |  |
@@ -191,8 +219,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Above Roofing Inc. | [Repair Tech Apprentice (Full-Time)](https://apply.workable.com/j/A86581EB7B) | Jenison, Michigan, United States | $19 to $21/hour | 2026-11-04 |  |
 | Clinton Foundation | [2027 Spring Admission/Museum Store Intern (Onsite)](https://www.clintonfoundation.org/careers/apply/?gh_jid=8004001003) · Spring 2027 | Little Rock, Arkansas |  | 2026-11-04 |  |
 | Kronospan | [Commercial / Technical Internship](https://jobs.smartrecruiters.com/Kronospan/744000151390348-commercial-technical-internship) · Summer 2027 | Anniston, Alabama, us |  | 2026-11-04 |  |
-| Loenbro | [Apprentice Electrician](https://job-boards.greenhouse.io/loenbro/jobs/4418868009) | Elko, NV |  | 2026-11-04 |  |
 | Loenbro | [Apprentice Electrician](https://job-boards.greenhouse.io/loenbro/jobs/4418763009) | Wyoming |  | 2026-11-04 |  |
+| Loenbro | [Apprentice Electrician](https://job-boards.greenhouse.io/loenbro/jobs/4418868009) | Elko, NV |  | 2026-11-04 |  |
 | Sonic Automotive | [Apprentice Technician - Land Rover Santa Monica](https://jobs.smartrecruiters.com/SonicAutomotive/744000151114829-apprentice-technician-land-rover-santa-monica) | Santa Monica, CA, us |  | 2026-11-04 |  |
 | Loenbro | [Apprentice Electrician](https://job-boards.greenhouse.io/loenbro/jobs/4413959009) | Courtland, AL |  | 2026-11-04 |  |
 | Quantinuum | [Optics R&D Technician Intern - 1019](https://jobs.eu.lever.co/quantinuum/6b28b2e2-482a-40ef-9eb7-886dc4a749ef) | US Albuquerque, NM |  | 2026-11-04 | US citizens/persons only |
@@ -206,15 +234,14 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Sonic Automotive | [Apprentice Technician - Audi Pensacola](https://jobs.smartrecruiters.com/SonicAutomotive/744000149620209-apprentice-technician-audi-pensacola) | Pensacola, FL, us |  | 2026-11-04 |  |
 | Sonic Automotive | [Apprentice Technician - Audi Downtown Nashville](https://jobs.smartrecruiters.com/SonicAutomotive/744000149406359-apprentice-technician-audi-downtown-nashville) | Nashville, TN, us |  | 2026-11-04 |  |
 | Bill Howe Plumbing, Inc. | [Lining Apprentice](https://ats.rippling.com/bill-howe-careers/jobs/b9ef6161-c9fc-4b61-a16a-7e38dc817d53) | San Diego, CA |  | 2026-11-04 |  |
-| Service Champions | [Technician, Drywall Install Apprentice](https://job-boards.greenhouse.io/servicechampions/jobs/5422071008) | Brea, California, United States | $16.90 to $22/hour | 2026-11-04 |  |
 | Anton Paar | [Apprenticeship - Working Trial 2027](https://jobs.smartrecruiters.com/AntonPaar1/744000148562099-apprenticeship-working-trial-2027) | Ashland - Virginia, VA, us |  | 2026-11-04 |  |
 | Fortis Fire & Safety | [Inspector Apprentice](https://job-boards.greenhouse.io/fortisfiresafety/jobs/4399473009) | Boynton Beach, FL |  | 2026-11-04 |  |
+| Hydrite | [Technical Service Intern - Food & Dairy](https://job-boards.greenhouse.io/hydritechemicalco/jobs/8186685) · Summer 2027 | Boise, ID |  | 2026-11-04 |  |
 | Hydrite | [Technical Service Intern - Food & Dairy](https://job-boards.greenhouse.io/hydritechemicalco/jobs/8186648) · Summer 2027 | Lubbock, TX |  | 2026-11-04 |  |
 | Hydrite | [Technical Service Intern - Food & Dairy](https://job-boards.greenhouse.io/hydritechemicalco/jobs/8186652) · Summer 2027 | Dodge City, KS |  | 2026-11-04 |  |
-| Hydrite | [Technical Service Intern - Food & Dairy](https://job-boards.greenhouse.io/hydritechemicalco/jobs/8186685) · Summer 2027 | Boise, ID |  | 2026-11-04 |  |
 | Syska Hennessy Group | [Plumbing Engineering Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8175610) · Summer | Los Angeles, CA | $24 to $27/hour | 2026-11-04 |  |
-| Syska Hennessy Group | [Plumbing Engineering Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177750) · Summer | New York, NY | $26 to $28/hour | 2026-11-04 |  |
 | Syska Hennessy Group | [Plumbing Engineering Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177422) · Summer | Chicago, IL | $23 to $27/hour | 2026-11-04 |  |
+| Syska Hennessy Group | [Plumbing Engineering Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177750) · Summer | New York, NY | $26 to $28/hour | 2026-11-04 |  |
 | fairlife | [Engineering Utilities Intern (Summer 2027)](https://job-boards.greenhouse.io/fairlife/jobs/5231477007) · Summer 2027 | Goodyear, Arizona, United States | $28/hour | 2026-11-04 |  |
 | Murgado Automotive Group | [Apprentice / Express Technician - Audi Stuart!](https://jobs.lever.co/murgadoautomotive/02aad680-5d20-4a27-8f4b-f4e6d26fdf6e) | Stuart, FL | $18/hour | 2026-11-04 |  |
 | STUDS | [Apprentice Piercer](https://job-boards.greenhouse.io/studsinc/jobs/6178812004) | New York, New York | $19 to $24/hour | 2026-11-04 |  |
@@ -238,7 +265,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Spark Power | [Electrician Apprentice](https://spark-power.breezy.hr/p/831851edd0e401-electrician-apprentice) | Hogansville, GA |  | 2026-11-04 |  |
 | Spark Power | [Electrician Apprentice](https://spark-power.breezy.hr/p/7b9c7ab85fb001-electrician-apprentice) | Dallas, TX |  | 2026-11-04 |  |
 | Muth Electric Inc | [North Dakota Apprentice Electrician](https://ats.rippling.com/muth-electric-inc/jobs/4327b180-eaf3-47dc-a9d2-2e32db84f4f2) | Fargo, ND |  | 2026-11-04 |  |
-| Avanath | [Maintenance Apprentice](https://job-boards.greenhouse.io/communitymanager/jobs/5196523007) | Edison, New Jersey, United States | $18.40/hour | 2026-11-04 |  |
 | Kaydon Group | [Apprentice Security Installer](https://kaydongroup.bamboohr.com/careers/61) | Canton, MA, Massachusetts, United States |  | 2026-11-04 |  |
 | Bill Howe Plumbing, Inc. | [Mitigation Services Apprentice](https://ats.rippling.com/bill-howe-careers/jobs/75031920-0062-42e6-b69e-59049ad5d86d) | San Diego, CA |  | 2026-11-04 |  |
 | RR Donnelley | [Press Operator 3 - Apprenticeship](https://jobs.smartrecruiters.com/RRDonnelley/744000139683149-press-operator-3-apprenticeship) | Durham, NC, us | $25 to $50/hour | 2026-11-04 |  |
@@ -278,24 +304,23 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Loenbro | [Apprentice Electrician](https://job-boards.greenhouse.io/loenbro/jobs/4093363009) | California |  | 2026-11-04 |  |
 | CS Erickson | [Electrician (Apprentice)](https://ats.rippling.com/cs-erickson-careers/jobs/be685193-84ac-410d-9272-9f3ac01ded00) | Fort Worth, TX |  | 2026-11-04 |  |
 | CS Erickson | [Electrician (Apprentice - All levels)](https://ats.rippling.com/cs-erickson-careers/jobs/6a7647c5-2c8b-4517-af22-d883529b2cba) | Commerce, TX |  | 2026-11-04 |  |
-| Senra Systems | [Apprentice Quality Inspector](https://job-boards.greenhouse.io/senrasystems/jobs/5111951008) | Cypress, California, United States; Redondo Beach, California, United  | $19 to $26.50/hour | 2026-11-04 | US citizens/persons only |
 | Westgate Resorts | [Bartender Apprentice](https://jobs.smartrecruiters.com/WestgateResorts/744000107610405-bartender-apprentice) | Las Vegas, NV, us |  | 2026-11-04 |  |
 | RE/SPEC Inc. | [Student Engineering Intern - Cavern Geomechanics](https://jobs.smartrecruiters.com/RESPECInc/744000107082695-student-engineering-intern-cavern-geomechanics) | Rapid City, SD, us |  | 2026-11-04 |  |
 | STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739924004) | New Orleans, LA | $18 to $24/hour | 2026-11-04 |  |
 | STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739930004) | Roseville, CA | $18 to $24/hour | 2026-11-04 |  |
 | STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739932004) | Santa Clara, CA | $18 to $24/hour | 2026-11-04 |  |
 | STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739933004) | Seattle, WA | $18 to $24/hour | 2026-11-04 |  |
-| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739940004) | Venice, CA | $18 to $24/hour | 2026-11-04 |  |
 | STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739939004) | Tysons, VA | $18 to $24/hour | 2026-11-04 |  |
-| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739896004) | Austin, TX | $18 to $24/hour | 2026-11-04 |  |
-| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739901004) | Cambridge, MA | $18 to $24/hour | 2026-11-04 |  |
-| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739902004) | Canoga Park, CA | $18 to $24/hour | 2026-11-04 |  |
-| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739907004) | Dallas, TX | $18 to $24/hour | 2026-11-04 |  |
-| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739912004) | Irvine, CA | $18 to $24/hour | 2026-11-04 |  |
-| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739914004) | Las Vegas, NV | $18 to $24/hour | 2026-11-04 |  |
-| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739915004) | Los Angeles, CA | $18 to $24/hour | 2026-11-04 |  |
+| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739940004) | Venice, CA | $18 to $24/hour | 2026-11-04 |  |
 | STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739920004) | Miami, FL | $18 to $24/hour | 2026-11-04 |  |
+| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739915004) | Los Angeles, CA | $18 to $24/hour | 2026-11-04 |  |
+| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739914004) | Las Vegas, NV | $18 to $24/hour | 2026-11-04 |  |
+| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739912004) | Irvine, CA | $18 to $24/hour | 2026-11-04 |  |
+| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739907004) | Dallas, TX | $18 to $24/hour | 2026-11-04 |  |
+| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739902004) | Canoga Park, CA | $18 to $24/hour | 2026-11-04 |  |
+| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739901004) | Cambridge, MA | $18 to $24/hour | 2026-11-04 |  |
 | STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739921004) | Nashville, TN | $18 to $24/hour | 2026-11-04 |  |
+| STUDS | [Apprentice Piercer (Future Opportunity)](https://job-boards.greenhouse.io/studsinc/jobs/5739896004) | Austin, TX | $18 to $24/hour | 2026-11-04 |  |
 | Jobs for Humanity | [AWS I2PA Pre-Apprenticeship - Bristol, PA](https://jobs.smartrecruiters.com/JobsForHumanity/744000098789015-aws-i2pa-pre-apprenticeship-bristol-pa) | Bristol, PENNSYLVANIA, us | $20/hour | 2026-11-04 |  |
 | Jobs for Humanity | [AWS I2PA Pre-Apprenticeship - Hamlet, NC](https://jobs.smartrecruiters.com/JobsForHumanity/744000098788975-aws-i2pa-pre-apprenticeship-hamlet-nc) | Hamlet, North Carolina, us | $20/hour | 2026-11-04 |  |
 | ABW Appliances | [Appliance Repair Apprentice](https://ats.rippling.com/abw-appliances/jobs/6972b05f-4b5d-4712-9bad-978da15cdc3d) | Silver Spring, MD | $19.20/hour | 2026-11-04 |  |
@@ -332,7 +357,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lila Sciences | [Co-Op, Targeted Non-Viral Delivery](https://job-boards.greenhouse.io/lilasciences/jobs/4472544009) | Cambridge, MA USA |  | 2026-11-02 |  |
 | Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/2439---East-Appleton/Apprentice-Hourly_JR-2026-01454640-1) | 2439 - East Appleton |  | 2026-11-02 |  |
 | Republic Services | [Heavy Equipment Technician Apprentice-Paid Training](https://jobs.republicservices.com/us/en/job/R-187576) | So Plainfield, New Jersey, United States of America |  | 2026-11-02 |  |
-| Viasat | [Space Mission Operator Intern, Part-Time](https://careers.viasat.com/careers-home/jobs/7095) · Summer 2027 | North Logan, Utah | $20.91 to $67.07/hour | 2026-11-02 | US citizens/persons only |
 | Xcel Energy | [Journeyman Lineman/Advanced Step (5th step or higher) Apprentice Lineman - Monticello, MN](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Monticello-MN-55362/Journeyman-Lineman-Advanced-Step--5th-step-or-higher--Apprentice-Lineman---Monticello--MN_JR117394-1) | Monticello, MN, 55362 | $49.82 to $62.27/hour | 2026-11-02 |  |
 | Xcel Energy | [Apprentice (1st Year - 4th Year) or Journey Line Worker - Seminole, TX](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Seminole-TX-79360/Apprentice--1st-Year---4th-Year--or-Journey-Line-Worker---Seminole--TX_JR117387-1) | Seminole, TX, 79360 | $31.33 to $53.85/hour | 2026-11-02 |  |
 | Entergy | [Apprentice 1st Step - Apprentice 4th Step](https://jobs.entergy.com/job/Calvert-Apprentice-1st-Step-Apprentice-4th-Step-Texa/1443879400/) | Calvert, Texas, United States |  | 2026-11-02 |  |
@@ -369,7 +393,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Phillips 66 | [Operator Intern, Lake Charles Refinery](https://careers.phillips66.com/job/Westlake-Operator-Intern%2C-Lake-Charles-Refinery-LA-70669/1442463600/) · Spring 2027 | Westlake, LA, US | $24/hour | 2026-10-26 | US citizens/persons only |
 | Entergy | [Apprentice 1st Step - 4th Step](https://jobs.entergy.com/job/Calvert-Apprentice-1st-Step-4th-Step-Texa/1441340900/) | Calvert, Texas, United States |  | 2026-10-26 |  |
 | BD | [Global Technician - Intern](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-East/Global-Technician---Intern_R-558288) | USA NE - Columbus (East) |  | 2026-10-24 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/4838---Minooka/Apprentice-Hourly_JR-2026-01438193) | 4838 - Minooka | $18.95 to $21.09/hour | 2026-10-24 |  |
 | Ericsson | [Networks TOAI Intern](https://jobs.ericsson.com/careers/job/563121777071319) | Plano, TX, US |  | 2026-10-24 | no visa sponsorship |
 | Phillips 66 | [Instrument Technician Apprentice, Ponca City Refinery](https://careers.phillips66.com/job/Ponca-City-Instrument-Technician-Apprentice%2C-Ponca-City-Refinery-OK-74602-1267/1443146200/) | Ponca City, OK, US | $42.13/hour | 2026-10-24 | US citizens/persons only |
 | Phillips 66 | [Pump & Engine Mechanic Intern, Borger Refinery](https://careers.phillips66.com/job/Borger-Pump-&-Engine-Mechanic-Intern%2C-Borger-Refinery-TX-79007/1443387600/) | Borger, TX, US | $28.60/hour | 2026-10-24 | US citizens/persons only |
@@ -378,9 +401,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Service Corporation International | [Funeral Director Apprentice](https://sci.wd5.myworkdayjobs.com/SCI/job/LA---New-Orleans/Funeral-Director-Apprentice_Req168346) | LA - New Orleans |  | 2026-10-24 |  |
 | Xcel Energy | [Substation Electrician Apprentice (1st - 4th Year) Or Journeyman - Seminole, TX](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Seminole-TX-79360/Substation-Electrician-Apprentice--1st---4th-Year--Or-Journeyman---Seminole--TX_JR116725-1) | Seminole, TX, 79360 | $31.33 to $53.85/hour | 2026-10-24 |  |
 | CVS Health | [Innovation & Technology Internship - Product & Agile Delivery – Summer 2027 (Undergraduate)](https://jobs.cvshealth.com/us/en/job/R1080767) · Summer 2027 | 151 Farmington Avenue, Hartford, Connecticut,United States (hybrid) | $35 to $38.50/hour | 2026-10-23 | no visa sponsorship |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/3152---Regency-Jacksonville/Apprentice-Hourly_JR-2026-01436743) | 3152 - Regency Jacksonville |  | 2026-10-23 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/1383---University-of-Oklahoma/Apprentice-Hourly_JR-2026-01436498) | 1383 - University of Oklahoma |  | 2026-10-23 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/1848---Belton/Apprentice-Hourly_JR-2026-01436262) | 1848 - Belton |  | 2026-10-23 |  |
 | Rockwell Automation | [Youth Apprentice - Warehouse/Material Handling](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Ladysmith-Wisconsin-United-States/Youth-Apprentice---Warehouse-Material-Handling_R26-8264-1) | Ladysmith, Wisconsin, United States |  | 2026-10-23 |  |
 | Xcel Energy | [Apprentice (1st - 4th Year) or Journey Line Worker - Clovis, NM](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Clovis-NM-88102/Apprentice--1st---4th-Year--or-Journey-Line-Worker---Clovis--NM_JR117142-1) | Clovis, NM, 88102 | $31.33 to $53.85/hour | 2026-10-23 |  |
 | Microsoft | [Data Center Technicians INTERN](https://apply.careers.microsoft.com/careers/job/1970393557040904) | Dulles, VA, US; Boydton, VA, US | $23.03 to $30.91/hour | 2026-10-23 |  |
@@ -393,8 +413,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Fluor | [Engineering Technician I- Control Systems Intern](https://careers.fluor.com/careers/job/1099556157513) | Houston, US-TX, United States | $43,000 to $66,000 | 2026-10-23 |  |
 | Fluor | [Engineering Technician I- Control Systems Intern](https://careers.fluor.com/careers/job/1099556157507) | Houston, US-TX, United States | $43,000 to $66,000 | 2026-10-23 |  |
 | Xcel Energy | [Apprentice (1st Year) Line Worker - Littlefield, TX](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Littlefield-TX-79339/Apprentice--1st---4th-Year--Line-Worker---Littlefield--TX_JR117145-1) | Littlefield, TX, 79339 | $31.33/hour | 2026-10-22 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/3332---Cape-Cod-Hyannis-Relo/Apprentice-Hourly_JR-2026-01434153) | 3332 - Cape Cod Hyannis Relo | $23.30 to $25.93/hour | 2026-10-22 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/4133---Brandon-Causeway/Apprentice-Hourly_JR-2026-01433920) | 4133 - Brandon Causeway |  | 2026-10-22 |  |
 | Ericsson | [Networks NPI Intern](https://jobs.ericsson.com/careers/job/563121777071327) | Bellevue, WA, US | $28 to $44/hour | 2026-10-22 | no visa sponsorship |
 | Rockwell Automation | [Intern Machinist, Fabrication Services](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern-Machinist--Fabrication-Services_R26-8461) | Milwaukee, Wisconsin, United States |  | 2026-10-22 | no visa sponsorship |
 | WM (Waste Management) | [Apprentice Truck Driver, No CDL experience required, Home Daily](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2352671) | Saint Cloud, MN, United States | $22.50/hour | 2026-10-22 |  |
@@ -414,6 +432,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Xcel Energy | [Advanced Step Apprentice (3rd Step or above)/Journeyman Lineman - Faribault, MN](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Faribault-MN-55021/Advanced-Step-Apprentice--3rd-Step-or-above--Journeyman-Lineman---Faribault--MN_JR115921-1) | Faribault, MN, 55021 | $43.59 to $62.27/hour | 2026-10-20 |  |
 | Black & Veatch | [Engineering Technician Intern](https://careers.bv.com/job/Overland-Park-Engineering-Technician-Intern-KS-66062/1434063933/) | Dallas, TX, US | $14.16 to $31.02/hour | 2026-10-20 |  |
 | Fermilab | [VALOR Apprenticeship Spring 2027](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/VALOR-Apprenticeship-Spring-2027_R_009816) · Spring 2027 | Batavia | $15.97 to $20/hour | 2026-10-20 |  |
+| Fox Corporation | [Summer and Fall 2027 FOX Technology Internship Program - Live Sports Virtual Enhancement Operator](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2027-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50033973) · Fall 2027 | USA - AZ - Tempe - 2010 E Centennial Cir (remote) | $20/hour | 2026-10-20 |  |
 | Quanta Services | [Apprentice Fiber Technician](https://careers-quanta.icims.com/jobs/17514/apprentice-fiber-technician/job) | Heber, UT |  | 2026-10-20 |  |
 | Flowserve | [Cryo Test Technician Apprentice](https://flowserve.wd1.myworkdayjobs.com/applied/job/Kingman-Arizona/Cryo-Test-Technician-Apprentice_R-21396) | Kingman, Arizona |  | 2026-10-20 |  |
 | Disney | [Retail Store Design Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Retail-Store-Design-Intern--Spring-2027_10160408-2) · Spring 2027 | Kissimmee, FL, USA | $23/hour | 2026-10-20 |  |
@@ -430,7 +449,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ONEOK | [Field Mechanic Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Mentone-TX/Field-Mechanic-Intern_R8366-1) | Mentone, TX |  | 2026-10-20 |  |
 | ONEOK | [Field Mechanic Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Midland-TX/Field-Mechanic-Intern_R8367-1) | Midland, TX |  | 2026-10-20 |  |
 | Xcel Energy | [Gas Service Technician Apprentice - Eau Claire, WI](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Eau-Claire-WI-54701/Gas-Service-Technician-Apprentice---Eau-Claire--WI_JR117032-1) | Eau Claire, WI, 54701 | $32.90 to $50.62/hour | 2026-10-20 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/3515---Salem-NH/Apprentice-Hourly_JR-2026-01362990) | 3515 - Salem NH |  | 2026-10-20 |  |
 | Ericsson | [Networks CNE Engineering Intern](https://jobs.ericsson.com/careers/job/563121777071379) · Summer 2027 | Plano, TX, US |  | 2026-10-20 | no visa sponsorship |
 | Ericsson | [Networks CNS Intern](https://jobs.ericsson.com/careers/job/563121777071349) · Summer 2027 | Plano, TX, US |  | 2026-10-20 | no visa sponsorship |
 | Waymo | [2027 Summer Intern, MS/PhD, Semantics](https://careers.withwaymo.com/jobs?gh_jid=8244128) · Summer 2027 | Mountain View, California, USA | $70 to $85/hour | 2026-10-20 |  |
@@ -449,7 +467,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Laborer Apprentice 1 (Solar)](https://careers.bv.com/OCI/job/Segno-Laborer-Apprentice-1-%28Solar%29-TX-77351/1446250733/) | Segno, TX, US |  | 2026-10-20 |  |
 | ICF | [2027 Summer Intern, Program Delivery (California)](https://careers.icf.com/us/en/job/R2603414) · Summer 2027 | Los Angeles, California, United States of America | $23 to $28/hour | 2026-10-20 | US citizens/persons only |
 | ONEOK | [Field Mechanic Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Williston-ND/Intern---Field--DOT---Unfilled-_R8359-1) | Williston, ND |  | 2026-10-20 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/4623---Madison-MS/Apprentice-Hourly_JR-2026-01404708) | 4623 - Madison MS |  | 2026-10-20 |  |
+| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/1248---Patrick-Henry-Mall/Apprentice-Hourly_JR-2026-01400245) | 1248 - Patrick Henry Mall | $18.25 to $20.31/hour | 2026-10-20 |  |
+| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/6185---Hutch/Apprentice-Hourly_JR-2026-01399828) | 6185 - Hutch |  | 2026-10-20 |  |
+| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/4547---North-Mankato/Apprentice-Hourly_JR-2026-01371117-1) | 4547 - North Mankato | $19.25 to $21.43/hour | 2026-10-20 |  |
+| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/5333---Lakeville-Heritage-Commons/Apprentice-Hourly_JR-2026-01364093) | 5333 - Lakeville Heritage Commons | $20.10 to $22.35/hour | 2026-10-20 |  |
+| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/5160---Saddle-Creek/Apprentice-Hourly_JR-2026-01313257) | 5160 - Saddle Creek |  | 2026-10-20 |  |
+| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/5301---Paducah-Hinkleville-Rd/Apprentice-Hourly_JR-2026-01306307) | 5301 - Paducah Hinkleville Rd |  | 2026-10-20 |  |
 | Republic Services | [Diesel Technician Apprentice-Paid Training](https://jobs.republicservices.com/us/en/job/R-186050) | Edwardsville, Illinois, United States of America | $16 to $23.30/hour | 2026-10-20 |  |
 | Republic Services | [Diesel Technician Apprentice-Paid Training](https://jobs.republicservices.com/us/en/job/R-186029) | Indianapolis, Indiana, United States of America |  | 2026-10-20 |  |
 | Republic Services | [Diesel Technician Apprentice-Paid Training](https://jobs.republicservices.com/us/en/job/R-186039) | Beaufort, South Carolina, United States of America |  | 2026-10-20 |  |
@@ -488,9 +511,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Service Corporation International | [Funeral Director Apprentice](https://sci.wd5.myworkdayjobs.com/SCI/job/TX---Carrollton/Funeral-Director-Apprentice_Req166735) | TX - Carrollton |  | 2026-10-20 |  |
 | Service Corporation International | [Funeral Director Apprentice](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Ormond-Beach/Funeral-Director-Apprentice_Req159252) | FL - Ormond Beach |  | 2026-10-20 |  |
 | Texas A&M AgriLife Research | [Non-Affiliated Student Technician](https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/Dallas-TX/Non-Affiliated-Student-Technician_R-090173-1) | Dallas, TX |  | 2026-10-20 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/1248---Patrick-Henry-Mall/Apprentice-Hourly_JR-2026-01400245) | 1248 - Patrick Henry Mall | $18.25 to $20.31/hour | 2026-10-20 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/0378---West-Lawrence/Apprentice-Hourly_JR-2026-01399970) | 0378 - West Lawrence |  | 2026-10-20 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/6185---Hutch/Apprentice-Hourly_JR-2026-01399828) | 6185 - Hutch |  | 2026-10-20 |  |
 | Insulet | [Co-op, Global Distribution & Fulfillment: January-June (Onsite)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Global-Distribution---Fulfillment--January-June--Onsite-_REQ-2026-18428-1) | Acton, Massachusetts | $25 to $34/hour | 2026-10-20 |  |
 | Kimberly-Clark | [Maintenance Technical Intern](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/Corinth-MS-USA/Maintenance-Technical-Intern_886058-2) | Corinth, MS, USA | $25/hour | 2026-10-20 |  |
 | Marathon Petroleum | [Intern/Co-op - Aircraft Maintenance Technician (Fall 2027))](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-OH-Aviation/Intern-Co-op---Aircraft-Maintenance-Technician--Fall-2027--_00023974) · Fall 2027 | Findlay OH Aviation | $20.31 to $25.38/hour | 2026-10-20 | no visa sponsorship |
@@ -520,7 +540,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Target | [Operation Manager Intern (Starting Summer 2027) Fulfillment Distribution Center - Tucson, AZ](https://target.wd5.myworkdayjobs.com/targetcareers/job/8940-East-Rita-Park-Drive-TucsonAZ-85747-9255/Operation-Manager-Intern--Starting-Summer-2027--Fulfillment-Distribution-Center---Tucson--AZ_R0000450445) · Summer 2027 | 8940 East Rita Park Drive, Tucson,AZ 85747-9255 | $24/hour | 2026-10-20 |  |
 | University of Chicago | [Networking Electrician Apprentice](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Networking-Electrician-Apprentice_JR35330) | Chicago, IL | $30.45/hour | 2026-10-20 |  |
 | Bosch | [Technical Functions/Maintenance Intern / Co-op - Spring 2027](https://jobs.smartrecruiters.com/BoschGroup/744000153189200-technical-functions-maintenance-intern-co-op-spring-2027) · Spring 2027 | Florence, KY, us |  | 2026-10-20 | no visa sponsorship |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/3884---St-Charles-MO/Apprentice-Hourly_JR-2026-01391171) | 3884 - St Charles MO |  | 2026-10-20 |  |
 | Ericsson | [Networks PMO Intern](https://jobs.ericsson.com/careers/job/563121777071330) | Plano, TX, US |  | 2026-10-20 | no visa sponsorship |
 | Ericsson | [Networks EHS Intern](https://jobs.ericsson.com/careers/job/563121777071318) | Plano, TX, US |  | 2026-10-20 | no visa sponsorship |
 | Ericsson | [Networks PSS Intern](https://jobs.ericsson.com/careers/job/563121777071313) | Plano, TX, US |  | 2026-10-20 | no visa sponsorship |
@@ -528,7 +547,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Worley | [Winter Mechanic Apprentice - Prudhoe Bay, AK](https://jobs.worley.com/careers/job/1133916133126) · Winter | Prudhoe Bay, AK, US |  | 2026-10-20 |  |
 | GlobalFoundries | [Etch Maintenance Technician Apprentice (D Shift Nights)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Etch-Maintenance-Technician-Apprentice_JR-2605590) | USA - New York - Malta | $36,200 to $59,200 | 2026-10-20 |  |
 | Loma Linda University Health | [IS Security Svc Apprentice](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17257) | Loma Linda, CA, United States |  | 2026-10-20 |  |
-| Fox Corporation | [Summer and Fall 2027 FOX Technology Internship Program - Live Sports Virtual Enhancement Operator](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2027-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50033973) · Fall 2027 | USA - AZ - Tempe - 2010 E Centennial Cir (remote) | $20/hour | 2026-10-20 |  |
 | BorgWarner | [IT Technician Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/IT-Technician-Intern_R2026-2600) | Arden - North Carolina - USA |  | 2026-10-20 |  |
 | Entegris | [Maintenance Engineering Technician Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Hillsboro-OR/Maintenance-Engineering-Technician-Co-Op_REQ-14400) · Spring 2027 | Hillsboro, OR | $20 to $30/hour | 2026-10-20 |  |
 | Entegris | [Facility Technician Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Rockrimmon-Colorado-Springs-CO/Facility-Technician-Co-Op_REQ-14427) · Spring 2027 | Rockrimmon, Colorado Springs, CO | $20 to $30/hour | 2026-10-20 |  |
@@ -539,16 +557,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Microchip | [Intern-Equipment Engineering Technician (Metrology)](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26) | OR - Gresham |  | 2026-10-20 | no visa sponsorship |
 | Astranis | [Assembly, Integration, and Test Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704761006) · Summer 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
 | Astranis | [Assembly, Integration, and Test Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704759006) · Winter 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/4547---North-Mankato/Apprentice-Hourly_JR-2026-01371117-1) | 4547 - North Mankato | $19.25 to $21.43/hour | 2026-10-20 |  |
 | Lowe's | [Store Optimization – Undergrad Internship – Summer 2027](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Optimization---Undergrad-Internship---Summer-2027_JR-02651672) · Summer 2027 | Mooresville, NC (SSC) 1999 |  | 2026-10-20 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/5333---Lakeville-Heritage-Commons/Apprentice-Hourly_JR-2026-01364093) | 5333 - Lakeville Heritage Commons | $20.10 to $22.35/hour | 2026-10-20 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/3427---Baxter-MN/Apprentice-Hourly_JR-2026-01360156) | 3427 - Baxter MN | $19.85 to $22.10/hour | 2026-10-20 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/5160---Saddle-Creek/Apprentice-Hourly_JR-2026-01313257) | 5160 - Saddle Creek |  | 2026-10-20 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/5301---Paducah-Hinkleville-Rd/Apprentice-Hourly_JR-2026-01306307) | 5301 - Paducah Hinkleville Rd |  | 2026-10-20 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/5919---Manhattan-East/Apprentice-Hourly_JR-2026-01306146) | 5919 - Manhattan East |  | 2026-10-20 |  |
-| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/4165---Tupelo/Apprentice-Hourly_JR-2026-01301550) | 4165 - Tupelo |  | 2026-10-20 |  |
 | Infineon | [Internship - Assembly Equipment Engineer](https://jobs.infineon.com/careers/job/563808971993440) | Leominster, MA, US | $27 to $39.50/hour | 2026-10-20 | US citizens/persons only |
-| BNY | [2027 BNY Summer Internship Program - Delivery (Pittsburgh, PA)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82205) · Summer | Pittsburgh, PA, United States |  | 2026-10-20 | no visa sponsorship |
 | CVS Health | [Retail Store Management Internship Summer 2027 - Indianapolis](https://jobs.cvshealth.com/us/en/job/R1023828) · Summer 2027 | 8970 S. MERIDIAN ST., Indianapolis, Indiana,United States | $16.50 to $24/hour | 2026-10-20 |  |
 | Siemens | [Fire Alarm Systems Technician Internship](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521896) | Maryland Heights, Missouri, United States of America | $22 to $24/hour | 2026-10-20 |  |
 | Siemens | [Fire Alarm Systems Technician Internship](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521912) | Minneapolis - Minnesota - United States of America; Shoreview - Minnes | $22 to $24/hour | 2026-10-20 |  |
@@ -577,7 +587,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Retail Store Management Internship Summer 2027 - Charlotte](https://jobs.cvshealth.com/us/en/job/R1022338) · Summer 2027 | 19305 W. CATAWBA AVE. PO BOX 1364, Cornelius, North Carolina,United St | $16.50 to $24/hour | 2026-10-20 |  |
 | CVS Health | [Retail Store Management Internship Summer 2027 - Greensboro/Winston-Salem](https://jobs.cvshealth.com/us/en/job/R1022435) · Summer 2027 | 605 COLLEGE RD, Greensboro, North Carolina,United States | $16 to $24/hour | 2026-10-20 |  |
 | SLB | [Mechanic Intern](https://careers.slb.com/jobdescription.aspx?id=EF17667-en_US%201) | New Iberia, United States |  | 2026-10-20 | no visa sponsorship |
-| Kroger | [2026-2027 Aviation Technician Intern](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/222470) | Cincinnati, OH, United States |  | 2026-10-20 |  |
 | Zipline | [Maintenance Tool Engineering Intern (Summer 2027)](https://www.zipline.com/open-roles/7918888003?gh_jid=7918888003) · Summer 2027 | Esparto, California, USA | $37/hour | 2026-10-20 | no visa sponsorship |
 | Constellation Energy | [Maintenance SkillBridge Intern](https://jobs.constellationenergy.com/careers-home/jobs/138181) | Morris, Illinois | $133,200 to $148,000 | 2026-10-20 |  |
 | Cactus | [FlexSteel - Installation Apprentice Technician](https://recruiting2.ultipro.com/CAC1001CACC/JobBoard/a107cbd1-c097-4da7-a6f4-2a4ab021b86e/OpportunityDetail?opportunityId=47192df3-1dc4-411d-9bf2-1b37d3b7b104) | Williston, ND, USA |  | 2026-10-20 |  |

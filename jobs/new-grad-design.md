@@ -1,11 +1,19 @@
 # New grad and entry level: Design and creative
 
-176 open, newest first (by the date the scraper first saw them), updated 2026-11-05.
+181 open, newest first (by the date the scraper first saw them), updated 2026-11-06.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AECOM | [Entry-Level Architecture Designer - Hiring Event with AECOM - Arlington, VA](https://jobs.smartrecruiters.com/AECOM2/744000159874369-entry-level-architecture-designer-hiring-event-with-aecom-arlington-va) | Arlington, VA, us |  | 2026-11-06 | US citizens/persons only |
+| F. Schumacher & Co. | [Junior Graphic Designer](https://job-boards.greenhouse.io/fschumacherco/jobs/5474520008) | New York, NY | $55,000 to $60,000 | 2026-11-06 |  |
+| Saronic Technologies | [3D Generalist / Visualization Designer](https://jobs.ashbyhq.com/saronic/0783226b-e1bf-4723-a1e5-6d6317f65546) | Austin, TX |  | 2026-11-06 | US citizens/persons only |
+| ConsumerAffairs | [Video Producer](https://apply.workable.com/j/45BACC36FD) | Tulsa, Oklahoma, United States |  | 2026-11-06 |  |
+| JCC Greater Boston | [Photographer, Camp Kaleidoscope, Summer Day Camp](https://apply.workable.com/j/6E3AF45FD6) | Newton, Massachusetts, United States | $18/hour | 2026-11-06 |  |
+| JCC Greater Boston | [Videographer, Camp Kaleidoscope, Summer Day Camp](https://apply.workable.com/j/28EEDAEC3D) | Newton, Massachusetts, United States | $20/hour | 2026-11-06 |  |
+| JCC Greater Boston | [Photographer, School Break Camps](https://apply.workable.com/j/1DCA2B10BE) | Newton, Massachusetts, United States | $18/hour | 2026-11-06 |  |
+| Airrack | [Junior Producer](https://apply.workable.com/j/BE04CD0080) | Los Angeles, California, United States |  | 2026-11-06 |  |
 | Konrad | [UI/UX Designer](https://www.konrad.com/careers/job/8163726003?gh_jid=8163726003) | New York | $80,000 to $100,000 | 2026-11-05 |  |
 | ARC'TERYX | [Colour Designer 1, Footwear](https://jobs.lever.co/arcteryx.com/d13eb8f4-c1a1-42a5-b27c-6326ac92a8a5) | Portland, Oregon | $70,000 to $92,000 | 2026-11-05 |  |
 | Lasko Products | [Industrial Designer I](https://job-boards.greenhouse.io/laskoproducts/jobs/5272267007) | West Chester, PA |  | 2026-11-05 |  |
@@ -75,7 +83,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Benesch | [Railroad Grade Crossing – Designer](https://www.benesch.com/job-openings/5255944007?gh_jid=5255944007) | Remote | $36 to $40/hour | 2026-11-04 |  |
 | Archipelago Companies | [OluKai Junior Graphic Designer](https://archipelagocos.bamboohr.com/careers/786) | Irvine, California, United States (hybrid) | $70,000 to $80,000 | 2026-11-04 |  |
 | Atari | [Industrial Designer](https://job-boards.greenhouse.io/atariinc/jobs/5442825008) | Atari - US (Remote) |  | 2026-11-04 |  |
-| Teads | [Junior Designer](https://job-boards.eu.greenhouse.io/teads1/jobs/4996880101) | Chicago | $60,000 | 2026-11-04 |  |
 | ON.energy | [REVIT Designer](https://job-boards.greenhouse.io/onenergy/jobs/4429506009) | Houston, Texas, United States; Miami, Florida, United States |  | 2026-11-04 |  |
 | SeatGeek | [UX Design - New Grad](https://seatgeek.com/jobs/8248135?gh_jid=8248135) | New York, New York | $110,000 to $130,000 | 2026-11-04 |  |
 | TEGNA Inc. | [News Producer](https://boards.greenhouse.io/tegnainc/jobs/5248417007?gh_jid=5248417007) | KENS-TV San Antonio |  | 2026-11-04 |  |
@@ -154,20 +161,18 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ford | [Junior Designer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70670) | Long Beach, CA, United States | $95,600 to $145,000 | 2026-10-21 | no visa sponsorship |
 | Cook Children's | [Polysomnographic Tech (RPSGT)](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Polysomnographic-Tech--RPSGT-_JR-119823) | Fort Worth, TX |  | 2026-10-20 |  |
 | Cook Children's | [Polysomnographic Tech (RPSGT)](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Polysomnographic-Tech--RPSGT-_JR-112297) | Fort Worth, TX |  | 2026-10-20 |  |
-| Panasonic North America | [Technician I Visual Inspection, M-F 6:30AM-3:00PM](https://careers.na.panasonic.com/careers-home/jobs/51806) | Sparks, Nevada |  | 2026-10-20 |  |
+| Fox Corporation | [Freelance 'Digital 'Video Specialist](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Freelance--Digital--Video-Specialist_R50034035) | Los Angeles, California, USA | $28.85 to $39.42/hour | 2026-10-20 |  |
+| Hyundai Motor America | [Hyundai Design Center - Interior Designer I](https://careers-americas.hyundai.com/hatci/job/Irvine-Hyundai-Design-Center-Interior-Designer-I-CA-92618/1381053500/) | Irvine, CA, US | $75,000 to $112,000 | 2026-10-20 |  |
 | Paramount | [Digital Producer, WJZ](https://careers.paramount.com/job/Baltimore-Digital-Producer%2C-WJZ-MD-21211/1386247100/) | Baltimore, MD, US | $35/hour | 2026-10-20 |  |
 | Worley | [Piping Designer Level I](https://jobs.worley.com/careers/job/1133916402118) | Long Beach, CA, US; Monrovia, CA, US | $31.07 to $45.69/hour | 2026-10-20 |  |
 | Kiewit | [BIM Designer - Kiewit Industrial & Water Engineering](https://kiewitcareers.kiewit.com/job/Lenexa-BIM-Designer-Kiewit-Industrial-&-Water-Engineering-KS/1420673500/) | Lenexa, KS, US |  | 2026-10-20 |  |
 | Paramount | [Designer, Toys](https://careers.paramount.com/job/Los-Angeles-Designer%2C-Toys-CA-90038/1430786400/) | Los Angeles, CA, US | $64,800 to $81,000 | 2026-10-20 |  |
 | Panasonic North America | [Technician I Visual Inspection, Nights, D-Shift (7PM-7AM)[Wed-Fri + Alt Sat]](https://careers.na.panasonic.com/careers-home/jobs/51737) | Sparks, Nevada |  | 2026-10-20 |  |
 | xAI | [Data Visualization Engineer](https://job-boards.greenhouse.io/xai/jobs/5265194007) | Palo Alto, CA | $132,000 to $198,000 | 2026-10-20 |  |
-| Paramount | [Designer, Toys](https://careers.paramount.com/job/Los-Angeles-Designer%2C-Toys-CA-90038/1438372500/) | Los Angeles, CA, US | $67,000 to $81,000 | 2026-10-20 |  |
 | Service Corporation International | [Memorial Designer](https://sci.wd5.myworkdayjobs.com/SCI/job/TX---Pflugerville/Memorial-Designer_Req167535) | TX - Pflugerville |  | 2026-10-20 |  |
 | DNOW | [Engineering Designer](https://distributionnow.wd5.myworkdayjobs.com/DNOW_Careers/job/US-CO-Denver-1422-Delgany-Street-Suite-100/Engineering-Designer_R08523) | US CO Denver 1422 Delgany Street, Suite 100 |  | 2026-10-20 |  |
 | Formlabs | [Industrial Designer - Entry Level](https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032) | Boston, MA | $90,000 to $120,000 | 2026-10-20 |  |
 | Quanta Services | [Piping Designer - Natural Gas](https://careers-quanta.icims.com/jobs/18961/piping-designer---natural-gas/job) | Huntersville, NC |  | 2026-10-20 |  |
-| Fox Corporation | [Freelance 'Digital 'Video Specialist](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Freelance--Digital--Video-Specialist_R50034035) | Los Angeles, California, USA | $28.85 to $39.42/hour | 2026-10-20 |  |
-| Hyundai Motor America | [Hyundai Design Center - Interior Designer I](https://careers-americas.hyundai.com/hatci/job/Irvine-Hyundai-Design-Center-Interior-Designer-I-CA-92618/1381053500/) | Irvine, CA, US | $75,000 to $112,000 | 2026-10-20 |  |
 | Figma | [Early Career, Product Designer (2027)](https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004) | San Francisco, CA • New York, NY | $140,000 | 2026-10-20 |  |
 | The New York Times | [Journalist, Graphics Intensive](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4728037005) | New York, NY | $82,414.80 | 2026-10-20 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/18646) | Olathe, Kansas |  | 2026-10-20 |  |

@@ -1,11 +1,126 @@
 # New grad and entry level: Finance, accounting and banking
 
-3,297 open, newest first (by the date the scraper first saw them), updated 2026-11-05. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+3,135 open, newest first (by the date the scraper first saw them), updated 2026-11-06. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Ascension | [Insurance Representative](https://jobs.ascension.org/us/en/job/24924) | Austin, TX, US |  | 2026-11-06 |  |
+| BorgWarner | [Financial Analyst](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Financial-Analyst_R2026-4409) | Auburn Hills - Michigan - USA | $62,000 to $85,250 | 2026-11-06 |  |
+| JPMorgan Chase | [Associate Relationship Banker - Westford, MA](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807184) | Westford, MA, United States |  | 2026-11-06 |  |
+| M&T Bank | [Universal Banker (Trapelo Rd branch)](https://mtb.wd5.myworkdayjobs.com/MTB/job/Belmont-MA/Universal-Banker--Trapelo-Rd-branch-_R91932) | Belmont, MA | $21.68 to $36.13/hour | 2026-11-06 |  |
+| TD Bank | [Associate Banker I - Bohemia](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Bohemia-New-York/Associate-Banker-I---Bohemia_R_1512950) | Bohemia, New York | $23.25 to $29.75/hour | 2026-11-06 |  |
+| Texas Health Resources | [Billing Specialist I - Fort Worth Brain and Spine - Fulltime, Days](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011737&lang=en) | Fort Worth |  | 2026-11-06 |  |
+| Ascend Partner Firms | [Tax Associate](https://www.ascendtogether.com/partner-firms-jobs/?gh_jid=5286598007) | Kirkland, WA | $80,000 to $82,000 | 2026-11-06 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor: 5th Ave Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/NEW-YORK/Merrill-Advisor-Development-Program---Financial-Advisor--5th-Ave-Market_26041347) | NEW YORK | $80,000 to $90,000 | 2026-11-06 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor: Park Ave Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Merrill-Advisor-Development-Program---Financial-Advisor--Park-Ave-Market_26041345) | New York | $80,000 to $90,000 | 2026-11-06 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor: SD Financial Center Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Merrill-Advisor-Development-Program---Financial-Advisor--SD-Financial-Center-Market_26041335-2) | New York | $80,000 to $90,000 | 2026-11-06 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor: Boston Financial Center Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Boston/Merrill-Advisor-Development-Program---Financial-Advisor--Boston-Financial-Center-Market_26041326) | Boston | $80,000 to $90,000 | 2026-11-06 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor: Northern NE Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Portland/Merrill-Advisor-Development-Program---Financial-Advisor--Northern-NE-Market_26041278) | Portland | $80,000 to $90,000 | 2026-11-06 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor: Indiana Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Indianapolis/Merrill-Advisor-Development-Program---Financial-Advisor--Indiana-Market_26041237) | Indianapolis |  | 2026-11-06 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor: Oklahoma Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Oklahoma-City/Merrill-Advisor-Development-Program---Financial-Advisor--Oklahoma-Market_26041235) | Oklahoma City |  | 2026-11-06 |  |
+| Bank of America | [Financial Solutions Advisor - Maine / New Hampshire Markets](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/South-Portland/Financial-Solutions-Advisor---Maine---New-Hampshire-Markets_26041170) | South Portland | $65,000 to $80,000 | 2026-11-06 |  |
+| Bank of America | [Financial Solutions Advisor - Colorado South Market - Spanish Preferred](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Colorado-Springs/Financial-Solutions-Advisor---Colorado-South-Market---Spanish-Preferred_26041147) | Colorado Springs | $70,000 to $80,000 | 2026-11-06 |  |
+| Bank of America | [Market Financial Center Manager](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Worth/Market-Financial-Center-Manager_26039160-2) | Fort Worth |  | 2026-11-06 |  |
+| Collective | [Billing Specialist](https://jobs.ashbyhq.com/collective/6a30b11e-1257-4172-8e60-7f7e6104347e) | United States |  | 2026-11-06 |  |
+| Conviva | [Accountant](https://job-boards.greenhouse.io/conviva/jobs/8196904003) | Foster City, CA | $80,000 to $95,000 | 2026-11-06 |  |
+| Crusoe | [Associate, Capital Markets](https://jobs.ashbyhq.com/crusoe/1d5b5af1-bfde-44d3-a250-3cd37cea9e99) | San Francisco, CA - US |  | 2026-11-06 |  |
+| Fifth Third Bank | [Retail Personal Banker II - Schaumburg, IL](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Schaumburg-IL/Retail-Personal-Banker-II---Schaumburg--IL_R74323) | Schaumburg, IL |  | 2026-11-06 |  |
+| First Service Bank | [Loan Assistant](https://ats.rippling.com/firstservicebank/jobs/5efd1b2c-c0e7-4ae1-84f2-f10733f705a4) | Maumelle, AR |  | 2026-11-06 |  |
+| Huntington Bank | [Customer Experience Banker - Glendale Heights](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Glendale-Heights-IL/Customer-Experience-Banker---Glendale-Heights_R0077559) | Glendale Heights, IL | $23 to $26/hour | 2026-11-06 | no visa sponsorship |
+| Huntington Bank | [Customer Experience Banker (Burton, MI) 30-35 hours per week + benefits](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Burton-MI/Customer-Experience-Banker--Burton--MI-_R0076260) | Burton, MI |  | 2026-11-06 | no visa sponsorship |
+| Huntington Bank | [Customer Experience Banker - Maplewood, MN](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Maplewood-MN/Customer-Experience-Banker---Maplewood--MN_R0075676) | Maplewood, MN | $22 to $24/hour | 2026-11-06 | no visa sponsorship |
+| Huntington Bank | [Customer Experience Banker - Green Valley Ranch, CO](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Denver-CO/Customer-Experience-Banker---Green-Valley-Ranch--CO_R0074914) | Denver, CO | $22 to $23/hour | 2026-11-06 | no visa sponsorship |
+| Huntington Bank | [Customer Experience Banker - Boulder, CO](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Boulder-CO/Customer-Experience-Banker---Boulder--CO_R0077388) | Boulder, CO | $22 to $24/hour | 2026-11-06 | no visa sponsorship |
+| Invesco | [Junior Analyst (Financials) – US Core & Dividend](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Junior-Analyst--Financials----US-Core---Dividend_R-15899) | New York, New York |  | 2026-11-06 |  |
+| JPMorgan Chase | [Associate Relationship Banker - Bluhawk Branch - Overland Park, KS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805913) | Overland Park, KS, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Relationship Banker - Jamaica - Jamaica, NY](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805934) | Jamaica, NY, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Relationship Banker - Denver West - Lakewood, CO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805945) | Lakewood, CO, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Associate Relationship Banker - Maine Area](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806281) | Saco, ME, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Associate Relationship Banker - Noblesville/Fishers Areas - Indy Northeast](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806424) | Carmel, IN, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Relationship Banker - Delancey St. - New York, NY](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806565) | New York, NY, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Relationship Banker - Broadway and 79th St. - New York, NY](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806575) | New York, NY, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Relationship Banker - Gateway Plaza - New York, NY](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806576) | New York, NY, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Relationship Banker - Fifth Ave and 14th St., NY, NY](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806628) | New York, NY, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Associate Relationship Banker, Chase Center, Cleveland, OH](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806822) | Cleveland, OH, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Relationship Banker - Lincoln North Branch - Lincoln, NE](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806893) | Lincoln, NE, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Relationship Banker - NW St Louis Market - St Charles, MO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806932) | Saint Charles, MO, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Credit Card Customer Service Account Specialist I](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807113) | Heathrow, FL, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Relationship Banker - Chicago Near North Market - Chicago, IL](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807132) | Chicago, IL, United States |  | 2026-11-06 |  |
+| JPMorgan Chase | [Relationship Banker - Far Hills - Oakwood, OH](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807168) | Oakwood, OH, United States |  | 2026-11-06 |  |
+| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Oak-Grove-OR/Personal-Banker_R-43092) | Oak Grove, OR | $20.67 to $31.25/hour | 2026-11-06 |  |
+| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/Personal-Banker_R-43091) | Denver, CO | $20.67 to $31.25/hour | 2026-11-06 |  |
+| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Zionsville-IN/Personal-Banker_R-43077) | Zionsville, IN | $20.67 to $31.25/hour | 2026-11-06 |  |
+| Lakefield Veterinary Group | [Payroll Coordinator](https://job-boards.greenhouse.io/lakefieldveterinarygroup/jobs/4480812009) | Lakefield Veterinary Group - Kent, WA (hybrid) | $25 to $30/hour | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520676853) | Clinton, Maryland, United States |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520676858) | Bothell, Washington, United States |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520676014) | Gaithersburg, Maryland, United States |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520676011) | Coeur D Alene, Idaho, United States |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520676008) | Clinton, Maryland, United States |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520675978) | Bothell, Washington, United States |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520675988) | Nashville, Tennessee, United States |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520675221) | Saint Michael, Minnesota, United States |  | 2026-11-06 |  |
+| LPL Financial | [New Grad January 2027 - Financial Service Professional (Tempe)](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/New-Grad-January-2027---Financial-Service-Professional--Tempe-_R-050484) | Tempe | $23.18 to $38.63/hour | 2026-11-06 | no visa sponsorship |
+| LPL Financial | [New Grad Summer 2027 - Financial Service Professional (Tempe)](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/New-Grad-Summer-2027---Financial-Service-Professional--Tempe-_R-052611) · Summer 2027 | Tempe | $23.18 to $38.63/hour | 2026-11-06 | no visa sponsorship |
+| M&T Bank | [Universal Banker - Somers, CT](https://mtb.wd5.myworkdayjobs.com/MTB/job/Somers-CT/Universal-Banker---Somers--CT_R91756) | Somers, CT | $20.55 to $34.25/hour | 2026-11-06 |  |
+| M&T Bank | [Banking Services Operations Associate II - Lockbox Processor](https://mtb.wd5.myworkdayjobs.com/MTB/job/Baltimore-MD/Banking-Services-Operations-Associate-II---Lockbox-Processor_R91830) | Baltimore, MD | $19 to $31.14/hour | 2026-11-06 |  |
+| M&T Bank | [Global Capital Markets Relationship Manager I](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Global-Capital-Markets-Relationship-Manager-I_R91786-1) | Wilmington, DE | $77,300 to $128,900 | 2026-11-06 |  |
+| Marsh McLennan | [Client Service Representative - Business Insurance (Entry Level)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Schaumburg---Martingale/Client-Service-Representative---Business-Insurance--Entry-Level-_R_372041) | Schaumburg - Martingale | $34,650 to $64,575 | 2026-11-06 |  |
+| Neros Technologies | [Strategic Finance Analyst](https://job-boards.greenhouse.io/nerostechnologies/jobs/5285470007) | Torrance, California, United States | $107,500 to $150,500 | 2026-11-06 |  |
+| Peak Credit Union | [Financial Solutions Guide 1](https://job-boards.greenhouse.io/peakcreditunion/jobs/6250203004) | Gig Harbor, WA | $17 to $25.50/hour | 2026-11-06 |  |
+| Quanta Services | [Billing Specialist](https://careers-quanta.icims.com/jobs/19852/billing-specialist/job) | Grand Prairie, TX | $22 to $24/hour | 2026-11-06 |  |
+| Regions Financial | [Relationship Banker I - Olive Branch Branch](https://careers.regions.com/us/en/job/R107452) | Olive Branch, Mississippi, United States of America | $37,621.05 to $44,536 | 2026-11-06 |  |
+| Regions Financial | [Relationship Banker I - Ensley Branch - Pensacola FL](https://careers.regions.com/us/en/job/R107456) | Pensacola, Florida, United States of America | $37,621.05 to $44,536 | 2026-11-06 |  |
+| Regions Financial | [Relationship Banker II - Conway Main Branch](https://careers.regions.com/us/en/job/R107463) | Conway, Arkansas, United States of America | $41,508.18 to $49,644 | 2026-11-06 |  |
+| Regions Financial | [Relationship Banker I - Springfield Branch](https://careers.regions.com/us/en/job/R107469) | Springfield, Tennessee, United States of America | $39,601.10 to $46,880 | 2026-11-06 |  |
+| Regions Financial | [Relationship Banker II - Barataria Branch](https://careers.regions.com/us/en/job/R107470) | Marrero, Louisiana, United States of America | $46,120.20 to $55,160 | 2026-11-06 |  |
+| Regions Financial | [Relationship Banker II - Madison Ave](https://careers.regions.com/us/en/job/R107460) | Madison, Illinois, United States of America | $46,120.20 to $55,160 | 2026-11-06 |  |
+| Regions Financial | [Relationship Banker I - Clearwater Branch](https://careers.regions.com/us/en/job/R107464) | Clearwater, South Carolina, United States of America | $37,621.05 to $44,536 | 2026-11-06 |  |
+| Regions Financial | [Relationship Banker I - Panama City Main Branch - Panama City FL](https://careers.regions.com/us/en/job/R107462) | Panama City, Florida, United States of America | $35,640.99 to $42,192 | 2026-11-06 |  |
+| Regions Financial | [Relationship Banker II - Winter Haven Branch](https://careers.regions.com/us/en/job/R107451) | Winter Haven, Florida, United States of America | $43,814.19 to $52,402 | 2026-11-06 |  |
+| Regions Financial | [Relationship Banker II - Cedar Falls](https://careers.regions.com/us/en/job/R107449) | Cedar Falls, Iowa, United States of America | $43,814.19 to $52,402 | 2026-11-06 |  |
+| Republic Services | [Billing Assistant](https://jobs.republicservices.com/us/en/job/R-188028) | Mt Laurel, New Jersey, United States of America | $17.65 to $24.25/hour | 2026-11-06 |  |
+| Santander US | [Sales and Service Banker, Reading, MA](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/LOCATION-3-69574/Sales-and-Service-Banker--Reading--MA_Req1632439-2) | LOCATION-3-69574 | $34,500 to $53,000 | 2026-11-06 | no visa sponsorship |
+| Santander US | [Sales and Service Banker, Montague St, Brooklyn, NY](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Brooklyn/Sales-and-Service-Banker--Montague-St--Brooklyn--NY_Req1632565) | Brooklyn | $34,500 to $53,000 | 2026-11-06 | no visa sponsorship |
+| TD Bank | [Relationship Banker I/Whitman/Bilingual Khmer, Spanish or Vietnamese preferred](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Philadelphia-Pennsylvania/Relationship-Banker-I-Whitman-Bilingual-Khmer--Spanish-or-Vietnamese-preferred_R_1520682) | Philadelphia, Pennsylvania | $22.50 to $29/hour | 2026-11-06 |  |
+| TD Bank | [Associate Banker II/Cheltenham (Wyncote)/Bilingual Spanish preferred (30hrs)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Wyncote-Pennsylvania/Associate-Banker-II-Cheltenham--Wyncote--Bilingual-Spanish-preferred--30hrs-_R_1520944) | Wyncote, Pennsylvania | $22 to $27.75/hour | 2026-11-06 |  |
+| TD Bank | [Relationship Banker I/Levick/Bilingual Spanish preferred](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Philadelphia-Pennsylvania/Relationship-Banker-I-Levick-Bilingual-Spanish-preferred_R_1520453) | Philadelphia, Pennsylvania | $22.50 to $29/hour | 2026-11-06 |  |
+| TD Bank | [Associate Banker II - Whitehouse Station (40 hour)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Whitehouse-Station-New-Jersey/Associate-Banker-II---Whitehouse-Station--40-hour-_R_1520996) | Whitehouse Station, New Jersey | $23.75 to $31/hour | 2026-11-06 |  |
+| TD Bank | [Relationship Banker I (96th & 3rd Ave.)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Relationship-Banker-I--96th---3rd-Ave-_R_1520433-1) | New York, New York | $24.25 to $32.50/hour | 2026-11-06 |  |
+| TD Bank | [Associate Banker I (96th & 3rd) PT 20 Hours -Bilingual Spanish preferred](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Associate-Banker-I--96th---3rd--PT-20-Hours--Bilingual-Spanish-preferred_R_1520428) | New York, New York | $23.25 to $29.75/hour | 2026-11-06 |  |
+| Truist | [Market Manager Specialist](https://careers.truist.com/us/en/job/R0120877) | Greenville, South Carolina, USA |  | 2026-11-06 |  |
+| Truist | [Investment Banking Analyst - Energy](https://careers.truist.com/us/en/job/R0121556) | Houston, Texas, USA | $105,000 | 2026-11-06 |  |
+| U.S. Bank | [Mortgage Loan Officer](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Woodland-Hills-CA/Mortgage-Loan-Officer_2026-0034674) | Woodland Hills, CA | $20/hour | 2026-11-06 |  |
+| Vericast | [Accountant I](https://jobs.smartrecruiters.com/Vericast/744000159885059-accountant-i) | San Antonio, TX, us | $55,000 to $60,000 | 2026-11-06 |  |
+| Walgreens | [Specialist License](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1962371) | Deerfield, IL |  | 2026-11-06 |  |
+| Waste Connections | [Accountant I](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6460-Orlando/Accountant-I_R-105133) | 6460-Orlando | $24 to $26/hour | 2026-11-06 |  |
+| Wells Fargo | [Fraud & Claims Operations Representative](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Fraud---Claims-Operations-Representative_R-584200) | CHARLOTTE, NC |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520660560) | Chesterfield, Missouri, United States |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520654332) | Quincy, Massachusetts, United States |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520654346) | Henrico, Virginia, United States |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520654342) | Manchester, New Hampshire, United States |  | 2026-11-06 |  |
+| Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520654373) | Redmond, Washington, United States |  | 2026-11-06 |  |
+| AlphaX | [Tax CPA - Private Client Advisory](https://apply.workable.com/j/FB2A073D79) | Paramus, New Jersey, United States |  | 2026-11-06 |  |
+| Hunter Douglas | [EPM Financial System Administrator](https://jobs.hunterdouglas.com/division/hunterdouglas/job/8052358003?gh_jid=8052358003) | New York, NY, United States |  | 2026-11-06 |  |
+| Facet | [Associate Financial Planner](https://apply.workable.com/j/18C5C3FB4B) | United States |  | 2026-11-06 |  |
+| Alphatec Spine | [Corporate Accountant](https://apply.workable.com/j/FAF5F5E8EA) | Carlsbad, California, United States |  | 2026-11-06 | no visa sponsorship |
+| GoMining | [Junior Accountant (US Operations)](https://apply.workable.com/j/EE0FFEC988) | United States |  | 2026-11-06 |  |
+| G-20 Group | [Junior-Mid Options Trader (US Hours)](https://apply.workable.com/j/C2C39298E9) | New York, New York, United States |  | 2026-11-06 | no visa sponsorship |
+| Brady Martz | [Associate Accountant - Tax and or Audit](https://apply.workable.com/j/E88DBBBEB7) | Fargo, North Dakota, United States |  | 2026-11-06 |  |
+| Brady Martz | [Associate Accountant - Tax and or Audit](https://apply.workable.com/j/D51AE4B188) | Bismarck, North Dakota, United States |  | 2026-11-06 |  |
+| Impact Performance Team | [Junior Accountant](https://apply.workable.com/j/DA1818D0AF) | Miami, Florida, United States |  | 2026-11-06 |  |
+| Alpha Theory | [Investment Process Consultant](https://apply.workable.com/j/652D21BFAC) | Charlotte, North Carolina, United States |  | 2026-11-06 |  |
+| Brady Martz | [Associate Accountant - Tax and or Audit](https://apply.workable.com/j/2F645710F3) | Grand Forks, North Dakota, United States |  | 2026-11-06 |  |
+| CCaventus Asset Management | [Junior Accounting Associate 2028](https://apply.workable.com/j/1B9958C8F9) | New York, New York, United States |  | 2026-11-06 |  |
+| CCaventus Asset Management | [Trading Operations Analyst 2028](https://apply.workable.com/j/AA08A73D44) | New York, New York, United States |  | 2026-11-06 |  |
+| CCaventus Asset Management | [Summer Investment Analyst 2028](https://apply.workable.com/j/134D6A3454) | Dallas, Texas, United States |  | 2026-11-06 |  |
+| Ascendis Pharma | [Finance Operations Associate - Temporary Contract - Job ID: TCFO](https://apply.workable.com/j/85B83948A9) | Princeton, New Jersey, United States | $35 to $40/hour | 2026-11-06 |  |
+| Evergreen Residential Holdings, LLC | [Analyst, SFR Asset Management](https://evergreenresi.com/careers/openings/?gh_jid=4727583005) | Dallas, TX |  | 2026-11-06 |  |
+| Facet | [Financial Planner - Remote](https://apply.workable.com/j/FB763C8967) | United States (remote) | $95,000 to $110,000 | 2026-11-06 |  |
+| Harlem Children's Zone | [College Financing Coordinator](https://apply.workable.com/j/62280D99A0) | New York, New York, United States (hybrid) | $70,000 to $80,000 | 2026-11-06 | no visa sponsorship |
+| Brady Martz | [Associate Accountant - Tax and or Audit](https://apply.workable.com/j/285C1FD7FB) | Thief River Falls, Minnesota, United States |  | 2026-11-06 |  |
+| Eagle Seven | [Junior Trader](https://apply.workable.com/j/787BE44E7A) | Chicago, Illinois, United States |  | 2026-11-06 |  |
 | Bank of America | [Treasury Sales Associate I - Global Payment Solutions - Middle Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Boston/Treasury-Sales-Associate--I---Global-Payment-Solutions---Middle-Market_26040976) | Boston | $95,000 to $109,200 | 2026-11-05 |  |
 | Covista | [Student Finance Analyst I](https://jobs.smartrecruiters.com/Covista/744000159772579-student-finance-analyst-i) | Lisle, IL, us | $20 to $25/hour | 2026-11-05 |  |
 | Huntington Bank | [Customer Experience Banker- Romeoville, IL](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Romeoville-IL/Customer-Experience-Banker--Romeoville--IL_R0077521) | Romeoville, IL |  | 2026-11-05 | no visa sponsorship |
@@ -66,17 +181,17 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | RBC | [Analyst/Associate, Debt Capital Markets](https://jobs.rbc.com/ca/en/job/R-0000191995) | New York, New York, United States of America | $110,000 to $175,000 | 2026-11-05 |  |
 | Regions Financial | [Private Wealth Relationship Specialist - Nashville, TN](https://careers.regions.com/us/en/job/R106992) | Nashville, Tennessee, United States of America | $46,750 to $57,270 | 2026-11-05 |  |
 | Regions Financial | [Loan Servicing Specialist - Escrow Analysis](https://careers.regions.com/us/en/job/R106894) | Hattiesburg, Mississippi, United States of America | $33,975 to $40,446 | 2026-11-05 |  |
-| Regions Financial | [Relationship Banker I - Chatsworth Branch](https://careers.regions.com/us/en/job/R107421) | Chatsworth, Georgia, United States of America | $37,621.05 to $44,536 | 2026-11-05 |  |
-| Regions Financial | [Relationship Banker II - Southgate Sarasota Branch](https://careers.regions.com/us/en/job/R107426) | Sarasota, Florida, United States of America | $43,814.19 to $52,402 | 2026-11-05 |  |
 | Regions Financial | [Relationship Banker I - Greenwood Park Branch](https://careers.regions.com/us/en/job/R107428) | Greenwood, Mississippi, United States of America | $34,056.95 to $40,316.80 | 2026-11-05 |  |
-| Regions Financial | [Relationship Banker II - Albertville Branch - Albertville AL](https://careers.regions.com/us/en/job/R107425) | Albertville, Alabama, United States of America | $41,508.18 to $49,644 | 2026-11-05 |  |
 | Regions Financial | [Relationship Banker I - Dunedin](https://careers.regions.com/us/en/job/R107423) | Dunedin, Florida, United States of America | $39,601.10 to $46,880 | 2026-11-05 |  |
-| Regions Financial | [Relationship Banker II - Midland Branch](https://careers.regions.com/us/en/job/R107447) | Alcoa, Tennessee, United States of America | $43,814.19 to $52,402 | 2026-11-05 |  |
-| Regions Financial | [Relationship Banker I - Hwy 280 Branch](https://careers.regions.com/us/en/job/R107445) | Phenix City, Alabama, United States of America | $37,621.05 to $44,536 | 2026-11-05 |  |
 | Regions Financial | [Relationship Banker II - Clinton Branch](https://careers.regions.com/us/en/job/R107446) | Clinton, Tennessee, United States of America | $43,814.19 to $52,402 | 2026-11-05 |  |
+| Regions Financial | [Relationship Banker II - Albertville Branch - Albertville AL](https://careers.regions.com/us/en/job/R107425) | Albertville, Alabama, United States of America | $41,508.18 to $49,644 | 2026-11-05 |  |
+| Regions Financial | [Relationship Banker II - Midland Branch](https://careers.regions.com/us/en/job/R107447) | Alcoa, Tennessee, United States of America | $43,814.19 to $52,402 | 2026-11-05 |  |
 | Regions Financial | [Relationship Banker I - Orange Beach Blvd. Branch - Orange Beach AL](https://careers.regions.com/us/en/job/R107439) | Orange Beach, Alabama, United States of America | $35,640.99 to $42,192 | 2026-11-05 |  |
 | Regions Financial | [Relationship Banker I - Dedeaux](https://careers.regions.com/us/en/job/R107413) | Gulfport, Mississippi, United States of America | $37,621.05 to $44,536 | 2026-11-05 |  |
 | Regions Financial | [Relationship Banker I - Smithton](https://careers.regions.com/us/en/job/R107419) | Smithton, Illinois, United States of America | $39,601.10 to $46,880 | 2026-11-05 |  |
+| Regions Financial | [Relationship Banker I - Chatsworth Branch](https://careers.regions.com/us/en/job/R107421) | Chatsworth, Georgia, United States of America | $37,621.05 to $44,536 | 2026-11-05 |  |
+| Regions Financial | [Relationship Banker I - Hwy 280 Branch](https://careers.regions.com/us/en/job/R107445) | Phenix City, Alabama, United States of America | $37,621.05 to $44,536 | 2026-11-05 |  |
+| Regions Financial | [Relationship Banker II - Southgate Sarasota Branch](https://careers.regions.com/us/en/job/R107426) | Sarasota, Florida, United States of America | $43,814.19 to $52,402 | 2026-11-05 |  |
 | TD Bank | [Associate Banker I (20 Hours Weekly) - Pembroke Pines/University](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Pembroke-Pines-Florida/Associate-Banker-I--20-Hours-Weekly----Pembroke-Pines-University_R_1517480) | Pembroke Pines, Florida | $21.50 to $26.75/hour | 2026-11-05 |  |
 | TD Bank | [Associate Banker II (20 Hours Weekly/Bilingual Spanish or French Preferred) - Hallandale](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Hallandale-Beach-Florida/Associate-Banker-II--20-Hours-Weekly-Bilingual-Spanish-or-French-Preferred----Hallandale_R_1517795) | Hallandale Beach, Florida | $22 to $27.75/hour | 2026-11-05 |  |
 | TD Bank | [Analyst - CIB Credit - Portfolio Management, TD Securities](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/analyst---CIB-Credit---Portfolio-Management--TD-Securities_R_1520823) | New York, New York |  | 2026-11-05 |  |
@@ -129,7 +244,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bhhc | [Underwriter 1 (Entry Level/Workers Compensation)](https://jobs.lever.co/bhhc/936b0a83-c045-4a4d-a9ac-3249cca912a9) | Walnut Creek, California (hybrid) | $34.62/hour | 2026-11-05 |  |
 | Bhhc | [Underwriter Trainee](https://jobs.lever.co/bhhc/5759b144-54d9-4824-84cd-7447bc19d524) | Bay Area, California (hybrid) | $34.62/hour | 2026-11-05 |  |
 | TPC | [Production Accounting Analyst](https://three-point-capital-llc.breezy.hr/p/f19a466b7227-production-accounting-analyst) | Atlanta, GA | $65,000 to $70,000 | 2026-11-05 |  |
-| BCC | [Accounting Specialist](https://job-boards.greenhouse.io/bcccareers/jobs/5458811008) | Pittsburgh, Pennsylvania |  | 2026-11-05 |  |
 | CIM Group, LP | [Analyst, Loan Servicing](https://jobs.lever.co/cimgroup/9f07591e-47cc-4081-843d-b9d75e4dc228) | Dallas, TX |  | 2026-11-05 |  |
 | Divcon | [Entry Level Project Financial Analyst](https://ats.rippling.com/divcon-controls/jobs/4eb73787-1894-4a7d-a365-f3db1aa3856c) | Irving, TX |  | 2026-11-05 |  |
 | Giti2c | [Junior/Middle Finance Specialist](https://hrforyou.bamboohr.com/careers/559) | Remote |  | 2026-11-05 |  |
@@ -165,7 +279,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CIM Group, LP | [Coordinator, Development Financial Services](https://jobs.lever.co/cimgroup/4b14076f-71b8-4274-a2e1-77cbf7c09497) | Los Angeles, CA | $26.44 to $31.25/hour | 2026-11-05 |  |
 | Pathward, Career Fairs | [Capital Markets Analyst – Loan Trading](https://job-boards.greenhouse.io/pathwardcareerfair/jobs/6186924004) | Remote, USA | $60,000 to $100,500 | 2026-11-05 |  |
 | Pathward, Career Fairs | [Capital Markets Analyst – Warehouse Finance](https://job-boards.greenhouse.io/pathwardcareerfair/jobs/6186967004) | Remote, USA | $60,000 to $100,500 | 2026-11-05 |  |
-| Cross River | [Branch Teller](https://www.crossriver.com/greenhouse?gh_jid=7988921003) | Wilmington, Delaware, United States | $50,000 to $65,000 | 2026-11-05 |  |
 | Wintermute Trading | [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0) | New York | $210,000 to $240,000 | 2026-11-05 |  |
 | EPR Properties | [Property Accountant](https://eprproperties.bamboohr.com/careers/43) | Kansas City, Missouri, United States |  | 2026-11-05 |  |
 | Wintermute Trading | [Prediction Markets Trader](https://jobs.lever.co/wintermute-trading/76cca257-0961-4aa7-b234-eeb777196399) | New York | $210,000 to $240,000 | 2026-11-05 |  |
@@ -322,15 +435,15 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Pattern Energy | [Analyst, Project Finance - Solect Energy](https://careers-patternenergy.icims.com/jobs/3528/analyst%2c-project-finance---solect-energy/job) | Hopkinton, MA (hybrid) | $80,000 to $108,000 | 2026-11-04 | no visa sponsorship |
 | Raymond James | [Financial Advisor Trainee-Mount Pleasant, SC](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Mount-Pleasant-South-Carolina---United-States/Financial-Advisor-Trainee-Mount-Pleasant--SC_R-0013538) | Mount Pleasant, South Carolina - United States |  | 2026-11-04 |  |
 | Regions Financial | [Trust Relationship Specialist - Institutional Services](https://careers.regions.com/us/en/job/R106791) | Mobile, Alabama, United States of America | $41,325 to $49,913 | 2026-11-04 |  |
-| Regions Financial | [Relationship Banker II - Southside Jackson TN ranch](https://careers.regions.com/us/en/job/R107403) | Jackson, Tennessee, United States of America | $41,508.18 to $49,644 | 2026-11-04 |  |
-| Regions Financial | [Relationship Banker II - Nora](https://careers.regions.com/us/en/job/R107383) | Indianapolis, Indiana, United States of America | $46,120.20 to $55,160 | 2026-11-04 |  |
-| Regions Financial | [Relationship Banker I - 30 Hours - Southside Branch](https://careers.regions.com/us/en/job/R107400) | Jackson, Tennessee, United States of America | $35,640.99 to $42,192 | 2026-11-04 |  |
-| Regions Financial | [Contact Center Banker - Nashville, TN](https://careers.regions.com/us/en/job/R107405) | Nashville, Tennessee, United States of America | $35,748.02 to $42,940 | 2026-11-04 |  |
 | Regions Financial | [Relationship Banker II - Charlotte Uptown Branch](https://careers.regions.com/us/en/job/R107302) | Charlotte, North Carolina, United States of America |  | 2026-11-04 |  |
 | Regions Financial | [Relationship Banker II - Delray Beach Branch](https://careers.regions.com/us/en/job/R107404) | Delray Beach, Florida, United States of America | $48,426.21 to $57,918 | 2026-11-04 |  |
 | Regions Financial | [Relationship Banker II - Huffman Branch - Birmingham AL](https://careers.regions.com/us/en/job/R107406) | Birmingham, Alabama, United States of America | $46,120.20 to $55,160 | 2026-11-04 |  |
-| Regions Financial | [Relationship Banker II - Orange Park](https://careers.regions.com/us/en/job/R107387) | Orange Park, Florida, United States of America | $46,120.20 to $55,160 | 2026-11-04 |  |
+| Regions Financial | [Contact Center Banker - Nashville, TN](https://careers.regions.com/us/en/job/R107405) | Nashville, Tennessee, United States of America | $35,748.02 to $42,940 | 2026-11-04 |  |
 | Regions Financial | [Relationship Banker II - Plano Branch](https://careers.regions.com/us/en/job/R107377) | Plano, Texas, United States of America | $48,426.21 to $57,918 | 2026-11-04 |  |
+| Regions Financial | [Relationship Banker II - Southside Jackson TN ranch](https://careers.regions.com/us/en/job/R107403) | Jackson, Tennessee, United States of America | $41,508.18 to $49,644 | 2026-11-04 |  |
+| Regions Financial | [Relationship Banker I - 30 Hours - Southside Branch](https://careers.regions.com/us/en/job/R107400) | Jackson, Tennessee, United States of America | $35,640.99 to $42,192 | 2026-11-04 |  |
+| Regions Financial | [Relationship Banker II - Nora](https://careers.regions.com/us/en/job/R107383) | Indianapolis, Indiana, United States of America | $46,120.20 to $55,160 | 2026-11-04 |  |
+| Regions Financial | [Relationship Banker II - Orange Park](https://careers.regions.com/us/en/job/R107387) | Orange Park, Florida, United States of America | $46,120.20 to $55,160 | 2026-11-04 |  |
 | Santander US | [Sales and Service Banker, Glen Forest, Methuen, MA](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Methuen/Sales-and-Service-Banker--Glen-Forest--Methuen--MA_Req1632270) | Methuen | $34,500 to $53,000 | 2026-11-04 | no visa sponsorship |
 | Santander US | [Export & Agency Finance (EAF US) - LatAm Focus - Analyst](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Export---Agency-Finance--EAF-US----LatAm-Focus---Analyst_Req1632034) | Madison Ave Corp | $110,000 to $135,000 | 2026-11-04 |  |
 | TD Bank | [Associate Banker II - East Brunswick (20 hrs)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/East-Brunswick-New-Jersey/Associate-Banker-II---East-Brunswick--20-hrs-_R_1520084) | East Brunswick, New Jersey | $22 to $27.75/hour | 2026-11-04 |  |
@@ -379,15 +492,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Burke Construction Group, Inc. | [Project Accountant](https://burkecgi.bamboohr.com/careers/66) | Las Vegas, Nevada, United States |  | 2026-11-04 |  |
 | Edgehog Trading | [Evening / Overnight Trader](https://ats.rippling.com/edgehog-trading/jobs/8d6fb8db-b7a5-4bc5-a8ec-e53e660fa096) | Chicago, IL |  | 2026-11-04 |  |
 | Intellistack | [Customer Billing Support Specialist](https://jobs.ashbyhq.com/Intellistack/b2a0bf1c-2f4f-416c-b994-ab6fe97e2349) | Remote/United States | $55,000 to $60,000 | 2026-11-04 |  |
-| Peak Credit Union | [Financial Solutions Guide 1 - part time](https://job-boards.greenhouse.io/peakcreditunion/jobs/6231759004) | Aberdeen, WA | $17 to $25.50/hour | 2026-11-04 |  |
 | Stellaromics, Inc. | [Accounting Associate](https://ats.rippling.com/stellaromics-inc/jobs/2a7a943a-76d1-4bf5-b9a6-3d7b8151037c) | Boston, MA |  | 2026-11-04 |  |
 | TaxRise | [Tax Preparer, Client Services](https://job-boards.greenhouse.io/taxrise/jobs/4471504009) | Remote | $21 to $25/hour | 2026-11-04 |  |
 | The Croghan Colonial Bank | [Virtual Universal Banker](https://the-croghan-colonial-bank.breezy.hr/p/ba32d3247867-virtual-universal-banker) | Fremont, OH (remote) | $17 to $21/hour | 2026-11-04 |  |
 | Windsor Advantage | [Loan Processing Associate](https://job-boards.greenhouse.io/windsoradvantage/jobs/4471462009) | Chicago, IL (hybrid) | $45,000 to $60,000 | 2026-11-04 |  |
-| AO Garcia Agency | [Entry-Level Insurance Representative - Remote](https://jobs.lever.co/aogarciaagency/71c59fb5-1573-407c-9108-5989ed7f1bc0) | Macon- Bibb County, Georgia (remote) |  | 2026-11-04 |  |
 | AO Garcia Agency | [Entry-Level Insurance Representative - Remote](https://jobs.lever.co/aogarciaagency/fc8f0e2b-fada-4685-8009-7eac4d87899e) | Fort Worth, Texas (remote) |  | 2026-11-04 |  |
 | AO Garcia Agency | [Entry-Level Remote Financial Services Associate](https://jobs.lever.co/aogarciaagency/5f4700f7-9649-45d7-96b3-efddec6e5997) | Janesville, Wisconsin (remote) |  | 2026-11-04 |  |
-| AO Garcia Agency | [Entry-Level Remote Financial Services Associate](https://jobs.lever.co/aogarciaagency/9f04d481-dbac-4df1-892a-778073565a2e) | Salina, Kansas (remote) |  | 2026-11-04 |  |
 | Array | [Accounts Payable (AP) Clerk](https://boards.greenhouse.io/array/jobs/6236275004?gh_jid=6236275004) | Remote - USA or Canada |  | 2026-11-04 |  |
 | Avery Dennison | [Accountant I](https://jobs.smartrecruiters.com/AveryDennison/744000158112839-accountant-i) | Little Rock, AR, us |  | 2026-11-04 |  |
 | Cornbread Hemp | [Associate Accountant](https://cornbread-hemp.breezy.hr/p/953926423fb3-associate-accountant) | Louisville, KY |  | 2026-11-04 |  |
@@ -439,7 +549,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Westgate Resorts | [Document Management - Name Change Specialist (Bilingual)](https://jobs.smartrecruiters.com/WestgateResorts/744000156806500-document-management-name-change-specialist-bilingual-) | Ocoee, FL, us |  | 2026-11-04 |  |
 | Arevon | [Associate Accountant, Development Accounting](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5267470007) | Scottsdale, AZ |  | 2026-11-04 |  |
 | Arevon | [Associate Accountant, Operations Accounting](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5266970007) | Scottsdale, AZ |  | 2026-11-04 |  |
-| Cottingham & Butler | [Accounting Specialist](https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/5458808008?gh_jid=5458808008) | Pittsburgh, Pennsylvania, United States |  | 2026-11-04 |  |
 | Topstep | [High Risk Trader Onboarding Analyst](https://job-boards.greenhouse.io/topsteptrader/jobs/8039658003) | United States |  | 2026-11-04 |  |
 | Topstep | [Trader Onboarding Analyst](https://job-boards.greenhouse.io/topsteptrader/jobs/8039647003) | United States |  | 2026-11-04 |  |
 | Torus | [Accounts Payable Clerk](https://ats.rippling.com/torus/jobs/efec1790-1926-4814-93b3-fddb9d484815) | Salt Lake City, UT | $25 to $30/hour | 2026-11-04 | no visa sponsorship |
@@ -450,7 +559,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Tressler LLP | [Associate Attorney - Insurance Coverage](https://job-boards.greenhouse.io/tresslerllp/jobs/4458424009) | Orange County, CA (remote) | $135,000 to $145,000 | 2026-11-04 |  |
 | Artemis Consulting | [Junior Financial Analyst/Consultant](https://ats.rippling.com/artemis-careers/jobs/4b31afc3-4c00-4b88-86c3-5024cb3492e9) | Arlington, VA | $55,000 to $80,000 | 2026-11-04 | clearance |
 | Blueprint Technologies | [Customer (Billing) Support Agent (German)](https://job-boards.greenhouse.io/bpcs/jobs/8293665) | Bellevue, WA (hybrid) | $23 to $25.50/hour | 2026-11-04 |  |
-| Compeer Financial | [Temporary Associate Tax Consultant](https://job-boards.greenhouse.io/compeerfinancial/jobs/5455859008) | WI-Fond du Lac; WI-Sun Prairie; WI-Dodgeville; WI-Prairie du Sac; WI-L | $19 to $21/hour | 2026-11-04 | no visa sponsorship |
 | ERGO NEXT Insurance | [Insurance Customer Service Advisor](https://job-boards.greenhouse.io/nextinsurance66/jobs/8034117003) | Rochester, NY | $23 to $25/hour | 2026-11-04 |  |
 | External Only / Blueprint Technologies | [Customer (Billing) Support Agent (German)](https://job-boards.greenhouse.io/notexternal/jobs/8293666) | Bellevue, WA (hybrid) | $23 to $25.50/hour | 2026-11-04 |  |
 | Integrated Specialty Coverages, LLC | [Underwriter (Property & Casualty)](https://job-boards.greenhouse.io/isccareers/jobs/4743393005) | Los Angeles, California | $57,000 to $100,000 | 2026-11-04 |  |
@@ -465,7 +573,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Orion Group | [Treasury Analyst - Orion Platform](https://job-boards.greenhouse.io/oriongroup/jobs/4722388006) | New York, New York |  | 2026-11-04 |  |
 | Wabtec | [LEAD Finance Rotational Program](https://jobs.smartrecruiters.com/Wabtec/3743990016143864-lead-finance-rotational-program) | Pittsburgh, PA, us | $75,000 | 2026-11-04 |  |
 | Athey Creek Church | [Accounting Assistant - Contributions](https://atheycreek.bamboohr.com/careers/129) | West Linn, Oregon, United States |  | 2026-11-04 |  |
-| Barnes & Thornburg LLP | [Accounting Assistant AP/GL](https://jobs.ashbyhq.com/barnes/f864a799-86b5-4302-9a16-745e58386ba4) | Indianapolis |  | 2026-11-04 |  |
 | Jack Link's Protein Snacks | [FSQ Auditor](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000155592249-fsq-auditor-) | Mankato, MN, us | $18.55 to $23.95/hour | 2026-11-04 |  |
 | Money Mart | [Financial Service Representative](https://job-boards.greenhouse.io/moneymart/jobs/5452886008) | Pompano Beach, FL, United States |  | 2026-11-04 |  |
 | Nox Group | [PROJECT ACCOUNTANT](https://noxgroup.us/careers/?gh_jid=5444128008) | Phoenix, Arizona, United States |  | 2026-11-04 |  |
@@ -481,8 +588,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Fortis Fire & Safety | [Inspections Billing Coordinator](https://job-boards.greenhouse.io/fortisfiresafety/jobs/4433389009) | Clearwater, FL |  | 2026-11-04 |  |
 | Hillpointe | [Capital Markets Analyst](https://job-boards.greenhouse.io/hillpointe/jobs/5448663008) | Winter Park, FL |  | 2026-11-04 |  |
 | Knock | [Loan Assistant - Remote](https://job-boards.greenhouse.io/knock/jobs/6221182004) | Remote |  | 2026-11-04 |  |
-| Knock | [Loan Officer Assistant - Remote](https://job-boards.greenhouse.io/knock/jobs/6221013004) | Remote | $51,000 to $56,000 | 2026-11-04 |  |
-| Money Mart | [Financial Service Representative](https://job-boards.greenhouse.io/moneymart/jobs/5448983008) | Hollywood, FL, United States |  | 2026-11-04 |  |
 | Red Leviathan LLC | [Associate Consultant - Budget Controller](https://redleviathan.bamboohr.com/careers/61) | Malvern, Pennsylvania, United States | $95,000 to $130,000 | 2026-11-04 |  |
 | Unitek Learning | [Agency Billing Specialist](https://jobs.smartrecruiters.com/UnitekLearning/744000154756589-agency-billing-specialist) | Tempe, AZ, us |  | 2026-11-04 |  |
 | Unitek Learning | [Agency Billing Specialist](https://jobs.smartrecruiters.com/UnitekLearning/744000154756349-agency-billing-specialist) | Irvine, CA, us |  | 2026-11-04 |  |
@@ -491,7 +596,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Enova International | [NetCredit Collections Representative (Remote)](https://job-boards.greenhouse.io/enova/jobs/8266035) | Chicago, IL (remote) |  | 2026-11-04 | no visa sponsorship |
 | Montana Party Rentals, Inc. | [HR & Accounting Manager - Non Seasonal](https://montanapartyrentals.bamboohr.com/careers/48) | Bozeman, Montana, United States |  | 2026-11-04 |  |
 | Personalis, Inc | [Billing Associate](https://job-boards.greenhouse.io/personalisinc/jobs/8017388003) | Fremont, CA | $25.50 to $31.50/hour | 2026-11-04 |  |
-| PitchBook Data | [Portfolio Analyst, Private Capital](https://job-boards.greenhouse.io/pitchbookdata/jobs/4718467006) | Austin, Texas, United States |  | 2026-11-04 | no visa sponsorship |
 | VEGA Americas | [Accounts Payable](https://job-boards.greenhouse.io/vegaamericas/jobs/4720265006) | Mason, Ohio |  | 2026-11-04 |  |
 | Money Mart | [Financial Service Representative](https://job-boards.greenhouse.io/moneymart/jobs/5446835008) | North Lauderdale, FL, United States |  | 2026-11-04 |  |
 | QIMA | [Trainee Auditor- Environment and Sustainability](https://jobs.smartrecruiters.com/QIMA/744000154178554-trainee-auditor-environment-and-sustainability-) | Dallas, TX, us |  | 2026-11-04 |  |
@@ -524,7 +628,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Allegiant | [Controller, Station Operations Control and Recovery](https://jobs.lever.co/allegiantair/7c6a28b0-f39a-47bd-bddc-866e03540b1f) | Las Vegas, NV |  | 2026-11-04 |  |
 | Aprio | [Tax Associate (Fluent in Chinese or Mandarin)](https://jobs.lever.co/Aprio/88a34edf-b095-4621-8bc5-7c650fd996ef) | Atlanta, GA |  | 2026-11-04 |  |
 | Aso | [Audit Associate](https://jobs.ashbyhq.com/aso-careers/11a79767-9451-42e8-b5ac-8a81eb39fb92) | Indianapolis, IN |  | 2026-11-04 |  |
-| Clearway Energy | [Analyst, Market Optimization & Trading](https://job-boards.greenhouse.io/clearwayjobs/jobs/5242740007) | San Diego, California, United States | $85,000 to $95,000 | 2026-11-04 | no visa sponsorship |
 | Madison Energy Infrastructure | [Analyst, Finance](https://job-boards.greenhouse.io/madisonenergyinfrastructure/jobs/4422701009) | Tysons, VA | $70,000 to $80,000 | 2026-11-04 |  |
 | Palmetto Clean Technology | [Portfolio Management Analyst](https://job-boards.greenhouse.io/palmettocleantech/jobs/5436700008) | 1616 Camden Rd Charlotte, NC 28203; New York, NY, USA |  | 2026-11-04 |  |
 | True Legacy Homes | [Acquisition Manager (SD)](https://ats.rippling.com/jobs-in-true-legacy-homes/jobs/ad727f43-883d-4a8d-a31f-93f82567e670) | San Diego, CA | $120,000 to $150,000 | 2026-11-04 |  |
@@ -545,7 +648,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ingeteam | [Accountant I](https://ingeteam.teamtailor.com/jobs/8398212-accountant-i) | Milwaukee, United States |  | 2026-11-04 |  |
 | Fidelity & Guaranty Life Insurance Company | [Actuarial Associate](https://www.fglife.com/about/careers/apply.html?gh_jid=7997114003) | Remote |  | 2026-11-04 |  |
 | Public Storage | [Indirect Tax Analyst I](https://jobs.smartrecruiters.com/PublicStorage/744000149951529-indirect-tax-analyst-i) | Frisco, TX, us |  | 2026-11-04 | no visa sponsorship |
-| Sparksoft Corporation | [Jr Financial Analyst](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5240504007) | Columbia, Maryland - Hybrid |  | 2026-11-04 |  |
 | Campfire | [Accounting Deployment Strategist](https://jobs.ashbyhq.com/campfire/3192ec42-ef69-4820-ac21-8cc3166c93d1) | San Francisco |  | 2026-11-04 |  |
 | Shield AI | [Associate Asset Management Specialist (R5697)](https://jobs.lever.co/shieldai/69e6d06f-878f-46fe-a616-42eaebf0702a) | Dallas, Texas |  | 2026-11-04 |  |
 | Bertelsmann | [Tax Analyst](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000149196839-tax-analyst) | New York, New York (NY), us | $80,000 to $90,000 | 2026-11-04 |  |
@@ -654,105 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Total Recon Auto Center | [Claims Processor](https://job-boards.greenhouse.io/totalrecon/jobs/4377793009) | Rockville, MD | $23 to $26/hour | 2026-11-04 |  |
 | RYZE Claim Solutions | [Lender Placed Claims Examiner](https://ryzeclaims.bamboohr.com/careers/85) | Southlake, Texas, United States (hybrid) |  | 2026-11-04 |  |
 | Allegiant | [Strategic Finance Analyst](https://jobs.lever.co/allegiantair/e50bfc42-891d-4c11-a8c1-5b2295103886) | Las Vegas, NV |  | 2026-11-04 |  |
-| Taptap Send | [Finance Manager](https://jobs.ashbyhq.com/TaptapSend/531c31f8-3e26-458e-aed4-02f1df8c5eee) | New York |  | 2026-11-04 |  |
-| Fireclay Partners | [Investment Banking Analyst (Summer 2027 Start)](https://fireclay-partners.breezy.hr/p/264398137e1b-investment-banking-analyst-summer-2027-start) · Summer 2027 | Kansas City, MO |  | 2026-11-04 |  |
-| Money Mart | [Financial Service Representative](https://job-boards.greenhouse.io/moneymart/jobs/5388536008) | Naples, FL, United States |  | 2026-11-04 |  |
-| Money Mart | [Part Time Financial Service Representative](https://job-boards.greenhouse.io/moneymart/jobs/5389322008) | Flagstaff, AZ, United States |  | 2026-11-04 |  |
-| AgWest Farm Credit | [Relationship Manager](https://job-boards.greenhouse.io/agwestfarmcredit/jobs/4363482009) | Imperial, CA | $72,600 to $191,400 | 2026-11-04 | no visa sponsorship |
-| California FAIR Plan Association | [Accounting Support Specialist (Remote)](https://cafairplan.bamboohr.com/careers/268) | Los Angeles, California, United States (Remote) |  | 2026-11-04 |  |
-| Aprio | [Tax Associate - Real Estate](https://jobs.lever.co/Aprio/6cd49281-9ca8-40bd-90b7-057d6d3f0105) | Phoenix, AZ |  | 2026-11-04 |  |
-| MCD Global Health | [Accounting Assistant - Corporate Finance & Accounting](https://mcdglobalhealth.recruitee.com/o/accounting-assistant-corporate-finance-accounting) | Hallowell, ME, US (hybrid) | $42,000 | 2026-11-04 |  |
-| Maven | [Graduate Trader Program Chicago 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051635) | Chicago | $150,000 to $200,000 | 2026-11-04 |  |
-| Zone 5 Technologies | [Financial Analyst I](https://job-boards.greenhouse.io/zone5technologies/jobs/5379503008) | San Luis Obispo, California | $75,000 to $85,000 | 2026-11-04 |  |
-| Niural | [Tax Specialist – U.S. PEO](https://jobs.ashbyhq.com/niural/37b40ab8-1879-41e9-9fdd-f93f16af42ed) | New York City |  | 2026-11-04 |  |
-| Texana Bank, N.A. | [Jr. Mortgage Loan Originator: BR 26](https://ats.rippling.com/texanabank/jobs/d2c94bc8-a665-41f4-a7f4-e9b99c0b000c) | Reno, NV |  | 2026-11-04 |  |
-| EliseAI | [Junior Billing and Accounts Receivable Specialist](https://jobs.ashbyhq.com/eliseai/05b8eef2-fa3d-4158-9303-5415eba83aa9) | New York City | $63,000 | 2026-11-04 |  |
-| Gain | [Intelligence Origination – Credit Reporter](https://gain.recruitee.com/o/intelligence-origination-credit-reporter-2) | New York, NY, US | $85,000 to $140,000 | 2026-11-04 |  |
-| InfraRed Capital Partners | [Analyst, Investments](https://ircp.bamboohr.com/careers/360) | New York, New York, United States | $125,000 to $135,000 | 2026-11-04 |  |
-| DynaGen Lending | [Entry Level Mortgage Sales](https://ats.rippling.com/dynagenlending/jobs/60cc9a85-291c-418c-aa56-74a5d1839261) | Southfield, MI |  | 2026-11-04 |  |
-| CCMS & Associates | [1099 Field Adjuster - Billings, MT](https://ats.rippling.com/ccms/jobs/450f2597-6059-4d74-98f4-3997c29f9a35) | Billings, MT |  | 2026-11-04 |  |
-| Integrated Specialty Coverages, LLC | [Underwriting Assistant Mid-Market](https://job-boards.greenhouse.io/isccareers/jobs/4717152005) | Carlsbad, California, United States | $26 to $33/hour | 2026-11-04 |  |
-| Judi Health | [Analyst, Data Exchange - Claims Operations](https://job-boards.greenhouse.io/judihealth/jobs/5366459008) | Charlotte, North Carolina, United States; Denver, Colorado, United Sta | $80,800 to $121,000 | 2026-11-04 |  |
-| AgWest Farm Credit | [Credit Underwriter](https://job-boards.greenhouse.io/agwestfarmcredit/jobs/4324146009) | Paso Robles, CA | $72,600 to $137,800 | 2026-11-04 | no visa sponsorship |
-| BryceTech | [Junior Financial Analyst](https://jobs.smartrecruiters.com/BryceTech/744000139131269-junior-financial-analyst-) | Arlington, VA, us |  | 2026-11-04 | clearance |
-| Raftelis | [Analyst/Associate Consultant - Finance](https://raftelis.breezy.hr/p/51477cf498b3-analyst-associate-consultant-finance) | Cincinnati, OH | $63,000 to $89,000 | 2026-11-04 |  |
-| Xsolla | [Analyst, Capital Markets Intelligence and CRM](https://jobs.lever.co/xsolla/b12862cb-eab8-4e19-b45a-dddf5da198f3) | Los Angeles, United States |  | 2026-11-04 |  |
-| Houlihan Capital | [Valuation & Financial Advisory Associate](https://houlihancapital.bamboohr.com/careers/48) | Chicago, Illinois, United States (Remote) |  | 2026-11-04 |  |
-| Fictiv | [Accounting Associate](https://job-boards.greenhouse.io/fictiv/jobs/8624954002) | Schaumburg, IL | $50,000 to $65,000 | 2026-11-04 |  |
-| Philadelphia Green Capital Corp. | [Operations and Finance Coordinator](https://philadelphia-green-capital-corp.breezy.hr/p/2c0102e54423-operations-and-finance-coordinator) | Philadelphia, PA | $55,000 to $65,000 | 2026-11-04 |  |
-| AgWest Farm Credit | [Relationship Manager](https://job-boards.greenhouse.io/agwestfarmcredit/jobs/4306480009) | Paso Robles, CA; Rocklin, CA; Ventura, CA; Yuba City, CA | $72,600 to $144,100 | 2026-11-04 | no visa sponsorship |
-| Focus Partners Wealth | [Alternative Investment Reporting Associate](https://job-boards.greenhouse.io/focuspartnerswealth/jobs/6110005004) | St. Louis, MO; Boston, MA; Chicago, IL | $65,000 to $70,000 | 2026-11-04 |  |
-| Jencap | [Associate Underwriter - Personal Lines](https://job-boards.greenhouse.io/jencapinc/jobs/5178099007) | Red Bank, NJ |  | 2026-11-04 |  |
-| OffDeal | [Investment Banker I](https://jobs.ashbyhq.com/offdeal/46452bd3-933c-40c3-86ff-51da873ac900) | New York |  | 2026-11-04 |  |
-| Orion Group | [M&A Integrations Manager](https://job-boards.greenhouse.io/oriongroup/jobs/4693284006) | Remote |  | 2026-11-04 |  |
-| Kickstart Accounting, Inc. | [Multi-Client Bookkeeper (Entry-Level)](https://kickstart-accounting-inc.breezy.hr/p/c2d5a77c7a82-multi-client-bookkeeper-entry-level) | United States |  | 2026-11-04 |  |
-| Money Mart | [Bilingual (Creole-English) Financial Service Representative](https://job-boards.greenhouse.io/moneymart/jobs/5286153008) | Palm Springs, FL, United States |  | 2026-11-04 |  |
-| Viking Bank | [Rotational Banking Operations Associate](https://vikingbank.bamboohr.com/careers/58) | Alexandria, Minnesota, United States |  | 2026-11-04 |  |
-| StepStone Group | [Analyst, Asset Management - Real Estate](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8031349) | San Francisco / Chicago / New York | $85,000 to $110,000 | 2026-11-04 |  |
-| JND | [[Entry Level] Korean Bilingual Financial Analyst - Budget & Forecast Planning (17495-1)](https://jnd-inc.breezy.hr/p/e8047614eb91-entry-level-korean-bilingual-financial-analyst-budget-forecast-planning-17495-1) | Plano, TX |  | 2026-11-04 |  |
-| William Vaughan | [Bookkeeper](https://wvco.com/careers/available-positions/?gh_jid=5168412007) | Savannah, Georgia |  | 2026-11-04 |  |
-| AMT Engineering | [Billing Assistant](https://jobs.lever.co/amtengineering/8420b6cb-6643-4954-bc90-03cca6b53ef5) | Rockville, Maryland |  | 2026-11-04 |  |
-| FIRY | [FP&A Analyst](https://FIRY.com/careers-list?gh_jid=8016250) | Las Vegas, Nevada, United States |  | 2026-11-04 |  |
-| Generate | [Analyst, Treasury](https://jobs.ashbyhq.com/generate/39ce9d4a-b118-4e78-bccd-8d59bed7d509) | New York, NY - Hybrid | $80,000 to $110,000 | 2026-11-04 |  |
-| Cresco Labs | [Treasury Analyst](https://job-boards.greenhouse.io/crescolabs/jobs/8590141002) | Chicago, IL | $65,000 to $75,000 | 2026-11-04 | no visa sponsorship |
-| Steadily | [Insurance Sales Agent Development Program](https://jobs.ashbyhq.com/Steadily/da8908eb-7877-4c7a-8b4e-df9de6d860e6) | Overland Park, KS | $60,000 | 2026-11-04 |  |
-| Next Generation Inc | [System / Business Analyst (PeopleSoft, ServiceNow, Procurement & Financial Operations) NYC - Month Contract](https://next-generation-inc.breezy.hr/p/eb7c5f83b8c601-system-business-analyst-peoplesoft-servicenow-procurement-financial-operations-nyc-month-contract) | New York, NY | $45 to $55/hour | 2026-11-04 |  |
-| NerdWallet | [Licensed Insurance Sales Agent](https://jobs.ashbyhq.com/nerdwallet/96d94df7-b766-4e8c-b8f9-33e1ee7168ad) | NerdWallet US |  | 2026-11-04 |  |
-| Paradigm | [Junior Accountant](https://job-boards.greenhouse.io/joinparadigm/jobs/4703685005) | United States |  | 2026-11-04 |  |
-| LTC Solutions LLC | [Junior Accountant](https://ltcsolutionsllc.bamboohr.com/careers/252) | Stafford, Virginia, United States |  | 2026-11-04 | US citizens/persons only, clearance |
-| Bloom Financial Partners | [Financial Advisor Trainee (Remote) / Flexible Schedule / Training & Mentorship Provided](https://bloomfinancial.bamboohr.com/careers/40) | houston, Texas, United States (Remote) |  | 2026-11-04 |  |
-| Skillz Inc | [FP&A Analyst](https://job-boards.greenhouse.io/skillzinc/jobs/7968033) | Las Vegas, Nevada, United States |  | 2026-11-04 |  |
-| Terrestris Global Solutions | [Junior Payroll Administrator](https://terrestris-global-solutions.breezy.hr/p/22a62248576201-junior-payroll-administrator) | Springfield, VA (hybrid) |  | 2026-11-04 |  |
-| Alabama Oncology | [Insurance Claims Representative](https://alabama-oncology.breezy.hr/p/b5f8b853dba8-insurance-claims-representative) | Birmingham, AL |  | 2026-11-04 |  |
-| CareTalk Health | [Junior Revenue Cycle Management (RCM) Specialist - REMOTE](https://job-boards.greenhouse.io/caretalkhealth/jobs/4259109009) | United States (remote) | $35/hour | 2026-11-04 |  |
-| Hanwha Energy USA | [Trading Analyst](https://job-boards.greenhouse.io/hanwhaenergyusa/jobs/4237423009) | Houston, TX | $75,000 to $110,000 | 2026-11-04 | no visa sponsorship |
-| The Mortgage Talent Network | [Mortgage Loan Originator - Hybrid (Leads Provided + Own Book)](https://themortgagetalentnetwork.recruitee.com/o/mortgage-loan-originator-hybrid-leads-provided-own-book) | 100% Remote , TX, US (hybrid) |  | 2026-11-04 |  |
-| Texana Bank, N.A. | [Jr. Mortgage Loan Originator](https://ats.rippling.com/texanabank/jobs/e91d321a-dfcf-4450-a865-91404df40893) | Remote (Naples, Florida, US) |  | 2026-11-04 |  |
-| Air Apps | [Financial Analyst](https://jobs.ashbyhq.com/airapps/3bcec22c-01b5-4e81-bcfe-deee0db1bb40) | San Francisco |  | 2026-11-04 |  |
-| Bloom Financial Partners | [Entry Level Financial Advisor - Remote - Training Provided - Orlando FL](https://bloomfinancial.bamboohr.com/careers/36) | Orlando, Florida, United States (Remote) |  | 2026-11-04 |  |
-| Geekplus America Inc | [Finance Assistant (Graduate Role) CN Bilingual](https://geekplus.bamboohr.com/careers/385) | Suwanee, Georgia, United States |  | 2026-11-04 |  |
-| Cresta | [Accountant](https://job-boards.greenhouse.io/cresta/jobs/5140718008) | United States (Remote) |  | 2026-11-04 |  |
-| Ascend Partner Firms | [Tax Associate](https://www.ascendtogether.com/partner-firms-jobs/?gh_jid=5068494007) | Leawood, KS |  | 2026-11-04 |  |
-| DBHW Wealth Partners | [Junior Financial Advisor](https://ats.rippling.com/dbhw-wealth-partners/jobs/f61e971d-9755-494d-be58-1b3e81442975) | Bellville, TX |  | 2026-11-04 |  |
-| Terrestris Global Solutions | [Part-time Entry-Level Project Accountant](https://terrestris-global-solutions.breezy.hr/p/cb89636b829801-part-time-entry-level-project-accountant) | Woodbridge, VA |  | 2026-11-04 |  |
-| Redwood Credit Union | [External Mortgage Loan Officer - Solano County](https://jobs.lever.co/redwoodcu/60730f62-d158-411c-9ab3-cf1f8e3cae95) | Solano County, California | $40,019.20 | 2026-11-04 |  |
-| Anza Mortgage Insurance Corporation | [Mortgage Acquisition Analyst](https://ats.rippling.com/anza-mortgage-insurance-company/jobs/2805673d-838c-4a7c-87b7-a172610b1ece) | Wilmington, NC |  | 2026-11-04 |  |
-| Ally Behavior Centers | [Entry-Level Insurance and Revenue Cycle Analyst](https://job-boards.greenhouse.io/allybehaviorcenters/jobs/4115256009) | McLean, Virginia, USA |  | 2026-11-04 | no visa sponsorship |
-| Success Academy Charter Schools | [Analyst, FP&A](https://job-boards.greenhouse.io/successacademycharterschool/jobs/5096321008) | New York (hybrid) |  | 2026-11-04 | no visa sponsorship |
-| Nabi | [Billing, Credentialing & Back-Office Operations Coordinator](https://jobs.ashbyhq.com/nabihealth/ff5368b5-2bf4-4461-9ff0-84b0e4a779bd) | Remote |  | 2026-11-04 |  |
-| Comfort Insurance and Finances | [Insurance Agent](https://comfortif.bamboohr.com/careers/34) | Miami, Florida, United States | $35,620 | 2026-11-04 |  |
-| IOU Financial | [Loan Closing Specialist (Financial/Banking Experience)](https://iou-financial.breezy.hr/p/a4242b6b2c2b-loan-closing-specialist-financial-banking-experience) | Kennesaw, GA |  | 2026-11-04 |  |
-| Perpay - Career's Page | [Junior Financial Analyst](https://job-boards.greenhouse.io/perpay/jobs/4969050007) | Philadelphia, Pennsylvania, United States |  | 2026-11-04 |  |
-| Ownwell | [Insurance Agent](https://job-boards.greenhouse.io/ownwell/jobs/4605270006) | Austin, TX |  | 2026-11-04 |  |
-| DESRI | [Analyst or Associate, Investment & Acquisitions](https://ats.rippling.com/desri-careers/jobs/ab9af3c3-ba51-4a3d-92a7-32b9397d437b) | New York, NY | $100,000 to $140,000 | 2026-11-04 |  |
-| Hut 8 | [Corporate Development](https://job-boards.greenhouse.io/hut8/jobs/4929150008) | Miami, FL |  | 2026-11-04 |  |
-| DynaGen Lending | [Entry Level Mortgage Sales](https://ats.rippling.com/dynagenlending/jobs/4d52a42c-054e-4e1b-bcd5-332ceee639be) | Hallandale Beach, FL |  | 2026-11-04 |  |
-| ProSidian Consulting, LLC | [Entry Level Financial Analyst / Financial Analyst [COC0040039]](https://jobs.smartrecruiters.com/prosidianconsulting/744000082009600-entry-level-financial-analyst-financial-analyst-coc0040039-) | Charlotte, NC, us |  | 2026-11-04 | clearance |
-| ProSidian Consulting, LLC | [Entry Level Accounting Clerk / Accounting Clerk [COC0034033]](https://jobs.smartrecruiters.com/prosidianconsulting/744000082004765-entry-level-accounting-clerk-accounting-clerk-coc0034033-) | Charlotte, NC, us |  | 2026-11-04 | clearance |
-| Excel Sports Management | [Associate, Billing](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4608007005) | New York, New York, United States | $70,000 to $75,000 | 2026-11-04 | no visa sponsorship |
-| BarkleyOKRP | [Specialist, Video Investments](https://job-boards.greenhouse.io/barkleyokrp/jobs/5635709004) | Kansas City, MO / Chicago, IL / New York, NY / Austin, TX / Remote |  | 2026-11-04 |  |
-| Rilla | [AR and Billing Specialist](https://jobs.ashbyhq.com/rilla/e36f5eb6-18f5-4b36-8448-6da4830e8071) | New York City | $87,000 to $100,000 | 2026-11-04 |  |
-| ProSidian Consulting, LLC | [Payroll Clerk / Payroll [COC0054251]](https://jobs.smartrecruiters.com/prosidianconsulting/744000077248912-payroll-clerk-payroll-coc0054251-) | Charlotte, NC, us |  | 2026-11-04 |  |
-| ProSidian Consulting, LLC | [Junior Financial Analyst / Finance [COC0040237]](https://jobs.smartrecruiters.com/prosidianconsulting/744000077020038-junior-financial-analyst-finance-coc0040237-) | Charlotte, NC, us |  | 2026-11-04 |  |
-| ProSidian Consulting, LLC | [Budget Clerk / Finance [COC0038235]](https://jobs.smartrecruiters.com/prosidianconsulting/744000076962443-budget-clerk-finance-coc0038235-) | Charlotte, NC, us |  | 2026-11-04 |  |
-| ProSidian Consulting, LLC | [Junior Accounting Assistant / Accounting [COC0034231]](https://jobs.smartrecruiters.com/prosidianconsulting/744000076962111-junior-accounting-assistant-accounting-coc0034231-) | Charlotte, NC, us |  | 2026-11-04 |  |
-| ProSidian Consulting, LLC | [Billing Clerk / Accounting [COC0032229]](https://jobs.smartrecruiters.com/prosidianconsulting/744000076961482-billing-clerk-accounting-coc0032229-) | Charlotte, NC, us |  | 2026-11-04 |  |
-| Hometap | [Application Specialist - (January 2027)](https://job-boards.greenhouse.io/hometap/jobs/4774561007) | Remote | $65,000 | 2026-11-04 |  |
-| Jobs for Humanity | [2025 Corporate & Investment Risk Management Analyst Program](https://jobs.smartrecruiters.com/JobsForHumanity/744000060047247-2025-corporate-investment-risk-management-analyst-program) · Fall 2025 | San Francisco, CA, us | $28 to $35/hour | 2026-11-04 | no visa sponsorship |
-| Jet Direct Mortgage | [Loan Officer Assistant](https://jetdirectmortgage.bamboohr.com/careers/339) | Montvale, New Jersey, United States |  | 2026-11-04 |  |
-| Greenplaces | [Carbon Accountant (GHG Inventories)](https://job-boards.greenhouse.io/greenplaces/jobs/4627355008) | Remote, San Francisco, Raleigh, New York City |  | 2026-11-04 | no visa sponsorship |
-| First Western | [Mortgage Loan Originator](https://job-boards.greenhouse.io/firstwestern/jobs/6828845) | Jackson, WY |  | 2026-11-04 |  |
-| Cottingham & Butler | [Workers Compensation Claims Adjuster (Northeast Jurisdictions)](https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/4607104008?gh_jid=4607104008) | Remote |  | 2026-11-04 |  |
-| Bertram Capital Management | [Investment Team Associate - Industrials (2026)](https://job-boards.greenhouse.io/bertramcapitalmanagement/jobs/7903404002) | Bay Area | $220,000 to $250,000 | 2026-11-04 |  |
-| Epic Mortgage Group | [Loan Officer Assistant](https://jobs.smartrecruiters.com/EpicMortgageGroup/744000043107125-loan-officer-assistant) | Brookfield, WI, us |  | 2026-11-04 |  |
-| Epic Mortgage Group | [Mortgage Loan Officer](https://jobs.smartrecruiters.com/EpicMortgageGroup/744000042018828-mortgage-loan-officer) | Brookfield, WI, us |  | 2026-11-04 |  |
-| Frontier Dermatology Provider | [Dermatologist and Academic Faculty - Established, Accredited Residency Program](https://job-boards.greenhouse.io/frontierdermatologyprovidercareers/jobs/4454196008) | Salem, OR |  | 2026-11-04 |  |
-| Cottingham & Butler | [Workers Compensation Claims Adjuster (California Experience Required)](https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/4020078008?gh_jid=4020078008) | Remote | $50,000 to $100,000 | 2026-11-04 |  |
-| Cottingham & Butler | [Workers Compensation Claims Adjuster (Midwest Experience Required)](https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/4022746008?gh_jid=4022746008) | Remote |  | 2026-11-04 |  |
-| Matic | [Licensed Insurance Agent, Remote](https://matic.com/careers?gh_jid=4283918004) | Remote |  | 2026-11-04 | no visa sponsorship |
-| Small Batch Standard | [Accounting Associate](https://small-batch-standard.breezy.hr/p/c06e795dde70-accounting-associate) | Ponte Vedra, FL | $51,000 to $60,000 | 2026-11-04 | no visa sponsorship |
-| Van Clemens & Co., Inc | [Financial Advisor Trainee](https://van-clemens-co-inc.breezy.hr/p/cb5f0cc770e1-financial-advisor-trainee) | United States | $50,000 to $85,000 | 2026-11-04 |  |
-| Filevine | [Collections Specialist](https://jobs.lever.co/filevine/f05ee7f9-50ef-43c6-b597-64a42b01ad44) | Salt Lake City, Utah |  | 2026-11-04 |  |
-| Matic | [Licensed Insurance Agent, Sales](https://matic.com/careers?gh_jid=4576358004) | Columbus, Ohio, United States |  | 2026-11-04 | no visa sponsorship |
-| AQ Technology Partners | [Investment Banking Analyst](https://job-boards.greenhouse.io/aqtechnologypartners/jobs/4006683005) | Redwood City, CA |  | 2026-11-04 |  |
-| Bertram Capital Management | [Investment Team Associate (2027)](https://job-boards.greenhouse.io/bertramcapitalmanagement/jobs/4923288002) | Bay Area | $220,000 to $250,000 | 2026-11-04 |  |

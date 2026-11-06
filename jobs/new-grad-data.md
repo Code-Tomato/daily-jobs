@@ -1,11 +1,32 @@
 # New grad and entry level: Data, ML and AI
 
-1,745 open, newest first (by the date the scraper first saw them), updated 2026-11-05. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,736 open, newest first (by the date the scraper first saw them), updated 2026-11-06. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Apple | [Performance and Modeling Engineer](https://jobs.apple.com/en-us/details/200691339-0157/performance-and-modeling-engineer) | Austin |  | 2026-11-06 |  |
+| Boston Consulting Group | [AI Experience Designer, United States - BCG X](https://careers.bcg.com/global/en/job/59463) | New York, New York, United States of America | $130,900 to $145,400 | 2026-11-06 |  |
+| Cardinal Health | [Data & Analytics Early Career Development Program (Embark)](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Early-Career-Development-Program--Embark-_20190569) | OH-Dublin-Cardinal Place |  | 2026-11-06 | no visa sponsorship |
+| CVS Health | [Encounter Data Analyst- DSNP (Dual Eligible Special Needs Plan)](https://jobs.cvshealth.com/us/en/job/R1016439) | Work at Home, Pennsylvania, United States | $43,888 to $93,574 | 2026-11-06 |  |
+| ERG | [Early-Career Research Scientist/Engineer- Aerosol & Environmental](https://jobs.lever.co/erg/ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a) | Morrisville, NC |  | 2026-11-06 |  |
+| Jobs for Humanity | [Data Entry Clerk](https://jobs.smartrecruiters.com/JobsForHumanity/744000159917259-data-entry-clerk) | Kansas City, MO, us |  | 2026-11-06 |  |
+| John Deere | [Data & Analytics Development Program II](https://careers.deere.com/careers/job/137482525937) | Moline, IL, US |  | 2026-11-06 | no visa sponsorship |
+| Medtronic | [Research & Development Engineer I - Onsite](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Research---Development-Engineer-I---Onsite_R81266-1) | Memphis, Tennessee, United States of America | $74,400 to $111,600 | 2026-11-06 |  |
+| Sia | [Generative AI Consultant](https://jobs.smartrecruiters.com/Sia/744000159953609-generative-ai-consultant-) | Charlotte, NC, us | $81,000 to $102,000 | 2026-11-06 |  |
+| SIXT | [Logistics Administrator / Excel, AI & Process Improvement](https://jobs.smartrecruiters.com/SIXT/744000159958029-logistics-administrator-excel-ai-process-improvement) | Tulsa, OK, us |  | 2026-11-06 | no visa sponsorship |
+| Gramian Consulting Group | [General Physician (AI Evaluation)](https://apply.workable.com/j/4DEE643E60) | United States |  | 2026-11-06 |  |
+| Accellor | [Gen AI Engineer](https://jobs.gem.com/accellor/am9icG9zdDoUY28hMlIngfGiciN6eR3X) | San Jose | $90,000 to $130,000 | 2026-11-06 |  |
+| Huckberry | [Business Analyst, AI & Automation](https://apply.workable.com/j/76FD110308) | Austin, Texas, United States |  | 2026-11-06 |  |
+| ConsumerAffairs | [AI Native, Junior Digital PR Associate](https://apply.workable.com/j/B683FF73E5) | United States |  | 2026-11-06 |  |
+| ConsumerAffairs | [Data Journalist, AI & Automation](https://apply.workable.com/j/0544C1F4F8) | United States |  | 2026-11-06 |  |
+| Credence | [Junior SAP SME](https://apply.workable.com/j/053C4602C2) | McLean, Virginia, United States | $100,000 to $130,000 | 2026-11-06 | US citizens/persons only, clearance |
+| Ignite IT | [Jr. AI Prompt Engineer](https://apply.workable.com/j/310C67078E) | Ashburn, Virginia, United States |  | 2026-11-06 | US citizens/persons only |
+| BIP Capital | [Associate Product Owner / 1-3 Years - FinTech / SaaS / Multi-Platform / AI](https://apply.workable.com/j/03BC47BB4F) | Atlanta, Georgia, United States |  | 2026-11-06 |  |
+| Southwest Research Institute | [ENGINEER - RESEARCH ENGINEER - Fluids Engineering Dept. Experimental Engineer](https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=18-01639) | San Antonio, Texas |  | 2026-11-06 | US citizens/persons only |
+| Pearl | [Associate AI Conversation Designer (German)](https://job-boards.greenhouse.io/justanswer/jobs/8587759002) | United States |  | 2026-11-06 |  |
+| Avanza LLC | [AI Engineer](https://avanzallc.bamboohr.com/careers/35) | Arlington, Virginia, United States (hybrid) |  | 2026-11-06 | US citizens/persons only |
 | Hello Patient | [AI Agent Product Manager, Builder](https://jobs.ashbyhq.com/hellopatient/01134b55-bbf6-47e7-8402-0a702aeb9128) | Austin, Texas | $110,000 to $145,000 | 2026-11-05 |  |
 | Hello Patient | [AI Agent Product Manager, Builder](https://jobs.ashbyhq.com/hellopatient/aefdc89b-62b1-42dc-9ef5-d22342ca65bf) | New York, NY | $110,000 to $145,000 | 2026-11-05 |  |
 | JPMorgan Chase | [Quantitative Research - Wholesale Credit Risk - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802731) | Plano, TX, United States |  | 2026-11-05 |  |
@@ -569,7 +590,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Spiralyze | [Junior Analytics Specialist](https://spiralyze.pinpointhq.com/en/postings/8b421525-958d-4ace-b46b-53cd43bd0dac) | Tbilisi, Georgia (Remote) |  | 2026-11-05 |  |
 | White Swan Data | [Quantitative Specialist](https://whiteswandata.pinpointhq.com/en/postings/2d85b27e-e368-4b75-91d0-302e2904d31c) | New York, New York |  | 2026-11-05 |  |
 | Revalize | [AI Enablement Engineer](https://jobs.smartrecruiters.com/Revalize/744000159634697-ai-enablement-engineer) | Remote, REMOTE, us |  | 2026-11-04 |  |
-| Revecore | [Data Entry Specialist](https://jobs.ashbyhq.com/Revecore/0a678e44-e261-456b-ba62-5d9e5a7d16e7) | Franklin, TN (On-site) |  | 2026-11-04 |  |
 | Carvana | [Data Entry Specialist](https://www.carvana.com/careers/apply?gh_jid=8349765) | Lexington, SC | $16/hour | 2026-11-04 | no visa sponsorship |
 | ElevateBio | [Associate I, QC Analytics (Contract)](https://elevate.bio/about/jobs/6242202004?gh_jid=6242202004) | Waltham, Massachusetts, United States |  | 2026-11-04 |  |
 | Equifax | [Data Scientist - Alternative Finance](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Data-Scientist---Alternative-Finance_J00180061) | USA - Georgia - Alpharetta - 30005 |  | 2026-11-04 | no visa sponsorship |
@@ -615,7 +635,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Oxbridge Health | [Data Analyst](https://ats.rippling.com/oxbridge-health/jobs/312cf684-60fc-47d0-b1ac-3c2809b0ad39) | Norwalk, CT |  | 2026-11-04 |  |
 | Pallet | [Associate Deployment Strategist (AI/ML Product)](https://job-boards.greenhouse.io/pallet/jobs/5265290007) | San Francisco or New York City | $100,000 | 2026-11-04 |  |
 | Sia | [Generative AI Consultant](https://jobs.smartrecruiters.com/Sia/744000156855580-generative-ai-consultant-) | San Francisco, CA, us |  | 2026-11-04 |  |
-| Vivid Seats | [Data Analyst](https://job-boards.greenhouse.io/vividseatsllc/jobs/5269938007?gh_jid=5269938007) | Chicago, IL |  | 2026-11-04 |  |
 | Pindrop | [Research Scientist (Future)](https://job-boards.greenhouse.io/pindropsecurity/jobs/8303881) | US - Remote; US-Remote |  | 2026-11-04 |  |
 | Arizona Liver Health | [Research Data Entry/Scheduler (Bilingual)](https://azliver.com/careers-all-open-positions/?gh_jid=5456834008) | Tucson, AZ | $19 to $27/hour | 2026-11-04 |  |
 | Baidu USA | [Content Marketing & Social Media Specialist – AI Consumer Apps](https://job-boards.greenhouse.io/baidu/jobs/8302336) | Mountain View, CA | $35 to $40/hour | 2026-11-04 |  |
@@ -654,9 +673,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Options Technology | [Graduate Market Data Support Engineer](https://jobs.ashbyhq.com/options-it/19b313f7-75f8-4b95-a1e0-6933a62444e6) | Cambridge |  | 2026-11-04 |  |
 | ProSidian Consulting, LLC | [International Development Program/Project Data Analyst (PILAB011)](https://jobs.smartrecruiters.com/prosidianconsulting/744000153376929-international-development-program-project-data-analyst-pilab011-) | Washington, DC, us |  | 2026-11-04 |  |
 | Brain Co. | [AI/ML Engineer, 2027 New Grad](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd) · Spring 2027 | San Francisco Bay Area | $140,000 to $190,000 | 2026-11-04 |  |
-| Celonis | [Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program](https://job-boards.greenhouse.io/celonis/jobs/7885881003?gh_jid=7885881003) | Raleigh, US, North Carolina (hybrid) |  | 2026-11-04 | no visa sponsorship |
 | Celonis | [Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program](https://job-boards.greenhouse.io/celonis/jobs/7885816003?gh_jid=7885816003) | New York, US, New York (hybrid) | $90,000 to $95,000 | 2026-11-04 | no visa sponsorship |
-| TubeScience | [Digital Ad Quality Analyst (AI-Assisted QC)](https://job-boards.greenhouse.io/tubescience52/jobs/5255046007) | International Remote | $10 to $14/hour | 2026-11-04 |  |
+| Celonis | [Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program](https://job-boards.greenhouse.io/celonis/jobs/7885881003?gh_jid=7885881003) | Raleigh, US, North Carolina (hybrid) |  | 2026-11-04 | no visa sponsorship |
 | Fanatics Betting & Gaming | [Quantitative Analyst I](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4426177009) | Denver, CO, United States (hybrid) | $72,000 to $91,800 | 2026-11-04 |  |
 | Quantifind | [Associate Data Scientist](https://www.quantifind.com/open-positions/?gh_jid=8241359) | Palo Alto, CA | $100,000 to $130,000 | 2026-11-04 |  |
 | ABACUS | [Data Engineer](https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8006961003) | Remote in US |  | 2026-11-04 |  |
@@ -738,21 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Red Ventures | [2027 Launch Program: Associate Product Manager, AI](https://www.redventures.com/careers/positions/open?gh_jid=8092530) | Charlotte, NC | $100,000 | 2026-11-04 |  |
 | Amira Learning | [Machine Learning Engineer / AI Systems Engineer](https://job-boards.greenhouse.io/amiralearning/jobs/4333066009) | Texas |  | 2026-11-04 |  |
 | CLEAR - Corporate | [Machine Learning Engineer](https://job-boards.greenhouse.io/clear/jobs/8070543) | New York, NY, United States |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/e08be4e67e98-remote-data-entry-online-research-panelist-work-from-home) | Hialeah, FL (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/dd50ef407ea5-remote-data-entry-online-research-panelist-work-from-home) | Irving, TX (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/c9eb5ac8fed9-remote-data-entry-online-research-panelist-work-from-home) | Gilbert, AZ (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/b2307d8afb74-remote-data-entry-online-research-panelist-work-from-home) | Winston-Salem, NC (remote) |  | 2026-11-04 |  |
-| NationsBenefits, LLC | [Data Engineer I](https://nationsbenefits.breezy.hr/p/d667fdca1c59-data-engineer-i) | Plantation, FL |  | 2026-11-04 |  |
-| NewsBreak | [Applied AI Engineer, Advertising Agents (New Grad)](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006) | Mountain View, California, United States | $135,000 to $155,000 | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/4a61178f8e75-remote-data-entry-online-research-panelist-work-from-home) | Chandler, AZ (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/aa0dc585a3ae-remote-data-entry-online-research-panelist-work-from-home) | St. Petersburg, FL (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/b221207d4694-remote-data-entry-online-research-panelist-work-from-home) | Oakland, CA (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/8d0e87625117-remote-data-entry-online-research-panelist-work-from-home) | Stockton, CA (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/014da0745403-remote-data-entry-online-research-panelist-work-from-home) | Newark, NJ (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/4663b7a56120-remote-data-entry-online-research-panelist-work-from-home) | Pittsburgh, PA (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/94cd4592c888-remote-data-entry-online-research-panelist-work-from-home) | Lexington, KY (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/e51da4efe790-remote-data-entry-online-research-panelist-work-from-home) | Aurora, CO (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/cc3169b80f2a-remote-data-entry-online-research-panelist-work-from-home) | Sacramento, CA (remote) |  | 2026-11-04 |  |
-| SOSi | [SCA Analytic Linguist (Spanish)](https://jobs.smartrecruiters.com/SOSi1/3743990014189976-sca-analytic-linguist-spanish-) | Fayetteville, AR, us |  | 2026-11-04 | US citizens/persons only |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/47331804e3a9-remote-data-entry-online-research-panelist-work-from-home) | Tampa, FL (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/3f210ef99518-remote-data-entry-online-research-panelist-work-from-home) | Portland, OR (remote) |  | 2026-11-04 |  |

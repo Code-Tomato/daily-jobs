@@ -1,6 +1,6 @@
 # Internships and co-ops: Education
 
-69 open, newest first (by the date the scraper first saw them), updated 2026-11-05.
+69 open, newest first (by the date the scraper first saw them), updated 2026-11-06.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 

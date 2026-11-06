@@ -1,11 +1,30 @@
 # New grad and entry level: Education
 
-329 open, newest first (by the date the scraper first saw them), updated 2026-11-05.
+341 open, newest first (by the date the scraper first saw them), updated 2026-11-06.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Domino's | [Shift Manager(06615) - 1300 Gattis School Rd., Ste 700](https://jobs.smartrecruiters.com/Dominos/744000160106999-shift-manager-06615-1300-gattis-school-rd-ste-700) | Round Rock, TX, us |  | 2026-11-06 |  |
+| Domino's | [Delivery Driver(08783) - 4909 Gattis School Rd](https://jobs.smartrecruiters.com/Dominos/744000160052708-delivery-driver-08783-4909-gattis-school-rd) | Hutto, TX, us |  | 2026-11-06 |  |
+| Domino's | [Shift Manager(08783) - 4909 Gattis School Rd., Suite 110](https://jobs.smartrecruiters.com/Dominos/744000160027499-shift-manager-08783-4909-gattis-school-rd-suite-110) | Hutto, TX, us |  | 2026-11-06 |  |
+| Catlin Gabel School | [Sign On Bonus $$$ - School Bus Route Driver](https://ats.rippling.com/catlin-gabel-school/jobs/ce7d0243-6c51-49f1-a48b-428d0d2190a9) | Portland, OR | $28 to $32/hour | 2026-11-06 |  |
+| Forbes Bros. Group of Companies | [New Grads - Line School](https://job-boards.greenhouse.io/forbesbrosgroupofcompanies/jobs/4480941009) | Stapleton, NE |  | 2026-11-06 |  |
+| Green Tree School & Services | [1:1 Support](https://jobs.ashbyhq.com/Green-Tree-School-and-Services/afac86cb-debe-4663-94cc-6d4acb9d45f9) | Philadelphia, PA |  | 2026-11-06 |  |
+| Inspiroz | [School Technology Specialist - Washington, DC](https://apply.workable.com/j/C20523D75C) | Washington, District of Columbia, United States |  | 2026-11-06 |  |
+| Inspiroz | [School Technology Specialist - Washington, DC-NEED CONTRACTORS FOR 4 weeks](https://apply.workable.com/j/F45A23B1E9) | Washington, District of Columbia, United States |  | 2026-11-06 |  |
+| Mansfield Hall | [Academic Coach](https://mansfieldhallaccount.bamboohr.com/careers/233) | Madison, Wisconsin, United States | $22/hour | 2026-11-06 |  |
+| Naperville Public Library | [Facilities Maintenance Worker - Nichols Library](https://napervillepl.bamboohr.com/careers/282) | Naperville, Illinois, United States |  | 2026-11-06 |  |
+| Texas Health Resources | [Admissions Specialist - Admitting ER - PRN](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26009815&lang=en) | Dallas |  | 2026-11-06 |  |
+| Texas Health Resources | [Admissions Specialist – Admitting ER](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011794&lang=en) | Plano |  | 2026-11-06 |  |
+| Texas Health Resources | [Admissions Specialist – Admitting ER](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011916&lang=en) | Frisco |  | 2026-11-06 |  |
+| Inspiroz | [School Technology Specialist](https://apply.workable.com/j/C08D1C965B) | Charlotte, North Carolina, United States |  | 2026-11-06 |  |
+| Inspiroz | [School Technology Specialist - NYC-NEED URGENT CONTRACTORS](https://apply.workable.com/j/E71D96C35F) | New York, New York, United States |  | 2026-11-06 |  |
+| Fluentbe.com | [English teacher for young learners / Lektor/ka języka angielskiego dla dzieci](https://apply.workable.com/j/B4AD3E73FD) | United States |  | 2026-11-06 |  |
+| Inspiroz | [School Technology Specialist - NYC](https://apply.workable.com/j/9EF2C881C5) | New York, New York, United States | $50,000 to $75,000 | 2026-11-06 |  |
+| Harlem Children's Zone | [Pre-K Learning Specialist (Special Education Teacher)](https://apply.workable.com/j/39335E83D2) | New York, New York, United States | $70,000 to $140,000 | 2026-11-06 |  |
+| Amazing Athletes | [Sports Coach - Preschool](https://apply.workable.com/j/E0C6177539) | Arlington, Texas, United States | $50/hour | 2026-11-06 |  |
 | Domino's | [Delivery Driver(06615) - 1300 Gattis School Rd., Ste 700](https://jobs.smartrecruiters.com/Dominos/744000159757468-delivery-driver-06615-1300-gattis-school-rd-ste-700) | Round Rock, TX, us |  | 2026-11-05 |  |
 | Magical Beginnings | [Infant Toddler Teacher - Paid Winter Break](https://jobs.lever.co/magicalbeginningslc/628e7460-b2b5-4741-8d11-acc4e0c07695) | Plymouth, MA |  | 2026-11-05 |  |
 | Playbook | [Group Fitness Instructor (Contractor)](https://jobs.lever.co/playbook/85f430bd-9571-4f3b-b1c9-d86b56f5ef74) | Chicago, IL |  | 2026-11-05 |  |
@@ -62,11 +81,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Pacific College | [ADN Program Full-time Faculty Pediatrics](https://pacific.bamboohr.com/careers/95) | Costa Mesa, California, United States |  | 2026-11-05 |  |
 | Magical Beginnings | [Infant Teacher](https://jobs.lever.co/magicalbeginningslc/bba4cbb2-9c1c-4c6b-a6f6-c704759077ee) | Pembroke, MA |  | 2026-11-05 |  |
 | Magical Beginnings | [Toddler Preschool Teacher](https://jobs.lever.co/magicalbeginningslc/8b845c93-f450-4f2e-b029-f786100a34d8) | Plymouth, MA |  | 2026-11-05 |  |
-| CSC Generation | [Chef Instructor, Pastry (Sur La Table)](https://jobs.lever.co/cscgeneration-2/4ddec8cc-452a-4f2a-a485-2d9968b5daf1) | Columbus, OH |  | 2026-11-05 |  |
 | Magical Beginnings | [Preschool Teacher - Paid Winter Break](https://jobs.lever.co/magicalbeginningslc/3ca771f3-ad7d-4b3b-a48b-cbbac5de0c77) | Bellingham, MA |  | 2026-11-05 |  |
 | DREAM | [[Immediate Start] Recess Coach - East Harlem Elementary and Middle School](https://jobs.lever.co/wearedream/27b34abb-26da-4fa6-b786-0776224b93f7) | New York, NY - Multi-Site | $17.50 to $18/hour | 2026-11-05 |  |
 | Faith Life Church | [Music Teacher (part time)](https://faithlife.bamboohr.com/careers/130) | Powell, Ohio, United States |  | 2026-11-05 |  |
-| Magical Beginnings | [Schoolwide Childcare Support Teacher](https://jobs.lever.co/magicalbeginningslc/43a4341e-8ce5-4894-b66a-9229fb69d385) | West Peabody, MA |  | 2026-11-05 |  |
 | Lansing School District | [Everett Junior Varsity Girls Volleyball Coach](https://jobs.lever.co/lansingschools/9e2d80a5-77ce-494f-a3f4-19176734c1ac) | Lansing, MI |  | 2026-11-05 |  |
 | Magical Beginnings | [Toddler Preschool Teacher](https://jobs.lever.co/magicalbeginningslc/fb4caba1-34f6-4c81-8a09-22d502ec57ab) | Pembroke, MA |  | 2026-11-05 |  |
 | Yu Ming Charter School | [[2026-2027] School Custodian](https://yumingcharterschool.bamboohr.com/careers/251) | Oakland, California, United States | $23 to $28/hour | 2026-11-05 |  |
@@ -154,7 +171,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Domino's | [Shift Manager(06615) - 1300 Gattis School Rd., Ste 700](https://jobs.smartrecruiters.com/Dominos/744000157021891-shift-manager-06615-1300-gattis-school-rd-ste-700) | Round Rock, TX, us |  | 2026-11-04 |  |
 | Domino's | [Delivery Driver(08783) - 4909 Gattis School Rd](https://jobs.smartrecruiters.com/Dominos/744000156965452-delivery-driver-08783-4909-gattis-school-rd) | Hutto, TX, us |  | 2026-11-04 |  |
 | Domino's | [Shift Manager(08783) - 4909 Gattis School Rd., Suite 110](https://jobs.smartrecruiters.com/Dominos/744000156946438-shift-manager-08783-4909-gattis-school-rd-suite-110) | Hutto, TX, us |  | 2026-11-04 |  |
-| Patch | [On Call Substitute Childcare Teacher, Atlanta, GA](https://www.patchcaregiving.com/careers?gh_jid=8042182003) | Atlanta, GA | $18 to $20/hour | 2026-11-04 |  |
 | Domino's | [Delivery Driver(06615) - 1300 Gattis School Rd., Ste 700](https://jobs.smartrecruiters.com/Dominos/744000156683650-delivery-driver-06615-1300-gattis-school-rd-ste-700) | Round Rock, TX, us |  | 2026-11-04 |  |
 | Comply | [Education Training Specialist](https://ats.rippling.com/complycareers/jobs/eb3582be-952e-4420-b0a8-db9cf627db7e) | New York, NY | $49,500 to $57,200 | 2026-11-04 | no visa sponsorship |
 | Henry Ford Health | [Unit Educator - MPCU - 40 Hours - Days](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016278596-unit-educator-mpcu-40-hours-days-) | West Bloomfield, MI, us |  | 2026-11-04 |  |
@@ -174,17 +190,14 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Apollo After School | [Part Time Substitute Educator](https://apollo-after-school.breezy.hr/p/7337b96b63d2-part-time-substitute-educator) | Alhambra, CA | $21/hour | 2026-11-04 |  |
 | Proximity Learning Inc. | [Chicago Title I SAT Prep Instructor](https://proxlearn.bamboohr.com/careers/209) | Chicago , Illinois, United States | $40/hour | 2026-11-04 |  |
 | Uncommon Schools | [High School Science Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000154675789-high-school-science-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-04 |  |
-| Wellthy Care Network | [Part Time Spanish Tutor – San Gabriel, CA](https://job-boards.greenhouse.io/wellthy-care-network/jobs/8019749003) | United States | $25 to $30/hour | 2026-11-04 |  |
 | ACI Learning | [Admissions Advisor - National](https://job-boards.greenhouse.io/acilearning/jobs/4429518009) | Remote | $55,000 to $70,000 | 2026-11-04 |  |
 | Stanford Medicine Children's Health | [Certified Diabetes Care and Education Specialist](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990015978056-certified-diabetes-care-and-education-specialist) | PALO ALTO, CA, us | $49.06 to $61.33/hour | 2026-11-04 |  |
 | Tines | [Technical Support Engineer I](https://job-boards.greenhouse.io/tines/jobs/6220150004) | Boston, MA | $85,000 to $95,000 | 2026-11-04 |  |
 | Alabaster City Schools | [Secretary I, II, III - ACSD - Apply 10/02/2026](https://alabaster-city-schools.breezy.hr/p/39ad3384c02d-secretary-i-ii-iii-acsd-apply-10-02-2026) | Alabaster City Schools District, AL |  | 2026-11-04 |  |
-| Patch | [On Call Substitute Childcare Teacher, Arlington, TX](https://www.patchcaregiving.com/careers?gh_jid=8008692003) | Arlington, TX | $19 to $21/hour | 2026-11-04 |  |
 | Unitek Learning | [Student Services Specialist](https://jobs.smartrecruiters.com/UnitekLearning/744000152498428-student-services-specialist) | Idaho Falls, ID, us |  | 2026-11-04 |  |
 | YMCA of Central Texas | [Specialty & Enrichment Instructor](https://ymca-of-central-texas.breezy.hr/p/57e1f742bcc3-specialty-enrichment-instructor) | Round Rock, TX | $15 to $19/hour | 2026-11-04 |  |
 | Apollo After School | [Part-Time Substitute Educator](https://apollo-after-school.breezy.hr/p/f525d8832968-part-time-substitute-educator) | Mendham, NJ | $20/hour | 2026-11-04 |  |
 | Alma del Mar Charter School | [English as a Second Language (ESL) Specialist Teacher](https://alma-del-mar-charter-school.breezy.hr/p/c6f0cdf1d955-english-as-a-second-language-esl-specialist-teacher) | New Bedford, MA | $49,150 | 2026-11-04 |  |
-| Patch | [On Call Substitute Childcare Teacher, Shippensburg, PA](https://www.patchcaregiving.com/careers?gh_jid=8001268003) | Shippensburg, PA | $18 to $20/hour | 2026-11-04 |  |
 | Revolution Prep | [Professional Online Tutor – SAT/ACT & Academics](https://ats.rippling.com/revolution-prep-careers/jobs/ff4e6822-ae1c-4b69-840e-3162c9efd1b5) | Remote (Colorado, US) | $25 to $29/hour | 2026-11-04 |  |
 | Revolution Prep | [Professional Online Tutor – SAT/ACT English & Academics](https://ats.rippling.com/revolution-prep-careers/jobs/1b856687-4ec0-43bd-8962-fb5ed98c8eb7) | AL | $25 to $29/hour | 2026-11-04 |  |
 | Red Rabbit | [Porter/Dishwasher, In School (No Nights / Weekends) - NYC](https://red-rabbit.breezy.hr/p/c12edcf99967-porter-dishwasher-in-school-no-nights-weekends-nyc) | NYC, NY | $17 to $19/hour | 2026-11-04 |  |
@@ -233,7 +246,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Svetness Personal Training | [Water Aerobics Instructor - Raleigh, NC](https://job-boards.greenhouse.io/svetness/jobs/5083837007) | Raleigh, NC |  | 2026-11-04 |  |
 | Tahoe Truckee Unified School District | [Basketball - Junior Varsity Women THS](https://tahoetruckeeusd.teamtailor.com/jobs/7404181-basketball-junior-varsity-women-ths) | Truckee, United States |  | 2026-11-04 |  |
 | Think Academy US | [Full-Time Remote Math Teacher](https://job-boards.greenhouse.io/thinkacademyus/jobs/7668579003) | Remote | $16 to $45/hour | 2026-11-04 |  |
-| Patch | [On Call Substitute Childcare Teacher, Middletown, PA](https://www.patchcaregiving.com/careers?gh_jid=7639680003) | Middletown, PA | $18 to $20/hour | 2026-11-04 |  |
 | Telluride Academy | [Junior Field Instructor](https://tellurideacademy.bamboohr.com/careers/43) | Telluride, Colorado, United States | $19/hour | 2026-11-04 |  |
 | YMCA of Central Texas | [Dance Instructor](https://ymca-of-central-texas.breezy.hr/p/b459e8185997-dance-instructor) | Cedar Park, TX | $15 to $17/hour | 2026-11-04 |  |
 | Prep Academy Tutors | [Experienced Tutor](https://prep-academy-tutors.breezy.hr/p/9d0d95e73d81-experienced-tutor) | Naples, FL |  | 2026-11-04 |  |

@@ -1,11 +1,48 @@
 # Internships and co-ops: Product, program and project management
 
-256 open, newest first (by the date the scraper first saw them), updated 2026-11-05.
+290 open, newest first (by the date the scraper first saw them), updated 2026-11-06.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Match Group | [Technical Project Management Intern](https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c) | Los Angeles, California (hybrid) |  | 2026-11-06 |  |
+| Centene | [Project Management Undergraduate Summer Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Project-Management-Undergraduate-Summer-Intern_1667803) · Summer | Remote-MO | $18 to $26/hour | 2026-11-06 | no visa sponsorship |
+| Collective Measures | [Project Management Intern - Marketing](https://collectivemeasures.bamboohr.com/careers/318) | Minneapolis, Minnesota, United States | $20/hour | 2026-11-06 |  |
+| Invesco | [Early Career Intern - Digital Product Management](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) | Atlanta, Georgia | $35/hour | 2026-11-06 |  |
+| S&P Global | [Summer Intern, Product Management](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1) · Summer | New York, NY | $20 to $25/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/62DA4AD911) · Summer 2027 | New Brunswick, New Jersey, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/5BAF2265C4) · Summer 2027 | Hoboken, New Jersey, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/E4A4E1679D) · Summer 2027 | Lawrence Township, New Jersey, United States | $24 to $29/hour | 2026-11-06 |  |
+| EC Electric | [Assistant Project Manager Internship](https://apply.workable.com/j/46CB37C0AD) | Hermiston, Oregon, United States | $25/hour | 2026-11-06 |  |
+| AlphaX | [Apprenticeship Program Manager - New Jersey](https://apply.workable.com/j/0009616164) | United States |  | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/86B54BB911) · Summer 2027 | Waterville, Maine, United States | $24 to $29/hour | 2026-11-06 |  |
+| AlphaX | [Apprenticeship Program Manager - Water Utilities](https://apply.workable.com/j/7CAD1759CD) | United States (remote) |  | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/6B34A9A4E5) · Summer 2027 | Utica, New York, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/94C2A22520) · Summer 2027 | Williamstown, Massachusetts, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/0D937F42D8) · Summer 2027 | Raleigh, North Carolina, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/42F079276A) · Summer 2027 | Milford, Massachusetts, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/0B95C06E39) · Summer 2027 | New York, New York, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/B8B145E530) · Summer 2027 | Orono, Maine, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/0D83791ECD) · Summer 2027 | Providence, Rhode Island, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/77665C3052) · Summer 2027 | Pleasant Valley, New York, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/5725AF993B) · Summer 2027 | White Plains, New York, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/EA6D23D182) · Summer 2027 | Portland, Maine, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/7A2F2370AB) · Summer 2027 | Washington, District of Columbia, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/D7B746CBAC) · Summer 2027 | Manchester, New Hampshire, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/C8E7DF01D1) · Summer 2027 | Albany, New York, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/25C2C0C747) · Summer 2027 | Lewiston, Maine, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/801BFE4AE8) · Summer 2027 | Hamilton, New York, United States | $24 to $29/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/A720BB6D64) · Spring 2027 | Manchester, New Hampshire, United States | $23 to $28/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/0C4CA9C23D) · Spring 2027 | Orono, Maine, United States | $23 to $28/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/42EDC8FA99) · Spring 2027 | Milford, Massachusetts, United States | $23 to $28/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/DD799F0556) · Spring 2027 | Albany, New York, United States | $23 to $28/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/DA7303298B) · Spring 2027 | New York, New York, United States | $23 to $28/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/77E2CCF9EE) · Spring 2027 | Portland, Maine, United States | $23 to $28/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/BE573DEA4B) · Spring 2027 | Providence, Rhode Island, United States | $23 to $28/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/207BC1D915) · Spring 2027 | Pleasant Valley, New York, United States | $23 to $28/hour | 2026-11-06 |  |
+| Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/9EAFFBC0A4) · Spring 2027 | White Plains, New York, United States | $23 to $28/hour | 2026-11-06 |  |
+| TikTok | [POI Content Product Manager Intern (TikTok Local Services) - 2027 Summer](https://lifeattiktok.com/search/7696000179569854725) · Summer 2027 | San Jose, California, United States of America |  | 2026-11-06 |  |
 | ARCO Companies | [Project Manager Co-op (Spring/Summer 2027) - NWA](https://job-boards.greenhouse.io/arco/jobs/4480533009) · Summer 2027 | Rogers, AR, US |  | 2026-11-05 |  |
 | T-Mobile | [Summer 2027 Product Management Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735) · Summer 2027 | Philadelphia, Pennsylvania | $27 to $50/hour | 2026-11-05 |  |
 | T-Mobile | [Summer 2027 Product Operations Manager Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-05 |  |
@@ -13,8 +50,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Wind Energy Transmission Texas | [Summer 2027 Project Management Intern](https://windenergyoftexas.bamboohr.com/careers/147) · Summer 2027 | Austin, Texas, United States |  | 2026-11-05 |  |
 | NYISO Internship Program | [Intern - Project Management](https://job-boards.greenhouse.io/nyisointernships/jobs/5236687007) | Rensselaer, New York, United States | $22 to $33/hour | 2026-11-05 |  |
 | ARCO National Holdings | [Project Manager Co-op (Spring/Summer 2027)](https://job-boards.greenhouse.io/anc/jobs/4384971009) · Summer 2027 | Rogers, AR, US |  | 2026-11-05 |  |
-| Benchmark Construction Company | [Project Management Summer Internship](https://benchmarkgc.pinpointhq.com/en/postings/1236dd73-94d3-4ebf-b07c-c0b4bf74428e) · Summer | Ephrata, Pennsylvania |  | 2026-11-05 |  |
-| Benchmark Construction Company | [Project Management Summer Internship](https://benchmarkgc.pinpointhq.com/en/postings/08d65940-5b6c-434d-9336-e7206f9f303b) · Summer | Ellicott City, Maryland |  | 2026-11-05 |  |
 | Franklin Electric | [Summer 2027 Project Management Intern](https://franklin-electric.pinpointhq.com/en/postings/dbd3aa29-6eb7-4f3a-a927-e65ba127499f) · Summer 2027 | Fort Wayne, Indiana |  | 2026-11-05 |  |
 | Intuitive Machines | [Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575114&lang=en_US) | Greenbelt, MD, US |  | 2026-11-04 | US citizens/persons only |
 | Veolia Environnement SA | [Project Management Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159676644-project-management-intern) | Glen Allen, VA, us |  | 2026-11-04 | no visa sponsorship |
@@ -120,6 +155,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Seagate | [Facilities Project Management & Engineering - Summer 2027 Intern](https://seagatecareers.com/job/Longmont-Facilities-Project-Management-&-Engineering-Summer-2027-Intern-CO-80501/1441921400/) · Summer 2027 | Longmont, United States | $22 to $29.50/hour | 2026-10-21 |  |
 | Zebra Technologies | [2027 Summer Internship (US) - Supplies & Sensors Product Manager](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640) · Summer 2027 | Lincolnshire, Illinois | $25.50 to $32/hour | 2026-10-21 | no visa sponsorship |
 | Home Depot | [2027 Summer Internship - Product Management](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931) · Summer 2027 | STORE SUPPORT CENTER, ATLANTA - 9090 |  | 2026-10-21 |  |
+| Panasonic North America | [Project Management Intern](https://careers.na.panasonic.com/careers-home/jobs/51282) | De Soto, Kansas |  | 2026-10-20 | no visa sponsorship |
+| Panasonic North America | [Project Management Intern](https://careers.na.panasonic.com/careers-home/jobs/51295) | De Soto, Kansas |  | 2026-10-20 | no visa sponsorship |
 | Q2 | [2027 Summer Internship - Product Operations](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) · Summer 2027 | Austin, Texas |  | 2026-10-20 | no visa sponsorship |
 | Boston Scientific | [Technical Communications & Project Management Intern](https://bostonscientific.eightfold.ai/careers/job/563602813563529) · Fall 2027 | Arden Hills, MN, US | $43,368 to $73,736 | 2026-10-20 | no visa sponsorship |
 | Kinder Morgan | [2027 BOLT Intern - Terminals Engineering Project Managment](https://careers.kindermorgan.com/careers-home/jobs/6037) | PASADENA, Texas |  | 2026-10-20 |  |
@@ -152,8 +189,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bosch | [Product Management Co-op- Spring 2027](https://jobs.smartrecruiters.com/BoschGroup/744000154671460-product-management-co-op-spring-2027) · Spring 2027 | Fountain Inn, SC, us |  | 2026-10-20 |  |
 | DocuSign | [Program Manager Intern](https://careers.docusign.com/careers-home/jobs/30507) | Seattle, Washington | $28 to $33/hour | 2026-10-20 | no visa sponsorship |
 | NextEra Energy | [Lead Project Manager - Power Generation Prevailing Wage & Apprenticeship](https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Lead-Project-Manager-Power-Generation-Prevailing-Wage-&-Apprenticeship-FL-33410/1428008100/) | Palm Beach Gardens, FL, US |  | 2026-10-20 |  |
+| Danaher | [Product Management & Marketing Intern (Summer 2027 Intern)](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) · Summer 2027 | Logan, Utah, United States |  | 2026-10-20 |  |
 | Formlabs | [Sourcing Program Management Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8262987/apply/?gh_jid=8262987) · Spring 2027 | Somerville, MA |  | 2026-10-20 |  |
 | Oceaneering | [Project Management Intern](https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/11635) | Houston, TX, United States |  | 2026-10-20 |  |
+| Red Hat | [Product Manager Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Product-Manager-Intern_R-059060) | Raleigh |  | 2026-10-20 |  |
 | HCSC | [Early Careers - Security Program Management Senior Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515) | IL - Chicago | $22.54 to $40.31/hour | 2026-10-20 | no visa sponsorship |
 | Atlassian | [Product Management Intern, 2027 Summer U.S.](https://www.atlassian.com/company/careers/details/26274) · Summer 2027 | San Francisco - United States - San Francisco, California 94104 United | $42 to $57/hour | 2026-10-20 |  |
 | Bosch | [Project Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000153203866-project-management-intern) | Plymouth, MI, us |  | 2026-10-20 |  |
@@ -166,18 +205,14 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Epic Games | [Product Management Intern](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Cary,North Carolina,United States |  | 2026-10-20 |  |
 | Insulet | [Graduate Co-op, Supplier Engineering - Project Management Excellence: January - June 2027 (Onsite)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Graduate-Co-op--Supplier-Engineering---Project-Management-Excellence--January---June-2027--Onsite-_REQ-2026-18165) | Acton, Massachusetts | $25 to $34/hour | 2026-10-20 | no visa sponsorship |
 | Insulet | [Co-op, Supplier Engineering - Project Management Excellence: January - June 2027 (Onsite)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Engineering---Project-Management-Excellence--January---June-2027--Onsite-_REQ-2026-18211) | Acton, Massachusetts | $25 to $34/hour | 2026-10-20 | no visa sponsorship |
-| Panasonic North America | [Project Management Intern](https://careers.na.panasonic.com/careers-home/jobs/51295) | De Soto, Kansas |  | 2026-10-20 | no visa sponsorship |
-| Panasonic North America | [Project Management Intern](https://careers.na.panasonic.com/careers-home/jobs/51282) | De Soto, Kansas |  | 2026-10-20 | no visa sponsorship |
 | GM | [2027 Summer Intern - Digital Product: Product Management (MBA)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship |
 | HPE | [Product Management Intern (Master's/MBA)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634) | Spring, Texas, United States of America | $35 to $46/hour | 2026-10-20 |  |
 | Johnson & Johnson | [Product Management Co-Op](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757) | Danvers, Massachusetts, United States of America | $23.50 to $52.50/hour | 2026-10-20 | no visa sponsorship |
 | Astranis | [Technical Project Management Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4708369006) · Summer 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
 | Astranis | [Technical Project Management Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4708364006) · Winter 2027 | San Francisco | $29/hour | 2026-10-20 | US citizens/persons only |
 | Siemens | [Building Automation Systems Project Management Intern](https://jobs.siemens.com/en_US/externaljobs/JobDetail/523648) · Summer 2027 | Hartford, Connecticut, United States of America |  | 2026-10-20 |  |
-| Danaher | [Product Management & Marketing Intern (Summer 2027 Intern)](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) · Summer 2027 | Logan, Utah, United States |  | 2026-10-20 |  |
 | Rivian | [MBA Intern - Product Management Product Development (Spring 2027 Co-Op)](https://careers.rivian.com/careers-home/jobs/33793) · Spring 2027 | Palo Alto, California | $33 to $51/hour | 2026-10-20 | no visa sponsorship |
 | Dick's Sporting Goods | [Product Management - Summer 2027 Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) · Summer 2027 | Customer Support Center (hybrid) |  | 2026-10-20 |  |
-| Red Hat | [Product Manager Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Product-Manager-Intern_R-059060) | Raleigh |  | 2026-10-20 |  |
 | Travelers | [Product Management Development Program (PMDP) Intern](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317) | CT - Hartford | $26 to $28/hour | 2026-10-20 | no visa sponsorship |
 | Gemini | [Product Management Intern (Winter 2027)](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214332&gh_jid=8214332) · Winter 2027 | New York, New York | $45/hour | 2026-10-20 |  |
 | Qualcomm | [Product Management Internship - Summer 2027](https://careers.qualcomm.com/careers/job/446720741706) · Summer 2027 | San Diego, CA, US | $17 to $98/hour | 2026-10-20 | no visa sponsorship |
@@ -215,7 +250,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | American Express | [Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Commercial Services - New ](https://careers.americanexpress.com/en/sites/CX_1/job/26012558) · Summer | New York, NY, United States |  | 2026-10-20 | no visa sponsorship |
 | Zipline | [Marketing Operations & Project Management Intern (Summer 2027)](https://www.zipline.com/open-roles/7968933003?gh_jid=7968933003) · Summer 2027 | South San Francisco, California, USA | $34/hour | 2026-10-20 | no visa sponsorship |
 | DTCC | [Product Management Intern [2027 Internship Program]](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410) · Spring 2028 | Jersey City, NJ, United States (hybrid) |  | 2026-10-20 | no visa sponsorship |
-| BNY | [2027 BNY Summer Internship Program - Product Management (New York, NY)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81345) · Summer | New York, NY, United States |  | 2026-10-20 | no visa sponsorship |
 | Zipline | [Technical Program Manager Intern (Summer 2027)](https://www.zipline.com/open-roles/7904471003?gh_jid=7904471003) · Summer 2027 | South San Francisco, California, USA | $40/hour | 2026-10-20 |  |
 | Zipline | [Technical Program Manager Intern (Spring 2027)](https://www.zipline.com/open-roles/7904446003?gh_jid=7904446003) · Spring 2027 | South San Francisco, California, USA | $40/hour | 2026-10-20 |  |
 | Microsoft | [Supply Chain Program Management Intern](https://apply.careers.microsoft.com/careers/job/1970393556958168) | Redmond, WA, US | $4,700 to $9,490/month | 2026-10-20 |  |
