@@ -1,21 +1,130 @@
 # New grad and entry level: Sales, marketing and communications
 
-2,528 open, newest first (by the date the scraper first saw them), updated 2026-11-06. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,583 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Domino's | [Customer Service Rep(01691) – 4201 Dr Martin Luther King Jr Blvd](https://jobs.smartrecruiters.com/Dominos/744000160369272-customer-service-rep-01691-4201-dr-martin-luther-king-jr-blvd) | Kansas City, MO, us |  | 2026-11-07 |  |
+| Domino's | [Customer Service Rep(05389) - 1098 Dr MLK Jr Expy](https://jobs.smartrecruiters.com/Dominos/744000160334140-customer-service-rep-05389-1098-dr-mlk-jr-expy) | Andalusia, AL, us |  | 2026-11-07 |  |
+| Domino's | [Customer Service Rep(03335) - 2554 adam clayton powell jr.](https://jobs.smartrecruiters.com/Dominos/744000160330141-customer-service-rep-03335-2554-adam-clayton-powell-jr-) | New York, NY, us |  | 2026-11-07 |  |
+| Allstate | [Direct Sales Agent Specialist (2443)](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Hermitage-2443-Ngr/Direct-Sales-Agent-Specialist--2443-_R36796) | Hermitage 2443 Ngr | $20/hour | 2026-11-07 |  |
+| Ally Financial | [Remarketing Representative (Little Rock, AR)](https://ally.wd1.myworkdayjobs.com/Ally/job/Little-Rock-AR/Remarketing-Representative--Little-Rock--AR-_R2601048) | Little Rock, AR | $47,840 to $54,080 | 2026-11-07 |  |
+| AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/86a35ca1-bcd7-4a8f-b89c-6ae8a3bce579) | Goose Creek, South Carolina (remote) |  | 2026-11-07 |  |
+| AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/940ceeb1-c23b-4659-bd5b-c3c3a829500a) | Lawrence, Kansas (remote) |  | 2026-11-07 |  |
+| AT&T | [Specialist Sales Communication](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Specialist-Sales-Communication_R-117552) | Dallas, Texas | $71,900 to $107,900 | 2026-11-07 |  |
+| Charles Schwab | [Client Relationship Specialist- Atlanta (Midtown), GA](https://www.schwabjobs.com/job/atlanta/client-relationship-specialist-atlanta-midtown-ga/33727/99549606336) | Atlanta, Georgia |  | 2026-11-07 |  |
+| Cranial Technologies | [Zone Sales Manager](https://job-boards.greenhouse.io/cranialtechnologies/jobs/8933874002) | ** Corporate **; Fort Lauderdale, Florida, United States; Miami, Flori |  | 2026-11-07 | no visa sponsorship |
+| Crimson Brand Partners | [Account Manager, Premium Sales](https://crimsonbrandpartners.bamboohr.com/careers/41) | Salt Lake CIty, Utah, United States |  | 2026-11-07 |  |
+| Crimson Brand Partners | [Account Manager, Premium Service](https://crimsonbrandpartners.bamboohr.com/careers/43) | Salt Lake CIty, Utah, United States |  | 2026-11-07 |  |
+| Dialpad | [Sales Development Representative](https://job-boards.greenhouse.io/dialpad/jobs/8931999002) | Tempe, US |  | 2026-11-07 |  |
+| DynaGen Lending | [Junior Sales Trainer](https://ats.rippling.com/dynagenlending/jobs/5a9b0bc3-9268-4205-94e5-9592d950b952) | Southfield, MI |  | 2026-11-07 |  |
+| Eurofins | [Sample Registration Support Specialist - Data Entry - Environment Testing - Tues-Sat, 2nd Shift](https://jobs.smartrecruiters.com/Eurofins/744000160303599-sample-registration-support-specialist-data-entry-environment-testing-tues-sat-2nd-shift-) | Lancaster, PA, us |  | 2026-11-07 |  |
+| Eurofins | [Sample Storage Support Specialist - Environment Testing - Sun-Thurs, 8pm - 6:30am](https://jobs.smartrecruiters.com/Eurofins/744000160303409-sample-storage-support-specialist-environment-testing-sun-thurs-8pm-6-30am-) | Lancaster, PA, us |  | 2026-11-07 |  |
+| Excel™ | [Affiliate Manager](https://ats.rippling.com/excel/jobs/ab6525ec-2120-42e3-bf5b-e121072236d0) | Remote (Cleveland, OH, US) |  | 2026-11-07 |  |
+| Fanatics Commerce | [Marketing Specialist](https://job-boards.greenhouse.io/fanaticscommerce/jobs/4450754009) | Redwood City, CA, United States | $70,000 to $85,000 | 2026-11-07 |  |
+| fonio | [Sales Development Representative (US)](https://jobs.ashbyhq.com/fonio/5413ed85-74f9-47c1-9d95-97579ca9c2e9) | New York | $30,000 to $110,000 | 2026-11-07 |  |
+| HeyGen | [Sales Development Representative](https://job-boards.greenhouse.io/heygen/jobs/5288025007) | Los Angeles, California, United States, San Francisco, California, Uni |  | 2026-11-07 |  |
+| Hilltop Holdings | [Teller/Customer Service Representative](https://ejlu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/HilltopHoldingsAllJobs/job/32294) | Prosper, TX, United States |  | 2026-11-07 |  |
+| Huntington Bank | [Area Customer Experience Specialist - Gaylord, MI](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Gaylord-MI/Area-Customer-Experience-Specialist---Gaylord--MI_R0077586) | Gaylord, MI |  | 2026-11-07 | no visa sponsorship |
+| Huntington Bank | [Area Customer Experience Specialist - Lane Ave](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Area-Customer-Experience-Specialist---Lane-Ave_R0077397) | Columbus, OH |  | 2026-11-07 | no visa sponsorship |
+| JPMorgan Chase | [Retail Customer Service Account Specialist I](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805238) | Houston, TX, United States |  | 2026-11-07 |  |
+| JRC | [Technical Editor/Writer](https://job-boards.greenhouse.io/jrc/jobs/4484199009) | District of Columbia, United States (hybrid) | $90,000 to $100,000 | 2026-11-07 | clearance |
+| K Group Companies | [Customer Support Engineer - Level 1](https://jobs.lever.co/kgroupcompanies/4901c9c4-730d-493e-b5d1-a80f95837249) | Grand Rapids, Michigan |  | 2026-11-07 | no visa sponsorship |
+| Kami | [Sales Development Representative](https://kami.bamboohr.com/careers/164) | Texas, Texas, United States (Remote) |  | 2026-11-07 |  |
+| Kao Corporation | [Technical Sales Representative (Commercial Laundry)](https://kao.voyse.io/gh-job/4728013006?gh_jid=4728013006) | Houston (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Entry Level Remote Sales — $75K to $300K Potential](https://meron-financial-agency.breezy.hr/p/bc29699e1383-entry-level-remote-sales-75k-to-300k-potential) | San Angelo, TX (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Entry Level Remote Sales — $75K to $300K Potential](https://meron-financial-agency.breezy.hr/p/166cf8d8eba0-entry-level-remote-sales-75k-to-300k-potential) | Richardson, TX (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Entry-Level Sales Rep — Remote, Warm Leads Only](https://meron-financial-agency.breezy.hr/p/d274caf7f245-entry-level-sales-rep-remote-warm-leads-only) | Savannah, GA (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Entry-Level Sales Rep — Remote, Warm Leads Only](https://meron-financial-agency.breezy.hr/p/eb4a64e9d81d-entry-level-sales-rep-remote-warm-leads-only) | Phoenix, AZ (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Entry-Level Sales Rep — Remote, Warm Leads Only](https://meron-financial-agency.breezy.hr/p/993731403e3c-entry-level-sales-rep-remote-warm-leads-only) | San Antonio, TX (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Client Protection Agent — Entry Level](https://meron-financial-agency.breezy.hr/p/6b78a2c28e95-remote-client-protection-agent-entry-level) | Stockton, CA (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales Rep — $100K–$300K, Recent Grads Welcome](https://meron-financial-agency.breezy.hr/p/b3f9d7455915-remote-sales-rep-100k-300k-recent-grads-welcome) | Jackson, TN (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales Rep — $100K–$300K, Recent Grads Welcome](https://meron-financial-agency.breezy.hr/p/e0433dc4602e-remote-sales-rep-100k-300k-recent-grads-welcome) | Conroe, TX (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales Rep — $100K–$300K, Recent Grads Welcome](https://meron-financial-agency.breezy.hr/p/652c3254fd32-remote-sales-rep-100k-300k-recent-grads-welcome) | Laramie, WY (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales Rep — $100K–$300K, Recent Grads Welcome](https://meron-financial-agency.breezy.hr/p/845cfc3267a9-remote-sales-rep-100k-300k-recent-grads-welcome) | Yakima, WA (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales Rep — $100K–$300K, Recent Grads Welcome](https://meron-financial-agency.breezy.hr/p/5f48d48f2d3b-remote-sales-rep-100k-300k-recent-grads-welcome) | Racine, WI (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales Rep — $100K–$300K, Recent Grads Welcome](https://meron-financial-agency.breezy.hr/p/49647c13e5ef-remote-sales-rep-100k-300k-recent-grads-welcome) | Virginia Beach, VA (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales Rep — $100K–$300K, Recent Grads Welcome](https://meron-financial-agency.breezy.hr/p/3850c4e8a901-remote-sales-rep-100k-300k-recent-grads-welcome) | Elko, NV (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales — $100K to $300K, Entry Level](https://meron-financial-agency.breezy.hr/p/e9c6a0191210-remote-sales-100k-to-300k-entry-level) | Nampa, ID (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales — $100K to $300K, Entry Level](https://meron-financial-agency.breezy.hr/p/bbf57a4bd4e1-remote-sales-100k-to-300k-entry-level) | Starkville, MS (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales — $100K to $300K, Entry Level](https://meron-financial-agency.breezy.hr/p/4290b76c2d4a-remote-sales-100k-to-300k-entry-level) | Lima, OH (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales — $100K to $300K, Entry Level](https://meron-financial-agency.breezy.hr/p/90efe03f617e-remote-sales-100k-to-300k-entry-level) | Spartanburg, SC (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales — $100K to $300K, Entry Level](https://meron-financial-agency.breezy.hr/p/ff6c11f0fc1d-remote-sales-100k-to-300k-entry-level) | Fort Lauderdale, FL (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales — $100K to $300K, Entry Level](https://meron-financial-agency.breezy.hr/p/5bc11253de3a-remote-sales-100k-to-300k-entry-level) | Salt Lake City, UT (remote) |  | 2026-11-07 |  |
+| Meron Financial Agency | [Remote Sales — $100K to $300K, Entry Level](https://meron-financial-agency.breezy.hr/p/bd2c1b97f3e6-remote-sales-100k-to-300k-entry-level) | Denton, TX (remote) |  | 2026-11-07 |  |
+| Monks | [Account Manager, SEM](https://www.monks.com/careers/6239033004/job?gh_jid=6239033004) | United States | $65,000 to $69,000 | 2026-11-07 |  |
+| Monks | [Account Manager, SEM (Remote)](https://www.monks.com/careers/6252084004/job?gh_jid=6252084004) | United States (remote) | $65,000 to $69,000 | 2026-11-07 |  |
+| Monster Energy | [Consumer Engagement Manager](https://job-boards.greenhouse.io/monsterenergy/jobs/4476828009) | USA - Phoenix, AZ |  | 2026-11-07 |  |
+| Nintendo of America | [CONTRACT - Brand Ambassador - Nintendo SF](https://careers.nintendo.com/?gh_jid=4472795009) | San Francisco, CA | $21.35 to $29.84/hour | 2026-11-07 |  |
+| Phillip Jeffries | [Showroom Sales](https://phillipj.bamboohr.com/careers/949) | Boston, Massachusetts, United States | $58,000 to $65,000 | 2026-11-07 |  |
+| Premier Truck Group | [Parts Counter Sales](https://jobs.lever.co/premiertruck/a1d38ceb-49c3-4068-8c2f-96ebd994a10d) | Roberts, WI |  | 2026-11-07 |  |
+| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000160310519-sales-trainee) | Wallingford, CT, us |  | 2026-11-07 |  |
+| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000160290039-sales-trainee) | Harrisburg, PA, us |  | 2026-11-07 |  |
+| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000160262278-sales-trainee) | Royal Palm Beach, FL, us |  | 2026-11-07 |  |
+| Regions Financial | [Client Services Specialist - Hoover, AL](https://careers.regions.com/us/en/job/R107505) | Hoover, Alabama, United States of America | $37,750 to $44,940 | 2026-11-07 |  |
+| Renuity | [Brand Ambassador - Bridgeport, CT](https://jobs.ashbyhq.com/renuity/90644e50-1a4c-4e73-99a4-70cfdb4ff463) | Bridgeport, CT | $50,000 to $60,000 | 2026-11-07 |  |
+| Republic Services | [Remote Call Center Business Sales Rep $23.65hr (Pacific Hours)](https://jobs.republicservices.com/us/en/job/R-188045) | Phoenix, Arizona, United States of America (remote) | $18.90 to $26.02/hour | 2026-11-07 |  |
+| Rockwell Automation | [Marketing Communications Rep](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Marketing-Communications-Rep_R26-7723) | Milwaukee, Wisconsin, United States | $60,000 | 2026-11-07 | no visa sponsorship |
+| Service Corporation International | [Sales Professional - Outside Sales](https://sci.wd5.myworkdayjobs.com/SCI/job/CA---San-Bernardino/Sales-Professional---Outside-Sales_Req168958) | CA - San Bernardino | $70,000 to $150,000 | 2026-11-07 |  |
+| Siemens | [Train Service Technician (Entry-Level) Orlando FL Mobility Customer Services](https://jobs.siemens.com/en_US/externaljobs/JobDetail/528218) | Orlando, Florida, United States of America |  | 2026-11-07 |  |
+| TransPerfect | [Account Manager Legal Sales](https://transperfect.com/o/account-manager-legal-sales) | New York City, NY, US |  | 2026-11-07 |  |
+| TransPerfect | [Entry-level Account Manager](https://transperfect.com/o/entry-level-account-manager-1) | New York City, NY, US |  | 2026-11-07 |  |
+| UnitedHealth Group | [Hospice Sales Representative AseraCare Hospice](https://careers.unitedhealthgroup.com/job/evansville/hospice-sales-representative-aseracare-hospice/34088/102958118256) | Evansville, Indiana | $65,600 to $98,400 | 2026-11-07 |  |
+| UnitedHealth Group | [Customer Service Representative](https://careers.unitedhealthgroup.com/job/las-vegas/customer-service-representative/34088/102958120064) | Las Vegas, Nevada | $16 to $29/hour | 2026-11-07 |  |
+| Usasurveyjob | [Client Support Representative - Remote Data Entry Clerk](https://jobs.lever.co/usasurveyjob/d60f2773-5722-438d-be70-ddfa533facf8) | Charlotte, North Carolina (remote) |  | 2026-11-07 |  |
+| Vomela | [Customer Account Specialist](https://apply.workable.com/j/AE39C1C4F3) | High Point, North Carolina, United States |  | 2026-11-07 |  |
+| Wells Fargo | [Customer Service Representative](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Customer-Service-Representative_R-582576) | CHARLOTTE, NC |  | 2026-11-07 | no visa sponsorship |
+| Teltonika | [Sales Representative / Networking Solutions](https://apply.workable.com/j/C23B2C8565) | Dallas, Texas, United States |  | 2026-11-07 |  |
+| SMB Team | [Short-Form Creative Editor](https://apply.workable.com/j/3705E6A2ED) | Philadelphia, Pennsylvania, United States | $50,000 | 2026-11-07 |  |
+| PeakMade Real Estate | [Marketing Manager](https://apply.workable.com/j/E48128DCE5) | Charleston, South Carolina, United States |  | 2026-11-07 |  |
+| PeakMade Real Estate | [Marketing Manager](https://apply.workable.com/j/213F01D3CD) | Ithaca, New York, United States | $52,000 | 2026-11-07 |  |
+| Millennium Health | [Account Manager - 1878](https://apply.workable.com/j/0C3882A62D) | Billings, Montana, United States |  | 2026-11-07 |  |
+| Ordr | [Inside Sales Specialist](https://apply.workable.com/j/BE888212DF) | United States | $110,000 to $140,000 | 2026-11-07 |  |
+| Pavago | [SDR / BDR / Appointment Setter](https://apply.workable.com/j/335C735036) | United States |  | 2026-11-07 |  |
+| Millennium Health | [Account Manager- 1738](https://apply.workable.com/j/8D291585A7) | Rochester, New York, United States |  | 2026-11-07 |  |
+| Pacific Health Group | [Digital Marketer](https://apply.workable.com/j/7805299D9C) | San Diego, California, United States | $70,400 to $78,800 | 2026-11-07 |  |
+| Millennium Health | [Account Manager- 1859](https://apply.workable.com/j/FB97F83F0E) | El Paso, Texas, United States |  | 2026-11-07 |  |
+| Millennium Health | [Account Manager- 1777](https://apply.workable.com/j/E8B968588C) | Baltimore, Maryland, United States |  | 2026-11-07 |  |
+| Millennium Health | [Account Manager- 1811](https://apply.workable.com/j/951F4B4269) | Spokane, Washington, United States |  | 2026-11-07 |  |
+| Sierra Interactive | [Customer Onboarding Specialist](https://apply.workable.com/j/4D4DAC4CAB) | United States |  | 2026-11-07 |  |
+| Precoa | [New Grad Sales & Leadership Careers (Account Rep, Remote Sales & Inside Sales)](https://apply.workable.com/j/4476473047) | Orem, Utah, United States (remote) | $75,000 to $95,000 | 2026-11-07 |  |
+| Millennium Health | [Account Manager- 1824](https://apply.workable.com/j/0C2BCF96AF) | Charleston, South Carolina, United States |  | 2026-11-07 |  |
+| Spindrift | [Area Sales Representative - San Francisco](https://apply.workable.com/j/62A3DF56CD) | San Francisco, California, United States | $60,000 to $70,000 | 2026-11-07 |  |
+| Millennium Health | [Account Manager- 1795](https://apply.workable.com/j/5303991755) | Houston, Texas, United States |  | 2026-11-07 |  |
+| Victory Home Remodeling | [Entry Level Sales Representative](https://apply.workable.com/j/71B47DD5A6) | Guilford, Connecticut, United States |  | 2026-11-07 |  |
+| The Flowery NY | [Dispensary Sales Floor Manager-Newburgh](https://apply.workable.com/j/DAE3B75CEC) | Newburgh, New York, United States |  | 2026-11-07 |  |
+| Victory Home Remodeling | [Entry Level Sales Representative](https://apply.workable.com/j/D30D16BAD7) | Guilford, Connecticut, United States |  | 2026-11-07 |  |
+| Pavago | [Technical Support Specialist](https://apply.workable.com/j/4579A07AAB) | United States |  | 2026-11-07 |  |
+| Pavago | [Sales Development Representative](https://apply.workable.com/j/5DF8B63E73) | Austin, Texas, United States (remote) |  | 2026-11-07 |  |
+| Victory Home Remodeling | [Entry Level Sales Representative](https://apply.workable.com/j/6E4A7DD6FD) | Great Neck, New York, United States |  | 2026-11-07 |  |
+| Photobooth Supply Co | [Inside Sales Representative](https://apply.workable.com/j/8BB744935F) | Santa Ana, California, United States | $50,000 to $90,000 | 2026-11-07 |  |
+| Victory Home Remodeling | [Entry Level Sales Representative](https://apply.workable.com/j/60C7E5C503) | Montclair, New Jersey, United States |  | 2026-11-07 |  |
+| Victory Home Remodeling | [Entry Level Sales Representative](https://apply.workable.com/j/6EDE5A21CC) | Long Branch, New Jersey, United States |  | 2026-11-07 |  |
+| Victory Home Remodeling | [Entry Level Sales Representative](https://apply.workable.com/j/6ECC39D413) | Manalapan Township, New Jersey, United States |  | 2026-11-07 |  |
+| Victory Home Remodeling | [Entry Level Sales Representative](https://apply.workable.com/j/8F7EE72FA5) | Trenton, New Jersey, United States |  | 2026-11-07 |  |
+| Victory Home Remodeling | [Entry Level Sales Representative](https://apply.workable.com/j/46F64A0CA1) | Hanover, Maryland, United States |  | 2026-11-07 |  |
+| NoGigiddy | [Entry-Level Account Manager (20 - 27 per hour)](https://apply.workable.com/j/C968228B93) | Georgia, United States | $20 to $27/hour | 2026-11-07 |  |
+| NoGigiddy | [Entry-Level Remote Social Media Manager at NoGigiddy (20-27 per hour)](https://apply.workable.com/j/4B74087D34) | Dallas, Texas, United States (remote) |  | 2026-11-07 |  |
+| The Symicor Group | [Resume Writer - Contract - $30/hr- Remote - Job # 2679](https://apply.workable.com/j/E7CFED059C) | United States (remote) | $25 to $30/hour | 2026-11-07 |  |
+| NoGigiddy | [Entry-Level Remote Sales Development Representative (20 - 27 per hour)](https://apply.workable.com/j/5356AD1FE0) | San Jose, California, United States (remote) | $20 to $27/hour | 2026-11-07 |  |
+| NoGigiddy | [Remote Technical Support Specialist - Entry Level, No Degree Required](https://apply.workable.com/j/B787380689) | Dallas, Texas, United States (remote) | $15 to $18/hour | 2026-11-07 |  |
+| NoGigiddy | [(Remote) - Entry-Level Account Manager (20 - 27 per hour)](https://apply.workable.com/j/C6B521A8D2) | New York, New York, United States (remote) | $20 to $27/hour | 2026-11-07 |  |
+| NoGigiddy | [Entry-Level Remote Sales Development Representative (20 - 27 per hour)](https://apply.workable.com/j/A5F0F2E24A) | Detroit, Michigan, United States (remote) | $20 to $27/hour | 2026-11-07 |  |
+| NoGigiddy | [Entry-Level Remote Social Media Manager at NoGigiddy (20-27 per hour)](https://apply.workable.com/j/F151B63BFE) | Los Angeles, California, United States (remote) | $20 to $27/hour | 2026-11-07 |  |
+| NoGigiddy | [Technical Support Specialist (Remote) - Entry Level, No Degree Required, 15 - 18](https://apply.workable.com/j/F4D6386D91) | Detroit, Michigan, United States (remote) | $15 to $18/hour | 2026-11-07 |  |
+| NoGigiddy | [(Remote) - Entry-Level Account Manager (20 - 27 per hour)](https://apply.workable.com/j/8A60484992) | Georgia, United States (remote) | $20 to $27/hour | 2026-11-07 |  |
 | Insulet | [Inside Sales Representative - Extended Hours (Remote)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Nevada/Inside-Sales-Representative---Extended-Hours--Remote-_REQ-2026-19119) | US - Nevada (remote) | $24.26 to $36.39/hour | 2026-11-06 |  |
 | Jobgether | [CPC Processor Customer Support](https://jobs.lever.co/jobgether/e7cc65ae-8112-4838-97cf-f3184028c2e1) | US | $15 to $18.32/hour | 2026-11-06 | no visa sponsorship |
 | Jobgether | [Email Marketing Manager (Klaviyo)](https://jobs.lever.co/jobgether/8f2063f6-70c6-47b7-ae5e-51a0acbbecdc) | US |  | 2026-11-06 |  |
 | Jobgether | [Specialist I, Client Success (Retention)](https://jobs.lever.co/jobgether/9808d204-94fa-477d-9203-0d1c443cec65) | US (remote) | $24.04/hour | 2026-11-06 |  |
+| Lowe's | [Account Manager - Residential](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Aurora-CO-0102/Account-Manager---Residential_JR-02698007) | Aurora, CO 0102 | $65,000 to $105,000 | 2026-11-06 |  |
 | SpartanX LLC | [Entry-Level Solar Sales Rep](https://ats.rippling.com/spartanx-llc/jobs/bd5e79b8-b901-4c54-a7ba-aa17b0f10492) | Columbus |  | 2026-11-06 |  |
 | Willamalane Park and Recreation District | [Customer Service Specialist I - Rentals](https://willamalanedistrict.bamboohr.com/careers/366) | Springfield, Oregon, United States |  | 2026-11-06 |  |
-| 1-800-GOT-JUNK? | [Entry Level Sales & Laborer](https://job-boards.greenhouse.io/1800gotjunk/jobs/4482861009) | Chantilly, VA | $24 to $28/hour | 2026-11-06 |  |
 | 1-800-GOT-JUNK? | [Entry Level Sales & Laborer](https://job-boards.greenhouse.io/1800gotjunk/jobs/4482828009) | Charleston, SC | $22 to $24/hour | 2026-11-06 |  |
-| 1-800-GOT-JUNK? | [Entry Level Sales & Laborer](https://job-boards.greenhouse.io/1800gotjunk/jobs/4482853009) | Philadelphia, PA | $21 to $24/hour | 2026-11-06 |  |
 | 1-800-GOT-JUNK? | [Entry Level Sales & Laborer](https://job-boards.greenhouse.io/1800gotjunk/jobs/4482911009) | Wilmington, NC | $22 to $26/hour | 2026-11-06 |  |
+| 1-800-GOT-JUNK? | [Entry Level Sales & Laborer](https://job-boards.greenhouse.io/1800gotjunk/jobs/4482861009) | Chantilly, VA | $24 to $28/hour | 2026-11-06 |  |
 | 829 Studios | [AEO/GEO Specialist](https://jobs.ashbyhq.com/829studios/9454060d-63a5-4815-979f-165a1fcb6fce) | Remote | $55,000 to $70,000 | 2026-11-06 |  |
 | ABF Security | [Customer Retention Specialist](https://ats.rippling.com/abf-security/jobs/30cc3252-e634-4508-8e52-82fee5590bca) | Fenton, MO | $20 to $23/hour | 2026-11-06 |  |
 | Advanced Technology Services | [Technical Writer](https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4724056006) | United States- Mossville, Illinois |  | 2026-11-06 |  |
@@ -27,7 +136,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Charles Schwab | [Client Relationship Specialist - New York, NY (Grand Central)](https://www.schwabjobs.com/job/new-york/client-relationship-specialist-new-york-ny-grand-central/33727/102897564304) | New York City, New York |  | 2026-11-06 |  |
 | Charles Schwab | [Client Relationship Specialist -Rowland Heights, CA](https://www.schwabjobs.com/job/rowland-heights/client-relationship-specialist-rowland-heights-ca/33727/102897641344) | Rowland Heights, California |  | 2026-11-06 |  |
 | Chemtek | [Sales Order Processing Specialist](https://chemtek.bamboohr.com/careers/156) | Durham, North Carolina, United States |  | 2026-11-06 |  |
-| Clera | [Performance Marketer, Paid Growth (Consumer Apps)](https://jobs.ashbyhq.com/clera/fc4f063d-a768-4e5d-b40a-7159633f202e) | San Francisco (remote) |  | 2026-11-06 |  |
+| Clera | [Performance Marketer, Paid Growth (Consumer Apps)](https://jobs.ashbyhq.com/Clera/fc4f063d-a768-4e5d-b40a-7159633f202e) | San Francisco (remote) |  | 2026-11-06 |  |
 | Coface | [Sales Development Representative - Bilingual (Miami)](https://jobs.smartrecruiters.com/Coface/744000159971489-sales-development-representative-bilingual-miami-) | Princeton, NJ, us (hybrid) |  | 2026-11-06 |  |
 | Constructor | [Sales Development Representative - LATAM](https://jobs.ashbyhq.com/constructor/5be8ea4a-bd84-4e9f-aa17-b77babc47841) | Remote |  | 2026-11-06 |  |
 | Datadog | [Sales Development Representative - Summer 2027 Graduates (Denver)](https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486) · Summer 2027 | Denver, Colorado, USA | $50,000 | 2026-11-06 |  |
@@ -38,7 +147,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Homebase | [SMB Product Specialist, Core](https://jobs.ashbyhq.com/homebase/6e974123-109b-4a61-8b5e-dc1bd778ef85) | Houston |  | 2026-11-06 |  |
 | Insulet | [Inside Sales Representative (Remote)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Nevada/Inside-Sales-Representative--Remote-_REQ-2026-19100) | US - Nevada (remote) | $24.26 to $36.39/hour | 2026-11-06 |  |
 | Interplay Learning Inc. | [SDR (B2B, SaaS)](https://ats.rippling.com/interplaylearning/jobs/7f25e2e1-31a7-4da2-a723-110a67fbbb46) | Remote (United States) |  | 2026-11-06 | no visa sponsorship |
-| Lowe's | [Account Manager - Residential](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/LPS---Denver-CO-4518/Account-Manager---Residential_JR-02698007) | LPS - Denver, CO 4518 | $65,000 to $105,000 | 2026-11-06 |  |
 | Marshall Dennehey | [Litigation Support Specialist - 1+ Yrs Experience - Jacksonville, FL](https://marshall-dennehey.breezy.hr/p/5a738e9631bf-litigation-support-specialist-1-yrs-experience-jacksonville-fl) | Jacksonville, FL |  | 2026-11-06 |  |
 | Method Search Consultants | [Retail Agronomy Sales](https://jobs.smartrecruiters.com/MethodSearchConsultants/744000159947665-retail-agronomy-sales) | Linton, IN, us |  | 2026-11-06 |  |
 | Paul Davis | [Property Cleaner - Meridian, ID](https://pauldavis.bamboohr.com/careers/1730) | Meridian, Idaho, United States | $18 to $20/hour | 2026-11-06 |  |
@@ -118,7 +226,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Clopay | [Customer Support Representative l - Part Time](https://clopay.bamboohr.com/careers/508) | Troy, Ohio, United States |  | 2026-11-05 |  |
 | Domino's | [Customer Service Rep (8921) - 3551 MLK Jr Blvd](https://jobs.smartrecruiters.com/Dominos/744000159757219-customer-service-rep-8921-3551-mlk-jr-blvd) | New Bern, NC, us |  | 2026-11-05 |  |
 | Jobgether | [Customer Onboarding Specialist](https://jobs.lever.co/jobgether/68ed533d-a3a7-4c26-ab1c-afcf8c60f48e) | US (remote) |  | 2026-11-05 |  |
-| Mintlify | [Alliances Manager](https://jobs.ashbyhq.com/mintlify/8604ccdc-d24c-468a-acaa-4fc9076e58ce) | San Francisco / New York City |  | 2026-11-05 |  |
+| Mintlify | [Alliances Manager](https://jobs.ashbyhq.com/Mintlify/8604ccdc-d24c-468a-acaa-4fc9076e58ce) | San Francisco / New York City |  | 2026-11-05 |  |
 | AbbVie | [Field Coverage Representative - Inside Sales Pharma](https://jobs.smartrecruiters.com/AbbVie/3743990016638476-field-coverage-representative-inside-sales-pharma) | Austin, TX, us |  | 2026-11-05 |  |
 | Alphabe Insight Inc | [Entry Level Customer Service Representative](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000159743109-entry-level-customer-service-representative) | Boston, MA, us |  | 2026-11-05 |  |
 | Arthrex Indianapolis | [Orthopedic Sales Representative - Entry Level](https://arthrex-indianapolis.breezy.hr/p/c7f5384294cb-orthopedic-sales-representative-entry-level) | South Bend, IN |  | 2026-11-05 | no visa sponsorship |
@@ -192,7 +300,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ISSA | [Inside Sales Representative- Fitness Education Certifications](https://ats.rippling.com/issa/jobs/80785fa5-2e3d-4fb8-bafe-aa94110975ff) | Remote (United States) | $40,000 to $100,000 | 2026-11-05 |  |
 | Cyderes | [Enterprise Sales Development Representative](https://jobs.lever.co/cyderes/f2ec8131-4d64-482c-9652-e8adc4d25704) | Bentonville, Arkansas (hybrid) |  | 2026-11-05 |  |
 | Digital Media Management | [Jr - Social Media Manager](https://jobs.lever.co/digitalmediamanagement/3ffafe6c-5dfa-4f5b-baa5-36186cf2192d) | United States |  | 2026-11-05 |  |
-| K Group Companies | [Customer Support Engineer - Level 1](https://jobs.lever.co/kgroupcompanies/bc0ff2ad-c44d-48ea-b1da-b18be7cf5f8f) | Grand Rapids, Michigan |  | 2026-11-05 | no visa sponsorship |
 | The Republic of Tea | [Customer Service Representative](https://republicoftea.bamboohr.com/careers/113) | Nashville, Illinois, United States |  | 2026-11-05 |  |
 | Dnb | [2027 Enterprise Sales Development Program](https://jobs.lever.co/dnb/d0e51a7a-5f0f-483a-9b65-78a9024f1681) · Winter 2026 | Florham Park - New Jersey - United States |  | 2026-11-05 |  |
 | Hive | [Sales Development Representative](https://jobs.lever.co/hive/f6ebe0aa-ba07-4b9b-86f6-8f40ca652a8d) | San Francisco | $60,000 to $85,000 | 2026-11-05 |  |
@@ -252,7 +359,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Seven Starling | [Practice Partnership Manager (Texas)](https://jobs.lever.co/seven-starling/5ff2a54b-b849-42c9-a731-d3fb490081ee) | Remote | $90,000 | 2026-11-05 |  |
 | Seven Starling | [Practice Partnership Manager (West)](https://jobs.lever.co/seven-starling/9197c6a6-e2b3-47ce-a37d-deef5412b5b4) | Remote | $90,000 | 2026-11-05 |  |
 | Sophos | [Renewals Representative](https://jobs.lever.co/sophos/669b9f60-16bf-4a3e-a602-c6237092f92e) | Dallas, TX (remote) | $64,400 to $107,100 | 2026-11-05 | no visa sponsorship |
-| Digital Media Management | [Jr. Social Content Producer, Temporary](https://jobs.lever.co/digitalmediamanagement/42295ddd-0016-4e16-8652-fcd9ef49c7e6) | New York, NY |  | 2026-11-05 |  |
 | McMurry University | [Digital Media Specialist](https://mcmurry.bamboohr.com/careers/108) | Abilene, Texas, United States |  | 2026-11-05 |  |
 | TXOne Networks | [Sales Development Representative - DACH](https://txonenetworks.bamboohr.com/careers/85) | Remote |  | 2026-11-05 |  |
 | GSM Services | [Sales Support Specialist (Residential)](https://ats.rippling.com/gsm-jobs/jobs/3649a592-3884-4242-afe4-4c64e63bf03c) | Gastonia, NC |  | 2026-11-05 |  |
@@ -280,9 +386,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Duckpin | [Digital Marketing Specialist](https://duckpin.bamboohr.com/careers/56) | Towson, Maryland, United States (hybrid) |  | 2026-11-05 |  |
 | Foundant Technologies Inc | [Technical Support Representative - USA](https://ats.rippling.com/foundant-careers/jobs/d9410d9a-3af5-4d3b-904f-9088eed9b2a4) | CO (remote) |  | 2026-11-05 |  |
 | International Bulk Services | [Customs Entry Writer - CN Customs Brokerage](https://internationalbulk.bamboohr.com/careers/212) | Port Huron, Michigan, United States |  | 2026-11-05 |  |
-| QuinStreet | [Entry Level Sales Representative](https://www.quinstreet.com/careers/?gh_jid=8177282) | Orlando, Florida |  | 2026-11-05 |  |
-| QuinStreet | [Entry Level Sales Representative](https://www.quinstreet.com/careers/?gh_jid=8177281) | Orlando, Florida |  | 2026-11-05 |  |
 | QuinStreet | [Entry Level Sales Representative](https://www.quinstreet.com/careers/?gh_jid=8177280) | Orlando, Florida |  | 2026-11-05 |  |
+| QuinStreet | [Entry Level Sales Representative](https://www.quinstreet.com/careers/?gh_jid=8177281) | Orlando, Florida |  | 2026-11-05 |  |
+| QuinStreet | [Entry Level Sales Representative](https://www.quinstreet.com/careers/?gh_jid=8177282) | Orlando, Florida |  | 2026-11-05 |  |
 | MAS Home Care | [Entry-Level Personal Support Specialist (PSS)](https://mashomecare.bamboohr.com/careers/101) | Brunswick, Maine, United States | $18/hour | 2026-11-05 |  |
 | MAS Home Care | [Entry-Level Personal Support Specialist (PSS)](https://mashomecare.bamboohr.com/careers/103) | Scarborough, Maine, United States | $18/hour | 2026-11-05 |  |
 | MAS Home Care | [Entry-Level Personal Support Specialist (PSS)](https://mashomecare.bamboohr.com/careers/105) | Damariscotta, Maine, United States | $18/hour | 2026-11-05 |  |
@@ -328,7 +434,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Wavefront Software, Inc. | [Technical Customer Success Specialist](https://wavefrontsoftware.bamboohr.com/careers/18) | Dublin, Ohio, United States (Remote) |  | 2026-11-05 |  |
 | Bone Dry Roofing | [RoofOne: Sales Representative: Repairs Division](https://jobs.lever.co/bonedry/0f91e889-0ef7-46e5-91de-b811e25e2e84) | Detroit, Michigan | $50,000 to $80,000 | 2026-11-05 |  |
 | Morris & Associates | [Entry Level Poultry Equipment Sales Representative](https://morrisassociates.bamboohr.com/careers/116) | Garner, North Carolina, United States (Remote) |  | 2026-11-05 |  |
-| AMIRI | [Client Advisor / The Mall at Green Hills](https://jobs.lever.co/AMIRI/dd8dbb2e-2e7e-42b7-92f9-17eb47748dff) | Nashville, TN (Retail) |  | 2026-11-05 |  |
 | Buck Mason | [Sales Manager (Abbot Kinney Men's)](https://jobs.lever.co/buckmason/e23e7379-c256-4d74-90ac-d90b31a6dd16) | Venice, CA |  | 2026-11-05 |  |
 | Seattle Boat | [Boat Sales Professional - Lake Tapps](https://seattleboatco.bamboohr.com/careers/157) | Lake Tapps, Washington, United States | $90,000 to $140,000 | 2026-11-05 |  |
 | Bone Dry Roofing | [Sales Representative: Interiors, Exteriors, and Gutters](https://jobs.lever.co/bonedry/62c27956-4a99-46c0-b30e-a727a5e822f4) | Indianapolis, Indiana | $50,000 to $80,000 | 2026-11-05 |  |
@@ -447,8 +552,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Usasurveyjob | [Operate At Home Data Entry - Client Service Representative](https://jobs.lever.co/usasurveyjob/4501a66b-49c8-4c35-b31a-e0ed24a6f007) | Seattle, Washington |  | 2026-11-05 |  |
 | Usasurveyjob | [Customer Service Rep - Remote Data Entry Agent](https://jobs.lever.co/usasurveyjob/44b5ea6f-3964-4ee4-9426-8aeef7aedf31) | Sacramento, California (remote) |  | 2026-11-05 |  |
 | Usasurveyjob | [Customer Service Representative - Remote Data Entry Clerk](https://jobs.lever.co/usasurveyjob/b0da6369-baec-4ef0-9d66-60fc91327913) | Memphis, Tennessee (remote) |  | 2026-11-05 |  |
-| Usasurveyjob | [client support rep - Remote Data Entry Agent](https://jobs.lever.co/usasurveyjob/263e9838-f3cc-4e92-89d7-17a1ef57f5f3) | Philadelphia, Pennsylvania (remote) |  | 2026-11-05 |  |
-| Usasurveyjob | [Client Support Representative - Remote Data Entry Clerk](https://jobs.lever.co/usasurveyjob/eb8248ea-d560-48fe-8edc-e1fa5605408a) | Charlotte, North Carolina (remote) |  | 2026-11-05 |  |
 | Hangar Worldwide | [Content Author](https://hangar.bamboohr.com/careers/480) | Mauritius, Phoenix, Mauritius |  | 2026-11-05 |  |
 | Kadince | [Customer Success Manager](https://kadince.bamboohr.com/careers/25) | Ogden, Utah, United States (Remote) |  | 2026-11-05 |  |
 | Aisle 518 | [Digital Advertising Strategist](https://aisle518.bamboohr.com/careers/27) | Remote | $62,000 to $75,000 | 2026-11-05 |  |
@@ -515,9 +618,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Circle Logistics | [Customer Service Representative](https://jobs.smartrecruiters.com/CircleLogistics1/3743990016617786-customer-service-representative) | Orlando, Florida, us |  | 2026-11-04 |  |
 | Cisco | [Sales Development Representative I (Full Time) United States Splunk](https://careers.cisco.com/global/en/job/2030759) | Mclean, Virginia, United States of America | $88,900 to $139,200 | 2026-11-04 |  |
 | City and County of San Francisco | [Communications Dispatcher I (1704) - Citywide - (C00467)](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016631635-communications-dispatcher-i-1704-citywide-c00467-) | San Francisco, CA, us |  | 2026-11-04 |  |
+| Datavant | [CPC Processor Customer Support](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5463201008) | Remote - United States | $15 to $18.32/hour | 2026-11-04 | no visa sponsorship |
 | Datavant | [CPC Processor Customer Support](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5458364008) | Remote - United States | $15 to $18.32/hour | 2026-11-04 | no visa sponsorship |
 | Datavant | [CPC Processor Customer Support](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5462330008) | Remote - United States | $15 to $18.32/hour | 2026-11-04 | no visa sponsorship |
-| Datavant | [CPC Processor Customer Support](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5463201008) | Remote - United States | $15 to $18.32/hour | 2026-11-04 | no visa sponsorship |
 | Domino's | [Delivery Driver - Daily Pay (01369) Brandenburg KY](https://jobs.smartrecruiters.com/Dominos/744000159528910-delivery-driver-daily-pay-01369-brandenburg-ky) | Brandenburg, KY, us | $15 to $25/hour | 2026-11-04 |  |
 | Grow Therapy | [Specialist I, Customer Support](https://jobs.ashbyhq.com/grow-therapy/1ed1a956-487d-4424-b296-4b307959a53c) | Remote | $24.04/hour | 2026-11-04 |  |
 | Jobgether | [Customer Service Rep - Corporate](https://jobs.lever.co/jobgether/1f26f919-ec87-4f20-b0bc-3f72889c59c8) | US | $19.50/hour | 2026-11-04 |  |
@@ -568,7 +671,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Regions Financial | [Ascentium Customer Service Specialist](https://careers.regions.com/us/en/job/R105320) | Kingwood, Texas, United States of America | $41,902.50 to $49,883.40 | 2026-11-04 |  |
 | Renewal by Andersen Metro & Midwest | [Entry Level Sales - Brand Ambassador](https://job-boards.greenhouse.io/mooreholdingsllc/jobs/4468449009) | Nashville, TN | $18/hour | 2026-11-04 |  |
 | Renewal by Andersen Metro & Midwest | [Entry Level Sales - Brand Ambassador](https://job-boards.greenhouse.io/mooreholdingsllc/jobs/4468435009) | Monroe, OH | $18/hour | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Representative - Portsmouth, NH](https://jobs.ashbyhq.com/Renuity/48982030-0c8d-4be4-9515-f60fae5ec973) | Portsmouth, NH | $50,000 to $60,000 | 2026-11-04 |  |
+| Renuity | [Entry Level Sales Representative - Portsmouth, NH](https://jobs.ashbyhq.com/renuity/48982030-0c8d-4be4-9515-f60fae5ec973) | Portsmouth, NH | $50,000 to $60,000 | 2026-11-04 |  |
 | Republic Services | [Customer Service Rep - Corporate](https://jobs.republicservices.com/us/en/job/R-187939) | Phoenix, Arizona, United States of America | $19.50/hour | 2026-11-04 |  |
 | Republic Services | [Account Manager](https://jobs.republicservices.com/us/en/job/R-187654) | Capitol Heights, Maryland, United States of America | $64,900 to $89,200 | 2026-11-04 |  |
 | Service Corporation International | [Sales Professional - Outside Sales](https://sci.wd5.myworkdayjobs.com/SCI/job/CA---Whittier/Sales-Professional---Outside-Sales_Req166982) | CA - Whittier | $18.47/hour | 2026-11-04 |  |
@@ -579,7 +682,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Sotheby's | [SEO Content Specialist](https://job-boards.greenhouse.io/sothebys/jobs/6242223004) | New York, United States | $60,000 to $67,000 | 2026-11-04 |  |
 | Stewart Information Services | [Customer Service Representative I (MCS)](https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX---Remote/Customer-Service-Representative-I--MCS-_JR108798) | USA TX - Remote |  | 2026-11-04 |  |
 | Surge Staffing | [Support Specialist I](https://surge.breezy.hr/p/ebf2909567cd-support-specialist-i) | Columbus, OH |  | 2026-11-04 |  |
-| TEGNA Inc. | [Digital Strategist](https://boards.greenhouse.io/tegnainc/jobs/5279645007?gh_jid=5279645007) | WUSA-TV Washington | $80,000 to $100,000 | 2026-11-04 |  |
 | The Family Care Network Inc. | [Support Specialist I, II](https://fcni.bamboohr.com/careers/75) | San Luis Obispo, California, United States | $22.60 to $40.10/hour | 2026-11-04 |  |
 | Thomson Reuters | [US News & Analysis Editor (Level 1 Journalist), The Insurer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/US-News---Analysis-Editor--Level-1-Journalist---The-Insurer_JREQ204724-1) | United States of America, New York, New York | $72,000 to $132,000 | 2026-11-04 |  |
 | Toro TMS | [Sales Development Representative (Feb 2027 Start Date)](https://job-boards.greenhouse.io/torotms/jobs/4477800009) | Chicago |  | 2026-11-04 |  |
@@ -597,7 +699,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Auctane | [Inside Sales Representative](https://job-boards.greenhouse.io/auctane/jobs/8046545003) | Austin, TX (hybrid) |  | 2026-11-04 |  |
 | BCM One | [Account Representative](https://BCMOne.bamboohr.com/careers/619) | Blue Bell, Pennsylvania, United States (hybrid) |  | 2026-11-04 | no visa sponsorship |
 | Compass Family Services | [Housing Problem Solving Specialist](https://compass-family-services.breezy.hr/p/7282412fc907-housing-problem-solving-specialist) | San Francisco, CA | $27 to $31/hour | 2026-11-04 |  |
-| Convey (formerly Message Broadcast) | [Technical Support Specialist](https://jobs.ashbyhq.com/convey/baef8a82-4be7-48c8-87b5-7674e7142dc3) | Detroit, MI |  | 2026-11-04 |  |
+| Convey (formerly Message Broadcast) | [Technical Support Specialist](https://jobs.ashbyhq.com/Convey/baef8a82-4be7-48c8-87b5-7674e7142dc3) | Detroit, MI |  | 2026-11-04 |  |
 | Coram AI | [Sales Athlete (Entry-Level Tech Sales)](https://jobs.ashbyhq.com/coram-ai/f9be6289-893c-481e-8e36-9a7d666b3d2c) | Sunnyvale |  | 2026-11-04 |  |
 | Cottonwood Residential | [Customer Experience Specialist at Fox Point in Old Farm Apartments](https://job-boards.greenhouse.io/cottonwoodresidential/jobs/6241573004) | Utah - Millcreek |  | 2026-11-04 |  |
 | DH Pace | [Outside Commercial Sales Representative-Must Have Entry Door Experience](https://job-boards.greenhouse.io/dhpace/jobs/5469674008) | Houston TX |  | 2026-11-04 |  |
@@ -608,12 +710,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Home Chef (Internal Employees) | [Jr. Copywriter](https://job-boards.greenhouse.io/homechefinternalemployees/jobs/5455833008) | Chicago, IL |  | 2026-11-04 |  |
 | IXL Learning | [Image Localization Editor, Rosetta Stone - Chinese/Japanese/Korean/Hindi (Freelance)](https://www.ixl.com/company/jobs?gh_jid=8927466002) | Remote |  | 2026-11-04 |  |
 | Jobgether | [Knowledge Management Specialist (Technical Writer)](https://jobs.lever.co/jobgether/de8c86d4-b4c4-4fe0-b867-1688e54ac651) | US | $71,800 to $90,000 | 2026-11-04 | US citizens/persons only |
+| Muck Rack | [Outbound Sales Development Representative, Strategic Accounts](https://job-boards.greenhouse.io/muckrack/jobs/8927625002) | Remote (United States) | $29.25/hour | 2026-11-04 |  |
 | Nexus Marketing | [Marketing Copywriter](https://jobs.ashbyhq.com/nexus-marketing/5b9d1ef0-67f5-4714-8d99-0bcb2c3f7c60) | Atlanta | $60,000 to $71,000 | 2026-11-04 |  |
 | Online Labels Group | [File Room Clerk](https://online-labels.breezy.hr/p/9e2c2eb585df-file-room-clerk) | 2001 E Lake Mary Blvd Sanford, FL | $15 to $17/hour | 2026-11-04 |  |
 | Oscar Health | [Customer Service Representative](https://oscarhealth.com/careers/jobs?gh_jid=8348220) | Georgia, United States (remote) | $19 to $21/hour | 2026-11-04 |  |
-| Oscar Health | [Customer Service Representative](https://oscarhealth.com/careers/jobs?gh_jid=8348219) | Texas, United States (remote) | $19 to $21/hour | 2026-11-04 |  |
 | Oscar Health | [Customer Service Representative](https://oscarhealth.com/careers/jobs?gh_jid=8348221) | Florida, United States (remote) | $19 to $21/hour | 2026-11-04 |  |
 | Oscar Health | [Customer Service Representative](https://oscarhealth.com/careers/jobs?gh_jid=8348218) | Arizona, United States (remote) | $19 to $21/hour | 2026-11-04 |  |
+| Oscar Health | [Customer Service Representative](https://oscarhealth.com/careers/jobs?gh_jid=8348219) | Texas, United States (remote) | $19 to $21/hour | 2026-11-04 |  |
 | PointOne | [Sales Development Representative](https://jobs.ashbyhq.com/PointOne/5668ecfb-7986-4b1a-9d6f-67b10b4d9c1d) | New York City |  | 2026-11-04 |  |
 | Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000159236809-sales-trainee) | Arlington Heights, IL, us |  | 2026-11-04 |  |
 | Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000159225999-sales-trainee) | Houston, TX, us |  | 2026-11-04 |  |
@@ -650,109 +753,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Heritage Construction Co., LLC | [Entry Level Roofing Sales Rep / Paid Training / $100K–$150K+ First Year Potential](https://heritage-roofing-and-construction.breezy.hr/p/50fdb9068cdc-entry-level-roofing-sales-rep-paid-training-100k-150k-first-year-potential) | Plano, TX | $100,000 to $150,000 | 2026-11-04 |  |
 | Heritage Construction Co., LLC | [Entry-Level Sales Rep / No Experience Needed / $100K–$150K+ Potential](https://heritage-roofing-and-construction.breezy.hr/p/7b3a24c152d8-entry-level-sales-rep-no-experience-needed-100k-150k-potential) | Irving, TX |  | 2026-11-04 |  |
 | Intellipet | [Outbound Sales Representative](https://job-boards.greenhouse.io/intellipet/jobs/4474050009) | United States (remote) |  | 2026-11-04 |  |
-| JRC | [Technical Editor](https://job-boards.greenhouse.io/jrc/jobs/4474139009) | District of Columbia, United States (hybrid) |  | 2026-11-04 | clearance |
 | Life.Church | [Support Specialist, App Support](https://jobs.lever.co/life/e22178ce-9c30-4845-b8ba-3459de8ea40c) | Edmond, OK |  | 2026-11-04 |  |
 | Lyra Health | [Client Support Specialist - After Hours](https://jobs.lever.co/lyrahealth/74e91591-ef69-465b-892b-1c82e07744a9) | United States |  | 2026-11-04 |  |
 | Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158830050--sales-trainee) | Fort Wayne, IN, us |  | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158822261-sales-trainee) | Peoria, IL, us |  | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158818689-sales-trainee) | Prescott, AZ, us |  | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158817199-sales-trainee) | West Chester, OH, us |  | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158813514-sales-trainee) | Rocky Mount, NC, us |  | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158789379-sales-trainee) | Riverside, CA, us | $19.95 to $22.05/hour | 2026-11-04 |  |
-| Red Bull | [On-Premise Sales Trainee - Brooklyn, NY](https://jobs.smartrecruiters.com/RedBull/744000158772621-on-premise-sales-trainee-brooklyn-ny) | New York, NY, us | $19.38 to $29.08/hour | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158723349-sales-trainee) | Sterling Heights, MI, us |  | 2026-11-04 |  |
-| Renuity | [Brand Ambassador - Portsmouth, NH](https://jobs.ashbyhq.com/Renuity/95d369af-ea1e-415c-b10b-fcf4c964dc5d) | Portsmouth, NH | $50,000 to $60,000 | 2026-11-04 |  |
-| Renuity | [Entry Level Sales and Development Specialist - Manchester, CT](https://jobs.ashbyhq.com/Renuity/a7ab1dd8-9545-4358-8b73-7c262b94e94e) | Manchester, CT | $50,000 to $60,000 | 2026-11-04 |  |
-| Renuity | [Brand Ambassador - Manchester, CT](https://jobs.ashbyhq.com/Renuity/03dffcff-65a7-4864-9d62-02284bc6465c) | Manchester, CT | $50,000 to $60,000 | 2026-11-04 |  |
-| Renuity | [Brand Ambassador - Fairfield, CT](https://jobs.ashbyhq.com/Renuity/5b9623a4-8eff-4bc8-9973-8a1356707e30) | Connecticut | $50,000 to $60,000 | 2026-11-04 |  |
-| Renuity | [Entry Level Sales and Development Speicialist - Fairfield, CT](https://jobs.ashbyhq.com/Renuity/83fe1ae6-3c67-46e5-9e49-b71878b7f220) | Connecticut | $50,000 to $60,000 | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Development Specialist- Torrington, CT](https://jobs.ashbyhq.com/Renuity/c349df40-67fa-4889-a4c0-9ae794b34596) | Torrington, CT | $50,000 to $60,000 | 2026-11-04 |  |
-| Renuity | [Brand Ambassador - Torrington, CT](https://jobs.ashbyhq.com/Renuity/8b8bcef7-8db3-46cc-a94d-34497276bdd1) | Torrington, CT | $50,000 to $60,000 | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Development Specialist- Danbury, CT](https://jobs.ashbyhq.com/Renuity/2d0e374a-ccfd-463c-ba58-ee2d4a98d77d) | Danbury, CT | $50,000 to $60,000 | 2026-11-04 |  |
-| Renuity | [Brand Ambassador - Danbury, CT](https://jobs.ashbyhq.com/Renuity/1fceecfc-94f5-4bb5-babf-43c8e83e73a3) | Danbury, CT | $50,000 to $60,000 | 2026-11-04 |  |
-| SmithRx | [Member Support Specialist (Phone, Chat, Email)](https://job-boards.greenhouse.io/smithrx/jobs/8926150002) | Lehi, UT | $22/hour | 2026-11-04 |  |
-| VEGA Americas | [Technical Sales Representative - Dallas, TX](https://job-boards.greenhouse.io/vegaamericas/jobs/4724937006) | Technical Sales Representative - Dallas, TX |  | 2026-11-04 |  |
-| VEGA Americas | [Technical Sales Representative - Houston (Shipping Channel)](https://job-boards.greenhouse.io/vegaamericas/jobs/4724932006) | Technical Sales Representative - Houston (Shipping Channel) |  | 2026-11-04 |  |
-| Veritas Veterinary Partners | [Client Experience Representative- Overnight](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5468433008) | 1882 Hooper Ave, Toms River, NJ 08753 | $17 to $21/hour | 2026-11-04 |  |
-| AO Garcia Agency | [Remote Client Services Trainee](https://jobs.lever.co/aogarciaagency/3c4e5a0f-fdcf-4875-b2d8-2d3239d1aa7e) | Rutland, Vermont (remote) |  | 2026-11-04 |  |
-| AO Garcia Agency | [Remote Client Services Trainee](https://jobs.lever.co/aogarciaagency/c7aefc16-b88b-421a-8570-167e67d85516) | Meridian, Idaho (remote) |  | 2026-11-04 |  |
-| Bugcrowd | [Customer Support Engineer](https://boards.greenhouse.io/bugcrowd/jobs/8334498?gh_jid=8334498) | Remote - US | $59,520 to $74,400 | 2026-11-04 |  |
-| Christian Brothers Automotive | [General Service Technician / Mechanic / Up to $21/Hr & Weekends Off / Brandermill](https://jobs.smartrecruiters.com/ChristianBrothersAutomotive/744000158599909-general-service-technician-mechanic-up-to-21-hr-weekends-off-brandermill) | Midlothian, Virginia, us |  | 2026-11-04 |  |
-| City and County of San Francisco | [Communications Dispatcher I - Street Environmental Services - Public Works (1704)](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016505926-communications-dispatcher-i-street-environmental-services-public-works-1704-) | San Francisco, CA, us |  | 2026-11-04 | clearance |
-| Connecteam | [Sales Development Representative](https://connecteam.com/careers/6237814004?gh_jid=6237814004) | Utah, United States |  | 2026-11-04 |  |
-| Connecteam | [Sales Development Representative](https://connecteam.com/careers/6237767004?gh_jid=6237767004) | Colorado, United States |  | 2026-11-04 |  |
-| Connecteam | [Sales Development Representative](https://connecteam.com/careers/6237808004?gh_jid=6237808004) | Florida, United States |  | 2026-11-04 |  |
-| Connecteam | [Sales Development Representative](https://connecteam.com/careers/6237809004?gh_jid=6237809004) | Georgia, United States |  | 2026-11-04 |  |
-| Connecteam | [Sales Development Representative](https://connecteam.com/careers/6237810004?gh_jid=6237810004) | North Carolina, United States |  | 2026-11-04 |  |
-| Connecteam | [Sales Development Representative](https://connecteam.com/careers/6237811004?gh_jid=6237811004) | South Carolina, United States |  | 2026-11-04 |  |
-| Connecteam | [Sales Development Representative](https://connecteam.com/careers/6237812004?gh_jid=6237812004) | New York, United States |  | 2026-11-04 |  |
-| Connecteam | [Sales Development Representative](https://connecteam.com/careers/6237813004?gh_jid=6237813004) | Texas, United States |  | 2026-11-04 |  |
-| Delinea | [Enterprise Sales Development Representative](https://jobs.ashbyhq.com/delinea/4ce0b5b2-f17f-48cb-bc86-83d3804f89bf) | Boston, MA (hybrid) |  | 2026-11-04 |  |
-| DH Pace | [Outside Entry Door Commercial Sales Representative](https://job-boards.greenhouse.io/dhpace/jobs/5455743008) | Lubbock TX |  | 2026-11-04 |  |
-| Eurofins | [Operational Support Specialist I (On-Site/Entry Level)](https://jobs.smartrecruiters.com/Eurofins/744000158585949-operational-support-specialist-i-on-site-entry-level-) | River Falls, WI, us |  | 2026-11-04 |  |
-| FloSports, Inc. | [Customer Service Representative](https://jobs.ashbyhq.com/flosports/9a68522d-c207-4029-839f-f1fcbc58f3cd) | Remote, United States |  | 2026-11-04 |  |
-| Informa Group Plc. | [Account Manager - Event Sales](https://jobs.smartrecruiters.com/InformaGroupPlc/744000158406760-account-manager-event-sales) | Peachtree Corners, GA, us | $65,000 | 2026-11-04 |  |
-| MCCi | [Sales Development Representative](https://ats.rippling.com/mccicareers/jobs/6ce06625-1c2c-4593-96c5-cf960109e0f7) | Remote United States |  | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158595300-sales-trainee) | Victorville, CA, us | $19.95 to $22.05/hour | 2026-11-04 |  |
-| RIVO Holdings, LLC | [Inside Sales Representative](https://jobs.smartrecruiters.com/RIVOHoldingsLLC/744000158589223-inside-sales-representative) | San Diego, CA, us | $20/hour | 2026-11-04 |  |
-| The Global Ambassador Hotel | [Reservation Sales Agent](https://job-boards.greenhouse.io/theglobalambassador/jobs/4472936009) | Phoenix, AZ | $24/hour | 2026-11-04 |  |
-| UpGuard Inc. | [Sales Development Representative (SDR)](https://jobs.ashbyhq.com/upguard/8f623934-3edc-4858-a3a5-9cc3565cb9b9) | Austin |  | 2026-11-04 |  |
-| AO Garcia Agency | [Remote Client Services Trainee](https://jobs.lever.co/aogarciaagency/299cac06-1b19-4dbb-a7d0-b2fbab94924f) | Las Cruces, New Mexico (remote) |  | 2026-11-04 |  |
-| Bisnow | [Event Producer (Content)](https://jobs.lever.co/bisnow/cf700254-341e-4f88-8257-c5fde576e4aa) | New York City (hybrid) |  | 2026-11-04 | no visa sponsorship |
-| Home Genius Exteriors | [Field Marketing Manager](https://home-genius-exteriors.breezy.hr/p/ca0c945fa321-field-marketing-manager) | Dover, DE | $80,000 to $100,000 | 2026-11-04 |  |
-| Intelerad | [Sales Development Representative - Inside Sales Program](https://jobs.smartrecruiters.com/Intelerad/744000158384575-sales-development-representative-inside-sales-program) | Remote, UNITED STATES, us | $25.50/hour | 2026-11-04 |  |
-| Jobs for Humanity | [Remote Customer Service Representative](https://jobs.smartrecruiters.com/JobsForHumanity/744000158375203-remote-customer-service-representative) | Jacksonville, FL, us (remote) |  | 2026-11-04 | US citizens/persons only |
-| Noctrix Health | [Sales Support Representative](https://job-boards.greenhouse.io/noctrixhealth/jobs/5465054008) | Remote |  | 2026-11-04 |  |
-| Pilotbase | [Technical Account Manager](https://job-boards.greenhouse.io/pilotbase/jobs/5465000008) | Overland Park, Remote - United States |  | 2026-11-04 | no visa sponsorship |
-| ProSomnus | [Territory Sales Advocate – Los Angeles](https://prosomnus.bamboohr.com/careers/164) | Los Angeles, California, United States (Remote) | $80,000 to $95,000 | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158369492-sales-trainee) | Wallingford, CT, us |  | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158350841-sales-trainee) | Eagan, MN, us |  | 2026-11-04 |  |
-| Resultant | [Technical Support Specialist (Onsite in Fort Wayne, IN)](https://jobs.smartrecruiters.com/Resultant/744000158325479-technical-support-specialist-onsite-in-fort-wayne-in-) | Fort Wayne, IN, us |  | 2026-11-04 |  |
-| Sunsrce | [Technical Sales Development Program](https://jobs.lever.co/sunsrce/7c104e7c-b527-431e-97b5-679449c92708) | Grand Rapids, MI 49503 |  | 2026-11-04 |  |
-| TeamBuilders Behavioral Health | [Community Support Specialist](https://jobs.lever.co/teambuilders/14a876a0-e982-4027-b805-ad4d0feb98ed) | Las Vegas, New Mexico |  | 2026-11-04 |  |
-| Tekion | [Event Marketing Specialist](https://jobs.ashbyhq.com/tekion/7e6166b2-07ec-4f34-82a3-bd74fad20acd) | Virtual - United States (remote) |  | 2026-11-04 |  |
-| Welborn Garage | [Experienced Sales & Service Garage Door Technician, Dallas, TX $10K Sign-On](https://jobs.ashbyhq.com/welborne-garage/f4f18586-ba4b-4152-ad89-0460d62ce155) | Dallas Fort Worth, TX | $200,000 | 2026-11-04 |  |
-| Alphabe Insight Inc | [Entry Level Communications Agent](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000157926509-entry-level-communications-agent) | Miami, FL, us |  | 2026-11-04 |  |
-| AO Garcia Agency | [Remote Client Services Trainee](https://jobs.lever.co/aogarciaagency/53f989b2-b216-499d-867f-d8f260ebd438) | Casper, Wyoming (remote) |  | 2026-11-04 |  |
-| Bertelsmann | [Wound Care Sales Representative (B2B)](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000158036547-wound-care-sales-representative-b2b-) | Morrisville, North Carolina (NC), us |  | 2026-11-04 |  |
-| Builder Prime | [Outbound Sales Development Representative](https://jobs.ashbyhq.com/builder-prime/41141be2-7289-486f-9da8-ef0ba9e4a952) | Remote - US | $20,000 to $60,000 | 2026-11-04 | no visa sponsorship |
-| Courier Newsroom | [Freelance Breaking News Reporter](https://job-boards.greenhouse.io/couriernewsroom/jobs/4469897009) | Washington, D.C. | $35 to $40/hour | 2026-11-04 |  |
-| Datavant | [CPC Processor I Customer Support (North Carolina)](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5460945008) | Remote | $15 to $18.32/hour | 2026-11-04 | no visa sponsorship |
-| Expeditors | [Distribution Customer Service Agent](https://jobs.smartrecruiters.com/Expeditors/744000158110583-distribution-customer-service-agent) | Romulus, MI, us |  | 2026-11-04 |  |
-| Mom's Meals | [Customer Service Representative](https://jobs.lever.co/momsmeals/f61aa5d1-2171-4817-b7c8-99b1b0f4040f) | Ankeny, IA | $17/hour | 2026-11-04 |  |
-| NerdWallet | [Sales Trainer (Scottsdale, AZ)](https://jobs.ashbyhq.com/nerdwallet/80ea72c9-e96a-4aaa-b5db-11a64a9a6e85) | Scottsdale, Arizona | $85,000 to $117,000 | 2026-11-04 |  |
-| NerdWallet | [Sales Trainer (Manhattan, NY)](https://jobs.ashbyhq.com/nerdwallet/483100aa-9f1a-4086-8146-0263e1cd65a6) | New York, NY | $96,000 to $132,000 | 2026-11-04 |  |
-| Patriot Growth Insurance Services, LLC | [Sales Specialist](https://job-boards.greenhouse.io/patriotgrowthinsuranceservicesllc/jobs/4456350009) | Remote | $55,000 to $65,000 | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158163849-sales-trainee) | Las Vegas, NV, us |  | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158147469-sales-trainee) | Arlington Heights, IL, us |  | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158146739-sales-trainee) | Arlington Heights, IL, us |  | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158057640-sales-trainee) | Middletown, NY, us | $17.84 to $26.76/hour | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Representative](https://jobs.ashbyhq.com/Renuity/8611c3ee-08d1-49de-8858-7a2d7eac886a) | Peoria, IL | $20/hour | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Representative](https://jobs.ashbyhq.com/Renuity/70cf48c5-1776-420a-be34-3b417d2450c7) | Pittsburgh, PA | $20/hour | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Representative](https://jobs.ashbyhq.com/Renuity/ed38e04a-be1f-4b38-a2b2-6e8b72b4a8b5) | Milwaukee, WI | $20/hour | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Representative](https://jobs.ashbyhq.com/Renuity/4e78876c-1251-4d99-8f58-389e92e42583) | Milwaukee, WI | $20/hour | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Representative](https://jobs.ashbyhq.com/Renuity/1c3104d9-8985-49c3-b2de-18bf79f47fc6) | Indianapolis, IN | $20/hour | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Representative](https://jobs.ashbyhq.com/Renuity/82297352-3827-4412-be47-58110ba3c6ae) | Cincinnati, OH | $20/hour | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Representative](https://jobs.ashbyhq.com/Renuity/3ef51c11-56b1-4364-8f77-529d1016c4f0) | Des Moines, IA | $20/hour | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Representative](https://jobs.ashbyhq.com/Renuity/848a6b86-a8b9-41de-bc82-7b041f98e911) | Scranton, PA | $20/hour | 2026-11-04 |  |
-| Renuity | [Entry Level Sales Representative](https://jobs.ashbyhq.com/Renuity/a27906b3-3ca6-4af4-9b1a-12545a0fcd9a) | Springfield, MO | $20/hour | 2026-11-04 |  |
-| ShipBob, Inc. | [Warehouse Support Specialist](https://job-boards.greenhouse.io/shipbobinc/jobs/4746935005) | Bethlehem, Pennsylvania, United States | $24/hour | 2026-11-04 |  |
-| ShipBob, Inc. | [Warehouse Support Specialist](https://job-boards.greenhouse.io/shipbobinc/jobs/4746931005) | 1998 Melissa Ln, Aurora, IL 60506 | $24/hour | 2026-11-04 |  |
-| ShipBob, Inc. | [Warehouse Support Specialist](https://job-boards.greenhouse.io/shipbobinc/jobs/4746927005) | Riverside, California, United States | $24/hour | 2026-11-04 |  |
-| ShipBob, Inc. | [Warehouse Support Specialist](https://job-boards.greenhouse.io/shipbobinc/jobs/4746929005) | Fort Worth, Texas, United States | $24/hour | 2026-11-04 |  |
-| Uber Freight | [Carrier Sales Representative II - Flatbed](https://job-boards.greenhouse.io/uberfreight/jobs/5380006008) | Rogers, AR 72758, United States |  | 2026-11-04 |  |
-| Uniswap Labs | [Content Marketer](https://jobs.ashbyhq.com/uniswap/0863fab0-4868-4c2f-a59c-bdaf3686e0b6) | New York | $114,000 to $154,000 | 2026-11-04 |  |
-| Zeta Global | [Client Experience Specialist](https://job-boards.greenhouse.io/zetaglobal/jobs/6234974004) | New York, NY (hybrid) | $50,000 to $70,000 | 2026-11-04 |  |
-| Aledade PBC | [Growth Development Representative](https://jobs.lever.co/aledade/e0334429-933a-496b-921d-b9660d7fdb36) | Remote, United States |  | 2026-11-04 |  |
-| Alphabe Insight Inc | [Entry Level Marketing Specialist](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000157926039-entry-level-marketing-specialist) | Columbus, OH, us |  | 2026-11-04 |  |
-| Alphabe Insight Inc | [Entry Level Communications Agent](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000157885829-entry-level-communications-agent) | Columbus, OH, us |  | 2026-11-04 |  |
-| Alphabe Insight Inc | [Entry Level Marketing Specialist](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000157878380-entry-level-marketing-specialist) | Tampa, FL, us |  | 2026-11-04 |  |
-| Alphabe Insight Inc | [Entry Level Marketing Specialist](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000157714379-entry-level-marketing-specialist) | Los Angeles, CA, us |  | 2026-11-04 |  |
-| Alphabe Insight Inc | [Entry Level Marketing Specialist](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000157684649-entry-level-marketing-specialist) | Cincinnati, OH, us |  | 2026-11-04 |  |
-| ANINE BING | [PT Sales Advisor - South Coast Plaza](https://job-boards.greenhouse.io/aninebing/jobs/5463872008) | Costa Mesa, CA |  | 2026-11-04 |  |
-| Blueprint Technologies | [Customer Support Agent - (Ukrainian Speaking) (Bench Team)](https://job-boards.greenhouse.io/bpcs/jobs/8325967) | Bellevue, WA (hybrid) | $23 to $25.50/hour | 2026-11-04 |  |
-| CaptiveAire | [Technical Sales and Field Service Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8918065002&gh_jid=8918065002) | Medford, NJ |  | 2026-11-04 |  |
-| Cato Networks | [Commercial Sales Engineer, West](https://www.catonetworks.com/careers/careers-post/5004920101?gh_jid=5004920101) | Los Angeles, California, United States | $150,000 to $180,000 | 2026-11-04 |  |
-| Clopay | [Customer Support Representative l](https://clopay.bamboohr.com/careers/477) | Troy, Ohio, United States |  | 2026-11-04 |  |
-| Compass Family Services | [Bilingual Case Manager, Compass Urgent Accommodation Vouchers (evening shift)](https://compass-family-services.breezy.hr/p/773b889fd450-bilingual-case-manager-compass-urgent-accommodation-vouchers-evening-shift) | San Francisco, CA | $30 to $31/hour | 2026-11-04 |  |
-| Convey (formerly Message Broadcast) | [Sales Development Representative](https://jobs.ashbyhq.com/convey/7eb2e062-8b5f-474a-93cf-94e6b2a5bbce) | Denver, CO |  | 2026-11-04 |  |

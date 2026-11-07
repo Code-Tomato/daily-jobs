@@ -1,11 +1,30 @@
 # New grad and entry level: Education
 
-341 open, newest first (by the date the scraper first saw them), updated 2026-11-06.
+356 open, newest first (by the date the scraper first saw them), updated 2026-11-07.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Apollo After School | [Part Time Substitute Educator](https://apollo-after-school.breezy.hr/p/f11b69a678d2-part-time-substitute-educator) | Monterey Park, CA | $21/hour | 2026-11-07 |  |
+| CSC Generation | [Seasonal Chef Instructor, Pastry (Sur La Table)](https://jobs.lever.co/cscgeneration-2/63420c9a-5208-4024-947f-fc35cc3b88f0) | Boulder, CO |  | 2026-11-07 |  |
+| CSC Generation | [Seasonal Chef Instructor, Savory (Sur La Table)](https://jobs.lever.co/cscgeneration-2/23f20dd0-44b3-4762-bfcd-cf327fbc1a9a) | Boulder, CO |  | 2026-11-07 |  |
+| KIPP | [High School Intervention Teacher](https://jobs.smartrecruiters.com/KIPP/744000160217201-high-school-intervention-teacher) | Columbus, OH, us |  | 2026-11-07 |  |
+| KIPP | [Elementary School Intervention Teacher](https://jobs.smartrecruiters.com/KIPP/744000160211383-elementary-school-intervention-teacher) | Columbus, OH, us |  | 2026-11-07 |  |
+| NCW Libraries | [Library Specialist](https://ncwlibraries.bamboohr.com/careers/120) | Tonasket, Washington, United States | $22.42 to $30.15/hour | 2026-11-07 |  |
+| Texas Health Resources | [Admissions Specialist-PRN](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26009928&lang=en) | Fort Worth |  | 2026-11-07 |  |
+| Super Soccer Stars | [Youth Sports Coach / Early Childhood Instructor - Afternoon Program](https://apply.workable.com/j/A8CD253A2A) | Round Rock, Texas, United States | $250 to $600/week | 2026-11-07 |  |
+| Middlebury College | [Snow School Junior Instructor (26-27 Season S00504)](https://apply.workable.com/j/9E0592FCFA) | Hancock, Vermont, United States | $16.50/hour | 2026-11-07 |  |
+| Tutor Me Education | [Online K-12 Tutor - Core Subjects](https://apply.workable.com/j/BC244DD26E) | Ohio, United States |  | 2026-11-07 |  |
+| Super Soccer Stars | [Pre School Coach](https://apply.workable.com/j/1AE88C5024) | Millburn, New Jersey, United States |  | 2026-11-07 |  |
+| Super Soccer Stars | [Amazing Athletes P/T Preschool Sports Coach](https://apply.workable.com/j/B77B365A5C) | Prosper, Texas, United States |  | 2026-11-07 |  |
+| Super Soccer Stars | [Amazing Athletes P/T Preschool Sports Coach](https://apply.workable.com/j/03C3734742) | Frisco, Texas, United States |  | 2026-11-07 |  |
+| Super Soccer Stars | [Amazing Athletes P/T Preschool Sports Coach](https://apply.workable.com/j/5F8D220C05) | The Colony, Texas, United States |  | 2026-11-07 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Spin](https://ymcaboston.pinpointhq.com/en/postings/7f0110e0-f018-4713-be67-f4484348ac83) | Brighton, MA |  | 2026-11-07 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - HIIT](https://ymcaboston.pinpointhq.com/en/postings/33fda709-7e80-4d90-aafa-776a0119e5b1) | Brighton, MA |  | 2026-11-07 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Body Pump](https://ymcaboston.pinpointhq.com/en/postings/ed8d0925-16a1-498e-9db6-50abe319210f) | Brighton, MA |  | 2026-11-07 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Core Strength](https://ymcaboston.pinpointhq.com/en/postings/2137ca75-3a73-4517-a827-0ed866680229) | Brighton, MA |  | 2026-11-07 |  |
+| YMCA of Greater Boston | [Group Exercise Instructor - Zumba](https://ymcaboston.pinpointhq.com/en/postings/1a86031d-c2ab-4499-95f7-0d67dee03818) | Woburn, MA |  | 2026-11-07 |  |
 | Domino's | [Shift Manager(06615) - 1300 Gattis School Rd., Ste 700](https://jobs.smartrecruiters.com/Dominos/744000160106999-shift-manager-06615-1300-gattis-school-rd-ste-700) | Round Rock, TX, us |  | 2026-11-06 |  |
 | Domino's | [Delivery Driver(08783) - 4909 Gattis School Rd](https://jobs.smartrecruiters.com/Dominos/744000160052708-delivery-driver-08783-4909-gattis-school-rd) | Hutto, TX, us |  | 2026-11-06 |  |
 | Domino's | [Shift Manager(08783) - 4909 Gattis School Rd., Suite 110](https://jobs.smartrecruiters.com/Dominos/744000160027499-shift-manager-08783-4909-gattis-school-rd-suite-110) | Hutto, TX, us |  | 2026-11-06 |  |
@@ -45,7 +64,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Aspire Early Learning Academy | [Full Time Teacher](https://aspireearlylearningacademy.bamboohr.com/careers/76) | West Columbia, South Carolina, United States |  | 2026-11-05 |  |
 | CAIRO | [Inclusion Classroom Aide - ELC](https://cairo.bamboohr.com/careers/324) | Portland, Oregon, United States | $23.16/hour | 2026-11-05 |  |
 | Township of Upper St Clair | [Group Exercise Instructor](https://townshipusc.bamboohr.com/careers/251) | Upper St. Clair, Pennsylvania, United States |  | 2026-11-05 |  |
-| Ppgny | [Sexuality Educator](https://jobs.lever.co/ppgny/10e86bcc-f56c-446f-8a28-9d5eea3586c6) | Queens, NY |  | 2026-11-05 |  |
 | Kitsap Community Resources | [Head Start Teacher](https://kitsap-community-resources.breezy.hr/p/50869b59f3fa-head-start-teacher) | Bremerton, WA | $21.03 to $23.37/hour | 2026-11-05 |  |
 | Discovery Kidzone | [Part Time Teacher — Tues/Thurs Childcare & Preschool (Entry Level)](https://discoverykidzone.bamboohr.com/careers/480) | Bozeman, Montana, United States |  | 2026-11-05 |  |
 | Khan Lab School | [Makerspace Manager](https://khanlabschool.bamboohr.com/careers/235) | Mountain View, California, United States | $85,000 to $100,000 | 2026-11-05 |  |
@@ -120,7 +138,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Hutchinson Community College | [Part-Time Instructors - Natural Science, Social Science and Mathematics (PTI3008)](https://hutchcc.bamboohr.com/careers/515) | Hutchinson, Kansas, United States |  | 2026-11-05 |  |
 | LanguageBird | [Online German Instructor (Remote)](https://languagebird.bamboohr.com/careers/32) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
 | Faith Life Church | [Guardian Academy Substitute Teacher](https://faithlife.bamboohr.com/careers/90) | Powell, Ohio, United States |  | 2026-11-05 |  |
-| LanguageBird | [Online Portuguese Instructor (Remote)](https://languagebird.bamboohr.com/careers/37) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
 | LanguageBird | [Online Japanese Instructor (Remote)](https://languagebird.bamboohr.com/careers/29) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
 | LanguageBird | [Online Russian Instructor (Remote)](https://languagebird.bamboohr.com/careers/42) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
 | LanguageBird | [Online Hindi Instructor (Remote)](https://languagebird.bamboohr.com/careers/46) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
@@ -144,6 +161,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kokua Education - IDEA Public Schools | [Substitute Teacher - IDEA Public Schools - Rio Grande Valley, TX](https://job-boards.greenhouse.io/kokuaeducationpartnerreferrals/jobs/6375591002) | Rio Grande Valley, TX | $117 to $145/hour | 2026-11-05 |  |
 | Kokua Education - IDEA Public Schools | [Substitute Teacher - IDEA Public Schools - San Antonio, TX](https://job-boards.greenhouse.io/kokuaeducationpartnerreferrals/jobs/6375485002) | San Antonio, TX | $140 to $172/hour | 2026-11-05 |  |
 | Philadelphia Ballet | [School Accompanist](https://philadelphiaballet.bamboohr.com/careers/39) | Philadelphia, Pennsylvania, United States |  | 2026-11-05 | clearance |
+| LanguageBird | [Online Portuguese Instructor (Remote)](https://languagebird.bamboohr.com/careers/37) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
 | TeachMichigan | [Early Career Educator Fellowship '26](https://teachmichigan.pinpointhq.com/en/postings/df6c76ab-295f-42db-932e-43d487b89b0c) | Michigan |  | 2026-11-05 |  |
 | Per Scholas | [Low Voltage Telecom Instructor](https://job-boards.greenhouse.io/perscholashires/jobs/4726978006) | United States | $50 to $55/hour | 2026-11-04 |  |
 | Trinity Logistics | [Agent Education & Training Specialist](https://trinitylogistics.com/join-us/job/?gh_jid=8929315002) | Seaford, DE (hybrid) |  | 2026-11-04 |  |
@@ -299,9 +317,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | YMCA of Greater Boston | [Group Exercise Instructor](https://ymcaboston.pinpointhq.com/en/postings/4a629cd1-d56d-4235-83d3-1fccacfc4ca8) | Charlestown, MA |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor - Strength Classes](https://ymcaboston.pinpointhq.com/en/postings/f8378fcc-cd55-4627-9036-8510862f862f) | Brighton, MA |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor - Yoga](https://ymcaboston.pinpointhq.com/en/postings/044fd6c2-e71a-43b9-9098-9c229d74edb7) | Brighton, MA |  | 2026-11-04 |  |
-| YMCA of Greater Boston | [Group Exercise Instructor - Core Strength](https://ymcaboston.pinpointhq.com/en/postings/1c5ad3d0-e552-4d31-8c16-378800ce39c2) | Brighton, MA |  | 2026-11-04 |  |
-| YMCA of Greater Boston | [Group Exercise Instructor - Body Pump](https://ymcaboston.pinpointhq.com/en/postings/4b1bbcd8-9a57-4b14-afe2-59c13c01cd9e) | Brighton, MA |  | 2026-11-04 |  |
-| YMCA of Greater Boston | [Group Exercise Instructor - HIIT](https://ymcaboston.pinpointhq.com/en/postings/924c6815-05b1-45ce-b1a4-c41899963bfe) | Brighton, MA |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor](https://ymcaboston.pinpointhq.com/en/postings/48868a9c-443b-44e6-bad4-e5b06df5dccb) | Waltham, MA |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Sports Instructor - Jr. Celtics Coach](https://ymcaboston.pinpointhq.com/en/postings/4555bd69-12d3-4cc4-8dd0-f1aab52aa5c8) | Boston, Massachusetts |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor - Spin](https://ymcaboston.pinpointhq.com/en/postings/8bf23c56-aaf9-4cad-b0e1-f55bca044b32) | East Boston, MA |  | 2026-11-04 |  |

@@ -1,11 +1,18 @@
 # New grad and entry level: Design and creative
 
-181 open, newest first (by the date the scraper first saw them), updated 2026-11-06.
+183 open, newest first (by the date the scraper first saw them), updated 2026-11-07.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Ares Technology | [BIM Designer I](https://ats.rippling.com/ares-technology-consultants-llc/jobs/b7a533bd-9a34-48c5-a1b1-9a766c274403) | Remote (United States) |  | 2026-11-07 |  |
+| Garmin | [Aviation Human Factors Designer 1](https://careers.garmin.com/careers-home/jobs/21949) | Olathe, Kansas |  | 2026-11-07 |  |
+| Online Labels Group | [Flexographic Press Operator](https://online-labels.breezy.hr/p/0a3c014235e6-flexographic-press-operator) | 12177 28th Street N St. Petersburg, FL |  | 2026-11-07 |  |
+| Online Labels Group | [Flexographic Press Operator](https://online-labels.breezy.hr/p/ce599aad1ae7-flexographic-press-operator) | 2001 E Lake Mary Blvd Sanford, FL |  | 2026-11-07 |  |
+| Resource Environmental Solutions LLC | [Designer I](https://job-boards.greenhouse.io/res/jobs/5458665008) | Pittsburgh, Pennsylvania, United States |  | 2026-11-07 |  |
+| OHM Advisors | [Plumbing Designer](https://apply.workable.com/j/879A49B21C) | St. Petersburg, Florida, United States |  | 2026-11-07 |  |
+| RTM Business Group | [Junior Producer](https://apply.workable.com/j/C95C318714) | Georgia, United States (hybrid) | $50,000 to $70,000 | 2026-11-07 |  |
 | AECOM | [Entry-Level Architecture Designer - Hiring Event with AECOM - Arlington, VA](https://jobs.smartrecruiters.com/AECOM2/744000159874369-entry-level-architecture-designer-hiring-event-with-aecom-arlington-va) | Arlington, VA, us |  | 2026-11-06 | US citizens/persons only |
 | F. Schumacher & Co. | [Junior Graphic Designer](https://job-boards.greenhouse.io/fschumacherco/jobs/5474520008) | New York, NY | $55,000 to $60,000 | 2026-11-06 |  |
 | Saronic Technologies | [3D Generalist / Visualization Designer](https://jobs.ashbyhq.com/saronic/0783226b-e1bf-4723-a1e5-6d6317f65546) | Austin, TX |  | 2026-11-06 | US citizens/persons only |
@@ -43,7 +50,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Buck Mason | [Junior Visual Manager (Nashville)](https://jobs.lever.co/buckmason/3fa14ed1-7622-4edf-8da3-516044f6b181) | Nashville, TN |  | 2026-11-05 |  |
 | Buck Mason | [Junior Visual Manager (Flatiron)](https://jobs.lever.co/buckmason/d82b3740-9138-4cdd-8c44-6148bc2bcc89) | New York, NY |  | 2026-11-05 |  |
 | Parnall Law | [Junior Graphic Designer](https://jobs.lever.co/parnalllaw/2216d3be-b35a-4d68-b203-4293fe0da153) | Albuquerque, NM | $16 to $17/hour | 2026-11-05 |  |
-| BHG Financial | [Learning Experience Designer](https://jobs.lever.co/bhg-inc/afaa797d-58cc-4795-8222-08f2263e1b27) | Remote |  | 2026-11-05 |  |
 | Infinite Views LLC | [Real Estate Creative Specialist (Phoenix, AZ)](https://infiniteviewsllc.bamboohr.com/careers/42) | Tempe, Arizona, United States (remote) |  | 2026-11-05 |  |
 | Aerial Canvas | [Creative Specialist - Contractor (Sacramento)](https://aerialcanvas.bamboohr.com/careers/50) | Sacramento, California, United States |  | 2026-11-05 |  |
 | Fieldstone Architecture & Engineering | [Truss Designer I](https://fieldstoneae.bamboohr.com/careers/80) | Tampa, Florida, United States (Remote) |  | 2026-11-05 |  |
@@ -55,7 +61,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rice University | [Producer of Broadcast Services](https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6356) | United States |  | 2026-11-04 |  |
 | Jobgether | [UX (User Experience) Designer](https://jobs.lever.co/jobgether/902e1402-424a-4d28-8c46-b02bb1f8d875) | US |  | 2026-11-04 |  |
 | Taskrabbit | [Product Designer](https://job-boards.greenhouse.io/taskrabbit/jobs/8314929) | New York, New York, United States; San Francisco, California, United S (hybrid) | $141,000 | 2026-11-04 |  |
-| Clera | [Founding Product Designer](https://jobs.ashbyhq.com/clera/9c739a05-cc20-418a-8bac-77f7cb12b2aa) | San Francisco | $150,000 to $250,000 | 2026-11-04 |  |
+| Clera | [Founding Product Designer](https://jobs.ashbyhq.com/Clera/9c739a05-cc20-418a-8bac-77f7cb12b2aa) | San Francisco | $150,000 to $250,000 | 2026-11-04 |  |
 | Jackson Spalding | [Junior Designer](https://ats.rippling.com/jackson-spalding/jobs/787c5542-0e88-47aa-8fe5-713212367328) | Atlanta, GA |  | 2026-11-04 |  |
 | Monumental Sports & Entertainment | [Junior Videographer](https://job-boards.greenhouse.io/monumentalsports/jobs/5275181007) | Washington, DC 20004 | $65,000 to $80,000 | 2026-11-04 |  |
 | Heavy Construction Systems Specialists, LLC | [Product Designer I](https://jobs.gem.com/heavy-construction-systems-specialists-llc/am9icG9zdDoRG9Mm9wyfqMehtdh9PpQE) | Remote |  | 2026-11-04 |  |
@@ -69,7 +75,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Xcite Automotive | [Photographer/ Jr Detailer](https://xciteauto.breezy.hr/p/f7930d33e259-photographer-jr-detailer) | San Antonio, TX |  | 2026-11-04 |  |
 | EOS | [Tier 2 Audio Visual Field Technician](https://eosits.com/company/careers/?gh_jid=8889713002) | Los Angeles, California, United States | $32 to $41/hour | 2026-11-04 |  |
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDpSYhEaiEMAjFxFDuQ2oLrK) | FL - Boca Raton |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
-| Fanatics Betting & Gaming | [Motion Designer](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4456665009) | New York, NY, United States | $87,500 to $106,000 | 2026-11-04 |  |
 | Fischer Homes | [BIM DESIGNER](https://job-boards.greenhouse.io/f1sch3rh0m3s/jobs/8035477003) | Erlanger, KY |  | 2026-11-04 |  |
 | Black & McDonald Limited | [Designer Level 1](https://black-mcdonald-limited.breezy.hr/p/c8c77d90276401-designer-level-1) | San Antonio, TX |  | 2026-11-04 |  |
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDqzDcvPGcNba8OiCBdY3ygQ) | NC - Raleigh |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
@@ -77,7 +82,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Embedding VC | [Product Designer](https://jobs.ashbyhq.com/embedding-vc/e5cc6c69-27a2-4fe1-992e-7246c1130515) | Mountain View, CA | $120,000 to $170,000 | 2026-11-04 |  |
 | Loudr Agency | [Junior Graphic Designer](https://ats.rippling.com/loudr-agency/jobs/62d14fea-231a-4052-825e-fa1001a759ce) | Denver, CO |  | 2026-11-04 |  |
 | Sleeper | [UX Researcher I](https://jobs.ashbyhq.com/sleeper/168b7639-7759-4880-a94f-7de72607f538) | San Francisco | $75,000 to $95,000 | 2026-11-04 |  |
-| CannonDesign | [Lighting Designer - Entry Level](http://www.cannondesign.com/careers/?gh_jid=8871824002) | Chicago, IL | $25.43 to $31.78/hour | 2026-11-04 |  |
 | AXS | [Graphic Design Specialist- Carbonhouse](https://job-boards.greenhouse.io/axs/jobs/8857075002) | Charlotte, NC |  | 2026-11-04 | no visa sponsorship |
 | TEGNA Inc. | [Producer](https://boards.greenhouse.io/tegnainc/jobs/5255056007?gh_jid=5255056007) | KIII-TV Corpus Christi |  | 2026-11-04 |  |
 | Benesch | [Railroad Grade Crossing – Designer](https://www.benesch.com/job-openings/5255944007?gh_jid=5255944007) | Remote | $36 to $40/hour | 2026-11-04 |  |
@@ -91,7 +95,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Atari | [Junior Generalist Engineer (Video Games)](https://job-boards.greenhouse.io/atariinc/jobs/5434070008) | Atari - US (Remote); Implicit Conversions | $65,000 to $85,000 | 2026-11-04 |  |
 | inKind | [Graphic Designer](https://job-boards.greenhouse.io/inkind/jobs/5435387008) | Austin, in-person |  | 2026-11-04 |  |
 | NewGround | [Environmental Graphic Designer](https://newground.breezy.hr/p/593dad43b8a1-environmental-graphic-designer) | St. Louis, MO |  | 2026-11-04 |  |
-| Benesch | [Roadway Designer I #1410](https://www.benesch.com/job-openings/5241574007?gh_jid=5241574007) | Kansas City, KS; Manhattan, KS; Topeka, KS; Wichita, KS |  | 2026-11-04 |  |
 | Careerswift | [Product Designer (UX/UI)](https://jobs.ashbyhq.com/careerswift.ai/48766185-a27a-4bac-8116-db060aaea5bb) | United States | $60,000 to $80,000 | 2026-11-04 |  |
 | The Quality Group | [Graphic Designer (gn) - ESN](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4976695101) | Deutschland, remote |  | 2026-11-04 |  |
 | The Quality Group GmbH | [Graphic Designer (gn) - ESN](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4976694101) | Deutschland, remote |  | 2026-11-04 |  |
@@ -182,7 +185,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TikTok | [Product Designer Graduate (TikTok-Design) - 2027 Start](https://lifeattiktok.com/search/7667791791502821637) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [UX Researcher - Global E-Commerce - LATAM Market (US)](https://lifeattiktok.com/search/7696701395914869045) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
 | TikTok | [Effect Designer Graduate (TikTok-Design) - 2027 Start](https://lifeattiktok.com/search/7667849876715374853) | San Jose, California, United States of America |  | 2026-10-20 |  |
-| Google | [Pixel Watch Industrial Designer, Devices and Services](https://www.google.com/about/careers/applications/jobs/results/92875847647535814) | Mountain View, CA, USA | $109,000 to $155,000 | 2026-10-19 |  |
 | Ford | [Industrial Designer - Components](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/63323) | Dearborn, MI, United States | $74,300 to $166,200 | 2026-10-19 | no visa sponsorship |
 | SpaceX | [Industrial Designer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8570369002?gh_jid=8570369002) | Bastrop, TX (hybrid) |  | 2026-10-19 | US citizens/persons only |
 | SpaceX | [CMF Designer - Color, Material, and Finish (Starlink)](https://boards.greenhouse.io/spacex/jobs/8570197002?gh_jid=8570197002) | Bastrop, TX (hybrid) |  | 2026-10-19 | US citizens/persons only |

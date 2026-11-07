@@ -1,11 +1,15 @@
 # Internships and co-ops: Education
 
-69 open, newest first (by the date the scraper first saw them), updated 2026-11-06.
+73 open, newest first (by the date the scraper first saw them), updated 2026-11-07.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Chubb | [Agency Education and Development Intern](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38424) · Summer 2027 | Chicago, IL, United States | $18 to $24/hour | 2026-11-07 |  |
+| Strategic HR Client | [CACFP Childcare Centers and Afterschool/Summer Program Specialist I](https://job-boards.greenhouse.io/strategichr/jobs/8197868003) · Summer | Cleveland, Ohio (hybrid) | $20 to $24/hour | 2026-11-07 |  |
+| Uncommon Schools | [Pre-K Apprentice Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000160273014-pre-k-apprentice-teacher) | Brooklyn, New York, us | $60,000 | 2026-11-07 |  |
+| Middlebury College | [Admissions Communication Intern (AY 26-27 901454)](https://apply.workable.com/j/444DC4C86E) | Middlebury, Vermont, United States | $14.95/hour | 2026-11-07 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Learner Engagement and Community Intern](https://jobs.lever.co/stradaeducation/14537f82-790c-4b10-bd63-f8a80c6564c1) | Indianapolis, Indiana | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Post-Secondary Education Team (PSE)](https://jobs.lever.co/stradaeducation/68c7fe9c-c4b9-4cfb-8165-bcebf6013692) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Strategic Partnership & Corporate Development Intern](https://jobs.lever.co/stradaeducation/2b03de4a-699c-4f1c-aefb-3e57a3d27851) | Washington, DC |  | 2026-11-05 |  |
@@ -70,8 +74,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NASA JPL | [Business Admin (Academic Part Time Intern)](https://www.jpl.jobs/us/en/job/R6200) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-11-03 |  |
 | NVIDIA | [Math Libraries Intern, cuEST - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) · Summer 2027 | US, CA, Santa Clara |  | 2026-11-03 |  |
 | Seagate | [Sustaining Intern - Graduating High School Senior (Summer 2027)](https://seagatecareers.com/job/Bloomington-Sustaining-Intern-Graduating-High-School-Senior-%28Summer-2027%29-MN/1442410600/) · Summer 2027 | Normandale, United States | $20 to $22/hour | 2026-10-22 |  |
-| NASA JPL | [Academic Part Time Intern](https://www.jpl.jobs/us/en/job/R6089) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-10-20 |  |
 | NVIDIA | [Sparse Linear Algebra Libraries Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429) · Summer 2027 | US, CA, Santa Clara |  | 2026-10-20 |  |
+| NASA JPL | [Academic Part Time Intern](https://www.jpl.jobs/us/en/job/R6089) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-10-20 |  |
 | Motorola Solutions | [Global Education Intern (Summer 2027 Internship)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Education-Intern--Summer-2027-Internship-_R69472) · Summer 2027 | Chicago, IL |  | 2026-10-20 |  |
 | Federal Reserve System | [Summer 2027 Intern - Information and Library Science](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Information-and-Library-Science_R-0000033639-1) · Summer 2027 | Chicago, IL | $20/hour | 2026-10-20 | no visa sponsorship |
 | Blue Origin | [Summer 2027 Education Programs and Outreach Intern - Undergraduate](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Education-Programs-and-Outreach-Intern---Undergraduate_R71515) · Summer 2027 | Greater Seattle Area | $28/hour | 2026-10-19 | US citizens/persons only |
