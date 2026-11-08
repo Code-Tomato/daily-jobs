@@ -1,6 +1,6 @@
 # New grad and entry level: Design and creative
 
-183 open, newest first (by the date the scraper first saw them), updated 2026-11-07.
+179 open, newest first (by the date the scraper first saw them), updated 2026-11-08.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -61,7 +61,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rice University | [Producer of Broadcast Services](https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6356) | United States |  | 2026-11-04 |  |
 | Jobgether | [UX (User Experience) Designer](https://jobs.lever.co/jobgether/902e1402-424a-4d28-8c46-b02bb1f8d875) | US |  | 2026-11-04 |  |
 | Taskrabbit | [Product Designer](https://job-boards.greenhouse.io/taskrabbit/jobs/8314929) | New York, New York, United States; San Francisco, California, United S (hybrid) | $141,000 | 2026-11-04 |  |
-| Clera | [Founding Product Designer](https://jobs.ashbyhq.com/Clera/9c739a05-cc20-418a-8bac-77f7cb12b2aa) | San Francisco | $150,000 to $250,000 | 2026-11-04 |  |
 | Jackson Spalding | [Junior Designer](https://ats.rippling.com/jackson-spalding/jobs/787c5542-0e88-47aa-8fe5-713212367328) | Atlanta, GA |  | 2026-11-04 |  |
 | Monumental Sports & Entertainment | [Junior Videographer](https://job-boards.greenhouse.io/monumentalsports/jobs/5275181007) | Washington, DC 20004 | $65,000 to $80,000 | 2026-11-04 |  |
 | Heavy Construction Systems Specialists, LLC | [Product Designer I](https://jobs.gem.com/heavy-construction-systems-specialists-llc/am9icG9zdDoRG9Mm9wyfqMehtdh9PpQE) | Remote |  | 2026-11-04 |  |
@@ -151,7 +150,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Collabera | [Graphic Designer](https://jobs.smartrecruiters.com/Collabera2/80516538-graphic-designer) | Seattle, WA, us |  | 2026-11-04 |  |
 | Atria Group LLC | [User Interface Designer (Entry level)](https://jobs.smartrecruiters.com/AtriaGroupLLC/599787-user-interface-designer-entry-level-) | Dallas, TX, us |  | 2026-11-04 |  |
 | Thorne | [Performance Creative & Social Specialist](https://thorne.pinpointhq.com/en/postings/b2cc0395-e902-4078-9a14-4876d6e25740) | Remote, South Carolina (Remote) |  | 2026-11-04 |  |
-| Dell | [Graphic Designer - Experience Design Group](https://jobs.dell.com/en/sites/CX_1/job/302050) | Round Rock, TX, United States | $93,600 to $128,700 | 2026-11-02 |  |
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / C-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51985) | Sparks, Nevada |  | 2026-11-02 |  |
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / A-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51993) | Sparks, Nevada |  | 2026-10-30 |  |
 | Target | [UX Designer - Search & Recommendations](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Designer---Search---Recommendations_R0000475220-1) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $75,400 to $135,700 | 2026-10-29 |  |
@@ -180,8 +178,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The New York Times | [Journalist, Graphics Intensive](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4728037005) | New York, NY | $82,414.80 | 2026-10-20 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/18646) | Olathe, Kansas |  | 2026-10-20 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/18738) | Portland, Oregon |  | 2026-10-20 |  |
-| Garmin | [Human Factors UX Engineer](https://careers.garmin.com/careers-home/jobs/18115) | Olathe, Kansas |  | 2026-10-20 |  |
-| Garmin | [Human Factors UX Engineer](https://careers.garmin.com/careers-home/jobs/17662) | Chandler, Arizona |  | 2026-10-20 |  |
 | TikTok | [Product Designer Graduate (TikTok-Design) - 2027 Start](https://lifeattiktok.com/search/7667791791502821637) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [UX Researcher - Global E-Commerce - LATAM Market (US)](https://lifeattiktok.com/search/7696701395914869045) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
 | TikTok | [Effect Designer Graduate (TikTok-Design) - 2027 Start](https://lifeattiktok.com/search/7667849876715374853) | San Jose, California, United States of America |  | 2026-10-20 |  |

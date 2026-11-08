@@ -1,6 +1,6 @@
 # New grad and entry level: Finance, accounting and banking
 
-2,654 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,639 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -118,7 +118,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kaufman Rossin | [Cost Segregation Engineer](https://apply.workable.com/j/8D39DEE561) | Boca Raton, Florida, United States |  | 2026-11-07 |  |
 | Trexquant Investment | [Global Alpha Trader (GLOBAL)](https://apply.workable.com/j/19E45C3950) | United States |  | 2026-11-07 |  |
 | Ascension | [Insurance Representative](https://jobs.ascension.org/us/en/job/24924) | Austin, TX, US |  | 2026-11-06 |  |
-| BorgWarner | [Financial Analyst](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Financial-Analyst_R2026-4409) | Auburn Hills - Michigan - USA | $62,000 to $85,250 | 2026-11-06 |  |
+| BorgWarner | [Accounting Analyst](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Financial-Analyst_R2026-4409) | Auburn Hills - Michigan - USA | $62,000 to $85,250 | 2026-11-06 |  |
 | JPMorgan Chase | [Associate Relationship Banker - Westford, MA](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807184) | Westford, MA, United States |  | 2026-11-06 |  |
 | M&T Bank | [Universal Banker (Trapelo Rd branch)](https://mtb.wd5.myworkdayjobs.com/MTB/job/Belmont-MA/Universal-Banker--Trapelo-Rd-branch-_R91932) | Belmont, MA | $21.68 to $36.13/hour | 2026-11-06 |  |
 | TD Bank | [Associate Banker I - Bohemia](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Bohemia-New-York/Associate-Banker-I---Bohemia_R_1512950) | Bohemia, New York | $23.25 to $29.75/hour | 2026-11-06 |  |
@@ -488,7 +488,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | JPMorgan Chase | [Relationship Banker - Court St Saginaw - Saginaw, MI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806534) | Saginaw, MI, United States |  | 2026-11-04 |  |
 | JPMorgan Chase | [Relationship Banker - Connecticut East Market - Orange, CT](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806579) | Orange, CT, United States |  | 2026-11-04 |  |
 | M&T Bank | [Universal Banker (Holyoke branch)](https://mtb.wd5.myworkdayjobs.com/MTB/job/Holyoke-MA/Universal-Banker--Holyoke-branch-_R91868-1) | Holyoke, MA | $18.68 to $31.14/hour | 2026-11-04 |  |
-| Nationwide | [Property Claims Adjuster I - (Bountiful, UT - WFH)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Utah/Property-Claims-Adjuster-I----Bountiful--UT---WFH-_101210) | Utah (remote) | $49,100 to $91,300 | 2026-11-04 |  |
 | NielsenIQ | [Sales Development Representative - Financial Services](https://jobs.smartrecruiters.com/NielsenIQ/744000159637719-sales-development-representative-financial-services) | Darien, CT, us | $41,000 to $65,000 | 2026-11-04 |  |
 | TD Bank | [Associate Banker II - Kean (40 hour) Preferred Bilingual/Spanish](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Union-New-Jersey/Associate-Banker-II---Kean--40-hour--Preferred-Bilingual-Spanish_R_1520544) | Union, New Jersey | $23.75 to $31/hour | 2026-11-04 |  |
 | TD Bank | [Associate Banker II - Kean (40 hour) Preferred Bilingual/Spanish](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Union-New-Jersey/Associate-Banker-II---Kean--40-hour--Preferred-Bilingual-Spanish_R_1520539) | Union, New Jersey | $23.75 to $31/hour | 2026-11-04 |  |
@@ -499,6 +498,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | D.A. Davidson | [Experienced Investment Banking Analyst 1 or 2, Diversified Industrials Group](https://jobs.lever.co/dadavidson/38767416-c271-44d9-8f33-9007e56eca69) | Boston, MA |  | 2026-11-04 |  |
 | Exus Renewables North America | [Finance & Accounting Onboarding Specialist](https://ats.rippling.com/exus-renewables-north-america/jobs/9d1569c7-1dcf-43b8-8036-ee5f93ec6f40) | Pittsburgh, PA |  | 2026-11-04 |  |
 | Frost Bank | [Employee Benefits Account Manager - Frost Insurance Agency](https://careers.frostbank.com/us/en/job/R262169) | Bellaire, Texas, United States of America |  | 2026-11-04 |  |
+| Honda | [Financial Planning Analyst](https://careers.honda.com/us/en/job/13216) | Marysville, Ohio, United States |  | 2026-11-04 |  |
 | Huntington Bank | [Customer Experience Banker - Cincinnati Northgate](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Cincinnati-OH/Customer-Experience-Banker---Cincinnati-Northgate_R0077511) | Cincinnati, OH |  | 2026-11-04 | no visa sponsorship |
 | Huntington Bank | [Customer Experience Banker - Lebanon](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Lebanon-OH/Customer-Experience-Banker---Lebanon_R0077375-1) | Lebanon, OH |  | 2026-11-04 | no visa sponsorship |
 | Huntington Bank | [Customer Experience Banker- Myers Park Charlotte NC](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Charlotte-NC/Customer-Experience-Banker--Myers-Park-Charlotte-NC_R0077460) | Charlotte, NC |  | 2026-11-04 | no visa sponsorship |
@@ -572,9 +572,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | DataSpring | [Financial & Billing Analyst](https://ats.rippling.com/dataspring/jobs/eaad7562-8c67-4dad-9ca7-d80381b22f0f) | Remote (United States) |  | 2026-11-04 |  |
 | Expeditors | [Accounts Receivable Agent – The Americas](https://jobs.smartrecruiters.com/Expeditors/744000158837049-accounts-receivable-agent-the-americas-) | Irving, TX, us | $40,000 to $60,000 | 2026-11-04 |  |
 | Uncommon Schools | [Financial Analyst - Real Estate & Debt Management](https://jobs.smartrecruiters.com/UncommonSchools/744000158817354-financial-analyst-real-estate-debt-management) | New York, New York, us | $67,300 to $79,200 | 2026-11-04 |  |
-| AO Garcia Agency | [Entry-Level Insurance Representative - Remote](https://jobs.lever.co/aogarciaagency/60d8f203-e192-4831-a30c-e6906864eaf9) | Reading, Pennsylvania (remote) |  | 2026-11-04 |  |
-| AO Garcia Agency | [Entry-Level Insurance Representative - Remote](https://jobs.lever.co/aogarciaagency/e5151523-17c7-4492-aeaf-de1377f094d8) | San Francisco, California (remote) |  | 2026-11-04 |  |
-| AO Garcia Agency | [Entry-Level Remote Financial Services Associate](https://jobs.lever.co/aogarciaagency/a435a1df-3812-4c52-a778-ad6118ef1b96) | Ewa Gentry, Hawaii (remote) |  | 2026-11-04 |  |
 | AO Garcia Agency | [Entry-Level Remote Financial Services Associate](https://jobs.lever.co/aogarciaagency/acb0b07b-351d-4d79-87ef-756b9f97791e) | South Jordan, Utah (remote) |  | 2026-11-04 |  |
 | First Western | [Private Banker I](https://job-boards.greenhouse.io/firstwestern/jobs/8335056) | Aspen, CO | $27.89 to $34.14/hour | 2026-11-04 |  |
 | First Western | [Private Banker I](https://job-boards.greenhouse.io/firstwestern/jobs/8335044) | Jackson, WY | $27.89 to $34.14/hour | 2026-11-04 |  |
@@ -756,3 +753,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Meron Financial Agency | [Entry Level Remote Insurance Rep — Warm Leads Provided](https://meron-financial-agency.breezy.hr/p/d03f257c9d3e-entry-level-remote-insurance-rep-warm-leads-provided) | Baton Rouge, LA (remote) |  | 2026-11-04 |  |
 | Meron Financial Agency | [Entry Level Remote Insurance Rep — Warm Leads Provided](https://meron-financial-agency.breezy.hr/p/d97bf55f4828-entry-level-remote-insurance-rep-warm-leads-provided) | Shreveport, LA (remote) |  | 2026-11-04 |  |
 | Meron Financial Agency | [Entry Level Remote Sales Agent — Life Insurance](https://meron-financial-agency.breezy.hr/p/73d7acbde2a8-entry-level-remote-sales-agent-life-insurance) | Augusta, GA (remote) |  | 2026-11-04 |  |
+| Meron Financial Agency | [Entry Level Remote Sales Agent — Life Insurance](https://meron-financial-agency.breezy.hr/p/79827c80e54c-entry-level-remote-sales-agent-life-insurance) | Bloomington, IN (remote) |  | 2026-11-04 |  |
+| Meron Financial Agency | [Entry Level Remote Sales Agent — Life Insurance](https://meron-financial-agency.breezy.hr/p/e9daa13879d4-entry-level-remote-sales-agent-life-insurance) | Evansville, IN (remote) |  | 2026-11-04 |  |
+| Meron Financial Agency | [Entry Level Remote Sales Agent — Life Insurance](https://meron-financial-agency.breezy.hr/p/bd8193b45987-entry-level-remote-sales-agent-life-insurance) | Champaign, IL (remote) |  | 2026-11-04 |  |

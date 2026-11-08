@@ -1,11 +1,14 @@
 # New grad and entry level: Mechanical, aerospace and manufacturing
 
-1,536 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,498 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| SpaceX | [Inventory Specialist](https://boards.greenhouse.io/spacex/jobs/8893331002?gh_jid=8893331002) | Vandenberg, CA | $22 to $34.50/hour | 2026-11-08 | US citizens/persons only |
+| TP Aerospace | [MRO Materials Coordinator](https://tpaerospace.bamboohr.com/careers/494) | Orlando, Florida, United States |  | 2026-11-08 |  |
+| AMAX | [Junior System Engineer](https://apply.workable.com/j/C8FD3B365F) | Fremont, California, United States | $80,000 to $95,000 | 2026-11-08 |  |
 | BD | [Engr 3, Mechanical](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Engr-3--Mechanical_R-558971) | USA CA - Irvine Laguna Canyon | $83,500 to $133,500 | 2026-11-07 |  |
 | CommonSpirit Health (St. Luke's Health) | [Nuclear Medicine Tech](https://www.commonspirit.careers/job/long-beach/nuclear-medicine-tech/35300/87037219584) | LONG BEACH, CA |  | 2026-11-07 |  |
 | Daimler Truck North America | [Mechanical Product Design Engineer I](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Mechanical-Product-Design-Engineer-I_DT-20350) | Detroit, MI US | $74,000 to $94,000 | 2026-11-07 |  |
@@ -293,7 +296,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Curaleaf | [Inventory Coordinator - Manufacturing](https://job-boards.greenhouse.io/curaleaf/jobs/8925046002) | Litchfield, IL | $19.25 to $21.25/hour | 2026-11-04 |  |
 | KPFF Consulting Engineers | [CAD Drafter (Civil 3D)](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990016541016-cad-drafter-civil-3d-) | Long Beach, CA, us | $60,000 to $105,000 | 2026-11-04 |  |
 | We Are Overwatch | [Mechanical Commissioning Engineer](https://jobs.gem.com/overwatch/am9icG9zdDqjCEyOD50eaZl-PTFmIr20) | Remote |  | 2026-11-04 |  |
-| Keeley Construction | [Site Safety Technician (Heavy Industrial/Mechanical)](https://job-boards.greenhouse.io/keeleyconstruction/jobs/4748914005) | Wynnewood, OK |  | 2026-11-04 |  |
 | Mission Critical Group | [Quality Engineer](https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016508646-quality-engineer) | Brookston, Indiana, us |  | 2026-11-04 |  |
 | Anduril Industries | [2027 New Grad GNC Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5270855007?gh_jid=5270855007) | Costa Mesa, California, United States | $117,000 to $154,000 | 2026-11-04 | US citizens/persons only |
 | Bombas | [Materials Assistant (temp)](https://job-boards.greenhouse.io/bombas/jobs/8322128) | New York, New York | $24 to $27/hour | 2026-11-04 |  |
@@ -413,7 +415,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Cowboy Space Corp. | [TCA Mechanical Design Engineer Level 1](https://jobs.ashbyhq.com/cowboyspace/18481288-902d-4ecf-872b-eb5fd900cfab) | Kent, Washington | $100,000 to $150,000 | 2026-11-04 | US citizens/persons only |
 | Domino's | [Delivery Driver - Provided Company Fleet Vehicle (04653) - 2950 Donnell Dr](https://jobs.smartrecruiters.com/Dominos/744000150688850-delivery-driver-provided-company-fleet-vehicle-04653-2950-donnell-dr) | Forestville, MD, us |  | 2026-11-04 |  |
 | Domino's | [Delivery Driver - Provided Company Fleet Vehicle (04644) - 9509 Livingston Rd](https://jobs.smartrecruiters.com/Dominos/744000150688949-delivery-driver-provided-company-fleet-vehicle-04644-9509-livingston-rd) | Fort Washington, MD, us |  | 2026-11-04 |  |
-| Quest Defense Systems & Solutions, Inc. | [Mechanical Designer](https://www.quest-defense.com/careers/life-at-quest-defense/current-opportunities/?gh_jid=5242939007) | Cincinnati, OH | $58,000 to $65,000 | 2026-11-04 |  |
 | Striveworks | [Junior Quality Engineer](https://job-boards.greenhouse.io/striveworks/jobs/8001370003) | Austin, Texas, United States | $85,000 to $100,000 | 2026-11-04 | clearance |
 | Westgate Resorts | [Trades I - HVAC](https://jobs.smartrecruiters.com/WestgateResorts/744000150703504-trades-i-hvac) | River Ranch, FL, us |  | 2026-11-04 |  |
 | Anduril Industries | [GNC Engineer, Space Emerging Talent](https://boards.greenhouse.io/andurilindustries/jobs/5236635007?gh_jid=5236635007) | Costa Mesa, California, United States | $117,000 to $154,000 | 2026-11-04 |  |
@@ -684,7 +685,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Joby Aviation | [Airframe Assembly Manufacturing Engineer](https://careers-jobyaviation.icims.com/jobs/5511/airframe-assembly-manufacturing-engineer/job) | Marina, CA | $87,400 to $125,000 | 2026-11-03 |  |
 | Baylor Scott & White Health | [OR RN Robotics](https://jobs.bswhealth.com/us/en/job/26019669) | Dallas, Texas, United States |  | 2026-11-02 |  |
 | Boston Scientific | [Manufacturing Material Handler II](https://bostonscientific.eightfold.ai/careers/job/563602813886602) | Quincy, MA, US |  | 2026-11-02 | no visa sponsorship |
-| FormFactor | [Manufacturing Technician 1](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Manufacturing-Technician-1_JR101312) | Livermore, CA | $19.30 to $25.36/hour | 2026-11-02 |  |
 | FormFactor | [Manufacturing Operator 1 (Temporary)](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Manufacturing-Operator-1--Temporary-_JR101286) | Livermore, CA | $17.05 to $22.37/hour | 2026-11-02 |  |
 | FormFactor | [Manufacturing Operator 1](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Manufacturing-Operator-1_JR101287) | Livermore, CA | $17.05 to $22.37/hour | 2026-11-02 |  |
 | FormFactor | [Manufacturing Operator 1 (Temporary)](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Manufacturing-Operator-1--Temporary-_JR101284) | Livermore, CA | $17.05 to $22.37/hour | 2026-11-02 |  |
@@ -726,7 +726,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Siemens | [Systems Inspector - Fire Alarm](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527168) | Atlanta, Georgia, United States of America | $40,375 to $69,214 | 2026-10-30 | no visa sponsorship |
 | Slate Auto | [Program Management Analyst - Launch](https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Program-Management-Analyst---Launch_JR101626) | Warsaw, Indiana |  | 2026-10-30 | no visa sponsorship |
 | Standard Bots | [Mechanical Engineer (On-site)](https://jobs.ashbyhq.com/StandardBots/35bc9140-1548-4780-bc69-8c90591ee070) | Boston, MA | $95,000 | 2026-10-30 |  |
-| Stryker | [Post Market Quality Engineer (Hybrid)](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Post-Market-Quality-Engineer--Hybrid-_R576087) | Redmond, Washington (hybrid) | $79,900 to $127,500 | 2026-10-30 |  |
 | Symbotic | [Buyer - Direct Materials](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Buyer---Direct-Materials_R8373) | USA Remote & Travel | $69,000 to $101,200 | 2026-10-30 |  |
 | Valar Atomics | [Mechanical Maintenance Planner](https://job-boards.greenhouse.io/valaratomics/jobs/4466625009) | Orangeville, Utah, United States |  | 2026-10-30 | US citizens/persons only |
 | Zipline | [Manufacturing Engineer, Early Career](https://www.zipline.com/open-roles/8040731003?gh_jid=8040731003) | South San Francisco, California, USA | $104,000 to $130,000 | 2026-10-30 |  |
@@ -737,7 +736,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Carvana | [Automotive Wheel Repair Technician](https://www.carvana.com/careers/apply?gh_jid=8331070) | Greenfield, IN |  | 2026-10-29 | no visa sponsorship |
 | Carvana | [Automotive Wheel Repair Technician](https://www.carvana.com/careers/apply?gh_jid=8331066) | Greenfield, IN |  | 2026-10-29 | no visa sponsorship |
 | Daimler Truck North America | [Reactive Supplier Quality Engineer](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Reactive-Supplier-Quality-Engineer_DT-19839) | Detroit, MI US | $78,000 to $100,000 | 2026-10-29 |  |
-| Dell | [Quality Engineer 1](https://jobs.dell.com/en/sites/CX_1/job/296573) | Franklin, MA, United States | $66,080 to $90,860 | 2026-10-29 |  |
 | FormFactor | [Manufacturing Technician 1](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Manufacturing-Technician-1_JR101264) | Livermore, CA | $19.30 to $25.36/hour | 2026-10-29 |  |
 | Formlabs | [3D Print Optimization Engineer - June 2027 New Grads](https://careers.formlabs.com/job/8331440/apply/?gh_jid=8331440) | Boston, MA | $85,000 to $132,000 | 2026-10-29 |  |
 | Formlabs | [3D Print Optimization Engineer - June 2027 New Grads](https://careers.formlabs.com/job/8331442/apply/?gh_jid=8331442) | Somerville, MA | $85,000 to $132,000 | 2026-10-29 |  |
@@ -754,5 +752,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | University Health (San Antonio) | [Nuclear Medicine Technologist](https://careers.universityhealth.com/job/san-antonio/nuclear-medicine-technologist/43277/102518428624) | San Antonio, TX |  | 2026-10-29 |  |
 | University Health (San Antonio) | [Nuclear Medicine Technologist](https://careers.universityhealth.com/job/selma/nuclear-medicine-technologist/43277/102518426768) | Selma, TX |  | 2026-10-29 |  |
 | Fluor | [Engineering Technician I- Mechanical](https://careers.fluor.com/careers/job/1099556046337) | Houston, US-TX, United States | $43,000 to $66,000 | 2026-10-29 |  |
+| Skyworks | [Manufacturing Technician 1](https://careers.skyworksinc.com/job/Richardson-Manufacturing-Technician-1-TX-75080/1444777500/) | Richardson, US | $17.50 to $31.30/hour | 2026-10-29 | no visa sponsorship |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2631782) | Austin,TX | $20 to $27.50/hour | 2026-10-28 |  |
 | Ford | [Manufacturing Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70582) | Dearborn, MI, United States | $74,300 to $144,900 | 2026-10-28 | no visa sponsorship |
+| FormFactor | [Manufacturing Operator 1 (Temporary)](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Manufacturing-Operator-1--Temporary-_JR101259-1) | Livermore, CA | $17.05 to $22.37/hour | 2026-10-28 |  |

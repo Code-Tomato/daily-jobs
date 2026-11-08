@@ -1,6 +1,6 @@
 # Internships and co-ops: Civil, construction and environmental
 
-889 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+883 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -407,8 +407,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AMT Engineering | [Transportation Engineer Intern - May 2027](https://jobs.lever.co/amtengineering/d42f9083-91c5-4a3a-8a55-3a834f495736) · Summer 2027 | Richmond, Virginia |  | 2026-11-04 |  |
 | BRPH | [Architectural Intern](https://job-boards.greenhouse.io/brph/jobs/4399696009) | Orlando, Florida, United States |  | 2026-11-04 |  |
 | BRPH | [Architectural Intern](https://job-boards.greenhouse.io/brph/jobs/4399684009) | Melbourne, Florida, United States |  | 2026-11-04 |  |
-| BRPH | [Construction Services Intern](https://job-boards.greenhouse.io/brph/jobs/4399703009) | Melbourne, Florida, United States |  | 2026-11-04 |  |
 | BRPH | [Construction Services Intern](https://job-boards.greenhouse.io/brph/jobs/4399720009) | Melbourne, Florida, United States |  | 2026-11-04 |  |
+| BRPH | [Construction Services Intern](https://job-boards.greenhouse.io/brph/jobs/4399703009) | Melbourne, Florida, United States |  | 2026-11-04 |  |
 | BRPH | [Structural Engineer Intern](https://job-boards.greenhouse.io/brph/jobs/4399668009) | Orlando, Florida, United States |  | 2026-11-04 |  |
 | BRPH | [Structural Engineer Intern](https://job-boards.greenhouse.io/brph/jobs/4399647009) | Melbourne, Florida, United States |  | 2026-11-04 |  |
 | Granger Construction | [Virtual Design + Construction Intern](https://jobs.gem.com/granger-construction/am9icG9zdDoUE0NEI0Qb-SOm5XU2Z9ZO) | Lansing, MI (remote) |  | 2026-11-04 |  |
@@ -755,4 +755,4 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Walmart Global Tech | [(USA) 2007 Summer Corporate Intern: Construction Project Management Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--2007-Summer-Corporate-Intern---Construction-Project-Management-Intern_R-2690396) · Summer 2007 | (USA) Always AR Bentonville Home Office | $21 to $40/hour | 2026-10-30 |  |
 | Walmart Global Tech | [(USA) 2027 Summer Corporate Intern: Construction Project Management Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--2027-Summer-Corporate-Intern---Construction-Project-Management-Intern_R-2690400) · Summer 2027 | (USA) Always AR Bentonville Home Office | $21 to $40/hour | 2026-10-30 |  |
 | Black & Veatch | [Construction Intern - Field](https://careers.bv.com/job/Field-Assignment-Construction-Intern-Field-KS/1434033033/) · Summer 2027 | Field Assignment, KS, US |  | 2026-10-29 |  |
-| Intel | [Foundry Construction, Supply Chain and Sourcing Intern – Graduate](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Foundry-Construction--Supply-Chain-and-Sourcing-Intern---Graduate_JR0287924) | US, Arizona, Phoenix (hybrid) | $76,798 to $76,802 | 2026-10-29 |  |
+| Black & Veatch | [Construction Intern - Field](https://careers.bv.com/job/Field-Assignment-Construction-Intern-Field-KS/1451877333/) · Summer 2027 | Field Assignment, KS, US |  | 2026-10-28 |  |

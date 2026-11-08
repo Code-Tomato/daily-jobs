@@ -1,11 +1,22 @@
 # New grad and entry level: Sales, marketing and communications
 
-2,583 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,573 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Clera | [Sales Development Representative](https://jobs.ashbyhq.com/Clera/e1c25fd8-9f7c-4b3c-863a-336890c4352c) | Salt Lake City | $60,000 to $105,000 | 2026-11-08 | no visa sponsorship |
+| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000160482479-sales-trainee) | Las Vegas, NV, us |  | 2026-11-08 |  |
+| AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/67fe5dc0-ff82-4c8f-b469-1bcf02f25fd9) | Tulsa, Oklahoma (remote) |  | 2026-11-08 |  |
+| AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/b5581332-f7d9-4e93-86fa-ce0465805889) | Kapolei, Hawaii (remote) |  | 2026-11-08 |  |
+| SRS Merchandising | [Retail Merchandiser -Murrietta, CA](https://srs-merchandising.breezy.hr/p/89afe504f645-retail-merchandiser-murrietta-ca) | Murrietta, CA | $17 to $20/hour | 2026-11-08 |  |
+| talentpluto | [Founding SDR](https://apply.workable.com/j/A0883EFA44) | San Francisco, California, United States | $70,000 to $120,000 | 2026-11-08 |  |
+| talentpluto | [Founding SDR](https://apply.workable.com/j/75A229728B) | San Francisco, California, United States | $70,000 to $120,000 | 2026-11-08 |  |
+| talentpluto | [Sales Development Representative](https://apply.workable.com/j/4F7E5AAAF3) | San Francisco, California, United States | $70,000 to $120,000 | 2026-11-08 |  |
+| SRS Merchandising | [Experienced Merchandiser- Temecula, CA](https://srs-merchandising.breezy.hr/p/5131bb36a9a7-experienced-merchandiser-temecula-ca) | Temecula, CA | $17 to $20/hour | 2026-11-08 |  |
+| SRS Merchandising | [Merchandiser-Experienced- Truckee, NV](https://srs-merchandising.breezy.hr/p/e9e5e27831e3-merchandiser-experienced-truckee-nv) | Truckee, NV | $17 to $20/hour | 2026-11-08 |  |
+| moomoo | [Junior Integrated Marketing Specialist](https://apply.workable.com/j/095C5F49D8) | Jersey City, New Jersey, United States | $55,000 to $70,000 | 2026-11-08 |  |
 | Domino's | [Customer Service Rep(01691) – 4201 Dr Martin Luther King Jr Blvd](https://jobs.smartrecruiters.com/Dominos/744000160369272-customer-service-rep-01691-4201-dr-martin-luther-king-jr-blvd) | Kansas City, MO, us |  | 2026-11-07 |  |
 | Domino's | [Customer Service Rep(05389) - 1098 Dr MLK Jr Expy](https://jobs.smartrecruiters.com/Dominos/744000160334140-customer-service-rep-05389-1098-dr-mlk-jr-expy) | Andalusia, AL, us |  | 2026-11-07 |  |
 | Domino's | [Customer Service Rep(03335) - 2554 adam clayton powell jr.](https://jobs.smartrecruiters.com/Dominos/744000160330141-customer-service-rep-03335-2554-adam-clayton-powell-jr-) | New York, NY, us |  | 2026-11-07 |  |
@@ -358,7 +369,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Seven Starling | [Practice Partnership Manager (DMV)](https://jobs.lever.co/seven-starling/7a85b441-7936-4000-b093-a6544b7d72cf) | Remote | $90,000 | 2026-11-05 |  |
 | Seven Starling | [Practice Partnership Manager (Texas)](https://jobs.lever.co/seven-starling/5ff2a54b-b849-42c9-a731-d3fb490081ee) | Remote | $90,000 | 2026-11-05 |  |
 | Seven Starling | [Practice Partnership Manager (West)](https://jobs.lever.co/seven-starling/9197c6a6-e2b3-47ce-a37d-deef5412b5b4) | Remote | $90,000 | 2026-11-05 |  |
-| Sophos | [Renewals Representative](https://jobs.lever.co/sophos/669b9f60-16bf-4a3e-a602-c6237092f92e) | Dallas, TX (remote) | $64,400 to $107,100 | 2026-11-05 | no visa sponsorship |
 | McMurry University | [Digital Media Specialist](https://mcmurry.bamboohr.com/careers/108) | Abilene, Texas, United States |  | 2026-11-05 |  |
 | TXOne Networks | [Sales Development Representative - DACH](https://txonenetworks.bamboohr.com/careers/85) | Remote |  | 2026-11-05 |  |
 | GSM Services | [Sales Support Specialist (Residential)](https://ats.rippling.com/gsm-jobs/jobs/3649a592-3884-4242-afe4-4c64e63bf03c) | Gastonia, NC |  | 2026-11-05 |  |
@@ -448,7 +458,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NOVA Cat Clinic | [Client Service Representative](https://job-boards.greenhouse.io/nova-cat-clinic/jobs/4240042009) | Arlington, VA |  | 2026-11-05 |  |
 | Buck Mason | [Sales Manager (Hayes Valley)](https://jobs.lever.co/buckmason/f77ce40c-3bcf-4579-a7ed-c40be68c4be3) | Hayes Valley, San Francisco |  | 2026-11-05 |  |
 | Luxury Presence | [Sales Development Representative - New Grad](https://jobs.lever.co/luxurypresence/2462abfb-a255-4c9c-9e55-1ebc6293477b) | Austin, TX | $100,000 to $270,000 | 2026-11-05 |  |
-| Sophos | [Renewals Representative](https://jobs.lever.co/sophos/f79e842d-f9b7-4997-be6a-1caad307d61c) | United States (remote) | $60,200 to $100,100 | 2026-11-05 | no visa sponsorship |
 | Dempsey Uniform & Linen Supply | [Sales Development Representative (SDR)](https://jobs.lever.co/dempseyuniform-2/56cd0eff-48cf-4093-87f2-ef2aec46eb55) | Bethlehem, PA |  | 2026-11-05 |  |
 | Cgsfederal | [Technical Writer (TW) – Junior](https://jobs.lever.co/cgsfederal/b1cc6054-6585-4da1-b07e-0a5e76f49d16) | Washington, DC |  | 2026-11-05 |  |
 | IDT | [Retail Sales Specialist](https://jobs.lever.co/idt/3cb2c686-8f1c-4c53-9475-bba57370cb8d) | Greater Philadelphia Area |  | 2026-11-05 |  |
@@ -747,12 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Expeditors | [Domestic Transportation Customer Service](https://jobs.smartrecruiters.com/Expeditors/744000158745134-domestic-transportation-customer-service) | Sterling, VA, us | $23 to $25/hour | 2026-11-04 |  |
 | Expeditors | [Domestic Transportation Customer Service](https://jobs.smartrecruiters.com/Expeditors/744000158745499-domestic-transportation-customer-service) | Elkridge, MD, us | $23 to $25/hour | 2026-11-04 |  |
 | FieldTRUE | [Bilingual Customer Service Representative](https://fieldtrue.bamboohr.com/careers/166) | West Sacramento, California, United States |  | 2026-11-04 |  |
-| Galileo Learning | [Sales Development Representative](https://jobs.smartrecruiters.com/GalileoLearning/744000158855389-sales-development-representative) | Oakland, CA, us | $65,000 to $90,000 | 2026-11-04 |  |
-| Grow Therapy | [Specialist I, Client Support](https://jobs.ashbyhq.com/grow-therapy/736990d1-6bcc-4611-a63b-016fe9575d0c) | Remote | $24.04/hour | 2026-11-04 |  |
-| Heritage Construction Co., LLC | [Entry Level Roofing Sales Rep / Paid Training / $100K–$150K+ First Year Potential](https://heritage-roofing-and-construction.breezy.hr/p/9dbf97cbeba3-entry-level-roofing-sales-rep-paid-training-100k-150k-first-year-potential) | San Antonio, TX | $100,000 to $150,000 | 2026-11-04 |  |
-| Heritage Construction Co., LLC | [Entry Level Roofing Sales Rep / Paid Training / $100K–$150K+ First Year Potential](https://heritage-roofing-and-construction.breezy.hr/p/50fdb9068cdc-entry-level-roofing-sales-rep-paid-training-100k-150k-first-year-potential) | Plano, TX | $100,000 to $150,000 | 2026-11-04 |  |
-| Heritage Construction Co., LLC | [Entry-Level Sales Rep / No Experience Needed / $100K–$150K+ Potential](https://heritage-roofing-and-construction.breezy.hr/p/7b3a24c152d8-entry-level-sales-rep-no-experience-needed-100k-150k-potential) | Irving, TX |  | 2026-11-04 |  |
-| Intellipet | [Outbound Sales Representative](https://job-boards.greenhouse.io/intellipet/jobs/4474050009) | United States (remote) |  | 2026-11-04 |  |
-| Life.Church | [Support Specialist, App Support](https://jobs.lever.co/life/e22178ce-9c30-4845-b8ba-3459de8ea40c) | Edmond, OK |  | 2026-11-04 |  |
-| Lyra Health | [Client Support Specialist - After Hours](https://jobs.lever.co/lyrahealth/74e91591-ef69-465b-892b-1c82e07744a9) | United States |  | 2026-11-04 |  |
-| Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000158830050--sales-trainee) | Fort Wayne, IN, us |  | 2026-11-04 |  |

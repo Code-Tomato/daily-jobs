@@ -1,11 +1,14 @@
 # New grad and entry level: HR, legal and policy
 
-603 open, newest first (by the date the scraper first saw them), updated 2026-11-07.
+597 open, newest first (by the date the scraper first saw them), updated 2026-11-08.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AO Garcia Agency | [Fully Remote - Benefits Leadership Trainee](https://jobs.lever.co/aogarciaagency/157f476b-c5e3-4256-83df-2d1f3a8a39b9) | Kahului, Hawaii (remote) |  | 2026-11-08 |  |
+| AO Garcia Agency | [Fully Remote - Benefits Leadership Trainee](https://jobs.lever.co/aogarciaagency/71e676ec-d7df-4b03-a774-23d12bcc250f) | Springfield, Ohio (remote) |  | 2026-11-08 |  |
+| SpaceX | [Talent Sourcer - Temporary](https://boards.greenhouse.io/spacex/jobs/8934430002?gh_jid=8934430002) | Hawthorne, CA | $85,000 to $120,000 | 2026-11-08 | US citizens/persons only |
 | AO Garcia Agency | [Fully Remote - Benefits Leadership Trainee](https://jobs.lever.co/aogarciaagency/b04a2231-7183-4df6-9d29-b0a1a756457c) | Mount Pleasant, South Carolina (remote) |  | 2026-11-07 |  |
 | AO Garcia Agency | [Fully Remote - Benefits Leadership Trainee](https://jobs.lever.co/aogarciaagency/eeb9d297-e6b3-4d42-aa15-7b16a34eb01b) | Overland Park, Kansas (remote) |  | 2026-11-07 |  |
 | Bentley Systems | [License Compliance Specialist](https://bentleysystems.wd5.myworkdayjobs.com/bentley/job/Pennsylvania-United-States---Remote/License-Compliance-Specialist_R123-1) | Pennsylvania, United States - Remote |  | 2026-11-07 |  |
@@ -260,8 +263,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Morgan & Morgan, P.A. | [Personal Injury Pre Suit Attorney](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6242363004) | Monmouth, New Jersey, United States | $100,000 to $125,000 | 2026-11-04 |  |
 | Morgan & Morgan, P.A. | [Person Injury Pre-Suit Attorney](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6241975004) | West Palm Beach, Florida, United States |  | 2026-11-04 |  |
 | Senior Lifestyle | [HR Manager II](https://jobs.smartrecruiters.com/SeniorLifestyle1/744000159456190-hr-manager-ii) | Lisle, IL, us |  | 2026-11-04 |  |
-| SpaceX | [Technical Recruiter, SG&A](https://boards.greenhouse.io/spacex/jobs/8928299002?gh_jid=8928299002) | Cape Canaveral, FL |  | 2026-11-04 | US citizens/persons only |
 | SpaceX | [Technical Recruiter, SG&A](https://boards.greenhouse.io/spacex/jobs/8928300002?gh_jid=8928300002) | Palo Alto, CA | $85,000 to $135,000 | 2026-11-04 | US citizens/persons only |
+| SpaceX | [Technical Recruiter, SG&A](https://boards.greenhouse.io/spacex/jobs/8928299002?gh_jid=8928299002) | Cape Canaveral, FL |  | 2026-11-04 | US citizens/persons only |
 | AO Garcia Agency | [Fully Remote - Benefits Leadership Trainee](https://jobs.lever.co/aogarciaagency/0a4ad89f-8323-4b1f-aa43-5c07049a141d) | Broken Arrow, Oklahoma (remote) |  | 2026-11-04 |  |
 | AO Garcia Agency | [Fully Remote - Benefits Leadership Trainee](https://jobs.lever.co/aogarciaagency/eae69b6f-5a23-45f8-97e6-4ad518d130af) | Meridian, Idaho (remote) |  | 2026-11-04 |  |
 | Ingram Content Group | [Forklift Operator - 1st Shift, $19.50/hr](https://jobs.smartrecruiters.com/IngramContentGroup1/744000159262885-forklift-operator-1st-shift-19-50-hr) | La Vergne, TN, us | $19.50/hour | 2026-11-04 |  |
@@ -290,15 +293,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Keenfinity | [Product Compliance Engineer I](https://jobs.smartrecruiters.com/Keenfinity/744000158765509-product-compliance-engineer-i) | Fairport, NY, us | $80,000 to $88,000 | 2026-11-04 | no visa sponsorship |
 | Morgan & Morgan, P.A. | [Seeking Paralegal New Grads!](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6239422004) | West Palm Beach, Florida, United States |  | 2026-11-04 |  |
 | The Lisinski Law Firm | [Immigration Attorney - FL Court](https://ats.rippling.com/lisinski-law-firm/jobs/6801fa51-499f-447a-b853-7a496c6de026) | FL |  | 2026-11-04 |  |
-| AO Garcia Agency | [Entry-Level Remote Benefits Representative](https://jobs.lever.co/aogarciaagency/205441fa-5e41-49dd-9450-0a6af4150edd) | Ely, Nevada (remote) |  | 2026-11-04 |  |
-| AO Garcia Agency | [Remote Leadership Trainee - Benefits](https://jobs.lever.co/aogarciaagency/a2dc10f8-e62f-4c46-a559-1468266a3b59) | Merrimack, New Hampshire (remote) |  | 2026-11-04 |  |
 | Eye Care Partners | [Ophthalmic Technician - Training provided, no weekends, full benefits](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8924211002) | Lexington, KY |  | 2026-11-04 |  |
 | Eye Care Partners | [Talent Acquisition Specialist - Contractor (Hybrid)](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8923736002) | Ballwin, MO (hybrid) |  | 2026-11-04 |  |
 | Morgan & Morgan, P.A. | [Seeking Paralegal New Grads!](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6238307004) | Marietta, Georgia, United States |  | 2026-11-04 |  |
 | Surge Staffing | [Bilingual Talent Advisor](https://surge.breezy.hr/p/a0c18f14b243-bilingual-talent-advisor) | Durand, MI |  | 2026-11-04 |  |
 | Techo-Bloc | [Human Resources Generalist](https://jobs.smartrecruiters.com/techo-bloc/744000158580280-human-resources-generalist) | Fort Wayne, IN, us |  | 2026-11-04 |  |
-| AO Garcia Agency | [Entry-Level Remote Benefits Representative](https://jobs.lever.co/aogarciaagency/c7f66ff6-f279-40f5-838f-d4b768dbb395) | Kennewick, Washington (remote) |  | 2026-11-04 |  |
-| AO Garcia Agency | [Remote Leadership Trainee - Benefits](https://jobs.lever.co/aogarciaagency/0b8dd481-ff14-44bf-bc73-6e1c8e4b717d) | Fairmont, West Virginia (remote) |  | 2026-11-04 |  |
 | Marshall Dennehey | [Workers' Compensation Attorney - Jacksonville, FL](https://marshall-dennehey.breezy.hr/p/8dbd44f929df-workers-compensation-attorney-jacksonville-fl) | Jacksonville, FL |  | 2026-11-04 |  |
 | Marshall Dennehey | [Workers’ Compensation Attorney – 1-4 Yrs Experience - Harrisburg, PA](https://marshall-dennehey.breezy.hr/p/59cd9541c0ae-workers-compensation-attorney-1-4-yrs-experience-harrisburg-pa) | Harrisburg, PA |  | 2026-11-04 |  |
 | Marshall Dennehey | [Workers’ Compensation/Medicare Compliance Attorney – Philadelphia, PA; King of Prussia, PA](https://marshall-dennehey.breezy.hr/p/c0d6ef5cd956-workers-compensation-medicare-compliance-attorney-philadelphia-pa-king-of-prussia-pa) | Philadelphia, PA |  | 2026-11-04 |  |
@@ -499,7 +498,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Texas Tech University | [Research Compliance Specialist I](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=926848) | Lubbock, Texas, US | $21.39 to $34.23/hour | 2026-10-28 |  |
 | WM (Waste Management) | [Heavy Equipment Operator Benefits Day 1, Stable Hours, 401K](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355237) | Washtucna, WA, United States | $32/hour | 2026-10-28 |  |
 | WM (Waste Management) | [Heavy Equipment Operator Benefits Day 1, Stable Hours, 401K Match](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355277) | Maricopa, AZ, United States | $24 to $26/hour | 2026-10-28 |  |
-| GM | [Davison Road - HR/LR Professional](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Burton-Michigan-United-States-of-America/Davison-Road---HR-LR-Professional_JR-202621982-1) | Burton, Michigan, United States of America |  | 2026-10-27 | no visa sponsorship |
 | WM (Waste Management) | [Heavy Equipment Operator Benefits Day 1, Stable Hours, 401K Match](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2354981) | Washington, DC, United States | $24/hour | 2026-10-27 |  |
 | NRG Energy | [Talent Acquisition Specialist](https://careers.nrgenergy.com/nrg/job/Houston-Talent-Acquisition-Specialist-TX-77010/1438641900/) | Houston, TX, US |  | 2026-10-27 |  |
 | Texas A&M University System Offices | [Human Resources Generalist II](https://tamus.wd1.myworkdayjobs.com/TAMUS_External/job/College-Station-TX/Human-Resources-Generalist-II_R-098304-1) | College Station, TX |  | 2026-10-26 | US citizens/persons only |
@@ -547,6 +545,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Databricks | [Product Design New Grad (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002) · Fall 2026 | San Francisco, California; Seattle, Washington | $128,000 to $140,000 | 2026-10-20 |  |
 | Frost Bank | [Employee Relations Specialist I - University Recruiting](https://careers.frostbank.com/us/en/job/R261920) | San Antonio, Texas, United States of America |  | 2026-10-20 |  |
 | Jane Street | [Talent Development Specialist](https://www.janestreet.com/join-jane-street/apply/8877535002?gh_jid=8877535002) | New York, New York, United States |  | 2026-10-20 |  |
+| KLA | [Product Safety & Compliance Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Safety---Compliance-Enigineer_2635508) | Ann Arbor, MI | $105,900 to $180,000 | 2026-10-20 |  |
 | University Health (San Antonio) | [Human Resources Specialist PRN](https://careers.universityhealth.com/job/san-antonio/human-resources-specialist-prn/43277/63425421184) | San Antonio, TX |  | 2026-10-20 |  |
 | Gartner | [Talent Sourcer](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Talent-Sourcer_108681) | Irving, TX |  | 2026-10-20 |  |
 | BD | [Regulatory Affairs, Specialist I](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Regulatory-Affairs--Specialist-I_R-554960-1) | USA GA - Covington BMD |  | 2026-10-20 |  |
@@ -562,16 +561,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | McKesson | [Talent Advisor](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Talent-Advisor_JR0154719) | USA, TX, Irving |  | 2026-10-20 |  |
 | Republic Services | [Environmental Compliance Technician I - TSDF](https://jobs.republicservices.com/us/en/job/R-184080) | Robstown, Texas, United States of America |  | 2026-10-20 |  |
 | Walgreens | [Learning Experience Specialist (Entry-Level)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1874579) | Deerfield, IL |  | 2026-10-20 |  |
-| GlobalFoundries | [Human Resources Business Partner, GF Burlington (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Human-Resources-Business-Partner--GF-Burlington--2027-New-College-Graduate-_JR-2604468) | USA - Vermont - Essex Junction | $50,400 to $88,200 | 2026-10-20 |  |
 | Pariveda | [Technical Corporate Recruiter](https://jobs.ashbyhq.com/pariveda/d3b8c1c0-a66b-4c00-97fe-c552f3db23fb) | Dallas |  | 2026-10-20 | no visa sponsorship |
-| GlobalFoundries | [Human Resources Business Partner, GF Malta (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Business-Partner--GF-Malta--2027-New-College-Graduate-_JR-2604467) | USA - New York - Malta | $50,400 to $88,200 | 2026-10-20 |  |
 | Humana | [Compliance UMAC 3 (Wed-Sun)](https://careers.humana.com/us/en/job/R-421517) | Remote, Nationwide, United States of America | $44,900 to $60,200 | 2026-10-20 |  |
-| GlobalFoundries | [Talent Accelerator Program (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Talent-Accelerator-Program--2027-New-College-Graduate-_JR-2604196-1) | USA - Texas - Austin | $50,400 to $88,200 | 2026-10-20 |  |
-| KLA | [Product Safety & Compliance Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Safety---Compliance-Enigineer_2635508) | Ann Arbor, MI | $105,900 to $180,000 | 2026-10-20 |  |
 | Molina Healthcare | [Manager, Regional Delegation Oversight](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2039204) | United States |  | 2026-10-20 |  |
 | Belvedere Trading | [Early Career Talent Partner - Technology & Platform](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) | Chicago, Illinois |  | 2026-10-20 | no visa sponsorship |
 | Lam Research | [Jr Talent Sourcer (Contract)](https://careers.lamresearch.com/careers/job/1099556045168) | Tualatin, OR, US |  | 2026-10-20 |  |
-| Bosch | [Junior Management Program – HR – Corporate](https://jobs.smartrecruiters.com/BoschGroup/744000144587769-junior-management-program-hr-corporate) | Farmington Hills, MI, us |  | 2026-10-20 |  |
 | Texas Tech University | [Research Compliance Specialist I](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=921245) | Lubbock, Texas, US | $21.39 to $34.23/hour | 2026-10-20 |  |
 | Boom Supersonic | [Turbomachinery Engineer (Early Career, Exceptional Talent)](https://ats.rippling.com/boom-supersonic/jobs/76387763-abfd-462c-a878-4a6ed3c0552b) | Centennial, CO | $95,000 to $128,000 | 2026-10-20 | US citizens/persons only |
 | Freeform | [Technical Recruiter](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7825476003) | Los Angeles, CA | $75,000 | 2026-10-20 |  |
@@ -588,8 +582,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TikTok | [Benefits Partner Graduate (Performance and Incentives) - 2027 Start](https://lifeattiktok.com/search/7668660364829460789) | Los Angeles, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Long-term Incentive Partner Graduate (Performance and Incentives) - 2027 Start](https://lifeattiktok.com/search/7668571364609476917) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | Micron | [University Recruiter (Contract Role)](https://micron.wd1.myworkdayjobs.com/External/job/Syracuse-NY---Downtown-Office/University-Recruiter--Contract-Role-_JR114652) | Syracuse, NY - Downtown Office | $71,000 to $121,000 | 2026-10-19 |  |
-| SpaceX | [Technical Recruiter, SG&A](https://boards.greenhouse.io/spacex/jobs/8880126002?gh_jid=8880126002) | Hawthorne, CA | $85,000 to $135,000 | 2026-10-19 | US citizens/persons only |
 | SpaceX | [Technical Recruiter, SG&A](https://boards.greenhouse.io/spacex/jobs/8883358002?gh_jid=8883358002) | Bastrop, TX |  | 2026-10-19 | US citizens/persons only |
+| SpaceX | [Technical Recruiter, SG&A](https://boards.greenhouse.io/spacex/jobs/8880126002?gh_jid=8880126002) | Hawthorne, CA | $85,000 to $135,000 | 2026-10-19 | US citizens/persons only |
 | Micron | [University Recruiter (Contract Role)](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/University-Recruiter--Contract-Role-_JR114651) | Boise, ID - Main Site |  | 2026-10-19 |  |
 | SpaceX | [Technical Recruiter (Starlink)](https://boards.greenhouse.io/spacex/jobs/8872169002?gh_jid=8872169002) | Irvine, CA | $90,000 to $135,000 | 2026-10-19 | US citizens/persons only |
 | SpaceX | [Recruiter, Go-To-Market (Starlink)](https://boards.greenhouse.io/spacex/jobs/8864549002?gh_jid=8864549002) | Bastrop, TX |  | 2026-10-19 | US citizens/persons only |
@@ -599,8 +593,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpaceX | [HR Generalist](https://boards.greenhouse.io/spacex/jobs/8788674002?gh_jid=8788674002) | Redmond, WA (hybrid) | $80,500 to $95,000 | 2026-10-19 | US citizens/persons only |
 | Texas Instruments | [Human Resources Development Program](https://careers.ti.com/en/sites/CX_1/job/25017704) | United States |  | 2026-10-19 | no visa sponsorship |
 | SpaceX | [Technical Recruiter (Starlink)](https://boards.greenhouse.io/spacex/jobs/8695154002?gh_jid=8695154002) | Palo Alto, CA | $105,000 to $150,000 | 2026-10-19 | US citizens/persons only |
-| SpaceX | [Technical Recruiter (Starlink)](https://boards.greenhouse.io/spacex/jobs/8694852002?gh_jid=8694852002) | Bastrop, TX |  | 2026-10-19 | US citizens/persons only |
 | SpaceX | [Technical Recruiter (Starlink)](https://boards.greenhouse.io/spacex/jobs/8694882002?gh_jid=8694882002) | Redmond, WA | $95,000 to $140,000 | 2026-10-19 | US citizens/persons only |
+| SpaceX | [Technical Recruiter (Starlink)](https://boards.greenhouse.io/spacex/jobs/8694852002?gh_jid=8694852002) | Bastrop, TX |  | 2026-10-19 | US citizens/persons only |
 | SpaceX | [Technical Recruiter (McGregor)](https://boards.greenhouse.io/spacex/jobs/8675110002?gh_jid=8675110002) | McGregor, TX |  | 2026-10-19 | US citizens/persons only |
 | SpaceX | [Talent Sourcer - Temporary](https://boards.greenhouse.io/spacex/jobs/8676530002?gh_jid=8676530002) | McGregor, TX |  | 2026-10-19 | US citizens/persons only |
 | SpaceX | [Talent Sourcer - Temporary](https://boards.greenhouse.io/spacex/jobs/8632303002?gh_jid=8632303002) | Starbase, TX |  | 2026-10-19 | US citizens/persons only |

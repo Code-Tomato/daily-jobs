@@ -1,6 +1,6 @@
 # New grad and entry level: Education
 
-356 open, newest first (by the date the scraper first saw them), updated 2026-11-07.
+356 open, newest first (by the date the scraper first saw them), updated 2026-11-08.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -346,10 +346,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Texas Children's Hospital | [Diabetes Educator II](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/427793) | Houston, TX, United States |  | 2026-10-20 |  |
 | Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=925621) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-10-20 |  |
 | ICF | [Library Technician](https://careers.icf.com/us/en/job/R2603422) | Bethesda, Maryland, United States of America | $50,605 to $86,028 | 2026-10-20 | clearance |
-| University of Texas at Austin | [Development Specialist, Cockrell School of Engineering](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Development-Specialist--Cockrell-School-of-Engineering_R_00049314) | UT MAIN CAMPUS |  | 2026-10-20 |  |
-| East Texas A&M University | [Adjunct Faculty - Music (Specific Positions)](https://tamus.wd1.myworkdayjobs.com/ETAMU_External/job/Commerce-TX/Adjunct-Faculty---Music--Specific-Positions-_R-084144) | Commerce, TX |  | 2026-10-20 |  |
 | KLA | [Technical Instructor (EBEAM)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--EBEAM-_2639119) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |
 | KLA | [Technical Instructor (FAST)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--FAST-_2639121) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |
+| University of Texas at Austin | [Development Specialist, Cockrell School of Engineering](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Development-Specialist--Cockrell-School-of-Engineering_R_00049314) | UT MAIN CAMPUS |  | 2026-10-20 |  |
+| East Texas A&M University | [Adjunct Faculty - Music (Specific Positions)](https://tamus.wd1.myworkdayjobs.com/ETAMU_External/job/Commerce-TX/Adjunct-Faculty---Music--Specific-Positions-_R-084144) | Commerce, TX |  | 2026-10-20 |  |
 | UT Dallas | [Program Specialist I](https://jobs.utdallas.edu/postings/32839) | Richardson, TX | $50,000 to $52,500 | 2026-10-20 |  |
 | Texas Health Resources | [Admissions Specialist-ER-PRN](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26008277&lang=en) | Fort Worth |  | 2026-10-20 |  |
 | Christus Health | [Dietician - Oncology](https://careers.christushealth.org/opportunity/dietician-oncology-381661) | Longview, TX, US |  | 2026-10-20 |  |

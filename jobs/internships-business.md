@@ -1,14 +1,16 @@
 # Internships and co-ops: Business, consulting and operations
 
-2,470 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,438 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Clera | [Operations Intern](https://jobs.ashbyhq.com/Clera/5c1f661e-9c3a-4cca-bd47-ba792ded5f3b) | Salt Lake City | $20 to $25/hour | 2026-11-08 | no visa sponsorship |
+| MSCI | [Intern – Data Transformation](https://msci.jibeapply.com/careers-home/jobs/6071) | New York, New York | $35/hour | 2026-11-08 |  |
+| moomoo | [Unpaid - Integrated Marketing & Business Development Intern](https://apply.workable.com/j/6E0B16508F) | Jersey City, New Jersey, United States |  | 2026-11-08 |  |
 | City and County of San Francisco | [San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5380 Planning Intern (Leve](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016714676-san-francisco-municipal-transportation-agency-student-intern-program-summer-2027-5380-planning-intern-level-1-) · Summer 2027 | San Francisco, CA, us | $37.95/hour | 2026-11-07 |  |
 | City and County of San Francisco | [San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5381 Planning Intern (Leve](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016714356-san-francisco-municipal-transportation-agency-student-intern-program-summer-2027-5381-planning-intern-level-2-) · Summer 2027 | San Francisco, CA, us | $40.77/hour | 2026-11-07 |  |
-| Clera | [Operations Intern](https://jobs.ashbyhq.com/Clera/2b7aaf17-480b-4fc2-8af6-0da8e0e58781) | Salt Lake City | $20 to $25/hour | 2026-11-07 | no visa sponsorship |
 | Shield AI | [2027 Summer Intern - Supplier Development Engineer - 6463](https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753) · Summer 2027 | Dallas, Texas |  | 2026-11-07 |  |
 | Zoox | [Process Improvement Intern [2027]](https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852) · Fall 2027 | Foster City, CA |  | 2026-11-07 |  |
 | Zoox | [Safety Reporting & Benchmarking Intern [Summer 2027]](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db) · Summer 2027 | Foster City, CA |  | 2026-11-07 |  |
@@ -53,7 +55,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TikTok | [Dine-In Creator Operations Intern (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7704961831681132805) | Los Angeles, California, United States of America |  | 2026-11-07 |  |
 | TikTok | [Data Operations Intern (SoundOn) - 2027 Start](https://lifeattiktok.com/search/7704912455690504453) | Los Angeles, California, United States of America |  | 2026-11-07 |  |
 | TikTok | [Travel Creator Operations Intern (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7678597116231158069) | Los Angeles, California, United States of America |  | 2026-11-07 |  |
-| Nationwide | [Summer 2027 Enterprise Risk Management Internship](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Enterprise-Risk-Management-Internship_100097) · Summer 2027 | Ohio - Columbus Metro | $23 to $50/hour | 2026-11-06 |  |
 | The New York Times | [Interactive News Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) · Summer 2027 | New York, NY (hybrid) | $40/hour | 2026-11-06 |  |
 | Amgen | [Grad Intern – R&D Execution, Strategy & Operations (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---R-D-Execution--Strategy---Operations--Summer-2027-_R-259397) · Summer 2027 | United States - Remote | $35.34 to $41.20/hour | 2026-11-06 |  |
 | Ardham Technologies | [Operations Intern](https://ardham.bamboohr.com/careers/37) | Albuquerque, New Mexico, United States |  | 2026-11-06 |  |
@@ -633,7 +634,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Barnhart Crane & Rigging | [Administrative Intern](https://barnhart-crane-rigging.breezy.hr/p/c175cdcba2df-administrative-intern) | Memphis, TN |  | 2026-11-04 |  |
 | Bay Mills Community College | [Student Employee-TRIO Assistant](https://bmcc.bamboohr.com/careers/248) · Fall 2026 | Brimley, Michigan, United States |  | 2026-11-04 |  |
 | Cigna | [Accredo Product - Summer Intern](https://jobs.thecignagroup.com/us/en/job/26009464) · Summer 2027 | St. Louis, Missouri, United States of America (hybrid) |  | 2026-11-04 | no visa sponsorship |
-| Cisco | [Business Analyst I (Intern) United States](https://careers.cisco.com/global/en/job/2024552) | San Jose, California, United States of America | $44,000 to $185,000 | 2026-11-04 |  |
 | City of New York | [Community Organizing and Engagement Intern](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016579596-community-organizing-and-engagement-intern) | New York City, NY, us | $18/hour | 2026-11-04 |  |
 | Constellation Energy | [2027 Business Manager Intern - Geysers](https://jobs.constellationenergy.com/careers-home/jobs/141648) | ; Middletown, California |  | 2026-11-04 |  |
 | Daimler Truck North America | [Supply Chain Management & Customer Interface Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Supply-Chain-Management---Customer-Interface-Intern_DT-20525) | Detroit, MI US | $21 to $29/hour | 2026-11-04 |  |
@@ -666,9 +666,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ParetoHealth | [Growth Operations Summer Intern](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726002006) · Summer 2027 | Philadelphia, Pennsylvania, United States |  | 2026-11-04 | no visa sponsorship |
 | ParetoHealth | [Sales Associate Summer Intern](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725332006) · Summer 2027 | Philadelphia, Pennsylvania, United States |  | 2026-11-04 | no visa sponsorship |
 | Woolpert | [Intern, Aviation Planning (Spring 2027)](https://job-boards.greenhouse.io/woolpert/jobs/4474136009) · Spring 2027 | Cincinnati, OH | $23 to $27/hour | 2026-11-04 | no visa sponsorship |
-| Clera | [Strategy & Operations Working Student](https://jobs.ashbyhq.com/Clera/d393193b-048f-44c5-93d9-1452994c1a03) | San Francisco |  | 2026-11-04 | no visa sponsorship |
-| Clera | [Strategic Operations Intern](https://jobs.ashbyhq.com/Clera/87228ec1-05b1-498f-9010-4df91e0d8f47) | San Francisco |  | 2026-11-04 | no visa sponsorship |
-| Clera | [Founders Associate Intern](https://jobs.ashbyhq.com/Clera/41248971-00e4-4d69-9be7-46d382fba02e) | San Francisco | $80,000 to $110,000 | 2026-11-04 | no visa sponsorship |
 | AECOM | [Aviation Planning Intern](https://jobs.smartrecruiters.com/AECOM2/744000158841084-aviation-planning-intern) | Philadelphia, PA, us |  | 2026-11-04 | no visa sponsorship |
 | Beli | [Strategy & Operations Intern - Summer 2027](https://beli.breezy.hr/p/db2b39aebadf-strategy-operations-intern-summer-2027) · Summer 2027 | New York, NY |  | 2026-11-04 |  |
 | Center for Strategic and International Studies, Inc. | [Spring Intern, Critical Minerals Security Program](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4462565009) · Spring | Washington, D.C. | $18.40 to $20.40/hour | 2026-11-04 |  |
@@ -756,3 +753,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Panaro Group | [INTERNSHIP: Recruiting and Operations Assistant](https://jobs.smartrecruiters.com/ThePanaroGroup/744000156308831-internship-recruiting-and-operations-assistant) | Pewaukee, WI, us | $17/hour | 2026-11-04 |  |
 | Ursa Major | [2027 Summer People Operations Intern](https://ursamajor.com/careers/?gh_jid=4745117005) · Summer 2027 | Berthoud, Colorado | $30/hour | 2026-11-04 | US citizens/persons only |
 | US Internships Public Careers Site | [Strategy Intern – MBA](https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221790004) | United States, Los Angeles, CA; United States, San Mateo, CA | $40.25 to $43.75/hour | 2026-11-04 | no visa sponsorship |
+| Veolia Environnement SA | [Metershop Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156409010-metershop-intern) | Jersey City, NJ, us | $21/hour | 2026-11-04 |  |
+| Veolia Environnement SA | [Ion Exchange Operations Intern-SPSC](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156384029-ion-exchange-operations-intern-spsc) | St. Peters, MO, us |  | 2026-11-04 |  |
+| wardstone.space | [MBA Intern](https://jobs.gem.com/wardstone-space/am9icG9zdDrrXmmBBbVYfa_LTZQv1bSb) | El Segundo |  | 2026-11-04 | clearance |

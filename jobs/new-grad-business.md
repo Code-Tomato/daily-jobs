@@ -1,11 +1,59 @@
 # New grad and entry level: Business, consulting and operations
 
-11,070 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+11,056 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Ascension | [Unit Assistant General Medicine](https://jobs.ascension.org/us/en/job/28545) | Panama City, FL, US |  | 2026-11-08 |  |
+| Domino's | [Entry Level Manager (06163)](https://jobs.smartrecruiters.com/Dominos/744000160475866-entry-level-manager-06163-) | White House, TN, us |  | 2026-11-08 |  |
+| Domino's | [Level 1 Assistant Manager(02354) - 1240 Spinning Road](https://jobs.smartrecruiters.com/Dominos/744000160472198-level-1-assistant-manager-02354-1240-spinning-road) | Dayton, OH, us |  | 2026-11-08 |  |
+| Domino's | [Level 1 Assistant Manager(07178) - 1723 NE Andresen](https://jobs.smartrecruiters.com/Dominos/744000160464953-level-1-assistant-manager-07178-1723-ne-andresen) | Vancouver, WA, us | $16.66 to $18.97/hour | 2026-11-08 |  |
+| Domino's | [Entry Level Manager (05451)](https://jobs.smartrecruiters.com/Dominos/744000160467210-entry-level-manager-05451-) | Gallatin, TN, us |  | 2026-11-08 |  |
+| Domino's | [Level 1 Assistant Manager](https://jobs.smartrecruiters.com/Dominos/744000160462904-level-1-assistant-manager) | Chicago, IL, us |  | 2026-11-08 |  |
+| Domino's | [Assistant Manager(03380) 6405 Dysinger Rd](https://jobs.smartrecruiters.com/Dominos/744000160454661-assistant-manager-03380-6405-dysinger-rd) | Lockport, NY, us |  | 2026-11-08 |  |
+| Domino's | [Level 1 Assistant Manager(02368) - 2298 S Smithville Rd](https://jobs.smartrecruiters.com/Dominos/744000160454967-level-1-assistant-manager-02368-2298-s-smithville-rd-) | Kettering, OH, us |  | 2026-11-08 |  |
+| Domino's | [Entry Level Manager (06329)](https://jobs.smartrecruiters.com/Dominos/744000160457622-entry-level-manager-06329-) | Chapel Hill, TN, us |  | 2026-11-08 |  |
+| Domino's | [Assistant Manager(01883) 401 West Villard, Suite #101 & #102](https://jobs.smartrecruiters.com/Dominos/744000160457428-assistant-manager-01883-401-west-villard-suite-101-102) | Dickinson, ND, us |  | 2026-11-08 |  |
+| Domino's | [Level 1 Assistant Manager(05853)- 1710 decatur hwy #100](https://jobs.smartrecruiters.com/Dominos/744000160457338-level-1-assistant-manager-05853-1710-decatur-hwy-100) | Fultondale, AL, us |  | 2026-11-08 |  |
+| Domino's | [Entry Level Manager (05417)](https://jobs.smartrecruiters.com/Dominos/744000160457129-entry-level-manager-05417-) | Nashville, TN, us |  | 2026-11-08 |  |
+| Domino's | [Entry Level Manager (06158)](https://jobs.smartrecruiters.com/Dominos/744000160456093-entry-level-manager-06158-) | Portland, TN, us |  | 2026-11-08 |  |
+| Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/e2613ef0-b37c-42ab-aae2-3b47162a9401) | Chicago | $180,000 to $250,000 | 2026-11-08 |  |
+| Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/eb6318f2-957c-4d2b-8c44-054a0ef049a3) | Boston | $180,000 to $250,000 | 2026-11-08 |  |
+| Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/28b62bdc-3d36-47eb-980d-4f52455cc3f2) | Dallas | $180,000 to $250,000 | 2026-11-08 |  |
+| Prosperity Bank | [Floater (Full Time) - Harvard](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604778&lang=en_US) | Tulsa, OK, US |  | 2026-11-08 |  |
+| S&P Global | [Analyst, Research – CERAWeek Program Team](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Washington-DC/Analyst--Research---CERAWeek-Program-Team_332703-1) | Washington DC | $85,000 to $93,000 | 2026-11-08 |  |
+| Texas Children's Hospital | [Technical Coordinator - POCT/LIS](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428660) | Katy, TX, United States |  | 2026-11-08 |  |
+| Blue Origin | [Buyer - Supply Chain](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Buyer---Supply-Chain_R74544) | Greater Seattle Area | $64,548 to $90,366.15 | 2026-11-08 | US citizens/persons only |
+| Brilliant Corners | [Temporary Housing Coordinator](https://apply.workable.com/j/40861CD229) | Los Angeles, California, United States | $24.04 to $29.14/hour | 2026-11-08 |  |
+| Charter Communications | [Advertising Account Executive](https://jobs.spectrum.com/job/sarasota/advertising-account-executive/4673/102999198256) | Sarasota, Florida |  | 2026-11-08 | no visa sponsorship |
+| Domino's | [Administrative Assistant](https://jobs.smartrecruiters.com/Dominos/744000160451969-administrative-assistant) | Denver, CO, us | $22.50/hour | 2026-11-08 |  |
+| JPMorgan Chase | [Relationship Manager I - Officer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806469) | Cincinnati, OH, United States |  | 2026-11-08 |  |
+| JPMorgan Chase | [Business Relationship Manager I - Officer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806895) | Providence, RI, United States |  | 2026-11-08 |  |
+| JPMorgan Chase | [Business Relationship Manager I - Officer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807307) | New York, NY, United States |  | 2026-11-08 |  |
+| Reformation | [Sales Associate, Full-Time - Georgetown](https://job-boards.greenhouse.io/reformation/jobs/8362974) | Washington, DC | $18 to $20/hour | 2026-11-08 |  |
+| Reformation | [Sales Associate, Part-Time - Bloomingdales Soho](https://job-boards.greenhouse.io/reformation/jobs/8363066) | New York, NY | $16 to $25/hour | 2026-11-08 |  |
+| Reformation | [Sales Associate, Part-Time - Santa Monica](https://job-boards.greenhouse.io/reformation/jobs/8357790) | Santa Monica, CA | $16 to $25/hour | 2026-11-08 |  |
+| SpaceX | [Production Coordinator](https://boards.greenhouse.io/spacex/jobs/8934413002?gh_jid=8934413002) | Long Beach, CA | $22 to $30/hour | 2026-11-08 | US citizens/persons only |
+| Anthro | [Associate Electrolyte Engineer](https://apply.workable.com/j/363AB590D3) | Alameda, California, United States | $88,000 to $110,000 | 2026-11-08 |  |
+| Blue Raster | [CityWorks Analyst](https://apply.workable.com/j/6122C7DC5C) | United States (remote) |  | 2026-11-08 | no visa sponsorship |
+| Charger Logistics Inc | [Dispatch Coordinator (Morning Shift)](https://apply.workable.com/j/7B18D25BFB) | Mexicali, Baja California, Mexico |  | 2026-11-08 |  |
+| Claritas Rx | [Associate Business Analyst](https://apply.workable.com/j/B189E68843) | United States | $60,000 to $70,000 | 2026-11-08 |  |
+| tarte cosmetics | [Associate Graphic Designer, Visual Merchandising](https://apply.workable.com/j/F1FBBE64E6) | New York, New York, United States | $66,500 to $75,000 | 2026-11-08 |  |
+| Action1 | [Business Development Representative](https://apply.workable.com/j/7D0553D5D0) | United States |  | 2026-11-08 |  |
+| 1915 South / Ashley | [Associate of Guest Solutions](https://apply.workable.com/j/C917FCDDAF) | Greensboro, North Carolina, United States |  | 2026-11-08 |  |
+| tarte cosmetics | [Logistics Coordinator (Temp)](https://apply.workable.com/j/573072864B) | New York, New York, United States (hybrid) | $32/hour | 2026-11-08 |  |
+| tarte cosmetics | [Coordinator, DTC Insights & Fraud](https://apply.workable.com/j/66911B4E51) | New York, New York, United States | $66,350 to $66,500 | 2026-11-08 |  |
+| AMAX | [Pricing and Business Optimization Specialist](https://apply.workable.com/j/7E4E08F082) | Fremont, United States |  | 2026-11-08 |  |
+| talentpluto | [Business Development Representative](https://apply.workable.com/j/58A1000283) | New York, New York, United States | $75,000 to $115,000 | 2026-11-08 |  |
+| talentpluto | [Business Development Representative](https://apply.workable.com/j/9349E8C081) | New York, New York, United States | $70,000 to $120,000 | 2026-11-08 |  |
+| talentpluto | [Account Associate](https://apply.workable.com/j/A0B1355850) | New York, New York, United States | $85,000 to $125,000 | 2026-11-08 |  |
+| talentpluto | [Business Development Representative](https://apply.workable.com/j/EEB670F2DA) | New York, New York, United States | $80,000 to $120,000 | 2026-11-08 |  |
+| talentpluto | [Founding Account Executive](https://apply.workable.com/j/F629D3956B) | United States | $100,000 to $250,000 | 2026-11-08 |  |
+| talentpluto | [Growth Associate](https://apply.workable.com/j/9E848336AF) | New York, New York, United States | $80,000 to $140,000 | 2026-11-08 |  |
+| iT1 | [Warehouse Associate I](https://apply.workable.com/j/4E1FE6BAFD) | Tempe, Arizona, United States |  | 2026-11-08 |  |
+| 1915 South / Ashley | [Associate of Guest Solutions](https://apply.workable.com/j/BF9215A704) | Harvey, Louisiana, United States |  | 2026-11-08 |  |
 | AbbVie | [Associate Engineer, Technology I](https://jobs.smartrecruiters.com/AbbVie/3743990016714871-associate-engineer-technology-i) | North Chicago, IL, us |  | 2026-11-07 |  |
 | AIR Communities | [Apartment Leasing Sales Consultant - Creekside](https://jobs.smartrecruiters.com/AIRCommunities/744000160314019-apartment-leasing-sales-consultant-creekside) | Denver, CO, us | $20 to $21/hour | 2026-11-07 |  |
 | Ascension | [Armed Security Officer](https://jobs.ascension.org/us/en/job/27867) | Austin, TX, US |  | 2026-11-07 |  |
@@ -121,6 +169,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Domino's | [Entry Level Manager (06190)](https://jobs.smartrecruiters.com/Dominos/744000160319519-entry-level-manager-06190-) | Mount Juliet, TN, us |  | 2026-11-07 |  |
 | Domino's | [Entry Level Manager (01490)](https://jobs.smartrecruiters.com/Dominos/744000160316701-entry-level-manager-01490-) | Clarksville, TN, us |  | 2026-11-07 |  |
 | Domino's | [Level 1 Assistant Manager(06187) - 114 East Broadway Blvd.](https://jobs.smartrecruiters.com/Dominos/744000160315085-level-1-assistant-manager-06187-114-east-broadway-blvd-) | Jefferson City, TN, us |  | 2026-11-07 |  |
+| Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a) | New York | $180,000 to $250,000 | 2026-11-07 |  |
+| Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/ac406ea9-bd7f-4a50-9341-8370ceca3949) | San Francisco | $180,000 to $250,000 | 2026-11-07 |  |
 | Hinge Health | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/hinge-health/5a3d69d7-ed52-48e2-8d0d-1b88cf1f369e) | San Francisco-HQ |  | 2026-11-07 |  |
 | JPMorgan Chase | [Business Relationship Manager I- Officer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806094) | Las Vegas, NV, United States |  | 2026-11-07 |  |
 | Modern Family Law | [Associate Attorney](https://apply.workable.com/j/5B9F9BC2D8) | Petaluma, California, United States (remote) | $135,000 to $182,100 | 2026-11-07 |  |
@@ -199,9 +249,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Eurofins | [Sample Registration Specialist - Data Entry - Tues-Sat 3rd shift - Environment Testing](https://jobs.smartrecruiters.com/Eurofins/744000160300900-sample-registration-specialist-data-entry-tues-sat-3rd-shift-environment-testing-) | Lancaster, PA, us |  | 2026-11-07 |  |
 | Eurofins | [Asbestos PLM Analyst - Eurofins Built Environment Testing - Portland, OR](https://jobs.smartrecruiters.com/Eurofins/744000160297482-asbestos-plm-analyst-eurofins-built-environment-testing-portland-or) | Portland, OR, us | $22 to $26/hour | 2026-11-07 |  |
 | Eye Care Partners | [Front Office Specialist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8933182002) | Affton, MO |  | 2026-11-07 |  |
-| Eye Care Partners | [Front Office Specialist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8933212002) | Maplewood, MO |  | 2026-11-07 |  |
 | Eye Care Partners | [Front Office Specialist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8933321002) | Paducah, KY |  | 2026-11-07 |  |
 | Eye Care Partners | [Front Office Specialist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8933193002) | Kirkwood, MO |  | 2026-11-07 |  |
+| Eye Care Partners | [Front Office Specialist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8933212002) | Maplewood, MO |  | 2026-11-07 |  |
 | Federal Reserve System | [Assistant Community Regional Specialty Bank (CRSB)- Safety & Soundness](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Assistant-Community-Regional-Specialty-Bank--CRSB---Safety---Soundness_R-0000034041-1) | Chicago, IL | $69,700 to $82,400 | 2026-11-07 | US citizens/persons only |
 | Fifth Third Bank | [Legal Operations Servicing Specialist](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Legal-Operations-Servicing-Specialist_R74783) | Cincinnati, OH |  | 2026-11-07 |  |
 | fonio | [Account Executive (US)](https://jobs.ashbyhq.com/fonio/32ad3d88-e4aa-4925-a3bd-bc8a996fd3a3) | New York | $240,000 to $300,000 | 2026-11-07 |  |
@@ -238,7 +288,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Mindrift | [On-Site Recruitment Coordinator (Temporary Employee)](https://apply.workable.com/j/3169855D0A) | Sunnyvale, California, United States (remote) | $30/hour | 2026-11-07 |  |
 | Mindrift | [On-Site Recruitment Coordinator (Temporary Employee)](https://apply.workable.com/j/DE6E9274F5) | San Jose, California, United States (remote) | $30/hour | 2026-11-07 |  |
 | Mindrift | [On-Site Recruitment Coordinator (Temporary Employee)](https://apply.workable.com/j/94DF860B2D) | Fremont, California, United States (remote) | $30/hour | 2026-11-07 |  |
-| Mission Healthcare | [Scheduling Coordinator](https://job-boards.greenhouse.io/missionhealthcare/jobs/4484970009) | Vancouver, WA | $26/hour | 2026-11-07 |  |
 | Moleskine America, Inc. | [Retail Sales Associate - Lexington](https://ats.rippling.com/moleskine/jobs/9604a831-4bb7-459e-a602-bc6e12f42bd5) | New York, NY |  | 2026-11-07 |  |
 | Moleskine America, Inc. | [Seasonal Sales Associate - Time Warner](https://ats.rippling.com/moleskine/jobs/1055925d-29f6-46c7-aa26-f1343c11395a) | New York, NY |  | 2026-11-07 |  |
 | Morrison Center | [CONTRACT: Case Management (4-Month Term)](https://morrisoncenter.bamboohr.com/careers/200) | Brewer, Maine, United States (Remote) | $65/hour | 2026-11-07 |  |
@@ -675,9 +724,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | EquipmentShare | [Warehouse Technology Associate](https://www.equipmentshare.com/careers/openings/?gh_jid=8319120) | Overland Park, KS (Telematics Warehouse) |  | 2026-11-06 |  |
 | EquipmentShare | [Warehouse Technology Associate](https://www.equipmentshare.com/careers/openings/?gh_jid=8319121) | Overland Park, KS (Telematics Warehouse) |  | 2026-11-06 |  |
 | EquipmentShare | [Warehouse Technology Associate](https://www.equipmentshare.com/careers/openings/?gh_jid=8315961) | Overland Park, KS (Telematics Warehouse) |  | 2026-11-06 |  |
+| Eye Care Partners | [Front Office Specialist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8932567002) | Goodyear, AZ |  | 2026-11-06 |  |
 | Eye Care Partners | [Front Office Specialist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8931774002) | Fairfield, OH |  | 2026-11-06 |  |
 | Eye Care Partners | [Front Office Specialist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8931960002) | Chesterfield, MO |  | 2026-11-06 |  |
-| Eye Care Partners | [Front Office Specialist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8932567002) | Goodyear, AZ |  | 2026-11-06 |  |
 | Eye Care Partners | [Sales Associate / Optician - Training provided!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8932027002) | Creve Couer, MO |  | 2026-11-06 |  |
 | Eye Care Partners | [Sales Associate / Optician - Training Provided!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8932682002) | Olathe, KS |  | 2026-11-06 |  |
 | F. Schumacher & Co. | [Brand Marketing Assistant](https://job-boards.greenhouse.io/fschumacherco/jobs/5474536008) | New York, New York | $50,000 to $55,000 | 2026-11-06 |  |
@@ -707,52 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Jack Link's Protein Snacks | [Sanitation - Production Worker - Rotational Nights](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000159896310-sanitation-production-worker-rotational-nights) | New Glarus, WI, us | $16.96 to $25.44/hour | 2026-11-06 |  |
 | JPMorgan Chase | [Transactions Specialist I - Receivable Operations](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796564) | Chicago, IL, United States |  | 2026-11-06 | clearance |
 | JPMorgan Chase | [Business Relationship Manager I](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805834) | Rye, NY, United States |  | 2026-11-06 |  |
-| JPMorgan Chase | [Client Onboarding Implementation Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807051) | Charlotte, NC, United States |  | 2026-11-06 | no visa sponsorship |
-| Kimberly-Clark | [Supply Chain Development Program Associate I](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/Beech-Island-SC-USA/Supply-Chain-Development-Program-Associate-I_887409) | Beech Island, SC, USA |  | 2026-11-06 | no visa sponsorship |
-| Kinder Morgan | [Operations Specialist, Level 1-4 (Dumas, TX)](https://careers.kindermorgan.com/careers-home/jobs/6640) | DUMAS, Texas |  | 2026-11-06 |  |
-| Kinly | [Project Coordinator](https://careers.kinly.com/o/project-coordinator-10) | New York City, NY, US; Tampa, FL, US; Cary, NC, US | $65,000 to $75,000 | 2026-11-06 |  |
-| LA Clippers | [Partnership Strategy Coordinator](https://www.nba.com/clippers/company/careers/openpositionlaclippers?gh_jid=4727379006) | Inglewood, CA | $68,000 to $70,000 | 2026-11-06 |  |
-| LIGHTFEATHER IO LLC | [Junior Business Analyst](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5473211008) | Arlington, VA | $50,000 to $60,000 | 2026-11-06 |  |
-| LPL Financial | [AML Analyst](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/AML-Analyst_R-054693) | Tempe | $28.62 to $47.74/hour | 2026-11-06 |  |
-| Marksman Security LLC | [Part Time Dispatch Officer](https://job-boards.greenhouse.io/marksman/jobs/4482282009) | TBMNC: 4857 Dogwood Ln Liberty, NC 27298 |  | 2026-11-06 |  |
-| McAdams | [Planner II](https://job-boards.greenhouse.io/mcadams/jobs/5286531007) | Raleigh, North Carolina, United States |  | 2026-11-06 |  |
-| Memorial Hermann | [Supplemental HR Coordinator](https://jobs.memorialhermann.org/us/en/job/100188738) | Houston, Texas, United States of America (hybrid) |  | 2026-11-06 |  |
-| Molina Healthcare | [Specialist, Facilities](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040158) | Bedford, TX, United States |  | 2026-11-06 |  |
-| Monarch Communities | [Move-In Coordinator](https://jobs.smartrecruiters.com/MonarchCommunities/744000159948759-move-in-coordinator) | Princeton, NJ, us |  | 2026-11-06 |  |
-| Monumental Sports & Entertainment | [Coordinator, Member Experience](https://job-boards.greenhouse.io/monumentalsports/jobs/5286229007) | Washington, DC 20004 | $19.24 to $21.65/hour | 2026-11-06 |  |
-| Munson Healthcare | [Office Coordinator - Ambulatory Surgery Center - Gaylord, MI](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016657626-office-coordinator-ambulatory-surgery-center-gaylord-mi-) | Gaylord, Michigan, us |  | 2026-11-06 |  |
-| Mural Group | [Production Associate](https://jobs.ashbyhq.com/themuralgroup/3e17efce-b380-4afb-b4c2-0e8180002f6a) | Englewood, CO | $22.50 to $24/hour | 2026-11-06 |  |
-| Mural Group | [Production Associate](https://jobs.ashbyhq.com/themuralgroup/da8d0736-934b-48cf-a5ba-813ab2a91adf) | Minneapolis, MN | $22 to $23.50/hour | 2026-11-06 |  |
-| Nationwide Vision | [Front Office Specialist](https://job-boards.greenhouse.io/nationwidevision/jobs/8932564002) | Goodyear, AZ |  | 2026-11-06 |  |
-| Nordstrom | [Seasonal Asset Protection - Coordinator - Downtown Portland](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Portland-OR/Seasonal-Asset-Protection---Coordinator---Downtown-Portland_R-895759) | Portland, OR | $22.10 to $23/hour | 2026-11-06 |  |
-| Nourish | [Provider Partnerships Associate (Territory Sales)](https://job-boards.greenhouse.io/usenourish/jobs/5474694008) | San Francisco, CA |  | 2026-11-06 |  |
-| Nourish | [Provider Partnerships Associate (Territory Sales - Spanish Speaking)](https://job-boards.greenhouse.io/usenourish/jobs/5474725008) | Jersey City, NJ |  | 2026-11-06 |  |
-| NOV | [Warehouse Coordinator](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/45666) | China Grove, TX, United States |  | 2026-11-06 |  |
-| ONEOK | [Energy Management Systems Analyst](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Tulsa-OK/Energy-Management-Systems-Analyst_R9120) | Tulsa, OK | $74,000 to $112,000 | 2026-11-06 |  |
-| ONEOK | [Corporate Aircraft Scheduler](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Tulsa-OK/Corporate-Aircraft-Scheduler_R9161-1) | Tulsa, OK | $74,000 to $110,000 | 2026-11-06 |  |
-| Paychex | [Channel Sales Associate - CPA](https://careers.paychex.com/careers-home/jobs/48737) | Las Vegas, Nevada |  | 2026-11-06 |  |
-| Perry Ellis International | [Fabric Library Associate](https://job-boards.greenhouse.io/perryellisinternational/jobs/4727336006) | New York, New York, United States | $70,000 to $80,000 | 2026-11-06 |  |
-| Preload | [Junior Buyer](https://job-boards.greenhouse.io/preload/jobs/5286912007) | Louisville, KY | $52,000 to $55,000 | 2026-11-06 |  |
-| Primark | [Sales Associate (Part-Time)](https://jobs.smartrecruiters.com/Primark/744000159961959-sales-associate-part-time-) | Grapevine, TEXAS, us | $15/hour | 2026-11-06 |  |
-| Prudential | [Sales Support Administrator](https://pru.wd5.myworkdayjobs.com/Careers/job/Warrington-PA-USA/Sales-Support-Administrator_R-125388-1) | Warrington, PA, USA | $57,200 to $94,400 | 2026-11-06 |  |
-| PTC | [Analyst, Solution Sales Strategy & Operations](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Analyst--Solution-Sales-Strategy---Operations_JR113036) | Boston, MA, USA | $75,000 to $95,000 | 2026-11-06 | no visa sponsorship |
-| Quantum Space | [Production Coordinator](https://job-boards.greenhouse.io/quantumspacellc/jobs/4482872009) | Rockville, MD |  | 2026-11-06 | US citizens/persons only |
-| Raising Cane's | [Restaurant Manager (Hourly Manager)](https://jobs.smartrecruiters.com/RaisingCanes/744000159981209-restaurant-manager-hourly-manager-) | Brooklyn, NY, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159978869-restaurant-manager) | Albuquerque, NM, us |  | 2026-11-06 |  |
-| Raising Cane's | [Hourly Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159956139-hourly-restaurant-manager) | Memphis, TN, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159948774-restaurant-zone-manager) | Champaign, IL, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159936139-restaurant-zone-manager) | Centennial, CO, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159936039-restaurant-zone-manager) | Laurel, MS, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159934389-restaurant-zone-manager) | Bossier City, LA, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159933739-restaurant-manager) | Centennial, CO, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159929629-restaurant-zone-manager) | Belton, MO, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159923644-restaurant-manager) | Overland Park, KS, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159927459-restaurant-zone-manager) | Toledo, OH, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159925201-restaurant-manager) | Ann Arbor, MI, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159918956-restaurant-zone-manager) | Addison, TX, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159914335-restaurant-zone-manager) | Des Peres, MO, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159909970-restaurant-manager) | Dallas, TX, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Manager - Hourly Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159882934-restaurant-manager-hourly-manager-) | The Colony, TX, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159883030-restaurant-manager) | Groveport, OH, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159876059-restaurant-manager) | Kenosha, WI, us |  | 2026-11-06 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000159871760-restaurant-zone-manager) | Perrysburg, OH, us |  | 2026-11-06 |  |

@@ -1,11 +1,35 @@
 # New grad and entry level: Healthcare
 
-11,854 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+11,865 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Ascension | [Patient Care Tech Observation](https://jobs.ascension.org/us/en/job/28368) | Panama City, FL, US |  | 2026-11-08 |  |
+| Ascension | [New Grad Registered Nurse General Medicine](https://jobs.ascension.org/us/en/job/28538) | Panama City, FL, US |  | 2026-11-08 |  |
+| Ascension | [Medical Assistant Internal Medicine](https://jobs.ascension.org/us/en/job/28066) | Jacksonville, FL, US |  | 2026-11-08 |  |
+| Ascension | [Patient Care Technician Emergency Room](https://jobs.ascension.org/us/en/job/27009) | Mount Pleasant, WI, US |  | 2026-11-08 |  |
+| Centene | [Care Coordinator II](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Care-Coordinator-II_1662023) | Remote-MO | $17.84 to $28.02/hour | 2026-11-08 |  |
+| Texas Children's Hospital | [Patient Care Assistant - Emergency Room (PT, Nights)](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428585) | Houston, TX, United States |  | 2026-11-08 |  |
+| Texas Children's Hospital | [Patient Care Assistant - NICU 4 (Nights)](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428654) | Houston, TX, United States |  | 2026-11-08 |  |
+| UnitedHealth Group | [Pharmacy Technician](https://careers.unitedhealthgroup.com/job/bend/pharmacy-technician/34088/103016264976) | Bend, Oregon | $16 to $29/hour | 2026-11-08 |  |
+| UnitedHealth Group | [Medical Social Work Hospice - Worcester, MA](https://careers.unitedhealthgroup.com/job/leominster/medical-social-work-hospice-worcester-ma/34088/103014420032) | Leominster, Massachusetts | $73,040 to $109,560 | 2026-11-08 |  |
+| UnitedHealth Group | [LPN Hospice - Woburn, MA](https://careers.unitedhealthgroup.com/job/woburn/lpn-hospice-woburn-ma/34088/103014419968) | Woburn, Massachusetts | $34.35 to $41.95/hour | 2026-11-08 |  |
+| Ascension | [New Grad Registered Nurse Residency Pediatric Post Op Surgical Trauma](https://jobs.ascension.org/us/en/job/25291) · Winter 2027 | Austin, TX, US |  | 2026-11-08 |  |
+| BAYADA Home Health Care | [Certified Caregivers](https://jobs.bayada.com/en/jobs?gh_jid=8934429002) | New Bern, NC 28560 / 35.092988804 / -77.013945019 |  | 2026-11-08 |  |
+| One Medical | [Float Medical Receptionist (Bethesda)](http://www.onemedical.com/careers/all-departments/8362989?gh_jid=8362989) | Bethesda, MD | $21.50/hour | 2026-11-08 |  |
+| UnitedHealth Group | [Physical Therapist Home Health](https://careers.unitedhealthgroup.com/job/blue-ridge/physical-therapist-home-health/34088/102987353504) | Blue Ridge, Georgia | $82,048 to $123,072 | 2026-11-08 |  |
+| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/blue-ridge/rn-case-manager/34088/102987353136) | Blue Ridge, Georgia | $38.09 to $68.56/hour | 2026-11-08 |  |
+| UnitedHealth Group | [Licensed Practical Nurse](https://careers.unitedhealthgroup.com/job/cumming/licensed-practical-nurse/34088/102987353360) | Cumming, Georgia | $27.36 to $49.25/hour | 2026-11-08 |  |
+| UnitedHealth Group | [Licensed Practical Nurse](https://careers.unitedhealthgroup.com/job/demorest/licensed-practical-nurse/34088/102987353424) | Demorest, Georgia | $27.36 to $49.25/hour | 2026-11-08 |  |
+| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/demorest/rn-case-manager/34088/102987353184) | Demorest, Georgia | $38.09 to $68.56/hour | 2026-11-08 |  |
+| Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician - Murfreesboro, TN](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6251361004?gh_jid=6251361004) | Murfreesboro, Tennessee, United States |  | 2026-11-08 |  |
+| AdvisaCare | [Home Health or Hospice Registered Nurse](https://apply.workable.com/j/6C51DC0C72) | Cadillac, Michigan, United States |  | 2026-11-08 |  |
+| Activate Care | [Registered Nurse, In-Home Health Assessments](https://apply.workable.com/j/CBFA7D7F3A) | Richmond, Massachusetts, United States |  | 2026-11-08 | no visa sponsorship |
+| One Medical | [Medical Receptionist (Union Station)](http://www.onemedical.com/careers/all-departments/8348675?gh_jid=8348675) | Washington, DC | $21.50/hour | 2026-11-08 |  |
+| CVS Health | [Pharmacy Manager](https://jobs.cvshealth.com/us/en/job/R1071118) | 1800 BROADWAY AVE.,, Parkersburg, West Virginia,United States | $65 to $85/hour | 2026-11-08 |  |
+| Noah Medical | [Clinical Specialist - Buffalo, NY](https://job-boards.greenhouse.io/noahmedical/jobs/5383217008) | Remote, United States |  | 2026-11-08 |  |
 | Ascension | [Medical Front Office Orthopedics](https://jobs.ascension.org/us/en/job/24938) | Austin, TX, US |  | 2026-11-07 |  |
 | Ascension | [Patient Care Technician Neurology Stoke](https://jobs.ascension.org/us/en/job/11959) | Austin, TX, US |  | 2026-11-07 |  |
 | Ascension | [Patient Care Technician Orthopedic Medical Unit](https://jobs.ascension.org/us/en/job/25470) | Austin, TX, US |  | 2026-11-07 |  |
@@ -79,9 +103,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BAYADA Home Health Care | [New Graduate Residency for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933528002) | Creve Coeur, MO 63141 / 38.664963269 / -90.453608198 |  | 2026-11-07 |  |
 | BAYADA Home Health Care | [New Graduate Residency for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933531002) | Columbia, MO 65202 / 38.991450952 / -92.30727538 |  | 2026-11-07 |  |
 | BAYADA Home Health Care | [NICU Nurse - Home Care (LPN or RN)](https://jobs.bayada.com/en/jobs?gh_jid=8933591002) | Mars, PA 16046 / 40.690658884 / -80.041642785 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Nurse Residency Program for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933614002) | Springfield, MO 65801 / 37.215431 / -93.294903 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Nurse Residency Program for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933547002) | Saint Louis, MO 63101 / 38.630792361 / -90.192905144 |  | 2026-11-07 |  |
 | BAYADA Home Health Care | [Nurse Residency Program for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933548002) | Columbia, MO 65202 / 38.991450952 / -92.30727538 |  | 2026-11-07 |  |
+| BAYADA Home Health Care | [Nurse Residency Program for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933547002) | Saint Louis, MO 63101 / 38.630792361 / -90.192905144 |  | 2026-11-07 |  |
+| BAYADA Home Health Care | [Nurse Residency Program for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933614002) | Springfield, MO 65801 / 37.215431 / -93.294903 |  | 2026-11-07 |  |
 | BAYADA Home Health Care | [Occupational Therapist- Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8933181002) | Greenwood, IN 46142 / 39.620893648 / -86.152178737 |  | 2026-11-07 |  |
 | BAYADA Home Health Care | [Occupational Therapist, OT - Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8933649002) | Denver, CO 80022 / 39.855770567 / -104.85675072 |  | 2026-11-07 |  |
 | BAYADA Home Health Care | [Pediatric School Nurse, RN](https://jobs.bayada.com/en/jobs?gh_jid=8933730002) | Spring Valley, NY 10977 / 41.119281 / -74.045947578 | $45/hour | 2026-11-07 |  |
@@ -732,27 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Loma Linda University Health | [Clinical Nurse B-Inpatient (AUC)](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17999) | Murrieta, CA, United States |  | 2026-11-06 |  |
 | Mako Recruiting LLC | [Data Entry Tech - Pharmacy](https://makorecruiting.bamboohr.com/careers/109) | Jennerstown, Pennsylvania, United States |  | 2026-11-06 |  |
 | Marsh McLennan | [Client Service Representative - Employee Health & Benefits (Entry Level)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Schaumburg---Martingale/Client-Service-Representative---Employee-Health---Benefits--Entry-Level-_R_372015) | Schaumburg - Martingale | $34,650 to $64,575 | 2026-11-06 |  |
-| Marsh McLennan | [Associate Benefits Analyst – Employee Health & Benefits](https://mmc.wd1.myworkdayjobs.com/MMC/job/Troy---755-West-Big-Beaver/Associate-Benefits-Analyst---Employee-Health---Benefits_R_372005) | Troy - 755 West Big Beaver |  | 2026-11-06 |  |
-| McKesson | [Pharmacy Technician (CFaaS/Central Fill)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-NJ-Delran/Pharmacy-Technician--CFaaS-Central-Fill-_JR0156590) | USA, NJ, Delran | $21.50 to $32.25/hour | 2026-11-06 |  |
-| Mission Healthcare | [Hospice RN Case Manager / RNCM](https://job-boards.greenhouse.io/missionhealthcare/jobs/4478248009) | Murrieta, CA |  | 2026-11-06 |  |
-| Monarch Communities | [Care Manager (CNA/CHHA) Full Time 3p-11p](https://jobs.smartrecruiters.com/MonarchCommunities/744000159861036-care-manager-cna-chha-full-time-3p-11p) | Livingston, NJ, us | $21 to $22/hour | 2026-11-06 |  |
-| Munson Healthcare | [Medical Assistant - Sleep Disorders Clinic](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016679836-medical-assistant-sleep-disorders-clinic-) | Traverse City, Michigan, us |  | 2026-11-06 |  |
-| Munson Healthcare | [Medical Assistant - Sleep Disorders Clinic](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016679706-medical-assistant-sleep-disorders-clinic) | Traverse City, Michigan, us |  | 2026-11-06 |  |
-| Munson Healthcare | [Medical Assistant - Great Lakes Plastic Surgery Clinic](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016678826-medical-assistant-great-lakes-plastic-surgery-clinic) | Traverse City, Michigan, us |  | 2026-11-06 |  |
-| Munson Healthcare | [PRN Medical Assistant Regional Float - South Region](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016660196-prn-medical-assistant-regional-float-south-region) | Cadillac, Michigan, us |  | 2026-11-06 |  |
-| Nationwide Vision | [Optometric Technician - Training Provided!](https://job-boards.greenhouse.io/nationwidevision/jobs/8932575002) | Buckeye, AZ |  | 2026-11-06 |  |
-| Northwestern Memorial Healthcare | [Client Office Phlebotomist-Part-time Days RH](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000159983469-client-office-phlebotomist-part-time-days-rh) | Wheaton, IL, us |  | 2026-11-06 |  |
-| Northwestern Memorial Healthcare | [Clinic Assistant-Full Time, Mokena](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000159957475-clinic-assistant-full-time-mokena) | Mokena, IL, us |  | 2026-11-06 |  |
-| Northwestern Memorial Healthcare | [Clinic Assistant - Primary Care Full time Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000159957189-clinic-assistant-primary-care-full-time-days) | Chicago, IL, us |  | 2026-11-06 |  |
-| Northwestern Memorial Healthcare | [CT Technologist-Imaging Full Time Nights Sign On Bonus Eligible](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000159956679-ct-technologist-imaging-full-time-nights-sign-on-bonus-eligible) | Palos Heights, IL, us |  | 2026-11-06 |  |
-| Northwestern Memorial Healthcare | [New Grad Staff Nurse - Family Medicine Part-time Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000159946599-new-grad-staff-nurse-family-medicine-part-time-days) | Wheaton, IL, us |  | 2026-11-06 |  |
-| Northwestern Memorial Healthcare | [New Grad Staff Nurse - Family Medicine Full-time Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000159941599-new-grad-staff-nurse-family-medicine-full-time-days) | Geneva, IL, us |  | 2026-11-06 |  |
-| Northwestern Memorial Healthcare | [Nurse Clinician-Cardiology Part Time Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000159930839-nurse-clinician-cardiology-part-time-days) | Lake Forest, IL, us |  | 2026-11-06 |  |
-| Northwestern Memorial Healthcare | [Registered Nurse General Surgery Full time](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000159913884-registered-nurse-general-surgery-full-time-) | Wheaton, IL, us |  | 2026-11-06 |  |
-| One Medical | [Early Career - Primary Care Physician - Family Medicine (All Ages) - Sign-On Bonus Available, 4 days in clinic](http://www.onemedical.com/careers/all-departments/8181407?gh_jid=8181407) | Culver City, CA (remote) | $248,300 to $279,300 | 2026-11-06 |  |
-| One Medical | [Early Career - Primary Care Physician - Internal Medicine (Adults) - Sign-On Bonus Available, 4 days in clinic](http://www.onemedical.com/careers/all-departments/8355901?gh_jid=8355901) | Los Angeles, CA (remote) | $248,300 to $279,300 | 2026-11-06 |  |
-| Parallel | [Virtual School Psychologist - Virginia](https://job-boards.greenhouse.io/parallellearning/jobs/4702069005) | Virginia, United States (remote) |  | 2026-11-06 |  |
-| POD Health | [Medical Assistant/Community Outreach & Engagement (Bilingual: Spanish)](https://podhealth.bamboohr.com/careers/545) | Downtown Orlando, Florida, United States |  | 2026-11-06 |  |
-| Pure Infusion | [Patient Access Coordinator - Helena](https://ats.rippling.com/pure-infusion/jobs/7fe4c039-0d9e-455d-99a7-6cfe5522c8bf) | Helena, MT |  | 2026-11-06 |  |
-| Roshal Health | [CT Technologist - Oshkosh, WI](https://jobs.lever.co/roshalimaging/7663d3ef-caeb-48ea-8385-bde169bf4dbc) | Oshkosh, WI |  | 2026-11-06 |  |
-| Salina Family Healthcare Center | [Pharmacy Technician](https://salinahealth.bamboohr.com/careers/360) | Salina , Kansas, United States | $17.50 to $18.95/hour | 2026-11-06 |  |

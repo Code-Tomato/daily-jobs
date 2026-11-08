@@ -1,11 +1,12 @@
 # New grad and entry level: Data, ML and AI
 
-1,748 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,742 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| John Deere | [Data & Analytics Development Program I](https://careers.deere.com/careers/job/137482523381) | Moline, IL, US |  | 2026-11-08 | no visa sponsorship |
 | Domino's | [Shift Manager(06748) - 7901 Research Forest Dr., 300](https://jobs.smartrecruiters.com/Dominos/744000160389280-shift-manager-06748-7901-research-forest-dr-300) | The Woodlands, TX, us |  | 2026-11-07 |  |
 | Domino's | [Shift Manager(09274) - 13764 Research Blvd](https://jobs.smartrecruiters.com/Dominos/744000160353889-shift-manager-09274-13764-research-blvd) | Austin, TX, us |  | 2026-11-07 |  |
 | Air Products | [Product Development Research Engineer](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/St-Louis-Missouri/Product-Development-Research-Engineer_JR-2026-23099) | St. Louis, Missouri |  | 2026-11-07 |  |
@@ -755,4 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Deeter Analytics | [Junior Quantitative Researcher](https://jobs.ashbyhq.com/deeter-analytics/a93aae94-6025-4977-a5c0-657874c6a230) | US - Remote |  | 2026-11-04 |  |
 | FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/1193b9bd1d39-remote-data-entry-online-research-panelist-work-from-home) | Port St. Lucie, FL (remote) |  | 2026-11-04 |  |
 | FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/816326c3006e-remote-data-entry-online-research-panelist-work-from-home) | Cape Coral, FL (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/e687e4a1475e-remote-data-entry-online-research-panelist-work-from-home) | Long Beach, CA (remote) |  | 2026-11-04 |  |

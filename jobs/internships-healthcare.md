@@ -1,11 +1,16 @@
 # Internships and co-ops: Healthcare
 
-2,835 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,837 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Tenet Healthcare | [Radiology Tech - Student Extern](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028357) | West Palm Beach, FL, United States |  | 2026-11-08 |  |
+| CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1097862) | 190 S. SANDUSKY ST., Delaware, Ohio,United States | $23.75 to $42/hour | 2026-11-08 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1086033) | 1800 BROADWAY AVE.,, Parkersburg, West Virginia,United States | $30 to $42/hour | 2026-11-08 |  |
+| CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R0996710) | 16001 MIRAMAR PKWY, Miramar, Florida,United States | $24.25 to $42/hour | 2026-11-08 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1043623) | 1800 BROADWAY AVE.,, Parkersburg, West Virginia,United States | $20 to $23.75/hour | 2026-11-08 |  |
 | Ascension | [Nursing Intern](https://jobs.ascension.org/us/en/job/27973) | Oshkosh, WI, US |  | 2026-11-07 |  |
 | Tenet Healthcare | [Radiology Tech - Student Extern](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028352) | West Palm Beach, FL, United States |  | 2026-11-07 |  |
 | Tenet Healthcare | [Radiology Tech - Student Extern](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028359) | West Palm Beach, FL, United States |  | 2026-11-07 |  |
@@ -355,10 +360,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | B&S Site Development | [Occupational Health & Safety (OHS) Intern (Midwest)](https://job-boards.greenhouse.io/bssitedevelopment/jobs/4473326009) | Columbus, Ohio | $25/hour | 2026-11-04 |  |
 | B&S Site Development | [Occupational Health & Safety (OHS) Internship (Northern Virginia)](https://job-boards.greenhouse.io/bssitedevelopment/jobs/4473333009) | Manassas, Virginia | $25/hour | 2026-11-04 |  |
 | Citizens Health | [Pharmacy Intern](https://cmciks.bamboohr.com/careers/422) | Colby, Kansas, United States |  | 2026-11-04 |  |
-| Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921666002) | Jackson, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
 | Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921662002) | Garden City, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
-| Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921676002) | Detroit, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
 | Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921694002) | Woodhaven, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
+| Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921676002) | Detroit, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
+| Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921666002) | Jackson, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
 | Henry Ford Health | [Nurse Extern - Progressive Care](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016478017-nurse-extern-progressive-care) | Rochester, MI, us |  | 2026-11-04 |  |
 | Ramboll | [Intern, Environment & Health](https://jobs.smartrecruiters.com/Ramboll3/744000158349199-intern-environment-health) | Baton Rouge, Louisiana, us | $20 to $25/hour | 2026-11-04 |  |
 | Christus Health | [Medical Assistant Non Certified - *Nursing Externship Program*](https://careers.christushealth.org/opportunity/medical-assistant-non-certified-nursing-externship-program-395217) | Sulphur Springs, TX, US |  | 2026-11-04 |  |
@@ -751,8 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1093186) | 2803 MAYBANK HWY, Johns Island, South Carolina,United States | $20 to $23.75/hour | 2026-11-03 |  |
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1093496) | 1020 ORANGE GROVE RD., Charleston, South Carolina,United States | $20 to $23.75/hour | 2026-11-03 |  |
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1093196) | 2152 SAVANNAH HWY., Charleston, South Carolina,United States | $20 to $23.75/hour | 2026-11-03 |  |
-| Tenet Healthcare | [Pharmacist Intern](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603025852) | Phoenix, AZ, United States |  | 2026-11-03 |  |
-| Tenet Healthcare | [Nurse Extern Program](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028249) | Rock Hill, SC, United States |  | 2026-11-03 |  |
-| Ascension | [Spring 2027 Nurse Extern](https://jobs.ascension.org/us/en/job/18707) · Spring 2027 | TULSA, OK, US |  | 2026-11-02 |  |
-| CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1092846) | 1855 GATTIS SCHOOL RD, Round Rock, Texas,United States | $23.75 to $42/hour | 2026-11-02 |  |
-| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1092764) | 105 WONDERWORLD DRIVE, San Marcos, Texas,United States | $30 to $42/hour | 2026-11-02 |  |

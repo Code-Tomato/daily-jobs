@@ -1,6 +1,6 @@
 # New grad and entry level: Civil, construction and environmental
 
-878 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+874 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -211,7 +211,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Duraframe LLC | [Junior Estimator-Construction](https://duraframellc.bamboohr.com/careers/28) | Webster, New York, United States |  | 2026-11-05 |  |
 | Ulliman Schutte | [Construction Laborer](https://ullimanschutte.bamboohr.com/careers/192) | Louisville, Kentucky, United States |  | 2026-11-05 |  |
 | MetriX Talent Solutions | [Technical Product Manager (Construction Technology)](https://jobs.smartrecruiters.com/MetriXTalentSolutions/744000028865831-technical-product-manager-construction-technology-) | San Francisco, CA, us |  | 2026-11-05 |  |
-| aeis llc | [Civil Inspector (ACI 1 / ACI 2)](https://aeis.bamboohr.com/careers/173) | New York, New York, United States | $32 to $36/hour | 2026-11-05 | no visa sponsorship |
 | Mechanical Solutions Inc. | [Project Engineer / TWC](https://mechanicalsolutions.bamboohr.com/careers/28) | St. Louis, Missouri, United States |  | 2026-11-05 |  |
 | Hicken Air | [Service Technician / Installer / Construction Tech](https://hickenair.bamboohr.com/careers/23) | Gilbert, Arizona, United States |  | 2026-11-05 |  |
 | Reytec Construction Resources, Inc. | [Field Engineer](https://reytec.bamboohr.com/careers/31) | Houston, Texas, United States |  | 2026-11-05 |  |
@@ -222,6 +221,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Gerber Collision & Glass | [Collision Estimator - Jacksonville New Bern](https://jobs.smartrecruiters.com/GerberCollisionGlass/99664903-collision-estimator-jacksonville-new-bern) | Jacksonville, NC, us |  | 2026-11-05 |  |
 | Gerber Collision & Glass | [Collision Estimator - Greenville Hooker](https://jobs.smartrecruiters.com/GerberCollisionGlass/99664841-collision-estimator-greenville-hooker) | Greenville, NC, us |  | 2026-11-05 |  |
 | Gerber Collision & Glass | [Estimator](https://jobs.smartrecruiters.com/GerberCollisionGlass/98490586-estimator) | Addison, IL, us |  | 2026-11-05 |  |
+| aeis llc | [Civil Inspector (ACI 1 / ACI 2)](https://aeis.bamboohr.com/careers/173) | New York, New York, United States | $32 to $36/hour | 2026-11-05 | no visa sponsorship |
 | Gardiner and Theobald LLP | [Graduate Assistant Surveyor (Cost Management) - US Based](https://gardiner.pinpointhq.com/en/postings/406e891e-fcdb-4745-8853-6ef16dd8492a) | Multiple, New York |  | 2026-11-05 |  |
 | Network Plus | [Trainee Traffic Management Project Manager](https://networkplus.pinpointhq.com/en/postings/643a7e8e-0d93-480d-939a-02c8548606dc) | Preston, Lancashire |  | 2026-11-05 |  |
 | Trilon Group | [Entry-Level Transportation Engineer](https://trilongroup.pinpointhq.com/en/postings/e489ba9b-57c9-4dbf-8a9e-a978bd6fd5b5) | Glen Allen, Virginia |  | 2026-11-05 | no visa sponsorship |

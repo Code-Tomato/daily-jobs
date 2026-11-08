@@ -1,11 +1,20 @@
 # New grad and entry level: Skilled trades, service and retail
 
-4,976 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+4,916 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Better Homes and Gardens Real Estate Advantage Realty | [Real Estate Data Entry Operator](https://jobs.smartrecruiters.com/BetterHomesAndGardensRealEstateAdvantageRealty/744000160484169-real-estate-data-entry-operator) | San Antonio, TX, us | $27.81 to $29.97/hour | 2026-11-08 |  |
+| Domino's | [Delivery Driver(05446)](https://jobs.smartrecruiters.com/Dominos/744000160472909-delivery-driver-05446-) | Hendersonville, TN, us |  | 2026-11-08 |  |
+| Domino's | [Delivery Driver(05785) - 1550 Chandler Road](https://jobs.smartrecruiters.com/Dominos/744000160465843-delivery-driver-05785-1550-chandler-road) | Statesboro, GA, us |  | 2026-11-08 |  |
+| Domino's | [Pizza Delivery Driver (7524)](https://jobs.smartrecruiters.com/Dominos/744000160463207-pizza-delivery-driver-7524-) | Draper, UT, us | $15 to $30/hour | 2026-11-08 |  |
+| Domino's | [Delivery Driver (03107) - 266 N Main St](https://jobs.smartrecruiters.com/Dominos/744000160459640-delivery-driver-03107-266-n-main-st) | Saint Albans City, VT, us |  | 2026-11-08 |  |
+| Domino's | [Pizza Delivery Driver- Flexible Schedule- Tips Paid Nightly (02549)](https://jobs.smartrecruiters.com/Dominos/744000160455575-pizza-delivery-driver-flexible-schedule-tips-paid-nightly-02549-) | Bedford, IN, us |  | 2026-11-08 |  |
+| Domino's | [Delivery Driver(09237) - 850 South Loop 336 West, Suite 700](https://jobs.smartrecruiters.com/Dominos/744000160453338-delivery-driver-09237-850-south-loop-336-west-suite-700) | Conroe, TX, us |  | 2026-11-08 |  |
+| Macy's | [Starbucks Barista Trainer, Westfarms - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/REQ_823608) | Farmington, CT, United States |  | 2026-11-08 |  |
+| iT1 | [Service Desk Technician I](https://apply.workable.com/j/E0CE0822BF) | United States |  | 2026-11-08 |  |
 | Ascension | [Technician Sterile Processing](https://jobs.ascension.org/us/en/job/27776) | Kokomo, IN, US |  | 2026-11-07 |  |
 | Better Homes and Gardens Real Estate Advantage Realty | [Real Estate Data Entry Operator](https://jobs.smartrecruiters.com/BetterHomesAndGardensRealEstateAdvantageRealty/744000160438019-real-estate-data-entry-operator) | San Antonio, TX, us | $27.81 to $29.97/hour | 2026-11-07 |  |
 | Cook Children's | [Cook I](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Cook-I_JR-119984) | Fort Worth, TX |  | 2026-11-07 |  |
@@ -301,7 +310,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Domino's | [Delivery Driver(08076) - 7410 West Adams Ave. Suite 100](https://jobs.smartrecruiters.com/Dominos/744000160003916-delivery-driver-08076-7410-west-adams-ave-suite-100) | Temple, TX, us |  | 2026-11-06 |  |
 | Domino's | [Delivery Driver(06577)](https://jobs.smartrecruiters.com/Dominos/744000159996345-delivery-driver-06577-) | Schertz, TX, us |  | 2026-11-06 |  |
 | Doxim | [Print Operator - 2nd Shift](https://job-boards.greenhouse.io/doxim/jobs/4483653009) | Doxim Phoenix |  | 2026-11-06 |  |
-| Entegris | [Chemical Operator, 2nd shift, 2 pm to 10 pm](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Chemical-Operator--Mon-Fri--2-30-pm--10-30-pm_REQ-12492-1) | Aurora, IL | $23 to $24/hour | 2026-11-06 |  |
+| Entegris | [Chemical Operator, 1st shift, Mon-Fri, 6 am to 2 pm](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Chemical-Operator--Mon-Fri--2-30-pm--10-30-pm_REQ-12492-1) | Aurora, IL | $23 to $24/hour | 2026-11-06 |  |
 | Harris Health | [Food Service Cashier](https://jobs.harrishealth.org/food-service-cashier/job/31B3EE7266BB78B8D90B7D271A5CCDC7) | Houston, TX, US |  | 2026-11-06 |  |
 | Kroger | [Reach Truck Operator](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/249436) | Phoenix, AZ, United States |  | 2026-11-06 |  |
 | Loma Linda University Health | [Operator Service Specialist 1](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17692) | Loma Linda, CA, United States |  | 2026-11-06 |  |
@@ -361,7 +370,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Macy's | [Starbucks Barista Trainer, La Plaza Mall - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/94448) | McAllen, TX, United States |  | 2026-11-06 |  |
 | Mission Critical Group | [Testing Technician](https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016661036-testing-technician) | West Chester, Pennsylvania, us |  | 2026-11-06 |  |
 | MKS Instruments | [Finishing Operator 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Broomfield-CO/Finishing-Operator-2_R23859) | Broomfield, CO |  | 2026-11-06 | US citizens/persons only |
-| MKS Instruments | [Finishing Operator 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Broomfield-CO/Finishing-Operator-2_R23858) | Broomfield, CO |  | 2026-11-06 | US citizens/persons only |
 | Monarch Communities | [Cook Part Time Evening Shift](https://jobs.smartrecruiters.com/MonarchCommunities/744000159865199-cook-part-time-evening-shift) | Livingston, NJ, us | $21 to $22/hour | 2026-11-06 |  |
 | Monos | [Host](https://monos.bamboohr.com/careers/106) | Chicago, Illinois, United States |  | 2026-11-06 |  |
 | Morguard | [Apartment Service Technician](https://jobs.smartrecruiters.com/Morguard/744000159942520-apartment-service-technician) | Atlanta, GA, us |  | 2026-11-06 |  |
@@ -499,7 +507,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Meritus Property Group | [Maintenance Technician](https://ats.rippling.com/meritus-property-group/jobs/fa08364a-bba7-4ae2-b666-15eb0d4c8f29) | Portland, OR | $25/hour | 2026-11-05 |  |
 | MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Andover-MA/Assembler-2_R23956) | Andover, MA | $16.70 to $27.83/hour | 2026-11-05 | US citizens/persons only |
 | MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Andover-MA/Assembler-2_R23745) | Andover, MA | $16.70 to $27.83/hour | 2026-11-05 | US citizens/persons only |
-| MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Methuen-MA/Assembler-2_R23848) | Methuen, MA | $14.75 to $24.58/hour | 2026-11-05 | US citizens/persons only |
 | Monarch Communities | [Dining Server part-time](https://jobs.smartrecruiters.com/MonarchCommunities/744000159737059-dining-server-part-time) | Southbury, CT, us | $17 to $18/hour | 2026-11-05 |  |
 | Monarch Communities | [Dining Server Full-time](https://jobs.smartrecruiters.com/MonarchCommunities/744000159736848-dining-server-full-time) | Southbury, CT, us | $17 to $18/hour | 2026-11-05 |  |
 | Monarch Communities | [Cook part-time](https://jobs.smartrecruiters.com/MonarchCommunities/744000159725967-cook-part-time) | Southbury, CT, us | $20 to $21/hour | 2026-11-05 |  |
@@ -749,10 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Amity Foundation | [Cook (LACTC)](https://jobs.lever.co/amityfdn/96778140-24f8-4797-843d-9f4cfcc6e61d) | 1301 Las Virgenes Rd. Calabasas, CA 91302 |  | 2026-11-05 |  |
 | Buck Mason | [Seasonal Part-Time Stylist (Nolita Men's)](https://jobs.lever.co/buckmason/6c9a0d90-2d34-4478-81ef-8e84d451bb0a) | New York, NY |  | 2026-11-05 |  |
 | Oil Changers | [Lube Technician and State Inspector (848)](https://oil-changers.breezy.hr/p/9b4fb2799d31-lube-technician-and-state-inspector-848) | Bee Cave, TX |  | 2026-11-05 |  |
-| World Oil | [Warehouse Technician I](https://worldoilcorp.bamboohr.com/careers/551) | Union City, California, United States |  | 2026-11-05 |  |
-| International Bulk Services | [Transloader](https://internationalbulk.bamboohr.com/careers/210) | Detroit, Michigan, United States |  | 2026-11-05 |  |
-| Amity Foundation | [Cook - Beacon (Part Time)](https://jobs.lever.co/amityfdn/560c98eb-ad45-42b8-855f-ea791aae0d01) | 811 Beacon Ave, Los Angeles, CA 90017 |  | 2026-11-05 |  |
-| Buck Mason | [Seasonal Part-Time Stylist (Flatiron Women's)](https://jobs.lever.co/buckmason/b93e044c-18aa-4f01-b1e6-33c139522fa1) | New York, NY |  | 2026-11-05 |  |
-| DAEOC | [Cook (Charleston HS)](https://daeoc.bamboohr.com/careers/419) | Charleston, Missouri, United States |  | 2026-11-05 |  |
-| MUSH | [Material Handler](https://mush.bamboohr.com/careers/107) | West Valley City, Utah, United States |  | 2026-11-05 |  |
-| MUSH | [Machine Operator](https://mush.bamboohr.com/careers/109) | West Valley City, Utah, United States |  | 2026-11-05 |  |

@@ -1,17 +1,19 @@
 # New grad and entry level: Other
 
-7,084 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+7,048 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Prosperity Bank | [Teller (Full Time) - Preston Forest](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604629&lang=en_US) | Dallas, TX, US |  | 2026-11-08 |  |
+| Prosperity Bank | [Teller (Part Time) - Tulsa, South Memorial](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604596&lang=en_US) | SOUTH MEMORIAL, Tulsa, OK, US |  | 2026-11-08 |  |
+| Prosperity Bank | [Teller (Full Time) - Victoria Salem](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604790&lang=en_US) | VICTORIA SALEM, Victoria, TX, US |  | 2026-11-08 |  |
+| City of New York | [Reporter / Stenographer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016718106-reporter-stenographer) | New York City, NY, us |  | 2026-11-08 |  |
 | Prosperity Bank | [Teller (Full Time) - Bryan](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604702&lang=en_US) | BRYAN -S TEXAS, Bryan, TX, US |  | 2026-11-07 |  |
 | Prosperity Bank | [Teller (Full Time) - Victoria Navarro](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604747&lang=en_US) | Victoria, TX, US |  | 2026-11-07 |  |
 | City of New York | [Aquatic Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016716586-aquatic-specialist) | New York City, NY, us | $107.50/hour | 2026-11-07 |  |
 | City of New York | [Adoption Subsidy Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016716431-adoption-subsidy-specialist) | New York City, NY, us | $60,428 to $64,600 | 2026-11-07 |  |
-| Harvey | [NY Standard Job Posting](https://jobs.ashbyhq.com/harvey/8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a) | New York | $180,000 to $250,000 | 2026-11-07 |  |
-| Harvey | [SF Standard Job Posting](https://jobs.ashbyhq.com/harvey/ac406ea9-bd7f-4a50-9341-8370ceca3949) | San Francisco | $180,000 to $250,000 | 2026-11-07 |  |
 | Prosperity Bank | [PT Teller - Cypress](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604574&lang=en_US) | Cypress -US 290, Cypress, TX, US |  | 2026-11-07 |  |
 | American Kids Sports Center | [Competitive Gymnastics Boys Team Coach](https://ats.rippling.com/american-kids-sports-center/jobs/6034ff03-f147-4309-9e3b-6d9c09f0b488) | Bakersfield, CA |  | 2026-11-07 |  |
 | Aurora Housing Authority | [Housing Specialist](https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000160256745-housing-specialist) | Aurora, CO, us | $26.50 to $28/hour | 2026-11-07 |  |
@@ -221,7 +223,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Prosperity Bank | [Teller (Full Time) - Glen Rose](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604717&lang=en_US) | Glen Rose, TX, US |  | 2026-11-05 |  |
 | Prosperity Bank | [Teller I (Full Time) - 110th St. Lubbock](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604691&lang=en_US) | 110TH-LUBBOCK, Lubbock, TX, US |  | 2026-11-05 |  |
 | AccorHotel | [Guest Services Representative / Part-Time](https://jobs.smartrecruiters.com/AccorHotel/744000159778075-guest-services-representative-part-time) | Wailea-Makena, HI, us | $31.78/hour | 2026-11-05 | no visa sponsorship |
-| Boston Scientific | [Inspector II](https://bostonscientific.eightfold.ai/careers/job/563602813894814) | Quincy, MA, US | $37,544 to $63,856 | 2026-11-05 | no visa sponsorship |
 | City of New York | [Referral Specialist, Bureau of Early Intervention](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016644236-referral-specialist-bureau-of-early-intervention) | Long Island City, NY, us |  | 2026-11-05 |  |
 | City of New York | [Aquatics Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016644186-aquatics-specialist) | Flushing, NY, us |  | 2026-11-05 |  |
 | City of New York | [Arborist Liaison](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016644056-arborist-liaison) | New York City, NY, us |  | 2026-11-05 | no visa sponsorship |
@@ -416,8 +417,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | iHomecare Solutions | [Direct Support Professional ( Full Time )](https://ihomecaresolutions.bamboohr.com/careers/160) | Mt. Oliver , Pennsylvania, United States |  | 2026-11-05 |  |
 | Lucas Tree Experts | [Arborist Trainee - Montpelier, VT](https://lucastree.bamboohr.com/careers/852) | Montpelier, Vermont, United States (Remote) | $18.50 to $24/hour | 2026-11-05 |  |
 | Soho House & Co. | [Cowshed Esthetician (Part-Time) - Soho House Chicago](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4979763101) | Soho House Chicago, 113-125 N Green St, Chicago, IL 60607 | $17.05/hour | 2026-11-05 |  |
-| Soho House & Co. | [Dishwasher (Porter) - Soho House West Hollywood](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4979813101) | Soho House West Hollywood, 9200 Sunset Blvd, West Hollywood, CA 90069 | $23 to $24/hour | 2026-11-05 |  |
 | Soho House & Co. | [Dishwasher (Porter) - Soho House West Hollywood](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4979812101) | Soho House West Hollywood, 9200 Sunset Blvd, West Hollywood, CA 90069 | $23 to $24/hour | 2026-11-05 |  |
+| Soho House & Co. | [Dishwasher (Porter) - Soho House West Hollywood](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4979813101) | Soho House West Hollywood, 9200 Sunset Blvd, West Hollywood, CA 90069 | $23 to $24/hour | 2026-11-05 |  |
 | Madison Reed | [Colorist, Licensed Cosmetologist](https://app.careerpuck.com/job-board/madisonreedcolorbar/job/8221706?gh_jid=8221706) | Laguna Niguel, CA | $43 to $45/hour | 2026-11-05 |  |
 | ILSC Education Group | [IELTS Invigilator](https://ilsc.bamboohr.com/careers/712) | Minneapolis, Minnesota, United States | $17/hour | 2026-11-05 |  |
 | Steigerwaldt Land Services | [Right of Way Agent - Wisconsin](https://steigerwaldt.bamboohr.com/careers/302) | Stevens Point, Wisconsin, United States (Remote) |  | 2026-11-05 |  |
@@ -712,6 +713,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Princess Cruises | [Jr Waiter (Japanese Speaking)](https://princesscruises.pinpointhq.com/en/postings/490af329-55b0-4447-8088-3fc532c736a0) | New York, New York |  | 2026-11-05 |  |
 | Smithsonian Institution | [Human Resource Specialist, ( IS-0201-12/13)](https://trustcareers.si.edu/en/postings/0e614118-3214-41cb-9cdb-b6a849738fd9) | Cambridge, MA |  | 2026-11-05 | no visa sponsorship |
 | TeleSolv Consulting | [Onsite- Secretary II - 580338](https://telesolvconsulting.pinpointhq.com/en/postings/7d631d76-fbe2-4cc0-becc-d81fef418957) | Phoenix, Arizona |  | 2026-11-05 |  |
+| Kombo | [Field Marketer](https://jobs.ashbyhq.com/Kombo/55273fc0-8350-4fdb-852c-acd1de0dbc8f) | New York Office |  | 2026-11-04 |  |
 | BAYADA Home Health Care | [HHA - Home Care - Private Dutu](https://jobs.bayada.com/en/jobs?gh_jid=8924518002) | Rockledge, FL 32956 / 28.307755 / -80.722125 | $16 to $18/hour | 2026-11-04 |  |
 | BAYADA Home Health Care | [Job Coach / Supportive Employment Tech](https://jobs.bayada.com/en/jobs?gh_jid=8930913002) | Muncy, PA 17756 / 41.210349124 / -76.761842029 | $25/hour | 2026-11-04 |  |
 | Bertelsmann | [Inventory Control Clerk](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000159676920-inventory-control-clerk) | Louisville, Kentucky (KY), us |  | 2026-11-04 |  |
@@ -754,5 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Baylor Scott & White Health | [CRNA Marble Falls](https://jobs.bswhealth.com/us/en/job/26020420) | Marble Falls, Texas, United States |  | 2026-11-04 |  |
 | Baylor Scott & White Health | [PRN Chaplain 1](https://jobs.bswhealth.com/us/en/job/26019979) | Dallas, Texas, United States |  | 2026-11-04 |  |
 | Baylor Scott & White Health | [CRNA Temple Surgery Center/Endo](https://jobs.bswhealth.com/us/en/job/26020421) | Temple, Texas, United States |  | 2026-11-04 |  |
-| Baylor Scott & White Health | [PRN Chaplain 1](https://jobs.bswhealth.com/us/en/job/26019977) | Dallas, Texas, United States |  | 2026-11-04 |  |
-| BGE Inc. Campus | [North Austin - Public Works, New Grad](https://job-boards.greenhouse.io/bgeinccampus/jobs/5471003008) | 101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728 |  | 2026-11-04 |  |

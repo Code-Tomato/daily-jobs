@@ -1,11 +1,15 @@
 # Internships and co-ops: Sales, marketing and communications
 
-1,135 open, newest first (by the date the scraper first saw them), updated 2026-11-07. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,102 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Clera | [Growth & Marketing Intern / New Grad](https://jobs.ashbyhq.com/Clera/bb423c6c-3d23-431f-875e-9240f17cb83b) | San Francisco |  | 2026-11-08 |  |
+| AJAIA | [Social Media and Marketing Intern (Winter 2027, Paid)](https://apply.workable.com/j/DCD0B2E0F5) · Winter 2027 | United States |  | 2026-11-08 |  |
+| moomoo | [Unpaid - Fall Semester Internship: Influencer Marketing](https://apply.workable.com/j/19D0593E3B) · Fall | Jersey City, New Jersey, United States |  | 2026-11-08 |  |
+| tarte cosmetics | [Fall 2026 Social Media Intern to Founder & CEO](https://apply.workable.com/j/9721B3607E) · Fall 2026 | New York, New York, United States | $21/hour | 2026-11-08 |  |
 | Adobe | [2027 Intern — Employee Communications](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Employee-Communications_R173412) | San Jose (hybrid) | $25 to $30/hour | 2026-11-07 |  |
 | AMAROK | [Sales Intern](https://job-boards.greenhouse.io/amarok/jobs/6242503004) | South Carolina, Columbia |  | 2026-11-07 |  |
 | American Rivers | [Digital Communications Intern (Spring 2027)](https://americanrivers.bamboohr.com/careers/233) · Spring 2027 | Remote |  | 2026-11-07 |  |
@@ -709,12 +713,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CulinaryLocal | [Marketing Intern MVP!](https://jobs.smartrecruiters.com/CulinaryLocal/84983692-marketing-intern-mvp-) | Atlanta, GA, us |  | 2026-11-04 |  |
 | The Aparecio Foundation, NFP | [Brand Manager Intern/Volunteer](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83462861-brand-manager) | Chicago, IL, us |  | 2026-11-04 |  |
 | The Aparecio Foundation, NFP | [Merchandise Internship](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83080452-merchandise-internship) | Chicago, IL, us |  | 2026-11-04 |  |
-| Boston Scientific | [Urology Field Sales Internship Summer 2027](https://bostonscientific.eightfold.ai/careers/job/563602813872715) · Summer 2027 | Marlboro, MA, US | $26/hour | 2026-11-03 | no visa sponsorship |
 | Formlabs | [Print Production Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8337242/apply/?gh_jid=8337242) · Spring 2027 | Somerville, MA |  | 2026-11-03 |  |
-| Boston Scientific | [Urology Field Sales Internship Summer 2027](https://bostonscientific.eightfold.ai/careers/job/563602813886387) · Summer 2027 | Marlboro, MA, US | $26/hour | 2026-11-03 | no visa sponsorship |
 | Comcast | [Spring 2027 Marketing Intern](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Spring-2027-Marketing-Intern_R448091) · Spring 2027 | PA - Philadelphia, 3601 S Broad St | $15/hour | 2026-11-03 |  |
-| HPE | [Marketing Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Marketing-Intern_1218185) | Spring, Texas, United States of America | $26 to $30/hour | 2026-11-03 |  |
-| Renesas | [Marketing Automation Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000159261864-marketing-automation-intern) | Plano, TEXAS, us |  | 2026-11-03 |  |
 | SAP | [SAP iXp Intern - Marketing Automation](https://jobs.sap.com/en/jobs/744000159191860/sap-ixp-intern-marketing-automation/) | Miami, Florida, US |  | 2026-11-03 |  |
 | The New York Times | [Marketing Intern, Games](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4749836005) | New York, NY (hybrid) | $20/hour | 2026-11-03 |  |
 | Verkada | [Sales Development Representative, Internship](https://job-boards.greenhouse.io/verkada/jobs/4995135007) | Austin, TX United States |  | 2026-11-03 | no visa sponsorship |
@@ -741,7 +741,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Keysight | [Quantum Product Marketing Engineer Intern](https://jobs.keysight.com/careers-home/jobs/54882) | Santa Rosa, California | $34.39 to $37.04/hour | 2026-10-30 | no visa sponsorship |
 | Kinder Morgan | [2027 BOLT Intern - Natural Gas Marketing](https://careers.kindermorgan.com/careers-home/jobs/6597) | HOUSTON, Texas |  | 2026-10-30 |  |
 | Walmart Global Tech | [(USA) 2027 Summer Corporate Intern: Corporate Product Marketing Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Upstream-Building-AR-Bentonville-Home-Office/XMLNAME--USA--2027-Summer-Corporate-Intern---Corporate-Product-Marketing-Intern_R-2690891) · Summer 2027 | (USA) Upstream Building AR Bentonville Home Office | $21 to $40/hour | 2026-10-30 |  |
-| Adobe | [2027 SAMI Intern – Adobe Sales Academy BDR](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-SAMI-Intern---Adobe-Sales-Academy-BDR_R173029) | San Jose | $25 to $30/hour | 2026-10-29 |  |
 | Constellation Energy | [2027 Summer Gas Sales Support Intern](https://jobs.constellationenergy.com/careers-home/jobs/140893) · Summer 2027 | De Pere, Wisconsin |  | 2026-10-29 |  |
 | Keysight | [Product Marketing & Technical Sales Content Production, Intern](https://jobs.keysight.com/careers-home/jobs/55234) · Summer 2027 | Austin, Texas |  | 2026-10-29 |  |
 | Lennox | [Multimedia/Social Media Intern - Summer 2027](https://globalcareers-lennox.icims.com/jobs/56176/multimedia-social-media-intern---summer-2027/job) · Summer 2027 | West Columbia, SC | $19.80 to $22/hour | 2026-10-28 |  |
@@ -749,10 +748,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Sonos | [Brand Design Intern (New York)](https://sonos.wd1.myworkdayjobs.com/Sonos/job/New-York-NY/Brand-Design-Intern--New-York-_R2877-1) · Winter 2027 | New York, NY |  | 2026-10-28 | no visa sponsorship |
 | Sonos | [Copywriting Intern (New York)](https://sonos.wd1.myworkdayjobs.com/Sonos/job/New-York-NY/Copywriting-Intern--New-York-_R2878-1) · Winter 2027 | New York, NY |  | 2026-10-28 |  |
 | Applied Materials | [2027 Summer Product Marketing Intern - BS or MS (Gloucester, MA)](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Product-Marketing-Intern---BS-or-MS--Gloucester--MA-_R2630824) · Summer 2027 | Gloucester,MA | $25 to $41/hour | 2026-10-28 |  |
-| HPE | [Customer Success Manager Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Customer-Success-Manager-Intern_1214116) | Alpharetta, Georgia, United States of America | $35 to $41/hour | 2026-10-28 |  |
-| Medtronic | [Medtronic PR Summer Internship 2027- Humacao and Juncos Site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Humacao-Puerto-Rico-United-States-of-America/Medtronic-PR-Summer-Internship-2027--Humacao-and-Juncos-Site_R77134-1) · Summer | Humacao, Puerto Rico, United States of America |  | 2026-10-28 |  |
-| Renesas | [Sales Engineering Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000158028669-sales-engineering-intern) | Farmington Hills, Michigan, us |  | 2026-10-28 |  |
-| Siemens | [Sales Development Program Internship](https://jobs.siemens.com/en_US/externaljobs/JobDetail/522491) | Dallas - Texas - United States of America; Nashville - Tennessee - Uni | $28/hour | 2026-10-28 |  |
-| Siemens | [Technical Writing Internship](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527345) · Summer 2027 | Chicago, Illinois, United States of America |  | 2026-10-28 | no visa sponsorship |
 | Bosch | [Human Resources Intern - Recruitment, Onboarding & Employer Brand](https://jobs.smartrecruiters.com/BoschGroup/744000157862490-human-resources-intern-recruitment-onboarding-employer-brand) | Farmington Hills, MI, us |  | 2026-10-28 |  |
 | Lennox | [Corporate Marketing and Communications Intern](https://globalcareers-lennox.icims.com/jobs/55594/corporate-marketing-and-communications-intern/job) | Richardson, TX | $19.80 to $22/hour | 2026-10-27 |  |
+| Lennox | [Marketing & Communications Intern](https://globalcareers-lennox.icims.com/jobs/55597/marketing-%26-communications-intern/job) | Richardson, TX | $19.80 to $22/hour | 2026-10-27 |  |
+| Monolithic Power Systems | [Marketing Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Kirkland-WA/Marketing-Intern_R-2066) | Kirkland, WA | $25 to $35/hour | 2026-10-27 |  |
+| Motorola Solutions | [Presales Engineering Intern- Summer 2027 Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Presales-Engineering-Intern--Summer-2027-Internship_R69922) · Summer 2027 | Chicago, IL |  | 2026-10-27 | no visa sponsorship |
+| Motorola Solutions | [COEE Presales System Engineer (2027 Internship)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/COEE-Presales-System-Engineer--2027-Internship-_R68359) | Chicago, IL |  | 2026-10-27 |  |
+| PTC | [Sales Intern (Summer 2027)](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Sales-Intern--Summer-2027-_JR112960) · Summer 2027 | Boston, MA, USA | $25 to $27/hour | 2026-10-27 | no visa sponsorship |
+| Siemens | [Building Automation Service Sales Intern](https://jobs.siemens.com/en_US/externaljobs/JobDetail/520740) · Summer 2027 | Minneapolis, Minnesota, United States of America | $24 to $28/hour | 2026-10-27 |  |
