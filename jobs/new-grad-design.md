@@ -1,11 +1,12 @@
 # New grad and entry level: Design and creative
 
-179 open, newest first (by the date the scraper first saw them), updated 2026-11-08.
+180 open, newest first (by the date the scraper first saw them), updated 2026-11-09.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Clera | [Founding Product Designer](https://jobs.ashbyhq.com/Clera/27f3a6c6-fdda-4912-ba33-5bc30c67280d) | San Francisco | $150,000 to $250,000 | 2026-11-09 |  |
 | Ares Technology | [BIM Designer I](https://ats.rippling.com/ares-technology-consultants-llc/jobs/b7a533bd-9a34-48c5-a1b1-9a766c274403) | Remote (United States) |  | 2026-11-07 |  |
 | Garmin | [Aviation Human Factors Designer 1](https://careers.garmin.com/careers-home/jobs/21949) | Olathe, Kansas |  | 2026-11-07 |  |
 | Online Labels Group | [Flexographic Press Operator](https://online-labels.breezy.hr/p/0a3c014235e6-flexographic-press-operator) | 12177 28th Street N St. Petersburg, FL |  | 2026-11-07 |  |

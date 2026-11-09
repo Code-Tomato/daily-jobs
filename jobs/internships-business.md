@@ -1,11 +1,24 @@
 # Internships and co-ops: Business, consulting and operations
 
-2,438 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,443 open, newest first (by the date the scraper first saw them), updated 2026-11-09. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Nationwide | [Summer 2027 State Product Analyst Intern - Personal Lines](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) · Summer 2027 | Iowa - Des Moines, 1100 Locust Street | $23 to $50/hour | 2026-11-09 |  |
+| Clera | [Founders Associate Intern](https://jobs.ashbyhq.com/Clera/6fd99c50-da91-459c-bbb3-f2642e69f9a2) | San Francisco | $80,000 to $110,000 | 2026-11-09 | no visa sponsorship |
+| Clera | [Strategy & Operations Working Student](https://jobs.ashbyhq.com/Clera/cf62b470-2f07-474a-b16b-34014982122c) | San Francisco |  | 2026-11-09 | no visa sponsorship |
+| Clera | [Strategic Operations Intern](https://jobs.ashbyhq.com/Clera/32723318-ef67-4c80-9e40-8818274bb8cf) | San Francisco |  | 2026-11-09 | no visa sponsorship |
+| Samsung Semiconductor | [Business Strategy & Intelligence Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Strategy---Intelligence-Intern_R121962) | 6625 Excellence Way, Plano, TX, USA |  | 2026-11-09 | no visa sponsorship |
+| Samsung Semiconductor | [Strategy Intern for National Retail and Strategic Accounts](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Strategy-Intern-for-National-Retail-and-Strategic-Accounts_R122002) | 6625 Excellence Way, Plano, TX, USA |  | 2026-11-09 | no visa sponsorship |
+| Samsung Semiconductor | [Summer Intern - DA eCommerce (B2B & Parts Strategy)](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---DA-eCommerce--B2B---Parts-Strategy-_R121992) · Summer | 6625 Excellence Way, Plano, TX, USA |  | 2026-11-09 | no visa sponsorship |
+| Ralph Moyle, Inc | [CDL-A Apprentice](https://ralphmoyle.bamboohr.com/careers/158) | Mattawan, Michigan, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Technical Intern, Project Administration](https://www.sgh.com/careers/job-openings/view-job/8911779002?gh_jid=8911779002) | Newport Beach, California, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
+| Tiverton Advisors | [Summer Analyst](https://jobs.smartrecruiters.com/TivertonAdvisors/744000152184355-summer-analyst) · Summer | Raleigh, NC, us |  | 2026-11-09 |  |
+| DeciBio Consulting | [Life Science Summer Analyst (2027)](https://www.decibio.com/careers/open-positions?gh_jid=8692893002) · Summer 2027 | Los Angeles | $1,500/week | 2026-11-09 |  |
+| Magnet Media, Inc. | [Business Operations Intern - Spring 2027](http://www.magnetmediafilms.com/careers?gh_jid=8036254) · Spring 2027 | New York, NY |  | 2026-11-09 |  |
+| KVG | [DoD SkillBridge Internship / Various Opportunities](https://kvg.bamboohr.com/careers/62) | KVG Global Locations. Our HQ is located in Gettysburg, Pennsylvania, U |  | 2026-11-09 |  |
 | Clera | [Operations Intern](https://jobs.ashbyhq.com/Clera/5c1f661e-9c3a-4cca-bd47-ba792ded5f3b) | Salt Lake City | $20 to $25/hour | 2026-11-08 | no visa sponsorship |
 | MSCI | [Intern – Data Transformation](https://msci.jibeapply.com/careers-home/jobs/6071) | New York, New York | $35/hour | 2026-11-08 |  |
 | moomoo | [Unpaid - Integrated Marketing & Business Development Intern](https://apply.workable.com/j/6E0B16508F) | Jersey City, New Jersey, United States |  | 2026-11-08 |  |
@@ -627,7 +640,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | GoFundMe | [MBA Business Operations Intern, Summer 2027](https://job-boards.greenhouse.io/gofundme/jobs/8350137) · Summer 2027 | San Francisco, CA (hybrid) | $75/hour | 2026-11-04 |  |
 | NMI | [Business Strategy Intern](https://job-boards.greenhouse.io/nmi/jobs/5470254008) · Summer 2027 | US, Remote | $25 to $35/hour | 2026-11-04 |  |
 | PatientPoint | [Process Improvement & Training Intern](https://job-boards.greenhouse.io/patientpoint/jobs/4751034005) | Cincinnati, Ohio, United States | $20 to $23/hour | 2026-11-04 |  |
-| Zebra Technologies | [2027 Summer Internship (US) - Strategy](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Strategy_JR103624-1) · Summer 2027 | Lincolnshire, Illinois | $25.50 to $33.50/hour | 2026-11-04 | no visa sponsorship |
 | Ayar Labs | [Intern, Business Development 3](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e44a7521772) | San Jose, CA, United States |  | 2026-11-04 |  |
 | Ayar Labs | [Intern, Business Development 2](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e4089c2163e) | San Jose, CA, United States |  | 2026-11-04 |  |
 | Ayar Labs | [Intern, Business Development 1](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e34d2701230) | San Jose, CA, United States |  | 2026-11-04 |  |
@@ -744,15 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Amplify | [Summer 2027: Corporate Strategy Intern](https://jobs.ashbyhq.com/amplify/9d58173f-3112-4c03-b393-3c2dab4c1e20) · Summer 2027 | Remote - United States |  | 2026-11-04 |  |
 | BrightHouse | [Strategy Intern (Summer 2027)](https://brighthouse.bamboohr.com/careers/152) · Summer 2027 | Atlanta, Georgia, United States |  | 2026-11-04 |  |
 | Four Hands | [Business Operations Analyst Intern](https://job-boards.greenhouse.io/fourhands/jobs/4458217009) · Spring 2027 | Austin, TX |  | 2026-11-04 |  |
-| Four Hands | [Demand Planning Intern](https://job-boards.greenhouse.io/fourhands/jobs/4458262009) · Spring 2027 | Austin, TX |  | 2026-11-04 |  |
-| Hasbro | [Spring 2027 Global Planning & Logistics Co-op (Jan - July 2027)](https://job-boards.greenhouse.io/hasbro/jobs/4456744009) · Spring 2027 | Boston, Massachusetts, United States (hybrid) | $25 to $35/hour | 2026-11-04 | no visa sponsorship |
-| KHAITE | [Buying & Planning Intern, Spring 2027](https://job-boards.greenhouse.io/khaite/jobs/5456817008) · Spring 2027 | New York, NY |  | 2026-11-04 |  |
-| Stratolaunch | [Government Relations Summer Intern](https://job-boards.greenhouse.io/stratolaunch/jobs/5457984008) · Summer 2027 | Washington, District of Columbia, United States | $28 to $31.25/hour | 2026-11-04 | US citizens/persons only, clearance |
-| Syngenta Group | [Seeds Operations Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000156339588-seeds-operations-intern) | Woodland, CALIFORNIA, us | $20 to $45/hour | 2026-11-04 |  |
-| Teamworks | [Strategy MBA Intern](https://jobs.ashbyhq.com/teamworks/ba8123e8-22f2-4898-a316-f479c5ac015b) | United States |  | 2026-11-04 | no visa sponsorship |
-| The Panaro Group | [INTERNSHIP: Recruiting and Operations Assistant](https://jobs.smartrecruiters.com/ThePanaroGroup/744000156308831-internship-recruiting-and-operations-assistant) | Pewaukee, WI, us | $17/hour | 2026-11-04 |  |
-| Ursa Major | [2027 Summer People Operations Intern](https://ursamajor.com/careers/?gh_jid=4745117005) · Summer 2027 | Berthoud, Colorado | $30/hour | 2026-11-04 | US citizens/persons only |
-| US Internships Public Careers Site | [Strategy Intern – MBA](https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221790004) | United States, Los Angeles, CA; United States, San Mateo, CA | $40.25 to $43.75/hour | 2026-11-04 | no visa sponsorship |
-| Veolia Environnement SA | [Metershop Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156409010-metershop-intern) | Jersey City, NJ, us | $21/hour | 2026-11-04 |  |
-| Veolia Environnement SA | [Ion Exchange Operations Intern-SPSC](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156384029-ion-exchange-operations-intern-spsc) | St. Peters, MO, us |  | 2026-11-04 |  |
-| wardstone.space | [MBA Intern](https://jobs.gem.com/wardstone-space/am9icG9zdDrrXmmBBbVYfa_LTZQv1bSb) | El Segundo |  | 2026-11-04 | clearance |

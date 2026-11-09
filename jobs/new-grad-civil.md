@@ -1,11 +1,25 @@
 # New grad and entry level: Civil, construction and environmental
 
-874 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+887 open, newest first (by the date the scraper first saw them), updated 2026-11-09. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Simpson Gumpertz & Heger | [Entry-level Engineer, Structural Engineering](https://www.sgh.com/careers/job-openings/view-job/8933171002?gh_jid=8933171002) | New York, New York, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Entry-Level, Structural Engineer](https://www.sgh.com/careers/job-openings/view-job/8922349002?gh_jid=8922349002) | Portland, Maine, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Entry-level Engineer, Structural Engineering](https://www.sgh.com/careers/job-openings/view-job/8908866002?gh_jid=8908866002) | Minneapolis, Minnesota, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Entry-Level, Structural Engineer 2027](https://www.sgh.com/careers/job-openings/view-job/8860968002?gh_jid=8860968002) | Los Angeles, California, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Entry-Level, Structural Engineer](https://www.sgh.com/careers/job-openings/view-job/8827568002?gh_jid=8827568002) | Denver, Colorado, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Entry-Level, Structural Engineer 2027](https://www.sgh.com/careers/job-openings/view-job/8814950002?gh_jid=8814950002) | Houston, Texas, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Entry-Level Structural Engineer, Advanced Analysis](https://www.sgh.com/careers/job-openings/view-job/8802204002?gh_jid=8802204002) | Waltham, Massachusetts, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Entry-Level Structural Engineer, Advanced Analysis](https://www.sgh.com/careers/job-openings/view-job/8802167002?gh_jid=8802167002) | Atlanta, Georgia, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Entry-level Engineer, Structural Engineering](https://www.sgh.com/careers/job-openings/view-job/8757582002?gh_jid=8757582002) | Waltham, Massachusetts, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Entry-level Engineer, Structural Engineering](https://www.sgh.com/careers/job-openings/view-job/8721991002?gh_jid=8721991002) | Chicago, Illinois, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Entry-level Engineer, Structural Engineering](https://www.sgh.com/careers/job-openings/view-job/8701339002?gh_jid=8701339002) | Oakland, California, United States |  | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Entry-level Engineer, Structural Engineering](https://www.sgh.com/careers/job-openings/view-job/8691534002?gh_jid=8691534002) | Washington, District of Columbia, United States |  | 2026-11-09 |  |
+| SB Energy | [Project Engineer - Data Center](https://sbenergy.com/careers/?gh_jid=6104522004) | Piketon, Ohio | $70,000 to $130,000 | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Structural Engineer, Advanced Analysis](https://www.sgh.com/careers/job-openings/view-job/8479639002?gh_jid=8479639002) | Newport Beach, California, United States; San Diego, California, Unite |  | 2026-11-09 |  |
 | Bohler | [Entry Level Civil Engineer - Land Development](https://jobs.gem.com/bohler-/am9icG9zdDoQ58KpAd5OxhajQYwbDaFr) | NY - Melville |  | 2026-11-07 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Entry Level Civil Engineer - Land Development](https://jobs.gem.com/bohler-/am9icG9zdDqGHUvHFlsI9Vahfj3k2jH2) | NY - Albany |  | 2026-11-07 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Entry Level Civil Engineer, Wastewater - Land Development](https://jobs.gem.com/bohler-/am9icG9zdDoQC1fCiCTOSdcG4_kF94Dr) | NY - Melville |  | 2026-11-07 | no visa sponsorship, US citizens/persons only |
@@ -498,13 +512,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Timmons Group | [New Graduate Project Engineer I - Traffic Analysis & Planning](https://jobs.smartrecruiters.com/TimmonsGroup1/744000146048559-new-graduate-project-engineer-i-traffic-analysis-planning) | Richmond, VA, us | $77,000 | 2026-11-04 |  |
 | AECOM | [Entry-Level Structural Engineer](https://jobs.smartrecruiters.com/AECOM2/744000145821446-entry-level-structural-engineer) | Roanoke, VA, us |  | 2026-11-04 | no visa sponsorship |
 | AECOM | [Entry-Level Civil Engineer – Roadway Designer](https://jobs.smartrecruiters.com/AECOM2/744000145725719-entry-level-civil-engineer-roadway-designer) | Columbia, SC, us |  | 2026-11-04 | no visa sponsorship |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381588009) | Pittsburgh, PA, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381585009) | King of Prussia, PA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381576009) | Columbia, MD, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381579009) | Columbus, OH, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381580009) | Indianapolis, IN, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381584009) | White Plains, NY, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381583009) | Louisville, KY, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381580009) | Indianapolis, IN, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381579009) | Columbus, OH, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381576009) | Columbia, MD, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381585009) | King of Prussia, PA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381588009) | Pittsburgh, PA, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379081009) | Louisville, KY, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379072009) | Columbus, OH, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379076009) | Indianapolis, IN, US |  | 2026-11-04 |  |
@@ -521,26 +535,26 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Hutker Architects, Inc. | [Architectural Designer I](https://jobs.lever.co/hutker-architects-inc/b69bc91b-5718-4a6a-8889-2678d775b558) | Boston, MA |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2026)](https://job-boards.greenhouse.io/arco/jobs/4380055009) | Orlando, FL, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2026)](https://job-boards.greenhouse.io/arco/jobs/4380054009) | Tampa, FL, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380635009) | Salt Lake City, UT, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380009009) | Atlanta, GA, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380083009) | Austin, TX, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380108009) | Dallas, TX, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380131009) | St. Louis Park, MN, US | $84,000 to $95,000 | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380151009) | Laredo, TX, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380196009) · Winter 2026 | Chicago, IL, US | $84,000 to $95,000 | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380231009) | Lakewood, CO, US | $84,000 to $95,000 | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380235009) | Charleston, SC, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380241009) | Ft. Lauderdale, FL, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380275009) | Nashville, TN, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380285009) | Emeryville, CA, US | $102,000 to $115,000 | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380453009) | Charlotte, NC, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380521009) | Greenville, SC, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380588009) | Charleston, SC, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380621009) | Ponte Vedra Beach, FL, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380630009) | Memphis, TN, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380640009) | Savannah, GA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380151009) | Laredo, TX, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380009009) | Atlanta, GA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380521009) | Greenville, SC, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380761009) | Raleigh, NC, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380788009) | Richmond, VA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380453009) | Charlotte, NC, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380285009) | Emeryville, CA, US | $102,000 to $115,000 | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380621009) | Ponte Vedra Beach, FL, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380131009) | St. Louis Park, MN, US | $84,000 to $95,000 | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380235009) | Charleston, SC, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380640009) | Savannah, GA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380630009) | Memphis, TN, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380083009) | Austin, TX, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380635009) | Salt Lake City, UT, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380231009) | Lakewood, CO, US | $84,000 to $95,000 | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380275009) | Nashville, TN, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380108009) | Dallas, TX, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380241009) | Ft. Lauderdale, FL, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379159009) | Charleston, SC, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379170009) | Charleston, SC, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379439009) | Salt Lake City, UT, US |  | 2026-11-04 |  |
@@ -742,17 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ISG | [Graduate Engineer - Civil](https://isginc.pinpointhq.com/en/postings/574485de-002b-45fc-882b-092fea985b59) | La Crosse, Wisconsin |  | 2026-11-04 |  |
 | ISG | [Graduate Engineer - Civil](https://isginc.pinpointhq.com/en/postings/f224e264-434a-48b0-8a24-5d52d46ab8d5) | Mankato, Minnesota |  | 2026-11-04 |  |
 | Magic, Inc | [Design & Pre-Construction Project Coordinator - Freelance, Remote](https://magic.pinpointhq.com/en/postings/e4dbd4dc-ca5b-4c53-ae26-d8943baf1f1e) | Taguig City, Metro Manila (Remote) | $7/hour | 2026-11-04 |  |
-| The Boring Company | [Civil Engineer](https://jobs.gem.com/the-boring-company/am9icG9zdDq9l8kiFdcsY_cCQFkzE1hZ) | Bastrop, TX |  | 2026-11-04 |  |
-| Trilon Group | [Entry Level Transportation Engineer](https://trilongroup.pinpointhq.com/en/postings/51c23407-4dc5-49dd-b702-ebcd1d1afaea) | Columbus, Ohio |  | 2026-11-04 |  |
-| Trilon Group | [Land Surveyor](https://trilongroup.pinpointhq.com/en/postings/f771e009-30f2-4bb6-865e-155c4b645bef) | Neptune, New Jersey |  | 2026-11-04 |  |
-| Trilon Group | [Field Civil Engineer](https://trilongroup.pinpointhq.com/en/postings/344b9942-6d23-49e6-8aa1-a5198b688c6a) | Salt Lake City, Utah |  | 2026-11-04 |  |
-| Trilon Group | [Entry-Level Civil/Environmental Engineer – Solid Waste](https://trilongroup.pinpointhq.com/en/postings/5736f848-8246-47c6-b9ce-50997d41e002) | Maumee, Ohio |  | 2026-11-04 |  |
-| Trilon Group | [Transportation Project Engineer I/II](https://trilongroup.pinpointhq.com/en/postings/e4356d4d-9216-4685-aad0-8b673706c388) | St. Louis, Missouri |  | 2026-11-04 |  |
-| Trilon Group | [Construction Inspector](https://trilongroup.pinpointhq.com/en/postings/2674ae2b-2082-44bb-a796-25d23117d47f) | Blacksburg, Virginia |  | 2026-11-04 | no visa sponsorship |
-| Trilon Group | [Junior Inspector - Construction Services (CEI)](https://trilongroup.pinpointhq.com/en/postings/2851be3f-ad70-4e0b-acc9-385397c61079) | Columbia, South Carolina |  | 2026-11-04 |  |
-| Trilon Group | [Project Engineer (EIT/EI) - Land Development](https://trilongroup.pinpointhq.com/en/postings/9716d326-acfb-4b45-8acc-243403ce97f6) | Linthicum Heights, Maryland |  | 2026-11-04 |  |
-| Trilon Group | [Civil Project Engineer - Land Development](https://trilongroup.pinpointhq.com/en/postings/63e1ef0d-40a7-483a-aa6e-2fffbb52e64c) | Sanford, Florida |  | 2026-11-04 |  |
-| Trilon Group | [Environmental Scientist I](https://trilongroup.pinpointhq.com/en/postings/e179c934-1b1f-44a0-93b5-92f0e2cb9cd5) | Waynesburg, Pennsylvania |  | 2026-11-04 |  |
-| Trilon Group | [Entry Level Roadway Engineer](https://trilongroup.pinpointhq.com/en/postings/902f938b-0d88-4410-a507-345a6da68851) | Sanford, Florida |  | 2026-11-04 |  |
-| Trilon Group | [Project Engineer (EIT)](https://trilongroup.pinpointhq.com/en/postings/2c2f1744-22bc-4df2-a95a-e5d8ee4e938b) | Miami, Florida |  | 2026-11-04 |  |
-| Trilon Group | [Civil Analyst I](https://trilongroup.pinpointhq.com/en/postings/17b7f7ed-8a32-4b6a-b72a-ae017e49ce4f) | Baton Rouge, Louisiana (hybrid) |  | 2026-11-04 |  |

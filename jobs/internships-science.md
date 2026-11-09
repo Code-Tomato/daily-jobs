@@ -1,11 +1,12 @@
 # Internships and co-ops: Science and research
 
-140 open, newest first (by the date the scraper first saw them), updated 2026-11-08.
+141 open, newest first (by the date the scraper first saw them), updated 2026-11-09.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| EDP Biotech Corporation | [Biotech Lab Intern](https://jobs.smartrecruiters.com/EDPBiotechCorporation/743999666568830-biotech-lab-intern) | Knoxville, TN, us |  | 2026-11-09 |  |
 | Henry Ford Health | [Research Student- Individual & Genomic Medicine](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016691296-research-student-individual-genomic-medicine) | Detroit, MI, us |  | 2026-11-07 |  |
 | Analog Devices | [Wet Lab Sensor Research Co-Op](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Wet-Lab-Sensor-Research-Co-Op_R268534-1) | US, MA, Boston | $22 to $41/hour | 2026-11-06 |  |
 | LLNL | [Center for Global Security Research (CGSR) Undergraduate Research Associate - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016680716-center-for-global-security-research-cgsr-undergraduate-research-associate-summer-2027) · Summer 2027 | Livermore, CA, us (hybrid) | $23.26 to $31.62/hour | 2026-11-06 | clearance |

@@ -1,11 +1,26 @@
 # New grad and entry level: Finance, accounting and banking
 
-2,639 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,649 open, newest first (by the date the scraper first saw them), updated 2026-11-09. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Associate Relationship Banker - Kercheval Saint Clair - Grosse Pointe, MI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807480) | Grosse Pointe, MI, United States |  | 2026-11-09 |  |
+| JPMorgan Chase | [Relationship Banker - Broadway and Cedar St - New York, NY](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807709) | New York, NY, United States |  | 2026-11-09 |  |
+| M&T Bank | [Universal Banker - Waterford, CT](https://mtb.wd5.myworkdayjobs.com/MTB/job/Waterford-CT/Universal-Banker---Waterford--CT_R91894-1) | Waterford, CT | $20.55 to $34.25/hour | 2026-11-09 |  |
+| Santander US | [Export & Agency Finance (EAF US) - LatAm Focus - Analyst](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Export---Agency-Finance--EAF-US----LatAm-Focus---Analyst_Req1632034) | Madison Ave Corp | $110,000 to $135,000 | 2026-11-09 |  |
+| TD Bank | [Associate Banker II - Kennebunk](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Kennebunk-Maine/Associate-Banker-II---Kennebunk_R_1519973) | Kennebunk, Maine | $22 to $27.75/hour | 2026-11-09 |  |
+| TD Bank | [Associate Banker I (20 Hours Weekly) - Pearl River](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Pearl-River-New-York/Associate-Banker-I--20-Hours-Weekly----Pearl-River_R_1519214) | Pearl River, New York | $23.25 to $29.75/hour | 2026-11-09 |  |
+| Huntington Bank | [Customer Experience Banker- Lisle, IL](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Lisle-IL/Customer-Experience-Banker--Lisle--IL_R0077320) | Lisle, IL | $23 to $26/hour | 2026-11-09 | no visa sponsorship |
+| JPMorgan Chase | [Relationship Banker SB Icon Buckhead, Atlanta](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807130) | Atlanta, GA, United States |  | 2026-11-09 |  |
+| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Littleton-CO/Personal-Banker_R-43136) | Littleton, CO | $20.67 to $31.25/hour | 2026-11-09 |  |
+| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Thornton-CO/Personal-Banker_R-43141) | Thornton, CO | $20.67 to $31.25/hour | 2026-11-09 |  |
+| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Meridian-ID/Personal-Banker_R-43145) | Meridian, ID | $20.67 to $31.25/hour | 2026-11-09 |  |
+| Phillips 66 | [Field Technician, Billings Midstream](https://careers.phillips66.com/job/Billings-Field-Technician%2C-Billings-Midstream-MT-59101/1443267300/) | Billings, MT, US | $81,000 to $114,400 | 2026-11-09 | US citizens/persons only |
+| High Performance Real Estate Advisors | [Experienced Real Estate Agents Wanted - Systems Provided to Help you Build Wealth!](https://high-performance-real-estate-advisors.breezy.hr/p/a7a8661b33e5-experienced-real-estate-agents-wanted-systems-provided-to-help-you-build-wealth) | Charlotte, NC | $25,000/month | 2026-11-09 |  |
+| Goldman Sachs | [Controllers / Analyst / New York / New Jersey](https://higher.gs.com/roles/187873) | New York, NY, United States; Jersey City, NJ, United States | $75,000 to $100,000 | 2026-11-09 |  |
+| Goldman Sachs | [Controllers, Analyst - Salt Lake City](https://higher.gs.com/roles/187877) | Salt Lake City, UT, United States |  | 2026-11-09 |  |
 | Ascension | [Claims Processing Assistant Neurosurgery](https://jobs.ascension.org/us/en/job/28050) | Jacksonville, FL, US |  | 2026-11-07 |  |
 | JPMorgan Chase | [Relationship Banker - Minnesota Northern Market](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807193) | Plymouth, MN, United States |  | 2026-11-07 |  |
 | JPMorgan Chase | [Relationship Banker - SC St Louis Market - Frontenac, MO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807236) | St Louis, MO, United States |  | 2026-11-07 |  |
@@ -741,18 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Meron Financial Agency | [Entry Level Insurance Agent — Uncapped Commission](https://meron-financial-agency.breezy.hr/p/51a2edf2079c-entry-level-insurance-agent-uncapped-commission) | Tucson, AZ |  | 2026-11-04 |  |
 | Meron Financial Agency | [Entry Level Insurance Agent — Uncapped Commission](https://meron-financial-agency.breezy.hr/p/818b88b20a49-entry-level-insurance-agent-uncapped-commission) | Anchorage, AK |  | 2026-11-04 |  |
 | Meron Financial Agency | [Entry Level Insurance Agent — Uncapped Commission](https://meron-financial-agency.breezy.hr/p/54d542fb1b1a-entry-level-insurance-agent-uncapped-commission) | Fairbanks, AK |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Insurance Agent — Uncapped Commission](https://meron-financial-agency.breezy.hr/p/a6737a89ad1e-entry-level-insurance-agent-uncapped-commission) | Honolulu, HI |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Insurance Producer — Remote](https://meron-financial-agency.breezy.hr/p/e2fdbc9ed62f-entry-level-insurance-producer-remote) | Provo, UT (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Insurance Producer — Remote](https://meron-financial-agency.breezy.hr/p/7743fadc2ed2-entry-level-insurance-producer-remote) | Providence, RI (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Insurance Producer — Remote](https://meron-financial-agency.breezy.hr/p/68829dfd2285-entry-level-insurance-producer-remote) | Memphis, TN (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Insurance Producer — Remote](https://meron-financial-agency.breezy.hr/p/880535b3d5ef-entry-level-insurance-producer-remote) | Pueblo, CO (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Insurance Producer — Remote](https://meron-financial-agency.breezy.hr/p/ebe9a0bf9c95-entry-level-insurance-producer-remote) | Fort Collins, CO (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Remote Insurance Rep — Warm Leads Provided](https://meron-financial-agency.breezy.hr/p/7304eae696bd-entry-level-remote-insurance-rep-warm-leads-provided) | Dothan, AL (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Remote Insurance Rep — Warm Leads Provided](https://meron-financial-agency.breezy.hr/p/549764155979-entry-level-remote-insurance-rep-warm-leads-provided) | Huntsville, AL (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Remote Insurance Rep — Warm Leads Provided](https://meron-financial-agency.breezy.hr/p/3c99c46e9e70-entry-level-remote-insurance-rep-warm-leads-provided) | Montgomery, AL (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Remote Insurance Rep — Warm Leads Provided](https://meron-financial-agency.breezy.hr/p/d03f257c9d3e-entry-level-remote-insurance-rep-warm-leads-provided) | Baton Rouge, LA (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Remote Insurance Rep — Warm Leads Provided](https://meron-financial-agency.breezy.hr/p/d97bf55f4828-entry-level-remote-insurance-rep-warm-leads-provided) | Shreveport, LA (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Remote Sales Agent — Life Insurance](https://meron-financial-agency.breezy.hr/p/73d7acbde2a8-entry-level-remote-sales-agent-life-insurance) | Augusta, GA (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Remote Sales Agent — Life Insurance](https://meron-financial-agency.breezy.hr/p/79827c80e54c-entry-level-remote-sales-agent-life-insurance) | Bloomington, IN (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Remote Sales Agent — Life Insurance](https://meron-financial-agency.breezy.hr/p/e9daa13879d4-entry-level-remote-sales-agent-life-insurance) | Evansville, IN (remote) |  | 2026-11-04 |  |
-| Meron Financial Agency | [Entry Level Remote Sales Agent — Life Insurance](https://meron-financial-agency.breezy.hr/p/bd8193b45987-entry-level-remote-sales-agent-life-insurance) | Champaign, IL (remote) |  | 2026-11-04 |  |

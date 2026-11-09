@@ -1,11 +1,26 @@
 # New grad and entry level: Other
 
-7,048 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+7,054 open, newest first (by the date the scraper first saw them), updated 2026-11-09. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Elevance Health | [Outreach Care Specialist](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TN-NASHVILLE-22-CENTURY-BLVD-STE-310/Outreach-Care-Specialist_JR208165) | TN-NASHVILLE, 22 CENTURY BLVD, STE 310 |  | 2026-11-09 |  |
+| Prosperity Bank | [Teller (Full Teller) - Tulsa, Harvard](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604855&lang=en_US) | Tulsa, OK, US |  | 2026-11-09 |  |
+| Prosperity Bank | [Teller (Full Time) - Houston, Northside](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604741&lang=en_US) | NORTHSIDE, Houston, TX, US |  | 2026-11-09 |  |
+| Regions Financial | [Ascentium Non-Titling Documentation Specialist](https://careers.regions.com/us/en/job/R107407) | Kingwood, Texas, United States of America | $40,515 to $46,386.90 | 2026-11-09 |  |
+| UnitedHealth Group | [Hospice Chaplain- Waterford, PA](https://careers.unitedhealthgroup.com/job/waterford/hospice-chaplain-waterford-pa/34088/103069190560) | Waterford, Pennsylvania | $50,920 to $76,380 | 2026-11-09 |  |
+| InfoTrack US | [Document Specialist (National)](https://apply.workable.com/j/796365F225) | Petaluma, California, United States (remote) | $19.35 to $25/hour | 2026-11-09 |  |
+| Senior Resource Group, LLC | [LVN - The Village at Northridge](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000158311171-lvn-the-village-at-northridge) | Los Angeles, CA, us |  | 2026-11-09 |  |
+| Senior Resource Group, LLC | [LVN - The Village at Northridge](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000158311229-lvn-the-village-at-northridge) | Los Angeles, CA, us |  | 2026-11-09 |  |
+| Senior Resource Group, LLC | [LVN - La Vida Real](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000157864489-lvn-la-vida-real) | El Cajon, CA, us |  | 2026-11-09 |  |
+| Senior Resource Group, LLC | [LVN - La Vida Real](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000157859496-lvn-la-vida-real) | El Cajon, CA, us |  | 2026-11-09 |  |
+| Baylor Scott & White Health | [Contact Center Specialist I – Technical Support / Wednesday – Sunday, 9 AM – 6 PM](https://jobs.bswhealth.com/us/en/job/26016592) | Temple, Texas, United States |  | 2026-11-09 |  |
+| High Performance Real Estate Advisors | [Bilingual Real Estate Agent (English/Spanish) for growing Real Estate Team in NC/SC](https://high-performance-real-estate-advisors.breezy.hr/p/584bbc76e2f5-bilingual-real-estate-agent-english-spanish-for-growing-real-estate-team-in-nc-sc) | Charlotte, NC | $25,000/month | 2026-11-09 |  |
+| High Performance Real Estate Advisors | [Experienced Listing Agents Wanted - INCOME GUARANTEE!!!](https://high-performance-real-estate-advisors.breezy.hr/p/c4874cc78950-experienced-listing-agents-wanted-income-guarantee) | Charlotte, NC | $25,000/month | 2026-11-09 |  |
+| High Performance Real Estate Advisors | [Experienced Real Estate Agents Wanted - LEADS PROVIDED & INCOME GUARANTEE!!!](https://high-performance-real-estate-advisors.breezy.hr/p/d4ea31b314d1-experienced-real-estate-agents-wanted-leads-provided-income-guarantee) | Charlotte, NC |  | 2026-11-09 |  |
+| CodersData LLC | [SAP](https://jobs.smartrecruiters.com/CodersDataLLC/743999704100595-sap) | Franklin Township, NJ, us |  | 2026-11-09 |  |
 | Prosperity Bank | [Teller (Full Time) - Preston Forest](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604629&lang=en_US) | Dallas, TX, US |  | 2026-11-08 |  |
 | Prosperity Bank | [Teller (Part Time) - Tulsa, South Memorial](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604596&lang=en_US) | SOUTH MEMORIAL, Tulsa, OK, US |  | 2026-11-08 |  |
 | Prosperity Bank | [Teller (Full Time) - Victoria Salem](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604790&lang=en_US) | VICTORIA SALEM, Victoria, TX, US |  | 2026-11-08 |  |
@@ -233,7 +248,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [3611 - Substation Helper 2](https://careers.bv.com/OCI/job/Bridge-City-3611-Substation-Helper-2-LA-70094/1454334233/) | Bridge City, LA, US |  | 2026-11-05 |  |
 | Centene | [Credentialing Specialist I](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-NC/Credentialing-Specialist-I_1673344-1) | Remote-NC | $19.43 to $32.98/hour | 2026-11-05 |  |
 | Cents | [Onboarding Specialist](https://jobs.lever.co/cents/58134bb8-05f1-4d70-8ad9-581a0cfc046a) | New York, NY (remote) |  | 2026-11-05 |  |
-| Charles Schwab | [Institutional Services Specialist](https://www.schwabjobs.com/job/lone-tree/institutional-services-specialist/33727/102860595744) | Lone Tree, Colorado |  | 2026-11-05 |  |
 | Chevron | [Field Specialist A](https://careers.chevron.com/job/pecos/field-specialist-a/38138/102861239104) | Pecos, Texas |  | 2026-11-05 | no visa sponsorship |
 | Chevron | [Firefighter Trainee](https://careers.chevron.com/job/richmond/firefighter-trainee/38138/102871038928) | Richmond, California | $50.23/hour | 2026-11-05 |  |
 | CommonSpirit Health (St. Luke's Health) | [Central Svs Tech](https://www.commonspirit.careers/job/bakersfield/central-svs-tech/35300/102858275776) | BAKERSFIELD, CA |  | 2026-11-05 |  |
@@ -742,17 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | US Physical Therapy | [Exercise Science / Exercise Physiologist / Kinesiologist / Athletic Trainer -Ergonomics Industrial Injury Prev](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990016622786-exercise-science-exercise-physiologist-kinesiologist-athletic-trainer-ergonomics-industrial-injury-prevention-atc-ot-pt-ceas-) | Fife, Washington, us | $33 to $42/hour | 2026-11-04 |  |
 | US Physical Therapy | [Certified Athletic Trainer - Industrial Injury Prevention (ATC, OT, PT)](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990016622706-certified-athletic-trainer-industrial-injury-prevention-atc-ot-pt-) | Warrensville Heights, Ohio, us | $33 to $42/hour | 2026-11-04 |  |
 | US Physical Therapy | [Certified Athletic Trainer - Industrial Injury Prevention (ATC, OT, PT)](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990016622586-certified-athletic-trainer-industrial-injury-prevention-atc-ot-pt-) | New Rochelle, NEW YORK, us | $33 to $42/hour | 2026-11-04 |  |
-| US Physical Therapy | [Exercise Science / Exercise Physiologist / Kinesiologist / Athletic Trainer -Ergonomics Industrial Injury Prev](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990016622376-exercise-science-exercise-physiologist-kinesiologist-athletic-trainer-ergonomics-industrial-injury-prevention-atc-ot-pt-ceas-) | Elkton, Virginia, us | $33 to $42/hour | 2026-11-04 |  |
-| US Physical Therapy | [Exercise Science / Exercise Physiologist / Kinesiologist / Athletic Trainer -Ergonomics Industrial Injury Prev](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990016621676-exercise-science-exercise-physiologist-kinesiologist-athletic-trainer-ergonomics-industrial-injury-prevention-atc-ot-pt-ceas-) | Prescott, Arizona, us | $33 to $39/hour | 2026-11-04 |  |
-| VSC Fire & Security | [Fire Sprinkler Fitter Trainee](https://job-boards.greenhouse.io/vscfiresecurityinc/jobs/5472772008) | Rogers, Arkansas, United States | $18 to $28/hour | 2026-11-04 |  |
-| Wellthy Care Network | [Overnight Newborn Nanny – Seattle, WA](https://job-boards.greenhouse.io/wellthy-care-network/jobs/8193031003) | United States | $32 to $34/hour | 2026-11-04 |  |
-| Westgate Resorts | [Gift Room Clerk](https://jobs.smartrecruiters.com/WestgateResorts/744000159655990-gift-room-clerk) | Gatlinburg, TN, us |  | 2026-11-04 |  |
-| Alls Well | [Entry Level Direct Care Specialist](https://allswell.bamboohr.com/careers/284) | San Jose, California, United States | $18.45 to $22/hour | 2026-11-04 |  |
-| Alls Well | [Direct Support Professional - Entry Level](https://allswell.bamboohr.com/careers/286) | Pasadena, California, United States | $18.47 to $21/hour | 2026-11-04 |  |
-| Alls Well | [Direct Support Professional - Entry Level](https://allswell.bamboohr.com/careers/287) | Pasadena, California, United States | $17.80 to $20/hour | 2026-11-04 |  |
-| Aspen Skiing Company | [Concierge - Limelight Mammoth - Winter](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000159492029-concierge-limelight-mammoth-winter) | Mammoth Lakes, CA, us |  | 2026-11-04 |  |
-| Athletics - Baseball Operations | [Minor League Sport Performance Coach - Seasonal](https://job-boards.greenhouse.io/athleticsbaseballops/jobs/8927868002) | Mesa, Arizona, United States |  | 2026-11-04 |  |
-| Baylor Scott & White Health | [CRNA Temple Memorial](https://jobs.bswhealth.com/us/en/job/26020418) | Temple, Texas, United States |  | 2026-11-04 |  |
-| Baylor Scott & White Health | [CRNA Marble Falls](https://jobs.bswhealth.com/us/en/job/26020420) | Marble Falls, Texas, United States |  | 2026-11-04 |  |
-| Baylor Scott & White Health | [PRN Chaplain 1](https://jobs.bswhealth.com/us/en/job/26019979) | Dallas, Texas, United States |  | 2026-11-04 |  |
-| Baylor Scott & White Health | [CRNA Temple Surgery Center/Endo](https://jobs.bswhealth.com/us/en/job/26020421) | Temple, Texas, United States |  | 2026-11-04 |  |

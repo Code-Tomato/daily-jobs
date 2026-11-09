@@ -1,11 +1,19 @@
 # Internships and co-ops: Other
 
-1,429 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,431 open, newest first (by the date the scraper first saw them), updated 2026-11-09. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Kodiak Gas Services | [Summer Internship Opportunities](https://kodiakgas.wd12.myworkdayjobs.com/KodiakGasCareers/job/TX---The-Woodlands-Corporate-HQ/Summer-Internship-Opportunities_JR3914) · Summer | TX - The Woodlands, Corporate HQ |  | 2026-11-09 | no visa sponsorship |
+| UCAR / NCAR | [NSF NCAR Earth System Science Internship (NESSI)](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/NSF-NCAR-Earth-System-Science-Internship--NESSI-_REQ-2026-234-1) | Boulder, CO |  | 2026-11-09 | no visa sponsorship |
+| Lehman Daman Construction Services, Inc. | [Co-Op Fall 2027](https://ld2021.bamboohr.com/careers/82) · Fall 2027 | Westerville, Ohio, United States |  | 2026-11-09 |  |
+| Magnet Media, Inc. | [Production Intern Spring 2027](http://www.magnetmediafilms.com/careers?gh_jid=8036329) · Spring 2027 | New York, NY |  | 2026-11-09 |  |
+| Heartbeet Lifesharing | [Land Intern](https://heartbeet.bamboohr.com/careers/30) | Hardwick, Vermont, United States |  | 2026-11-09 |  |
+| blackcrows | [Unsolicited Application (no internship) / Candidature spontanée (hors stage)](https://jobs.black-crows.com/jobs/5396474-unsolicited-application-no-internship-candidature-spontanee-hors-stage) | Los Angeles, United States; Chamonix-Mont-Blanc, France; Paris, France |  | 2026-11-09 |  |
+| blackcrows | [Internship - Unsolicited application // Stage/alternance - Candidature spontanée](https://jobs.black-crows.com/jobs/5396414-internship-unsolicited-application-stage-alternance-candidature-spontanee) | Los Angeles, United States; Paris, France; Lausanne, Switzerland; Cham |  | 2026-11-09 |  |
+| The Burnette Agency | [Winter/Spring Semester Internship](https://jobs.smartrecruiters.com/TheBurnetteAgency/743999664782818-winter-spring-semester-internship) · Winter | Atlanta, GA, us |  | 2026-11-09 |  |
 | SAS Institute | [Summer 2027 - Technical Support Intern](https://careers-sas.icims.com/jobs/46696/summer-2027---technical-support-intern/job) · Summer 2027 | Cary HQ, NC | $15 to $49/hour | 2026-11-07 |  |
 | TH Experiential | [Production Internship Fall/Winter 2026](https://thexperiential.bamboohr.com/careers/190) · Winter 2026 | New York, New York, United States (Remote) |  | 2026-11-07 |  |
 | Activision | [Activision 2027 Summer Internships - Game Economy](https://careers.activision.com/us/en/job/R028035) · Summer 2027 | Santa Monica, California, United States of America | $20 to $50/hour | 2026-11-07 |  |
@@ -525,8 +533,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Equinox | [Personal Trainer Internship, New Jersey](https://jobs.smartrecruiters.com/Equinox/744000152410157-personal-trainer-internship-new-jersey) | Paramus, NJ, us |  | 2026-11-04 |  |
 | Equinox | [Personal Trainer Internship, Westchester](https://jobs.smartrecruiters.com/Equinox/744000152416960-personal-trainer-internship-westchester) | Scarsdale, NY, us |  | 2026-11-04 |  |
 | Equinox | [Personal Trainer Internship, Philadelphia](https://jobs.smartrecruiters.com/Equinox/744000152418099-personal-trainer-internship-philadelphia) | Philadelphia, PA, us |  | 2026-11-04 |  |
-| EquipmentShare | [Intern: Procure to Pay](https://www.equipmentshare.com/careers/openings/?gh_jid=8189133) | Columbia, MO (Headquarters) |  | 2026-11-04 |  |
 | EquipmentShare | [Intern: Procure to Pay](https://www.equipmentshare.com/careers/openings/?gh_jid=8190876) | Columbia, MO (Headquarters) |  | 2026-11-04 |  |
+| EquipmentShare | [Intern: Procure to Pay](https://www.equipmentshare.com/careers/openings/?gh_jid=8189133) | Columbia, MO (Headquarters) |  | 2026-11-04 |  |
 | A.N. Publishing | [Entertainment Journalist (Internship)](https://jobs.smartrecruiters.com/ANPublishing1/744000152064299-entertainment-journalist-internship-) | Los Angeles, CA, us |  | 2026-11-04 |  |
 | ACLU - Internships | [Spring 2027 Undergraduate Intern, National Prison Project](https://job-boards.greenhouse.io/acluinternships/jobs/8834068002) · Spring 2027 | Remote/Hybrid-Washington D.C. |  | 2026-11-04 |  |
 | ACLU - Internships | [Summer 2027 Undergraduate Intern, National Prison Project](https://job-boards.greenhouse.io/acluinternships/jobs/8846060002) · Summer 2027 | Remote/Hybrid-Washington D.C. | $20/hour | 2026-11-04 |  |
@@ -748,11 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | G2VP | [Summer Venture Capital Intern](https://job-boards.greenhouse.io/g2vp/jobs/5399465008) · Summer 2027 | Portola Valley, CA |  | 2026-11-04 |  |
 | Henry Ford Health | [Surgical Tech Extern](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990014795986-surgical-tech-extern) | West Bloomfield, MI, us |  | 2026-11-04 |  |
 | Eudia | [Product Intern](https://job-boards.greenhouse.io/eudia/jobs/4379570009) | Palo Alto, CA |  | 2026-11-04 |  |
-| Henry Ford Health | [Surgical Tech Extern](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990014752366-surgical-tech-extern) | Jackson, MI, us |  | 2026-11-04 |  |
-| Alliance Animal Health | [DVM Student Externship - Valhalla Animal Hospital](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000144599839-dvm-student-externship-valhalla-animal-hospital) | Valhalla, NY, us | $17/hour | 2026-11-04 |  |
-| Alliance Animal Health | [DVM Student Externship - Lefferts Animal Hospital](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000144579422-dvm-student-externship-lefferts-animal-hospital) | Queens, NY, us | $17/hour | 2026-11-04 |  |
-| Chai Discovery | [Internship](https://jobs.ashbyhq.com/chaidiscovery/bc55b169-d23c-4e50-ac80-8dbe7ed64b72) | San Francisco office |  | 2026-11-04 |  |
-| Kolar Design | [Spring 2027 Design Co-op](https://ats.rippling.com/kolar-design-career-opportunities/jobs/501ce603-afc0-43c0-9556-4c15bc47b57f) · Spring 2027 | Cincinnati, OH |  | 2026-11-04 |  |
-| AECOM | [Architecture Design Intern](https://jobs.smartrecruiters.com/AECOM2/744000144406539-architecture-design-intern) | North Charleston, SC, us |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
-| Crown Innovations, Inc. | [NAMS-2 Intern](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000144112445-nams-2-intern-) | Mountain View, CA, us | $730/week | 2026-11-04 | US citizens/persons only |
-| McAdams | [General Internship](https://job-boards.greenhouse.io/mcadams/jobs/5214716007) | Charlotte, North Carolina, United States |  | 2026-11-04 |  |

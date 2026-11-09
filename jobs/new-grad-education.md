@@ -1,11 +1,15 @@
 # New grad and entry level: Education
 
-356 open, newest first (by the date the scraper first saw them), updated 2026-11-08.
+358 open, newest first (by the date the scraper first saw them), updated 2026-11-09.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Mansfield Hall | [Academic Coach](https://mansfieldhallaccount.bamboohr.com/careers/234) | Burlington, Vermont, United States | $22/hour | 2026-11-09 |  |
+| Care-O-World | [Entry Level Child Care Educators - Chocowinity](https://careoworld.bamboohr.com/careers/135) | Chocowinity, North Carolina, United States | $10.65 to $15/hour | 2026-11-09 |  |
+| Care-O-World | [Entry Level Child Care Educators - Pitt County](https://careoworld.bamboohr.com/careers/130) | Winterville, North Carolina, United States | $11 to $15/hour | 2026-11-09 |  |
+| Beverly Pathology | [Anatomic Pathology Instructor](https://beverlypathology.bamboohr.com/careers/26) | Los Angeles, California, United States |  | 2026-11-09 |  |
 | Apollo After School | [Part Time Substitute Educator](https://apollo-after-school.breezy.hr/p/f11b69a678d2-part-time-substitute-educator) | Monterey Park, CA | $21/hour | 2026-11-07 |  |
 | CSC Generation | [Seasonal Chef Instructor, Pastry (Sur La Table)](https://jobs.lever.co/cscgeneration-2/63420c9a-5208-4024-947f-fc35cc3b88f0) | Boulder, CO |  | 2026-11-07 |  |
 | CSC Generation | [Seasonal Chef Instructor, Savory (Sur La Table)](https://jobs.lever.co/cscgeneration-2/23f20dd0-44b3-4762-bfcd-cf327fbc1a9a) | Boulder, CO |  | 2026-11-07 |  |
@@ -28,6 +32,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Domino's | [Shift Manager(06615) - 1300 Gattis School Rd., Ste 700](https://jobs.smartrecruiters.com/Dominos/744000160106999-shift-manager-06615-1300-gattis-school-rd-ste-700) | Round Rock, TX, us |  | 2026-11-06 |  |
 | Domino's | [Delivery Driver(08783) - 4909 Gattis School Rd](https://jobs.smartrecruiters.com/Dominos/744000160052708-delivery-driver-08783-4909-gattis-school-rd) | Hutto, TX, us |  | 2026-11-06 |  |
 | Domino's | [Shift Manager(08783) - 4909 Gattis School Rd., Suite 110](https://jobs.smartrecruiters.com/Dominos/744000160027499-shift-manager-08783-4909-gattis-school-rd-suite-110) | Hutto, TX, us |  | 2026-11-06 |  |
+| Inspiroz | [School Technology Specialist - NYC](https://apply.workable.com/j/9EF2C881C5) | New York, New York, United States | $50,000 to $75,000 | 2026-11-06 |  |
 | Catlin Gabel School | [Sign On Bonus $$$ - School Bus Route Driver](https://ats.rippling.com/catlin-gabel-school/jobs/ce7d0243-6c51-49f1-a48b-428d0d2190a9) | Portland, OR | $28 to $32/hour | 2026-11-06 |  |
 | Forbes Bros. Group of Companies | [New Grads - Line School](https://job-boards.greenhouse.io/forbesbrosgroupofcompanies/jobs/4480941009) | Stapleton, NE |  | 2026-11-06 |  |
 | Green Tree School & Services | [1:1 Support](https://jobs.ashbyhq.com/Green-Tree-School-and-Services/afac86cb-debe-4663-94cc-6d4acb9d45f9) | Philadelphia, PA |  | 2026-11-06 |  |
@@ -41,7 +46,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Inspiroz | [School Technology Specialist](https://apply.workable.com/j/C08D1C965B) | Charlotte, North Carolina, United States |  | 2026-11-06 |  |
 | Inspiroz | [School Technology Specialist - NYC-NEED URGENT CONTRACTORS](https://apply.workable.com/j/E71D96C35F) | New York, New York, United States |  | 2026-11-06 |  |
 | Fluentbe.com | [English teacher for young learners / Lektor/ka języka angielskiego dla dzieci](https://apply.workable.com/j/B4AD3E73FD) | United States |  | 2026-11-06 |  |
-| Inspiroz | [School Technology Specialist - NYC](https://apply.workable.com/j/9EF2C881C5) | New York, New York, United States | $50,000 to $75,000 | 2026-11-06 |  |
 | Harlem Children's Zone | [Pre-K Learning Specialist (Special Education Teacher)](https://apply.workable.com/j/39335E83D2) | New York, New York, United States | $70,000 to $140,000 | 2026-11-06 |  |
 | Amazing Athletes | [Sports Coach - Preschool](https://apply.workable.com/j/E0C6177539) | Arlington, Texas, United States | $50/hour | 2026-11-06 |  |
 | Domino's | [Delivery Driver(06615) - 1300 Gattis School Rd., Ste 700](https://jobs.smartrecruiters.com/Dominos/744000159757468-delivery-driver-06615-1300-gattis-school-rd-ste-700) | Round Rock, TX, us |  | 2026-11-05 |  |
@@ -334,7 +338,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Texas A&M University | [Graduate Academic Advisor II](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Graduate-Academic-Advisor-II_R-098338-2) | College Station, TX |  | 2026-11-03 |  |
 | UTMB Health | [Federal Work Study Student, Dean of Graduate School](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2600926&lang=en) | United States-Texas-Galveston |  | 2026-11-02 |  |
 | UTRGV | [ACADEMIC ADVISOR](https://careers.utrgv.edu/postings/52993) | Edinburg, Texas |  | 2026-10-30 |  |
-| Texas A&M University | [Library Specialist I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Library-Specialist-I_R-098109-1) | College Station, TX | $15.85/hour | 2026-10-28 |  |
 | Texas A&M University | [Library Specialist I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Library-Specialist-I_R-098193-2) | College Station, TX | $15.85/hour | 2026-10-28 |  |
 | Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=925953) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-10-23 |  |
 | Texas A&M University | [Graduate Academic Advisor II](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Fort-Worth-TX/Graduate-Academic-Advisor-II_R-098183) | Fort Worth, TX | $55,000 to $60,000 | 2026-10-22 |  |
@@ -348,7 +351,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ICF | [Library Technician](https://careers.icf.com/us/en/job/R2603422) | Bethesda, Maryland, United States of America | $50,605 to $86,028 | 2026-10-20 | clearance |
 | KLA | [Technical Instructor (EBEAM)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--EBEAM-_2639119) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |
 | KLA | [Technical Instructor (FAST)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--FAST-_2639121) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |
-| University of Texas at Austin | [Development Specialist, Cockrell School of Engineering](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Development-Specialist--Cockrell-School-of-Engineering_R_00049314) | UT MAIN CAMPUS |  | 2026-10-20 |  |
 | East Texas A&M University | [Adjunct Faculty - Music (Specific Positions)](https://tamus.wd1.myworkdayjobs.com/ETAMU_External/job/Commerce-TX/Adjunct-Faculty---Music--Specific-Positions-_R-084144) | Commerce, TX |  | 2026-10-20 |  |
 | UT Dallas | [Program Specialist I](https://jobs.utdallas.edu/postings/32839) | Richardson, TX | $50,000 to $52,500 | 2026-10-20 |  |
 | Texas Health Resources | [Admissions Specialist-ER-PRN](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26008277&lang=en) | Fort Worth |  | 2026-10-20 |  |

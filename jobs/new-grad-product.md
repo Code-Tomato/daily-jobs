@@ -1,11 +1,13 @@
 # New grad and entry level: Product, program and project management
 
-296 open, newest first (by the date the scraper first saw them), updated 2026-11-08.
+296 open, newest first (by the date the scraper first saw them), updated 2026-11-09.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Project Management Associate I](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807257) | Columbus, OH, United States |  | 2026-11-09 |  |
+| J.C. Cannistraro LLC | [Assistant Project Manager](https://cannistraro.bamboohr.com/careers/679) | Waltham, Massachusetts, United States |  | 2026-11-09 |  |
 | HPE | [Campus Switching Product Manager Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1) | Roseville, California | $108,500 to $218,500 | 2026-11-07 |  |
 | Tint | [Associate Product Manager](https://job-boards.greenhouse.io/tintai/jobs/4751433005) | US - Remote | $93,500 to $125,000 | 2026-11-07 |  |
 | Pacific Health Group | [Enhanced Care Management Program Manager](https://apply.workable.com/j/AE8FFD20CE) | Nevada County, California, United States | $80,000 to $85,000 | 2026-11-07 |  |
@@ -60,9 +62,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Sears | [Management Trainee - Project Manager track](https://jobs.smartrecruiters.com/Sears2/99770351-management-trainee-project-manager-track) | Elk Grove Village, IL, us |  | 2026-11-05 |  |
 | Sears | [Management Trainee - Project Manager track](https://jobs.smartrecruiters.com/Sears2/99770327-management-trainee-project-manager-track) | Gaithersburg, MD, us |  | 2026-11-05 |  |
 | Stefanini | [Client Service Project Manager](https://jobs.smartrecruiters.com/Stefanini1/83955683-client-service-project-manager) | New York, NY, us |  | 2026-11-05 |  |
-| Greenlightplanet | [Associate Product Manager](https://sunking.pinpointhq.com/en/postings/d7611122-db8d-441a-9459-4109c1658b15) | New Delhi, Delhi (Remote) |  | 2026-11-05 |  |
 | scandiweb | [Junior Project Manager for eCommerce projects](https://scandiweb.pinpointhq.com/en/postings/2df8a5ed-b06f-44ad-accd-9e36fd533fca) | North Macedonia (Remote) |  | 2026-11-05 |  |
-| Sun King | [Associate Product Manager](https://sunking.pinpointhq.com/en/postings/d7611122-db8d-441a-9459-4109c1658b15) | New Delhi, Delhi (Remote) |  | 2026-11-05 |  |
 | Eurofins | [Assistant Project Manager (Entry Level) - Eurofins Drinking Water and Wastewater Central, Hunstville, TX](https://jobs.smartrecruiters.com/Eurofins/744000159519999-assistant-project-manager-entry-level-eurofins-drinking-water-and-wastewater-central-hunstville-tx) | Huntsville, TX, us | $15 to $20/hour | 2026-11-04 |  |
 | CargoSprint | [Product Manager I](https://ats.rippling.com/cargosprint/jobs/e7e9e872-7e22-4a22-9826-130c55bbcb62) | Remote (United States) |  | 2026-11-04 |  |
 | City of New York | [BOB- Associate Project Manager III](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016579376-bob-associate-project-manager-iii) | New York City, NY, us |  | 2026-11-04 |  |
@@ -246,6 +246,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Project Manager - LNG](https://careers.bv.com/job/Overland-Park-Project-Manager-LNG-KS-66062/1251158001/) | Houston, TX, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Substation and Transmission](https://careers.bv.com/job/Chicago-Project-Manager-Substation-and-Transmission-IL-60290/1395194333/) | Chicago, IL, US | $126,236 to $214,599 | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater - Orlando](https://careers.bv.com/job/Orlando-Project-Manager-WaterWastewater-Orlando-FL-32801/1405256533/) | Orlando, FL, US |  | 2026-10-20 |  |
+| Invesco | [Associate Product Manager, Equities](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Assoc-Product-Mgr-EM-Equities_R-15536) | New York, New York |  | 2026-10-20 |  |
 | Adobe | [2027 MBA University Graduate - Product Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900) | San Jose | $105,300 to $205,150 | 2026-10-20 |  |
 | Aptiv | [Product Manager ADAS](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Boston-MA---USA/Product-Manager-ADAS_J000703323) | Boston, MA - USA |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Power Generation](https://careers.bv.com/job/Chattanooga-Project-Manager-Power-Generation-TN-37401/1365539233/) | Jacksonville, FL, US |  | 2026-10-20 |  |
@@ -261,7 +262,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Mattel | [Development Program Management Associate I - Action Figures](https://jobs.mattel.com/en/job/el-segundo/development-program-management-associate-i-action-figures/2015/101581836208) | El Segundo, CALIFORNIA, us | $71,000 to $82,000 | 2026-10-20 |  |
 | Formlabs | [Technical Program Manager - Entry Level](https://careers.formlabs.com/job/8249069/apply/?gh_jid=8249069) | Boston, MA | $110,000 to $140,000 | 2026-10-20 |  |
 | Panasonic North America | [Project Manager](https://careers.na.panasonic.com/careers-home/jobs/50611) | Altoona, Iowa |  | 2026-10-20 |  |
-| Invesco | [Associate Product Manager, Equities](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Assoc-Product-Mgr-EM-Equities_R-15536) | New York, New York |  | 2026-10-20 |  |
 | ICF | [Program Manager, Public Sector](https://careers.icf.com/us/en/job/R2603161) | Los Angeles, California, United States of America | $89,261 to $151,744 | 2026-10-20 |  |
 | SIG | [Technology Project Manager / Market Data](https://careers.sig.com/careers-home/jobs/11213) | Bala Cynwyd (Philadelphia Area), Pennsylvania |  | 2026-10-20 | no visa sponsorship |
 | Kinder Morgan | [Engineer-Production CO2](https://careers.kindermorgan.com/careers-home/jobs/6168) | SNYDER, Texas |  | 2026-10-20 |  |

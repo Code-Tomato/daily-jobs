@@ -1,11 +1,16 @@
 # New grad and entry level: Data, ML and AI
 
-1,742 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,739 open, newest first (by the date the scraper first saw them), updated 2026-11-09. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| SpaceX | [Electrical Hardware Engineer, AI Satellites (Starmind)](https://boards.greenhouse.io/spacex/jobs/8930403002?gh_jid=8930403002) | Bastrop, TX |  | 2026-11-09 | US citizens/persons only |
+| SpaceX | [Optical Test Engineer, AI Satellites (Starmind)](https://boards.greenhouse.io/spacex/jobs/8931042002?gh_jid=8931042002) | Bastrop, TX |  | 2026-11-09 | US citizens/persons only |
+| SpaceX | [Power Electronics Engineer, AI Satellites (Starmind)](https://boards.greenhouse.io/spacex/jobs/8931110002?gh_jid=8931110002) | Bastrop, TX |  | 2026-11-09 | US citizens/persons only |
+| U.S. Bank | [Investment Analytics Group Analyst](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Investment-Analytics-Group-Analyst_2026-0033962) | Minneapolis, MN | $75,600 to $92,400 | 2026-11-09 |  |
+| CodersData LLC | [Data Analyst (Entry Level)](https://jobs.smartrecruiters.com/CodersDataLLC/743999709915430-data-analyst-entry-level-) | North Patchogue, NY, us |  | 2026-11-09 |  |
 | John Deere | [Data & Analytics Development Program I](https://careers.deere.com/careers/job/137482523381) | Moline, IL, US |  | 2026-11-08 | no visa sponsorship |
 | Domino's | [Shift Manager(06748) - 7901 Research Forest Dr., 300](https://jobs.smartrecruiters.com/Dominos/744000160389280-shift-manager-06748-7901-research-forest-dr-300) | The Woodlands, TX, us |  | 2026-11-07 |  |
 | Domino's | [Shift Manager(09274) - 13764 Research Blvd](https://jobs.smartrecruiters.com/Dominos/744000160353889-shift-manager-09274-13764-research-blvd) | Austin, TX, us |  | 2026-11-07 |  |
@@ -84,7 +89,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | JPMorgan Chase | [Quantitative Research - Wholesale Credit Risk - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802731) | Plano, TX, United States |  | 2026-11-05 |  |
 | PIMCO | [Analyst/Associate, Client Solutions & Analytics](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/Analyst-Associate--Client-Solutions---Analytics_R107095) | New York, NY USA | $90,000 to $110,000 | 2026-11-05 |  |
 | SAP | [SAP NS2 AI Consultant Specialist](https://jobs.sap.com/en/jobs/744000159721941/sap-ns2-ai-consultant-specialist/) | Herndon, Virginia, US |  | 2026-11-05 | no visa sponsorship, US citizens/persons only, clearance |
-| ServiceNow | [AI Solutions Delivery Associate](https://jobs.smartrecruiters.com/ServiceNow/744000159668209-ai-solutions-delivery-associate) | West Palm Beach, Florida, us |  | 2026-11-05 | no visa sponsorship |
 | SIXT | [Logistics Administrator / Excel, AI & Process Improvement](https://jobs.smartrecruiters.com/SIXT/744000159726449-logistics-administrator-excel-ai-process-improvement) | Tulsa, OK, us | $17 to $19/hour | 2026-11-05 | no visa sponsorship |
 | Sony | [Associate Data Analyst](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Associate-Data-Analyst_JR-119868) | San Diego | $76,375 to $101,834 | 2026-11-05 |  |
 | Tantalus | [Analytics Engineer](https://tantalussystems.bamboohr.com/careers/195) | Raleigh, North Carolina, United States (hybrid) |  | 2026-11-05 |  |
@@ -736,7 +740,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Podium | [AI Product Support Specialist](https://job-boards.greenhouse.io/podium81/jobs/8192812) | Lehi, Utah | $21.63/hour | 2026-11-04 |  |
 | FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/31545aa26538-remote-data-entry-online-research-panelist-work-from-home) | Indianapolis, IN (remote) |  | 2026-11-04 |  |
 | IDMe University | [Summer 2027 - Data Scientist (New Grad)](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003) · Summer 2027 | Mountain View, CA |  | 2026-11-04 |  |
-| Marketech International Corporation USA | [Data Analyst - Supply Chain & Operations](https://job-boards.greenhouse.io/marketechinternationalcorporationusa/jobs/4398143009) | Phoenix, AZ |  | 2026-11-04 |  |
 | Sia | [Associate Consultant, Generative AI](https://jobs.smartrecruiters.com/Sia/744000148302879-associate-consultant-generative-ai) | New York, NY, us | $80,000 to $110,000 | 2026-11-04 |  |
 | FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/fbb6f3dd2768-remote-data-entry-online-research-panelist-work-from-home) | New York, NY (remote) |  | 2026-11-04 |  |
 | FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/225799362b9e-remote-data-entry-online-research-panelist-work-from-home) | Sioux Falls, SD (remote) |  | 2026-11-04 |  |
@@ -753,6 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NewRocket | [AI Engineer/Anthropic-Campus Hire - US West](https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004) | USA - Remote |  | 2026-11-04 |  |
 | Wilson Elser - Business & Legal Professionals | [Data Analyst](https://job-boards.greenhouse.io/wilsonelser/jobs/5406594008) | New York, New York | $70,000 to $85,000 | 2026-11-04 |  |
 | 2ndWave LLC | [Data Analyst I](https://jobs.ashbyhq.com/2ndwave/edd48824-4372-40b2-91cd-037345c4b7d1) | Washington, DC | $100,000 to $125,000 | 2026-11-04 | US citizens/persons only |
-| Deeter Analytics | [Junior Quantitative Researcher](https://jobs.ashbyhq.com/deeter-analytics/a93aae94-6025-4977-a5c0-657874c6a230) | US - Remote |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/1193b9bd1d39-remote-data-entry-online-research-panelist-work-from-home) | Port St. Lucie, FL (remote) |  | 2026-11-04 |  |
-| FocusGroupPanel | [Remote Data Entry / Online Research Panelist - Work From Home](https://focus-group-panel.breezy.hr/p/816326c3006e-remote-data-entry-online-research-panelist-work-from-home) | Cape Coral, FL (remote) |  | 2026-11-04 |  |

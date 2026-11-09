@@ -1,11 +1,20 @@
 # New grad and entry level: Sales, marketing and communications
 
-2,573 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,569 open, newest first (by the date the scraper first saw them), updated 2026-11-09. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Cohesity | [Inside Channel Account Manager](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Heathrow-FL---USA-Office/Inside-Channel-Account-Manager_R04911) | Heathrow, FL - USA (Office) | $102,400 to $128,000 | 2026-11-09 |  |
+| Cohesity | [Inside Channel Account Manager](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Heathrow-FL---USA-Office/Inside-Channel-Account-Manager_R04912-1) | Heathrow, FL - USA (Office) | $102,400 to $128,000 | 2026-11-09 |  |
+| 3 Day Blinds (Sales) | [Sales Trainee](https://job-boards.greenhouse.io/3dayblindssales/jobs/8048560003) | Jacksonville, FL |  | 2026-11-09 |  |
+| Sperton Global AS | [Junior Partnerships Manager](https://career.sperton.com/jobs/8574690-junior-partnerships-manager) | United States, United States | $75,000 to $100,000 | 2026-11-09 |  |
+| Mesotech International, Inc. | [AWOS Customer Support Specialist](https://jobs.smartrecruiters.com/MesotechInternationalInc/744000152407019-awos-customer-support-specialist) | Rancho Cordova, CA, us | $22 to $32/hour | 2026-11-09 |  |
+| SRS Merchandising | [Merchandiser-Experienced – Ventura, CA](https://srs-merchandising.breezy.hr/p/54fcd0b4c4f7-merchandiser-experienced-ventura-ca) | Ventura, US | $17 to $20/hour | 2026-11-09 |  |
+| Global Relay | [Strategic Sales Development Representative](https://www.globalrelay.com/careers/jobs?gh_jid=5983922004) | New York, New York, United States | $60,000 to $80,000 | 2026-11-09 |  |
+| MiaDonna | [Jewelry Specialist](https://miadonna.bamboohr.com/careers/43) | Portland, Oregon, United States | $27 to $36/hour | 2026-11-09 |  |
+| Swagelok Northern California | [Sales Engineer I - Bay Area](https://swagelok.pinpointhq.com/en/postings/985e52cd-ca83-423e-900c-e8510d5b3b99) | Fremont, CA |  | 2026-11-09 |  |
 | Clera | [Sales Development Representative](https://jobs.ashbyhq.com/Clera/e1c25fd8-9f7c-4b3c-863a-336890c4352c) | Salt Lake City | $60,000 to $105,000 | 2026-11-08 | no visa sponsorship |
 | Red Bull | [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000160482479-sales-trainee) | Las Vegas, NV, us |  | 2026-11-08 |  |
 | AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/67fe5dc0-ff82-4c8f-b469-1bcf02f25fd9) | Tulsa, Oklahoma (remote) |  | 2026-11-08 |  |
@@ -25,7 +34,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/86a35ca1-bcd7-4a8f-b89c-6ae8a3bce579) | Goose Creek, South Carolina (remote) |  | 2026-11-07 |  |
 | AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/940ceeb1-c23b-4659-bd5b-c3c3a829500a) | Lawrence, Kansas (remote) |  | 2026-11-07 |  |
 | AT&T | [Specialist Sales Communication](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Specialist-Sales-Communication_R-117552) | Dallas, Texas | $71,900 to $107,900 | 2026-11-07 |  |
-| Charles Schwab | [Client Relationship Specialist- Atlanta (Midtown), GA](https://www.schwabjobs.com/job/atlanta/client-relationship-specialist-atlanta-midtown-ga/33727/99549606336) | Atlanta, Georgia |  | 2026-11-07 |  |
 | Cranial Technologies | [Zone Sales Manager](https://job-boards.greenhouse.io/cranialtechnologies/jobs/8933874002) | ** Corporate **; Fort Lauderdale, Florida, United States; Miami, Flori |  | 2026-11-07 | no visa sponsorship |
 | Crimson Brand Partners | [Account Manager, Premium Sales](https://crimsonbrandpartners.bamboohr.com/careers/41) | Salt Lake CIty, Utah, United States |  | 2026-11-07 |  |
 | Crimson Brand Partners | [Account Manager, Premium Service](https://crimsonbrandpartners.bamboohr.com/careers/43) | Salt Lake CIty, Utah, United States |  | 2026-11-07 |  |
@@ -522,7 +530,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rock City Logistics | [Carrier Sales Representative](https://rockcitylogistics.recruitee.com/o/logistics-account-executive-2) | Southfield, MI, US |  | 2026-11-05 |  |
 | Silk Commerce | [Account Manager, TikTok Shop / Social Commerce](https://silkcommerce.bamboohr.com/careers/53) | Irvine, California, United States |  | 2026-11-05 |  |
 | AMIRI | [Client Advisor / Chicago](https://jobs.lever.co/AMIRI/c1acecc9-8aef-4a8f-8b44-3e967f47a335) | Chicago, IL (Retail) |  | 2026-11-05 |  |
-| IDT | [Retail Account Manager (RAM) – NRS & Retail Services](https://jobs.lever.co/idt/ee57ac4e-dfdd-498d-b744-10bd3d83898b) | Salt Lake City, Utah |  | 2026-11-05 |  |
 | IDT | [Retail Account Manager (RAM) – NRS & Retail Services](https://jobs.lever.co/idt/9c55e1ff-33dd-4107-98ed-0b0151726328) | Seattle, WA 98101 |  | 2026-11-05 |  |
 | Vi-Leon | [Entry Level Sales](https://job-boards.greenhouse.io/vileon/jobs/4177452008) | Beverly, Massachusetts |  | 2026-11-05 |  |
 | Morris Insurance Agency Llc | [Customer Service Rep - Remote](https://jobs.gem.com/morris-insurance-agency-llc/am9icG9zdDoaBcGzDKKPjz-icff_LHb7) | Toms River (remote) |  | 2026-11-05 |  |
@@ -614,6 +621,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Cannabiscareers | [Dispensary Agent](https://cannabiscareers.pinpointhq.com/en/postings/94e43213-9c28-4d09-bca6-10c87a10a189) | Parma, Ohio |  | 2026-11-05 |  |
 | CFRA Research | [Client Success Manager, Partnerships](https://cfra.pinpointhq.com/en/postings/edd7c236-01f7-44b2-bba7-4c9675eaa918) | Remote US (Remote) |  | 2026-11-05 |  |
 | Greenpages | [Cloud Customer Success Manager - PR](https://bluemantis.pinpointhq.com/en/postings/36348ee8-5611-4cca-955d-1dbf7309ad24) | Remote (Remote) | $90,000 to $100,000 | 2026-11-05 |  |
+| IDT | [Retail Account Manager (RAM) – NRS & Retail Services](https://jobs.lever.co/idt/ee57ac4e-dfdd-498d-b744-10bd3d83898b) | Salt Lake City, Utah |  | 2026-11-05 |  |
 | Pinnacle Bank/Bank of Colorado | [CUSTOMER SUPPORT REP](https://pinnbank.pinpointhq.com/en/postings/bd245e47-fa95-4025-b8dd-ebace0f7c9d1) | Gretna, Nebraska |  | 2026-11-05 |  |
 | Sila Services | [Entry Level Sales Representative (Canvasser)](https://jobs.lever.co/sila/11692fed-2193-4cba-85c5-9ed42b56b026) | Cherry Hill, NJ |  | 2026-11-05 |  |
 | ABC Imaging | [Jr. Sales Representative](https://abc-imaging.breezy.hr/p/c9cb822ca894-jr-sales-representative) | Annandale, VA |  | 2026-11-04 |  |
@@ -628,8 +636,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Cisco | [Sales Development Representative I (Full Time) United States Splunk](https://careers.cisco.com/global/en/job/2030759) | Mclean, Virginia, United States of America | $88,900 to $139,200 | 2026-11-04 |  |
 | City and County of San Francisco | [Communications Dispatcher I (1704) - Citywide - (C00467)](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016631635-communications-dispatcher-i-1704-citywide-c00467-) | San Francisco, CA, us |  | 2026-11-04 |  |
 | Datavant | [CPC Processor Customer Support](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5463201008) | Remote - United States | $15 to $18.32/hour | 2026-11-04 | no visa sponsorship |
-| Datavant | [CPC Processor Customer Support](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5458364008) | Remote - United States | $15 to $18.32/hour | 2026-11-04 | no visa sponsorship |
 | Datavant | [CPC Processor Customer Support](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5462330008) | Remote - United States | $15 to $18.32/hour | 2026-11-04 | no visa sponsorship |
+| Datavant | [CPC Processor Customer Support](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5458364008) | Remote - United States | $15 to $18.32/hour | 2026-11-04 | no visa sponsorship |
 | Domino's | [Delivery Driver - Daily Pay (01369) Brandenburg KY](https://jobs.smartrecruiters.com/Dominos/744000159528910-delivery-driver-daily-pay-01369-brandenburg-ky) | Brandenburg, KY, us | $15 to $25/hour | 2026-11-04 |  |
 | Grow Therapy | [Specialist I, Customer Support](https://jobs.ashbyhq.com/grow-therapy/1ed1a956-487d-4424-b296-4b307959a53c) | Remote | $24.04/hour | 2026-11-04 |  |
 | Jobgether | [Customer Service Rep - Corporate](https://jobs.lever.co/jobgether/1f26f919-ec87-4f20-b0bc-3f72889c59c8) | US | $19.50/hour | 2026-11-04 |  |
@@ -656,7 +664,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Armstrong Fluid Technology | [Customer Service Representative](https://armstrongfluidtechnology.bamboohr.com/careers/1011) | North Tonawanda, New York, United States | $20 to $22/hour | 2026-11-04 | no visa sponsorship |
 | Blueprint Technologies | [Customer Support Agent - (Spanish Speaking) (Bench Team)](https://job-boards.greenhouse.io/bpcs/jobs/8350264) | Bellevue, WA (hybrid) | $23 to $25.50/hour | 2026-11-04 |  |
 | Charles Schwab | [Client Relationship Specialist - Akron, OH](https://www.schwabjobs.com/job/copley/client-relationship-specialist-akron-oh/33727/102810469616) | Copley, Ohio |  | 2026-11-04 |  |
-| Charles Schwab | [Client Relationship Specialist - Seal Beach, CA](https://www.schwabjobs.com/job/seal-beach/client-relationship-specialist-seal-beach-ca/33727/102812993984) | Seal Beach, California |  | 2026-11-04 |  |
 | City of New York | [Mediator and Intake Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016579401-mediator-and-intake-specialist) | New York City, NY, us |  | 2026-11-04 |  |
 | City of New York | [Customer Service Representative](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016579016-customer-service-representative) | New York City, NY, us |  | 2026-11-04 |  |
 | CLEAR - Corporate | [Sales Development Representative (C1 - B2B)](https://job-boards.greenhouse.io/clear/jobs/8351369) | New York, New York, United States |  | 2026-11-04 |  |
@@ -749,10 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of New York | [Report Writer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016543216-report-writer) | New York City, NY, us |  | 2026-11-04 |  |
 | AO Garcia Agency | [Remote Client Services Trainee](https://jobs.lever.co/aogarciaagency/e5ec7a71-f060-42c5-a929-d69a0333b683) | Missoula, Montana (remote) |  | 2026-11-04 |  |
 | Aspen Skiing Company | [Sales & Reservations Agent - Ski & Snowboard School - Winter 26-27](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000158785879-sales-reservations-agent-ski-snowboard-school-winter-26-27) · Winter 2026 | Aspen or Snowmass Village, CO, us |  | 2026-11-04 |  |
-| Assort Health | [Sales Development Representative](https://jobs.ashbyhq.com/assorthealth/775971f9-a5f1-45bc-a519-0c78aa39fe44) | San Francisco |  | 2026-11-04 |  |
-| Constellation Software, Inc. | [Growth Specialist](https://job-boards.greenhouse.io/constellationsoftwareinc/jobs/4726115006) | New York, New York (hybrid) |  | 2026-11-04 |  |
-| Conversion | [Brand Designer](https://jobs.ashbyhq.com/conversion/322268e7-a407-43da-8f73-8ace70096cc4) | San Francisco Office |  | 2026-11-04 |  |
-| Cranial Technologies | [Customer Service Representative – Parent Liaison (Remote)](https://job-boards.greenhouse.io/cranialtechnologies/jobs/8924674002) | Remote |  | 2026-11-04 | no visa sponsorship |
-| Expeditors | [Domestic Transportation Customer Service](https://jobs.smartrecruiters.com/Expeditors/744000158745134-domestic-transportation-customer-service) | Sterling, VA, us | $23 to $25/hour | 2026-11-04 |  |
-| Expeditors | [Domestic Transportation Customer Service](https://jobs.smartrecruiters.com/Expeditors/744000158745499-domestic-transportation-customer-service) | Elkridge, MD, us | $23 to $25/hour | 2026-11-04 |  |
-| FieldTRUE | [Bilingual Customer Service Representative](https://fieldtrue.bamboohr.com/careers/166) | West Sacramento, California, United States |  | 2026-11-04 |  |

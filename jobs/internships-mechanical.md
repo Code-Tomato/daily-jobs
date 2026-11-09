@@ -1,11 +1,14 @@
 # Internships and co-ops: Mechanical, aerospace and manufacturing
 
-1,456 open, newest first (by the date the scraper first saw them), updated 2026-11-08. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,454 open, newest first (by the date the scraper first saw them), updated 2026-11-09. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Lennox | [HVAC Service Apprentice](https://globalcareers-lennox.icims.com/jobs/57655/hvac-service-apprentice/job) | Phoenix, AZ | $33,000 to $41,000 | 2026-11-09 |  |
+| Texas AirSystems | [HVAC Sales Engineer Rotational Internship](https://job-boards.greenhouse.io/texasairsystems/jobs/5476528008) · Fall 2026 | Irving, Texas, United States |  | 2026-11-09 | no visa sponsorship |
+| Schar Heating & Cooling, Inc. | [HVAC Apprentice](https://scharheating.bamboohr.com/careers/48) | Rittman, Ohio, United States |  | 2026-11-09 |  |
 | Kiewit | [Structural Engineer Intern - Kiewit Nuclear Solutions (Summer 2027)](https://kiewitcareers.kiewit.com/job/Lenexa-Structural-Engineer-Intern-Kiewit-Nuclear-Solutions-%28Summer-2027%29-KS/1425392700/) · Summer 2027 | Oak Ridge, TN, US |  | 2026-11-07 | US citizens/persons only |
 | Sonic Automotive | [Apprentice Automotive Buyer](https://jobs.smartrecruiters.com/SonicAutomotive/744000160373386-apprentice-automotive-buyer) | Charlotte, NC, us | $54,000 to $60,000 | 2026-11-07 |  |
 | AECOM | [Mechanical Intern](https://jobs.smartrecruiters.com/AECOM2/744000160245149-mechanical-intern) | Dallas, TX, us |  | 2026-11-07 | US citizens/persons only |
@@ -753,6 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Murgado Automotive Group | [Apprentice Automotive Technician](https://jobs.lever.co/murgadoautomotive/548fe44d-a42d-4409-a8b5-ade64c1e7830) | Libertyville, IL |  | 2026-11-04 |  |
 | Solcoa Industries | [Metallurgical Engineering Intern](https://jobs.ashbyhq.com/solcoa/fb68d787-15e7-4d44-b291-7f0b5038ddb8) | Alameda, California |  | 2026-11-04 |  |
 | Dedalus Labs, Inc. | [Systems Engineer Intern](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6) | San Francisco | $30 to $50/hour | 2026-11-04 |  |
-| Day & Nite Plumbing & Heating | [HVAC Installer Apprentice](https://dayandniteplumbing.bamboohr.com/careers/34) | Lynnwood, Washington, United States |  | 2026-11-04 |  |
-| Anduril Industries | [2027 Manufacturing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) · Summer 2027 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; | $30 to $40/hour | 2026-11-04 | US citizens/persons only |
-| Anduril Industries | [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) · Summer 2027 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; | $30 to $45/hour | 2026-11-04 | US citizens/persons only |
