@@ -1,11 +1,26 @@
 # Internships and co-ops: Civil, construction and environmental
 
-900 open, newest first (by the date the scraper first saw them), updated 2026-11-09. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+907 open, newest first (by the date the scraper first saw them), updated 2026-11-10. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AECOM | [Construction Intern](https://jobs.smartrecruiters.com/AECOM2/744000160729124-construction-intern) · Summer 2027 | New York, NY, us |  | 2026-11-10 | no visa sponsorship |
+| AECOM | [Water Resources Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000160727549-water-resources-engineering-intern) | Philadelphia, PA, us |  | 2026-11-10 | no visa sponsorship |
+| AECOM | [Construction Intern (Summer 2027)](https://jobs.smartrecruiters.com/AECOM2/744000160702379-construction-intern-summer-2027-) · Summer 2027 | Chicago, IL, us |  | 2026-11-10 |  |
+| Black & Veatch | [Structural Engineer Intern, Transmission Line Phoenix](https://careers.bv.com/job/Phoenix-Structural-Engineer-Intern%2C-Transmission-Line-Phoenix-AZ-85001/1455791433/) | Phoenix, AZ, US | $20.70 to $36.86/hour | 2026-11-10 |  |
+| Coffman Engineers, Inc. | [Civil Engineering Intern](https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000160700557-civil-engineering-intern) | Honolulu, HI, us | $23 to $26/hour | 2026-11-10 | no visa sponsorship |
+| Northcentral Electric Cooperative | [Apprentice Lineman](https://Northcentralelectric.bamboohr.com/careers/122) | Olive Branch, Mississippi, United States |  | 2026-11-10 |  |
+| Simpson Gumpertz & Heger | [Technical Intern, Advanced Structural Analysis Summer 2027](https://www.sgh.com/careers/job-openings/view-job/8934834002?gh_jid=8934834002) · Summer 2027 | Waltham, Massachusetts, United States | $30.25 to $38.25/hour | 2026-11-10 |  |
+| Summit Contracting | [Post Frame Construction Summer Internship](https://buildsummit.bamboohr.com/careers/447) · Summer | Platte, South Dakota, United States |  | 2026-11-10 |  |
+| Summit Contracting | [Post Frame Construction Summer Internship](https://buildsummit.bamboohr.com/careers/448) · Summer | Pierre, South Dakota, United States |  | 2026-11-10 |  |
+| Summit Contracting | [Post Frame Construction Summer Internship](https://buildsummit.bamboohr.com/careers/449) · Summer | Brookings, South Dakota, United States |  | 2026-11-10 |  |
+| Summit Contracting | [Post Frame Construction Summer Internship](https://buildsummit.bamboohr.com/careers/450) · Summer | Seward, Nebraska, United States |  | 2026-11-10 |  |
+| Summit Contracting | [Post Frame Construction Summer Internship](https://buildsummit.bamboohr.com/careers/451) · Summer | Norfolk, Nebraska, United States |  | 2026-11-10 |  |
+| The Boring Company | [Architectural Design Intern](https://jobs.gem.com/the-boring-company/a5c7f7e0-c4a6-4f4e-8adb-f631b457b3c4) | Las Vegas, NV |  | 2026-11-10 |  |
+| Veolia Environnement SA | [Project Engineering & Archival Intern -Water Technologies](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160735749-project-engineering-archival-intern-water-technologies) | Pico Rivera, CA, us |  | 2026-11-10 |  |
+| Kiewit | [Civil Engineer Intern (Summer 2027) - Kiewit OGC Engineering](https://kiewitcareers.kiewit.com/job/Houston-Civil-Engineer-Intern-%28Summer-2027%29-Kiewit-OGC-Engineering-TX-77001/1444200000/) · Summer 2027 | Houston, TX, US |  | 2026-11-10 |  |
 | Simpson Gumpertz & Heger | [Technical Intern, Structural Engineering Summer 2027](https://www.sgh.com/careers/job-openings/view-job/8924066002?gh_jid=8924066002) · Summer 2027 | Oakland, California, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
 | Simpson Gumpertz & Heger | [Technical Intern, Advanced Structural Analysis Summer 2027](https://www.sgh.com/careers/job-openings/view-job/8917119002?gh_jid=8917119002) · Summer 2027 | Tampa, Florida, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
 | Simpson Gumpertz & Heger | [Technical Co-op, Advanced Structural Analysis Spring 2027](https://www.sgh.com/careers/job-openings/view-job/8879385002?gh_jid=8879385002) · Spring 2027 | Waltham, Massachusetts, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
@@ -21,7 +36,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Simpson Gumpertz & Heger | [Technical Co-Op, Civil Engineering Winter/Spring 2027](https://www.sgh.com/careers/job-openings/view-job/8757524002?gh_jid=8757524002) · Spring 2027 | Waltham, Massachusetts, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
 | Simpson Gumpertz & Heger | [Technical Intern, Structural Engineering Summer 2027](https://www.sgh.com/careers/job-openings/view-job/8757448002?gh_jid=8757448002) · Summer 2027 | Waltham, Massachusetts, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
 | Simpson Gumpertz & Heger | [Technical Intern, Advanced Analysis Summer 2027](https://www.sgh.com/careers/job-openings/view-job/8716382002?gh_jid=8716382002) · Summer 2027 | Atlanta, Georgia, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
-| Simpson Gumpertz & Heger | [Technical Intern, Advanced Analysis Fall 2026](https://www.sgh.com/careers/job-openings/view-job/8641869002?gh_jid=8641869002) · Fall 2026 | Newport Beach, California, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
 | Lingo Construction | [Construction Intern](https://job-boards.greenhouse.io/lingoconstruction/jobs/4063714008) | Oklahoma City, OK |  | 2026-11-09 |  |
 | Landscape Solutions | [Construction Apprentice](https://landscapesolutions.bamboohr.com/careers/559) | Remote |  | 2026-11-09 |  |
 | AECOM | [Construction Intern - AECOM Tishman](https://jobs.smartrecruiters.com/AECOM2/744000160257024-construction-intern-aecom-tishman-) · Summer 2027 | Boston, MA, us |  | 2026-11-07 | no visa sponsorship |
@@ -64,7 +78,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Felsburg Holt & Ullevig | [Transportation Design Internship - I0024](https://apply.workable.com/j/39C401B543) | Des Moines, Iowa, United States | $23/hour | 2026-11-06 |  |
 | Felsburg Holt & Ullevig | [Transportation Design Internship - I0028](https://apply.workable.com/j/8062A28A4E) | Omaha, Nebraska, United States | $23/hour | 2026-11-06 |  |
 | Felsburg Holt & Ullevig | [Water Resources Engineer Intern - I0027](https://apply.workable.com/j/6782EB1124) | Omaha, Nebraska, United States | $23/hour | 2026-11-06 |  |
-| Stanley Consultants | [Student Intern 2027 - Construction Services](https://jobs.lever.co/stanleygroup/22ab5ddf-8793-44a6-832a-9b5f2c7205d5) | Chicago, IL |  | 2026-11-06 |  |
 | F.H. Paschen | [Construction Intern - Charleston Summer 2027](https://apply.workable.com/j/BD1DC276C6) · Summer 2027 | Charleston, South Carolina, United States | $22 to $24/hour | 2026-11-06 |  |
 | F.H. Paschen | [Construction Intern - Atlanta Summer 2027](https://apply.workable.com/j/5E600A3C88) · Summer 2027 | Atlanta, Georgia, United States | $22 to $24/hour | 2026-11-06 |  |
 | F.H. Paschen | [Construction Intern - Chicago Summer 2027](https://apply.workable.com/j/7E8B5E385E) · Summer 2027 | Chicago, Illinois, United States | $22 to $24/hour | 2026-11-06 |  |
@@ -75,10 +88,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | F.H. Paschen | [Construction Intern - Merrillville Summer 2027](https://apply.workable.com/j/6A4C7275BE) · Summer 2027 | Merrillville, Indiana, United States | $22 to $24/hour | 2026-11-06 |  |
 | F.H. Paschen | [Construction Intern - Raleigh Summer 2027](https://apply.workable.com/j/62DDA68671) · Summer 2027 | Raleigh, North Carolina, United States | $22 to $24/hour | 2026-11-06 |  |
 | F.H. Paschen | [Construction Intern - Tampa Summer 2027](https://apply.workable.com/j/F2312D633B) · Summer 2027 | Tampa, Florida, United States | $22 to $24/hour | 2026-11-06 |  |
+| Baker Hughes | [Field Engineering Intern- Summer 2027 Opportunities](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-11150-EQUITY-DRIVE/Field-Engineering-Intern--Summer-2027-Opportunities_R169856) · Summer 2027 | US-TX-HOUSTON-11150 EQUITY DRIVE | $22 to $44/hour | 2026-11-05 | no visa sponsorship |
 | AECOM | [Structural Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000159722317-structural-engineering-intern) | New York, NY, us |  | 2026-11-05 | no visa sponsorship |
 | AECOM | [Structural Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000159722189-structural-engineering-intern) | Latham, NY, us |  | 2026-11-05 | no visa sponsorship |
 | AECOM | [Civil Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000159721767-civil-engineering-intern) · Summer 2027 | Piscataway, NJ, us |  | 2026-11-05 | no visa sponsorship |
-| Baker Hughes | [Field Engineering Intern- Summer 2027 Opportunities](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-11150-EQUITY-DRIVE/Field-Engineering-Intern--Summer-2027-Opportunities_R169856) · Summer 2027 | US-TX-HOUSTON-11150 EQUITY DRIVE | $22 to $44/hour | 2026-11-05 | no visa sponsorship |
 | Daimler Truck North America | [Project Engineering Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Project-Engineering-Intern_DT-20557) | Portland, OR US | $21 to $29/hour | 2026-11-05 |  |
 | Fox Corporation | [Summer 2027 FOX Corporation Internship - Planning, Design, and Construction - Los Angeles](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Summer-2027-FOX-Corporation-Internship---Planning--Design--and-Construction---Los-Angeles_R50034253) · Summer 2027 | Los Angeles, California, USA | $20/hour | 2026-11-05 |  |
 | Fox Corporation | [Spring 2027 FOX Corporation Internship - Planning, Design, and Construction - Los Angeles](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Spring-2027-FOX-Corporation-Internship---Planning--Design--and-Construction---Los-Angeles_R50034252) · Spring 2027 | Los Angeles, California, USA | $20/hour | 2026-11-05 |  |
@@ -110,7 +123,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Scarsella Bros., Inc. | [Summer 2027 Project Intern](https://scarsellabros.bamboohr.com/careers/113) · Summer 2027 | Easton, Washington, United States |  | 2026-11-05 | no visa sponsorship |
 | Walker Consultants | [Structural Engineering Internship - Summer 2027](https://jobs.lever.co/walkerconsultants/e7847512-c7aa-4ae0-817b-07e41c443f3a) · Summer 2027 | Berwyn, PA |  | 2026-11-05 |  |
 | Road Commission for Oakland County | [Civil Engineer Internship](https://rcoc.bamboohr.com/careers/316) · Summer 2027 | Waterford, Michigan, United States |  | 2026-11-05 |  |
-| Walker Consultants | [Structural Engineer Internship - Summer 2027](https://jobs.lever.co/walkerconsultants/3a889a92-75ba-4206-953a-25952cfea869) · Summer 2027 | Portage, MI |  | 2026-11-05 |  |
 | Walker Consultants | [Structural Engineering Intern - Summer 2027](https://jobs.lever.co/walkerconsultants/98112350-1724-4d50-a7c7-c020100d325b) · Summer 2027 | Minneapolis, MN |  | 2026-11-05 |  |
 | BGE, Inc | [North Austin - Construction Management, Internship](https://job-boards.greenhouse.io/bgeinc/jobs/5371249008) | 101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728 |  | 2026-11-05 |  |
 | Holt Brothers Inc | [Construction Internship (Moncks Corner, SC)](https://holtbrothersinc.bamboohr.com/careers/84) | Moncks Corner, South Carolina, United States |  | 2026-11-05 | no visa sponsorship |
@@ -155,7 +167,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | S. W. Cole Engineering, Inc. | [Intern - Construction Services - 2027 - Somersworth](https://swcole.bamboohr.com/careers/469) | Somersworth, New Hampshire, United States |  | 2026-11-05 |  |
 | S. W. Cole Engineering, Inc. | [Intern - Construction Services - 2027 - Boylston](https://swcole.bamboohr.com/careers/470) | Boylston, Massachusetts, United States |  | 2026-11-05 |  |
 | S. W. Cole Engineering, Inc. | [Intern - Construction Services - 2027 - Easton](https://swcole.bamboohr.com/careers/472) | Easton, Massachusetts, United States |  | 2026-11-05 |  |
-| Stanley Consultants | [Student Intern 2027 - Civil, Water Resources](https://jobs.lever.co/stanleygroup/9f5e063c-70b8-4ab6-9fc6-601925a2a505) | Minneapolis, MN |  | 2026-11-05 | no visa sponsorship |
 | Stanley Consultants | [Student Intern 2027 - Transportation Traffic](https://jobs.lever.co/stanleygroup/f149f506-b70f-4d32-a4c7-bd427659e4a2) | DeBary, FL |  | 2026-11-05 |  |
 | Wade Trim | [Engineer Summer Intern - #3033](https://jobs.lever.co/wadetrim/e05c1974-f748-4930-a753-3c6acd439c5e) · Summer | Tampa, FL |  | 2026-11-05 |  |
 | Wade Trim | [Landscape Architect Summer Intern - #3025](https://jobs.lever.co/wadetrim/b91daf5c-85dd-4714-9a92-cb1a81edb359) · Summer | Detroit, MI |  | 2026-11-05 |  |
@@ -211,7 +222,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ARCO Companies | [Construction Project Manager Intern or Co-op (2027)](https://job-boards.greenhouse.io/arco/jobs/4479411009) | Greenville, SC, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager Intern or Co-op (2027)](https://job-boards.greenhouse.io/arcodb/jobs/4479392009) | Greenville, SC, US |  | 2026-11-04 |  |
 | Align Builders | [Project Engineer Intern](https://jobs.gem.com/align-builders/am9icG9zdDq0gWvu6UIp1wxQ20CPX9nd) | San Diego County , Los Angeles County, Orange County | $25/hour | 2026-11-04 |  |
-| Ayar Labs | [Intern, Architect - Link Architecture and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e095cfd0260) | San Jose, CA, United States |  | 2026-11-04 |  |
+| Ayar Labs | [Intern, Architect - Link Architecture and Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a19e095cfd0260) | San Jose, CA, United States | $50 to $60/hour | 2026-11-04 |  |
 | Erdman Anthony | [Construction Services Intern](https://erdman-anthony.breezy.hr/p/df536d0faad3-construction-services-intern) | Mechanicsburg, PA |  | 2026-11-04 |  |
 | Erdman Anthony | [Construction Services Intern - Field](https://erdman-anthony.breezy.hr/p/3d49ddcd43ff-construction-services-intern-field) | Malvern, PA |  | 2026-11-04 | no visa sponsorship |
 | KPFF Consulting Engineers | [Structural Engineering Intern - 2027](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990016595416-structural-engineering-intern-2027) | Portland, OR, us |  | 2026-11-04 |  |
@@ -260,8 +271,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Egis Group | [Civil Engineering Intern](https://jobs.smartrecruiters.com/EgisGroup/744000156031979-civil-engineering-intern) | Harrisburg, PA, us |  | 2026-11-04 | no visa sponsorship |
 | KPFF Consulting Engineers | [Transportation Engineering Internship](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990016164206-transportation-engineering-internship-) · Summer 2027 | Spokane, WA, us | $28 to $32/hour | 2026-11-04 |  |
 | KPFF Consulting Engineers | [Civil Engineering Internship](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990016162617-civil-engineering-internship) · Summer 2027 | Seattle, WA, us | $28 to $32/hour | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4368837009) · Summer 2027 | Tampa, Florida, United States |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4375995009) · Summer 2027 | Pittsburgh, PA |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4368837009) · Summer 2027 | Tampa, Florida, United States |  | 2026-11-04 |  |
 | MacKay | [Civil Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/mackaysposito/jobs/4439457009) · Summer 2027 | Pasco, WA | $22 to $25/hour | 2026-11-04 |  |
 | AECOM | [Construction Management Intern – Hiring Event with AECOM – Atlanta, GA](https://jobs.smartrecruiters.com/AECOM2/744000155565844-construction-management-intern-hiring-event-with-aecom-atlanta-ga) · Summer 2027 | Savannah, GA, us |  | 2026-11-04 | no visa sponsorship |
 | AECOM | [Civil Engineering Intern – Hiring Event with AECOM – Atlanta, GA](https://jobs.smartrecruiters.com/AECOM2/744000155564606-civil-engineering-intern-hiring-event-with-aecom-atlanta-ga) · Summer 2027 | Savannah, GA, us |  | 2026-11-04 | no visa sponsorship |
@@ -275,7 +286,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | RE/SPEC Inc. | [Student Engineering Intern - Water Resources](https://jobs.smartrecruiters.com/RESPECInc/744000155365724-student-engineering-intern-water-resources) · Summer 2027 | Anchorage, AK, us | $22 to $27/hour | 2026-11-04 |  |
 | Benesch | [Transportation Engineering Internship](https://www.benesch.com/job-openings/5233696007?gh_jid=5233696007) | East Lansing, MI |  | 2026-11-04 |  |
 | Delve Underground | [Civil Engineering Intern - Summer 2027](https://ats.rippling.com/delve-underground-careers/jobs/f1afe18e-054b-46f3-b02f-edbaffb01d2d) · Summer 2027 | Seattle, WA | $26 to $32/hour | 2026-11-04 |  |
-| Woolpert | [Water Civil Design Internship - Texas (Summer 2027)](https://job-boards.greenhouse.io/woolpert/jobs/4438876009) · Summer 2027 | Houston, TX | $23 to $27/hour | 2026-11-04 | no visa sponsorship |
 | Olsson | [Structural Engineering Internship - Facilities](https://job-boards.greenhouse.io/olsson/jobs/5441485008) | Dallas, TX; Fort Worth, TX |  | 2026-11-04 |  |
 | Veolia Environnement SA | [Field Engineering Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779699-field-engineering-intern) | Lincoln, NE, us | $21.32 to $24.21/hour | 2026-11-04 | no visa sponsorship |
 | AECOM | [Internship and Entry-Level Graduate Opportunities - 2026 ASCE Career Fair (American Society of Civil Engineers](https://jobs.smartrecruiters.com/AECOM2/744000154492489-internship-and-entry-level-graduate-opportunities-2026-asce-career-fair-american-society-of-civil-engineers-) | Minneapolis, MN, us |  | 2026-11-04 | no visa sponsorship |
@@ -290,7 +300,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Burgess & Niple | [Bridge Inspection Civil Engineer Co-Op](https://job-boards.greenhouse.io/burgessniple/jobs/4423957009) · Summer 2027 | Portland, OR |  | 2026-11-04 |  |
 | Loenbro | [Project Engineer Intern](https://job-boards.greenhouse.io/loenbro/jobs/4433425009) | Centennial, CO; Fort Collins, CO | $20 to $25/hour | 2026-11-04 |  |
 | Loenbro | [Project Engineer Intern - Travel](https://job-boards.greenhouse.io/loenbro/jobs/4437021009) | Atlanta, Georgia, United States |  | 2026-11-04 |  |
-| Woolpert | [Construction Management Internship (Summer 2027)](https://job-boards.greenhouse.io/woolpert/jobs/4426432009) · Summer 2027 | Dayton, OH; Denver, CO; Houston, TX; Indianapolis, IN; Jackson, WY; Sa | $23 to $27/hour | 2026-11-04 | no visa sponsorship |
 | Woolpert | [Site Civil/ Energy Internship (Summer 2027)](https://job-boards.greenhouse.io/woolpert/jobs/4426119009) · Summer 2027 | Columbus, OH | $23 to $27/hour | 2026-11-04 | no visa sponsorship |
 | Woolpert | [Site Civil/Energy Internship (Summer 2027)](https://job-boards.greenhouse.io/woolpert/jobs/4426103009) · Summer 2027 | King of Prussia, PA | $23 to $27/hour | 2026-11-04 | no visa sponsorship |
 | Ausland Group | [Project Engineer Internship, Construction](https://ausland.bamboohr.com/careers/197) | Grants Pass, Oregon, United States |  | 2026-11-04 |  |
@@ -313,11 +322,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AECOM | [Structural Engineering Intern – Hiring Event with AECOM – Atlanta, GA](https://jobs.smartrecruiters.com/AECOM2/744000152952229-structural-engineering-intern-hiring-event-with-aecom-atlanta-ga) · Summer 2027 | Atlanta, GA, us |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Civil Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441775008) · Summer 2027 | Orlando, Florida, United States |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Structural Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441878008) · Summer 2027 | Cleveland, Ohio, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
-| DLR Group | [Structural Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441805008) · Summer 2027 | Dallas, Texas, United States |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Structural Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441300008) · Summer 2027 | Los Angeles, California, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
-| DLR Group | [Structural Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441370008) · Summer 2027 | Denver, Colorado, United States; Phoenix, Arizona, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
+| DLR Group | [Structural Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441805008) · Summer 2027 | Dallas, Texas, United States |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Structural Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441869008) · Summer 2027 | Charlotte, North Carolina, United States |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Structural Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441213008) · Summer 2027 | Minneapolis, Minnesota, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
+| DLR Group | [Structural Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441370008) · Summer 2027 | Denver, Colorado, United States; Phoenix, Arizona, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
 | KPFF Consulting Engineers | [Civil Engineering Intern -2027](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015825896-civil-engineering-intern-2027) | Lacey, WA, us | $25 to $29/hour | 2026-11-04 |  |
 | KPFF Consulting Engineers | [Water Resources/Fish Passage Intern - 2027](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015825096-water-resources-fish-passage-intern-2027) | Lacey, WA, us | $25 to $29/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4407424009) · Summer 2027 | Syracuse, NY | $23 to $30/hour | 2026-11-04 |  |
@@ -333,8 +342,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Benesch | [Civil/Site Engineering Internship - Summer 2027](https://www.benesch.com/job-openings/5226253007?gh_jid=5226253007) · Summer 2027 | Glastonbury, CT |  | 2026-11-04 |  |
 | Benesch | [Transportation Engineering Internship](https://www.benesch.com/job-openings/5228456007?gh_jid=5228456007) | Glastonbury, CT | $18 to $30/hour | 2026-11-04 |  |
 | CannonDesign | [Structural Student Intern](http://www.cannondesign.com/careers/?gh_jid=8856616002) | Buffalo, NY | $22.25 to $26.25/hour | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4371151009) · Summer 2027 | Philadelphia, PA |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4375307009) · Summer 2027 | Doylestown, PA |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4371151009) · Summer 2027 | Philadelphia, PA |  | 2026-11-04 |  |
 | LaRiviere, Inc. | [Construction Apprentice - Boise / Buhl Area](https://lariviere.bamboohr.com/careers/182) | Caldwell, Idaho, United States |  | 2026-11-04 |  |
 | SGS | [Project Engineer - Intern](https://jobs.smartrecruiters.com/SGS/744000152533359-project-engineer-intern) | Suwanee, GA, us | $19 to $26/hour | 2026-11-04 |  |
 | JRM Construction Management, LLC | [DoD SkillBridge Internship: Construction Management](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4717266006) | New York, NY | $65,000 to $90,000 | 2026-11-04 |  |
@@ -393,8 +402,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Delve Underground | [Civil Engineer Intern Co-Op](https://ats.rippling.com/delve-underground-careers/jobs/6617d47f-c95f-4b91-ad99-490ab2716f2e) · Summer 2027 | New York, NY | $26 to $32/hour | 2026-11-04 |  |
 | KPFF Consulting Engineers | [Structural Engineering Internship](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015407616-structural-engineering-internship-) · Summer 2027 | Seattle, WA, us | $28 to $32/hour | 2026-11-04 |  |
 | KPFF Consulting Engineers | [Bridge Structural Engineering Internship](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015407566-bridge-structural-engineering-internship) · Summer 2027 | Seattle, WA, us | $28 to $32/hour | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op – Traffic Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4390486009) · Summer 2027 | Chicago, IL; Cleveland, OH; Pittsburgh, PA | $22 to $27/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Traffic Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4408667009) · Summer 2027 | West Palm Beach, Florida, United States |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op – Traffic Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4390486009) · Summer 2027 | Chicago, IL; Cleveland, OH; Pittsburgh, PA | $22 to $27/hour | 2026-11-04 |  |
 | MAS Building & Bridge, Inc | [Field Engineer Intern/Co-op](https://masbuilding.bamboohr.com/careers/83) | Norfolk, Massachusetts, United States |  | 2026-11-04 |  |
 | SOCOTEC | [Geotechnical Engineering Field and Lab Assistant Summer Intern](https://jobs.smartrecruiters.com/Socotec/744000150434499-geotechnical-engineering-field-and-lab-assistant-summer-intern) · Summer | Austin, TX, us |  | 2026-11-04 |  |
 | Aristeo Construction | [Construction Safety Intern](https://aristeo.breezy.hr/p/5d4a664eef23-construction-safety-intern) | Livonia, MI |  | 2026-11-04 |  |
@@ -432,21 +441,21 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Granger Construction | [Virtual Design + Construction Intern](https://jobs.gem.com/granger-construction/am9icG9zdDoUE0NEI0Qb-SOm5XU2Z9ZO) | Lansing, MI (remote) |  | 2026-11-04 |  |
 | KPFF Consulting Engineers | [Engineering - Civil Engineering Internship](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015271946-engineering-civil-engineering-internship) | Austin, TX, us | $28.50/hour | 2026-11-04 |  |
 | KPFF Consulting Engineers | [Engineering - Civil Engineering Internship](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015271676-engineering-civil-engineering-internship) | Los Angeles, CA, us | $28.50/hour | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403087009) · Summer 2027 | Pittsburgh, PA; United States of America |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403095009) · Summer 2027 | Cleveland, OH; United States of America |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4402396009) · Summer 2027 | Arlington, VA | $23 to $32/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4375460009) · Summer 2027 | Orlando, Florida, United States |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403087009) · Summer 2027 | Pittsburgh, PA; United States of America |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4402396009) · Summer 2027 | Arlington, VA | $23 to $32/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Spring 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403064009) · Spring 2027 | Chicago, IL | $22 to $27/hour | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Spring 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403070009) · Spring 2027 | Pittsburgh, PA |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Spring 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403078009) · Spring 2027 | Milwaukee, WI; United States of America |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Spring 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403070009) · Spring 2027 | Pittsburgh, PA |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4355699009) · Summer 2027 | New York, NY | $25 to $32/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-Op - Traffic Engineering (Spring 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403059009) · Spring 2027 | Chicago, IL; Cleveland, OH; Pittsburgh, PA | $22 to $27/hour | 2026-11-04 |  |
 | MacKay | [Civil Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/mackaysposito/jobs/4402614009) · Summer 2027 | Chicago, IL | $22 to $25/hour | 2026-11-04 |  |
 | CA Hull | [Construction Health & Safety Intern](https://cahull.bamboohr.com/careers/87) · Summer 2027 | COMMERCE TOWNSHIP, Michigan, United States |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4355068009) · Summer 2027 | Parsippany, NJ | $24 to $31/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4342428009) · Summer 2027 | Parsippany, NJ | $24 to $31/hour | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4361763009) · Summer 2027 | Salt Lake City, UT |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4386908009) · Summer 2027 | Denver, Colorado, United States | $23 to $30/hour | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4361763009) · Summer 2027 | Salt Lake City, UT |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4337918009) · Summer 2027 | Austin, TX |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship- Site Design](https://job-boards.greenhouse.io/olsson/jobs/5423452008) | Dallas, TX; Oklahoma City, OK |  | 2026-11-04 |  |
 | RE/SPEC Inc. | [Student Engineering Intern (Civil, Geotechnical, or Geomatics/Survey)](https://jobs.smartrecruiters.com/RESPECInc/744000149450219-student-engineering-intern-civil-geotechnical-or-geomatics-survey-) | Anchorage, AK, us |  | 2026-11-04 |  |
@@ -467,8 +476,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Barnhart Crane & Rigging | [Field Engineer Co-Op](https://barnhart-crane-rigging.breezy.hr/p/0bb7b20daa11-field-engineer-co-op) | Oak Ridge, TN |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4393515009) · Summer 2027 | Dallas, TX |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4389217009) · Summer 2027 | Princeton, NJ | $23 to $30/hour | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4391566009) · Summer 2027 | Tyler, TX |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4393315009) · Summer 2027 | Celina, TX |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4391566009) · Summer 2027 | Tyler, TX |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4388898009) · Summer 2027 | Fort Worth, TX |  | 2026-11-04 |  |
 | MacKay | [Civil Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/mackaysposito/jobs/4396867009) · Summer 2027 | Albuquerque, NM | $25 to $28/hour | 2026-11-04 |  |
 | Monteith Construction | [Construction Operations Intern](https://ats.rippling.com/monteith/jobs/08a1d0c4-202a-4579-9e22-47e78d2243ef) · Summer 2027 | Myrtle Beach, SC |  | 2026-11-04 |  |
@@ -486,10 +495,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Langan Engineering & Environmental Services | [Intern/Co-op – Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4386161009) · Summer 2027 | San Francisco, California, United States | $25 to $32/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4382663009) · Summer 2027 | Irvine, California, United States | $25 to $32/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4332727009) · Summer 2027 | Charlotte, NC |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4382581009) · Summer 2027 | Bellevue, WA | $25 to $32/hour | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4356865009) · Summer 2027 | Irvine, California, United States | $25 to $32/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4386056009) · Summer 2027 | Las Vegas, NV | $23 to $30/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4386074009) · Summer 2027 | Portland, OR |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4356865009) · Summer 2027 | Irvine, California, United States | $25 to $32/hour | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4382581009) · Summer 2027 | Bellevue, WA | $25 to $32/hour | 2026-11-04 |  |
 | MacKay | [Civil Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/mackaysposito/jobs/4396856009) · Summer 2027 | Raton, NM | $25 to $28/hour | 2026-11-04 |  |
 | MacKay | [Civil Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/mackaysposito/jobs/4396875009) · Summer 2027 | Federal Way, WA | $22 to $25/hour | 2026-11-04 |  |
 | MacKay | [Civil Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/mackaysposito/jobs/4396876009) · Summer 2027 | Vancouver, WA | $22 to $25/hour | 2026-11-04 |  |
@@ -520,9 +529,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Benesch | [Structural Engineering Internship](https://www.benesch.com/job-openings/5231173007?gh_jid=5231173007) | Allentown, PA |  | 2026-11-04 |  |
 | fairlife | [Project Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/fairlife/jobs/5231454007) · Summer 2027 | Coopersville, Michigan, United States | $28/hour | 2026-11-04 |  |
 | KPFF Consulting Engineers | [Civil Engineering Intern, Summer 2027](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015069306-civil-engineering-intern-summer-2027) · Summer 2027 | Newport Beach, CA, us | $28.50/hour | 2026-11-04 | no visa sponsorship |
+| Secretariat | [Intern, Construction Delay](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4396076009) | New York, New York, United States |  | 2026-11-04 | no visa sponsorship |
 | Secretariat | [Intern, Construction Delay](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4395993009) | Atlanta, Georgia, United States |  | 2026-11-04 | no visa sponsorship |
 | Secretariat | [Intern, Construction Delay](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4396088009) | Houston, Texas, United States |  | 2026-11-04 | no visa sponsorship |
-| Secretariat | [Intern, Construction Delay](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4396076009) | New York, New York, United States |  | 2026-11-04 | no visa sponsorship |
 | AKS Internships | [2027 AKS Environmental Services Internship Program](https://job-boards.greenhouse.io/aks-internships/jobs/4395452009) | Las Vegas, Nevada, United States | $19 to $25/hour | 2026-11-04 |  |
 | AKS Internships | [2027 AKS Geotechnical Engineering Internship Program](https://job-boards.greenhouse.io/aks-internships/jobs/4395455009) | Bend, Oregon, United States; Keizer, Oregon, United States; Tualatin,  | $19 to $25/hour | 2026-11-04 |  |
 | AKS Internships | [2027 AKS Pre-Construction Internship Program](https://job-boards.greenhouse.io/aks-internships/jobs/4395459009) | Las Vegas, Nevada, United States | $19 to $25/hour | 2026-11-04 |  |
@@ -547,33 +556,33 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Langan Engineering & Environmental Services | [Intern/Co-op – Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4389286009) · Summer 2027 | New Haven, Connecticut, United States | $23 to $30/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Spring 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4390411009) · Spring 2027 | New Haven, Connecticut, United States | $23 to $30/hour | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408688008) · Summer 2027 | Omaha, NE |  | 2026-11-04 |  |
-| Benesch | [Bridge Design & Structural Engineering Internship](https://www.benesch.com/job-openings/5227414007?gh_jid=5227414007) | Chicago, IL | $18 to $30/hour | 2026-11-04 |  |
 | Benesch | [Bridge Design & Structural Engineering Internship](https://www.benesch.com/job-openings/5227333007?gh_jid=5227333007) | Boston, MA |  | 2026-11-04 |  |
-| Benesch | [Civil Construction Engineering Internship](https://www.benesch.com/job-openings/5227398007?gh_jid=5227398007) · Summer 2027 | Chicago, IL | $18 to $30/hour | 2026-11-04 |  |
+| Benesch | [Bridge Design & Structural Engineering Internship](https://www.benesch.com/job-openings/5227414007?gh_jid=5227414007) | Chicago, IL | $18 to $30/hour | 2026-11-04 |  |
 | Benesch | [Civil Construction Engineering Internship](https://www.benesch.com/job-openings/5208127007?gh_jid=5208127007) | Milwaukee, WI; Neenah, WI; Madison, WI |  | 2026-11-04 |  |
+| Benesch | [Civil Construction Engineering Internship](https://www.benesch.com/job-openings/5227398007?gh_jid=5227398007) · Summer 2027 | Chicago, IL | $18 to $30/hour | 2026-11-04 |  |
 | Benesch | [Civil Engineering Construction Internship](https://www.benesch.com/job-openings/5227489007?gh_jid=5227489007) | Glastonbury, CT |  | 2026-11-04 |  |
 | Benesch | [Transportation Engineering - Roadway/Highway Design Internship](https://www.benesch.com/job-openings/5227637007?gh_jid=5227637007) | Atlanta, GA; Augusta, GA |  | 2026-11-04 |  |
 | Keeley Construction | [Summer 2027 Construction Safety Internship STL](https://job-boards.greenhouse.io/keeleyconstruction/jobs/4729628005) · Summer 2027 | St. Louis, Missouri, United States |  | 2026-11-04 |  |
 | Keeley Construction | [Summer 2027 Traveling Construction Safety Internship](https://job-boards.greenhouse.io/keeleyconstruction/jobs/4729638005) · Summer 2027 | St. Louis, Missouri, United States |  | 2026-11-04 |  |
 | KPFF Consulting Engineers | [Transportation Engineering Internship](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990014980746-transportation-engineering-internship-) · Summer 2027 | Seattle, WA, us | $28 to $32/hour | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Site Design](https://job-boards.greenhouse.io/olsson/jobs/5394059008) | Denver, CO; Loveland, CO |  | 2026-11-04 |  |
+| Olsson | [Revit Drafting Internship](https://job-boards.greenhouse.io/olsson/jobs/5405474008) | Omaha, NE |  | 2026-11-04 |  |
 | Olsson | [Student Internship - Construction Closeout Administration](https://job-boards.greenhouse.io/olsson/jobs/5408557008) · Summer 2027 | Omaha, NE |  | 2026-11-04 |  |
 | Wight & Company | [Construction Management Intern - Summer 2027](https://job-boards.greenhouse.io/wight/jobs/8169789) · Summer 2027 | Darien, Illinois, United States | $20 to $25/hour | 2026-11-04 |  |
 | Wight & Company | [Preconstruction Intern - Summer 2027](https://job-boards.greenhouse.io/wight/jobs/8169994) · Summer 2027 | Darien, Illinois, United States | $20 to $25/hour | 2026-11-04 |  |
 | KPFF Consulting Engineers | [2027 Structural Engineering Intern](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990014959785-2027-structural-engineering-intern) | Boise, ID, us |  | 2026-11-04 |  |
 | KPFF Consulting Engineers | [2027 Structural Engineering Intern](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990014959483-2027-structural-engineering-intern) | Salt Lake City, UT, us |  | 2026-11-04 |  |
-| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408628008) · Summer 2027 | Loveland, CO |  | 2026-11-04 |  |
-| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408543008) · Summer 2027 | North Kansas City, MO; Overland Park, KS |  | 2026-11-04 |  |
-| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408723008) · Summer 2027 | Des Moines, IA |  | 2026-11-04 |  |
-| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408699008) · Summer 2027 | Lincoln, NE |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408678008) · Summer 2027 | Fort Worth, TX |  | 2026-11-04 |  |
+| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408628008) · Summer 2027 | Loveland, CO |  | 2026-11-04 |  |
+| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408723008) · Summer 2027 | Des Moines, IA |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408720008) · Summer 2027 | Denver, CO |  | 2026-11-04 |  |
+| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408699008) · Summer 2027 | Lincoln, NE |  | 2026-11-04 |  |
+| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408543008) · Summer 2027 | North Kansas City, MO; Overland Park, KS |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Roadway](https://job-boards.greenhouse.io/olsson/jobs/5405845008) | Fayetteville, AR |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Roadway](https://job-boards.greenhouse.io/olsson/jobs/5405885008) | Dallas, TX; Fort Worth, TX |  | 2026-11-04 |  |
-| Olsson | [Civil Engineering Internship - Site Design](https://job-boards.greenhouse.io/olsson/jobs/5398272008) · Summer 2027 | Manhattan, KS |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Site Design](https://job-boards.greenhouse.io/olsson/jobs/5400085008) · Summer 2027 | Overland Park, KS |  | 2026-11-04 |  |
+| Olsson | [Civil Engineering Internship - Site Design](https://job-boards.greenhouse.io/olsson/jobs/5398272008) · Summer 2027 | Manhattan, KS |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Site Design](https://job-boards.greenhouse.io/olsson/jobs/5397402008) · Summer 2027 | Fayetteville, AR |  | 2026-11-04 |  |
-| Olsson | [Civil Engineering Internship - Traffic & Technology](https://job-boards.greenhouse.io/olsson/jobs/5405807008) | Oklahoma City, OK; Tulsa, OK |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Traffic & Technology](https://job-boards.greenhouse.io/olsson/jobs/5405800008) | Denver, CO |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Water/Wastewater](https://job-boards.greenhouse.io/olsson/jobs/5400265008) · Summer 2027 | Phoenix, AZ |  | 2026-11-04 |  |
 | Olsson | [Engineering Internship - Water Resources](https://job-boards.greenhouse.io/olsson/jobs/5399436008) · Summer 2027 | Dallas, TX |  | 2026-11-04 |  |
@@ -592,20 +601,20 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | General Matter | [Summer 2027 Internship - Architectural Engineering](https://job-boards.greenhouse.io/generalmatter/jobs/5377117008) · Summer 2027 | Los Angeles, CA | $28 to $40/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4382459009) · Summer 2027 | Boston, MA |  | 2026-11-04 |  |
 | AECOM | [Traffic and ITS Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000145516669-traffic-and-its-engineering-intern-) | Pittsburgh, PA, us |  | 2026-11-04 | no visa sponsorship |
-| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381592009) · Summer 2027 | Columbus, OH, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381608009) · Summer 2027 | Pittsburgh, PA, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381604009) · Summer 2027 | King of Prussia, PA, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381589009) · Summer 2027 | Columbia, MD, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381593009) · Summer 2027 | Indianapolis, IN, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381597009) · Summer 2027 | Louisville, KY, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381601009) · Summer 2027 | White Plains, NY, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381639009) · Summer 2027 | Pittsburgh, PA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381597009) · Summer 2027 | Louisville, KY, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381593009) · Summer 2027 | Indianapolis, IN, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381592009) · Summer 2027 | Columbus, OH, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381589009) · Summer 2027 | Columbia, MD, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381608009) · Summer 2027 | Pittsburgh, PA, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381615009) · Summer 2027 | Columbia, MD, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381626009) · Summer 2027 | Columbus, OH, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381629009) · Summer 2027 | Indianapolis, IN, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381631009) · Summer 2027 | Louisville, KY, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381634009) · Summer 2027 | White Plains, NY, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381629009) · Summer 2027 | Indianapolis, IN, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381626009) · Summer 2027 | Columbus, OH, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381639009) · Summer 2027 | Pittsburgh, PA, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381635009) · Summer 2027 | King of Prussia, PA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4381634009) · Summer 2027 | White Plains, NY, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379069009) · Summer 2027 | Columbia, MD, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379073009) · Summer 2027 | Columbus, OH, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379079009) · Summer 2027 | Indianapolis, IN, US |  | 2026-11-04 |  |
@@ -624,30 +633,30 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bohler | [Civil Engineering Intern, Wastewater Design - Land Development, Summer 2027](https://jobs.gem.com/bohler-/am9icG9zdDqPpDpinREnpnKfMYy5GMOM) · Summer 2027 | NY - Melville |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | ARCO Companies | [Construction Project Manager Co-Op (2027)](https://job-boards.greenhouse.io/arco/jobs/4380271009) | Charleston, SC, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern or Co-op (2027)](https://job-boards.greenhouse.io/arco/jobs/4380777009) | Raleigh, NC, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager Intern or Co-Op (2027)](https://job-boards.greenhouse.io/arco/jobs/4380492009) | Charlotte, NC, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern or Co-Op (2027)](https://job-boards.greenhouse.io/arco/jobs/4380798009) | Richmond, VA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager Intern or Co-Op (2027)](https://job-boards.greenhouse.io/arco/jobs/4380492009) | Charlotte, NC, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern or Co-Op 2027 (GSC)](https://job-boards.greenhouse.io/arco/jobs/4380741009) | Charleston, SC, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380924009) · Summer 2027 | Houston, TX, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380596009) · Summer 2027 | Atlanta, GA, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380961009) · Summer 2027 | Salt Lake City, UT, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380953009) · Summer 2027 | Memphis, TN, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380945009) · Summer 2027 | Ponte Vedra Beach, FL, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380924009) · Summer 2027 | Houston, TX, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager Intern or Co-Op (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380961009) · Summer 2027 | Salt Lake City, UT, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380121009) · Summer 2027 | Dallas, TX, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380138009) · Summer 2027 | St. Louis Park, MN, US | $27 to $28/hour | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380280009) · Summer 2027 | Nashville, TN, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380264009) · Summer 2027 | Ft. Lauderdale, FL, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380238009) · Summer 2027 | Lakewood, CO, US | $27 to $28/hour | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380129009) · Summer 2027 | Chicago, IL, US | $27 to $28/hour | 2026-11-04 |  |
-| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380185009) · Summer 2027 | Atlanta, GA, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380240009) · Summer 2027 | Charleston, SC, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380905009) · Summer 2027 | Memphis, TN, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380480009) · Summer 2027 | Charlotte, NC, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380240009) · Summer 2027 | Charleston, SC, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380793009) · Summer 2027 | Richmond, VA, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380557009) · Summer 2027 | Greenville, SC, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380734009) · Summer 2027 | Charleston, SC, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380185009) · Summer 2027 | Atlanta, GA, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380772009) · Summer 2027 | Raleigh, NC, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380793009) · Summer 2027 | Richmond, VA, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380894009) · Summer 2027 | Ponte Vedra Beach, FL, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380898009) · Summer 2027 | Salt Lake City, UT, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4380905009) · Summer 2027 | Memphis, TN, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager Co-Op (2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379161009) | Charleston, SC, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager Intern or Co-op (2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379177009) | Raleigh, NC, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager Intern or Co-Op (2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379181009) | Richmond, VA, US |  | 2026-11-04 |  |
@@ -668,11 +677,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ARCO Design/Build | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379432009) · Summer 2027 | Ponte Vedra Beach, FL, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379424009) · Summer 2027 | Atlanta, GA, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Superintendent Intern (Summer 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379440009) · Summer 2027 | Salt Lake City, UT, US |  | 2026-11-04 |  |
+| ARCO/Murray National Construction | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/amn/jobs/4379257009) · Summer 2027 | Dallas, TX, US |  | 2026-11-04 |  |
 | ARCO/Murray National Construction | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/amn/jobs/4379269009) · Summer 2027 | Nashville, TN, US |  | 2026-11-04 |  |
 | ARCO/Murray National Construction | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/amn/jobs/4379267009) · Summer 2027 | Ft. Lauderdale, FL, US |  | 2026-11-04 |  |
 | ARCO/Murray National Construction | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/amn/jobs/4379265009) · Summer 2027 | Lakewood, CO, US | $27 to $28/hour | 2026-11-04 |  |
 | ARCO/Murray National Construction | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/amn/jobs/4379259009) · Summer 2027 | St. Louis Park, MN, US | $27 to $28/hour | 2026-11-04 |  |
-| ARCO/Murray National Construction | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/amn/jobs/4379257009) · Summer 2027 | Dallas, TX, US |  | 2026-11-04 |  |
 | ARCO/Murray National Construction | [Construction Project Manager Intern (Summer 2027)](https://job-boards.greenhouse.io/amn/jobs/4379206009) · Summer 2027 | Chicago, IL, US | $27 to $28/hour | 2026-11-04 |  |
 | ARCO Companies | [Construction Safety Intern (Summer 2027)](https://job-boards.greenhouse.io/arco/jobs/4379054009) · Summer 2027 | Atlanta, GA, US; Chicago, IL, US; Dallas, TX, US; Framingham, MA, US;  |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op – Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4378361009) · Summer 2027 | Austin, TX |  | 2026-11-04 |  |
@@ -701,14 +710,14 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4341449009) · Summer 2027 | Orlando, Florida, United States |  | 2026-11-04 |  |
 | Bohler | [Civil Engineering Intern - Land Development, Summer 2027](https://jobs.gem.com/bohler-/am9icG9zdDqdSSx1pcdeeJhMfKo0F_YC) · Summer 2027 | VA - Richmond |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Benesch | [Structural Engineering Internship](https://www.benesch.com/job-openings/5212342007?gh_jid=5212342007) · Summer 2027 | Cincinnati, OH |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4361721009) · Summer 2027 | Salt Lake City, UT |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4360750009) · Summer 2027 | Denver, Colorado, United States | $23 to $30/hour | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Geotechnical Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4361721009) · Summer 2027 | Salt Lake City, UT |  | 2026-11-04 |  |
 | Bohler | [Civil Engineering Intern - Land Development, Summer 2027](https://jobs.gem.com/bohler-/am9icG9zdDq5igU0_EqXVitsldr4zdAi) · Summer 2027 | NC - Raleigh |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Civil Engineering Intern - Land Development, Summer 2027](https://jobs.gem.com/bohler-/am9icG9zdDrhdGjgUxov_imTBaFTKfJz) · Summer 2027 | FL - Miami |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Civil Engineering Intern - Land Development, Summer 2027](https://jobs.gem.com/bohler-/am9icG9zdDpPPKCGQ8Imb-Q5MoMTJSVn) · Summer 2027 | FL - Boca Raton |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Civil Engineering Intern - Land Development, Summer 2027](https://jobs.gem.com/bohler-/am9icG9zdDqRaYt-W9W8teIcHSeMXoCk) · Summer 2027 | VA - Herndon |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
-| Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4360846009) · Summer 2027 | Dallas, TX |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4361552009) · Summer 2027 | Houston, TX |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4360846009) · Summer 2027 | Dallas, TX |  | 2026-11-04 |  |
 | Bohler | [Civil Engineering Intern - Land Development, Summer 2027](https://jobs.gem.com/bohler-/am9icG9zdDq_j9VqOgyqkh_t1xNkwblo) · Summer 2027 | NC - Charlotte |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4355825009) · Summer 2027 | San Antonio, TX |  | 2026-11-04 |  |
 | Bohler | [Civil Engineering Intern - Land Development, Summer 2027](https://jobs.gem.com/bohler-/am9icG9zdDpdKWOl_BW7-y7ECBOY1QjM) · Summer 2027 | NY - Manhattan |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
@@ -722,7 +731,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AWP Safety | [Traffic Control Supervisor Apprentice](https://jobs.smartrecruiters.com/AWPSafety/744000137119939-traffic-control-supervisor-apprentice) | Grand Junction, CO, us | $35/hour | 2026-11-04 |  |
 | AWP Safety | [Traffic Control Supervisor Apprentice](https://jobs.smartrecruiters.com/AWPSafety/744000136077039-traffic-control-supervisor-apprentice) | Frederick, CO, us | $35/hour | 2026-11-04 |  |
 | AWP Safety | [Traffic Control Supervisor Apprentice](https://jobs.smartrecruiters.com/AWPSafety/744000135503644-traffic-control-supervisor-apprentice) | Denver, CO, us | $35/hour | 2026-11-04 |  |
-| Keeley Construction | [Summer 2027 Construction Estimating Internship STL](https://job-boards.greenhouse.io/keeleyconstruction/jobs/4711606005) · Summer 2027 | St. Louis, Missouri, United States |  | 2026-11-04 |  |
 | Keeley Construction | [Summer 2027 Construction Management Internship STL](https://job-boards.greenhouse.io/keeleyconstruction/jobs/4711593005) · Summer 2027 | St. Louis, Missouri, United States |  | 2026-11-04 |  |
 | Gorove Slade | [Transportation Engineering Intern](https://goroveslade.bamboohr.com/careers/34) | Fairfax, Virginia, United States |  | 2026-11-04 |  |
 | City of New York | [Environmental Engineering Intern](https://jobs.smartrecruiters.com/CityOfNewYork/3743990013505776-environmental-engineering-intern) | Corona, NY, us |  | 2026-11-04 |  |
@@ -748,11 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Stacy Witbeck | [Internship: Construction Management](https://stacywitbeck.pinpointhq.com/en/postings/7d0f1ffb-1ad2-402a-9020-b1277d0697da) | Charlotte, North Carolina |  | 2026-11-04 |  |
 | Trilon Group | [Civil Engineering Intern – Aviation](https://trilongroup.pinpointhq.com/en/postings/90b71ed6-c777-4812-834b-bf0d20794f0d) · Summer 2027 | Richmond, Virginia |  | 2026-11-04 |  |
 | Trilon Group | [Civil Engineering Intern – Aviation](https://trilongroup.pinpointhq.com/en/postings/4e79b0ba-7884-48be-b624-0dfff2ac0c30) · Summer 2027 | Wilmington, North Carolina |  | 2026-11-04 |  |
-| Trilon Group | [Civil Engineering Intern – Aviation](https://trilongroup.pinpointhq.com/en/postings/17989b53-14d5-4f04-9ca9-2a6595a6fec1) · Fall 2026 | Charlotte, North Carolina |  | 2026-11-04 |  |
-| Trilon Group | [Internship - Land Development](https://trilongroup.pinpointhq.com/en/postings/88e46ffb-336f-482f-bddd-1a65c87202de) | Hartford, Connecticut |  | 2026-11-04 | no visa sponsorship |
-| Trilon Group | [Internship - Land Development](https://trilongroup.pinpointhq.com/en/postings/a9501974-413a-4733-ac89-b90e383a564e) | Providence, Rhode Island |  | 2026-11-04 | no visa sponsorship |
-| Trilon Group | [Internship - Land Development](https://trilongroup.pinpointhq.com/en/postings/b2ece318-97c1-4afd-8b91-32470f89bc7e) | Springfield, Massachusetts |  | 2026-11-04 | no visa sponsorship |
-| Trilon Group | [Internship - Structural Engineer](https://trilongroup.pinpointhq.com/en/postings/cccfd51e-6027-4e0d-afda-a377b0ef6f9e) | Hartford, Connecticut |  | 2026-11-04 | no visa sponsorship |
-| Trilon Group | [Internship - Structural Engineer](https://trilongroup.pinpointhq.com/en/postings/f354755e-3197-4fc7-88f1-af7ce348954f) | Manchester, New Hampshire |  | 2026-11-04 | no visa sponsorship |
-| Trilon Group | [Geotechnical Engineering Intern - Summer 2027](https://trilongroup.pinpointhq.com/en/postings/ca09f067-b2b2-4c3f-8807-3780863d1bff) · Summer 2027 | Canton, Michigan |  | 2026-11-04 |  |
-| Trilon Group | [Civil Engineering Intern - Summer 2027](https://trilongroup.pinpointhq.com/en/postings/8d0595a0-6c37-4630-b26a-07c2acc1c2f4) · Summer 2027 | Columbus, Ohio |  | 2026-11-04 |  |

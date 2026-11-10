@@ -1,11 +1,13 @@
 # Internships and co-ops: Education
 
-72 open, newest first (by the date the scraper first saw them), updated 2026-11-09.
+73 open, newest first (by the date the scraper first saw them), updated 2026-11-10.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Black & Veatch | [Sr Apprentice Training Instructor (Bird Electric)](https://careers.bv.com/BirdElectric/job/Midland-Sr-Apprentice-Training-Instructor-%28Bird-Electric%29-TX-79701/1455770633/) | Midland, TX, US |  | 2026-11-10 |  |
+| TheatreSquared | [TheatreSquared Apprentice](https://theatresquared.bamboohr.com/careers/116) · Summer 2027 | Fayetteville, Arkansas, United States |  | 2026-11-10 |  |
 | 7AM Enfant Inc. | [Academic Fashion Design Internship](https://7am-enfant-inc.breezy.hr/p/1909a68063a8-academic-fashion-design-internship) | New York, NY |  | 2026-11-09 |  |
 | Chubb | [Agency Education and Development Intern](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38424) · Summer 2027 | Chicago, IL, United States | $18 to $24/hour | 2026-11-07 |  |
 | Strategic HR Client | [CACFP Childcare Centers and Afterschool/Summer Program Specialist I](https://job-boards.greenhouse.io/strategichr/jobs/8197868003) · Summer | Cleveland, Ohio (hybrid) | $20 to $24/hour | 2026-11-07 |  |
@@ -13,7 +15,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Middlebury College | [Admissions Communication Intern (AY 26-27 901454)](https://apply.workable.com/j/444DC4C86E) | Middlebury, Vermont, United States | $14.95/hour | 2026-11-07 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Learner Engagement and Community Intern](https://jobs.lever.co/stradaeducation/14537f82-790c-4b10-bd63-f8a80c6564c1) | Indianapolis, Indiana | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Post-Secondary Education Team (PSE)](https://jobs.lever.co/stradaeducation/68c7fe9c-c4b9-4cfb-8165-bcebf6013692) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
-| Strada Education Foundation | [Strada Education Foundation Internship: Strategic Partnership & Corporate Development Intern](https://jobs.lever.co/stradaeducation/2b03de4a-699c-4f1c-aefb-3e57a3d27851) | Washington, DC |  | 2026-11-05 |  |
+| Strada Education Foundation | [Strada Education Foundation Internship: Strategic Partnership & Corporate Development Intern](https://jobs.lever.co/stradaeducation/2b03de4a-699c-4f1c-aefb-3e57a3d27851) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation: Information Technology Intern](https://jobs.lever.co/stradaeducation/d9d6301a-3fac-4389-b820-3115dfe20a13) | Indianapolis, Indiana | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Communication Intern](https://jobs.lever.co/stradaeducation/91b84789-7d6d-4009-a5a3-13bbf90dc7d4) | Indianapolis, Indiana | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Employer Alignment/Institute for the Future of Work Intern](https://jobs.lever.co/stradaeducation/407e6cd0-5789-4366-9449-23461c5e77bb) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
@@ -70,7 +72,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Aparecio Foundation, NFP | [Arts & Culture Curriculum Intern/Volunteer](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/86096847-arts-culture-curriculum-intern-volunteer) | Chicago, IL, us |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Early Education Apprentice](https://ymcaboston.pinpointhq.com/en/postings/6e9b7868-9cb7-47e7-bd61-b5ae3bba400a) | Boston, Massachusetts |  | 2026-11-04 |  |
 | Amgen | [Grad Intern – Amgen Library (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871) · Summer 2027 | United States - Remote | $35.34 to $42.20/hour | 2026-11-03 |  |
-| NASA JPL | [Academic Part Time Intern](https://www.jpl.jobs/us/en/job/R6220) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-11-03 |  |
 | NASA JPL | [Business Admin (Academic Part Time Intern)](https://www.jpl.jobs/us/en/job/R6200) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-11-03 |  |
 | NVIDIA | [Math Libraries Intern, cuEST - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) · Summer 2027 | US, CA, Santa Clara |  | 2026-11-03 |  |
 | Seagate | [Sustaining Intern - Graduating High School Senior (Summer 2027)](https://seagatecareers.com/job/Bloomington-Sustaining-Intern-Graduating-High-School-Senior-%28Summer-2027%29-MN/1442410600/) · Summer 2027 | Normandale, United States | $20 to $22/hour | 2026-10-22 |  |

@@ -1,11 +1,17 @@
 # New grad and entry level: Other engineering
 
-423 open, newest first (by the date the scraper first saw them), updated 2026-11-09.
+424 open, newest first (by the date the scraper first saw them), updated 2026-11-10.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Blue Origin | [GN&C Engineer III - Blue Ring](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Denver-CO/GN-C-Engineer-III---Blue-Ring_R75157-1) | Denver, CO | $119,814 to $167,738.55 | 2026-11-10 | US citizens/persons only, clearance |
+| KLA | [Product Installation Engineer - FaST 90%+ Travel required](https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Installation-Engineer---FaST-90---Travel-required_2642704) | Chandler, AZ | $31.78 to $54.04/hour | 2026-11-10 |  |
+| KLA | [Product Install Engineer -OMD Extensive 90% + Travel Required](https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Product-Install-Engineer--OMD-Extensive-90----Travel-Required_2642682) | Hillsboro, OR | $31.78 to $54.04/hour | 2026-11-10 |  |
+| KLA | [Product Development Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer_2640243) | Milpitas, CA | $117,800 to $200,300 | 2026-11-10 |  |
+| Target | [Engineer - IAM](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---IAM_R0000480289) | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | $75,400 to $135,700 | 2026-11-10 |  |
+| Black & Veatch | [Graduate Engineer, Instrument & Controls - Water](https://careers.bv.com/job/Cary-Graduate-Engineer%2C-Instrument-&-Controls-Water-NC/1434156433/) | Cary, NC, US |  | 2026-11-10 |  |
 | Simpson Gumpertz & Heger | [Entry-level Engineer, Fire Protection](https://www.sgh.com/careers/job-openings/view-job/8700637002?gh_jid=8700637002) | Los Angeles, California, United States |  | 2026-11-09 |  |
 | City of New York | [Engineer-In-Charge](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016716866-engineer-in-charge) | New York City, NY, us |  | 2026-11-07 |  |
 | City of New York | [Engineer-in-Charge](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016716856-engineer-in-charge) | New York City, NY, us |  | 2026-11-07 |  |
@@ -30,7 +36,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Cloudlinux | [Graduate Engineer (remote work)](https://apply.workable.com/j/C79D418683) | Georgia (remote) |  | 2026-11-06 |  |
 | KLA | [Product Development Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer_2638042) | Milpitas, CA | $117,800 to $200,300 | 2026-11-06 |  |
 | Micron | [New College Grad - FAB Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/FAB-Engineer_JR116576) | Manassas, VA - Fab 6 | $74,000 to $183,000 | 2026-11-06 |  |
-| Mixpanel | [GRC Specialist](https://job-boards.greenhouse.io/mixpanel/jobs/8354380) | San Francisco | $116,000 to $140,000 | 2026-11-06 |  |
 | Stream Realty | [Building Engineer I](https://jobs.smartrecruiters.com/StreamRealty/744000159959579-building-engineer-i) | San Antonio, TX, us |  | 2026-11-06 |  |
 | InterImage | [Junior System Engineer](https://apply.workable.com/j/169E6928BE) | Annapolis Junction, Maryland, United States | $94,213 to $122,500 | 2026-11-06 |  |
 | Consigli Construction | [VDC Engineer](https://apply.workable.com/j/A301A60E5C) | Milford, Massachusetts, United States | $82,000 to $89,000 | 2026-11-06 |  |
@@ -41,7 +46,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Illumina | [Engineer 1/2 Process Development](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Bay-Area---Hayward/Engineer-1-2-Process-Development_43714-JOB) | US - Bay Area - Hayward | $78,900 to $118,300 | 2026-11-05 | no visa sponsorship |
 | Williams | [Engineer I - Accelerated Engineering Program](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Engineer-I---Accelerated-Engineering-Program_R113023) | OK Tulsa - Headquarters | $100,000 to $110,000 | 2026-11-05 | no visa sponsorship |
 | Accenture | [Support Engineer - 6560285](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/Support-Engineer---6560285_14855092) | Nashville, 4101 Charlotte Ave., Corp | $37 to $47/hour | 2026-11-05 |  |
-| Altera | [Timing Engineer](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Timing-Engineer_R02889) | San Jose, California, United States |  | 2026-11-05 |  |
 | Applied Materials | [2027 Process Support Engineer, New College Grad - Bachelor's (Multiple Locations))](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/XMLNAME-2027-Process-Support-Engineer--New-College-Grad---Bachelor-s--Multiple-Locations--_R2632289) | Boise,ID | $70,000 to $95,500 | 2026-11-05 |  |
 | Intel | [Power Integrity Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Power-Integrity-Engineer_JR0288908) | US, Arizona, Phoenix (hybrid) | $105,650 to $172,860 | 2026-11-05 |  |
 | Microchip | [Engineer I - Design](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/NY---Hauppauge/Engineer-I---Design_R4658-26) | NY - Hauppauge | $70,304 to $143,000 | 2026-11-05 |  |
@@ -136,7 +140,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Burgess & Niple | [Bridge Engineer, EI/EIT](https://job-boards.greenhouse.io/burgessniple/jobs/4412641009) | Charleston, WV |  | 2026-11-04 |  |
 | Delinea | [Advanced Support Engineer I](https://jobs.ashbyhq.com/delinea/544e1b85-1961-4269-86dd-a4b011f34948) | U.S. Remote |  | 2026-11-04 |  |
 | Westgate Resorts | [Engineering Tech II](https://jobs.smartrecruiters.com/WestgateResorts/744000151146729-engineering-tech-ii) | Myrtle Beach, SC, us |  | 2026-11-04 |  |
-| PerfectServe | [L1 Junior Engineer](https://job-boards.greenhouse.io/perfectserve/jobs/6188374004) | Remote | $75,000 to $100,000 | 2026-11-04 |  |
 | Westgate Resorts | [Engineering Tech I](https://jobs.smartrecruiters.com/WestgateResorts/744000149683799-engineering-tech-i) | Myrtle Beach, SC, us |  | 2026-11-04 |  |
 | BillionToOne | [Automation Service Engineer I/II, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4733813005) | Menlo Park, CA | $179,169 | 2026-11-04 |  |
 | Olsson | [Entry-Level Engineer - Water/Wastewater](https://job-boards.greenhouse.io/olsson/jobs/5420753008) | Springfield, MO |  | 2026-11-04 |  |
@@ -144,8 +147,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Coffman Engineers, Inc. | [Fire Protection Engineer (Entry Level)](https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000148623869-fire-protection-engineer-entry-level-) | Meridian, ID, us |  | 2026-11-04 | no visa sponsorship |
 | SunEnergy1 | [Junior Commissioning & SCADA Engineer](https://sunenergy1.breezy.hr/p/4bcb0a74ee60-junior-commissioning-scada-engineer) | Charlotte, NC |  | 2026-11-04 |  |
 | Syska Hennessy Group | [Engineer I (ICT)](https://job-boards.greenhouse.io/syskahennessy/jobs/8175497) | New York, NY | $72,408 to $102,613 | 2026-11-04 |  |
-| Syska Hennessy Group | [Engineer I (ICT)](https://job-boards.greenhouse.io/syskahennessy/jobs/8175269) | Boston, MA | $68,788 to $97,182 | 2026-11-04 |  |
 | Syska Hennessy Group | [Engineer I (ICT)](https://job-boards.greenhouse.io/syskahennessy/jobs/8175235) | Chicago, IL | $65,168 to $92,751 | 2026-11-04 |  |
+| Syska Hennessy Group | [Engineer I (ICT)](https://job-boards.greenhouse.io/syskahennessy/jobs/8175269) | Boston, MA | $68,788 to $97,182 | 2026-11-04 |  |
 | Egis Group | [Entry Level Engineer](https://jobs.smartrecruiters.com/EgisGroup/744000147539499-entry-level-engineer) | Indianapolis, IN, us |  | 2026-11-04 | no visa sponsorship |
 | HP Hood | [R&D Technical Documentation Specialist I](https://job-boards.greenhouse.io/hoodhp/jobs/5408675008) | Wilmington, MA | $78,000 to $88,000 | 2026-11-04 |  |
 | GenScript | [Automation Service Engineer](https://job-boards.greenhouse.io/genscript/jobs/5219848007) | Piscataway, New Jersey, United States | $60,000 | 2026-11-04 |  |
@@ -216,7 +219,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Micron | [New College Grad - Product Applications Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/New-College-Grad---Product-Applications-Engineer_JR115693-1) | Longmont-MAX- Office, CO | $75,000 to $127,000 | 2026-10-29 |  |
 | Relativity Space | [NDE Engineer I](https://boards.greenhouse.io/relativity/jobs/8922242002?gh_jid=8922242002) | Long Beach, California, United States | $90,000 to $136,000 | 2026-10-29 |  |
 | Rocket Lab | [Harness Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8055821003) | Long Beach, CA | $88,000 to $132,000 | 2026-10-29 | US citizens/persons only |
-| Sonos | [Junior CI/CD Engineer](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineer_R2853) | Boston, MA | $93,000 to $115,900 | 2026-10-29 | no visa sponsorship |
 | SpaceX | [Recovery Engineer (Starship Range Ops)](https://boards.greenhouse.io/spacex/jobs/8922378002?gh_jid=8922378002) | Starbase, TX |  | 2026-10-29 | US citizens/persons only |
 | KLA | [Applications Development Engineer- eBeam](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer--eBeam_2643071) | Milpitas, CA | $97,800 to $166,300 | 2026-10-28 |  |
 | Applied Materials | [Field Service Engineer](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Customer-Engineer_R2632235) | Boise,ID | $31 to $42.40/hour | 2026-10-28 |  |
@@ -339,7 +341,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Garmin | [Author](https://careers.garmin.com/careers-home/jobs/20276) | Olathe, Kansas |  | 2026-10-20 |  |
 | Huntsman | [Process Safety Engineer](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---Conroe/Process-Safety-Engineer_J-020227) | USA - Texas - Houston - Conroe |  | 2026-10-20 |  |
 | Seagate | [Channel Development Senior Engineer (Early Career)](https://seagatecareers.com/job/Longmont-Channel-Development-Senior-Engineer-%28Early-Career%29-CO-80501/1436966700/) | Longmont, United States | $94,140 to $134,626 | 2026-10-20 |  |
-| Target | [Engineer - IoT Platform](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---IoT-Platform_R0000449229) | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | $75,400 to $135,700 | 2026-10-20 |  |
 | Beta Technologies | [Stress Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4425495009) | Plattsburgh, New York, United States; Raleigh, North Carolina, United  (hybrid) | $85,000 to $120,000 | 2026-10-20 | US citizens/persons only |
 | Seagate | [Senior Development Engineer - Early Career](https://seagatecareers.com/job/Bloomington-Senior-Development-Engineer-Early-Career-MN/1436216400/) | Normandale, United States | $94,000 to $118,000 | 2026-10-20 |  |
 | Lam Research | [Field Service Engineer - Early Career Opportunity](https://careers.lamresearch.com/careers/job/1099552011686) | Hillsboro, OR, US |  | 2026-10-20 |  |

@@ -1,11 +1,13 @@
 # New grad and entry level: Design and creative
 
-180 open, newest first (by the date the scraper first saw them), updated 2026-11-09.
+179 open, newest first (by the date the scraper first saw them), updated 2026-11-10.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AccuWeather | [Graphic Production Artist](https://job-boards.greenhouse.io/accuweather/jobs/8367396) | State College, PA |  | 2026-11-10 |  |
+| Konrad | [UI/UX Designer](https://www.konrad.com/careers/job/8199570003?gh_jid=8199570003) | New York | $80,000 to $100,000 | 2026-11-10 |  |
 | Clera | [Founding Product Designer](https://jobs.ashbyhq.com/Clera/27f3a6c6-fdda-4912-ba33-5bc30c67280d) | San Francisco | $150,000 to $250,000 | 2026-11-09 |  |
 | Ares Technology | [BIM Designer I](https://ats.rippling.com/ares-technology-consultants-llc/jobs/b7a533bd-9a34-48c5-a1b1-9a766c274403) | Remote (United States) |  | 2026-11-07 |  |
 | Garmin | [Aviation Human Factors Designer 1](https://careers.garmin.com/careers-home/jobs/21949) | Olathe, Kansas |  | 2026-11-07 |  |
@@ -22,7 +24,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | JCC Greater Boston | [Videographer, Camp Kaleidoscope, Summer Day Camp](https://apply.workable.com/j/28EEDAEC3D) | Newton, Massachusetts, United States | $20/hour | 2026-11-06 |  |
 | JCC Greater Boston | [Photographer, School Break Camps](https://apply.workable.com/j/1DCA2B10BE) | Newton, Massachusetts, United States | $18/hour | 2026-11-06 |  |
 | Airrack | [Junior Producer](https://apply.workable.com/j/BE04CD0080) | Los Angeles, California, United States |  | 2026-11-06 |  |
-| Konrad | [UI/UX Designer](https://www.konrad.com/careers/job/8163726003?gh_jid=8163726003) | New York | $80,000 to $100,000 | 2026-11-05 |  |
 | ARC'TERYX | [Colour Designer 1, Footwear](https://jobs.lever.co/arcteryx.com/d13eb8f4-c1a1-42a5-b27c-6326ac92a8a5) | Portland, Oregon | $70,000 to $92,000 | 2026-11-05 |  |
 | Lasko Products | [Industrial Designer I](https://job-boards.greenhouse.io/laskoproducts/jobs/5272267007) | West Chester, PA |  | 2026-11-05 |  |
 | Buck Mason | [Junior Visual Manager (University Village)](https://jobs.lever.co/buckmason/eba21a7d-dd7f-4d0c-b960-99041e80e489) | Seattle, WA |  | 2026-11-05 |  |
@@ -82,7 +83,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Embedding VC | [Product Designer](https://jobs.ashbyhq.com/embedding-vc/e5cc6c69-27a2-4fe1-992e-7246c1130515) | Mountain View, CA | $120,000 to $170,000 | 2026-11-04 |  |
 | Loudr Agency | [Junior Graphic Designer](https://ats.rippling.com/loudr-agency/jobs/62d14fea-231a-4052-825e-fa1001a759ce) | Denver, CO |  | 2026-11-04 |  |
 | Sleeper | [UX Researcher I](https://jobs.ashbyhq.com/sleeper/168b7639-7759-4880-a94f-7de72607f538) | San Francisco | $75,000 to $95,000 | 2026-11-04 |  |
-| AXS | [Graphic Design Specialist- Carbonhouse](https://job-boards.greenhouse.io/axs/jobs/8857075002) | Charlotte, NC |  | 2026-11-04 | no visa sponsorship |
 | TEGNA Inc. | [Producer](https://boards.greenhouse.io/tegnainc/jobs/5255056007?gh_jid=5255056007) | KIII-TV Corpus Christi |  | 2026-11-04 |  |
 | Benesch | [Railroad Grade Crossing – Designer](https://www.benesch.com/job-openings/5255944007?gh_jid=5255944007) | Remote | $36 to $40/hour | 2026-11-04 |  |
 | Archipelago Companies | [OluKai Junior Graphic Designer](https://archipelagocos.bamboohr.com/careers/786) | Irvine, California, United States (hybrid) | $70,000 to $80,000 | 2026-11-04 |  |
@@ -175,7 +175,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | DNOW | [Engineering Designer](https://distributionnow.wd5.myworkdayjobs.com/DNOW_Careers/job/US-CO-Denver-1422-Delgany-Street-Suite-100/Engineering-Designer_R08523) | US CO Denver 1422 Delgany Street, Suite 100 |  | 2026-10-20 |  |
 | Formlabs | [Industrial Designer - Entry Level](https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032) | Boston, MA | $90,000 to $120,000 | 2026-10-20 |  |
 | Quanta Services | [Piping Designer - Natural Gas](https://careers-quanta.icims.com/jobs/18961/piping-designer---natural-gas/job) | Huntersville, NC |  | 2026-10-20 |  |
-| Figma | [Early Career, Product Designer (2027)](https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004) | San Francisco, CA • New York, NY | $140,000 | 2026-10-20 |  |
 | The New York Times | [Journalist, Graphics Intensive](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4728037005) | New York, NY | $82,414.80 | 2026-10-20 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/18646) | Olathe, Kansas |  | 2026-10-20 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/18738) | Portland, Oregon |  | 2026-10-20 |  |

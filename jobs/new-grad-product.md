@@ -1,11 +1,15 @@
 # New grad and entry level: Product, program and project management
 
-296 open, newest first (by the date the scraper first saw them), updated 2026-11-09.
+298 open, newest first (by the date the scraper first saw them), updated 2026-11-10.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016750676-project-manager) | New York City, NY, us |  | 2026-11-10 |  |
+| Jobgether | [Project Manager, Implementation](https://jobs.lever.co/jobgether/1e6b1e30-4d8d-4525-81f7-0a6c576add44) | US (remote) |  | 2026-11-10 |  |
+| Applied Materials | [Technical Project Manager I - New College Graduate (Bachelors) Kalispell, MT](https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Technical-Project-Manager-I---New-College-Graduate--Bachelors--Kalispell--MT_R2633097) | Kalispell,MT | $65,500 to $90,000 | 2026-11-10 |  |
+| Honda | [Technical Project Manager (102371)](https://careers.honda.com/us/en/job/13329) | Raymond, Ohio, United States |  | 2026-11-10 |  |
 | JPMorgan Chase | [Project Management Associate I](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807257) | Columbus, OH, United States |  | 2026-11-09 |  |
 | J.C. Cannistraro LLC | [Assistant Project Manager](https://cannistraro.bamboohr.com/careers/679) | Waltham, Massachusetts, United States |  | 2026-11-09 |  |
 | HPE | [Campus Switching Product Manager Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1) | Roseville, California | $108,500 to $218,500 | 2026-11-07 |  |
@@ -23,7 +27,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Quality Group GmbH | [Senior Product Owner (gn) - Logistics](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5029444101) | Hamburg (hybrid) |  | 2026-11-06 |  |
 | The Quality Group GmbH | [Senior Product Owner (gn) - Product Lifecycle Management (PLM)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5029470101) | Hamburg (hybrid) |  | 2026-11-06 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater 1](https://careers.bv.com/job/Las-Vegas-Project-Manager-WaterWastewater-1-NV-89044/1454932633/) | Las Vegas, NV, US |  | 2026-11-06 |  |
-| DH Pace | [Project Manager-Entry level](https://job-boards.greenhouse.io/dhpace/jobs/5474920008) | Olathe KS |  | 2026-11-06 |  |
 | Owen Ames Kimball | [Assistant Project Manager](https://oakmi.bamboohr.com/careers/252) | Kalamazoo, Michigan, United States |  | 2026-11-06 |  |
 | Moonshot | [Associate Project Manager](https://job-boards.greenhouse.io/moonshot/jobs/4438354009) | Denton |  | 2026-11-06 |  |
 | Immortals | [Jr. Project Manager, Operations & Product](https://apply.workable.com/j/35C106EA2F) | United States |  | 2026-11-06 |  |
@@ -84,11 +87,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016455014-project-manager) | New York City, NY, us |  | 2026-11-04 | no visa sponsorship |
 | AECOM | [Entry-Level Deputy Project Manager](https://jobs.smartrecruiters.com/AECOM2/744000157843708-entry-level-deputy-project-manager) | Philadelphia, PA, us |  | 2026-11-04 | no visa sponsorship |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464240008) | Olathe KS |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464233008) | Phoenix AZ EDS |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464244008) | Atlanta GA |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464243008) | Port St. Lucie FL |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464229008) | Nashville TN |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464243008) | Port St. Lucie FL |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464233008) | Phoenix AZ EDS |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
 | REXEL | [Project Manager I](https://jobs.smartrecruiters.com/REXEL1/744000157887719-project-manager-i) | Boise, ID, us |  | 2026-11-04 |  |
 | AECOM | [Entry-Level Deputy Project Managers - Networking Event with AECOM – Raleigh](https://jobs.smartrecruiters.com/AECOM2/744000157575499-entry-level-deputy-project-managers-networking-event-with-aecom-raleigh) | Raleigh, NC, us |  | 2026-11-04 | no visa sponsorship |
 | POWERX | [Project Manager](https://job-boards.greenhouse.io/powerx/jobs/4464251009) | Denver, Colorado |  | 2026-11-04 |  |
@@ -138,7 +141,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of New York | [ASSISTANT PROJECT MANAGER](https://jobs.smartrecruiters.com/CityOfNewYork/3743990015760106-assistant-project-manager) | Queens, NY, us |  | 2026-11-04 |  |
 | City of New York | [ASSISTANT PROJECT MANAGER](https://jobs.smartrecruiters.com/CityOfNewYork/3743990015760096-assistant-project-manager) | Queens, NY, us |  | 2026-11-04 |  |
 | City of New York | [Associate Project Manager 01](https://jobs.smartrecruiters.com/CityOfNewYork/3743990015759603-associate-project-manager-01) | Queens, NY, us |  | 2026-11-04 |  |
-| Daymark Health | [Associate Product Manager](https://job-boards.greenhouse.io/daymarkhealth/jobs/5434613008) | New York, NY / Philadelphia, PA / Boston, MA (remote) | $100,000 to $115,000 | 2026-11-04 |  |
 | EliseAI | [Associate Product Manager / Housing](https://jobs.ashbyhq.com/EliseAI/f0c8d0af-8021-4a04-b0f9-de1baff48ee4) | New York City | $150,000 to $220,000 | 2026-11-04 |  |
 | POWERX | [Assistant Project Manager](https://job-boards.greenhouse.io/powerx/jobs/4423351009) | Dallas, Texas |  | 2026-11-04 |  |
 | Quest Defense Systems & Solutions, Inc. | [Project Management Specialist](https://www.quest-defense.com/careers/life-at-quest-defense/current-opportunities/?gh_jid=5247196007) | Cincinnati, OH | $65,000 to $72,000 | 2026-11-04 | US citizens/persons only |

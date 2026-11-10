@@ -1,11 +1,17 @@
 # New grad and entry level: Education
 
-358 open, newest first (by the date the scraper first saw them), updated 2026-11-09.
+360 open, newest first (by the date the scraper first saw them), updated 2026-11-10.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Parker Core Knowledge | [Preschool Teacher](https://ckcs.bamboohr.com/careers/54) | Parker, Colorado, United States | $26.88/hour | 2026-11-10 |  |
+| CSC Generation | [Seasonal Chef Instructor (Sur La Table)](https://jobs.lever.co/cscgeneration-2/2d2a17a6-2c29-4543-9842-b16e42113dcd) | King of Prussia, PA |  | 2026-11-10 |  |
+| Discovery Kidzone | [Part Time Teacher — Tues/Thurs Childcare & Preschool (Entry Level)](https://discoverykidzone.bamboohr.com/careers/491) | Bozeman, Montana, United States |  | 2026-11-10 |  |
+| FLIPANY | [Per Diem Instructor](https://flipany.bamboohr.com/careers/294) | Belle Glade, Florida, United States |  | 2026-11-10 |  |
+| Texas Health Resources | [Admissions Specialist I](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011352&lang=en) | Arlington |  | 2026-11-10 |  |
+| Texas Health Resources | [Admissions Specialist I - PRN](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012031&lang=en) | Denton |  | 2026-11-10 |  |
 | Mansfield Hall | [Academic Coach](https://mansfieldhallaccount.bamboohr.com/careers/234) | Burlington, Vermont, United States | $22/hour | 2026-11-09 |  |
 | Care-O-World | [Entry Level Child Care Educators - Chocowinity](https://careoworld.bamboohr.com/careers/135) | Chocowinity, North Carolina, United States | $10.65 to $15/hour | 2026-11-09 |  |
 | Care-O-World | [Entry Level Child Care Educators - Pitt County](https://careoworld.bamboohr.com/careers/130) | Winterville, North Carolina, United States | $11 to $15/hour | 2026-11-09 |  |
@@ -35,7 +41,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Inspiroz | [School Technology Specialist - NYC](https://apply.workable.com/j/9EF2C881C5) | New York, New York, United States | $50,000 to $75,000 | 2026-11-06 |  |
 | Catlin Gabel School | [Sign On Bonus $$$ - School Bus Route Driver](https://ats.rippling.com/catlin-gabel-school/jobs/ce7d0243-6c51-49f1-a48b-428d0d2190a9) | Portland, OR | $28 to $32/hour | 2026-11-06 |  |
 | Forbes Bros. Group of Companies | [New Grads - Line School](https://job-boards.greenhouse.io/forbesbrosgroupofcompanies/jobs/4480941009) | Stapleton, NE |  | 2026-11-06 |  |
-| Green Tree School & Services | [1:1 Support](https://jobs.ashbyhq.com/Green-Tree-School-and-Services/afac86cb-debe-4663-94cc-6d4acb9d45f9) | Philadelphia, PA |  | 2026-11-06 |  |
 | Inspiroz | [School Technology Specialist - Washington, DC](https://apply.workable.com/j/C20523D75C) | Washington, District of Columbia, United States |  | 2026-11-06 |  |
 | Inspiroz | [School Technology Specialist - Washington, DC-NEED CONTRACTORS FOR 4 weeks](https://apply.workable.com/j/F45A23B1E9) | Washington, District of Columbia, United States |  | 2026-11-06 |  |
 | Mansfield Hall | [Academic Coach](https://mansfieldhallaccount.bamboohr.com/careers/233) | Madison, Wisconsin, United States | $22/hour | 2026-11-06 |  |
@@ -59,7 +64,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CSC Generation | [Seasonal Chef Instructor (Sur La Table)](https://jobs.lever.co/cscgeneration-2/ad347c93-5e7d-447c-aaf6-984e8996ead8) | Seattle, WA |  | 2026-11-05 |  |
 | CSC Generation | [Seasonal Chef Instructor (Sur La Table)](https://jobs.lever.co/cscgeneration-2/be32a4d2-fd9a-4dea-b617-62d50c8e8f3f) | Kirkland, WA |  | 2026-11-05 |  |
 | CSC Generation | [Seasonal Chef Instructor (Sur La Table)](https://jobs.lever.co/cscgeneration-2/ec5cb317-2456-40f6-97c1-a39ece7229ec) | Newport Beach, CA |  | 2026-11-05 |  |
-| Project Kitty Hawk | [Re-enrollment Specialist](https://jobs.lever.co/projectkittyhawk/55af5f1d-22b3-41ac-8dff-87f75b603287) | Remote |  | 2026-11-05 |  |
 | Saginaw Intermediate School District | [Severe Cognitive Impairment Post-Secondary Teacher](https://sisd.bamboohr.com/careers/185) | Saginaw, Michigan, United States |  | 2026-11-05 |  |
 | Magical Beginnings | [Floating Teacher](https://jobs.lever.co/magicalbeginningslc/f3bfc66f-44b6-48f9-9d7a-f803dd9f5084) | Lynbrook, NY |  | 2026-11-05 |  |
 | Rocketship Public Schools | [Elementary Teacher](https://jobs.lever.co/rocketship/c5f06b68-b7fa-4913-a1c2-c5a89dd61b02) | Milwaukee, WI | $54,827 to $79,534 | 2026-11-05 |  |
@@ -178,7 +182,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Zeta Charter Schools | [Middle School Science Teacher (2027-2028)](https://zetaschools.org/careers?gh_jid=8045036003) | New York City, NY | $71,500 to $115,500 | 2026-11-04 |  |
 | Zeta Charter Schools | [Special Education Teacher - SETSS (2027-2028)](https://zetaschools.org/careers?gh_jid=8044953003) | New York City, NY | $71,500 to $115,500 | 2026-11-04 |  |
 | Apollo After School | [After School Educator](https://apollo-after-school.breezy.hr/p/b81520edd15f-after-school-educator) | Washington, DC | $20/hour | 2026-11-04 |  |
-| Baylor Scott & White Health | [Certified Diabetes Educator I - RD](https://jobs.bswhealth.com/us/en/job/26020011) | Remote, United States |  | 2026-11-04 |  |
 | Brella | [Preschool Teacher - Playa Vista](https://brella.breezy.hr/p/4eb1a8cbe06a-preschool-teacher-playa-vista) | Los Angeles, CA |  | 2026-11-04 |  |
 | Catlin Gabel School | [School Bus Route Driver with Sign On Bonus](https://ats.rippling.com/catlin-gabel-school/jobs/ec83d771-4e95-4894-9b1f-7e2a87dca138) | Portland, OR | $28 to $32/hour | 2026-11-04 |  |
 | Williamsburg Charter High School | [NYS Certified Special Education Teacher](https://williamsburgcharterhighschool.recruitee.com/o/nys-certified-special-education-teacher-2) | Brooklyn, NY, US | $68,000 to $90,000 | 2026-11-04 |  |
@@ -200,10 +203,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Covista | [Primary Care of the Childbearing and Childrearing Family Practicum - Part-time Faculty](https://jobs.smartrecruiters.com/Covista/744000156067879-primary-care-of-the-childbearing-and-childrearing-family-practicum-part-time-faculty) | Remote, REMOTE, us |  | 2026-11-04 |  |
 | KIPP | [Paraprofessional](https://jobs.smartrecruiters.com/KIPP/744000155772116-paraprofessional-) | Baltimore, MD, us |  | 2026-11-04 |  |
 | Stanford Medicine Children's Health | [Certified Diabetes Care and Education Specialist](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990016158706-certified-diabetes-care-and-education-specialist) | PALO ALTO, CA, us | $49.06 to $61.33/hour | 2026-11-04 |  |
-| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034552003) | Leland, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
-| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034547003) | Shallotte, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
 | Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034550003) | Southport, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
+| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034552003) | Leland, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
 | Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034545003) | Wilmington, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
+| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034547003) | Shallotte, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
 | Apollo After School | [Substitute Educator (After care/ morning care)](https://apollo-after-school.breezy.hr/p/aa9e5b7e0e4f-substitute-educator-after-care-morning-care) | Beachwood, OH | $20/hour | 2026-11-04 |  |
 | The Wonderful Company | [GEAR-UP Tutor](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000155304022-gear-up-tutor) | Sanger, CA, us | $18/hour | 2026-11-04 |  |
 | Uncommon Schools | [5-12 Teacher - Middle, High School Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000155305354-5-12-teacher-middle-high-school-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-04 |  |
@@ -212,7 +215,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Apollo After School | [Part Time Substitute Educator](https://apollo-after-school.breezy.hr/p/7337b96b63d2-part-time-substitute-educator) | Alhambra, CA | $21/hour | 2026-11-04 |  |
 | Proximity Learning Inc. | [Chicago Title I SAT Prep Instructor](https://proxlearn.bamboohr.com/careers/209) | Chicago , Illinois, United States | $40/hour | 2026-11-04 |  |
 | Uncommon Schools | [High School Science Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000154675789-high-school-science-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-04 |  |
-| ACI Learning | [Admissions Advisor - National](https://job-boards.greenhouse.io/acilearning/jobs/4429518009) | Remote | $55,000 to $70,000 | 2026-11-04 |  |
 | Stanford Medicine Children's Health | [Certified Diabetes Care and Education Specialist](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990015978056-certified-diabetes-care-and-education-specialist) | PALO ALTO, CA, us | $49.06 to $61.33/hour | 2026-11-04 |  |
 | Tines | [Technical Support Engineer I](https://job-boards.greenhouse.io/tines/jobs/6220150004) | Boston, MA | $85,000 to $95,000 | 2026-11-04 |  |
 | Alabaster City Schools | [Secretary I, II, III - ACSD - Apply 10/02/2026](https://alabaster-city-schools.breezy.hr/p/39ad3384c02d-secretary-i-ii-iii-acsd-apply-10-02-2026) | Alabaster City Schools District, AL |  | 2026-11-04 |  |

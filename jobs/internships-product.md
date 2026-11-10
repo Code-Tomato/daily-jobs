@@ -1,18 +1,28 @@
 # Internships and co-ops: Product, program and project management
 
-267 open, newest first (by the date the scraper first saw them), updated 2026-11-09.
+272 open, newest first (by the date the scraper first saw them), updated 2026-11-10.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| City and County of San Francisco | [Capital & Planning Division - Student Intern Program, Summer 2027 – Open Space Planning & Project Management -](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016745446-capital-planning-division-student-intern-program-summer-2027-open-space-planning-project-management-recreation-park-dept-5380-) · Summer 2027 | San Francisco, CA, us | $37.95/hour | 2026-11-10 |  |
+| Kiva.org | [Review and Translation Program Project Manager Intern](https://boards.greenhouse.io/kivaorg/jobs/8367970?gh_jid=8367970) | U.S Remote | $800/month | 2026-11-10 | no visa sponsorship |
+| NBCUniversal | [Streaming Platforms, Product Management Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249-streaming-platforms-product-management-internships-summer-2027) · Summer 2027 | New York, NY, us | $30/hour | 2026-11-10 | no visa sponsorship |
+| NBCUniversal | [Program Management & Operations Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000160660769-program-management-operations-internships-summer-2027) · Summer 2027 | Universal City, CA, us | $19/hour | 2026-11-10 | no visa sponsorship |
+| NBCUniversal | [Program Management & Operations Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000160660549-program-management-operations-internships-summer-2027) · Summer 2027 | Stamford, CT, us | $19/hour | 2026-11-10 | no visa sponsorship |
+| NBCUniversal | [Program Management & Operations Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000160658984-program-management-operations-internships-summer-2027) · Summer 2027 | New York, NY, us | $30/hour | 2026-11-10 | no visa sponsorship |
+| NVIDIA | [Product Management Space Compute MBA Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) · Summer 2027 | US, CA, Santa Clara |  | 2026-11-10 |  |
+| Pyrotek | [Intern - Product Management](https://jobs.smartrecruiters.com/Pyrotek3/744000160635163-intern-product-management) | Spokane, WA, us | $22/hour | 2026-11-10 |  |
+| Warner Bros. Discovery | [WB Games Product Management Co-op: Needham, MA - January-May 2027](https://careers.wbd.com/global/en/job/R000109850) · Spring 2027 | Needham, Massachusetts, United States of America | $29 to $34/hour | 2026-11-10 | no visa sponsorship |
 | City and County of San Francisco | [Capital & Planning Division - Student Intern Program, Summer 2027 – Open Space Planning & Project Management -](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016713066-capital-planning-division-student-intern-program-summer-2027-open-space-planning-project-management-recreation-park-dept-5380-) · Summer 2027 | San Francisco, CA, us | $37.95/hour | 2026-11-07 |  |
 | DocuSign | [Product Manager Intern](https://careers.docusign.com/careers-home/jobs/30625) | San Francisco, California |  | 2026-11-07 | no visa sponsorship |
 | First Global Management Services, Inc. | [Innovation Projects Intern](https://firstagency.com/position/?job=5287383007&gh_jid=5287383007) | FIRST - New York | $20 to $25/hour | 2026-11-07 |  |
 | Salesforce | [Summer 2027 Intern - Product Management](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1) · Summer 2027 | California - San Francisco | $54 to $61/hour | 2026-11-07 |  |
+| Zoox | [Program Manager Intern [Summer 2027]](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) · Summer 2027 | Foster City, CA |  | 2026-11-07 |  |
 | Kids in the Game | [Program Management Internship](https://apply.workable.com/j/800D84EB24) · Fall 2026 | New York, New York, United States |  | 2026-11-07 |  |
 | TikTok | [GEO Content Product Manager Intern (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7696000178264361269) | San Jose, California, United States of America |  | 2026-11-07 |  |
-| Match Group | [Technical Project Management Intern](https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c) | Los Angeles, California (hybrid) |  | 2026-11-06 |  |
+| Match Group | [Technical Program Management Intern](https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c) | Los Angeles, California (hybrid) |  | 2026-11-06 |  |
 | Collective Measures | [Project Management Intern - Marketing](https://collectivemeasures.bamboohr.com/careers/318) | Minneapolis, Minnesota, United States | $20/hour | 2026-11-06 |  |
 | Invesco | [Early Career Intern - Digital Product Management](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) | Atlanta, Georgia | $35/hour | 2026-11-06 |  |
 | S&P Global | [Summer Intern, Product Management](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1) · Summer | New York, NY | $20 to $25/hour | 2026-11-06 |  |
@@ -33,7 +43,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/77665C3052) · Summer 2027 | Pleasant Valley, New York, United States | $24 to $29/hour | 2026-11-06 |  |
 | Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/5725AF993B) · Summer 2027 | White Plains, New York, United States | $24 to $29/hour | 2026-11-06 |  |
 | Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/EA6D23D182) · Summer 2027 | Portland, Maine, United States | $24 to $29/hour | 2026-11-06 |  |
-| Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/7A2F2370AB) · Summer 2027 | Washington, District of Columbia, United States | $24 to $29/hour | 2026-11-06 |  |
 | Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/D7B746CBAC) · Summer 2027 | Manchester, New Hampshire, United States | $24 to $29/hour | 2026-11-06 |  |
 | Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/C8E7DF01D1) · Summer 2027 | Albany, New York, United States | $24 to $29/hour | 2026-11-06 |  |
 | Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/25C2C0C747) · Summer 2027 | Lewiston, Maine, United States | $24 to $29/hour | 2026-11-06 |  |
@@ -72,7 +81,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Legend Biotech US | [Site Project Management Office Intern](https://job-boards.greenhouse.io/legendcareers/jobs/4745151005) | Raritan, New Jersey, United States |  | 2026-11-04 |  |
 | Amplify | [Summer 2027: Product Management Intern](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e) · Summer 2027 | Remote - United States |  | 2026-11-04 |  |
 | Anduril Industries | [2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) · Summer 2027 | Costa Mesa, California, United States; Honolulu, Hawaii, United States | $28 to $45/hour | 2026-11-04 | US citizens/persons only |
-| KnowBe4 | [CSM Project Manager Intern](https://job-boards.greenhouse.io/knowbe4/jobs/8899901002) | Clearwater, Florida (hybrid) |  | 2026-11-04 |  |
 | US Internships Public Careers Site | [Technical Program Management Intern - Undergraduate](https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221742004) | United States, Aliso Viejo, CA | $36.50/hour | 2026-11-04 | no visa sponsorship |
 | Arcesium LLC | [Product Management Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) | New York |  | 2026-11-04 |  |
 | Carlisle | [Product Management Intern](https://jobs.smartrecruiters.com/Carlisle/3743990016055226-product-management-intern) · Spring 2027 | Carlisle, Pennsylvania, us |  | 2026-11-04 |  |
@@ -85,7 +93,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bound | [Product Management Intern (Summer 2027)](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) · Summer 2027 | Ames, IA |  | 2026-11-04 |  |
 | Cadence Solutions | [Product Management Intern](https://job-boards.greenhouse.io/solutions/jobs/4715294006) · Summer 2027 | Remote | $55/hour | 2026-11-04 |  |
 | Farmers Mutual Hail Insurance Company | [Product Owner Intern](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404335009) · Summer 2027 | West Des Moines, IA |  | 2026-11-04 | no visa sponsorship |
-| RF-SMART | [Agile Delivery (Scrum Master) Internship - Summer 2027](https://job-boards.greenhouse.io/rfsmart/jobs/5407097008) · Summer 2027 | Jacksonville, Florida, United States | $25/hour | 2026-11-04 | no visa sponsorship |
 | Smarty | [Product Management Intern](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) | Orem, UT |  | 2026-11-04 |  |
 | Anduril Industries | [Winter 2027 Technical Program Management Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007) · Winter 2027 | Washington, District of Columbia, United States | $28 to $45/hour | 2026-11-04 | US citizens/persons only |
 | Lunar Outpost | [Project Management Intern - Summer 2027](https://lunaroutpost.bamboohr.com/careers/389) · Summer 2027 | Golden, Colorado, United States |  | 2026-11-04 |  |
@@ -134,7 +141,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Zebra Technologies | [2027 Summer Internship (US) - Program Management](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Program-Management_JR103641) · Summer 2027 | Holtsville, New York | $40.50 to $44.50/hour | 2026-10-28 | no visa sponsorship |
 | Zebra Technologies | [2027 Summer Internship (US) - Go-To-Market Product Manager](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Go-To-Market-Product-Manager_JR103647) · Summer 2027 | Lincolnshire, Illinois | $24 to $29/hour | 2026-10-27 | no visa sponsorship |
 | Kinder Morgan | [2027 BOLT Intern - Project Management](https://careers.kindermorgan.com/careers-home/jobs/6149) | HOUSTON, Texas |  | 2026-10-27 |  |
-| Visa | [Technical Product/Project Management Intern - 2027, Highlands Ranch, CO](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Technical-Product-Project-Management-Intern---2027--Highlands-Ranch--CO_REF089905W-2) | US - Denver, CO | $39 to $46/hour | 2026-10-27 | no visa sponsorship |
 | Keysight | [IT Project Manager, Intern](https://jobs.keysight.com/careers-home/jobs/54824) | Colorado Springs, Colorado | $24.89 to $26.81/hour | 2026-10-27 |  |
 | Xcel Energy | [Utility Operations & Project Management Intern - MN](https://xcelenergy.wd1.myworkdayjobs.com/External/job/St-Paul-MN-55117/Outdoor-Lighting-Intern---MN_JR116325-1) | St Paul, MN, 55117 (hybrid) | $15.60 to $24.50/hour | 2026-10-27 |  |
 | Zebra Technologies | [2027 Summer Internship (US) - Product Management](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) · Summer 2027 | Lincolnshire, Illinois | $25.50 to $32/hour | 2026-10-27 | no visa sponsorship |
@@ -157,7 +163,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NVIDIA | [Product Management MBA Intern, Laptop - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) · Summer 2027 | US, CA, Santa Clara |  | 2026-10-20 |  |
 | NVIDIA | [Product Management MBA Intern, Data Center GPU - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) · Summer 2027 | US, CA, Santa Clara |  | 2026-10-20 |  |
 | Q2 | [2027 Summer Internship - Product Operations](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) · Summer 2027 | Austin, Texas |  | 2026-10-20 | no visa sponsorship |
-| Kinder Morgan | [2027 BOLT Intern - Terminals Engineering Project Managment](https://careers.kindermorgan.com/careers-home/jobs/6037) | PASADENA, Texas |  | 2026-10-20 |  |
 | Travelers | [Product Management Development Program (PMDP) Intern](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317) | CT - Hartford | $26 to $28/hour | 2026-10-20 | no visa sponsorship |
 | Western Midstream | [Project Management Office- Intern](https://careers.westernmidstream.com/job/The-Woodlands-Project-Management-Office-Intern-TX-77380/1432523500/) | The Woodlands, TX, US |  | 2026-10-20 |  |
 | DocuSign | [Program Management Intern](https://careers.docusign.com/careers-home/jobs/30469) | Seattle, Washington | $38 to $40/hour | 2026-10-20 | no visa sponsorship |
@@ -175,6 +180,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kinder Morgan | [2027 BOLT Intern – CO2](https://careers.kindermorgan.com/careers-home/jobs/6044) | MIDLAND, Texas |  | 2026-10-20 |  |
 | GM | [2027 Summer Intern – Program Management, GM Defense ,](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Program-Management--GM-Defense--_JR-202622043) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship |
 | Rivian | [Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management](https://careers.rivian.com/careers-home/jobs/34239) · Summer 2027 | Palo Alto, California |  | 2026-10-20 |  |
+| HCSC | [Early Careers - Security Program Management Senior Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515) | IL - Chicago | $22.54 to $40.31/hour | 2026-10-20 | no visa sponsorship |
 | Adobe | [2027 MBA Intern – Product Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) | San Jose | $37 to $50/hour | 2026-10-20 |  |
 | BorgWarner | [Program Management Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/Program-Management-Intern_R2026-4004) | Arden - North Carolina - USA |  | 2026-10-20 |  |
 | DocuSign | [Program Manager Intern](https://careers.docusign.com/careers-home/jobs/30507) | Seattle, Washington | $28 to $33/hour | 2026-10-20 | no visa sponsorship |
@@ -188,7 +194,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Formlabs | [Sourcing Program Management Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8262987/apply/?gh_jid=8262987) · Spring 2027 | Somerville, MA |  | 2026-10-20 |  |
 | Oceaneering | [Project Management Intern](https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/11635) | Houston, TX, United States |  | 2026-10-20 |  |
 | Red Hat | [Product Manager Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Product-Manager-Intern_R-059060) | Raleigh |  | 2026-10-20 |  |
-| HCSC | [Early Careers - Security Program Management Senior Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515) | IL - Chicago | $22.54 to $40.31/hour | 2026-10-20 | no visa sponsorship |
 | Atlassian | [Product Management Intern, 2027 Summer U.S.](https://www.atlassian.com/company/careers/details/26274) · Summer 2027 | San Francisco - United States - San Francisco, California 94104 United | $42 to $57/hour | 2026-10-20 |  |
 | Bosch | [Project Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000153203866-project-management-intern) | Plymouth, MI, us |  | 2026-10-20 |  |
 | Bedrock Robotics | [2027 Internship Product Intern](https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a) | San Francisco, CA |  | 2026-10-20 |  |

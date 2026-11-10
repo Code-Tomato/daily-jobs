@@ -1,11 +1,15 @@
 # Internships and co-ops: Science and research
 
-141 open, newest first (by the date the scraper first saw them), updated 2026-11-09.
+144 open, newest first (by the date the scraper first saw them), updated 2026-11-10.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Amgen | [Grad Intern - Pathology Lab](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---Pathology-Lab_R-260467) | US - California - South San Francisco | $35.34 to $41.20/hour | 2026-11-10 |  |
+| Dow | [Local College Co-op: Analytical Science Lab Assistant](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Analytical-Science-Lab-Assistant_R2069648) | Midland (MI, USA) |  | 2026-11-10 | no visa sponsorship |
+| Panasonic North America | [Intern – Ranken Lab Technician](https://careers.na.panasonic.com/careers-home/jobs/52334) | Bridgeton, Missouri |  | 2026-11-10 |  |
+| Entergy | [Student, Intern Chemistry Summer 2027](https://jobs.entergy.com/job/Port-Gibson-Student%2C-Intern-Chemistry-Summer-2027-Miss/1448978900/) · Summer 2027 | Port Gibson, Mississippi, United States |  | 2026-11-10 |  |
 | EDP Biotech Corporation | [Biotech Lab Intern](https://jobs.smartrecruiters.com/EDPBiotechCorporation/743999666568830-biotech-lab-intern) | Knoxville, TN, us |  | 2026-11-09 |  |
 | Henry Ford Health | [Research Student- Individual & Genomic Medicine](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016691296-research-student-individual-genomic-medicine) | Detroit, MI, us |  | 2026-11-07 |  |
 | Analog Devices | [Wet Lab Sensor Research Co-Op](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Wet-Lab-Sensor-Research-Co-Op_R268534-1) | US, MA, Boston | $22 to $41/hour | 2026-11-06 |  |
@@ -85,7 +89,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Seagate | [Organic Chemistry Scientist/Engineer Intern - Summer 2027](https://seagatecareers.com/job/Longmont-Organic-Chemistry-ScientistEngineer-Intern-Summer-2027-CO-80501/1443837500/) · Summer 2027 | Longmont, United States | $22 to $35/hour | 2026-10-27 |  |
 | Trace3 | [Innovation Research & Development Lab Intern](https://job-boards.greenhouse.io/trace3/jobs/8306880) | Houston, TX | $18 to $27/hour | 2026-10-27 |  |
 | KLA | [Chemistry R&D Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Chemistry-R-D-Intern_2642152-1) · Summer 2027 | Totowa, NJ | $31.50 to $50/hour | 2026-10-24 |  |
-| Phillips 66 | [Lab Technician Intern, Borger Refinery](https://careers.phillips66.com/job/Borger-Lab-Technician-Intern%2C-Borger-Refinery-TX-79007/1443390700/) | Borger, TX, US | $28.60/hour | 2026-10-24 | US citizens/persons only |
 | Constellation Energy | [2027 Chemical Engineering Intern - Geysers](https://jobs.constellationenergy.com/careers-home/jobs/140353) | Middletown, California |  | 2026-10-23 |  |
 | Microsoft | [Research Intern - Gray Systems Lab (GSL)](https://apply.careers.microsoft.com/careers/job/1970393557045445) | Redmond, WA, US; Mountain View, CA, US | $6,810 to $14,610/month | 2026-10-23 |  |
 | Intuitive Surgical | [Clinical Scientist Intern](https://jobs.smartrecruiters.com/Intuitive/744000156899239-clinical-scientist-intern) | Sunnyvale, CA, us |  | 2026-10-22 |  |
@@ -105,6 +108,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Seagate | [Intern, Advanced Media R&D Characterization and Recording Physicist](https://seagatecareers.com/job/Fremont-Intern%2C-Advanced-Media-R&D-Characterization-and-Recording-Physicist-CA-94536/1440191600/) | Fremont USA Research Center | $41 to $48/hour | 2026-10-20 |  |
 | Johnson & Johnson | [Oncology CPP Scientist Intern](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-CPP-Scientist-Intern_R-104472) | Spring House, Pennsylvania, United States of America |  | 2026-10-20 | no visa sponsorship |
 | GM | [2027 Summer Intern - Research and Development - Defense Lab Support](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Support_JR-202621738) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship, US citizens/persons only, clearance |
+| National Laboratory of the Rockies (NREL) | [Post Undergraduate/Graduate Intern – Molecular Biology](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-Undergraduate-Graduate-Intern---Molecular-Biology_R14452) | Golden, CO | $39,600 to $63,400 | 2026-10-20 |  |
+| National Laboratory of the Rockies (NREL) | [Undergraduate (Year-Round) Intern - Analytical Chemistry](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) | Golden, CO | $34,800 to $55,700 | 2026-10-20 |  |
+| Occidental University Recruiting | [Geophysics Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | Houston, Texas |  | 2026-10-20 |  |
+| Occidental University Recruiting | [Geology Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geology-Intern_JR110202) | Houston, Texas |  | 2026-10-20 |  |
 | Analog Devices | [Biomedical Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577) | US, MA, Wilmington | $22 to $41/hour | 2026-10-20 |  |
 | Entegris | [Research Associate Co-Op - ICPS](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Research-Associate-Co-Op---ICPS_REQ-14482) · Spring 2027 | Aurora, IL | $20 to $30/hour | 2026-10-20 |  |
 | Entegris | [Metrology Scientist Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Metrology-Scientist--Co-Op_REQ-14501) · Spring 2027 | Billerica, MA | $20 to $30/hour | 2026-10-20 |  |
@@ -125,10 +132,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Marathon Petroleum | [Refining Chemical Engineering Intern/Co-op Summer 2027](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Refining-Chemical-Engineering-Intern-Co-op-Summer-2027_00024022) · Summer 2027 | Findlay, Ohio |  | 2026-10-20 | no visa sponsorship |
 | Westlake | [2027 Intern- Chemical Engineering](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Lake-Charles-LA/XMLNAME-2027-Intern--Chemical-Engineering_R33594) | US - Lake Charles, LA |  | 2026-10-20 | no visa sponsorship |
 | Westlake | [Chemist Intern (Summer 2027)](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Calvert-City-KY/Chemist-Intern--Summer-2027-_R33642) · Summer 2027 | US - Calvert City, KY |  | 2026-10-20 | no visa sponsorship |
-| National Laboratory of the Rockies (NREL) | [Post Undergraduate/Graduate Intern – Molecular Biology](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-Undergraduate-Graduate-Intern---Molecular-Biology_R14452) | Golden, CO | $39,600 to $63,400 | 2026-10-20 |  |
-| National Laboratory of the Rockies (NREL) | [Undergraduate (Year-Round) Intern - Analytical Chemistry](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) | Golden, CO | $34,800 to $55,700 | 2026-10-20 |  |
-| Occidental University Recruiting | [Geophysics Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | Houston, Texas |  | 2026-10-20 |  |
-| Occidental University Recruiting | [Geology Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geology-Intern_JR110202) | Houston, Texas |  | 2026-10-20 |  |
 | Scripps Research | [INTERN RESEARCH STUDENT NONPAID - SANNA LAB](https://recruiting2.ultipro.com/SCR1003TSRI/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/OpportunityDetail?opportunityId=d0dae5fa-a3a8-4a63-bb87-2c11e7c61a89) | San Diego, CA, USA |  | 2026-10-20 |  |
 | Varda | [Formulation Science Internship - Summer 2027](https://job-boards.greenhouse.io/vardaspace/jobs/8005846003) · Summer 2027 | El Segundo, California, United States |  | 2026-10-20 | US citizens/persons only |
 | Ascension | [Cath Lab Tech Intern](https://jobs.ascension.org/us/en/job/2026-445061) | Mount Pleasant, WI, US |  | 2026-10-20 |  |

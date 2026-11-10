@@ -6,38 +6,38 @@ resume and finds the ones you actually qualify for. The companies are the career
 Greenhouse, Lever, Ashby, SmartRecruiters, Workable, BambooHR, Breezy, Rippling, Recruitee, Teamtailor, Pinpoint and Gem.
 
 <!-- stats -->
-**637,266 US job postings from 20,933 companies**, updated 2026-11-09 (4,637 first seen that day).
+**642,184 US job postings from 20,904 companies**, updated 2026-11-10 (15,544 first seen that day).
 
-- [Internships and co-ops](jobs/internships.md): 17,393 open, 8,424 new this week
-- [New grad and entry level](jobs/new-grad.md): 49,521 open, 34,226 new this week
+- [Internships and co-ops](jobs/internships.md): 17,431 open, 8,535 new this week
+- [New grad and entry level](jobs/new-grad.md): 49,679 open, 34,362 new this week
 
 <details><summary>Postings by field</summary>
 
 | Field | Postings |
 |---|---:|
-| Business, consulting and operations | 131,117 |
-| Healthcare | 97,423 |
-| Skilled trades, service and retail | 70,080 |
-| Sales, marketing and communications | 56,344 |
-| Software engineering | 51,503 |
-| Other | 47,635 |
-| Finance, accounting and banking | 37,184 |
-| Mechanical, aerospace and manufacturing | 26,538 |
-| Data, ML and AI | 26,093 |
-| Hardware, chips and embedded | 17,515 |
-| Civil, construction and environmental | 16,776 |
-| Product, program and project management | 14,662 |
-| HR, legal and policy | 13,821 |
-| Other engineering | 9,397 |
-| Education | 8,718 |
-| Science and research | 7,361 |
-| Design and creative | 5,099 |
+| Business, consulting and operations | 132,686 |
+| Healthcare | 96,425 |
+| Skilled trades, service and retail | 70,823 |
+| Sales, marketing and communications | 57,421 |
+| Software engineering | 51,870 |
+| Other | 48,045 |
+| Finance, accounting and banking | 37,666 |
+| Mechanical, aerospace and manufacturing | 26,797 |
+| Data, ML and AI | 26,189 |
+| Hardware, chips and embedded | 17,746 |
+| Civil, construction and environmental | 16,917 |
+| Product, program and project management | 14,814 |
+| HR, legal and policy | 13,962 |
+| Other engineering | 9,484 |
+| Education | 8,793 |
+| Science and research | 7,419 |
+| Design and creative | 5,127 |
 
 </details>
 
-999 companies are a curated list; 19,934 more were found on the job-board systems with open APIs (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, BambooHR and others) and are checked daily (23 failed on their last check).
+999 companies are a curated list; 19,905 more were found on the job-board systems with open APIs (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, BambooHR and others) and are checked daily (25 failed on their last check).
 
-Curated boards that failed or looked wrong on their last check (their older postings are kept): Albertsons, American Express, Atmos Energy, Autodesk, Calpine, Canva, Capital One, Deloitte, Disney, Fluor, GE Aerospace, Harman, MD Anderson, NXP, Navy Federal Credit Union, Nielsen, Old Mission, Qorvo, Southwest Airlines, Synchrony, TIAA, UPS, United Airlines, Valaris, Visa.
+Curated boards that failed or looked wrong on their last check (their older postings are kept): Albertsons, American Express, Apple, Autodesk, Calpine, Canva, Capital One, Cardinal Health, Deloitte, Disney, Fluor, GE Aerospace, Harman, MD Anderson, NXP, Navy Federal Credit Union, Nielsen, Old Mission, Qorvo, Southwest Airlines, Synchrony, TIAA, UPS, United Airlines, Valaris.
 <!-- /stats -->
 
 ## Three ways to use it
