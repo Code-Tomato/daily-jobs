@@ -1,11 +1,12 @@
 # Internships and co-ops: Design and creative
 
-169 open, newest first (by the date the scraper first saw them), updated 2026-11-10.
+170 open, newest first (by the date the scraper first saw them), updated 2026-11-11.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Riot Games | [Motion Graphics Art Intern - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356815?gh_jid=8356815) · Summer 2027 | Los Angeles, USA | $36.49/hour | 2026-11-11 | no visa sponsorship |
 | Associated Students, Inc. | [Audio Visual Student Technician II](https://apply.workable.com/j/D1E696BDD6) | San Luis Obispo, California, United States | $17.90/hour | 2026-11-10 |  |
 | Duolingo | [Product Designer, Thrive Intern](https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002) · Fall 2028 | Pittsburgh, PA | $43 to $45/hour | 2026-11-10 |  |
 | First Global Management Services, Inc. | [Video Design Intern](https://firstagency.com/position/?job=5287418007&gh_jid=5287418007) | FIRST - New York | $20 to $25/hour | 2026-11-10 |  |

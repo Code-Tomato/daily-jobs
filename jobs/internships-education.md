@@ -1,11 +1,12 @@
 # Internships and co-ops: Education
 
-73 open, newest first (by the date the scraper first saw them), updated 2026-11-10.
+72 open, newest first (by the date the scraper first saw them), updated 2026-11-11.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Ace Electric | [Apprenticeship Instructor (Bilingual)](https://aceelectric.bamboohr.com/careers/1089) | VALDOSTA, Georgia, United States |  | 2026-11-11 |  |
 | Black & Veatch | [Sr Apprentice Training Instructor (Bird Electric)](https://careers.bv.com/BirdElectric/job/Midland-Sr-Apprentice-Training-Instructor-%28Bird-Electric%29-TX-79701/1455770633/) | Midland, TX, US |  | 2026-11-10 |  |
 | TheatreSquared | [TheatreSquared Apprentice](https://theatresquared.bamboohr.com/careers/116) · Summer 2027 | Fayetteville, Arkansas, United States |  | 2026-11-10 |  |
 | 7AM Enfant Inc. | [Academic Fashion Design Internship](https://7am-enfant-inc.breezy.hr/p/1909a68063a8-academic-fashion-design-internship) | New York, NY |  | 2026-11-09 |  |
@@ -28,7 +29,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Stand Together | [KIP Spring 2027 - North America Programs Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/181f25c2-aafc-43de-8f8e-242987eef1c6) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Programs Outreach Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/b46a3ae5-18a1-40e3-ba75-a97fb42bf3dd) · Spring 2027 | Georgia |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Hackathons Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/ae52eb2b-0732-4e50-9b31-97d837182afe) · Spring 2027 | Georgia |  | 2026-11-05 |  |
-| Stand Together | [KIP Spring 2027 - Research Intern - James G. Martin Center for Academic Renewal](https://jobs.lever.co/standtogether/1fb5760d-f394-44d6-888c-8c26d65f81c2) · Spring 2027 | North Carolina (remote) |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Training and Education Intern - Atlas Network](https://jobs.lever.co/standtogether/4544fd5a-2854-40db-9e4d-a3b7da8cad3a) · Spring 2027 | Arlington, Virginia |  | 2026-11-05 |  |
 | Safe Harbor | [Education Intern – Spring 2027 (Unpaid)](https://safeharborsc.bamboohr.com/careers/229) · Spring 2027 | Greenville, South Carolina, United States |  | 2026-11-05 |  |
 | The Paley Center for Media | [Peter Roth Internship 2027](https://paleycenter.bamboohr.com/careers/227) | New York, New York, United States | $17/hour | 2026-11-05 |  |
@@ -60,7 +60,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Clinton Foundation | [2027 Spring Education Programs Intern (onsite)](https://www.clintonfoundation.org/careers/apply/?gh_jid=8004025003) · Spring 2027 | Little Rock, Arkansas |  | 2026-11-04 |  |
 | AECOM | [High School Intern](https://jobs.smartrecruiters.com/AECOM2/744000150456899-high-school-intern) | Akron, OH, us |  | 2026-11-04 | no visa sponsorship |
 | City of New York | [Community Education Intern](https://jobs.smartrecruiters.com/CityOfNewYork/3743990015335796-community-education-intern) | New York City, NY, us |  | 2026-11-04 |  |
-| Compeer Financial | [Intern Events & Education](https://job-boards.greenhouse.io/compeerfinancial/jobs/5420089008) | MN-Mankato; MN-Lakeville; WI-Sun Prairie; WI-Prairie du Sac; WI-Onalas | $19 to $20/hour | 2026-11-04 | no visa sponsorship |
 | Seattle Sounders FC & Seattle Reign FC | [2027 Athletic Training Student Intern (Educational Internship) - Seattle Reign FC](https://job-boards.greenhouse.io/seattlesoundersfc/jobs/4731415005) | Tukwila, WA |  | 2026-11-04 | no visa sponsorship |
 | World Wildlife Fund, Inc. | [WWF Legacy Library Intern](https://jobs.smartrecruiters.com/WorldWildlifeFundInc1/744000145825919-wwf-legacy-library-intern) | Washington D.C., us |  | 2026-11-04 | no visa sponsorship |
 | Advocates for Children - Interns and Volunteers | [Summer Law Student Intern Program in Education Advocacy](https://job-boards.greenhouse.io/afcvolunteers/jobs/5213859007) · Summer | New York, NY (hybrid) |  | 2026-11-04 |  |

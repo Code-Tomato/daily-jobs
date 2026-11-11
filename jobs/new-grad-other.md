@@ -1,11 +1,57 @@
 # New grad and entry level: Other
 
-7,076 open, newest first (by the date the scraper first saw them), updated 2026-11-10. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+7,090 open, newest first (by the date the scraper first saw them), updated 2026-11-11. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Cook Children's | [LVN, PN](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/LVN--PN_JR-120173) | Fort Worth, TX |  | 2026-11-11 |  |
+| Nationwide | [Representative, Annuity Solutions Center](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Representative--Annuity-Solutions-Center_101255) | Ohio - Grandview Heights, 1000 Yard Street, H Building (hybrid) | $46,345 to $75,500 | 2026-11-11 |  |
+| Symbotic | [New Grad- Project Scheduler](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/New-Grad--Project-Scheduler_R8492) | USA Remote & Travel | $82,000 to $95,000 | 2026-11-11 |  |
+| Walmart | [Specialist, Physical Security - Plainfield, IN](https://jobs.smartrecruiters.com/Walmart30/744000161025649-specialist-physical-security-plainfield-in) | Plainfield, IN, us |  | 2026-11-11 |  |
+| AECOM | [Entry-Level GIS Specialist](https://jobs.smartrecruiters.com/AECOM2/744000160900745-entry-level-gis-specialist-) | Honolulu, HI, us |  | 2026-11-11 | no visa sponsorship, US citizens/persons only |
+| BAYADA Home Health Care | [Employment Specialist/Job Coach](https://jobs.bayada.com/en/jobs?gh_jid=8936915002) | Charlotte, NC 28269 / 35.339213413 / -80.79489997 | $18/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Job Coach](https://jobs.bayada.com/en/jobs?gh_jid=8936918002) | Indian Trail, NC 28079 / 35.084682874 / -80.633756668 | $18/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Job Coach](https://jobs.bayada.com/en/jobs?gh_jid=8936921002) | Charlotte, NC 28215 / 35.245433482 / -80.714289643 | $18/hour | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Cardiovascular Tech](https://www.commonspirit.careers/job/federal-way/cardiovascular-tech/35300/94299246464) | FEDERAL WAY, WA |  | 2026-11-11 |  |
+| Elevance Health | [SCA Appeals Representative I](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/SCA-Appeals-Representative-I_JR209709-1) | IN-INDIANAPOLIS, 220 VIRGINIA AVE |  | 2026-11-11 |  |
+| Fessler and Bowman, Inc. | [Concrete Finisher](https://jobs.lever.co/fesslerbowman/0a5088f7-fce2-4932-b84a-6b1159af154f) | Grand Blanc, MI |  | 2026-11-11 |  |
+| GEICO | [Multi-Line Adjuster Trainee](https://geico.wd1.myworkdayjobs.com/External/job/Chicago-IL/Multi-Line-Adjuster-Trainee_R0066787) | Chicago, IL | $25.44 to $42.73/hour | 2026-11-11 | no visa sponsorship |
+| Henry Ford Health | [Certified Sterile Processing Tech](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016763346-certified-sterile-processing-tech) | Rochester, MI, us |  | 2026-11-11 |  |
+| Henry Ford Health | [ER Technican](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016752866-er-technican-) | Sterling Heights, MI, us |  | 2026-11-11 |  |
+| JPMorgan Chase | [Merchant Dispute: Account Specialist I](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807931) | San Antonio, TX, United States |  | 2026-11-11 |  |
+| Kiewit | [Quality Inspector-Idaho Falls-KNS](https://kiewitcareers.kiewit.com/job/Idaho-Falls-Quality-Inspector-Idaho-Falls-KNS-ID/1449405200/) | Idaho Falls, ID, US |  | 2026-11-11 |  |
+| LPL Financial | [Product Support Representative I](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/Product-Support-Representative-I_R-054167-1) | Tempe | $21.84 to $36.40/hour | 2026-11-11 |  |
+| Madison Reed | [Colorist, Licensed Cosmetologist](https://app.careerpuck.com/job-board/madisonreedcolorbar/job/8371604?gh_jid=8371604) | Somerville, MA | $37.50 to $39.50/hour | 2026-11-11 |  |
+| MassMutual | [Annuity Claim Specialist](https://massmutual.wd1.myworkdayjobs.com/MMCareers/job/Springfield-MA/Annuity-Claim-Specialist_R21682-1) | Springfield, MA | $53,000 to $66,800 | 2026-11-11 |  |
+| Medtronic | [Surgical Onsite Specialist - (Sacramento)](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Sacramento-California-United-States-of-America/Surgical-Onsite-Specialist----Sacramento-_R79425-2) | Sacramento, California, United States of America (remote) | $70,000 | 2026-11-11 |  |
+| Morgan & Morgan, P.A. | [Presuit Secretary (Entry Level)](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6254508004) | Orlando, Florida, United States |  | 2026-11-11 |  |
+| Morgan & Morgan, P.A. | [Presuit Secretary (Entry Level)](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6254515004) | Orlando, Florida, United States |  | 2026-11-11 |  |
+| Propio Language Services | [Onsite Contract Kinyarwanda Interpreters](https://job-boards.greenhouse.io/propiolanguageservices/jobs/4488495009) | Overland Park, KS |  | 2026-11-11 |  |
+| Prudential | [Annuities Internal Wholesaler - IMO](https://pru.wd5.myworkdayjobs.com/Careers/job/Shelton-CT-USA/Annuities-Internal-Wholesaler---IMO_R-125398-1) | Shelton, CT, USA (hybrid) |  | 2026-11-11 |  |
+| Redstone Residential | [Leasing Specialist - Full - Time](https://job-boards.greenhouse.io/redstoneresidential/jobs/4500415009) | South Bend, Indiana |  | 2026-11-11 |  |
+| Republic Services | [Heavy Equip PM Tech North Skull Valley, UT!](https://jobs.republicservices.com/us/en/job/R-188307) | North Skull Valley, Utah, United States of America |  | 2026-11-11 |  |
+| Surge Staffing | [Staffing Specialist](https://surge.breezy.hr/p/7fe1e7b9e60c-staffing-specialist) | Tiffin, OH |  | 2026-11-11 |  |
+| Surge Staffing | [Staffing Specialist](https://surge.breezy.hr/p/a71ce6ae24c3-staffing-specialist) | Greenville, SC |  | 2026-11-11 |  |
+| Surge Staffing | [Staffing Specialist](https://surge.breezy.hr/p/cd6a9444f5f3-staffing-specialist) | Spartanburg, SC |  | 2026-11-11 |  |
+| TD Bank | [Contact Center Rep. II - Bilingual Spanish Greenville, SC.](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Greenville-South-Carolina/Contact-Center-Rep-II---Bilingual-Spanish-Greenville--SC_R_1516593) | Greenville, South Carolina |  | 2026-11-11 | no visa sponsorship |
+| Tenet Healthcare | [Procedural Scheduler - Surgical Services](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603015737) | San Antonio, TX, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [CT Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028409) | San Antonio, TX, United States |  | 2026-11-11 |  |
+| UnitedHealth Group | [Telephonic Care Navigator](https://careers.unitedhealthgroup.com/job/aberdeen/telephonic-care-navigator/34088/102178652752) | Aberdeen, Washington (remote) | $20 to $36/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Social Work Hospice, Part-Time](https://careers.unitedhealthgroup.com/job/richmond/social-work-hospice-part-time/34088/103124563696) | Richmond, Indiana | $63,080 to $94,620 | 2026-11-11 |  |
+| Urschel Laboratories, Inc. | [Knife Department Fabricator](https://job-boards.greenhouse.io/urschellaboratoriesinc/jobs/4489443009) | Chesterton, IN | $27.99/hour | 2026-11-11 |  |
+| Wellthy Care Network | [Nanny – Galloway, OH](https://job-boards.greenhouse.io/wellthy-care-network/jobs/8200729003) | United States | $22 to $24/hour | 2026-11-11 |  |
+| Baylor Scott & White Health | [PRN Chaplain 1 - Children's Hospital](https://jobs.bswhealth.com/us/en/job/26020145) | Temple, Texas, United States |  | 2026-11-11 |  |
+| Optima Medical | [Front Desk Representative](https://job-boards.greenhouse.io/optimamedical/jobs/4480730009) | 1620 E. Wilcox Dr. Sierra Vista, AZ 85635 |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Police Dispatcher](https://jobs.bswhealth.com/us/en/job/26003694) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Access Services Representative I - Wed-Sat, 7a-5pm](https://jobs.bswhealth.com/us/en/job/26019650) | Mckinney, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Police Detective Dallas](https://jobs.bswhealth.com/us/en/job/25019758) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Access Services Rep 1 - PT, Weekends](https://jobs.bswhealth.com/us/en/job/26002513) | Frisco, Texas, United States |  | 2026-11-11 |  |
+| Madison Reed | [Colorist, Licensed Cosmetologist](https://app.careerpuck.com/job-board/madisonreedcolorbar/job/8264905?gh_jid=8264905) | Cumming, GA | $31 to $33/hour | 2026-11-11 |  |
+| Youth Service Bureau of Illinois Valley | [Foster Care Case Aide](https://ysbiv.bamboohr.com/careers/117) | Crystal Lake, Illinois, United States |  | 2026-11-11 |  |
+| VSC Fire & Security | [Fire Sprinkler Fitter](https://job-boards.greenhouse.io/vscfiresecurityinc/jobs/5396826008) | Greenville, South Carolina, United States | $20 to $30/hour | 2026-11-11 |  |
+| Hudson Guild | [NYC Connects Specialist](https://hudsonguild.bamboohr.com/careers/297) | New York, New York, United States |  | 2026-11-11 |  |
 | City of New York | [Collections Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016750756-collections-specialist) | New York City, NY, us |  | 2026-11-10 |  |
 | UnitedHealth Group | [Provider Relations Specialist](https://careers.unitedhealthgroup.com/job/lincoln/provider-relations-specialist/34088/103112011136) | Lincoln, Nebraska | $20 to $36/hour | 2026-11-10 |  |
 | UnitedHealth Group | [Unit Clerk](https://careers.unitedhealthgroup.com/job/middletown/unit-clerk/34088/103112011152) | Middletown, New York | $16 to $29/hour | 2026-11-10 |  |
@@ -92,6 +138,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Prosperity Bank | [Teller (Part Time) - Tulsa, South Memorial](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604596&lang=en_US) | SOUTH MEMORIAL, Tulsa, OK, US |  | 2026-11-08 |  |
 | Prosperity Bank | [Teller (Full Time) - Victoria Salem](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604790&lang=en_US) | VICTORIA SALEM, Victoria, TX, US |  | 2026-11-08 |  |
 | City of New York | [Reporter / Stenographer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016718106-reporter-stenographer) | New York City, NY, us |  | 2026-11-08 |  |
+| Sigma Defense | [1774 - FMV Help Desk Specialist](https://apply.workable.com/j/F89A354D4F) | San Diego, California, United States | $100,000 to $135,000 | 2026-11-07 | US citizens/persons only, clearance |
 | Prosperity Bank | [Teller (Full Time) - Bryan](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604702&lang=en_US) | BRYAN -S TEXAS, Bryan, TX, US |  | 2026-11-07 |  |
 | Prosperity Bank | [Teller (Full Time) - Victoria Navarro](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604747&lang=en_US) | Victoria, TX, US |  | 2026-11-07 |  |
 | City of New York | [Aquatic Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016716586-aquatic-specialist) | New York City, NY, us | $107.50/hour | 2026-11-07 |  |
@@ -149,7 +196,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | US Physical Therapy | [Exercise Science / Exercise Physiologist / Kinesiologist / Athletic Trainer -Ergonomics Industrial Injury Prev](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990016706534-exercise-science-exercise-physiologist-kinesiologist-athletic-trainer-ergonomics-industrial-injury-prevention-atc-ot-pt-ceas-) | Dallas, Georgia, us | $33 to $39/hour | 2026-11-07 |  |
 | VSC Fire & Security | [Fire Sprinkler Fitter Trainee](https://job-boards.greenhouse.io/vscfiresecurityinc/jobs/5473416008) | Rogers, Arkansas, United States | $20 to $30/hour | 2026-11-07 |  |
 | Waste Connections | [Landfill General Labor](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/5144-R360-Catarina/Landfill-General-Labor_R-105442) | 5144-R360 Catarina |  | 2026-11-07 |  |
-| WelbeHealth | [Scheduling Specialist](https://job-boards.greenhouse.io/welbehealth/jobs/8933812002) | La Quinta, CA, USA | $23.23 to $30.66/hour | 2026-11-07 |  |
 | WEX | [Recovery Agent (Collections Support 2)](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Recovery-Agent_R23235-1) | US - Remote | $18.30 to $20.60/hour | 2026-11-07 |  |
 | Baylor Scott & White Health | [Scheduling Specialist 1](https://jobs.bswhealth.com/us/en/job/26020248) | Rowlett, Texas, United States |  | 2026-11-07 |  |
 | Miller Transportation Group | [Part-Time Runner (CDL)](https://apply.workable.com/j/BCFECDF018) | Hasbrouck Heights, New Jersey, United States | $24 to $25/hour | 2026-11-07 |  |
@@ -161,7 +207,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | PeakMade Real Estate | [Porter](https://apply.workable.com/j/0B5CB250AB) | Kent, Ohio, United States |  | 2026-11-07 |  |
 | Whizz | [Repossession Agent (Military, Security, Law Enforcement experience)](https://apply.workable.com/j/44DB1ECCD2) | Chicago, Illinois, United States | $20 to $22/hour | 2026-11-07 |  |
 | PeakMade Real Estate | [Porter](https://apply.workable.com/j/8AEC80BAAF) | Gainesville, Florida, United States |  | 2026-11-07 |  |
-| Sigma Defense | [1774 - FMV Help Desk Specialist](https://apply.workable.com/j/F89A354D4F) | San Diego, California, United States | $100,000 to $135,000 | 2026-11-07 | US citizens/persons only, clearance |
 | SPT Labtech | [Shipping and Receiving Inventory Clerk](https://apply.workable.com/j/EF9C339B4B) | Covina, California, United States |  | 2026-11-07 |  |
 | Phoenix Home Care and Hospice | [Direct Support Professional](https://apply.workable.com/j/B244AA355D) | Independence, Missouri, United States | $17/hour | 2026-11-07 |  |
 | Phoenix Home Care and Hospice | [Direct Support Professional](https://apply.workable.com/j/184FACDBEA) | North Kansas City, Missouri, United States | $17/hour | 2026-11-07 |  |
@@ -220,7 +265,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Prosperity Bank | [Teller (Full Time) - Tyler University](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604707&lang=en_US) | TYLER UNIVERSITY, Tyler, TX, US |  | 2026-11-06 |  |
 | Prosperity Bank | [Teller (Part Time) - Bastrop](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604731&lang=en_US) | BASTROP, Bastrop, TX, US |  | 2026-11-06 |  |
 | The Quality Group | [Laborant (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/5026145101) | Deutschland, remote |  | 2026-11-06 |  |
-| Waste Connections | [CDL Trainee](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6220-South-Cairo/CDL-Trainee_R-105427) | 6220-South Cairo | $21.50 to $26/hour | 2026-11-06 |  |
 | BAYADA Home Health Care | [Employment Specialist/Job Coach](https://jobs.bayada.com/en/jobs?gh_jid=8931723002) | Albemarle, NC 28001 / 35.348541731 / -80.201505559 | $18/hour | 2026-11-06 |  |
 | BAYADA Home Health Care | [Employment Specialist/Job Coach](https://jobs.bayada.com/en/jobs?gh_jid=8931726002) | Charlotte, NC 28262 / 35.324055066 / -80.73727919 | $18/hour | 2026-11-06 |  |
 | Baylor Scott & White Health | [Parking Specialist 1](https://jobs.bswhealth.com/us/en/job/26020352) | Dallas, Texas, United States |  | 2026-11-06 |  |
@@ -448,12 +492,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lucas Tree Experts | [Arborist Trainee / Climber - Transmission - Brunswick, ME](https://lucastree.bamboohr.com/careers/859) | Brunswick, Maine, United States (Remote) |  | 2026-11-05 |  |
 | Evergreen Residential Holdings, LLC | [Community Specialist](https://evergreenresi.com/careers/openings/?gh_jid=4742848005) | Raleigh North Carolina |  | 2026-11-05 |  |
 | Evergreen Residential Holdings, LLC | [Community Specialist](https://evergreenresi.com/careers/openings/?gh_jid=4742846005) | Dallas, TX |  | 2026-11-05 |  |
-| Madison Reed | [Colorist, Licensed Cosmetologist](https://app.careerpuck.com/job-board/madisonreedcolorbar/job/8261654?gh_jid=8261654) | Washington, D.C. | $39.50 to $41.50/hour | 2026-11-05 |  |
 | NHE, Inc. | [Leasing Professional - The Summit at Hendersonville](https://nheincteam.bamboohr.com/careers/2455) | Flat Rock, North Carolina, United States |  | 2026-11-05 |  |
 | Steigerwaldt Land Services | [Right of Way Agent - Wisconsin](https://steigerwaldt.bamboohr.com/careers/313) | Green Bay, Wisconsin, United States (Remote) |  | 2026-11-05 |  |
 | ControlPoint Technologies | [Document Control Specialist](https://controlpoint-technologies.breezy.hr/p/3dcbbaef32fc-document-control-specialist) | Mansfield, MA | $50,000 to $70,000 | 2026-11-05 |  |
 | Madison Reed | [Colorist, Licensed Cosmetologist](https://app.careerpuck.com/job-board/madisonreedcolorbar/job/8261454?gh_jid=8261454) | Boulder, CO | $38.82 to $40.82/hour | 2026-11-05 |  |
-| Soho House & Co. | [Dishwasher (Porter) - Dumbo House](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4997939101) | Dumbo House, 55 Water St, Brooklyn, NY 11201 | $22/hour | 2026-11-05 |  |
 | Zedcor Security Solutions | [Junior Investigation Specialist - Houston, TX](https://zedcor.bamboohr.com/careers/292) | Spring, Texas, United States |  | 2026-11-05 |  |
 | Bentley School | [Men’s Junior Varsity Basketball – Head Coach](https://bentleyschool.bamboohr.com/careers/295) | Lafayette, California, United States | $25 to $30/hour | 2026-11-05 |  |
 | Headlight | [Care Access Specialist I](https://jobs.lever.co/headlight.health/659d337c-740d-4293-97f5-6221260ee0c7) | Salt Lake City, Utah (hybrid) |  | 2026-11-05 |  |
@@ -542,7 +584,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Next Gen Logistics | [Tugboat Deckhand](https://nextgenlogistics.bamboohr.com/careers/135) | Lake Charles, Louisiana, United States (Remote) |  | 2026-11-05 |  |
 | Carvana | [Entry-Level Detailer - Post Production (2nd shift)](https://www.carvana.com/careers/apply?gh_jid=8105879) | Hutchins, TX | $16 to $17/hour | 2026-11-05 | no visa sponsorship |
 | Crossroads Inc | [Bilingual Community Care Specialist](https://crossroadsinc.bamboohr.com/careers/1013) | Phoenix, Arizona, United States |  | 2026-11-05 | clearance |
-| Gantri | [Sander - SWING SHIFT (Entry Level)](https://jobs.lever.co/Gantri/64db8a85-30f1-40ba-81f2-506abe8e512b) | San Leandro, CA | $20 to $22/hour | 2026-11-05 |  |
 | Baldwin Paving | [Asphalt Luteman](https://baldwin.bamboohr.com/careers/143) | Marietta, Georgia, United States (Remote) | $18 to $21/hour | 2026-11-05 |  |
 | Robertson, Anschutz, Schneid, Crane & Partners, PLLC | [Title Curative Specialist I](https://ats.rippling.com/raslegalgroup/jobs/3e9fd282-bcf9-44e7-bdd2-6cd0eec43162) | Remote (United States) |  | 2026-11-05 |  |
 | STRATA, Inc. | [Reinforced Concrete Special Inspector](https://stratageotech.bamboohr.com/careers/45) | Boise, Idaho, United States |  | 2026-11-05 |  |
@@ -623,7 +664,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Sands Investment Group | [Junior Commercial Real Estate Advisor](https://job-boards.greenhouse.io/sandsinvestmentgroup/jobs/4071128009) | Charlotte, North Carolina |  | 2026-11-05 |  |
 | Sands Investment Group | [Junior Commercial Real Estate Advisor](https://job-boards.greenhouse.io/sandsinvestmentgroup/jobs/4071122009) | Washington DC |  | 2026-11-05 |  |
 | Abil-ot kids therapy | [Speech-Language Pathologist](https://abilotkids.bamboohr.com/careers/32) | Raleigh, North Carolina, United States |  | 2026-11-05 |  |
-| Component Repair Technologies | [Non-Destructive Testing (NDT) Inspector - Level II (2nd shift, Mon-Fri)](https://jobs.lever.co/componentrepairtechnologies/eeca7ae6-9324-4246-8744-d765fb619ac5) | Mentor, OH |  | 2026-11-05 |  |
 | Component Repair Technologies | [Non-Destructive Testing (NDT) Inspector - Level II (3rd shift, Mon-Fri)](https://jobs.lever.co/componentrepairtechnologies/d1e606a4-881a-4fc5-aef1-ef5992f8a53b) | Mentor, OH |  | 2026-11-05 |  |
 | Covenant House New York | [Bilingual Intake & Community Specialist](https://ats.rippling.com/covenant-house-new-york/jobs/f4609171-8d1d-4bb4-8955-a46490990bb0) | New York, NY |  | 2026-11-05 |  |
 | Albuquerque Health Care for the Homeless | [Housing Navigator](https://abqhch.bamboohr.com/careers/163) | Albuquerque, New Mexico, United States |  | 2026-11-05 |  |
@@ -716,43 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Trademark Camping | [Summer 2027 / Rock N Water Adventure Guide Trainee](https://TMCAMPING.bamboohr.com/careers/100) · Summer 2027 | Lotus, California, United States |  | 2026-11-05 |  |
 | Integrated Resources INC | [Care Worker](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999659854769-care-worker) | Orange, CA, us |  | 2026-11-05 |  |
 | Integrated Resources INC | [Care Worker](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999659663428-care-worker) | Orange, CA, us |  | 2026-11-05 |  |
-| Infojini Inc | [Production Support](https://jobs.smartrecruiters.com/InfojiniInc1/743999659339086-production-support) | New York, NY, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Eligibility Processor](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999658868141-eligibility-processor) | Maryland Heights, MO, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Specialist, Clerical Supp III](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999658420077-specialist-clerical-supp-iii) | Denver, CO, us |  | 2026-11-05 |  |
-| 360 IT Professionals | [Jr. QA_Sharepoint+TFS_Minnesota](https://jobs.smartrecruiters.com/360ITProfessionals1/743999657713910-jr-qa-sharepoint-tfs-minnesota) | Minneapolis, MN, us |  | 2026-11-05 |  |
-| 360 IT Professionals | [Jr. Helpdesk Support_Denver CO](https://jobs.smartrecruiters.com/360ITProfessionals1/743999657033697-jr-helpdesk-support-denver-co) | Denver, CO, us |  | 2026-11-05 |  |
-| 360 IT Professionals | [HelpDesk Support](https://jobs.smartrecruiters.com/360ITProfessionals1/743999657017267-helpdesk-support) | Denver, CO, us |  | 2026-11-05 |  |
-| 360 IT Professionals | [Call Center Representative](https://jobs.smartrecruiters.com/360ITProfessionals1/743999657016969-call-center-representative) | Denver, CO, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [HEDIS Specialist I](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999656040576-hedis-specialist-i) | Irving, TX, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Care Review Processor](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999655883514-care-review-processor) | El Paso, TX, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [HEDIS Specialist I](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999655185004-hedis-specialist-i) | Houston, TX, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Care Review Processor](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999653680192-care-review-processor) | Columbus, OH, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Entry level - Drug Safety](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999652694860-entry-level-drug-safety) | Foster City, CA, us |  | 2026-11-05 |  |
-| 360 IT Professionals | [Jr. Helpdesk(1 yr exp )_Servicenow _Govt. exp preferred_w2 only](https://jobs.smartrecruiters.com/360ITProfessionals1/743999652565991-jr-helpdesk-1-yr-exp-servicenow-govt-exp-preferred-w2-only) | Columbus, OH, us |  | 2026-11-05 |  |
-| 360 IT Professionals | [Multiple job positions_Data Entry Clerk_Govt. exp preferred_New York](https://jobs.smartrecruiters.com/360ITProfessionals1/743999651351433-multiple-job-positions-data-entry-clerk-govt-exp-preferred-new-york) | New York, NY, us |  | 2026-11-05 |  |
-| 360 IT Professionals | [Jr. Helpdesk Role(1 yrs min. exp)_Denver CO](https://jobs.smartrecruiters.com/360ITProfessionals1/743999651107806-jr-helpdesk-role-1-yrs-min-exp-denver-co) | Denver, CO, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [QI Specialist](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999650973729-qi-specialist) | Springfield, IL, us |  | 2026-11-05 |  |
-| 360 IT Professionals | [Call Center Representative_Pharma exp_Lake forest IL](https://jobs.smartrecruiters.com/360ITProfessionals1/743999650592899-call-center-representative-pharma-exp-lake-forest-il) | Lake Forest, IL, us |  | 2026-11-05 |  |
-| Infojini Inc | [Helpdesk Support](https://jobs.smartrecruiters.com/InfojiniInc1/113030177-helpdesk-support) | Washington, DC, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Entry level Drug safety](https://jobs.smartrecruiters.com/IntegratedResourcesINC/112702909-entry-level-drug-safety) | Foster City, CA, us |  | 2026-11-05 |  |
-| Infojini Inc | [Painter](https://jobs.smartrecruiters.com/InfojiniInc1/110236615-painter) | Las Vegas, NV, us |  | 2026-11-05 |  |
-| Infojini Inc | [Helpdesk Support/ Call Center](https://jobs.smartrecruiters.com/InfojiniInc1/107348072-helpdesk-support-call-center) | Denver, CO, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Personal Care Connector](https://jobs.smartrecruiters.com/IntegratedResourcesINC/104298284-personal-care-connector) | North Charleston, SC, us |  | 2026-11-05 |  |
-| Infojini Inc | [Paint](https://jobs.smartrecruiters.com/InfojiniInc1/103854693-paint) | Las Vegas, NV, us |  | 2026-11-05 |  |
-| Gerber Collision & Glass | [Paint Prepper - Lakewood WA](https://jobs.smartrecruiters.com/GerberCollisionGlass/99472753-paint-prepper-lakewood-wa) | Lakewood, WA, us |  | 2026-11-05 |  |
-| Direct Staffing Inc | [RAD MRI Tech](https://jobs.smartrecruiters.com/dstaff/96495699-rad-mri-tech) | Kaufman, TX, us |  | 2026-11-05 |  |
-| Direct Staffing Inc | [Speech Pathologist CCC](https://jobs.smartrecruiters.com/dstaff/95751451-speech-pathologist-ccc) | Glenwood Springs, CO, us |  | 2026-11-05 |  |
-| Infojini Inc | [Painter](https://jobs.smartrecruiters.com/InfojiniInc1/95487030-painter) | Las Vegas, NV, us |  | 2026-11-05 |  |
-| Sears | [Premier Invoicing Specialist - $12 per hour](https://jobs.smartrecruiters.com/Sears2/95102711-premier-invoicing-specialist-12-per-hour) | Augusta, GA, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Biostatician](https://jobs.smartrecruiters.com/IntegratedResourcesINC/88902534-biostatician) | Jacksonville, FL, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Disinfection Specialist](https://jobs.smartrecruiters.com/IntegratedResourcesINC/87986336-disinfection-specialist) | Cambridge, MA, us |  | 2026-11-05 |  |
-| Direct Staffing Inc | [ULTRASOUND TECH](https://jobs.smartrecruiters.com/dstaff/87235639-ultrasound-tech) | Coupeville, WA, us |  | 2026-11-05 |  |
-| Direct Staffing Inc | [CODER III](https://jobs.smartrecruiters.com/dstaff/86827675-coder-iii) | Grand Rapids, MI, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Quality Inspector](https://jobs.smartrecruiters.com/IntegratedResourcesINC/85290207-quality-inspector) | Cincinnati, OH, us |  | 2026-11-05 |  |
-| Direct Staffing Inc | [SLP - Speech Language Pathologist](https://jobs.smartrecruiters.com/dstaff/85219209-slp-speech-language-pathologist) | Shelton, CT, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [DESKTOP SUPPORT](https://jobs.smartrecruiters.com/IntegratedResourcesINC/83710925-desktop-support) | Rockville, MD, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Communication Specialist I](https://jobs.smartrecruiters.com/IntegratedResourcesINC/83449778-communication-specialist-i) | Wayne, PA, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Audiologist](https://jobs.smartrecruiters.com/IntegratedResourcesINC/83258032-audiologist) | St Louis, MO, us |  | 2026-11-05 |  |
-| Direct Staffing Inc | [2,5 K Sign On/CODER II FT DAYS](https://jobs.smartrecruiters.com/dstaff/82246982-2-5-k-sign-on-coder-ii-ft-days) | Houston, TX, us |  | 2026-11-05 |  |
-| Integrated Resources INC | [Proof Reader - II](https://jobs.smartrecruiters.com/IntegratedResourcesINC/82084467-proof-reader-ii) | Raynham, MA, us |  | 2026-11-05 |  |
-| Direct Staffing Inc | [Certified Surgical Tech - Orthopedics](https://jobs.smartrecruiters.com/dstaff/80322073-certified-surgical-tech-orthopedics) | Fort Worth, TX, us |  | 2026-11-05 |  |

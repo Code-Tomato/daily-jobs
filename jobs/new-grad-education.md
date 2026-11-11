@@ -1,11 +1,19 @@
 # New grad and entry level: Education
 
-360 open, newest first (by the date the scraper first saw them), updated 2026-11-10.
+364 open, newest first (by the date the scraper first saw them), updated 2026-11-11.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Brella | [Teacher - Pasadena](https://brella.breezy.hr/p/4ff105a72e15-teacher-pasadena) | Pasadena, CA |  | 2026-11-11 |  |
+| Senior Resource Group, LLC | [Fitness Instructor - The Village at Sherman Oaks](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000160989419-fitness-instructor-the-village-at-sherman-oaks) | Los Angeles, CA, us |  | 2026-11-11 |  |
+| Senior Resource Group, LLC | [Fitness Instructor - The Village at Sherman Oaks](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000160989240-fitness-instructor-the-village-at-sherman-oaks) | Los Angeles, CA, us |  | 2026-11-11 |  |
+| Big Ideas Educational Services | [Afterschool PE Teacher - 3PM-6PM](https://bigideas.bamboohr.com/careers/148) | Miami-Gardens, Florida, United States |  | 2026-11-11 |  |
+| Studyfetch | [Tutors](https://ats.rippling.com/studyfetch/jobs/d7fae709-58fc-48e5-8c9c-c01dd208e7e9) | Beverly Hills, CA | $25 to $30/hour | 2026-11-11 |  |
+| Texas State University | [Academic Advisor I - Business Advising](https://jobs.hr.txstate.edu/postings/59214) | San Marcos, TX |  | 2026-11-11 |  |
+| Texas State University | [Academic Advisor I](https://jobs.hr.txstate.edu/postings/59209) | San Marcos, TX |  | 2026-11-11 |  |
+| DREAM | [[Immediate Start] Recess Coach - Mott Haven Elementary and Middle School](https://jobs.lever.co/wearedream/6ef77656-9bef-492b-aee3-d62e7de5f562) | New York, NY - Multi-Site | $17.50 to $18/hour | 2026-11-11 |  |
 | Parker Core Knowledge | [Preschool Teacher](https://ckcs.bamboohr.com/careers/54) | Parker, Colorado, United States | $26.88/hour | 2026-11-10 |  |
 | CSC Generation | [Seasonal Chef Instructor (Sur La Table)](https://jobs.lever.co/cscgeneration-2/2d2a17a6-2c29-4543-9842-b16e42113dcd) | King of Prussia, PA |  | 2026-11-10 |  |
 | Discovery Kidzone | [Part Time Teacher — Tues/Thurs Childcare & Preschool (Entry Level)](https://discoverykidzone.bamboohr.com/careers/491) | Bozeman, Montana, United States |  | 2026-11-10 |  |
@@ -48,7 +56,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Texas Health Resources | [Admissions Specialist - Admitting ER - PRN](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26009815&lang=en) | Dallas |  | 2026-11-06 |  |
 | Texas Health Resources | [Admissions Specialist – Admitting ER](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011794&lang=en) | Plano |  | 2026-11-06 |  |
 | Texas Health Resources | [Admissions Specialist – Admitting ER](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011916&lang=en) | Frisco |  | 2026-11-06 |  |
-| Inspiroz | [School Technology Specialist](https://apply.workable.com/j/C08D1C965B) | Charlotte, North Carolina, United States |  | 2026-11-06 |  |
 | Inspiroz | [School Technology Specialist - NYC-NEED URGENT CONTRACTORS](https://apply.workable.com/j/E71D96C35F) | New York, New York, United States |  | 2026-11-06 |  |
 | Fluentbe.com | [English teacher for young learners / Lektor/ka języka angielskiego dla dzieci](https://apply.workable.com/j/B4AD3E73FD) | United States |  | 2026-11-06 |  |
 | Harlem Children's Zone | [Pre-K Learning Specialist (Special Education Teacher)](https://apply.workable.com/j/39335E83D2) | New York, New York, United States | $70,000 to $140,000 | 2026-11-06 |  |
@@ -120,7 +127,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Magical Beginnings | [Toddler Teacher](https://jobs.lever.co/magicalbeginningslc/90acc833-2fc6-4ed1-9bf0-486a3860e92a) | Middleton, MA |  | 2026-11-05 |  |
 | Lansing School District | [Junior Varsity Boys Basketball Coach](https://jobs.lever.co/lansingschools/cb0fea30-4a47-4eb1-9605-a9f0483544ab) | Lansing, MI |  | 2026-11-05 |  |
 | French American School of Denver | [French Immersion Classroom Teacher Pool (K-5)](https://fasdenver.bamboohr.com/careers/30) | Denver, Colorado, United States |  | 2026-11-05 |  |
-| River Delta Unified School District | [Junior Varsity Girls Basketball Coach - Winter 2026](https://riverdeltaunifiedschooldistrict.teamtailor.com/jobs/7468731-junior-varsity-girls-basketball-coach-winter-2026) · Winter 2026 | Rio Vista, United States |  | 2026-11-05 |  |
 | Pacific College | [MSN-FNP Adjunct Faculty](https://pacific.bamboohr.com/careers/89) | Costa Mesa, California, United States |  | 2026-11-05 |  |
 | Saginaw Intermediate School District | [Special Education Teacher - Autism Spectrum Disorder (ASD), Post-Secondary - Millet](https://sisd.bamboohr.com/careers/70) | Saginaw, Michigan, United States |  | 2026-11-05 |  |
 | Saginaw Intermediate School District | [Special Education Teacher - Autism Spectrum Disorder (ASD), Elementary/Middle - Millet](https://sisd.bamboohr.com/careers/71) | Saginaw, Michigan, United States |  | 2026-11-05 |  |
@@ -236,7 +242,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Apollo After School | [Behavior Support Educator](https://apollo-after-school.breezy.hr/p/1f2ce66479fc-behavior-support-educator) | Washington, DC | $25/hour | 2026-11-04 |  |
 | Red Rabbit | [Food Service Worker/Packer (Part-Time), In-School - Northeast Philadelphia](https://red-rabbit.breezy.hr/p/6211464cb64d-food-service-worker-packer-part-time-in-school-northeast-philadelphia) | Philadelphia, PA | $16.50 to $18.50/hour | 2026-11-04 |  |
 | Red Rabbit | [Porter/Dishwasher, In School (No Nights / Weekends) - Washington, DC](https://red-rabbit.breezy.hr/p/ee755354f6e2-porter-dishwasher-in-school-no-nights-weekends-washington-dc) | Washington, DC | $18.50 to $20.50/hour | 2026-11-04 |  |
-| Primer | [Admissions Representative](https://jobs.ashbyhq.com/primer/f48737c1-a88e-431b-8c9d-894ef15ee6f0) | Houston |  | 2026-11-04 |  |
 | Primer | [Admissions Representative](https://jobs.ashbyhq.com/primer/65a65498-b564-4630-b231-22c703ba8645) | Gainesville, Florida |  | 2026-11-04 |  |
 | Primer | [Admissions Representative](https://jobs.ashbyhq.com/primer/3a038e27-3102-4b71-8ef4-7a94bdf03096) | Orlando, Florida |  | 2026-11-04 |  |
 | Red Rabbit | [Food Service Worker/Packer , In-School - Washinton D.C.](https://red-rabbit.breezy.hr/p/9e21ccf451d1-food-service-worker-packer-in-school-washinton-d-c) | Washington, DC | $18 to $20/hour | 2026-11-04 |  |
@@ -266,7 +271,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rivermont Schools | [Special Education Teacher](https://jobs.ashbyhq.com/Rivermont-Schools/e6f3dbaa-51d2-421a-8ca4-f78ee1e1afcf) | Roanoke, VA (Southeast) |  | 2026-11-04 |  |
 | Svetness Personal Training | [Water Aerobics Instructor - Pittsburgh, PA](https://job-boards.greenhouse.io/svetness/jobs/5106394007) | Pittsburgh, PA |  | 2026-11-04 |  |
 | Rivermont Schools | [Special Education Teacher](https://jobs.ashbyhq.com/Rivermont-Schools/232c5732-01dd-4082-b6c1-aa09cc1731ac) | Roanoke, VA (Southwest) |  | 2026-11-04 |  |
-| Primer | [Admissions Representative](https://jobs.ashbyhq.com/primer/a4a68abc-abb4-4f82-999a-ac5bd02d780e) | San Antonio, Texas |  | 2026-11-04 |  |
 | Svetness Personal Training | [Water Aerobics Instructor - Raleigh, NC](https://job-boards.greenhouse.io/svetness/jobs/5083837007) | Raleigh, NC |  | 2026-11-04 |  |
 | Tahoe Truckee Unified School District | [Basketball - Junior Varsity Women THS](https://tahoetruckeeusd.teamtailor.com/jobs/7404181-basketball-junior-varsity-women-ths) | Truckee, United States |  | 2026-11-04 |  |
 | Think Academy US | [Full-Time Remote Math Teacher](https://job-boards.greenhouse.io/thinkacademyus/jobs/7668579003) | Remote | $16 to $45/hour | 2026-11-04 |  |

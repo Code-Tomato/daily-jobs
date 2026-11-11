@@ -1,11 +1,19 @@
 # New grad and entry level: Design and creative
 
-179 open, newest first (by the date the scraper first saw them), updated 2026-11-10.
+184 open, newest first (by the date the scraper first saw them), updated 2026-11-11.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/22246) | Olathe, Kansas |  | 2026-11-11 |  |
+| Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/22247) | Portland, Oregon |  | 2026-11-11 |  |
+| HCSC | [Producer Advocate](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/OK---Oklahoma-City/Producer-Advocate_R0056379-2) | OK - Oklahoma City | $17.75 to $28.39/hour | 2026-11-11 |  |
+| Panasonic North America | [Technician I Visual Inspection, Rotating Days / C-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51991) | Sparks, Nevada |  | 2026-11-11 |  |
+| The Quality Group | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/5032407101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |
+| The Quality Group GmbH | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5023226101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |
+| Wade Trim | [Natural Gas Designer - #3081](https://jobs.lever.co/wadetrim/decd734b-91d4-4058-936f-6d3159c619a8) | Fort Worth, TX |  | 2026-11-11 |  |
+| Trilon Group | [Engineering Designer I](https://trilongroup.pinpointhq.com/en/postings/fd4c31a6-aac2-46f7-9abd-b46b3c2253e8) | Atlanta, Georgia | $65,000 to $80,000 | 2026-11-11 |  |
 | AccuWeather | [Graphic Production Artist](https://job-boards.greenhouse.io/accuweather/jobs/8367396) | State College, PA |  | 2026-11-10 |  |
 | Konrad | [UI/UX Designer](https://www.konrad.com/careers/job/8199570003?gh_jid=8199570003) | New York | $80,000 to $100,000 | 2026-11-10 |  |
 | Clera | [Founding Product Designer](https://jobs.ashbyhq.com/Clera/27f3a6c6-fdda-4912-ba33-5bc30c67280d) | San Francisco | $150,000 to $250,000 | 2026-11-09 |  |
@@ -13,7 +21,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Garmin | [Aviation Human Factors Designer 1](https://careers.garmin.com/careers-home/jobs/21949) | Olathe, Kansas |  | 2026-11-07 |  |
 | Online Labels Group | [Flexographic Press Operator](https://online-labels.breezy.hr/p/0a3c014235e6-flexographic-press-operator) | 12177 28th Street N St. Petersburg, FL |  | 2026-11-07 |  |
 | Online Labels Group | [Flexographic Press Operator](https://online-labels.breezy.hr/p/ce599aad1ae7-flexographic-press-operator) | 2001 E Lake Mary Blvd Sanford, FL |  | 2026-11-07 |  |
-| Resource Environmental Solutions LLC | [Designer I](https://job-boards.greenhouse.io/res/jobs/5458665008) | Pittsburgh, Pennsylvania, United States |  | 2026-11-07 |  |
 | OHM Advisors | [Plumbing Designer](https://apply.workable.com/j/879A49B21C) | St. Petersburg, Florida, United States |  | 2026-11-07 |  |
 | RTM Business Group | [Junior Producer](https://apply.workable.com/j/C95C318714) | Georgia, United States (hybrid) | $50,000 to $70,000 | 2026-11-07 |  |
 | AECOM | [Entry-Level Architecture Designer - Hiring Event with AECOM - Arlington, VA](https://jobs.smartrecruiters.com/AECOM2/744000159874369-entry-level-architecture-designer-hiring-event-with-aecom-arlington-va) | Arlington, VA, us |  | 2026-11-06 | US citizens/persons only |
@@ -61,7 +68,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AP on AP Media | [Audio Producer](https://jobs.smartrecruiters.com/APOnAPMedia/743999721386886-audio-producer) | Brooklyn, NY, us |  | 2026-11-05 |  |
 | Jobgether | [Learning Experience Designer](https://jobs.lever.co/jobgether/3e830bbc-3a71-4849-9234-3753e7e9a947) | US |  | 2026-11-04 |  |
 | Rice University | [Producer of Broadcast Services](https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6356) | United States |  | 2026-11-04 |  |
-| Jobgether | [UX (User Experience) Designer](https://jobs.lever.co/jobgether/902e1402-424a-4d28-8c46-b02bb1f8d875) | US |  | 2026-11-04 |  |
 | Taskrabbit | [Product Designer](https://job-boards.greenhouse.io/taskrabbit/jobs/8314929) | New York, New York, United States; San Francisco, California, United S (hybrid) | $141,000 | 2026-11-04 |  |
 | Jackson Spalding | [Junior Designer](https://ats.rippling.com/jackson-spalding/jobs/787c5542-0e88-47aa-8fe5-713212367328) | Atlanta, GA |  | 2026-11-04 |  |
 | Monumental Sports & Entertainment | [Junior Videographer](https://job-boards.greenhouse.io/monumentalsports/jobs/5275181007) | Washington, DC 20004 | $65,000 to $80,000 | 2026-11-04 |  |
@@ -76,7 +82,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Xcite Automotive | [Photographer/ Jr Detailer](https://xciteauto.breezy.hr/p/f7930d33e259-photographer-jr-detailer) | San Antonio, TX |  | 2026-11-04 |  |
 | EOS | [Tier 2 Audio Visual Field Technician](https://eosits.com/company/careers/?gh_jid=8889713002) | Los Angeles, California, United States | $32 to $41/hour | 2026-11-04 |  |
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDpSYhEaiEMAjFxFDuQ2oLrK) | FL - Boca Raton |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
-| Fischer Homes | [BIM DESIGNER](https://job-boards.greenhouse.io/f1sch3rh0m3s/jobs/8035477003) | Erlanger, KY |  | 2026-11-04 |  |
 | Black & McDonald Limited | [Designer Level 1](https://black-mcdonald-limited.breezy.hr/p/c8c77d90276401-designer-level-1) | San Antonio, TX |  | 2026-11-04 |  |
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDqzDcvPGcNba8OiCBdY3ygQ) | NC - Raleigh |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Nominal | [Product Designer - New Grad (Summer 2027)](https://jobs.gem.com/nominal/am9icG9zdDry9kV7vE_-FGiPtGinvtOT) · Summer 2027 | New York, NY, Los Angeles, CA, Austin, TX |  | 2026-11-04 | US citizens/persons only |
@@ -170,11 +175,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kiewit | [BIM Designer - Kiewit Industrial & Water Engineering](https://kiewitcareers.kiewit.com/job/Lenexa-BIM-Designer-Kiewit-Industrial-&-Water-Engineering-KS/1420673500/) | Lenexa, KS, US |  | 2026-10-20 |  |
 | Paramount | [Designer, Toys](https://careers.paramount.com/job/Los-Angeles-Designer%2C-Toys-CA-90038/1430786400/) | Los Angeles, CA, US | $64,800 to $81,000 | 2026-10-20 |  |
 | Panasonic North America | [Technician I Visual Inspection, Nights, D-Shift (7PM-7AM)[Wed-Fri + Alt Sat]](https://careers.na.panasonic.com/careers-home/jobs/51737) | Sparks, Nevada |  | 2026-10-20 |  |
-| xAI | [Data Visualization Engineer](https://job-boards.greenhouse.io/xai/jobs/5265194007) | Palo Alto, CA | $132,000 to $198,000 | 2026-10-20 |  |
-| Service Corporation International | [Memorial Designer](https://sci.wd5.myworkdayjobs.com/SCI/job/TX---Pflugerville/Memorial-Designer_Req167535) | TX - Pflugerville |  | 2026-10-20 |  |
+| xAI | [Data Visualization Engineer](https://job-boards.greenhouse.io/xai/jobs/5265194007) | Palo Alto, CA | $100,000 to $198,000 | 2026-10-20 | US citizens/persons only |
 | DNOW | [Engineering Designer](https://distributionnow.wd5.myworkdayjobs.com/DNOW_Careers/job/US-CO-Denver-1422-Delgany-Street-Suite-100/Engineering-Designer_R08523) | US CO Denver 1422 Delgany Street, Suite 100 |  | 2026-10-20 |  |
+| Service Corporation International | [Memorial Designer](https://sci.wd5.myworkdayjobs.com/SCI/job/TX---Pflugerville/Memorial-Designer_Req167535) | TX - Pflugerville |  | 2026-10-20 |  |
 | Formlabs | [Industrial Designer - Entry Level](https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032) | Boston, MA | $90,000 to $120,000 | 2026-10-20 |  |
-| Quanta Services | [Piping Designer - Natural Gas](https://careers-quanta.icims.com/jobs/18961/piping-designer---natural-gas/job) | Huntersville, NC |  | 2026-10-20 |  |
+| Quanta Services | [Piping Designer](https://careers-quanta.icims.com/jobs/18961/piping-designer/job) | Huntersville, NC |  | 2026-10-20 |  |
 | The New York Times | [Journalist, Graphics Intensive](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4728037005) | New York, NY | $82,414.80 | 2026-10-20 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/18646) | Olathe, Kansas |  | 2026-10-20 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/18738) | Portland, Oregon |  | 2026-10-20 |  |

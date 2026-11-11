@@ -1,11 +1,36 @@
 # Internships and co-ops: Healthcare
 
-2,782 open, newest first (by the date the scraper first saw them), updated 2026-11-10. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,804 open, newest first (by the date the scraper first saw them), updated 2026-11-11. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Ascension | [Sonography Clinical Intern](https://jobs.ascension.org/us/en/job/26665) | Nashville, TN, US |  | 2026-11-11 |  |
+| Ascension | [Nursing Intern](https://jobs.ascension.org/us/en/job/27974) | Oshkosh, WI, US |  | 2026-11-11 |  |
+| Harris Health | [Pharmacy Tech Apprentice](https://jobs.harrishealth.org/pharmacy-tech-apprentice/job/D48C305154BE886AEA79D26688531A69) | Bellaire, TX, US |  | 2026-11-11 |  |
+| Amgen | [Grad Intern - Global Patient Safety (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Global-Patient-Safety--Summer-2027-_R-260757) · Summer 2027 | United States - Remote | $35.34 to $41.20/hour | 2026-11-11 |  |
+| Centene | [Clinical Extern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-SC/Clinical-Extern_1661481) | Remote-SC |  | 2026-11-11 |  |
+| CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1100892) | 975 TAMPA RD., Palm Harbor, Florida,United States | $23.75 to $42/hour | 2026-11-11 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1100930) | 1128 PARK AVE., NW, Norton, Virginia,United States | $30 to $42/hour | 2026-11-11 |  |
+| CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1100640) | 313 E TOWNLINE RD, Vernon Hills, Illinois,United States | $24.25 to $42/hour | 2026-11-11 |  |
+| CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R0996562) | 1407 LINCOLNWAY, La Porte, Indiana,United States | $24.25 to $42/hour | 2026-11-11 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1100915) | 16600 HIGHLANDS CENTER BLVD, Bristol, Virginia,United States | $30 to $42/hour | 2026-11-11 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1100907) | 2940 CLINCH ST, Richlands, Virginia,United States | $30 to $42/hour | 2026-11-11 |  |
+| CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1100446) | 969 WEST 5TH ST, Marysville, Ohio,United States | $23.75 to $42/hour | 2026-11-11 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1100896) | 1370 E. MAIN ST., Wytheville, Virginia,United States | $30 to $42/hour | 2026-11-11 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1100854) | 195 CONSTON AVE, Christiansburg, Virginia,United States | $30 to $42/hour | 2026-11-11 |  |
+| Douglas County Health Department | [Intern (General)](https://douglascountyil.bamboohr.com/careers/48) | Tuscola, Illinois, United States |  | 2026-11-11 |  |
+| LaBella Associates | [Health & Safety Intern](https://apply.workable.com/j/8C5DA9699D) | Rochester, New York, United States | $16 to $20/hour | 2026-11-11 |  |
+| Marsh McLennan | [Health and Benefits Summer Intern- Louisville KY- College Program 2027](https://mmc.wd1.myworkdayjobs.com/MMC/job/Louisville---West-Market/Health-and-Benefits-Summer-Intern--Louisville-KY--College-Program-2027_R_372414) · Fall 2027 | Louisville - West Market (hybrid) |  | 2026-11-11 | no visa sponsorship |
+| Northwestern Memorial Healthcare | [Community Health Worker Apprenticeship Program - 2026/2027 Cohort](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160907869-community-health-worker-apprenticeship-program-2026-2027-cohort) | Chicago, IL, us | $18/hour | 2026-11-11 |  |
+| Tenet Healthcare | [Nurse Extern - PCU](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603026979) | San Antonio, TX, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [Nurse Extern - PCU](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603026980) | San Antonio, TX, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [Nurse Extern -Pediatrics](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028459) | San Antonio, TX, United States |  | 2026-11-11 |  |
+| UnitedHealth Group | [Nurse Intern, OptumRx Infusion - Phoenix, AZ](https://careers.unitedhealthgroup.com/job/chandler/nurse-intern-optumrx-infusion-phoenix-az/34088/103116189888) | Chandler, Arizona | $18 to $24/hour | 2026-11-11 | no visa sponsorship |
+| UnitedHealth Group | [Nurse Intern, OptumRx Infusion - Miramar, FL](https://careers.unitedhealthgroup.com/job/miramar/nurse-intern-optumrx-infusion-miramar-fl/34088/103116189840) | Miramar, Florida | $18 to $24/hour | 2026-11-11 | no visa sponsorship |
+| UnitedHealth Group | [Nurse Intern, OptumRx Infusion - Roseville, MN](https://careers.unitedhealthgroup.com/job/roseville/nurse-intern-optumrx-infusion-roseville-mn/34088/103116189952) | Roseville, Minnesota | $18 to $24/hour | 2026-11-11 | no visa sponsorship |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1079519) | 4567 RIVER CITY DR, Jacksonville, Florida,United States | $20 to $23.75/hour | 2026-11-11 |  |
 | Ascension | [Intern Imaging](https://jobs.ascension.org/us/en/job/27693) | Milwaukee, WI, US |  | 2026-11-10 |  |
 | ASM | [Intern, EHS (Environment, Health, Safety)](https://www.asm.com/open-vacancies/?gh_jid=5031707101) | US > Arizona > Phoenix |  | 2026-11-10 |  |
 | Seasons Psychotherapy Associates LLC | [Registered Intern Therapist (RMHCI, RCSWI, RMFTI) – Broward County Outpatient Group Practice](https://seasonsfl.bamboohr.com/careers/98) | Fort Lauderdale, Florida, United States |  | 2026-11-10 |  |
@@ -401,10 +426,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | B&S Site Development | [Occupational Health & Safety (OHS) Intern (Midwest)](https://job-boards.greenhouse.io/bssitedevelopment/jobs/4473326009) | Columbus, Ohio | $25/hour | 2026-11-04 |  |
 | B&S Site Development | [Occupational Health & Safety (OHS) Internship (Northern Virginia)](https://job-boards.greenhouse.io/bssitedevelopment/jobs/4473333009) | Manassas, Virginia | $25/hour | 2026-11-04 |  |
 | Citizens Health | [Pharmacy Intern](https://cmciks.bamboohr.com/careers/422) | Colby, Kansas, United States |  | 2026-11-04 |  |
-| Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921676002) | Detroit, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
-| Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921694002) | Woodhaven, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
 | Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921666002) | Jackson, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
-| Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921662002) | Garden City, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
+| Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921694002) | Woodhaven, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
+| Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8921676002) | Detroit, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
 | Henry Ford Health | [Nurse Extern - Progressive Care](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016478017-nurse-extern-progressive-care) | Rochester, MI, us |  | 2026-11-04 |  |
 | Ramboll | [Intern, Environment & Health](https://jobs.smartrecruiters.com/Ramboll3/744000158349199-intern-environment-health) | Baton Rouge, Louisiana, us | $20 to $25/hour | 2026-11-04 |  |
 | Christus Health | [Medical Assistant Non Certified - *Nursing Externship Program*](https://careers.christushealth.org/opportunity/medical-assistant-non-certified-nursing-externship-program-395217) | Sulphur Springs, TX, US |  | 2026-11-04 |  |
@@ -451,7 +475,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Center for Strategic and International Studies, Inc. | [Intern--Global Health Policy Center (Fall 2026)](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4406652009) · Fall 2026 | Washington, D.C. | $18.40 to $20.40/hour | 2026-11-04 |  |
 | Flagship Pioneering Co-Op Program | [ProFound Therapeutics: Proteomics Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8814269002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
 | Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8398370002) | Portland, Oregon, United States | $19 to $24/hour | 2026-11-04 |  |
-| Flagship Pioneering Co-Op Program | [ProFound Therapeutics: Cardiovascular, Metabolic & Neuroscience Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8806963002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
 | Flagship Pioneering Co-Op Program | [ProFound Therapeutics: Oncology Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8810714002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
 | Kyowa Kirin North America | [2027 Summer Intern - Cell & Gene Therapy (Part-Time)](https://job-boards.greenhouse.io/kyowakirinusa90/jobs/7996048003) · Summer 2027 | La Jolla, CA | $22 to $24/hour | 2026-11-04 | no visa sponsorship |
 | Alliance Animal Health | [DVM Student Externship - Beckley Veterinary Hospital](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000149417099-dvm-student-externship-beckley-veterinary-hospital) | Beckley, WV, us |  | 2026-11-04 |  |
@@ -733,26 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | True North Recovery Inc | [Internship / Practicum Student Placement (Unpaid)](https://tnrak.bamboohr.com/careers/241) | Wasilla, Alaska, United States |  | 2026-11-04 |  |
 | VetEvolve | [Hollymead Veterinary Hospital - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/5015358008) | United States |  | 2026-11-04 |  |
 | Eldersburg Veterinary Hospital | [Eldersburg Veterinary Hospital - DVM/VMD Extern](https://job-boards.greenhouse.io/eldersburgveterinaryhospital/jobs/4994474008) | Sykesville, Maryland, United States |  | 2026-11-04 |  |
-| Tazewell Pike Animal Clinic | [Tazewell Pike Animal Clinic - DVM/VMD Extern](https://job-boards.greenhouse.io/tazewellpikeanimalclinic/jobs/4997134008) | Corryton, Tennessee, United States |  | 2026-11-04 |  |
-| Veterinary Emergency Services | [Veterinary Emergency Services (VES) - DVM/VMD Extern](https://job-boards.greenhouse.io/veterinaryemergencyservices/jobs/4997236008) | Verona, Virginia, United States |  | 2026-11-04 |  |
-| VetEvolve | [Animal Medical Centers of Loudoun - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4989049008) | Ashburn, Virginia |  | 2026-11-04 |  |
-| VetEvolve | [Arnold Veterinary Hospital - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4990455008) | Arnold, Maryland |  | 2026-11-04 |  |
-| VetEvolve | [Bay Beach Veterinary Emergency Hospital - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4990581008) | Virginia Beach, Virginia |  | 2026-11-04 |  |
-| VetEvolve | [Bay Beach Veterinary Hospital - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4991721008) | Virginia Beach, Virginia |  | 2026-11-04 |  |
-| VetEvolve | [Bell County Animal Clinic - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4993522008) | Middlesboro, Kentucky |  | 2026-11-04 |  |
-| VetEvolve | [Beltsville Veterinary Hospital - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4993533008) | Beltsville, Maryland |  | 2026-11-04 |  |
-| VetEvolve | [Big Lick Veterinary Services - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4993550008) | Roanoke, Virginia |  | 2026-11-04 |  |
-| VetEvolve | [Buckeystown Veterinary Hospital - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4993576008) | Buckeystown, Maryland |  | 2026-11-04 |  |
-| VetEvolve | [Companion Animal Clinic - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4993650008) | Blacksburg, Virginia |  | 2026-11-04 |  |
-| VetEvolve | [Eldersburg Veterinary Hospital - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4994481008) | Sykesville, Maryland |  | 2026-11-04 |  |
-| VetEvolve | [Essex Middle River Veterinary Center - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4994507008) | Essex, Maryland |  | 2026-11-04 |  |
-| VetEvolve | [Jackson Square Animal Clinic - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4994530008) | Oak Ridge, Tennessee |  | 2026-11-04 |  |
-| VetEvolve | [Lancaster Veterinary Specialties - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4994558008) | Lancaster, Pennsylvania |  | 2026-11-04 |  |
-| VetEvolve | [Magruder-Tabb Animal Clinic - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4994561008) | Yorktown, Virginia |  | 2026-11-04 |  |
-| VetEvolve | [Manchester Veterinary Services - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4994566008) | Manchester, Maryland |  | 2026-11-04 |  |
-| VetEvolve | [Mount Airy Veterinary Associates - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4994577008) | Mount Airy, Maryland |  | 2026-11-04 |  |
-| VetEvolve | [Tazewell Pike Animal Clinic - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4997141008) | Corryton, Tennessee |  | 2026-11-04 |  |
-| VetEvolve | [Tipton Ridge Veterinary Medical Center - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4997208008) | Pulaski, Virginia |  | 2026-11-04 |  |
-| VetEvolve | [Tri-County Veterinary Clinic - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4997189008) | Sevierville, Tennessee |  | 2026-11-04 |  |
-| VetEvolve | [Veterinary Emergency Services (VES) - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4997242008) | Verona, Virginia |  | 2026-11-04 |  |
-| VetEvolve | [Walkersville Veterinary Clinic - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4997251008) | Walkersville, Maryland |  | 2026-11-04 |  |

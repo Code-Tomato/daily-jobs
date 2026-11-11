@@ -1,11 +1,469 @@
 # New grad and entry level: Healthcare
 
-11,694 open, newest first (by the date the scraper first saw them), updated 2026-11-10. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+12,030 open, newest first (by the date the scraper first saw them), updated 2026-11-11. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Ascension | [Registered Nurse Charge Orthopedic](https://jobs.ascension.org/us/en/job/29616) | Austin, TX, US |  | 2026-11-11 |  |
+| Ascension | [New Grad Registered Nurse Residency Ortho Trauma](https://jobs.ascension.org/us/en/job/28848) · Winter 2027 | Austin, TX, US |  | 2026-11-11 |  |
+| Ascension | [Respiratory Therapy Assistant](https://jobs.ascension.org/us/en/job/25339) | Austin, TX, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Technician Mental Health](https://jobs.ascension.org/us/en/job/25355) | Austin, TX, US |  | 2026-11-11 |  |
+| Ascension | [New Grad Registered Nurse Residency Med Surg](https://jobs.ascension.org/us/en/job/28807) · Winter 2027 | Austin, TX, US |  | 2026-11-11 |  |
+| Ascension | [Certified Medical Assistant Cardio/Cardiac Surgery](https://jobs.ascension.org/us/en/job/28268) | Austin, TX, US |  | 2026-11-11 |  |
+| Ascension | [Registered Nurse Rehab](https://jobs.ascension.org/us/en/job/30149) | Waco, TX, US |  | 2026-11-11 |  |
+| Ascension | [Registered Nurse Rehab](https://jobs.ascension.org/us/en/job/30145) | Waco, TX, US |  | 2026-11-11 |  |
+| Ascension | [Registered Nurse Rehab](https://jobs.ascension.org/us/en/job/30154) | Waco, TX, US |  | 2026-11-11 |  |
+| Ascension | [Certified Medical Coder](https://jobs.ascension.org/us/en/job/21545) | Tulsa, OK, US |  | 2026-11-11 |  |
+| Ascension | [Licensed Practical Nurse Cardio Heart Rhythms](https://jobs.ascension.org/us/en/job/24647) | Tulsa, OK, US |  | 2026-11-11 |  |
+| Ascension | [Patient Access Representative](https://jobs.ascension.org/us/en/job/29740) | Wichita, KS, US |  | 2026-11-11 |  |
+| Ascension | [New Grad Registered Nurse](https://jobs.ascension.org/us/en/job/26197) | Pensacola, FL, US |  | 2026-11-11 |  |
+| Ascension | [Spiritual Care Specialist](https://jobs.ascension.org/us/en/job/29062) | Saint Louis, MO, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Technician](https://jobs.ascension.org/us/en/job/29797) | Nashville, TN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Tech Med Surg](https://jobs.ascension.org/us/en/job/24425) | Murfreesboro, TN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Tech Med Surg](https://jobs.ascension.org/us/en/job/16180) | Murfreesboro, TN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Tech Med Surg](https://jobs.ascension.org/us/en/job/22063) | Murfreesboro, TN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Technician](https://jobs.ascension.org/us/en/job/26799) | Evansville, IN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Technician Multispecialty Med Surg](https://jobs.ascension.org/us/en/job/29361) | Indianapolis, IN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Technician Multispecialty Med Surg](https://jobs.ascension.org/us/en/job/29364) | Indianapolis, IN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Tech Multispecialty Surgical](https://jobs.ascension.org/us/en/job/29328) | Indianapolis, IN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Tech Multispecialty Med Surg Observation](https://jobs.ascension.org/us/en/job/29363) | Indianapolis, IN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Tech Multispecialty Med Surg Observation](https://jobs.ascension.org/us/en/job/29359) | Indianapolis, IN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Tech Float](https://jobs.ascension.org/us/en/job/29989) | Appleton, WI, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Tech](https://jobs.ascension.org/us/en/job/29982) | Appleton, WI, US |  | 2026-11-11 |  |
+| Care Partners | [Caregiver (HCA) - Flexible Scheduling - Sacramento Area](https://jobs.smartrecruiters.com/CarePartners1/744000160989715-caregiver-hca-flexible-scheduling-sacramento-area-) | Elk Grove, CA, us | $19 to $23/hour | 2026-11-11 | clearance |
+| Christus Health | [Registered Nurse - Emergency Department](https://careers.christushealth.org/opportunity/registered-nurse-emergency-department-395803) | Marshall, TX, US |  | 2026-11-11 |  |
+| Christus Health | [RN, Registered Nurse - ICU General](https://careers.christushealth.org/opportunity/rn-registered-nurse-icu-general-381836) | Longview, TX, US |  | 2026-11-11 |  |
+| Cook Children's | [Advanced Care Technician/Paramedic - Emergency Department](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Advanced-Care-Technician-Paramedic---Emergency-Department_JR-119995) | Fort Worth, TX |  | 2026-11-11 |  |
+| Cook Children's | [RN, Prep/Recovery, Prosper, Full-Time](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Prosper-TX/RN--Prep-Recovery--Prosper--Full-Time_JR-119698) | Prosper, TX |  | 2026-11-11 |  |
+| Cook Children's | [RN, Med/Surg](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/RN--Med-Surg_JR-120217-1) | Fort Worth, TX |  | 2026-11-11 |  |
+| Loma Linda University Health | [Patient Navigator](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18081) | Loma Linda, CA, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [Registered Nurse (RN) - L&D](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603027738) | New Braunfels, TX, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [Registered Nurse Tier I (RN) - ER](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028655) | Tucson, AZ, United States |  | 2026-11-11 |  |
+| Texas Health Resources | [Patient Care Tech (PCT) – Cardiac Tele PCU (Full Time/Days)](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26010341&lang=en) | Dallas |  | 2026-11-11 |  |
+| Texas Health Resources | [Patient Care Tech (PCT) – Cardiac Tele PCU – Full Time Nights](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011186&lang=en) | Dallas |  | 2026-11-11 |  |
+| UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/las-vegas/associate-patient-care-coordinator/34088/103156341040) | Las Vegas, Nevada | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/spring-branch/associate-patient-care-coordinator/34088/100766968576) | Spring Branch, Texas | $16 to $29/hour | 2026-11-11 |  |
+| 21Hhs | [Home Health Field Registered Nurse (RN)](https://jobs.lever.co/21hhs/a4090fbd-636b-4d66-994d-09a578545c25) | Guerneville, California |  | 2026-11-11 |  |
+| Alliance Animal Health | [Registered Veterinary Technician](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000160947946-registered-veterinary-technician) | Huntington, WV, us |  | 2026-11-11 |  |
+| Allstate | [Inside Property Adjuster- Trainee - In Office / Hybrid - Frederick, MD](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/MD---Frederick/Inside-Property-Adjuster--Trainee---In-Office---Hybrid---Frederick--MD_R32936) | MD - Frederick (hybrid) | $60,320 | 2026-11-11 | no visa sponsorship |
+| Ascension | [Patient Care Technician Emergency Room](https://jobs.ascension.org/us/en/job/22437) | Austin, TX, US |  | 2026-11-11 |  |
+| Ascension | [Certified Medical Assistant OBGYN](https://jobs.ascension.org/us/en/job/21541) | Tulsa, OK, US |  | 2026-11-11 |  |
+| Ascension | [Certified Medical Assistant](https://jobs.ascension.org/us/en/job/18809) | Tulsa, OK, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Technician Med Surg Swing](https://jobs.ascension.org/us/en/job/29503) | Woodbury, TN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Tech Med Surg](https://jobs.ascension.org/us/en/job/26371) | Sparta, TN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Technician- Neuro Stepdown](https://jobs.ascension.org/us/en/job/29329) | Indianapolis, IN, US |  | 2026-11-11 |  |
+| Ascension | [Certified Medical Assistant Vascular Interventional Radiology and Vein Solutions](https://jobs.ascension.org/us/en/job/29810) | Indianapolis, IN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Technician-Medical ICU](https://jobs.ascension.org/us/en/job/16467) | Indianapolis, IN, US |  | 2026-11-11 |  |
+| Ascension | [PACE Rx Pharmacy Technician](https://jobs.ascension.org/us/en/job/28129) | Indianapolis, IN, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Technician- Advanced Heart Care](https://jobs.ascension.org/us/en/job/29332) | Indianapolis, IN, US |  | 2026-11-11 |  |
+| Ascension | [Certified Medical Assistant Urgent Care](https://jobs.ascension.org/us/en/job/27498) | Anderson, IN, US |  | 2026-11-11 |  |
+| Ascension | [Certified Medical Assistant](https://jobs.ascension.org/us/en/job/20568) | Hoffman Estates, IL, US |  | 2026-11-11 |  |
+| Ascension | [Rehab Tech Audiology](https://jobs.ascension.org/us/en/job/27302) | Baltimore, MD, US |  | 2026-11-11 |  |
+| Ascension | [Patient Care Tech Med Surg Obs](https://jobs.ascension.org/us/en/job/26695) | Baltimore, MD, US |  | 2026-11-11 |  |
+| BAYADA Home Health Care | [Certified Nurses Assistance and Home Health Aide - Pediatrics](https://jobs.bayada.com/en/jobs?gh_jid=8936295002) | Rockwood, PA 15557 / 39.935341242 / -79.199109709 |  | 2026-11-11 |  |
+| BAYADA Home Health Care | [Certified Nursing Assistant and Home Health Aide - Pediatrics](https://jobs.bayada.com/en/jobs?gh_jid=8936230002) | Johnstown, PA 15902 / 40.306742942 / -78.899671477 |  | 2026-11-11 |  |
+| BAYADA Home Health Care | [Certified Nursing Assistant, (CNA) - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8936502002) | Clayton, NC 27520 / 35.619915463 / -78.476899508 |  | 2026-11-11 |  |
+| BAYADA Home Health Care | [Certified Nursing Assistant (CNA)/Home Health Aide (HHA) - Pediatrics](https://jobs.bayada.com/en/jobs?gh_jid=8936862002) | Homer City, PA 15748 / 40.53310971 / -79.130599994 |  | 2026-11-11 |  |
+| BAYADA Home Health Care | [Certified Nursing Assistant (CNA)/Home Health Aide (HHA) - Pediatrics](https://jobs.bayada.com/en/jobs?gh_jid=8936849002) | Bradford, PA 16701 / 41.955844744 / -78.650981041 |  | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Collections Associate](https://jobs.bayada.com/en/jobs?gh_jid=8934974002) | Pennsauken, NJ 08109 / 39.950866919 / -75.048664024 | $20 to $26/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Medical Social Worker](https://jobs.bayada.com/en/jobs?gh_jid=8936319002) | Newton, MA 02458 / 42.355174316 / -71.190057069 | $60 to $75/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Physical Therapist Assistant](https://jobs.bayada.com/en/jobs?gh_jid=8937015002) | Milford, MA 01757 / 42.150496117 / -71.524782005 | $46 to $52/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Physical Therapist Assistant](https://jobs.bayada.com/en/jobs?gh_jid=8936351002) | Falmouth, MA 02540 / 41.563507263 / -70.619632997 | $45 to $52/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Speech Language Pathologist](https://jobs.bayada.com/en/jobs?gh_jid=8936338002) | Boston, MA 02110 / 42.357552209 / -71.052151382 | $65 to $75/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Speech Language Pathologist](https://jobs.bayada.com/en/jobs?gh_jid=8936988002) | Westerly, RI 02891 / 41.361112064 / -71.810098349 |  | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Visits Licensed Practical Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8936346002) | Norwood, MA 02062 / 42.187861478 / -71.203240016 | $45 to $53/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Visits Licensed Practical Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8936310002) | Dorchester, MA 02121 / 42.307906452 / -71.082652658 | $47 to $56/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Visits Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8936354002) | Eastham, MA 02642 / 41.838616465 / -69.985375544 | $58 to $65/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Visits Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8937048002) | Marlborough, MA 01752 / 42.349334872 / -71.543102018 | $58 to $65/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Visits Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8936252002) | Tiverton, RI 02878 / 41.633838812 / -71.178213589 | $58 to $63/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Visits Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8936353002) | Hyannis, MA 02601 / 41.654098348 / -70.296091585 | $58 to $65/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Visits Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8936393002) | Hyannis, MA 02601 / 41.654098348 / -70.296091585 | $57 to $62/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Visits Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8937045002) | Milford, MA 01757 / 42.150496117 / -71.524782005 | $58 to $65/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Visits Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8936422002) | Plymouth, MA 02360 / 41.901425467 / -70.627272897 | $57 to $62/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Home Health Visits Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8936331002) | Watertown, MA 02471 / 42.367305 / -71.187417 | $60 to $68/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Licensed Practical Nurse - Pediatric Home Intensive Care](https://jobs.bayada.com/en/jobs?gh_jid=8936822002) | N Chesterfld, VA 23224 / 37.499572645 / -77.46660136 | $40 to $44/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Occupational Therapist- Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8936376002) | Harrisburg, PA 17111 / 40.269631385 / -76.789523851 | $58 to $68/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Occupational Therapist, (OT) - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8936498002) | Rocky Mount, NC 27801 / 35.925054609 / -77.764308838 | $60 to $65/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Occupational Therapist, (OT) - Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8936481002) | Henderson, NC 27536 / 36.325072151 / -78.409060548 | $65 to $70/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Part-Time Licensed Practical Nurse - Home Intensive Care](https://jobs.bayada.com/en/jobs?gh_jid=8936823002) | Richmond, VA 23218 / 37.539263 / -77.438029 | $40 to $44/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Pediatrics Registered Nurse, HICU - Part Time](https://jobs.bayada.com/en/jobs?gh_jid=8936834002) | North Chesterfield, VA 23225 / 37.515888586 / -77.507884447 | $48 to $52/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Physical Therapist-Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8937014002) | Sunbury, PA 17801 / 40.855773021 / -76.772379137 |  | 2026-11-11 |  |
+| BAYADA Home Health Care | [Physical Therapist-Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8937039002) | Bloomsburg, PA 17815 / 41.011485311 / -76.438290313 |  | 2026-11-11 |  |
+| BAYADA Home Health Care | [Physical Therapy Assistant, (PTA) - Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8936483002) | Henderson, NC 27536 / 36.325072151 / -78.409060548 | $48 to $51/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Registered Nurse - Home Health Visits RN](https://jobs.bayada.com/en/jobs?gh_jid=8936420002) | Brockton, MA 02301 / 42.08214246 / -71.033807838 | $60 to $65/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Registered Nurse, New Graduate RN](https://jobs.bayada.com/en/jobs?gh_jid=8936609002) | Charlotte, NC 28205 / 35.221950787 / -80.79014263 | $28 to $32/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Registered Nurse, (RN) - Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8936499002) | Greenville, NC 27833 / 35.589226 / -77.395879 | $60 to $63/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Registered Nurse, (RN) Preceptor - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8936503002) | Raleigh, NC 27601 / 35.775078699 / -78.634543612 | $65 to $67/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Weekend Home Health Physical Therapist](https://jobs.bayada.com/en/jobs?gh_jid=8937027002) | Worcester, MA 01601 / 42.26281 / -71.802465 | $64 to $72/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Weekend Home Health Visits Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8936334002) | Newton, MA 02458 / 42.355174316 / -71.190057069 | $60 to $68/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Weekend Home Health Visits Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8936358002) | Hyannis, MA 02601 / 41.654098348 / -70.296091585 | $58 to $65/hour | 2026-11-11 |  |
+| BAYADA Home Health Care | [Weekend Home Health Visits Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8937032002) | Marlborough, MA 01752 / 42.349334872 / -71.543102018 | $60 to $65/hour | 2026-11-11 |  |
+| Baylor Scott & White Health | [Acute Care Nurse Practitioner - Cardiovascular](https://jobs.bswhealth.com/us/en/job/26020821) | Mesquite, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Procedural RN](https://jobs.bswhealth.com/us/en/job/26007283) | Grapevine, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Urogynecology Physician Assistant Surgery](https://jobs.bswhealth.com/us/en/job/26020829) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Nurse Practitioner NA Urgent Care](https://jobs.bswhealth.com/us/en/job/26020780) | Grand Prairie, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Urology Physician Assistant Surgery Operative](https://jobs.bswhealth.com/us/en/job/26020773) | Fort Worth, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Certified Medical Assistant](https://jobs.bswhealth.com/us/en/job/26020631) | Mesquite, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Care Tech FT Nights](https://jobs.bswhealth.com/us/en/job/26014518) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Services Spec 1](https://jobs.bswhealth.com/us/en/job/26019695) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Radiologic Tech FT Days](https://jobs.bswhealth.com/us/en/job/26020460) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Care Tech Nights](https://jobs.bswhealth.com/us/en/job/26020588) | Fort Worth, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN ED](https://jobs.bswhealth.com/us/en/job/26016672) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant - Vascular/ Cardiology - First Assist](https://jobs.bswhealth.com/us/en/job/26020812) | Fort Worth, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Phlebotomist II](https://jobs.bswhealth.com/us/en/job/26020771) | Forney, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Care Tech HUC Nights](https://jobs.bswhealth.com/us/en/job/26020185) | Grapevine, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Care Tech FT Nights](https://jobs.bswhealth.com/us/en/job/26010832) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Nurse Practitioner NP Primary Care](https://jobs.bswhealth.com/us/en/job/26020828) | Roanoke, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Graduate Nurse Operating Room Pediatrics Temple](https://jobs.bswhealth.com/us/en/job/26020776) | Temple, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Anesthesiologist Asst Round Rock](https://jobs.bswhealth.com/us/en/job/26019048) | Round Rock, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant - CV/CT Surgery - First Assist](https://jobs.bswhealth.com/us/en/job/26020808) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Anesthesiologist Asst Pflugerville](https://jobs.bswhealth.com/us/en/job/26020419) | Pflugerville, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Acute Care Nurse Practitioner - CV/CT Surgery - Inpatient](https://jobs.bswhealth.com/us/en/job/26020810) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Care Tech HUC FT Days](https://jobs.bswhealth.com/us/en/job/26020700) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN Universal Bed Unit FT Days](https://jobs.bswhealth.com/us/en/job/26002426) | Frisco, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant PA Urgent Care](https://jobs.bswhealth.com/us/en/job/26020781) | Grand Prairie, Texas, United States |  | 2026-11-11 |  |
+| Blackbird Health | [Child and Adolescent Therapist - LCSW, LPC, LMFT](https://job-boards.greenhouse.io/blackbirdhealth/jobs/5478880008) | Harrisburg, Pennsylvania | $50,000 to $105,000 | 2026-11-11 |  |
+| Blackbird Health | [Child and Adolescent Therapist - LSW, LAPC](https://job-boards.greenhouse.io/blackbirdhealth/jobs/5478884008) | Harrisburg, Pennsylvania | $35,000 to $85,000 | 2026-11-11 |  |
+| Bluetree Practice Services | [Orthodontic Receptionist / Front Desk](https://ats.rippling.com/bluetree/jobs/b3fdbcdf-34f8-466f-bfc9-22c692f15659) | Reno, NV | $18.50/hour | 2026-11-11 |  |
+| Boston Scientific | [CRM Field Clinical Representative - Fort Worth, TX](https://bostonscientific.eightfold.ai/careers/job/563602813923503) | Fort Worth, TX, US | $70,000 to $90,000 | 2026-11-11 | no visa sponsorship |
+| Chewy | [Environmental Health and Safety Specialist](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Louisville-KY/Environmental-Health-and-Safety-Specialist_R31473) | Louisville, KY |  | 2026-11-11 |  |
+| Children's Health (Dallas) | [Child Life - Massage Therapist](https://jobsearch.childrens.com/us/en/job/32736) | Dallas, TX, US |  | 2026-11-11 |  |
+| Christus Health | [Registered Nurse - IMC Cardiac](https://careers.christushealth.org/opportunity/registered-nurse-imc-cardiac-402699) | Lake Charles, LA, US |  | 2026-11-11 |  |
+| Christus Health | [RN, Registered Nurse - IMC Cardiac](https://careers.christushealth.org/opportunity/rn-registered-nurse-imc-cardiac-386524) | Longview, TX, US |  | 2026-11-11 |  |
+| City of Hope | [Patient Transport Tech I - Evenings](https://www.cityofhopejobs.org/job/12517/patient-transport-tech-i-evenings-nursing-support-us-ca-duarte/) | Duarte, CA, US |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [RN Medical Surgical](https://www.commonspirit.careers/job/arroyo-grande/rn-medical-surgical/35300/103124412384) | ARROYO GRANDE, CA |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Licensed Masters Social Worker](https://www.commonspirit.careers/job/chandler/licensed-masters-social-worker/35300/103116156720) | CHANDLER, AZ |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Surgical Neuro Trauma ICU Nurse](https://www.commonspirit.careers/job/chandler/surgical-neuro-trauma-icu-nurse/35300/103124406544) | CHANDLER, AZ |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Surgical Neuro Trauma ICU Nurse](https://www.commonspirit.careers/job/chandler/surgical-neuro-trauma-icu-nurse/35300/103124406608) | CHANDLER, AZ |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Surgical Neuro Trauma ICU Nurse](https://www.commonspirit.careers/job/chandler/surgical-neuro-trauma-icu-nurse/35300/98433798304) | CHANDLER, AZ |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Mammography Technologist](https://www.commonspirit.careers/job/chattanooga/mammography-technologist/35300/103134198768) | CHATTANOOGA, TN |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [MRI Technologist](https://www.commonspirit.careers/job/chattanooga/mri-technologist/35300/103120589616) | CHATTANOOGA, TN |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Nutrition Assistant II](https://www.commonspirit.careers/job/colorado-springs/nutrition-assistant-ii/35300/103129501776) | Colorado Springs, CO |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Seasonal Registered Nurse Emergency Room](https://www.commonspirit.careers/job/frisco/seasonal-registered-nurse-emergency-room/35300/103129390736) | Frisco, CO |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Nursing Assistant Trainee](https://www.commonspirit.careers/job/gig-harbor/nursing-assistant-trainee/35300/94045535072) | GIG HARBOR, WA |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Telemetry Monitoring Nurse](https://www.commonspirit.careers/job/gilbert/telemetry-monitoring-nurse/35300/103116158032) | GILBERT, AZ |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Telemetry Nurse](https://www.commonspirit.careers/job/gilbert/telemetry-nurse/35300/103116157712) | GILBERT, AZ |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Telemetry Nurse](https://www.commonspirit.careers/job/gilbert/telemetry-nurse/35300/103116157808) | GILBERT, AZ |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Nurse Emergency](https://www.commonspirit.careers/job/henderson/nurse-emergency/35300/103134010624) | HENDERSON, NV |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Complex General Surgery Medical Surgical RN](https://www.commonspirit.careers/job/houston/complex-general-surgery-medical-surgical-rn/35300/103120590672) | HOUSTON, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Medical Surgical RN](https://www.commonspirit.careers/job/houston/medical-surgical-rn/35300/103120590384) | HOUSTON, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Medical Surgical RN](https://www.commonspirit.careers/job/houston/medical-surgical-rn/35300/103120590464) | HOUSTON, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Medical Surgical RN](https://www.commonspirit.careers/job/houston/medical-surgical-rn/35300/103120590560) | HOUSTON, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Patient Access Representative](https://www.commonspirit.careers/job/houston/patient-access-representative/35300/103120590064) | HOUSTON, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Renal Unit Medical Surgical Nurse](https://www.commonspirit.careers/job/houston/renal-unit-medical-surgical-nurse/35300/103120590224) | HOUSTON, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [RN Home Health - PRN](https://www.commonspirit.careers/job/houston/rn-home-health-prn/35300/103129344240) | Houston, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Surgical Telemetry RN](https://www.commonspirit.careers/job/houston/surgical-telemetry-rn/35300/103120589792) | HOUSTON, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Surgical Telemetry RN](https://www.commonspirit.careers/job/houston/surgical-telemetry-rn/35300/103120589856) | HOUSTON, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Surgical Telemetry RN](https://www.commonspirit.careers/job/houston/surgical-telemetry-rn/35300/103120589968) | HOUSTON, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [RN Home Health](https://www.commonspirit.careers/job/indianapolis/rn-home-health/35300/103129344176) | Indianapolis, IN |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Patient Access Representative](https://www.commonspirit.careers/job/little-falls/patient-access-representative/35300/103134257200) | LITTLE FALLS, MN |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Mental Health Clinician II](https://www.commonspirit.careers/job/los-angeles/mental-health-clinician-ii/35300/103124418000) | LOS ANGELES, CA |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Critical Care Nurse](https://www.commonspirit.careers/job/lufkin/critical-care-nurse/35300/103137714208) | LUFKIN, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Patient Access Representative](https://www.commonspirit.careers/job/omaha/patient-access-representative/35300/103134253152) | OMAHA, NE |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Medical Assistant I](https://www.commonspirit.careers/job/red-bluff/medical-assistant-i/35300/103144743216) | RED BLUFF, CA |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [RN Psych Acute](https://www.commonspirit.careers/job/san-bernardino/rn-psych-acute/35300/102858265504) | SAN BERNARDINO, CA |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [RN PCU Fellowship](https://www.commonspirit.careers/job/san-luis-obispo/rn-pcu-fellowship/35300/103144737920) | SAN LUIS OBISPO, CA |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [RN Med Surg Per Diem](https://www.commonspirit.careers/job/santa-cruz/rn-med-surg-per-diem/35300/103137617984) | SANTA CRUZ, CA |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [RN Med Surg Per Diem](https://www.commonspirit.careers/job/santa-cruz/rn-med-surg-per-diem/35300/103137618064) | SANTA CRUZ, CA |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [RN L&D Fellowship](https://www.commonspirit.careers/job/santa-maria/rn-l-and-d-fellowship/35300/103134055712) | SANTA MARIA, CA |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [RN ED](https://www.commonspirit.careers/job/sugar-land/rn-ed/35300/103137727600) | SUGAR LAND, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [RN ED](https://www.commonspirit.careers/job/sugar-land/rn-ed/35300/103137727648) | SUGAR LAND, TX |  | 2026-11-11 |  |
+| CommonSpirit Health (St. Luke's Health) | [Patient Access Specialist I](https://www.commonspirit.careers/job/tacoma/patient-access-specialist-i/35300/98527805088) | TACOMA, WA (remote) |  | 2026-11-11 |  |
+| Crestwood Behavioral Health | [Recovery Coach / Entry-Level Mental Health Aide](https://job-boards.greenhouse.io/crestwoodcareers/jobs/8200717003) | Vallejo, California, United States | $23 to $24.17/hour | 2026-11-11 |  |
+| CVS Health | [Clinical Pharmacist - Prior Authorization (AZ Licensed)](https://jobs.cvshealth.com/us/en/job/R1095787) | Work at Home, Arizona, United States (remote) | $94,500 to $193,600 | 2026-11-11 |  |
+| CVS Health | [Pharmacy Technician - Inventory Control Coordinator](https://jobs.cvshealth.com/us/en/job/R1098017) | 1001 Spinks Road, Flower Mound, Texas,United States | $17 to $28.46/hour | 2026-11-11 |  |
+| CVS Health | [Pharmacy Manager - Full Time Flexible](https://jobs.cvshealth.com/us/en/job/R1099241) | 702 W. MAIN ST., Tupelo, Mississippi,United States | $65 to $81/hour | 2026-11-11 |  |
+| CVS Health | [Pharmacy Manager](https://jobs.cvshealth.com/us/en/job/R1099194) | 110 WEST MAIN ST., Gardner, Kansas,United States | $65 to $85/hour | 2026-11-11 |  |
+| CVS Health | [Community Health Worker, Lake County, IL (Field)](https://jobs.cvshealth.com/us/en/job/R1083857) | Springfield, Illinois, United States | $18.50 to $38.82/hour | 2026-11-11 |  |
+| CVS Health | [Pharmacy Manager - Store 09293](https://jobs.cvshealth.com/us/en/job/R1099584) | 325 W APACHE TRAIL, Apache Junction, Arizona,United States | $65 to $85/hour | 2026-11-11 |  |
+| CVS Health | [Advanced Pharmacy Technician](https://jobs.cvshealth.com/us/en/job/R1096006) | 6825 West Galveston St, Chandler, Arizona,United States | $17 to $28.46/hour | 2026-11-11 |  |
+| CVS Health | [Community Health Worker, Field (Champaign and surrounding counties, IL)](https://jobs.cvshealth.com/us/en/job/R1083878) | Champaign, Illinois, United States | $18.50 to $38.82/hour | 2026-11-11 |  |
+| CVS Health | [Pharmacy Manager](https://jobs.cvshealth.com/us/en/job/R1099870) | 1080 HENDERSONVILLE ROAD, Asheville, North Carolina,United States | $65 to $85/hour | 2026-11-11 |  |
+| CVS Health | [Pharmacy Manager - Store 16952](https://jobs.cvshealth.com/us/en/job/R1098639) | 11990 BUSINESS PARK BLVD N, Champlin, Minnesota,United States | $65 to $85/hour | 2026-11-11 |  |
+| CVS Health | [Pharmacy Manager](https://jobs.cvshealth.com/us/en/job/R1099950) | 1370 E. MAIN ST., Wytheville, Virginia,United States | $65 to $85/hour | 2026-11-11 |  |
+| Datavant | [Area Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5470401008) | Daytona Beach, FL 32117 |  | 2026-11-11 | no visa sponsorship |
+| Datavant | [Health Information Specialist 1](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5434964008) | Tennessee |  | 2026-11-11 | no visa sponsorship |
+| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5467024008) | Newburgh, NY 12550 | $16 to $20.50/hour | 2026-11-11 | no visa sponsorship |
+| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5474310008) | Texas, Louisiana | $15/hour | 2026-11-11 | no visa sponsorship |
+| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5467553008) | Richmond, Virginia | $15 to $18.32/hour | 2026-11-11 | no visa sponsorship |
+| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5461309008) | Alabama | $15/hour | 2026-11-11 | no visa sponsorship |
+| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5469471008) | Alabama | $15/hour | 2026-11-11 | no visa sponsorship |
+| Eating Recovery Center | [Nurse Practitioner](https://job-boards.greenhouse.io/erc8585757pathlight53t353/jobs/4486610009) | CO-Den Willow | $120,000 to $150,000 | 2026-11-11 |  |
+| Eating Recovery Center | [Physician Assistant](https://job-boards.greenhouse.io/erc8585757pathlight53t353/jobs/4488953009) | CO-Den Willow | $120,000 to $150,000 | 2026-11-11 |  |
+| Edwards Health Care Services, Inc. | [Diabetes Care Advisor - Hybrid/Onsite Position](https://gemcorehealth.recruitee.com/o/diabetes-care-advisor-hybridonsite-position-3) | Louisville, KY, US (hybrid) |  | 2026-11-11 |  |
+| Edwards Health Care Services, Inc. | [Diabetes Care Advisor - Hybrid/Onsite Position](https://gemcorehealth.recruitee.com/o/diabetes-care-advisor-hybridonsite-position-2) | Havertown, PA, US (hybrid) |  | 2026-11-11 |  |
+| Edwards Health Care Services, Inc. | [Diabetes Care Advisor - Hybrid/Onsite Position](https://gemcorehealth.recruitee.com/o/diabetes-care-advisor-hybridonsite-position-1) | Greenville, SC, US (hybrid) |  | 2026-11-11 |  |
+| Edwards Health Care Services, Inc. | [Diabetes Care Advisor - Hybrid/Onsite Position](https://gemcorehealth.recruitee.com/o/diabetes-care-advisor-hybridonsite-position) | Morehead City, NC, US (hybrid) |  | 2026-11-11 |  |
+| Elevance Health | [Authorization Representative I - BioPlus Specialty Pharmacy](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/Authorization-Representative-I---BioPlus-Specialty-Pharmacy_JR206647-1) | FL-LAKE MARY, 3200 LAKE EMMA RD, STE 1000 |  | 2026-11-11 |  |
+| Eye Care Partners | [Medical Assistant](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8937103002) | Creve Coeur, MO |  | 2026-11-11 |  |
+| Eye Care Partners | [Medical Assistant (Ophthalmology) - Training Provided](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8936641002) | Walker, MI |  | 2026-11-11 |  |
+| Eye Care Partners | [Medical Assistant, Ophthalmology - Training Provided!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8937162002) | Wichita, KS |  | 2026-11-11 |  |
+| Eye Care Partners | [Medical Assistant / Scribe - On-Site in Birmingham, MI](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8936475002) | Birmingham, MI |  | 2026-11-11 |  |
+| Eye Care Partners | [Medical Assistant - Training Provided!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8936739002) | Muskegon, MI |  | 2026-11-11 |  |
+| Eye Care Partners | [Medical Assistant - Willing to Train!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8936855002) | Andover, KS |  | 2026-11-11 |  |
+| Eye Care Partners | [Medical Assistant - Willing to Train!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8937165002) | Wichita, KS |  | 2026-11-11 |  |
+| Eye Care Partners | [Medical Receptionist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8936484002) | Birmingham, MI |  | 2026-11-11 |  |
+| Eye Care Partners | [Medical Receptionist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8934948002) | Toms River, NJ |  | 2026-11-11 |  |
+| Eye Care Partners | [Patient Coordinator](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8937065002) | Ypsilanti, MI |  | 2026-11-11 |  |
+| Eye Care Partners | [Patient Coordinator](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8937115002) | Creve Coeur, MO |  | 2026-11-11 |  |
+| Eye Care Partners | [Registered Nurse, Pre-Op / Post-Op / Operating Room (PRN) - PRN Schedule - Open to New Grads!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8937043002) | Hannibal, MO |  | 2026-11-11 |  |
+| Harris Health | [Nurse Clinician II 6D Medicine IMU](https://jobs.harrishealth.org/nurse-clinician-ii-6d-medicine-imu/job/B84AE203E9B847F31E30AE40F5A7DBA7) | Houston, TX, US |  | 2026-11-11 |  |
+| Harris Health | [Security Officer II- Smith Clinic](https://jobs.harrishealth.org/security-officer-ii-smith-clinic/job/D1101434CE5AC0DFB65EDC71E4BD1BE5) | Houston, TX, US |  | 2026-11-11 |  |
+| Health Link | [RN Clinical Coordinator](https://job-boards.greenhouse.io/healthlink/jobs/5478881008) | San Francisco (hybrid) | $50 to $60/hour | 2026-11-11 |  |
+| Henry Ford Health | [Nurse Assistant - Clinical Decision Unit](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016779066-nurse-assistant-clinical-decision-unit) | Southfield, MI, us |  | 2026-11-11 |  |
+| Henry Ford Health | [Medical Assistant](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016773376-medical-assistant) | Detroit, MI, us |  | 2026-11-11 |  |
+| Henry Ford Health | [Patient Registration Representative](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016769506-patient-registration-representative) | Detroit, MI, us |  | 2026-11-11 |  |
+| Henry Ford Health | [Medical Assistant - Family Practice](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016765336-medical-assistant-family-practice) | Warren, MI, us |  | 2026-11-11 |  |
+| Houston Methodist | [Patient Services Representative - Orthopedics (Baytown)](https://houstonmethodist.wd12.myworkdayjobs.com/GTI/job/HM-Baytown---Sports-Med/Patient-Services-Representative---Orthopedics--Baytown-_JR-17735-1) | HM Baytown - Sports Med |  | 2026-11-11 |  |
+| Houston Methodist | [Pulmonary Function Technologist- Department of Medicine (Medical Center)](https://houstonmethodist.wd12.myworkdayjobs.com/GTI/job/HM-Texas-Medical-Center---Scurlock-Tower/Pulmonary-Function-Technologist--Department-of-Medicine--Medical-Center-_JR-17677-1) | HM Texas Medical Center - Scurlock Tower |  | 2026-11-11 |  |
+| Houston Methodist | [Pulmonary Function Technologist- Department of Medicine (Medical Center)](https://houstonmethodist.wd12.myworkdayjobs.com/GTI/job/HM-Texas-Medical-Center---Scurlock-Tower/Pulmonary-Function-Technologist--Department-of-Medicine--Medical-Center-_JR-17676-2) | HM Texas Medical Center - Scurlock Tower |  | 2026-11-11 |  |
+| Humana | [Home Health Medical Social Worker-Per Diem](https://careers.humana.com/us/en/job/R-436558) | Athens, Texas, United States of America | $64,000 to $87,500 | 2026-11-11 |  |
+| Humana | [Home Health Medical Social Worker-Per Diem](https://careers.humana.com/us/en/job/R-436386) | Tyler, Texas, United States of America | $64,000 to $87,500 | 2026-11-11 |  |
+| Humana | [Home Health RN Case Manager](https://careers.humana.com/us/en/job/R-436088) | Overland Park, Kansas, United States of America | $77,200 to $106,200 | 2026-11-11 |  |
+| Humana | [Patient Services Coordinator-LPN, Home Health](https://careers.humana.com/us/en/job/R-436623) | Tampa, Florida, United States of America | $48,900 to $66,200 | 2026-11-11 |  |
+| Humana | [Medical Assistant](https://careers.humana.com/us/en/job/R-436091) | The Villages, Florida, United States of America | $43,000 to $56,200 | 2026-11-11 |  |
+| Intuitive Health | [Patient Access Advocate, Full-time Mid shift, Intracoastal](https://jobs.smartrecruiters.com/IntuitiveHealth1/3743990016782326-patient-access-advocate-full-time-mid-shift-intracoastal) | Jacksonville, FL, us |  | 2026-11-11 |  |
+| Kittitas Valley Healthcare | [Patient Service Representative - Family Medicine Ellensburg - Full Time (40 hours/week)](https://jobs.smartrecruiters.com/KittitasValleyHealthcare/744000160975782-patient-service-representative-family-medicine-ellensburg-full-time-40-hours-week-) | Ellensburg, WA, us | $19.62 to $29.74/hour | 2026-11-11 |  |
+| LifeStance Health | [Child Psychiatric Nurse Practitioner - Outpatient - Hybrid](https://jobs.lever.co/lifestance/4ee1bb5d-c471-445c-928b-b7701b1cc8c1) | Fairlawn, OH (hybrid) | $220,000 | 2026-11-11 |  |
+| LifeStance Health | [Psychiatric Nurse Practitioner - Outpatient - Hybrid](https://jobs.lever.co/lifestance/37c264bd-cc5c-49ea-ab08-37020c0b4fac) | Brecksville, OH (hybrid) | $220,000 | 2026-11-11 |  |
+| LifeStance Health | [Psychiatric Nurse Practitioner - Outpatient - Hybrid](https://jobs.lever.co/lifestance/b5947422-09f0-4ded-a1aa-0af2d581ca7f) | Norwood, OH (hybrid) | $220,000 | 2026-11-11 |  |
+| LifeStance Health | [Psychiatric Nurse Practitioner- Lifespan - Outpatient](https://jobs.lever.co/lifestance/14e0fc29-04bb-45b6-bb95-4f1a44129e4f) | Beachwood, OH | $220,000 | 2026-11-11 |  |
+| Loma Linda University Health | [Clinical Nurse B-Inpatient Cardiac ICU NOC 9A](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18024) | Loma Linda, CA, United States |  | 2026-11-11 |  |
+| Loma Linda University Health | [Patient Navigator-HOPD](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17057) | Loma Linda, CA, United States |  | 2026-11-11 |  |
+| Loma Linda University Health | [Clinical Nurse B-Inpatient Cardiac ICU NOC 9A](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18061) | Loma Linda, CA, United States |  | 2026-11-11 |  |
+| Loma Linda University Health | [Clinical Nurse B-Inpatient Cardiac ICU NOC 9A](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18063) | Loma Linda, CA, United States |  | 2026-11-11 |  |
+| Loma Linda University Health | [Clinical Nurse B-Inpatient](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18129) | Loma Linda, CA, United States |  | 2026-11-11 |  |
+| M&T Bank | [Bilingual Spanish Universal Banker - Gaithersburg MD](https://mtb.wd5.myworkdayjobs.com/MTB/job/Gaithersburg-MD/Bilingual-Spanish-Universal-Banker---Gaithersburg-MD_R92072) | Gaithersburg, MD | $21.68 to $36.13/hour | 2026-11-11 |  |
+| Mainspring Recovery | [Counselor/Counselor Supervisee - Part-time](https://ats.rippling.com/mainspringrecovery/jobs/799c6523-8031-475a-b7c6-8474abb7a580) | Dumfries, VA | $28 to $34.50/hour | 2026-11-11 |  |
+| Mantra Health | [TN Licensed 1099 Psychiatric Mental Health Nurse Practitioner](https://job-boards.greenhouse.io/mantrahealth/jobs/6252878004) | Remote | $25 to $134/hour | 2026-11-11 |  |
+| Mission Healthcare | [Hospice Admissions Registered Nurse / RN](https://job-boards.greenhouse.io/missionhealthcare/jobs/4483434009) | Salem, OR |  | 2026-11-11 |  |
+| Mission Healthcare | [Hospice Admissions Registered Nurse / RN](https://job-boards.greenhouse.io/missionhealthcare/jobs/4486667009) | Bakersfield, CA |  | 2026-11-11 |  |
+| Mission Healthcare | [Hospice Registered Nurse Case Manager / RN](https://job-boards.greenhouse.io/missionhealthcare/jobs/4483416009) | McMinnville, OR | $55/hour | 2026-11-11 |  |
+| Molina Healthcare | [Field Nurse Practitioner (Columbus, OH)](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040378) | Columbus, OH, United States |  | 2026-11-11 |  |
+| Monarch Communities | [Care Manager (Full-Time or Part-Time All shifts)](https://jobs.smartrecruiters.com/MonarchCommunities/744000160987709-care-manager-full-time-or-part-time-all-shifts-) | Kennett Square, PA, us | $20 to $23/hour | 2026-11-11 |  |
+| Monarch Communities | [Care Manager (CNA/CHHA) Weekend Warriors](https://jobs.smartrecruiters.com/MonarchCommunities/744000160951019-care-manager-cna-chha-weekend-warriors-) | Brick Township, NJ, us | $22 to $23/hour | 2026-11-11 |  |
+| Monarch Communities | [Care Manager (CNA) Part-Time 11pm-7am](https://jobs.smartrecruiters.com/MonarchCommunities/744000160950057-care-manager-cna-part-time-11pm-7am) | Brick Township, NJ, us | $21 to $22/hour | 2026-11-11 |  |
+| Munson Healthcare | [Medical Assistant - Occupational Health](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016780657-medical-assistant-occupational-health-) | Traverse City, Michigan, us |  | 2026-11-11 |  |
+| Munson Healthcare | [Registered Nurse or Graduate Nurse - A4 Cardiac Telemetry - FT Night shift](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016778296-registered-nurse-or-graduate-nurse-a4-cardiac-telemetry-ft-night-shift) | Traverse City, Michigan, us |  | 2026-11-11 |  |
+| Noah Medical | [Clinical Specialist - Dallas, TX](https://job-boards.greenhouse.io/noahmedical/jobs/5478046008) | Remote, United States |  | 2026-11-11 |  |
+| Optima Medical | [Medical Assistant](https://job-boards.greenhouse.io/optimamedical/jobs/4488410009) | 285 N Broad St, Globe, AZ 85501 |  | 2026-11-11 |  |
+| Optimal Care | [Home Health Licensed Physical Therapist](https://job-boards.greenhouse.io/optimalcare/jobs/5478191008) | Jackson, MI | $93,000 to $116,000 | 2026-11-11 |  |
+| Optimal Care | [Home Health Licensed Physical Therapist - $10,000 Sign On Bonus!](https://job-boards.greenhouse.io/optimalcare/jobs/5478315008) | Lansing, MI | $93,000 to $116,000 | 2026-11-11 |  |
+| Optimal Care | [Home Health Occupational Therapist - $5,000 Sign On Bonus!](https://job-boards.greenhouse.io/optimalcare/jobs/5478105008) | Lansing, MI | $84,000 to $94,000 | 2026-11-11 |  |
+| Optimal Care | [Home Health Patient Services Coordinator - Saginaw](https://job-boards.greenhouse.io/optimalcare/jobs/5464747008) | Saginaw, MI |  | 2026-11-11 |  |
+| Optimal Care | [Home Health Registered Nurse](https://job-boards.greenhouse.io/optimalcare/jobs/5478395008) | Jackson, MI | $75,000 to $88,000 | 2026-11-11 |  |
+| Optimal Care | [Hospital In Patient Specialist](https://job-boards.greenhouse.io/optimalcare/jobs/5478487008) | Jackson, MI | $18 to $22/hour | 2026-11-11 |  |
+| Optimal Care - Evergreen | [Home Health Physical Therapist (PT) - $10,000 Sign On Bonus](https://job-boards.greenhouse.io/optimalcare-evergreen/jobs/5478223008) | Bay City, MI | $93,000 to $104,000 | 2026-11-11 |  |
+| OrangeTwist | [Graduate Aesthetic RN, NP or PA (Full-Time)](https://job-boards.greenhouse.io/orangetwist/jobs/5290073007) | Reno, Nevada, United States | $40 to $55/hour | 2026-11-11 |  |
+| Parkland Health | [Psychiatric Technician](https://wd12.myworkdaysite.com/recruiting/parklandhospital/Parkland_Careers/job/Main-Hospital-Bldg---1st-Flr/Psychiatric-Technician_987744) | Main Hospital Bldg - 1st Flr |  | 2026-11-11 |  |
+| Planned Parenthood Great Plains | [Assistant Health Center Manager](https://jobs.lever.co/ppgreatplains/fcd43090-13b2-46e3-ad98-43c6b426766d) | Overland Park, KS |  | 2026-11-11 |  |
+| Porch Light Health | [Junior Healthcare Recruiter](https://frontrangeclinic.bamboohr.com/careers/373) | Fort Collins, Colorado, United States (Remote) | $50,000 | 2026-11-11 |  |
+| Pure Infusion | [RN Infusion Nurse - Marietta](https://ats.rippling.com/pure-infusion/jobs/f65cc030-495a-459f-a208-33621a83d503) | Marietta, GA |  | 2026-11-11 |  |
+| Pyramid Healthcare | [Counselor](https://job-boards.greenhouse.io/1pyra%29mid_health%26care/jobs/5478392008) | York, PA |  | 2026-11-11 |  |
+| Pyramid Healthcare | [Medical Provider (Nurse Practitioner or Physician Assistant)](https://job-boards.greenhouse.io/1pyra%29mid_health%26care/jobs/5476846008) | Asheville, NC | $80 to $85/hour | 2026-11-11 |  |
+| Senior Lifestyle | [Caregiver - Assisted Living - PRN](https://jobs.smartrecruiters.com/SeniorLifestyle1/744000160946278-caregiver-assisted-living-prn) | New Kensington, PA, us | $17/hour | 2026-11-11 |  |
+| Senior Lifestyle | [Social Worker](https://jobs.smartrecruiters.com/SeniorLifestyle1/744000160889639-social-worker) | Auburn, ME, us |  | 2026-11-11 |  |
+| Sharp HealthCare | [Clinical Nurse BU - Hospice - Full-time - Day Shift](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Clinical-Nurse-BU---Hospice---Full-time---Day-Shift_JR211761-1) | San Diego, CA | $64.21 to $93.76/hour | 2026-11-11 |  |
+| Sharp HealthCare | [Nurse Residency Program / New Grad RN / Spring 2027 Start / Sharp HealthCare](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Nurse-Residency-Program---New-Grad-RN---Spring-2027-Start---Sharp-HealthCare_JR211850) · Spring 2027 | San Diego, CA | $64.21 to $93.76/hour | 2026-11-11 |  |
+| Sharp HealthCare | [Nurse Residency Program / New Grad RN / Spring 2027 Start / Sharp Tri-City Medical Center](https://sharp.wd1.myworkdayjobs.com/External/job/STCMC-Tri-City-MedicalCenter-Main-Campus---4002-Vista-Way/Nurse-Residency-Program---New-Grad-RN---Spring-2027-Start---Sharp-Tri-City-Medical-Center_JR211851-1) · Spring 2027 | STCMC Tri-City Medical Center Main Campus - 4002 Vista Way | $44.67 to $68.85/hour | 2026-11-11 |  |
+| Silverado | [Hospice RN On-Call (7 on / 7 off)](https://job-boards.greenhouse.io/silverado/jobs/5291204007) | Dallas, Texas | $85,000 to $90,000 | 2026-11-11 |  |
+| Skilled Wound Care | [Entry Level Medical Sales Representative](https://job-boards.greenhouse.io/skilledwoundcare/jobs/8200940003) | Atlanta, GA | $73,000 | 2026-11-11 |  |
+| SportsMed Physical Therapy | [Speech Language Pathologist (Pediatric)](https://jobs.lever.co/spineandsportsmed/947e0c49-f59f-4fb0-9497-93883ebc3505) | West Orange, NJ | $60 to $65/hour | 2026-11-11 |  |
+| SportsMed Physical Therapy | [Speech Language Pathologist (Pediatric)](https://jobs.lever.co/spineandsportsmed/f82852ea-38e2-4751-a4c4-54ab45110ae4) | Woodbridge, NJ | $60 to $65/hour | 2026-11-11 |  |
+| Stanford Medicine Children's Health | [Medical Assistant II](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990016774016-medical-assistant-ii) | LOS GATOS, CA, us | $27.57 to $33.08/hour | 2026-11-11 |  |
+| Stanford Medicine Children's Health | [Medical Assistant II](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990016773576-medical-assistant-ii) | MENLO PARK, CA, us | $27.57 to $33.08/hour | 2026-11-11 |  |
+| Strive Pharmacy | [Inventory Control Specialist](https://job-boards.greenhouse.io/strivepharmacy/jobs/5291424007) | Tampa, FL | $22 to $24/hour | 2026-11-11 |  |
+| Surgery Partners | [Patient Care Representative Key-Whitman Eye Greenville](https://job-boards.greenhouse.io/surgerypartners/jobs/4488449009) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Surgery Partners | [Registered Nurse FT](https://job-boards.greenhouse.io/surgerypartners/jobs/4484551009) | Providence, Rhode Island, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [Registered Nurse (RN) New Grad- Cardiac](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603017604) | Phoenix, AZ, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [New Grad Registered Nurse (RN) - Cardiac](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603018082) | Phoenix, AZ, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [New Grad Registered Nurse (RN) - OR](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603020709) | Glendale, AZ, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [Registered Nurse New Graduate (RN) - ER](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603026446) | San Antonio, TX, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [-Registered Nurse (RN) - NICU](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603026517) | Palm Springs, CA, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [Registered Nurse New Graduate (RN) - Ortho](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603026766) | San Antonio, TX, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [New Grad Registered Nurse (RN) - Med Surg](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603026998) | Glendale, AZ, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [New Grad Registered Nurse (RN) - Med Surg](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603027000) | Glendale, AZ, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [Behavioral Health Counselor](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603027284) | San Antonio, TX, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [Registered Nurse (RN) - L&D](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603027722) | San Antonio, TX, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [Rehab Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028845) | Glendale, AZ, United States |  | 2026-11-11 |  |
+| Tenet Healthcare | [Rehab Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028846) | Glendale, AZ, United States |  | 2026-11-11 |  |
+| Texas Health Resources | [HLA Technologist](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011348&lang=en) | Fort Worth |  | 2026-11-11 |  |
+| Texas Health Resources | [Registered Nurse, RN (Full Time-Days)- Surgery](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011541&lang=en) | Dallas |  | 2026-11-11 |  |
+| Texas Health Resources | [Registered Nurse, RN (Full Time-Days)- CVOR Surgery](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011545&lang=en) | Dallas |  | 2026-11-11 |  |
+| Texas Health Resources | [Registered Nurse (RN) - GI/Pain Management - PRN](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26010129&lang=en) | Plano |  | 2026-11-11 |  |
+| Texas Health Resources | [Registered Nurse, RN (Full Time-Days) - CVOR Surgery](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26008590&lang=en) | Dallas |  | 2026-11-11 |  |
+| Texas Health Resources | [Patient Care Tech, PCT, FT, Days, Medical](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012216&lang=en) | Denton |  | 2026-11-11 |  |
+| Texas Health Resources | [Pharmacy Technician I- PRN Nights, Weekends](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012301&lang=en) | Dallas |  | 2026-11-11 |  |
+| Texas Health Resources | [Patient Care Tech (PCT) – Cardiac Tele PCU – Full Time Nights](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26010678&lang=en) | Dallas |  | 2026-11-11 |  |
+| Toast | [Territory Account Executive , SMB - East Baltimore, MD](https://careers.toasttab.com/jobs?gh_jid=8374485) | Baltimore, MD (hybrid) | $128,000 to $205,000 | 2026-11-11 |  |
+| TTUHSC | [Relief Pharmacist](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=927737) | Lubbock, Texas, US | $100,000 | 2026-11-11 |  |
+| United Vein & Vascular Centers | [Clinical Technologist / Medical Assistant](https://job-boards.greenhouse.io/unitedveincenters/jobs/5478123008) | Clear Lake Shores, Texas, United States |  | 2026-11-11 |  |
+| United Vein & Vascular Centers | [Clinical Technologist / Medical Assistant](https://job-boards.greenhouse.io/unitedveincenters/jobs/5478134008) | Sarasota, Florida, United States |  | 2026-11-11 |  |
+| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/abingdon/rn-case-manager/34088/103134195952) | Abingdon, Virginia |  | 2026-11-11 |  |
+| UnitedHealth Group | [Nurse Practitioner Hospice PRN](https://careers.unitedhealthgroup.com/job/aiken/nurse-practitioner-hospice-prn/34088/103116190192) | Aiken, South Carolina | $46 to $69/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Clinical Manager Hospice](https://careers.unitedhealthgroup.com/job/aiken/rn-clinical-manager-hospice/34088/103116190512) | Aiken, South Carolina | $67,716 to $101,574 | 2026-11-11 |  |
+| UnitedHealth Group | [Physical Therapist Assistant](https://careers.unitedhealthgroup.com/job/amherst/physical-therapist-assistant/34088/103134196448) | Amherst, New York | $28 to $50.40/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Clinical Manager Hospice](https://careers.unitedhealthgroup.com/job/athens/rn-clinical-manager-hospice/34088/103120837520) | Athens, Georgia | $67,716 to $101,574 | 2026-11-11 |  |
+| UnitedHealth Group | [RN Registered Nurse Home Health](https://careers.unitedhealthgroup.com/job/athens/rn-registered-nurse-home-health/34088/102826151312) | Athens, Georgia | $34.46 to $62.03/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Hospice Nurse Case Manager](https://careers.unitedhealthgroup.com/job/augusta/rn-hospice-nurse-case-manager/34088/103124565216) | Augusta, Maine | $75,620 to $113,430 | 2026-11-11 |  |
+| UnitedHealth Group | [LPN Peds Per Diem - Baton Rouge](https://careers.unitedhealthgroup.com/job/baton-rouge/lpn-peds-per-diem-baton-rouge/34088/103116190592) | Baton Rouge, Louisiana | $22.90 to $34.35/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Licensed Practical Nurse Home Health](https://careers.unitedhealthgroup.com/job/blue-ridge/licensed-practical-nurse-home-health/34088/103120837024) | Blue Ridge, Georgia | $22.39 to $40.30/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Case Manager Home Health](https://careers.unitedhealthgroup.com/job/blue-ridge/rn-case-manager-home-health/34088/103120836864) | Blue Ridge, Georgia | $67,905 to $101,857 | 2026-11-11 |  |
+| UnitedHealth Group | [Hospice Medical Social Worker](https://careers.unitedhealthgroup.com/job/burlington/hospice-medical-social-worker/34088/102254201600) | Burlington, North Carolina | $63,080 to $94,620 | 2026-11-11 |  |
+| UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/carrollton/associate-patient-care-coordinator/34088/100353869552) | Carrollton, Texas | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Occupational Therapist Home Health PRN](https://careers.unitedhealthgroup.com/job/college-park/occupational-therapist-home-health-prn/34088/103116190480) | College Park, Georgia | $39.75 to $59.60/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Licensed Medical Social Worker - Crewe VA](https://careers.unitedhealthgroup.com/job/crewe/licensed-medical-social-worker-crewe-va/34088/103129614048) | Crewe, Virginia | $35.90 to $47.90/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Hospice](https://careers.unitedhealthgroup.com/job/dallas/rn-hospice/34088/103134197808) | Dallas, Texas | $38.25 to $57.40/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Social Worker Hospice PRN](https://careers.unitedhealthgroup.com/job/east-hartford/social-worker-hospice-prn/34088/103134196592) | East Hartford, Connecticut | $35.10 to $52.65/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Licensed Practical Nurse FT](https://careers.unitedhealthgroup.com/job/ellaville/licensed-practical-nurse-ft/34088/103120837328) | Ellaville, Georgia | $22.39 to $40.30/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/everett/patient-care-coordinator/34088/102865870032) | Everett, Washington | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Community Health Worker - Macon, Swain, Clay, Graham, Cherokee Counties, NC](https://careers.unitedhealthgroup.com/job/franklin/community-health-worker-macon-swain-clay-graham-cherokee-counties-nc/34088/103134197888) | Franklin, North Carolina | $20 to $36/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Physical Therapist Assistant Home Health](https://careers.unitedhealthgroup.com/job/gainesville/physical-therapist-assistant-home-health/34088/103120837072) | Gainesville, Georgia | $55,329 to $82,993 | 2026-11-11 |  |
+| UnitedHealth Group | [Home Health Physical Therapist](https://careers.unitedhealthgroup.com/job/gloucester-point/home-health-physical-therapist/34088/103134196000) | Gloucester, Virginia | $86,607 to $129,910 | 2026-11-11 |  |
+| UnitedHealth Group | [RN Case Manager - Hospice (Grand Island, NE)](https://careers.unitedhealthgroup.com/job/grand-island/rn-case-manager-hospice-grand-island-ne/34088/103120836800) | Grand Island, Nebraska | $75,620 to $113,430 | 2026-11-11 |  |
+| UnitedHealth Group | [RN On-Call 7 on 7 off - Hospice (Grand Island, NE)](https://careers.unitedhealthgroup.com/job/grand-island/rn-on-call-7-on-7-off-hospice-grand-island-ne/34088/103120837392) | Grand Island, Nebraska | $75,620 to $113,430 | 2026-11-11 |  |
+| UnitedHealth Group | [RN Case Manager Hospice](https://careers.unitedhealthgroup.com/job/greenville/rn-case-manager-hospice/34088/103116190768) | Greenville, South Carolina | $75,620 to $113,430 | 2026-11-11 |  |
+| UnitedHealth Group | [PT Physical Therapist Home Health](https://careers.unitedhealthgroup.com/job/griffin/pt-physical-therapist-home-health/34088/103120837184) | Griffin, Georgia | $85,120 to $127,680 | 2026-11-11 |  |
+| UnitedHealth Group | [RN Hospice](https://careers.unitedhealthgroup.com/job/hamilton/rn-hospice/34088/103134197456) | Hamilton, Alabama | $71,640 to $107,460 | 2026-11-11 |  |
+| UnitedHealth Group | [Hospice Nurse Practitioner Per Diem](https://careers.unitedhealthgroup.com/job/harlingen/hospice-nurse-practitioner-per-diem/34088/103134197392) | Harlingen, Texas | $43.58 to $65.37/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Hospice RN Case Manager](https://careers.unitedhealthgroup.com/job/harlingen/hospice-rn-case-manager/34088/103129614448) | Harlingen, Texas | $75,620 to $113,430 | 2026-11-11 |  |
+| UnitedHealth Group | [Home Health RN, Northern Westchester County, $20,000 Sign On Bonus!](https://careers.unitedhealthgroup.com/job/hawthorne/home-health-rn-northern-westchester-county-20-000-sign-on-bonus/34088/103134195856) | Hawthorne, New York | $41.71 to $75.09/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Admit - Weekend](https://careers.unitedhealthgroup.com/job/indianapolis/rn-admit-weekend/34088/103120836496) | Indianapolis, Indiana | $36.27 to $65.29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Licensed Practical Nurse](https://careers.unitedhealthgroup.com/job/jacksonville/licensed-practical-nurse/34088/103120837264) | Jacksonville, Florida | $23.63 to $42.53/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Physical Therapist Assistant PRN](https://careers.unitedhealthgroup.com/job/kennesaw/physical-therapist-assistant-prn/34088/103120837296) | Kennesaw, Georgia | $58,241 to $87,361 | 2026-11-11 |  |
+| UnitedHealth Group | [RN Hospice Case Manager - Eustis](https://careers.unitedhealthgroup.com/job/lady-lake/rn-hospice-case-manager-eustis/34088/103129614592) | Lady Lake, Florida | $83,000 to $87,000 | 2026-11-11 |  |
+| UnitedHealth Group | [Medical Assistant at People's Health - Lafayette, LA](https://careers.unitedhealthgroup.com/job/lafayette/medical-assistant-at-people-s-health-lafayette-la/34088/103137667552) | Lafayette, Louisiana | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/lake-success/associate-patient-care-coordinator/34088/103134197312) | Lake Success, New York | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Medical Social Worker](https://careers.unitedhealthgroup.com/job/largo/medical-social-worker/34088/103134196640) | Largo, Maryland | $69,720 to $104,580 | 2026-11-11 |  |
+| UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/las-vegas/associate-patient-care-coordinator/34088/100674629152) | Las Vegas, Nevada | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Full-Time Physical Therapist](https://careers.unitedhealthgroup.com/job/lee-s-summit/full-time-physical-therapist/34088/103124566608) | Lees Summit, Missouri | $23.80 to $35.70/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Clinical Manager Home Health](https://careers.unitedhealthgroup.com/job/leland/rn-clinical-manager-home-health/34088/103116190272) | Leland, North Carolina | $69,336 to $104,004 | 2026-11-11 |  |
+| UnitedHealth Group | [Licensed Practical Nurse](https://careers.unitedhealthgroup.com/job/melbourne/licensed-practical-nurse/34088/103137667824) | Melbourne, Florida | $49,151 to $73,726 | 2026-11-11 |  |
+| UnitedHealth Group | [LPN Licensed Practical Nurse Home Health](https://careers.unitedhealthgroup.com/job/middlesboro/lpn-licensed-practical-nurse-home-health/34088/103120836400) | Middlesboro, Kentucky | $21.14 to $38.06/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Medical Assistant, Cardiology - Crystal Run Healthcare](https://careers.unitedhealthgroup.com/job/middletown/medical-assistant-cardiology-crystal-run-healthcare/34088/100992652768) | Middletown, New York | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Licensed Medical Social Worker - Home Health](https://careers.unitedhealthgroup.com/job/midlothian/licensed-medical-social-worker-home-health/34088/103129613744) | Midlothian, Virginia | $31.90 to $47.90/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/midlothian/rn-case-manager/34088/103129613712) | Midlothian, Virginia | $36.27 to $65.29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Medical Assistant at Primary Care Plus - Monroe](https://careers.unitedhealthgroup.com/job/monroe/medical-assistant-at-primary-care-plus-monroe/34088/103137667120) | Monroe, Louisiana | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Field Based Clinical Care Coordinator - Delaware, Madison County, IN](https://careers.unitedhealthgroup.com/job/muncie/field-based-clinical-care-coordinator-delaware-madison-county-in/34088/97598302976) | Muncie, Indiana | $29 to $52/hour | 2026-11-11 |  |
+| UnitedHealth Group | [NP Hospice Nurse Practitioner - Washington county](https://careers.unitedhealthgroup.com/job/north-kingstown/np-hospice-nurse-practitioner-washington-county/34088/103134196528) | North Kingstown, Rhode Island | $50.85 to $76.27/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Registered Nurse Home Health](https://careers.unitedhealthgroup.com/job/oak-ridge/rn-registered-nurse-home-health/34088/103120836672) | Oak Ridge, Tennessee | $34.46 to $62.03/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/omaha/rn-case-manager/34088/103120836608) | Omaha, Nebraska | $71,677 to $107,516 | 2026-11-11 |  |
+| UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/plainview/associate-patient-care-coordinator/34088/103124565296) | Plainview, New York | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Physical Therapist](https://careers.unitedhealthgroup.com/job/pleasant-hill/physical-therapist/34088/103129614208) | Pleasant Hill, California | $51.15 to $76.75/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/plymouth/associate-patient-care-coordinator/34088/99985344832) | Plymouth, Massachusetts | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Field RN, per diem - Long Term Care - Portland Metro, OR](https://careers.unitedhealthgroup.com/job/portland/field-rn-per-diem-long-term-care-portland-metro-or/34088/103124566336) | Portland, Oregon | $29 to $52/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Medical Assistant - OBGYN](https://careers.unitedhealthgroup.com/job/poughkeepsie/medical-assistant-obgyn/34088/103120836752) | Poughkeepsie, New York | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Licensed Practical Nurse](https://careers.unitedhealthgroup.com/job/pulaski/licensed-practical-nurse/34088/103134195712) | Pulaski, Virginia | $36.27 to $54.41/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Medical Assistant I/II/III - Dermatology - Kelsey Seybold Clinic: Springwoods Village](https://careers.unitedhealthgroup.com/job/spring/medical-assistant-i-ii-iii-dermatology-kelsey-seybold-clinic-springwoods-village/34088/101927209568) | Spring, Texas | $16 to $32/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Pharmacy Technician](https://careers.unitedhealthgroup.com/job/st-louis/pharmacy-technician/34088/103124566480) | Saint Louis, Missouri | $16 to $29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Clinical Manager](https://careers.unitedhealthgroup.com/job/stroud/rn-clinical-manager/34088/103120836624) | Stroud, Oklahoma | $69,336 to $104,004 | 2026-11-11 |  |
+| UnitedHealth Group | [Hospice RN Case Manager](https://careers.unitedhealthgroup.com/job/temple/hospice-rn-case-manager/34088/103134197504) | Temple, Texas | $75,620 to $113,430 | 2026-11-11 |  |
+| UnitedHealth Group | [Physical Therapist Assistant](https://careers.unitedhealthgroup.com/job/thomaston/physical-therapist-assistant/34088/103120837040) | Thomaston, Georgia | $52,417 to $78,625 | 2026-11-11 |  |
+| UnitedHealth Group | [Physical Therapist](https://careers.unitedhealthgroup.com/job/thomaston/physical-therapist/34088/103120837280) | Thomaston, Georgia | $86,184 to $105,336 | 2026-11-11 |  |
+| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/thomaston/rn-case-manager/34088/103120837104) | Thomaston, Georgia | $38.09 to $68.56/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Hospice Nurse Practioner](https://careers.unitedhealthgroup.com/job/tucson/hospice-nurse-practioner/34088/103134197360) | Tucson, Arizona | $46 to $69/hour | 2026-11-11 |  |
+| UnitedHealth Group | [Physical Therapist](https://careers.unitedhealthgroup.com/job/uniontown/physical-therapist/34088/103134196288) | Uniontown, Pennsylvania | $85,120 to $127,680 | 2026-11-11 |  |
+| UnitedHealth Group | [Registered Nurse - Home Health](https://careers.unitedhealthgroup.com/job/uniontown/registered-nurse-home-health/34088/103134195504) | Uniontown, Pennsylvania | $36.27 to $65.29/hour | 2026-11-11 |  |
+| UnitedHealth Group | [RN Case Manager FT](https://careers.unitedhealthgroup.com/job/vidalia/rn-case-manager-ft/34088/103116189552) | Vidalia, Georgia | $64,132 to $96,198 | 2026-11-11 |  |
+| UnitedHealth Group | [Home Health COTA](https://careers.unitedhealthgroup.com/job/williamsburg/home-health-cota/34088/103134195808) | Williamsburg, Virginia | $50,852 to $76,277 | 2026-11-11 |  |
+| UnitedHealth Group | [Home Health Physical Therapist](https://careers.unitedhealthgroup.com/job/williamsburg/home-health-physical-therapist/34088/103129614640) | Williamsburg, Virginia | $80,864 to $121,296 | 2026-11-11 |  |
+| UnitedHealth Group | [RN Case Manager - Hospice (York, NE)](https://careers.unitedhealthgroup.com/job/york/rn-case-manager-hospice-york-ne/34088/103120837424) | York, Nebraska | $71,640 to $107,460 | 2026-11-11 |  |
+| UT Southwestern | [Ophthalmic Tech Trainee](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=983718&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-11-11 |  |
+| UT Southwestern | [SPECIAL PROCEDURES TECH 10K BONUS](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=971811&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-11-11 |  |
+| UT Southwestern | [Medical Scribe](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=986360&lang=en) | Texas-Dallas-5303 Harry Hines Blvd |  | 2026-11-11 |  |
+| UT Southwestern | [RN - Cardiac Telemetry - Days](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=986923&lang=en) | Texas-Dallas-6201 Harry Hines Blvd |  | 2026-11-11 |  |
+| UT Southwestern | [Registered Nurse PREOP 1030-2100](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=260000M8&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-11-11 |  |
+| Veterinary Emergency Group (VEG) | [Emergency Veterinarian - Falls Church, VA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6248644004?gh_jid=6248644004) | Falls Church, Virginia, United States |  | 2026-11-11 |  |
+| Veterinary Emergency Group (VEG) | [Emergency Veterinarian (Full-Time) - Nanuet, NY](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6220081004?gh_jid=6220081004) | Nanuet, New York, United States |  | 2026-11-11 |  |
+| Veterinary Emergency Group (VEG) | [Emergency Veterinarian - Manhattan Beach, CA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6253540004?gh_jid=6253540004) | Manhattan Beach, California, United States | $140,000 to $350,000 | 2026-11-11 |  |
+| Veterinary Emergency Group (VEG) | [Emergency Veterinarian - Myrtle Beach, SC](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6255060004?gh_jid=6255060004) | Myrtle Beach, South Carolina, United States |  | 2026-11-11 |  |
+| Veterinary Practice Partners | [Veterinary Assistant](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8935290002?gh_jid=8935290002) | East Meadow, NY | $22 to $24/hour | 2026-11-11 |  |
+| Veterinary Practice Partners | [Veterinary Receptionist](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8935227002?gh_jid=8935227002) | Arlington, VA | $20/hour | 2026-11-11 |  |
+| VitalCaring Group | [Hospice Medical Social Worker, MSW](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4468060009) | Houston, Texas, United States |  | 2026-11-11 |  |
+| VitalCaring Group | [RN, Registered Nurse Hospice](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4486519009) | Lafayette,Louisiana, United States |  | 2026-11-11 |  |
+| Vynca | [Registered Nurse (GA License)](https://jobs.ashbyhq.com/vynca/3ff36b93-e9bd-4c6b-9176-f82773e2feeb) | Remote - United States |  | 2026-11-11 |  |
+| Vynca | [Registered Nurse (Multi-State License)](https://jobs.ashbyhq.com/vynca/9386e455-9bc3-4725-a1ac-669d92b50c99) | Remote - United States |  | 2026-11-11 |  |
+| Western Veterinary Partners | [Veterinary Technician](https://job-boards.greenhouse.io/westernveterinarypartnersllc/jobs/4488344009) | Dallas, TX | $20 to $23/hour | 2026-11-11 |  |
+| Whip, Inc. | [State Inspector, MD](https://job-boards.greenhouse.io/drivewhip/jobs/4488804009) | Glen Burnie, MD |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN Seasonal Med Surg](https://jobs.bswhealth.com/us/en/job/26020074) | Dallas, Texas, United States | $51/hour | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Services Specialist - PRN (Tuesdays and Thursdays, 6:30a to 6:30p)](https://jobs.bswhealth.com/us/en/job/26011408) | Fort Worth, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [ED Support Tech FT Nights](https://jobs.bswhealth.com/us/en/job/26020526) | Mckinney, Texas, United States |  | 2026-11-11 |  |
+| Distro | [Caregiver / Home Care Aide / San Diego County, California](https://jobs.lever.co/distro/0c4f7670-51ff-4523-ae8c-c67d5f47082c) | San Diego, California |  | 2026-11-11 |  |
+| Reno Orthopedic Center | [Foot and Nail Care Registered Nurse](https://apply.workable.com/j/0ED7F27F91) | Reno, Nevada, United States |  | 2026-11-11 |  |
+| Reno Orthopedic Center | [OR Circulator Registered Nurse](https://apply.workable.com/j/6EF780AF6E) | Reno, Nevada, United States |  | 2026-11-11 |  |
+| Reno Orthopedic Center | [OR Circulator Registered Nurse - Per Diem](https://apply.workable.com/j/65DA116C49) | Reno, Nevada, United States |  | 2026-11-11 |  |
+| Serenity Mental Health Centers | [Front Desk Receptionist](https://apply.workable.com/j/FF06264DD4) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN Medicine Telemetry](https://jobs.bswhealth.com/us/en/job/26018487) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Multimodality Tech Weekend](https://jobs.bswhealth.com/us/en/job/26020655) | Austin, Texas, United States |  | 2026-11-11 |  |
+| Liberty Mutual | [Medical-Only Workers' Compensation Claims Technician - California](https://searchjobs.libertymutualgroup.com/careers/job/618520695537) | Rocklin, California, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN Cardiac ICU Tele PCU Nights 10k Sign on Bonus](https://jobs.bswhealth.com/us/en/job/26020211) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Centrum Health | [Medical Coder](https://job-boards.greenhouse.io/centrumhealth/jobs/6250533004) | Doral, Florida, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Services Specialist I -Primary Care Clinic](https://jobs.bswhealth.com/us/en/job/26014824) | Temple, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Sterile Processing Tech 2](https://jobs.bswhealth.com/us/en/job/26019591) | Temple, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN Surgical Oncology](https://jobs.bswhealth.com/us/en/job/26016626) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Care Tech](https://jobs.bswhealth.com/us/en/job/26019529) | Round Rock, Texas, United States |  | 2026-11-11 |  |
+| CVS Health | [Pharmacy Manager](https://jobs.cvshealth.com/us/en/job/R1091198) | 4280 SOUTHSIDE BLVD, Jacksonville, Florida,United States | $65 to $85/hour | 2026-11-11 |  |
+| Baylor Scott & White Health | [ED Support Tech](https://jobs.bswhealth.com/us/en/job/26020216) | Pflugerville, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant- ENT- Pflugerville](https://jobs.bswhealth.com/us/en/job/26020050) | Pflugerville, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant - OBGYN in Temple, TX](https://jobs.bswhealth.com/us/en/job/26020107) | Temple, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Care Tech HUC Days](https://jobs.bswhealth.com/us/en/job/26018927) | Denton, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN MICU](https://jobs.bswhealth.com/us/en/job/26019963) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Care Tech PCT](https://jobs.bswhealth.com/us/en/job/26020000) | Irving, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Certified Medical Assistant](https://jobs.bswhealth.com/us/en/job/26015180) | Temple, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant- Neurosurgery- Operative-Temple](https://jobs.bswhealth.com/us/en/job/26019845) | Temple, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN Neuro ICU](https://jobs.bswhealth.com/us/en/job/26019772) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Christus Health | [Registered Nurse - Mother/Baby](https://careers.christushealth.org/opportunity/registered-nurse-mother-baby-398622) | San Antonio, TX, US |  | 2026-11-11 |  |
+| Planned Parenthood of the Pacific Southwest | [Medical Assistant (Flex) - San Diego, CA](https://jobs.lever.co/planned/6b98e8c7-cd9c-4ab3-af97-f93e86bb3ac3) | San Diego, CA | $23 to $23.75/hour | 2026-11-11 |  |
+| Baylor Scott & White Health | [Surgical Technologist Cardiovascular CV](https://jobs.bswhealth.com/us/en/job/26015537) | Round Rock, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Multimodality Tech PRN](https://jobs.bswhealth.com/us/en/job/26018928) | Taylor, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Multimodality Tech](https://jobs.bswhealth.com/us/en/job/26014847) | Taylor, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Speech Language Path PRN](https://jobs.bswhealth.com/us/en/job/26018348) | Frisco, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Certified Medical Assistant](https://jobs.bswhealth.com/us/en/job/26016048) | Waco, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant Urgent Care](https://jobs.bswhealth.com/us/en/job/26009526) | Georgetown, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Multimodality Tech Evening](https://jobs.bswhealth.com/us/en/job/26016505) | Taylor, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [CT Tech](https://jobs.bswhealth.com/us/en/job/26015323) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Nurse Practitioner ICU Intensivist Critical Care (Nights)](https://jobs.bswhealth.com/us/en/job/26019661) | Waxahachie, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant- Hem/Onc- Temple](https://jobs.bswhealth.com/us/en/job/26016026) | Temple, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant, Primary Care](https://jobs.bswhealth.com/us/en/job/26016389) | Cameron, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [OR RN ENT](https://jobs.bswhealth.com/us/en/job/26002968) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Certified Medical Assistant 65+ Internal Med](https://jobs.bswhealth.com/us/en/job/26018579) | Georgetown, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Certified Medical Assistant Urology](https://jobs.bswhealth.com/us/en/job/26014953) | Lakeway, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN ED](https://jobs.bswhealth.com/us/en/job/26003901) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Phlebotomist 2](https://jobs.bswhealth.com/us/en/job/26015632) | Plano, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [LVN](https://jobs.bswhealth.com/us/en/job/26019587) | Waco, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN Medical ICU Nights](https://jobs.bswhealth.com/us/en/job/26018469) | Temple, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant - CV/CT Inpatient](https://jobs.bswhealth.com/us/en/job/26007177) | Plano, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN ED 10k Sign on Bonus](https://jobs.bswhealth.com/us/en/job/26014723) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant - Emergency Medicine](https://jobs.bswhealth.com/us/en/job/26015067) | Taylor, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Certified Medical Assistant](https://jobs.bswhealth.com/us/en/job/26016837) | Flower Mound, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Sterile Processing Tech 2 FT Evenings](https://jobs.bswhealth.com/us/en/job/26013442) | Irving, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Observer](https://jobs.bswhealth.com/us/en/job/26015549) | Rowlett, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Certified Medical Assistant Primary Care](https://jobs.bswhealth.com/us/en/job/26018255) | West Lake Hills, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Surgical Technologist 2 PRN Days](https://jobs.bswhealth.com/us/en/job/26015674) | Fort Worth, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN Neuro ICU](https://jobs.bswhealth.com/us/en/job/26009881) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Multimodality Tech Weekend](https://jobs.bswhealth.com/us/en/job/26016718) | Round Rock, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Care Technician HUC](https://jobs.bswhealth.com/us/en/job/26016455) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [RN Seasonal PRN Neuro ICU](https://jobs.bswhealth.com/us/en/job/26010765) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [MRI Tech PRN](https://jobs.bswhealth.com/us/en/job/26008203) | Waco, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Patient Services Specialist 1 - Greater Austin Area (Neurosurgery Scheduling & Support)](https://jobs.bswhealth.com/us/en/job/26011944) | Lakeway, Texas, United States |  | 2026-11-11 |  |
+| Baylor Scott & White Health | [Physician Assistant - Intensivist - Days](https://jobs.bswhealth.com/us/en/job/26018886) | College Station, Texas, United States |  | 2026-11-11 |  |
+| Christus Health | [RN, Registered Nurse - Mother Baby](https://careers.christushealth.org/opportunity/rn-registered-nurse-mother-baby-392135) | Longview, TX, US |  | 2026-11-11 |  |
+| Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician (Overnight) - Federal Way, WA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6228524004?gh_jid=6228524004) | Federal Way, Washington, United States |  | 2026-11-11 |  |
+| Veterinary Practice Partners | [Veterinary Receptionist](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8884391002?gh_jid=8884391002) | Tempe, AZ | $18 to $21/hour | 2026-11-11 |  |
+| Wedgewood Pharmacy | [Pharmacy Technician Trainee - Labeling and Packaging](https://job-boards.greenhouse.io/wedgewoodpharmacy/jobs/4450880009) | Chandler, AZ |  | 2026-11-11 |  |
+| Christus Health | [RN, Registered Nurse - IMC Med/Surg](https://careers.christushealth.org/opportunity/rn-registered-nurse-imc-med-surg-392844) | Alamogordo, NM, US |  | 2026-11-11 |  |
+| Galveston County Health District | [Phlebotomist](https://galveston-county-health-district.breezy.hr/p/feab919923fc-phlebotomist) | Texas City, TX |  | 2026-11-11 |  |
+| Petfolk | [Associate Veterinarian](https://ats.rippling.com/petfolk/jobs/c17f54ef-496d-4ae0-aeac-ac35443980f0) | Farmington, UT |  | 2026-11-11 |  |
+| Christus Health | [RN, Registered Nurse - Emergency Department ($10,000 Sign On Bonus for 1+years ER experience)](https://careers.christushealth.org/opportunity/rn-registered-nurse-emergency-department-10-000-sign-on-bonus-for-1-years-er-experience-382085) | Longview, TX, US |  | 2026-11-11 |  |
+| BAYADA Home Health Care | [CNA/Home Health Aide](https://jobs.bayada.com/en/jobs?gh_jid=8694577002) | Middletown, DE 19709 / 39.478281421 / -75.691760628 | $22/hour | 2026-11-11 |  |
+| Baylor Scott & White Health | [LVN](https://jobs.bswhealth.com/us/en/job/26009701) | Waco, Texas, United States |  | 2026-11-11 |  |
+| The Settlement Home for Children | [Part Time Awake Night Youth Care Counselor (Friday and Saturday)](https://settlementhome.bamboohr.com/careers/74) | Austin, Texas, United States |  | 2026-11-11 |  |
+| Petfolk | [Locum Veterinarian - IND](https://ats.rippling.com/petfolk/jobs/e623cb6a-2573-4fa9-916a-3d2c1ebd4845) | Fishers, IN |  | 2026-11-11 |  |
+| Centrum Health | [Medical Assistant - N. Central Expy Clinic](https://job-boards.greenhouse.io/centrumhealth/jobs/5980293004) | Dallas, Texas, United States |  | 2026-11-11 |  |
+| Compass Health Center | [Primary Clinical Therapist](https://job-boards.greenhouse.io/compasshealthcenter/jobs/5560466003) | Silver Spring, Maryland, United States | $75,000 to $100,000 | 2026-11-11 |  |
+| Compass Health Center | [Virtual Adult Group Therapist](https://job-boards.greenhouse.io/compasshealthcenter/jobs/4815735003) | Remote | $47,000 to $65,000 | 2026-11-11 |  |
 | Ascension | [Patient Care Technician Pediatric Surgery](https://jobs.ascension.org/us/en/job/22217) | Austin, TX, US |  | 2026-11-10 |  |
 | Ascension | [Certified Medical Assistant Family Medicine](https://jobs.ascension.org/us/en/job/1309981) | Leander, TX, US |  | 2026-11-10 |  |
 | Ascension | [Patient Care Tech Float](https://jobs.ascension.org/us/en/job/26216) | Pensacola, FL, US |  | 2026-11-10 |  |
@@ -71,8 +529,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BAYADA Home Health Care | [Licensed Practical Nurse (LPN) - Adult Home Care](https://jobs.bayada.com/en/jobs?gh_jid=8935529002) | White Marsh, MD 21162 / 39.392398234 / -76.417068309 | $35/hour | 2026-11-10 |  |
 | BAYADA Home Health Care | [Licensed Practical Nurse, (LPN) - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8935651002) | Concord, NC 28025 / 35.384593939 / -80.561243123 | $39 to $44/hour | 2026-11-10 |  |
 | BAYADA Home Health Care | [Occupational Therapist - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8935195002) | Buena, NJ 08310 / 39.518561315 / -74.912994472 | $60 to $68/hour | 2026-11-10 |  |
-| BAYADA Home Health Care | [Physical Therapist Assistant, PTA - Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8935147002) | Pittsboro, NC 27312 / 35.756142911 / -79.169846353 |  | 2026-11-10 |  |
 | BAYADA Home Health Care | [Physical Therapist Assistant, PTA - Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8935222002) | Chapel Hill, NC 27514 / 35.927877561 / -79.043023679 |  | 2026-11-10 |  |
+| BAYADA Home Health Care | [Physical Therapist Assistant, PTA - Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8935147002) | Pittsboro, NC 27312 / 35.756142911 / -79.169846353 |  | 2026-11-10 |  |
 | BAYADA Home Health Care | [Registered Nurse, Full Time, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8934850002) | Joplin, MO 64804 / 37.045934433 / -94.512205699 |  | 2026-11-10 |  |
 | BAYADA Home Health Care | [Registered Nurse, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8935671002) | Gettysburg, PA 17325 / 39.827748264 / -77.220947209 | $55 to $65/hour | 2026-11-10 |  |
 | BAYADA Home Health Care | [Registered Nurse, Per Diem Weekends, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8934859002) | Lebanon, MO 65536 / 37.682497096 / -92.662247641 |  | 2026-11-10 |  |
@@ -146,19 +604,18 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Pharmacy Manager](https://jobs.cvshealth.com/us/en/job/R1097522) | 87 GARNER RD., Spartanburg, South Carolina,United States | $65 to $85/hour | 2026-11-10 |  |
 | CVS Health | [Pharmacy Technician, Level 1 - Dispensing](https://jobs.cvshealth.com/us/en/job/R1067314) | 1780 Wall Street, Mount Prospect, Illinois,United States | $17 to $31.30/hour | 2026-11-10 |  |
 | Datavant | [Area Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5449685008) | Fort Mills and Rock Hill, SC |  | 2026-11-10 | no visa sponsorship |
-| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5467563008) | Delano, CA 93215 | $24/hour | 2026-11-10 | no visa sponsorship |
-| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5469881008) | Tillamook, OR |  | 2026-11-10 | no visa sponsorship |
 | Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5464921008) | Conway, AR |  | 2026-11-10 | no visa sponsorship |
+| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5469881008) | Tillamook, OR |  | 2026-11-10 | no visa sponsorship |
+| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5467563008) | Delano, CA 93215 | $24/hour | 2026-11-10 | no visa sponsorship |
 | Datavant | [Health Information Specialist I - Wisconsin](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5445553008) | Wausau, Wisconsin | $15/hour | 2026-11-10 | no visa sponsorship |
 | Elevance Health | [Clinical Review Nurse I- Medicare Part A](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NY-EAST-SYRACUSE-5000-BRITTONFIELD-PKWY-STE-100/Clinical-Review-Nurse-I--Medicare-Part-A_JR211221) | NY-EAST SYRACUSE, 5000 BRITTONFIELD PKWY, STE 100 | $67,200 to $100,800 | 2026-11-10 |  |
 | Elevance Health | [Authorization Representative I - BioPlus Specialty Pharmacy](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CO-DENVER-700-BROADWAY/Authorization-Representative-I---BioPlus-Specialty-Pharmacy_JR212385) | CO-DENVER, 700 BROADWAY | $16.50 to $27.23/hour | 2026-11-10 |  |
 | Eurofins | [Cytotechnologist](https://jobs.smartrecruiters.com/Eurofins/744000160636829-cytotechnologist) | Carmel, IN, us | $45 to $65/hour | 2026-11-10 |  |
-| evolvedMD | [Mental Health Therapist](https://www.evolvedmd.com/careers?gh_jid=4752711005) | Goodyear, AZ 85338 | $65,000 to $91,400 | 2026-11-10 |  |
 | evolvedMD | [Mental Health Therapist](https://www.evolvedmd.com/careers?gh_jid=4750526005) | Spring, TX 77379 | $65,000 to $91,400 | 2026-11-10 |  |
+| evolvedMD | [Mental Health Therapist](https://www.evolvedmd.com/careers?gh_jid=4752711005) | Goodyear, AZ 85338 | $65,000 to $91,400 | 2026-11-10 |  |
 | Expert Institute | [Legal Nurse Consultant](https://jobs.smartrecruiters.com/ExpertInstitute/744000160740549-legal-nurse-consultant) | Milwaukee, WI, us |  | 2026-11-10 |  |
 | Eye Care Partners | [Optometric Technician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8934941002) | Prattville, AL |  | 2026-11-10 |  |
 | Eye Care Partners | [Optometric Technician - Training Provided!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8935685002) | Phoenix, AZ |  | 2026-11-10 |  |
-| Eye Care Partners | [Patient Coordinator / Medical Receptionist - Full-Time, Benefits Offered](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8935031002) | Ypsilanti, MI |  | 2026-11-10 |  |
 | Family Resource Home Care | [Caregiver Manager](https://family-resource-home-care.breezy.hr/p/2f234ae14d6d-caregiver-manager) | Spokane, WA | $22 to $25.96/hour | 2026-11-10 |  |
 | Gersh Autism | [Mental Health Counselor (West Hempstead)](https://ats.rippling.com/gershautism/jobs/22d01002-5e15-4eb7-ac43-1a43ada55f25) | West Hempstead, NY |  | 2026-11-10 |  |
 | Gotham Enterprises Ltd | [Licensed Mental Health Counselor (LMHC)](https://apply.workable.com/j/026535F34B) | Rochester, New York, United States | $115,000 to $120,000 | 2026-11-10 |  |
@@ -299,460 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | UnitedHealth Group | [Licensed Practical Nurse (LPN) or Licensed Vocational Nurse (LVN) - Home Health](https://careers.unitedhealthgroup.com/job/monroe/licensed-practical-nurse-lpn-or-licensed-vocational-nurse-lvn-home-health/34088/103081287760) | Monroe, Georgia | $23.63 to $42.53/hour | 2026-11-10 |  |
 | UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/monroe/rn-case-manager/34088/103081287792) | Monroe, Georgia | $38.09 to $68.56/hour | 2026-11-10 |  |
 | UnitedHealth Group | [Clinical Patient Service Coordinator](https://careers.unitedhealthgroup.com/job/nashville/clinical-patient-service-coordinator/34088/103081286864) | Nashville, Tennessee | $16.95 to $25.45/hour | 2026-11-10 |  |
-| UnitedHealth Group | [Outpatient Nurse Practitioner - New Orleans, LA](https://careers.unitedhealthgroup.com/job/new-orleans/outpatient-nurse-practitioner-new-orleans-la/34088/103077728192) | New Orleans, Louisiana | $109,500 to $164,000 | 2026-11-10 |  |
-| UnitedHealth Group | [Medical Assistant - Pediatrics](https://careers.unitedhealthgroup.com/job/newburgh/medical-assistant-pediatrics/34088/103086544272) | Newburgh, New York | $16 to $29/hour | 2026-11-10 |  |
-| UnitedHealth Group | [Physical Therapist](https://careers.unitedhealthgroup.com/job/pleasant-hill/physical-therapist/34088/103077727968) | Pleasant Hill, California | $51.15 to $76.75/hour | 2026-11-10 |  |
-| UnitedHealth Group | [Physical Therapist Assistant](https://careers.unitedhealthgroup.com/job/portland/physical-therapist-assistant/34088/103081285776) | Portland, Oregon | $64,065 to $96,097 | 2026-11-10 |  |
-| UnitedHealth Group | [LPN or LVN - Home Health](https://careers.unitedhealthgroup.com/job/roanoke/lpn-or-lvn-home-health/34088/103090915536) | Roanoke, Alabama | $22.39 to $40.30/hour | 2026-11-10 |  |
-| UnitedHealth Group | [Licensed Practical Nurse LPN Home Health](https://careers.unitedhealthgroup.com/job/sevierville/licensed-practical-nurse-lpn-home-health/34088/103077727408) | Sevierville, Tennessee | $22.39 to $40.30/hour | 2026-11-10 |  |
-| UnitedHealth Group | [Licensed Social Worker MSW PRN](https://careers.unitedhealthgroup.com/job/sevierville/licensed-social-worker-msw-prn/34088/103077727440) | Sevierville, Tennessee | $28.75 to $43.10/hour | 2026-11-10 |  |
-| UnitedHealth Group | [RN Registered Nurse Home Health](https://careers.unitedhealthgroup.com/job/sevierville/rn-registered-nurse-home-health/34088/103077727584) | Sevierville, Tennessee | $32.65 to $58.76/hour | 2026-11-10 |  |
-| UnitedHealth Group | [Patient Care Coordinator (Per Diem)](https://careers.unitedhealthgroup.com/job/snohomish/patient-care-coordinator-per-diem/34088/103094333648) | Snohomish, Washington | $18 to $32/hour | 2026-11-10 |  |
-| UnitedHealth Group | [Medical Assistant I/II/III - Hematology/Oncology - Kelsey Seybold Clinic: Springwoods Campus](https://careers.unitedhealthgroup.com/job/spring/medical-assistant-i-ii-iii-hematology-oncology-kelsey-seybold-clinic-springwoods-campus/34088/103094333952) | Spring, Texas | $16 to $32/hour | 2026-11-10 |  |
-| UnitedHealth Group | [Clinical Manager](https://careers.unitedhealthgroup.com/job/st-louis/clinical-manager/34088/103077726624) | Saint Louis, Missouri | $77,040 to $115,560 | 2026-11-10 |  |
-| UnitedHealth Group | [RN Clinical Manager](https://careers.unitedhealthgroup.com/job/terre-haute/rn-clinical-manager/34088/103077727200) | Terre Haute, Indiana | $73,188 to $109,782 | 2026-11-10 |  |
-| UnitedHealth Group | [Licensed Practical Nurse - Part Time](https://careers.unitedhealthgroup.com/job/tulsa/licensed-practical-nurse-part-time/34088/103077727712) | Tulsa, Oklahoma | $23.63 to $35.45/hour | 2026-11-10 |  |
-| UnitedHealth Group | [Part-Time Patient Access Specialist](https://careers.unitedhealthgroup.com/job/walnut-creek/part-time-patient-access-specialist/34088/103081286112) | Walnut Creek, California | $18 to $32/hour | 2026-11-10 |  |
-| UnitedHealth Group | [PT Physical Therapist Home Health](https://careers.unitedhealthgroup.com/job/walterboro/pt-physical-therapist-home-health/34088/103086543424) | Walterboro, South Carolina | $85,120 to $127,680 | 2026-11-10 |  |
-| UnitedHealth Group | [Hospice RN Case Manager](https://careers.unitedhealthgroup.com/job/washington/hospice-rn-case-manager/34088/103086543376) | Washington, Pennsylvania | $79,600 to $119,400 | 2026-11-10 |  |
-| UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/waukesha/associate-patient-care-coordinator/34088/103094334176) | Waukesha, Wisconsin | $16 to $29/hour | 2026-11-10 |  |
-| Upstream Rehabilitation | [Occupational Therapist - Hand Therapist - Northwest Orthopaedic Specialists](https://yourfuture.urpt.com/job/5289630007/?gh_jid=5289630007) | Spokane, WA | $82,000 to $100,000 | 2026-11-10 |  |
-| UT Southwestern | [ENDOSCOPE REPROCESSOR](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=981602&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-11-10 |  |
-| UT Southwestern | [Oncology RN - Melanoma Sarcoma Surgical Oncology Clinic](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=986877&lang=en) | Texas-Dallas-6202 Harry Hines Blvd |  | 2026-11-10 |  |
-| Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician - Fort Worth, TX (Camp Bowie)](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6252995004?gh_jid=6252995004) | Fort Worth, Texas, United States |  | 2026-11-10 |  |
-| Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician - Santa Monica, CA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6251976004?gh_jid=6251976004) | Santa Monica, California, United States |  | 2026-11-10 |  |
-| Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician - The Woodlands, TX](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6252631004?gh_jid=6252631004) | Spring, Texas, United States |  | 2026-11-10 |  |
-| Veterinary Emergency Group (VEG) | [Emergency Veterinarian - San Jose, CA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6251075004?gh_jid=6251075004) | San Jose, California, United States | $140,000 to $350,000 | 2026-11-10 |  |
-| Veterinary Emergency Group (VEG) | [Emergency Veterinary Assistant - The Woodlands, TX](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6252638004?gh_jid=6252638004) | Spring, Texas, United States |  | 2026-11-10 |  |
-| Veterinary Emergency Group (VEG) | [New ER Doctor (NERD) Program: Starts Jan 2027, Practicing Veterinarians - Clifton, NJ](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6241545004?gh_jid=6241545004) | Clifton, New Jersey, United States | $100,000 to $156,000 | 2026-11-10 |  |
-| Veterinary Emergency Group (VEG) | [Nursing Manager - Albany, NY](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6251506004?gh_jid=6251506004) | Albany, New York, United States | $73,000 to $91,000 | 2026-11-10 |  |
-| Veterinary Emergency Group (VEG) | [Veterinary Scribe - Chicago, IL (South Loop)](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6251348004?gh_jid=6251348004) | Chicago, Illinois, United States |  | 2026-11-10 |  |
-| VitalCaring Group | [RN, Registered Nurse Hospice - FT](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4474641009) | Tucson, Arizona, United States |  | 2026-11-10 |  |
-| VitalCaring Group | [RN, Registered Nurse Hospice - PRN](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4484444009) | Mobile, Alabama, United States |  | 2026-11-10 |  |
-| West Cancer Center | [Oncology Nurse Navigator- Float - Full Time - Wolf River](https://job-boards.greenhouse.io/westcancercenter/jobs/8935769002) | Germantown, TN |  | 2026-11-10 |  |
-| Christus Health | [Mammography Technologist - Northpark Ross Breast Center FT day shift](https://careers.christushealth.org/opportunity/mammography-technologist-northpark-ross-breast-center-ft-day-shift-398933) | Tyler, TX, US |  | 2026-11-10 |  |
-| One Medical | [Medical Receptionist (Union Station)](http://www.onemedical.com/careers/all-departments/8348675?gh_jid=8348675) | Washington, DC | $21.50/hour | 2026-11-10 |  |
-| Baylor Scott & White Health | [Inpatient Pharmacy Tech II](https://jobs.bswhealth.com/us/en/job/26019737) | Temple, Texas, United States |  | 2026-11-10 |  |
-| Baylor Scott & White Health | [Sterile Processing Tech I](https://jobs.bswhealth.com/us/en/job/26019177) | Temple, Texas, United States |  | 2026-11-10 |  |
-| Baylor Scott & White Health | [Inpatient Pharmacy Tech I](https://jobs.bswhealth.com/us/en/job/26016803) | Temple, Texas, United States |  | 2026-11-10 |  |
-| Christus Health | [Registered Nurse - ICU Neonatal](https://careers.christushealth.org/opportunity/registered-nurse-icu-neonatal-396845) | Longview, TX, US |  | 2026-11-10 |  |
-| TTUHSC | [MC Patient Services Specialist](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=924464) | Ft. Stockton, Texas, US | $100,000 | 2026-11-10 |  |
-| Mission Healthcare | [Hospice Registered Nurse / RN](https://job-boards.greenhouse.io/missionhealthcare/jobs/4396343009) | Portland, OR | $55/hour | 2026-11-10 |  |
-| Habitat Health | [Registered Dietitian](https://job-boards.greenhouse.io/habitathealth/jobs/5388628008) | Address - 855 Howe Avenue, Sacramento, CA | $83,000 to $103,000 | 2026-11-10 |  |
-| Christus Health | [Ambulatory Service Representative - Neurosurgery](https://careers.christushealth.org/opportunity/ambulatory-service-representative-neurosurgery-361325) | San Antonio, TX, US |  | 2026-11-10 |  |
-| Christus Health | [Registered Nurse - Endoscopy Surgery](https://careers.christushealth.org/opportunity/registered-nurse-endoscopy-surgery-373563) | Tyler, TX, US |  | 2026-11-10 |  |
-| Kestra Medical Technologies Inc. | [Patient Specialist - Ann Arbor, MI (1099 Contractor, Per Diem/On Call)](https://job-boards.greenhouse.io/kestramedicaltechnologiesinc/jobs/4331226009) | Ann Arbor, MI |  | 2026-11-10 |  |
-| Memorial Hermann | [PRN Physical Therapist, Inpatient Rehab Unit/Adults (Wkends) - TMC](https://jobs.memorialhermann.org/us/en/job/100177987) | Houston, Texas, United States of America |  | 2026-11-10 |  |
-| BetterHelp | [Psychiatric Nurse Practitioner (PMHNP) - Remote](https://job-boards.greenhouse.io/betterhelp/jobs/4215641009) | California (remote) | $73 to $160/hour | 2026-11-10 |  |
-| Bloomwell Autism Therapy | [Clinical Residency Trainee - Internal Bloomwell Teammates Only](https://jobs.lever.co/bloomwellcare/24ef143e-b335-4185-9bf1-d41d92daa3a1) | United States |  | 2026-11-10 |  |
-| BAYADA Home Health Care | [HHA - 12 Day Hour shifts - Home Health Care Aide -](https://jobs.bayada.com/en/jobs?gh_jid=6957798002) | Chatham, MA 02633 |  | 2026-11-10 |  |
-| BAYADA Home Health Care | [Adult Home Health Aide - Day Shifts](https://jobs.bayada.com/en/jobs?gh_jid=6739354002) | Worcester, MA 01602 / 42.269731334 / -71.842585559 | $22 to $26/hour | 2026-11-10 |  |
-| Alivation Health, LLC | [Pharmacy Technician](https://alivation.bamboohr.com/careers/205) | Lincoln, Nebraska, United States |  | 2026-11-10 |  |
-| Compass Health Network | [Medical Assistant/Nurse LPN - Primary Care Float](https://compasshealthnetwork.pinpointhq.com/en/postings/38a10c5d-ca5f-4d3b-925e-6c64c7a714ef) | Festus, Missouri |  | 2026-11-10 |  |
-| Compass Health Network | [Customer Relations Specialist Float -Dental](https://compasshealthnetwork.pinpointhq.com/en/postings/9816454d-5ccc-4241-810f-7d8af678aaa5) | Clinton, Missouri |  | 2026-11-10 |  |
-| Applied Medical | [Ortho Clinical Sales Specialist - PA/NJ](https://careers.appliedmedical.com/careers-home/jobs/15387) | Denville, New Jersey | $60,000 to $70,000 | 2026-11-09 |  |
-| Ascension | [New Grad Registered Nurse](https://jobs.ascension.org/us/en/job/26191) | Pensacola, FL, US |  | 2026-11-09 |  |
-| Bank of America | [Treasury Sales Associate I - Global Payment Solutions - Healthcare, Higher Education and Not for Profit](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Atlanta/Treasury-Sales-Associate--I---Global-Payment-Solutions---Healthcare--Higher-Education-and-Not-for-Profit_26039314) | Atlanta | $95,000 to $109,200 | 2026-11-09 |  |
-| Cedars-Sinai | [New Grad RN Residency Program - Winter 2027 Cohort](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21735) · Winter 2027 | Los Angeles, CA, United States | $7 to $51.50/hour | 2026-11-09 |  |
-| Rady Children's Health Orange County (CHOC) | [Polysomnographic Technologist I (Part Time Nights)](https://rch.wd108.myworkdayjobs.com/Careers/job/CHOC-at-Mission-Hospital/Polysomnographic-Technologist-I--Part-Time-Nights-_R-33760) | CHOC at Mission Hospital | $34.11 to $56.28/hour | 2026-11-09 |  |
-| UnitedHealth Group | [Care Coordinator (Remote in CA)](https://careers.unitedhealthgroup.com/job/torrance/care-coordinator-remote-in-ca/34088/103060561648) | Torrance, California (remote) | $60,200 to $107,400 | 2026-11-09 |  |
-| Ascension | [Certified Medical Assistant Primary Care](https://jobs.ascension.org/us/en/job/27146) | Fleming Island, FL, US |  | 2026-11-09 |  |
-| Ascension | [Certified Medical Assistant Primary Care](https://jobs.ascension.org/us/en/job/27134) | Orange Park, FL, US |  | 2026-11-09 |  |
-| Baylor Scott & White Health | [Patient Services Specialist 1 - College Station](https://jobs.bswhealth.com/us/en/job/26020620) | College Station, Texas, United States |  | 2026-11-09 |  |
-| CommonSpirit Health (St. Luke's Health) | [RN Emergency](https://www.commonspirit.careers/job/redwood-city/rn-emergency/35300/103058424304) | REDWOOD CITY, CA |  | 2026-11-09 |  |
-| CommonSpirit Health (St. Luke's Health) | [RN Med Surg](https://www.commonspirit.careers/job/redwood-city/rn-med-surg/35300/103058424320) | REDWOOD CITY, CA |  | 2026-11-09 |  |
-| Humana | [Home Health RN Case Manager](https://careers.humana.com/us/en/job/R-436090) | Overland Park, Kansas, United States of America | $77,200 to $106,200 | 2026-11-09 |  |
-| Memorial Hermann | [Supplemental Physical Therapist, Katy](https://jobs.memorialhermann.org/us/en/job/100188787) | Katy, Texas, United States of America |  | 2026-11-09 |  |
-| Texas Health Resources | [Registered Nurse RN Fulltime Day Shift Pre Assessment](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012068&lang=en) | Fort Worth |  | 2026-11-09 |  |
-| TTUHSC | [Dental Assistant](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=927931) | Amarillo, Texas, US | $100,000 | 2026-11-09 |  |
-| UnitedHealth Group | [RN Clinical Manager - Bear DE](https://careers.unitedhealthgroup.com/job/dover/rn-clinical-manager-bear-de/34088/103033126704) | Dover, Delaware | $77,040 to $115,560 | 2026-11-09 |  |
-| UnitedHealth Group | [Medical Secretary (Part-Time)](https://careers.unitedhealthgroup.com/job/taunton/medical-secretary-part-time/34088/103051748432) | Taunton, Massachusetts | $18 to $32/hour | 2026-11-09 |  |
-| UnitedHealth Group | [Licensed Practical Nurse -NE/SE Quads](https://careers.unitedhealthgroup.com/job/washington-d-c/licensed-practical-nurse-ne-se-quads/34088/103033128624) | Washington, District of Columbia | $27.36 to $49.25/hour | 2026-11-09 |  |
-| Baylor Scott & White Health | [Patient Services Specialist I](https://jobs.bswhealth.com/us/en/job/26015830) | Temple, Texas, United States |  | 2026-11-09 |  |
-| Apex Eye | [Patient Coordinator](https://job-boards.greenhouse.io/apex/jobs/8909290002) | Frisco, TX |  | 2026-11-09 |  |
-| Baylor Scott & White Health | [Patient Services Specialist 1 - Checkout & Scheduling Specialist](https://jobs.bswhealth.com/us/en/job/26012937) | Dallas, Texas, United States |  | 2026-11-09 |  |
-| Baylor Scott & White Health | [Patient Services Specialist I – Primary Care – College Station](https://jobs.bswhealth.com/us/en/job/26019487) | College Station, Texas, United States |  | 2026-11-09 |  |
-| North Shore Pediatric Therapy | [Child Autism Therapy Support – Entry-Level, Paid Training](https://job-boards.greenhouse.io/nspt/jobs/5269824007) | Chicago, Illinois, United States | $18 to $22.50/hour | 2026-11-09 | no visa sponsorship |
-| SportsMed Physical Therapy | [Speech Language Pathologist](https://jobs.lever.co/spineandsportsmed/0f6ab441-edbd-432d-ba4d-fc35ec5f2371) | West New York, NJ |  | 2026-11-09 |  |
-| SportsMed Physical Therapy | [Speech Language Pathologist](https://jobs.lever.co/spineandsportsmed/00922cd1-d6b8-4c1b-b384-ab2825bce72b) | Bergenfield, NJ |  | 2026-11-09 |  |
-| SportsMed Physical Therapy | [Speech Language Pathologist](https://jobs.lever.co/spineandsportsmed/879a7af8-4799-4ab7-8fee-e6df1d7b5426) | Hackensack, NJ |  | 2026-11-09 |  |
-| SportsMed Physical Therapy | [Speech Language Pathologist](https://jobs.lever.co/spineandsportsmed/d527b981-cc84-4d86-b383-8d35dbc19447) | Glen Rock, NJ |  | 2026-11-09 |  |
-| Blair Family Solutions | [Graduate Level Professional/Mobile Therapist](https://blairfamilysolutions.bamboohr.com/careers/150) | Altoona, Pennsylvania, United States |  | 2026-11-09 |  |
-| WSA Americas | [Medical Front Office Coordinator](https://careersusa.wsa.com/jobs/8176324-medical-front-office-coordinator) | Renton, United States |  | 2026-11-09 |  |
-| Blair Family Solutions | [Mental Health Worker in Family Based Program](https://blairfamilysolutions.bamboohr.com/careers/147) | Altoona, Pennsylvania, United States |  | 2026-11-09 |  |
-| Pphp | [Patient Relations Associate - Bilingual](https://jobs.lever.co/pphp/df60c537-6fcb-4775-ba9a-ab8831b8297f) | Smithtown, New York | $21.25 to $21.75/hour | 2026-11-09 |  |
-| Ascension | [Patient Care Tech Observation](https://jobs.ascension.org/us/en/job/28368) | Panama City, FL, US |  | 2026-11-08 |  |
-| Ascension | [New Grad Registered Nurse General Medicine](https://jobs.ascension.org/us/en/job/28538) | Panama City, FL, US |  | 2026-11-08 |  |
-| Ascension | [Medical Assistant Internal Medicine](https://jobs.ascension.org/us/en/job/28066) | Jacksonville, FL, US |  | 2026-11-08 |  |
-| Ascension | [Patient Care Technician Emergency Room](https://jobs.ascension.org/us/en/job/27009) | Mount Pleasant, WI, US |  | 2026-11-08 |  |
-| Centene | [Care Coordinator II](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Care-Coordinator-II_1662023) | Remote-MO | $17.84 to $28.02/hour | 2026-11-08 |  |
-| Texas Children's Hospital | [Patient Care Assistant - Emergency Room (PT, Nights)](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428585) | Houston, TX, United States |  | 2026-11-08 |  |
-| Texas Children's Hospital | [Patient Care Assistant - NICU 4 (Nights)](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428654) | Houston, TX, United States |  | 2026-11-08 |  |
-| UnitedHealth Group | [Pharmacy Technician](https://careers.unitedhealthgroup.com/job/bend/pharmacy-technician/34088/103016264976) | Bend, Oregon | $16 to $29/hour | 2026-11-08 |  |
-| UnitedHealth Group | [Medical Social Work Hospice - Worcester, MA](https://careers.unitedhealthgroup.com/job/leominster/medical-social-work-hospice-worcester-ma/34088/103014420032) | Leominster, Massachusetts | $73,040 to $109,560 | 2026-11-08 |  |
-| UnitedHealth Group | [LPN Hospice - Woburn, MA](https://careers.unitedhealthgroup.com/job/woburn/lpn-hospice-woburn-ma/34088/103014419968) | Woburn, Massachusetts | $34.35 to $41.95/hour | 2026-11-08 |  |
-| Ascension | [New Grad Registered Nurse Residency Pediatric Post Op Surgical Trauma](https://jobs.ascension.org/us/en/job/25291) · Winter 2027 | Austin, TX, US |  | 2026-11-08 |  |
-| BAYADA Home Health Care | [Certified Caregivers](https://jobs.bayada.com/en/jobs?gh_jid=8934429002) | New Bern, NC 28560 / 35.092988804 / -77.013945019 |  | 2026-11-08 |  |
-| One Medical | [Float Medical Receptionist (Bethesda)](http://www.onemedical.com/careers/all-departments/8362989?gh_jid=8362989) | Bethesda, MD | $21.50/hour | 2026-11-08 |  |
-| UnitedHealth Group | [Physical Therapist Home Health](https://careers.unitedhealthgroup.com/job/blue-ridge/physical-therapist-home-health/34088/102987353504) | Blue Ridge, Georgia | $82,048 to $123,072 | 2026-11-08 |  |
-| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/blue-ridge/rn-case-manager/34088/102987353136) | Blue Ridge, Georgia | $38.09 to $68.56/hour | 2026-11-08 |  |
-| UnitedHealth Group | [Licensed Practical Nurse](https://careers.unitedhealthgroup.com/job/cumming/licensed-practical-nurse/34088/102987353360) | Cumming, Georgia | $27.36 to $49.25/hour | 2026-11-08 |  |
-| UnitedHealth Group | [Licensed Practical Nurse](https://careers.unitedhealthgroup.com/job/demorest/licensed-practical-nurse/34088/102987353424) | Demorest, Georgia | $27.36 to $49.25/hour | 2026-11-08 |  |
-| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/demorest/rn-case-manager/34088/102987353184) | Demorest, Georgia | $38.09 to $68.56/hour | 2026-11-08 |  |
-| Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician - Murfreesboro, TN](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6251361004?gh_jid=6251361004) | Murfreesboro, Tennessee, United States |  | 2026-11-08 |  |
-| AdvisaCare | [Home Health or Hospice Registered Nurse](https://apply.workable.com/j/6C51DC0C72) | Cadillac, Michigan, United States |  | 2026-11-08 |  |
-| Activate Care | [Registered Nurse, In-Home Health Assessments](https://apply.workable.com/j/CBFA7D7F3A) | Richmond, Massachusetts, United States |  | 2026-11-08 | no visa sponsorship |
-| Noah Medical | [Clinical Specialist - Buffalo, NY](https://job-boards.greenhouse.io/noahmedical/jobs/5383217008) | Remote, United States |  | 2026-11-08 |  |
-| Baylor Scott & White Health | [RN ED Hold Seasonal PRN](https://jobs.bswhealth.com/us/en/job/26020606) | Dallas, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [RN ED Hold Seasonal PRN Night](https://jobs.bswhealth.com/us/en/job/26020609) | Dallas, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [RN ED Hold Seasonal PRN](https://jobs.bswhealth.com/us/en/job/26020605) | Dallas, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [Phlebotomy Training Program Student NTX Irving TX](https://jobs.bswhealth.com/us/en/job/26020237) | Irving, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [RN ED Hold Seasonal PRN Night](https://jobs.bswhealth.com/us/en/job/26020610) | Dallas, Texas, United States |  | 2026-11-07 |  |
-| UnitedHealth Group | [Medical Social Worker](https://careers.unitedhealthgroup.com/job/shelton/medical-social-worker/34088/102958121936) | Shelton, Connecticut | $73,040 to $109,560 | 2026-11-07 |  |
-| Ascension | [Medical Front Office Orthopedics](https://jobs.ascension.org/us/en/job/24938) | Austin, TX, US |  | 2026-11-07 |  |
-| Ascension | [Patient Care Technician Neurology Stoke](https://jobs.ascension.org/us/en/job/11959) | Austin, TX, US |  | 2026-11-07 |  |
-| Ascension | [Patient Care Technician Orthopedic Medical Unit](https://jobs.ascension.org/us/en/job/25470) | Austin, TX, US |  | 2026-11-07 |  |
-| Ascension | [New Grad Registered Nurse Residency Acute Care](https://jobs.ascension.org/us/en/job/27501) · Winter 2027 | Waco, TX, US |  | 2026-11-07 |  |
-| Ascension | [Medical Assistant Cardiology](https://jobs.ascension.org/us/en/job/22231) | Wichita, KS, US |  | 2026-11-07 |  |
-| Ascension | [Medical Assistant Cardiology](https://jobs.ascension.org/us/en/job/25105) | Wichita, KS, US |  | 2026-11-07 |  |
-| Ascension | [Registered Nurse](https://jobs.ascension.org/us/en/job/28337) | Wichita, KS, US |  | 2026-11-07 |  |
-| Ascension | [Registered Nurse Primary Care](https://jobs.ascension.org/us/en/job/25055) | Andover, KS, US |  | 2026-11-07 |  |
-| Ascension | [Patient Service Representative Clinic Float](https://jobs.ascension.org/us/en/job/13960) | Murfreesboro, TN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Care Tech](https://jobs.ascension.org/us/en/job/26900) | Evansville, IN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Care Tech](https://jobs.ascension.org/us/en/job/26887) | Evansville, IN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Service Representative Clinic Float](https://jobs.ascension.org/us/en/job/1324670) | Cookeville, TN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Care Technician](https://jobs.ascension.org/us/en/job/27834) | Carmel, IN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Care Technician](https://jobs.ascension.org/us/en/job/27817) | Anderson, IN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Care Technician](https://jobs.ascension.org/us/en/job/27972) | Oshkosh, WI, US |  | 2026-11-07 |  |
-| Ascension | [Registered Nurse Telemetry Travel](https://jobs.ascension.org/us/en/job/2026-440617) | Grand Blanc, MI, US | $2,450/week | 2026-11-07 |  |
-| Baba | [Virtual Therapist](https://jobs.ashbyhq.com/baba/6abb41fb-241f-4baa-a85d-b04bd248faed) | Remote |  | 2026-11-07 |  |
-| Christus Health | [Ambulatory Service Representative - Pediatric Multi Specialty](https://careers.christushealth.org/opportunity/ambulatory-service-representative-pediatric-multi-specialty-402677) | San Antonio, TX, US |  | 2026-11-07 |  |
-| Christus Health | [Multi Modality Technologist - Imaging CAT Scan](https://careers.christushealth.org/opportunity/multi-modality-technologist-imaging-cat-scan-398816) | San Marcos, TX, US |  | 2026-11-07 |  |
-| Christus Health | [Registered Nurse - Emergency Care Center](https://careers.christushealth.org/opportunity/registered-nurse-emergency-care-center-402413) | New Braunfels, TX, US |  | 2026-11-07 |  |
-| Christus Health | [Registered Nurse - Emergency Care Center](https://careers.christushealth.org/opportunity/registered-nurse-emergency-care-center-402414) | New Braunfels, TX, US |  | 2026-11-07 |  |
-| Christus Health | [Registered Nurse - Emergency Care Center](https://careers.christushealth.org/opportunity/registered-nurse-emergency-care-center-402433) | New Braunfels, TX, US |  | 2026-11-07 |  |
-| Christus Health | [Registered Nurse - Emergency Care Center](https://careers.christushealth.org/opportunity/registered-nurse-emergency-care-center-402434) | New Braunfels, TX, US |  | 2026-11-07 |  |
-| Christus Health | [Registered Nurse - IMC Telemetry](https://careers.christushealth.org/opportunity/registered-nurse-imc-telemetry-402444) | San Antonio, TX, US |  | 2026-11-07 |  |
-| Christus Health | [Registered Nurse - IMC Telemetry](https://careers.christushealth.org/opportunity/registered-nurse-imc-telemetry-403520) | New Braunfels, TX, US |  | 2026-11-07 |  |
-| Cook Children's | [RN,Urgent Care Centers](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/RN-Urgent-Care-Centers_JR-119725-1) | Fort Worth, TX |  | 2026-11-07 |  |
-| Loma Linda University Health | [Clinical Nurse B-Inpatient (AUC)](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16178) | Murrieta, CA, United States |  | 2026-11-07 |  |
-| Sharp HealthCare | [Clinical RN - Sharp Chula Vista - Emergency Department - FT - Variable - May be eligible for 5k in relocation ](https://sharp.wd1.myworkdayjobs.com/External/job/Chula-Vista-CA/Clinical-RN---Sharp-Chula-Vista---Emergency-Department---FT---Variable---May-be-eligible-for-5k-in-relocation-assistance_JR211745) | Chula Vista, CA | $64.21 to $93.76/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Licensed Vocational Nurse LVN](https://careers.unitedhealthgroup.com/job/bryan/licensed-vocational-nurse-lvn/34088/102972484704) | Bryan, Texas | $49,151 to $73,726 | 2026-11-07 |  |
-| UnitedHealth Group | [Physical Therapist Assistant, PTA $10,000 Sign-On Bonus](https://careers.unitedhealthgroup.com/job/bryan/physical-therapist-assistant-pta-10-000-sign-on-bonus/34088/102970474832) | Bryan, Texas | $55,329 to $82,993 | 2026-11-07 |  |
-| UnitedHealth Group | [Occupational Therapist OT OTR PRN](https://careers.unitedhealthgroup.com/job/corsicana/occupational-therapist-ot-otr-prn/34088/102972484720) | Corsicana, Texas | $35.75 to $53.65/hour | 2026-11-07 |  |
-| UnitedHealth Group | [LPN Licensed Practical Nurse Home Health](https://careers.unitedhealthgroup.com/job/kennesaw/lpn-licensed-practical-nurse-home-health/34088/102970474880) | Kennesaw, Georgia | $24.87 to $44.77/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Occupational Therapist OT OTR PRN, South of Dallas](https://careers.unitedhealthgroup.com/job/richardson/occupational-therapist-ot-otr-prn-south-of-dallas/34088/102972484688) | Richardson, Texas | $39.75 to $59.60/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Occupational Therapist OT OTR](https://careers.unitedhealthgroup.com/job/san-antonio/occupational-therapist-ot-otr/34088/102972484608) | San Antonio, Texas | $78,508 to $117,762 | 2026-11-07 |  |
-| UnitedHealth Group | [Medical Social Worker LMSW or LCSW Per Diem](https://careers.unitedhealthgroup.com/job/waxahachie/medical-social-worker-lmsw-or-lcsw-per-diem/34088/102972484672) | Waxahachie, Texas | $35.90 to $43.90/hour | 2026-11-07 |  |
-| Adaptive Home Health | [Home Health Aide (HHA/CNA) Houston](https://jobs.ashbyhq.com/fira-health/3e7b4876-bb0e-4aea-9164-b873126a035e) | Houston | $17 to $18/hour | 2026-11-07 |  |
-| Arcetyp LLC | [Ohio ARNG Medical Evaluation Board (MEB) Case Manager](https://arcetyp.bamboohr.com/careers/2222) | Columbus, Ohio, United States |  | 2026-11-07 | no visa sponsorship, US citizens/persons only |
-| Arcetyp LLC | [Ohio ARNG Medical Case Manager](https://arcetyp.bamboohr.com/careers/2223) | Columbus, Ohio, United States |  | 2026-11-07 | no visa sponsorship, US citizens/persons only |
-| Ascension | [New Grad Registered Nurse Residency Pediatric Float Pool](https://jobs.ascension.org/us/en/job/22695) · Winter 2027 | Austin, TX, US |  | 2026-11-07 |  |
-| Ascension | [New Grad Registered Nurse Residency Pediatric Neuro](https://jobs.ascension.org/us/en/job/23603) · Winter 2027 | Austin, TX, US |  | 2026-11-07 |  |
-| Ascension | [New Grad Registered Nurse Residency Emergency Department](https://jobs.ascension.org/us/en/job/26047) · Winter 2027 | Kyle, TX, US |  | 2026-11-07 |  |
-| Ascension | [New Grad Registered Nurse Acute Rehab](https://jobs.ascension.org/us/en/job/27510) · Winter 2027 | Waco, TX, US |  | 2026-11-07 |  |
-| Ascension | [New Grad Registered Nurse Acute Rehab](https://jobs.ascension.org/us/en/job/27513) · Winter 2027 | Waco, TX, US |  | 2026-11-07 |  |
-| Ascension | [Certified Medical Assistant Primary Care](https://jobs.ascension.org/us/en/job/18724) | Sapulpa, OK, US |  | 2026-11-07 |  |
-| Ascension | [Certified Medical Assistant Urgent Care](https://jobs.ascension.org/us/en/job/24650) | Jenks, OK, US |  | 2026-11-07 |  |
-| Ascension | [Licensed Practical Nurse Stroke Clinic](https://jobs.ascension.org/us/en/job/25717) | Tulsa, OK, US |  | 2026-11-07 |  |
-| Ascension | [Certified Medical Assistant Urgent Care](https://jobs.ascension.org/us/en/job/21544) | Claremore, OK, US |  | 2026-11-07 |  |
-| Ascension | [Licensed Practical Nurse Primary Care](https://jobs.ascension.org/us/en/job/24649) | Bartlesville, OK, US |  | 2026-11-07 |  |
-| Ascension | [Certified Medical Assistant Primary Care](https://jobs.ascension.org/us/en/job/22577) | Bartlesville, OK, US |  | 2026-11-07 |  |
-| Ascension | [Certified Medical Assistant Pulmonology](https://jobs.ascension.org/us/en/job/18849) | Bartlesville, OK, US |  | 2026-11-07 |  |
-| Ascension | [Licensed Practical Nurse Urgent Care](https://jobs.ascension.org/us/en/job/24622) | Bartlesville, OK, US |  | 2026-11-07 |  |
-| Ascension | [Certified Medical Assistant Primary Care](https://jobs.ascension.org/us/en/job/22576) | Bartlesville, OK, US |  | 2026-11-07 |  |
-| Ascension | [Clinical Staffing Coordinator](https://jobs.ascension.org/us/en/job/18624) | Wichita, KS, US |  | 2026-11-07 |  |
-| Ascension | [Patient Care Technician](https://jobs.ascension.org/us/en/job/16689) | Pensacola, FL, US |  | 2026-11-07 |  |
-| Ascension | [Patient Service Representative Clinic](https://jobs.ascension.org/us/en/job/26548) | Murfreesboro, TN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Service Representative Clinic](https://jobs.ascension.org/us/en/job/24161) | Murfreesboro, TN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Service Representative Clinic](https://jobs.ascension.org/us/en/job/27514) | Murfreesboro, TN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Service Representative Clinic](https://jobs.ascension.org/us/en/job/26483) | Hendersonville, TN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Care Technician- Neuro Stepdown](https://jobs.ascension.org/us/en/job/27366) | Indianapolis, IN, US |  | 2026-11-07 |  |
-| Ascension | [Certified Medical Assistant Pediatric Primary Care](https://jobs.ascension.org/us/en/job/25639) | Indianapolis, IN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Care Technician](https://jobs.ascension.org/us/en/job/27869) | Anderson, IN, US |  | 2026-11-07 |  |
-| Ascension | [Patient Care Tech Emergency Room](https://jobs.ascension.org/us/en/job/27754) | Baltimore, MD, US |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Admission Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8933994002) | Middleburg, FL 32068 / 30.08780033 / -81.853802451 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Certified Nursing Assistant / CNA](https://jobs.bayada.com/en/jobs?gh_jid=8934000002) | Lincolnton, NC 28092 / 35.479366407 / -81.235457378 | $18/hour | 2026-11-07 |  |
-| BAYADA Home Health Care | [Certified Nursing Assistant, CNA, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8933449002) | Doylestown, PA 18901 / 40.307905368 / -75.140596498 | $22 to $32/hour | 2026-11-07 |  |
-| BAYADA Home Health Care | [CNA / Certified Nurse Aide for Home Care](https://jobs.bayada.com/en/jobs?gh_jid=8933997002) | Shelby, NC 28151 / 35.287418 / -81.537397 | $19/hour | 2026-11-07 |  |
-| BAYADA Home Health Care | [Home Health Aide](https://jobs.bayada.com/en/jobs?gh_jid=8933143002) | Livingston, NJ 07039 / 40.790284349 / -74.321330065 | $28 to $30/hour | 2026-11-07 |  |
-| BAYADA Home Health Care | [Home Health Aide, HHA, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8933380002) | Willow Grove, PA 19090 / 40.14829836 / -75.121960598 | $22 to $32/hour | 2026-11-07 |  |
-| BAYADA Home Health Care | [Licensed Practical Nurse- Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8933917002) | Georgetown, SC 29442 / 33.387677 / -79.288966 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [New Graduate Residency for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933531002) | Columbia, MO 65202 / 38.991450952 / -92.30727538 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [New Graduate Residency for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933528002) | Creve Coeur, MO 63141 / 38.664963269 / -90.453608198 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [NICU Nurse - Home Care (LPN or RN)](https://jobs.bayada.com/en/jobs?gh_jid=8933591002) | Mars, PA 16046 / 40.690658884 / -80.041642785 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Nurse Residency Program for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933547002) | Saint Louis, MO 63101 / 38.630792361 / -90.192905144 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Nurse Residency Program for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933614002) | Springfield, MO 65801 / 37.215431 / -93.294903 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Nurse Residency Program for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933548002) | Columbia, MO 65202 / 38.991450952 / -92.30727538 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Occupational Therapist- Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8933181002) | Greenwood, IN 46142 / 39.620893648 / -86.152178737 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Occupational Therapist, OT - Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8933649002) | Denver, CO 80022 / 39.855770567 / -104.85675072 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Pediatric School Nurse, RN](https://jobs.bayada.com/en/jobs?gh_jid=8933730002) | Spring Valley, NY 10977 / 41.119281 / -74.045947578 | $45/hour | 2026-11-07 |  |
-| BAYADA Home Health Care | [Physical Therapist](https://jobs.bayada.com/en/jobs?gh_jid=8933912002) | Florence, SC 29502 / 34.195479 / -79.802907 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Physical Therapist- Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8933616002) | Concord, MA 01742 / 42.456659073 / -71.376461982 | $65 to $75/hour | 2026-11-07 |  |
-| BAYADA Home Health Care | [Physical Therapist, PT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8933453002) | Medina, OH 44215 / 41.070020995 / -81.901524981 | $63 to $73/hour | 2026-11-07 |  |
-| BAYADA Home Health Care | [Registered Nurse, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8933878002) | Middleburg, FL 32068 / 30.08780033 / -81.853802451 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [RN - New Graduate Nurse Residency for Private Duty Nursing](https://jobs.bayada.com/en/jobs?gh_jid=8933635002) | Springfield, MO 65814 / 37.141921 / -93.260825 |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Weekend Baylor Physical Therapist, PT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8933441002) | Warminster, PA 18974 / 40.20717887 / -75.086555895 | $64 to $73/hour | 2026-11-07 |  |
-| Baylor Scott & White Health | [Phlebotomy Training Program Student NTX Ft. Worth](https://jobs.bswhealth.com/us/en/job/26020231) | Fort Worth, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [Patient Care Tech HUC FT Nights](https://jobs.bswhealth.com/us/en/job/26020622) | Irving, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [Clinical Dietitian 1](https://jobs.bswhealth.com/us/en/job/26019782) | Waco, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [Patient Services Representative - Hempstead Clinic](https://jobs.bswhealth.com/us/en/job/26020192) | Brenham, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [Community Health Worker I](https://jobs.bswhealth.com/us/en/job/26020665) | Dallas, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [RN Medicine Telemetry](https://jobs.bswhealth.com/us/en/job/26020617) | Dallas, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [Retail Pharmacy Tech I](https://jobs.bswhealth.com/us/en/job/26020148) | Waco, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [Seasonal Multimodality Technologist PRN](https://jobs.bswhealth.com/us/en/job/26020662) |  |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [RN PCU FT Nights](https://jobs.bswhealth.com/us/en/job/26020561) | Irving, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [Patient Care Tech HUC PCT](https://jobs.bswhealth.com/us/en/job/26020667) | Frisco, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [Phlebotomist 1](https://jobs.bswhealth.com/us/en/job/26015182) | Temple, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [RN ED PRN](https://jobs.bswhealth.com/us/en/job/26020628) | Irving, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [Surgical Support Tech](https://jobs.bswhealth.com/us/en/job/26002576) | Frisco, Texas, United States |  | 2026-11-07 |  |
-| Baylor Scott & White Health | [RN Cardiothoracic ICU Nights](https://jobs.bswhealth.com/us/en/job/26020659) | Temple, Texas, United States |  | 2026-11-07 |  |
-| Black & Veatch | [Safety & Health Administrator - Combined Cycle - GA](https://careers.bv.com/job/Newnan-Safety-&-Health-Administrator-Combined-Cycle-GA-GA/1455330433/) | Newnan, GA, US |  | 2026-11-07 |  |
-| Centrum Health | [Medical Assistant](https://job-boards.greenhouse.io/centrumhealth/jobs/6251012004) | Fort Lauderdale, Florida, United States |  | 2026-11-07 |  |
-| Christus Health | [Ambulatory Service Representative - Primary Pediatric](https://careers.christushealth.org/opportunity/ambulatory-service-representative-primary-pediatric-398374) | San Antonio, TX, US |  | 2026-11-07 |  |
-| Christus Health | [Registered Nurse - ICU MedSurgical A](https://careers.christushealth.org/opportunity/registered-nurse-icu-medsurgical-a-400067) | Lake Charles, LA, US |  | 2026-11-07 |  |
-| Christus Health | [Registered Nurse - Labor and Delivery](https://careers.christushealth.org/opportunity/registered-nurse-labor-and-delivery-403436) | Beaumont, TX, US |  | 2026-11-07 |  |
-| Cigna | [LPN - Bilingual - Evernorth - Dalton GA](https://jobs.thecignagroup.com/us/en/job/26013433) | Dalton, Georgia, United States of America |  | 2026-11-07 |  |
-| Cigna | [Pharmacy Processing Technician - Freedom Fertility - Hybrid](https://jobs.thecignagroup.com/us/en/job/26013269) | Waltham, Massachusetts, United States of America (hybrid) |  | 2026-11-07 |  |
-| Cigna | [Pharmacy Processing Technician - Freedom Fertility - Hybrid](https://jobs.thecignagroup.com/us/en/job/26013268) | Newburyport, Massachusetts, United States of America (hybrid) |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [RN Emergency SW](https://www.commonspirit.careers/job/bakersfield/rn-emergency-sw/35300/97152208400) | BAKERSFIELD, CA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Registered Nurse NICU](https://www.commonspirit.careers/job/colorado-springs/registered-nurse-nicu/35300/102948008512) | Colorado Springs, CO |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [CNA Patient Care Assistant Nursing Float](https://www.commonspirit.careers/job/glendale/cna-patient-care-assistant-nursing-float/35300/102961401264) | GLENDALE, CA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [RN Telemetry Neuro Cardiac](https://www.commonspirit.careers/job/glendale/rn-telemetry-neuro-cardiac/35300/101308810000) | GLENDALE, CA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [RN Endoscopy](https://www.commonspirit.careers/job/houston/rn-endoscopy/35300/102953238736) | HOUSTON, TX |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Registered Nurse Emergency Room](https://www.commonspirit.careers/job/lakewood/registered-nurse-emergency-room/35300/102958191376) | Lakewood, CO |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Registered Nurse Pre-Op PACU](https://www.commonspirit.careers/job/lakewood/registered-nurse-pre-op-pacu/35300/102958255648) | Lakewood, CO |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Nutrition Assistant](https://www.commonspirit.careers/job/lexington/nutrition-assistant/35300/102953240560) | LEXINGTON, KY |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [RN Home Health](https://www.commonspirit.careers/job/lincoln/rn-home-health/35300/102953098576) | Lincoln, NE |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [RN Home Health](https://www.commonspirit.careers/job/louisville/rn-home-health/35300/102944169792) | Louisville, KY |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Med Surg Nurse](https://www.commonspirit.careers/job/lufkin/med-surg-nurse/35300/102961510736) | LUFKIN, TX |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Resource RN](https://www.commonspirit.careers/job/mount-sterling/resource-rn/35300/102948009536) | MOUNT STERLING, KY |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Resource RN](https://www.commonspirit.careers/job/mount-sterling/resource-rn/35300/102948009568) | MOUNT STERLING, KY |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [RN Neuro Tele](https://www.commonspirit.careers/job/northridge/rn-neuro-tele/35300/101723602912) | NORTHRIDGE, CA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Definitive Observation Nurse](https://www.commonspirit.careers/job/sacramento/definitive-observation-nurse/35300/102953084512) | SACRAMENTO, CA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Definitive Observation Nurse](https://www.commonspirit.careers/job/sacramento/definitive-observation-nurse/35300/102953084608) | SACRAMENTO, CA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Surgical Acute Nurse](https://www.commonspirit.careers/job/sacramento/surgical-acute-nurse/35300/102947952256) | SACRAMENTO, CA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [RN Surgery](https://www.commonspirit.careers/job/san-bernardino/rn-surgery/35300/102953073712) | SAN BERNARDINO, CA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [CV Program Coordinator RN](https://www.commonspirit.careers/job/santa-maria/cv-program-coordinator-rn/35300/102961427488) | SANTA MARIA, CA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Respiratory Therapist - Registered](https://www.commonspirit.careers/job/seattle/respiratory-therapist-registered/35300/102947894224) | SEATTLE, WA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Patient Account Representative](https://www.commonspirit.careers/job/stockton/patient-account-representative/35300/91921183328) | STOCKTON, CA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Oncology Clinic Scheduler - Coordinator](https://www.commonspirit.careers/job/tacoma/oncology-clinic-scheduler-coordinator/35300/102183410336) | TACOMA, WA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [Patient Access Rep Clinic](https://www.commonspirit.careers/job/tacoma/patient-access-rep-clinic/35300/102947899152) | TACOMA, WA |  | 2026-11-07 |  |
-| CommonSpirit Health (St. Luke's Health) | [RN Clinical Coordinator Emergency Room](https://www.commonspirit.careers/job/westminster/rn-clinical-coordinator-emergency-room/35300/102944224096) | Westminster, CO |  | 2026-11-07 |  |
-| Cortica - Neurodevelopmental | [Behavior Technician (Entry-Level)](https://job-boards.greenhouse.io/allcareers/jobs/8933744002) | Mesa, Arizona | $21.73 to $29.15/hour | 2026-11-07 |  |
-| Cortica - Neurodevelopmental | [Behavior Technician – Entry-Level / Paid Training](https://job-boards.greenhouse.io/allcareers/jobs/8933803002) | Springfield, Massachusetts, United States | $20.87 to $28/hour | 2026-11-07 |  |
-| Cortica - Neurodevelopmental | [Entry-Level Behavior Technician – Paid Training](https://job-boards.greenhouse.io/allcareers/jobs/8933740002) | Woburn, MA | $23.62 to $31.69/hour | 2026-11-07 |  |
-| Cortica - Neurodevelopmental | [Entry-Level Behavior Technician – Play-Based Therapy](https://job-boards.greenhouse.io/allcareers/jobs/8933681002) | Burlington, Massachusetts | $23.62 to $31.69/hour | 2026-11-07 |  |
-| Cortica - Neurodevelopmental | [Entry Level Behavior Therapist (Paid Training)](https://job-boards.greenhouse.io/allcareers/jobs/8933666002) | Laguna Beach, California | $21.18 to $28.42/hour | 2026-11-07 |  |
-| Cortica - Neurodevelopmental | [Entry Level Play Based Behavior Therapist](https://job-boards.greenhouse.io/allcareers/jobs/8933753002) | North Hollywood, California | $20.87 to $28/hour | 2026-11-07 |  |
-| Cortica - Neurodevelopmental | [Entry Level Play-Based Behavior Therapist](https://job-boards.greenhouse.io/allcareers/jobs/8933377002) | Apex, North Carolina | $20.08 to $26.94/hour | 2026-11-07 |  |
-| Cortica - Neurodevelopmental | [Entry Level Play-Based Therapist (Paid Training)](https://job-boards.greenhouse.io/allcareers/jobs/8933654002) | Mission Viejo, California | $21.18 to $28.42/hour | 2026-11-07 |  |
-| Crestwood Behavioral Health | [Recovery Coach / Entry-Level Mental Health Aide](https://job-boards.greenhouse.io/crestwoodcareers/jobs/8198171003) | Angwin, California, United States | $23 to $24.17/hour | 2026-11-07 |  |
-| Crestwood Behavioral Health, Inc. | [Recovery Coach / Entry-Level Mental Health Aide](https://job-boards.greenhouse.io/crestwoodziprecruiterjobs/jobs/8198175003) | Angwin, California, United States | $23 to $24.17/hour | 2026-11-07 |  |
-| Critical Care Pulmonary and Sleep Associates | [Medical Assistant](https://ccpsa.bamboohr.com/careers/61) | Parker, Colorado, United States |  | 2026-11-07 |  |
-| CVS Health | [Pharmacy Manager](https://jobs.cvshealth.com/us/en/job/R1097502) | 2502 TRIMMIER RD., Killeen, Texas,United States | $65 to $85/hour | 2026-11-07 |  |
-| CVS Health | [Medical Scribe](https://jobs.cvshealth.com/us/en/job/R1094849) | 815 East Abrams, Arlington, Texas,United States | $17 to $28.46/hour | 2026-11-07 |  |
-| CVS Health | [Pharmacy Manager, Store 06712](https://jobs.cvshealth.com/us/en/job/R1096966) | 292 VAN BUREN ST., SOUTH, PO BOX 451, Nashville, Indiana,United States | $65 to $85/hour | 2026-11-07 |  |
-| CVS Health | [Pharmacy Technician – Clinical Support Services](https://jobs.cvshealth.com/us/en/job/R1097568) | 2345 Waters Drive, Mendota Heights, Minnesota,United States | $17 to $31.30/hour | 2026-11-07 |  |
-| Dental365 | [Dental Assistant](https://job-boards.greenhouse.io/dental365/jobs/8197680003) | Coventry, Rhode Island, United States | $22 to $25/hour | 2026-11-07 |  |
-| Dental365 | [Dental Assistant (Welcoming Bonus)](https://job-boards.greenhouse.io/dental365/jobs/8197659003) | Woburn, Massachusetts, United States | $25 to $29/hour | 2026-11-07 |  |
-| Dental365 | [Dental Front Desk Coordinator](https://job-boards.greenhouse.io/dental365/jobs/8197693003) | North Kingstown, Rhode Island, United States | $23 to $25/hour | 2026-11-07 |  |
-| Elevance Health | [CFSP Managed Care Coordinator - Nash County](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/North-Carolina---Nashville/CFSP-Managed-Care-Coordinator---Nash-County_JR206064) | North Carolina - Nashville |  | 2026-11-07 |  |
-| evolvedMD | [Mental Health Therapist](https://www.evolvedmd.com/careers?gh_jid=4751724005) | Gilbert, AZ 85297 | $65,000 to $91,400 | 2026-11-07 |  |
-| Eye Care Partners | [Medical Receptionist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8933856002) | Independence, MO |  | 2026-11-07 |  |
-| Eye Care Partners | [Optometric Technician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8933342002) | Paducah, KY |  | 2026-11-07 |  |
-| Eye Care Partners | [Optometric Technician - Training Provided!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8933796002) | Columbia, MO |  | 2026-11-07 |  |
-| Harris Health | [Supplemental Psychiatric Technician I](https://jobs.harrishealth.org/supplemental-psychiatric-technician-i/job/22A70BCBAB944799819053F2437E5FA2) | Houston, TX, US |  | 2026-11-07 |  |
-| Harris Health | [Registered Nurse II - Operating Room - Full-Time - LBJ](https://jobs.harrishealth.org/registered-nurse-ii-operating-room-full-time-lbj/job/7227D61C333F1497651A3639F8927FC6) | Houston, TX, US |  | 2026-11-07 |  |
-| Harris Health | [Registered Nurse II - Operating Room - Full-Time - LBJ](https://jobs.harrishealth.org/registered-nurse-ii-operating-room-full-time-lbj/job/75F156FFE2E51FF7B18C9199CE961257) | Houston, TX, US |  | 2026-11-07 |  |
-| Harris Health | [Nutrition Service Associate](https://jobs.harrishealth.org/nutrition-service-associate/job/A8C1833C56A19C70FD0212620F408B4F) | Houston, TX, US |  | 2026-11-07 |  |
-| Henry Ford Health | [Medical Support Assistant](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016709616-medical-support-assistant) | Roseville, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Medical Assistant](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016708183-medical-assistant) | Detroit, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Registered Dietitian - Dialysis](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016709045-registered-dietitian-dialysis-) | Novi, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Medical Assistant](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016708098-medical-assistant) | Plymouth, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Medical Assistant - Internal Medicine](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016708384-medical-assistant-internal-medicine) | Novi, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Registered Nurse - Clinic Based - Home Hemodialysis & Peritoneal](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016707696-registered-nurse-clinic-based-home-hemodialysis-peritoneal) | Pontiac, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Medical Assistant - Family Practice](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016705767-medical-assistant-family-practice-) | Wyandotte, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Physical Therapist Assistant - Home Health Care](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016706397-physical-therapist-assistant-home-health-care) | Jackson, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Medical Assistant](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016705936-medical-assistant) | Bloomfield Township, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Registered Nurse - Surgical Services Operating Room](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016705756-registered-nurse-surgical-services-operating-room) | Jackson, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Patient Monitor](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016701083-patient-monitor) | East China, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Registered Nurse - Occupational Health - Mobile](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016697846-registered-nurse-occupational-health-mobile) | Bingham Farms, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Medical Assistant - Sleep Clinic](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016695366-medical-assistant-sleep-clinic) | Jackson, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Medical Assistant](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016694171-medical-assistant) | West Bloomfield, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Registered Nurse, Clinical Decision Unit](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016692466-registered-nurse-clinical-decision-unit) | Novi, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Respiratory Therapist Clinical Specialist - Respiratory Therapy Admin](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016691686-respiratory-therapist-clinical-specialist-respiratory-therapy-admin) | Jackson, MI, us |  | 2026-11-07 |  |
-| Henry Ford Health | [Medical Assistant - Telehealth Support-Family Practice](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016689127-medical-assistant-telehealth-support-family-practice-) | Saint Clair Shores, MI, us |  | 2026-11-07 |  |
-| Houston Methodist | [Patient Services Representative- Department of Medicine (Medical Center)](https://houstonmethodist.wd12.myworkdayjobs.com/GTI/job/HM-Texas-Medical-Center---Scurlock-Tower/Patient-Services-Representative--Department-of-Medicine--Medical-Center-_JR-18251) | HM Texas Medical Center - Scurlock Tower |  | 2026-11-07 |  |
-| Houston Methodist | [Pediatric Echo Sonographer- PRN](https://houstonmethodist.wd12.myworkdayjobs.com/GTI/job/HM-Sugar-Land---Sweetwater/Pediatric-Echo-Sonographer--PRN_JR-18010-1) | HM Sugar Land - Sweetwater |  | 2026-11-07 |  |
-| Humana | [Home Health Aide](https://careers.humana.com/us/en/job/R-435859) | Omaha, Nebraska, United States of America | $33,700 to $39,400 | 2026-11-07 |  |
-| Humana | [Home Health Aide](https://careers.humana.com/us/en/job/R-436157) | Alameda, California, United States of America | $45,000 to $52,600 | 2026-11-07 |  |
-| Humana | [Utilization Management Administration Coordinator -- Home Health](https://careers.humana.com/us/en/job/R-436619) | Remote, Nationwide, United States of America | $40,000 to $52,300 | 2026-11-07 |  |
-| Interventional Cardiology Medical Group | [PET/NUC Technologist](https://icardiomg.bamboohr.com/careers/142) | Thousand Oaks, California, United States |  | 2026-11-07 |  |
-| Intuitive Health | [Patient Access Advocate, Part Time Nights](https://jobs.smartrecruiters.com/IntuitiveHealth1/3743990016700436-patient-access-advocate-part-time-nights) | Maumee, OH, us |  | 2026-11-07 |  |
-| Intuitive Health | [Patient Access Advocate - Temple PRN](https://jobs.smartrecruiters.com/IntuitiveHealth1/3743990016693366-patient-access-advocate-temple-prn) | Temple, TX, us |  | 2026-11-07 |  |
-| Kestra Medical Technologies Inc. | [ASSURE Patient Specialist - Long Island, NY (1099 Contractor, Per Diem/On Call)](https://job-boards.greenhouse.io/kestramedicaltechnologiesinc/jobs/4484510009) | Long Island, NY |  | 2026-11-07 |  |
-| Kestra Medical Technologies Inc. | [Patient Specialist - Hickory, APS (1099 Contractor, Per Diem/On Call)](https://job-boards.greenhouse.io/kestramedicaltechnologiesinc/jobs/4484930009) | Hickory, NC |  | 2026-11-07 |  |
-| Kittitas Valley Healthcare | [Patient Service Representative - Physical Therapy - Part Time (34 hours/week)](https://jobs.smartrecruiters.com/KittitasValleyHealthcare/744000160307259-patient-service-representative-physical-therapy-part-time-34-hours-week-) | Ellensburg, WA, us | $19.62 to $29.74/hour | 2026-11-07 |  |
-| LifeStance Health | [Psychiatric Nurse Practitioner - Outpatient - Hybrid](https://jobs.lever.co/lifestance/1c6016e8-0a83-43d8-9efd-fe49db220bab) | Mentor, OH (hybrid) | $220,000 | 2026-11-07 |  |
-| LifeStance Health | [Psychiatric Nurse Practitioner - Outpatient - Hybrid](https://jobs.lever.co/lifestance/f82e28a1-ed16-42bf-98f8-ea8d25265694) | Twinsburg, OH (hybrid) | $220,000 | 2026-11-07 |  |
-| LifeStance Health | [Psychiatric Nurse Practitioner (PMHNP)](https://jobs.lever.co/lifestance/0b628706-abeb-4ccd-a3d5-c96366906951) | Richmond Heights, MO (hybrid) |  | 2026-11-07 |  |
-| LifeStance Health | [Psychiatric Nurse Practitioner (PMHNP)](https://jobs.lever.co/lifestance/78072ae9-b778-4a26-9ef9-ac6c83a2e985) | Kirkwood, MO (hybrid) |  | 2026-11-07 |  |
-| LifeStance Health | [Psychiatric Nurse Practitioner- Lifespan - Outpatient](https://jobs.lever.co/lifestance/b29194eb-e5de-401c-a97d-8b43ed082ff5) | Beachwood, OH | $220,000 | 2026-11-07 |  |
-| Loma Linda University Health | [Patient Navigator-LVN Cancer](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17621) | Loma Linda, CA, United States |  | 2026-11-07 |  |
-| Loma Linda University Health | [Clinical Nurse B-PeriAnesthesia](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17846) | Loma Linda, CA, United States |  | 2026-11-07 |  |
-| Loma Linda University Health | [Clinical Nurse B-Inpatient-ECH: U1300 Medical Acute](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17936) | Loma Linda, CA, United States |  | 2026-11-07 |  |
-| M&T Bank | [Part Time / 25 hours week- Bilingual Spanish Universal Banker- Rockville MD](https://mtb.wd5.myworkdayjobs.com/MTB/job/Rockville-MD/Part-Time---25-hours-week--Bilingual-Spanish-Universal-Banker--Rockville-MD_R91999) | Rockville, MD | $21.68 to $36.13/hour | 2026-11-07 |  |
-| Memorial Hermann | [Telemetry Monitoring Tech, Nights - Katy](https://jobs.memorialhermann.org/us/en/job/100189169) | Katy, Texas, United States of America |  | 2026-11-07 |  |
-| Memorial Hermann | [Telemetry Monitoring Tech, Nights - The Woodlands](https://jobs.memorialhermann.org/us/en/job/100188783) | The Woodlands, Texas, United States of America |  | 2026-11-07 |  |
-| Mission Healthcare | [Hospice Admissions Registered Nurse / RN](https://job-boards.greenhouse.io/missionhealthcare/jobs/4483459009) | Carson City, NV |  | 2026-11-07 |  |
-| Monarch Communities | [Care Manager (CNA) Full-Time/Part-Time](https://jobs.smartrecruiters.com/MonarchCommunities/744000160191442-care-manager-cna-full-time-part-time) | Haverford, PA, us | $19 to $21/hour | 2026-11-07 |  |
-| Munson Healthcare | [Medical Assistant - Heart and Vascular](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016701926-medical-assistant-heart-and-vascular) | Cadillac, Michigan, us |  | 2026-11-07 |  |
-| NIVA Health | [Certified Medical Assistant](https://apply.workable.com/j/6636C90CC8) | Orlando, Florida, United States | $20/hour | 2026-11-07 |  |
-| NIVA Health | [Certified Medical Assistant](https://apply.workable.com/j/A17BBDAF09) | Troy, Michigan, United States | $20/hour | 2026-11-07 |  |
-| NIVA Health | [New Graduate Nurse Practitioner/Physician Assistant](https://apply.workable.com/j/4D9640DAD2) | Garden City, Michigan, United States |  | 2026-11-07 |  |
-| NIVA Health | [New Graduate Nurse Practitioner/Physician Assistant](https://apply.workable.com/j/9D9FF880C4) | Riverview, Michigan, United States |  | 2026-11-07 |  |
-| NIVA Health | [New Graduate Nurse Practitioner/Physician Assistant](https://apply.workable.com/j/7835F8DFE3) | Bay City, Michigan, United States |  | 2026-11-07 |  |
-| NIVA Health | [New Graduate Nurse Practitioner/Physician Assistant](https://apply.workable.com/j/EFE57099C7) | Flint, Michigan, United States |  | 2026-11-07 |  |
-| NIVA Health | [New Graduate Nurse Practitioner/Physician Assistant](https://apply.workable.com/j/A91B36DEAD) | Detroit, Michigan, United States |  | 2026-11-07 |  |
-| NIVA Health | [New Graduate Nurse Practitioner/Physician Assistant](https://apply.workable.com/j/03DD63B04D) | Grand Rapids, Michigan, United States |  | 2026-11-07 |  |
-| NIVA Health | [New Graduate Nurse Practitioner/Physician Assistant](https://apply.workable.com/j/763739D9C1) | Ypsilanti, Michigan, United States |  | 2026-11-07 |  |
-| NIVA Health | [New Graduate Nurse Practitioner/Physician Assistant](https://apply.workable.com/j/26E871675D) | Gladwin, Michigan, United States |  | 2026-11-07 |  |
-| NIVA Health | [New Graduate Nurse Practitioner/Physician Assistant](https://apply.workable.com/j/9B62AC43D9) | Ann Arbor, Michigan, United States |  | 2026-11-07 |  |
-| Northwestern Memorial Healthcare | [Medical Imaging Assistant - Part Time Day shift](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160304739-medical-imaging-assistant-part-time-day-shift-) | Huntley, IL, us |  | 2026-11-07 |  |
-| Northwestern Memorial Healthcare | [Registered Nurse General Surgery Full time](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160269549-registered-nurse-general-surgery-full-time-) | Wheaton, IL, us |  | 2026-11-07 |  |
-| Northwestern Memorial Healthcare | [Physician Assistant, ED, Casual](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160264349-physician-assistant-ed-casual-) | Huntley, IL, us |  | 2026-11-07 |  |
-| Northwestern Memorial Healthcare | [Physician Assistant, ED, Casual](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160263882-physician-assistant-ed-casual-) | Lake Forest, IL, us |  | 2026-11-07 |  |
-| Optimal Care | [Home Health Occupational Therapist](https://job-boards.greenhouse.io/optimalcare/jobs/5475429008) | Midland, MI | $84,000 to $89,000 | 2026-11-07 |  |
-| Parkland Health | [Psychiatric Technician](https://wd12.myworkdaysite.com/recruiting/parklandhospital/Parkland_Careers/job/Main-Hospital-Bldg---1st-Flr/Psychiatric-Technician_990959) | Main Hospital Bldg - 1st Flr |  | 2026-11-07 |  |
-| Ppgny | [Patient Care Associate - Schenectady](https://jobs.lever.co/ppgny/c982825d-4f16-4877-99ca-88950b6be92f) | Schenectady, NY |  | 2026-11-07 |  |
-| Pyramid Healthcare | [Counselor](https://job-boards.greenhouse.io/1pyra%29mid_health%26care/jobs/5475468008) | Chambersburg, PA |  | 2026-11-07 |  |
-| Pyramid Healthcare | [Supportive Counselor (Part Time)](https://job-boards.greenhouse.io/1pyra)mid_health&care/jobs/5475228008) | Kearneysville, WV | $18 to $20/hour | 2026-11-07 |  |
-| Rightway | [Remote Pharmacy Technician](https://www.rightwayhealthcare.com/jobs?gh_jid=8197951003) | Remote | $21.50 to $22/hour | 2026-11-07 |  |
-| Senior Lifestyle | [Caregiver - Assisted Living - PT - NJ CNA or CHHA License Required](https://jobs.smartrecruiters.com/SeniorLifestyle1/744000160304334-caregiver-assisted-living-pt-nj-cna-or-chha-license-required-) | Pennsville Township, NJ, us | $21/hour | 2026-11-07 |  |
-| Seven Starling | [PSYPACT Group Therapist - Women’s Mental Health - Telehealth](https://jobs.lever.co/seven-starling/06def765-6e65-4cc1-adfa-6d1d5caacb9d) | Remote |  | 2026-11-07 |  |
-| Sharp HealthCare | [RN - 2E Oncology Progressive Care Unit - Sharp Grossmont Hospital - Nights - Full Time - May be eligible for N](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/RN---2E-Oncology-Progressive-Care-Unit---Sharp-Grossmont-Hospital---Nights---Full-Time---May-be-eligible-for-New-Hire-Relocation-Incentive_JR210960-1) | La Mesa, CA | $64.21 to $93.76/hour | 2026-11-07 |  |
-| Sharp HealthCare | [Clinical Nurse RN - Oncology 1W - Sharp Memorial Hospital - Night - FT](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Clinical-Nurse-RN---Oncology-1W---Sharp-Memorial-Hospital---Night---FT_JR210872) | San Diego, CA | $64.21 to $93.76/hour | 2026-11-07 |  |
-| Sharp HealthCare | [Clinical Nurse RN - Behavioral Health Psych ICU - Sharp Mesa Vista Hospital - PM 8hour shift - .8 Part Time](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Clinical-Nurse-RN---Behavioral-Health-Psych-ICU---Sharp-Mesa-Vista-Hospital---PM-8hour-shift---8-Part-Time_JR211310) | San Diego, CA | $64.21 to $93.76/hour | 2026-11-07 |  |
-| Sharp HealthCare | [Clinical Nurse RN - Behavioral Health Psych ICU - Sharp Mesa Vista Hospital - PM 8hour shift - .8 Part Time](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Clinical-Nurse-RN---Behavioral-Health-Psych-ICU---Sharp-Mesa-Vista-Hospital---PM-8hour-shift---8-Part-Time_JR211309) | San Diego, CA | $64.21 to $93.76/hour | 2026-11-07 |  |
-| Sharp HealthCare | [RN - 5E Neuroscience Progressive Care Unit - Sharp Grossmont Hospital - Days - Full Time - May be eligible for](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/RN---5E-Neuroscience-Progressive-Care-Unit---Sharp-Grossmont-Hospital---Days---Full-Time---May-be-eligible-for-New-Hire-Relocation-Incentive_JR210417-1) | La Mesa, CA | $64.21 to $93.76/hour | 2026-11-07 |  |
-| Sharp HealthCare | [Clinical Nurse RN - Behavioral Health Psych ICU - Sharp Mesa Vista Hospital - Night 8hour shift - .8 Part Time](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Clinical-Nurse-RN---Behavioral-Health-Psych-ICU---Sharp-Mesa-Vista-Hospital---Night-8hour-shift---8-Part-Time_JR211312-1) | San Diego, CA | $64.21 to $93.76/hour | 2026-11-07 |  |
-| Sharp HealthCare | [Clinical Nurse – RN – Surgery – Sharp Memorial Hospital – Evening Shift - Full Time - Eligible for New Hire Re](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Clinical-Nurse---RN---Surgery---Sharp-Memorial-Hospital---Evening-Shift----Full-Time----Eligible-for-New-Hire-Relocation_JR204804) | San Diego, CA | $64.21 to $93.76/hour | 2026-11-07 |  |
-| Sharp HealthCare | [Endoscopy Tech / Medical Assistant - Gastroenterology - SRS Scripps Ranch - Day Shift - Per Diem](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Endoscopy-Tech----Gastroenterology---SRS-Scripps-Ranch---Day-Shift---Per-Diem_JR206538) | San Diego, CA | $29.67 to $41.54/hour | 2026-11-07 |  |
-| Sharp HealthCare | [Clinical RN - Emergency Dept - Coronado Hospital - Nights (1900-0730) - Full Time (0.9 FTE)](https://sharp.wd1.myworkdayjobs.com/External/job/Coronado-CA/Clinical-RN---Emergency-Dept---Coronado-Hospital---Nights--1900-0730----Full-Time--09-FTE-_JR211216-1) | Coronado, CA | $64.21 to $93.76/hour | 2026-11-07 |  |
-| Sharp HealthCare | [Registered Nurse - Emergency Department - Sharp Tri City - Nights - Full-time - May be eligible for up to 12.5](https://sharp.wd1.myworkdayjobs.com/External/job/STCMC-Tri-City-MedicalCenter-Main-Campus---4002-Vista-Way/Registered-Nurse---Emergency-Department---Sharp-Tri-City---Nights---Full-time_JR210391-1) | STCMC Tri-City Medical Center Main Campus - 4002 Vista Way | $44.67 to $68.85/hour | 2026-11-07 |  |
-| Sharp HealthCare | [Patient Access Representative (Access Management Rep) - Admitting - Tri City Medical Center - Evenings and Nig](https://sharp.wd1.myworkdayjobs.com/External/job/STCMC-Tri-City-MedicalCenter-Main-Campus---4002-Vista-Way/Patient-Access-Representative--Access-Management-Rep----Admitting---Tri-City-Medical-Center---Evenings-and-Nights---Per-Diem_JR208610-1) | STCMC Tri-City Medical Center Main Campus - 4002 Vista Way | $25.15 to $27.65/hour | 2026-11-07 |  |
-| Sharp HealthCare | [Clinical Nurse-BU - Labor and Delivery - Sharp Mary Birch - Night Shift - Full-time 0.9 FTE](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Clinical-Nurse-BU---Labor-and-Delivery---Sharp-Mary-Birch---Night-Shift---Full-time-09-FTE_JR211656-1) | San Diego, CA | $64.21 to $93.76/hour | 2026-11-07 |  |
-| Sharp HealthCare | [Clinical Nurse-BU: RN - Labor and Delivery - Sharp Mary Birch - Night Shift - Full-time 0.9 FTE](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Clinical-Nurse-BU--RN---Labor-and-Delivery---Sharp-Mary-Birch---Night-Shift---Full-time-09-FTE_JR211651-1) | San Diego, CA | $64.21 to $93.76/hour | 2026-11-07 |  |
-| Shriners Children's | [Patient Care Assistant I, Burns (PICU)](https://shrinerschildrens.wd12.myworkdayjobs.com/Shriners/job/Boston-MA/Patient-Care-Assistant-I--Burns--PICU-_JR102739) | Boston, MA |  | 2026-11-07 |  |
-| Shriners Children's | [Patient Care Assistant I, Burns PICU](https://shrinerschildrens.wd12.myworkdayjobs.com/Shriners/job/Boston-MA/Patient-Care-Assistant-I--Burns-PICU_JR102744) | Boston, MA |  | 2026-11-07 |  |
-| Strive Pharmacy | [Assistant Sterile Pharmacy Manager](https://job-boards.greenhouse.io/strivepharmacy/jobs/5284970007) | Tampa, FL | $140,000 to $155,000 | 2026-11-07 |  |
-| Symetria Recovery | [Counselor](https://symetria-recovery.breezy.hr/p/77efc9132ca5-counselor) | Des Plaines, IL | $25.75 to $31/hour | 2026-11-07 |  |
-| Tellos, Inc. | [Entry-Level Autism Therapist](https://jobs.ashbyhq.com/tellos/614162a4-28c2-43d6-89db-ba0e3a2f8fd2) | Port Wentworth, GA |  | 2026-11-07 |  |
-| Tenet Healthcare | [Registered Nurse (RN) – ER](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603020755) | Turlock, CA, United States |  | 2026-11-07 |  |
-| Tenet Healthcare | [Patient Care Technician (PCT)](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603026449) | San Antonio, TX, United States |  | 2026-11-07 |  |
-| Tenet Healthcare | [Registered Nurse (RN) - ER](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603027924) | Tucson, AZ, United States |  | 2026-11-07 |  |
-| Tenet Healthcare | [New Grad Registered Nurse (RN) - OR](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028071) | Tucson, AZ, United States |  | 2026-11-07 |  |
-| Tenet Healthcare | [Cardiovascular Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028150) | New Braunfels, TX, United States |  | 2026-11-07 |  |
-| Tenet Healthcare | [Registered Nurse (RN) - Obstetrics](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028271) | Palm Springs, CA, United States |  | 2026-11-07 |  |
-| Tenet Healthcare | [Registered Nurse (RN) - L&D](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028272) | Palm Springs, CA, United States |  | 2026-11-07 |  |
-| Terrestris Global Solutions | [Medical Technologist](https://terrestris-global-solutions.breezy.hr/p/3a017c748a4801-medical-technologist) | Palo Alto, FL |  | 2026-11-07 | no visa sponsorship |
-| Texas Children's Hospital | [Patient Care Assistant - Austin Emergency Department](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428762) | Austin, TX, United States |  | 2026-11-07 |  |
-| Texas Health Resources | [Registered Nurse (RN II) - Emergency Department (ED) (Full Time/Days 7a-7p)](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011596&lang=en) | Dallas |  | 2026-11-07 |  |
-| Texas Health Resources | [Registered Nurse (RN) – Medical Surgical/Trauma (Full time Nights)](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011663&lang=en) | Dallas |  | 2026-11-07 |  |
-| Texas Health Resources | [Patient Care Technician (PCT) - General Surgery, Part-Time Nights](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011940&lang=en) | Fort Worth |  | 2026-11-07 |  |
-| Texas Health Resources | [Patient Care Technician (PCT) - Emergency, Part-Time Days](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011893&lang=en) | Fort Worth |  | 2026-11-07 |  |
-| Texas Health Resources | [Registered Nurse (RN) Med Surg Tele Dept- Full Time Nights](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011978&lang=en) | Fort Worth |  | 2026-11-07 |  |
-| Texas Health Resources | [Registered Nurse (RN) Charge - Medical Surgical Trauma PRN Nights](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011950&lang=en) | Dallas |  | 2026-11-07 |  |
-| Texas Health Resources | [Registered Nurse (RN) – Medical Surgical /Trauma (Full time Days)](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011952&lang=en) | Dallas |  | 2026-11-07 |  |
-| Texas Health Resources | [Patient Care Technician (PCT) - Telemetry, Full-Time Nights](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011979&lang=en) | Fort Worth |  | 2026-11-07 |  |
-| Texas Health Resources | [Patient Care Tech, PCT, FT, Days, Float Pool](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012041&lang=en) | Denton |  | 2026-11-07 |  |
-| Texas Health Resources | [Patient Care Tech, PCT, FT, Nights, Int Cardiac](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012040&lang=en) | Denton |  | 2026-11-07 |  |
-| Texas Health Resources | [Graduate Nurse Residency (Telemetry/Intermediate Care) – February 2027](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012194&lang=en) | Plano |  | 2026-11-07 |  |
-| Texas Health Resources | [Patient Care Tech, PCT, FT, Days, Int Cardiac](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011120&lang=en) | Denton |  | 2026-11-07 |  |
-| UC Irvine | [Pharmacy Technician I-Inpatient Pharmacy-PT Variable Shift](https://jobs.uci.edu/careers-home/jobs/152519) | Orange, California |  | 2026-11-07 |  |
-| United Vein & Vascular Centers | [Clinical Technologist / Medical Assistant](https://job-boards.greenhouse.io/unitedveincenters/jobs/5475526008) | Sun City Center, Florida, United States |  | 2026-11-07 |  |
-| UnitedHealth Group | [Registered Nurse - After Hour On-Call RN](https://careers.unitedhealthgroup.com/job/akron/registered-nurse-after-hour-on-call-rn/34088/102958123376) | Akron, Ohio | $75,620 to $113,430 | 2026-11-07 |  |
-| UnitedHealth Group | [Physical Therapist FT](https://careers.unitedhealthgroup.com/job/americus/physical-therapist-ft/34088/102958119600) | Americus, Georgia | $76,608 to $114,912 | 2026-11-07 |  |
-| UnitedHealth Group | [Physical Therapist](https://careers.unitedhealthgroup.com/job/americus/physical-therapist/34088/102958120352) | Americus, Georgia | $76,608 to $114,912 | 2026-11-07 |  |
-| UnitedHealth Group | [PTA Physical Therapist Assistant Home Health](https://careers.unitedhealthgroup.com/job/americus/pta-physical-therapist-assistant-home-health/34088/102958120176) | Americus, Georgia | $52,417 to $78,625 | 2026-11-07 |  |
-| UnitedHealth Group | [PTA Physical Therapy Assistant Home Health](https://careers.unitedhealthgroup.com/job/americus/pta-physical-therapy-assistant-home-health/34088/102958120112) | Americus, Georgia | $52,417 to $78,625 | 2026-11-07 |  |
-| UnitedHealth Group | [LPN Licensed Practical Nurse Home Health](https://careers.unitedhealthgroup.com/job/athens/lpn-licensed-practical-nurse-home-health/34088/102958120432) | Athens, Georgia | $49,151 to $73,726 | 2026-11-07 |  |
-| UnitedHealth Group | [Physical Therapist](https://careers.unitedhealthgroup.com/job/atlanta/physical-therapist/34088/102958120576) | Atlanta, Georgia | $85,120 to $127,680 | 2026-11-07 |  |
-| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/atlanta/rn-case-manager/34088/102958120640) | Atlanta, Georgia | $36.27 to $65.29/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Medical Social Work PRN Hospice](https://careers.unitedhealthgroup.com/job/bartlett/medical-social-work-prn-hospice/34088/102958119216) | Bartlett, Tennessee | $30.35 to $45.50/hour | 2026-11-07 |  |
-| UnitedHealth Group | [HSPC Afterhours Triage Nurse - PT](https://careers.unitedhealthgroup.com/job/baton-rouge/hspc-afterhours-triage-nurse-pt/34088/102958119312) | Baton Rouge, Louisiana | $34.80 to $52.25/hour | 2026-11-07 |  |
-| UnitedHealth Group | [HSPC Afterhours Triage Nurse - PT](https://careers.unitedhealthgroup.com/job/baton-rouge/hspc-afterhours-triage-nurse-pt/34088/102958119680) | Baton Rouge, Louisiana | $34.80 to $52.25/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Physical Therapist Assistant, PTA Part-Time](https://careers.unitedhealthgroup.com/job/bellaire/physical-therapist-assistant-pta-part-time/34088/102958118176) | Bellaire, Texas | $61,153 to $91,729 | 2026-11-07 |  |
-| UnitedHealth Group | [Registered Nurse RN Case Manager](https://careers.unitedhealthgroup.com/job/bellaire/registered-nurse-rn-case-manager/34088/102958118416) | Bellaire, Texas | $38.09 to $68.56/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Registered Nurse RN](https://careers.unitedhealthgroup.com/job/bellaire/registered-nurse-rn/34088/102958123344) | Bellaire, Texas | $38.09 to $68.56/hour | 2026-11-07 |  |
-| UnitedHealth Group | [RN Clinical Manager](https://careers.unitedhealthgroup.com/job/bellaire/rn-clinical-manager/34088/102958118048) | Bellaire, Texas | $80,892 to $121,338 | 2026-11-07 |  |
-| UnitedHealth Group | [RN Registered Nurse Home Health $15K Sign on Bonus](https://careers.unitedhealthgroup.com/job/burlington/rn-registered-nurse-home-health-15k-sign-on-bonus/34088/102958123840) | Burlington, North Carolina | $34.46 to $62.03/hour | 2026-11-07 |  |
-| UnitedHealth Group | [RN Registered Nurse Home Health $15K Sign on Bonus](https://careers.unitedhealthgroup.com/job/burlington/rn-registered-nurse-home-health-15k-sign-on-bonus/34088/102958125040) | Burlington, North Carolina | $34.46 to $62.03/hour | 2026-11-07 |  |
-| UnitedHealth Group | [RN Registered Nurse Home Health](https://careers.unitedhealthgroup.com/job/carrollton/rn-registered-nurse-home-health/34088/102958117408) | Carrollton, Georgia | $36.27 to $65.29/hour | 2026-11-07 |  |
-| UnitedHealth Group | [RN Registered Nurse Home Health](https://careers.unitedhealthgroup.com/job/carrollton/rn-registered-nurse-home-health/34088/102958117696) | Carrollton, Georgia | $36.27 to $65.29/hour | 2026-11-07 |  |
-| UnitedHealth Group | [LPN Licensed Practical Nurse Home Health](https://careers.unitedhealthgroup.com/job/cedartown/lpn-licensed-practical-nurse-home-health/34088/102958117632) | Cedartown, Georgia | $22.39 to $40.30/hour | 2026-11-07 |  |
-| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/charlotte/rn-case-manager/34088/102958125008) | Charlotte, North Carolina | $36.27 to $65.29/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Home Health RN Bonus Available](https://careers.unitedhealthgroup.com/job/charlton/home-health-rn-bonus-available/34088/102958119056) | Charlton, Massachusetts | $82,995 to $124,492 | 2026-11-07 |  |
-| UnitedHealth Group | [Home Health RN Weekend Schedule](https://careers.unitedhealthgroup.com/job/chesapeake/home-health-rn-weekend-schedule/34088/102958122192) | Chesapeake, Virginia | $71,677 to $107,516 | 2026-11-07 |  |
-| UnitedHealth Group | [Licensed Practical Nurse - Part Time](https://careers.unitedhealthgroup.com/job/claremore/licensed-practical-nurse-part-time/34088/102958121296) | Claremore, Oklahoma | $23.63 to $42.53/hour | 2026-11-07 |  |
-| UnitedHealth Group | [PT Physical Therapist Home Health](https://careers.unitedhealthgroup.com/job/clinton/pt-physical-therapist-home-health/34088/102958120256) | Clinton, South Carolina | $80,864 to $121,296 | 2026-11-07 |  |
-| UnitedHealth Group | [Occupational Therapist Home Health](https://careers.unitedhealthgroup.com/job/college-park/occupational-therapist-home-health/34088/102958117264) | College Park, Georgia | $84,442 to $126,664 | 2026-11-07 |  |
-| UnitedHealth Group | [PT Physical Therapist Home Health](https://careers.unitedhealthgroup.com/job/college-park/pt-physical-therapist-home-health/34088/102958117376) | College Park, Georgia | $85,120 to $127,680 | 2026-11-07 |  |
-| UnitedHealth Group | [PTA Physical Therapist Assistant Home Health](https://careers.unitedhealthgroup.com/job/columbus/pta-physical-therapist-assistant-home-health/34088/102958120720) | Columbus, Georgia | $52,417 to $78,625 | 2026-11-07 |  |
-| UnitedHealth Group | [Licensed Practical Nurse](https://careers.unitedhealthgroup.com/job/covington/licensed-practical-nurse/34088/102958120928) | Covington, Georgia | $24.87 to $44.77/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Admit RN Home Health Weekends](https://careers.unitedhealthgroup.com/job/crestview-hills/admit-rn-home-health-weekends/34088/102958117984) | Crestview Hills, Kentucky | $67,905 to $101,857 | 2026-11-07 |  |
-| UnitedHealth Group | [LPN Licensed Practical Nurse Home Health](https://careers.unitedhealthgroup.com/job/crestview/lpn-licensed-practical-nurse-home-health/34088/102958124896) | Crestview, Florida | $23.63 to $42.53/hour | 2026-11-07 |  |
-| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/crestview/rn-case-manager/34088/102958117536) | Crestview, Florida | $34.46 to $62.03/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Clinical Administrative Coordinator](https://careers.unitedhealthgroup.com/job/dallas/clinical-administrative-coordinator/34088/102958119200) | Dallas, Texas | $18 to $32/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Medical Social Worker MSW](https://careers.unitedhealthgroup.com/job/dallas/medical-social-worker-msw/34088/102958120016) | Dallas, Texas | $31.90 to $47.90/hour | 2026-11-07 |  |
-| UnitedHealth Group | [RN Clinical Manager Home Health](https://careers.unitedhealthgroup.com/job/durham/rn-clinical-manager-home-health/34088/102958122640) | Durham, North Carolina | $80,892 to $121,338 | 2026-11-07 |  |
-| UnitedHealth Group | [Part-time RN ASC PACU Edmonds](https://careers.unitedhealthgroup.com/job/edmonds/part-time-rn-asc-pacu-edmonds/34088/102961794288) | Edmonds, Washington | $29 to $52/hour | 2026-11-07 |  |
-| UnitedHealth Group | [PRN License Physical Therapist Home Health](https://careers.unitedhealthgroup.com/job/fayetteville/prn-license-physical-therapist-home-health/34088/102958122720) | Fayetteville, North Carolina | $80,864 to $121,296 | 2026-11-07 |  |
-| UnitedHealth Group | [Weekend Registered Nurse Home Health- Sign on bonus $15K](https://careers.unitedhealthgroup.com/job/fayetteville/weekend-registered-nurse-home-health-sign-on-bonus-15k/34088/102958122816) | Fayetteville, North Carolina | $71,677 to $107,516 | 2026-11-07 |  |
-| UnitedHealth Group | [RN Registered Nurse Home Health $15K Sign on Bonus](https://careers.unitedhealthgroup.com/job/franklinton/rn-registered-nurse-home-health-15k-sign-on-bonus/34088/102958123584) | Franklinton, North Carolina | $36.27 to $65.29/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Registered Nurse Home Health Central AA County](https://careers.unitedhealthgroup.com/job/glen-burnie/registered-nurse-home-health-central-aa-county/34088/102958118016) | Glen Burnie, Maryland | $38.09 to $68.56/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Home Health Physical Therapist, Northern Neck](https://careers.unitedhealthgroup.com/job/gloucester-point/home-health-physical-therapist-northern-neck/34088/102958122384) | Gloucester, Virginia | $80,864 to $121,296 | 2026-11-07 |  |
-| UnitedHealth Group | [Weekend Home Health RN, Northern Neck, OASIS Experience Required](https://careers.unitedhealthgroup.com/job/gloucester-point/weekend-home-health-rn-northern-neck-oasis-experience-required/34088/102958122576) | Gloucester, Virginia | $71,677 to $107,516 | 2026-11-07 |  |
-| UnitedHealth Group | [Physical Therapist](https://careers.unitedhealthgroup.com/job/gray/physical-therapist/34088/102958121376) | Gray, Georgia | $28 to $50.40/hour | 2026-11-07 |  |
-| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/gray/rn-case-manager/34088/102958121360) | Gray, Georgia | $32.65 to $58.76/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/great-neck/associate-patient-care-coordinator/34088/102958121840) | Great Neck, New York | $16 to $29/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Licensed Practical Nurse](https://careers.unitedhealthgroup.com/job/harrisburg/licensed-practical-nurse/34088/102958120320) | Harrisburg, Pennsylvania | $23.63 to $42.53/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Registered Nurse, Home Health Weekend (Fri-Mon)](https://careers.unitedhealthgroup.com/job/harrisburg/registered-nurse-home-health-weekend-fri-mon/34088/102958120944) | Harrisburg, Pennsylvania | $71,677 to $107,516 | 2026-11-07 |  |
-| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/hawkinsville/rn-case-manager/34088/102958121568) | Hawkinsville, Georgia | $34.46 to $62.03/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Medical Assistant](https://careers.unitedhealthgroup.com/job/hawthorne/medical-assistant/34088/102958122608) | Hawthorne, California | $16 to $29/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Licensed Practical Nurse FT](https://careers.unitedhealthgroup.com/job/hinesville/licensed-practical-nurse-ft/34088/102958124416) | Hinesville, Georgia | $22.39 to $40.30/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/hoboken/associate-patient-care-coordinator/34088/102958124544) | Hoboken, New Jersey | $16 to $29/hour | 2026-11-07 |  |
-| UnitedHealth Group | [LPN Licensed Practical Nurse Home Health $5k](https://careers.unitedhealthgroup.com/job/kennesaw/lpn-licensed-practical-nurse-home-health-5k/34088/102958121696) | Kennesaw, Georgia | $24.87 to $44.77/hour | 2026-11-07 |  |
-| UnitedHealth Group | [PTA Physical Therapist Assistant Home Health](https://careers.unitedhealthgroup.com/job/kennesaw/pta-physical-therapist-assistant-home-health/34088/102958121728) | Kennesaw, Georgia | $58,241 to $87,361 | 2026-11-07 |  |
-| UnitedHealth Group | [Medical Social Work Hospice PRN](https://careers.unitedhealthgroup.com/job/kimball/medical-social-work-hospice-prn/34088/102958124256) | Kimball, Tennessee | $30.35 to $45.50/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Nurse Practitioner Hospice PRN](https://careers.unitedhealthgroup.com/job/kimball/nurse-practitioner-hospice-prn/34088/102958124224) | Kimball, Tennessee | $46 to $69/hour | 2026-11-07 |  |
-| UnitedHealth Group | [HSPC Afterhours Triage Nurse](https://careers.unitedhealthgroup.com/job/kingsport/hspc-afterhours-triage-nurse/34088/102958119472) | Kingsport, Tennessee | $34.80 to $52.25/hour | 2026-11-07 |  |
-| UnitedHealth Group | [HSPC Afterhours Triage Nurse](https://careers.unitedhealthgroup.com/job/kingsport/hspc-afterhours-triage-nurse/34088/102958121120) | Kingsport, Tennessee | $34.80 to $52.25/hour | 2026-11-07 |  |
-| UnitedHealth Group | [LPN Patient Services Coordinator](https://careers.unitedhealthgroup.com/job/kingsport/lpn-patient-services-coordinator/34088/102958123232) | Kingsport, Tennessee | $20 to $30/hour | 2026-11-07 |  |
-| UnitedHealth Group | [HSPC Afterhours Triage Nurse - Remote](https://careers.unitedhealthgroup.com/job/knoxville/hspc-afterhours-triage-nurse-remote/34088/102958120896) | Knoxville, Tennessee (remote) | $34.80 to $52.25/hour | 2026-11-07 |  |
-| UnitedHealth Group | [HSPC Afterhours Triage Nurse](https://careers.unitedhealthgroup.com/job/knoxville/hspc-afterhours-triage-nurse/34088/102958119392) | Knoxville, Tennessee | $34.80 to $52.25/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Physical Therapist (York County/Dover Area)](https://careers.unitedhealthgroup.com/job/lancaster/physical-therapist-york-county-dover-area/34088/102958123488) | Lancaster, Pennsylvania | $85,120 to $127,680 | 2026-11-07 |  |
-| UnitedHealth Group | [Nurse Practitioner - PRN](https://careers.unitedhealthgroup.com/job/largo/nurse-practitioner-prn/34088/102958124144) | Largo, Maryland |  | 2026-11-07 |  |
-| UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/las-vegas/associate-patient-care-coordinator/34088/102961794240) | Las Vegas, Nevada | $16 to $29/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Licensed Practical Nurse- sign on bonus $10K](https://careers.unitedhealthgroup.com/job/leland/licensed-practical-nurse-sign-on-bonus-10k/34088/102958123600) | Leland, North Carolina | $22.39 to $40.30/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Registered Nurse RN Clinical Manager](https://careers.unitedhealthgroup.com/job/lubbock/registered-nurse-rn-clinical-manager/34088/102958118832) | Lubbock, Texas | $69,336 to $104,004 | 2026-11-07 |  |
-| UnitedHealth Group | [Hospice Nurse Practitioner PRN (Macon, GA)](https://careers.unitedhealthgroup.com/job/macon/hospice-nurse-practitioner-prn-macon-ga/34088/102958123664) | Macon, Georgia | $43.58 to $65.37/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Clinical Manager](https://careers.unitedhealthgroup.com/job/marlborough/clinical-manager/34088/102958123088) | Marlborough, Massachusetts | $88,596 to $132,894 | 2026-11-07 |  |
-| UnitedHealth Group | [RN Case Manager Hospice 10K Sign-on Bonus - Marlborough, MA](https://careers.unitedhealthgroup.com/job/marlborough/rn-case-manager-hospice-10k-sign-on-bonus-marlborough-ma/34088/102958119120) | Marlborough, Massachusetts | $91,540 to $137,310 | 2026-11-07 |  |
-| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/monongahela/rn-case-manager/34088/102958124816) | Monongahela, Pennsylvania | $36.27 to $65.29/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Physical Therapist Assistant](https://careers.unitedhealthgroup.com/job/monroe/physical-therapist-assistant/34088/102958121760) | Monroe, Georgia | $28 to $50.40/hour | 2026-11-07 |  |
-| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/morgantown/rn-case-manager/34088/102958123280) | Morgantown, West Virginia | $75,620 to $113,430 | 2026-11-07 |  |
-| UnitedHealth Group | [HH Graduate RN, Licensed](https://careers.unitedhealthgroup.com/job/ocala/hh-graduate-rn-licensed/34088/102958118288) | Ocala, Florida | $32.65 to $58.76/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Licensed Practical Nurse - Part Time](https://careers.unitedhealthgroup.com/job/omaha/licensed-practical-nurse-part-time/34088/102958121264) | Omaha, Nebraska | $23.63 to $42.53/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Licensed Practical Nurse](https://careers.unitedhealthgroup.com/job/omaha/licensed-practical-nurse/34088/102958121056) | Omaha, Nebraska | $23.63 to $42.53/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Medical Social Worker - PRN](https://careers.unitedhealthgroup.com/job/omaha/medical-social-worker-prn/34088/102958120736) | Omaha, Nebraska | $30.35 to $45.50/hour | 2026-11-07 |  |
-| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/port-charlotte/rn-case-manager/34088/102958124640) | Port Charlotte, Florida | $34.46 to $62.03/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Physical Therapist Assistant - $2500 Bonus Availab](https://careers.unitedhealthgroup.com/job/portsmouth/physical-therapist-assistant-2500-bonus-availab/34088/102958118560) | Portsmouth, New Hampshire | $61,153 to $91,729 | 2026-11-07 |  |
-| UnitedHealth Group | [Physical Therapist](https://careers.unitedhealthgroup.com/job/portsmouth/physical-therapist/34088/102958121968) | Portsmouth, New Hampshire | $89,376 to $134,064 | 2026-11-07 |  |
-| UnitedHealth Group | [Medical Social Worker](https://careers.unitedhealthgroup.com/job/pulaski/medical-social-worker/34088/102958122416) | Pulaski, Virginia | $30.35 to $45.50/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Occupational Therapy Assistant Home Health](https://careers.unitedhealthgroup.com/job/raleigh/occupational-therapy-assistant-home-health/34088/102958122272) | Raleigh, North Carolina | $53,528 to $80,292 | 2026-11-07 |  |
-| UnitedHealth Group | [Licensed Practical Nurse - Redding, CA](https://careers.unitedhealthgroup.com/job/redding/licensed-practical-nurse-redding-ca/34088/102958122288) | Redding, California | $25.30 to $38/hour | 2026-11-07 |  |
-| UnitedHealth Group | [RN Hospice Nurse](https://careers.unitedhealthgroup.com/job/roseburg/rn-hospice-nurse/34088/102958124528) | Roseburg, Oregon | $38.25 to $57.40/hour | 2026-11-07 |  |
-| UnitedHealth Group | [Physical Therapist Assistant](https://careers.unitedhealthgroup.com/job/shelton/physical-therapist-assistant/34088/102958121600) | Shelton, Connecticut | $58,241 to $87,361 | 2026-11-07 |  |
-| UnitedHealth Group | [RN Case Manager](https://careers.unitedhealthgroup.com/job/shelton/rn-case-manager/34088/102958123984) | Shelton, Connecticut | $39.90 to $71.82/hour | 2026-11-07 |  |
