@@ -1,11 +1,14 @@
 # Internships and co-ops: Design and creative
 
-170 open, newest first (by the date the scraper first saw them), updated 2026-11-11.
+171 open, newest first (by the date the scraper first saw them), updated 2026-11-12.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Bask Health | [Creative Engineering Intern](https://apply.workable.com/j/24DD93E3BA) | United States |  | 2026-11-12 |  |
+| Riot Games | [Game Producer Intern, Teamfight Tactics (Masters/PhD) - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356876?gh_jid=8356876) · Summer 2027 | Los Angeles, USA | $54.62/hour | 2026-11-12 | no visa sponsorship |
+| Riot Games | [Technical Game Design Intern - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525) · Summer 2027 | Los Angeles, USA | $44.86/hour | 2026-11-12 | no visa sponsorship |
 | Riot Games | [Motion Graphics Art Intern - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356815?gh_jid=8356815) · Summer 2027 | Los Angeles, USA | $36.49/hour | 2026-11-11 | no visa sponsorship |
 | Associated Students, Inc. | [Audio Visual Student Technician II](https://apply.workable.com/j/D1E696BDD6) | San Luis Obispo, California, United States | $17.90/hour | 2026-11-10 |  |
 | Duolingo | [Product Designer, Thrive Intern](https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002) · Fall 2028 | Pittsburgh, PA | $43 to $45/hour | 2026-11-10 |  |
@@ -65,7 +68,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | KnowBe4 | [Multimedia Designer Summer Internship (Hybrid)](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) · Summer | Clearwater, Florida (hybrid) |  | 2026-11-04 |  |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | [Design Intern](https://job-boards.greenhouse.io/fccincinnati/jobs/8083877003) | Cincinnati, OH |  | 2026-11-04 |  |
 | SharkNinja | [Spring 2027: HW UX/UI Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721298006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
-| Online Labels Group | [Apprentice Flexographic Press Operator](https://online-labels.breezy.hr/p/8314ae86dce7-apprentice-flexographic-press-operator) | 2001 E Lake Mary Blvd Sanford, FL | $16/hour | 2026-11-04 |  |
 | Crystal Dynamics | [Presentation Animator Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746883005) · Spring 2027 | Remote/Flexible - United States | $20 to $23/hour | 2026-11-04 |  |
 | Pencor Services | [Spring Creative News Internship](https://pencor.bamboohr.com/careers/1093) · Spring | Lehighton, Pennsylvania, United States |  | 2026-11-04 |  |
 | SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
@@ -77,7 +79,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | PrizePicks | [UX Research Intern - Spring 2027](http://prizepicks.com/position?gh_jid=8031331003) · Spring 2027 | Atlanta, Georgia, United States | $30/hour | 2026-11-04 | no visa sponsorship |
 | Nominal | [Product Designer - Internship (Summer 2027)](https://jobs.gem.com/nominal/am9icG9zdDoPXJ5iXKNTyqm8k7nUAyu4) · Summer 2027 | New York, NY, Los Angeles, CA, Austin, TX |  | 2026-11-04 | US citizens/persons only |
 | Anduril Industries | [2027 Product Designer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) · Summer 2027 | Costa Mesa, California, United States | $34 to $42/hour | 2026-11-04 | US citizens/persons only |
-| Studio Museum in Harlem | [Spring 2027 Graphic Design Intern](https://ats.rippling.com/studiomuseumcareers/jobs/e7eecd45-dddc-45c1-8454-f4311928ec63) · Spring 2027 | New York, NY |  | 2026-11-04 |  |
 | Versant | [Versant Summer Internships: Sports Creative (Golf Channel, USA Sports)](https://jobs.smartrecruiters.com/Versant3/744000154165679-versant-summer-internships-sports-creative-golf-channel-usa-sports-) · Summer 2027 | Stamford, CT, us | $19/hour | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Audiovisual Systems Design Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441252008) · Summer 2027 | Cleveland, Ohio, United States; Los Angeles, California, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
 | SeatGeek | [UX Design - Internship](https://seatgeek.com/jobs/8248125?gh_jid=8248125) | New York, New York | $50/hour | 2026-11-04 |  |

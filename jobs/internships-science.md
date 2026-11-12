@@ -1,11 +1,12 @@
 # Internships and co-ops: Science and research
 
-151 open, newest first (by the date the scraper first saw them), updated 2026-11-11.
+150 open, newest first (by the date the scraper first saw them), updated 2026-11-12.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| HPE | [HPE Labs - Systems Architecture Lab Research Associate Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Systems-Architecture-Lab-Research-Associate-Intern_1218728) | Milpitas, California, United States of America | $90,002 to $193,752 | 2026-11-12 |  |
 | Entegris | [Analytical Chemist Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Danbury-CT/Analytical-Chemist-Intern_REQ-15855) · Summer 2027 | Danbury, CT | $20 to $30/hour | 2026-11-11 |  |
 | Entegris | [Microanalysis Scientist Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Microanalysis-Scientist-Intern_REQ-15842) · Summer 2027 | Billerica, MA | $20 to $30/hour | 2026-11-11 |  |
 | Entegris | [Organic Scientist Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Organic-Scientist-Intern_REQ-15872) · Summer 2027 | Billerica, MA | $20 to $30/hour | 2026-11-11 |  |
@@ -51,13 +52,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AbbVie | [2027 Formulation Sciences Intern (PhD)](https://jobs.smartrecruiters.com/AbbVie/3743990016617271-2027-formulation-sciences-intern-phd-) | North Chicago, IL, us |  | 2026-11-04 |  |
 | AbbVie | [2027 Synthetic Chemistry Intern (PhD)](https://jobs.smartrecruiters.com/AbbVie/3743990016617336-2027-synthetic-chemistry-intern-phd-) | North Chicago, IL, us |  | 2026-11-04 |  |
 | Veolia Environnement SA | [Membrane R&D Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159693644-membrane-r-d-intern) | Minnetonka, MN, us | $25/hour | 2026-11-04 | no visa sponsorship |
-| Eurofins | [Intern](https://jobs.smartrecruiters.com/Eurofins/744000159388175-intern) | Lancaster, PA, us |  | 2026-11-04 |  |
 | Tenet Healthcare | [Cath Lab Tech Extern](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603027812) | Rock Hill, SC, United States |  | 2026-11-04 |  |
 | Environmental Science Associates | [Intern - Florida Environmental Internship (Winter and Summer 2027)](https://job-boards.greenhouse.io/environmentalscienceassociates/jobs/5457591008) · Summer 2027 | Tampa, Florida, United States |  | 2026-11-04 |  |
 | Capable Labs | [Chemistry Intern](https://jobs.ashbyhq.com/Capable/89475683-3915-4971-8c8c-19eeabb869ac) | San Francisco |  | 2026-11-04 |  |
 | Continental Group Sector ContiTech | [CO-OP Engineering Lab](https://jobs.smartrecruiters.com/ContinentalGroupSectorContiTech/744000158575235-co-op-engineering-lab) | Marysville, Ohio, us |  | 2026-11-04 |  |
 | Flagship Pioneering Co-Op Program | [Tilde Bio: Bioconjugation Chemistry Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8919167002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
-| LLNL | [Center for Global Security Research (CGSR) Undergraduate Research Associate - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016483776-center-for-global-security-research-cgsr-undergraduate-research-associate-summer-2027) · Summer 2027 | Livermore, CA, us (hybrid) | $23.26 to $31.62/hour | 2026-11-04 | clearance |
 | AbbVie | [2027 PDS&T Bioassay Scientist Co-Op (June - Dec)](https://jobs.smartrecruiters.com/AbbVie/3743990016415816-2027-pds-t-bioassay-scientist-co-op-june-dec-) | Irvine, CA, us |  | 2026-11-04 |  |
 | AbbVie | [2027 Biologics Analytical Development Co-Op (July-Dec)](https://jobs.smartrecruiters.com/AbbVie/3743990016415256-2027-biologics-analytical-development-co-op-july-dec-) | Waltham, MA, us |  | 2026-11-04 |  |
 | Benchmark Space Systems | [Propellant Chemistry Intern](https://benchmark-space-systems-inc.breezy.hr/p/9c79847f79fb-propellant-chemistry-intern) | Pleasanton, CA |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |

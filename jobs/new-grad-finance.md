@@ -1,11 +1,45 @@
 # New grad and entry level: Finance, accounting and banking
 
-2,796 open, newest first (by the date the scraper first saw them), updated 2026-11-11. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,731 open, newest first (by the date the scraper first saw them), updated 2026-11-12. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Bank of America | [Financial Solutions Advisor - Columbus Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Columbus/Financial-Solutions-Advisor---Columbus-Market_26042127) | Columbus | $70,000 to $80,000 | 2026-11-12 |  |
+| Huntington Bank | [Customer Experience Banker - Baton Rouge Airline Hwy](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Baton-Rouge-LA/Customer-Experience-Banker---Baton-Rouge-Airline-Hwy_R0077717) | Baton Rouge, LA |  | 2026-11-12 | no visa sponsorship |
+| Jobgether | [Accounts Payable Clerk](https://jobs.lever.co/jobgether/f6c06c9e-9bd6-4e04-a2ea-08e8426eda5a) | US | $21 to $26/hour | 2026-11-12 |  |
+| Jobgether | [Payment and Billing Coordinator](https://jobs.lever.co/jobgether/ee3c4ea5-716a-4571-8675-847606cb7268) | US (remote) |  | 2026-11-12 |  |
+| JPMorgan Chase | [Associate Relationship Banker - Hazlet Branch - Hazlet, NJ](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808010) | Hazlet, NJ, United States |  | 2026-11-12 |  |
+| Kiewit | [Finance Analyst 1 - Kiewit Energy District](https://kiewitcareers.kiewit.com/job/Houston-Finance-Analyst-1-Kiewit-Energy-District-TX-77001/1426885000/) | Houston, TX, US |  | 2026-11-12 | no visa sponsorship |
+| M&T Bank | [Universal Banker - Arcade Branch](https://mtb.wd5.myworkdayjobs.com/MTB/job/Arcade-NY/Universal-Banker---Arcade-Branch_R91364-1) | Arcade, NY | $18.68 to $31.14/hour | 2026-11-12 |  |
+| TD Bank | [Relationship Banker I, East Greenbush (Upstate NY)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/East-Greenbush-New-York/Relationship-Banker-I--East-Greenbush--Upstate-NY-_R_1521980) | East Greenbush, New York | $22.50 to $29/hour | 2026-11-12 |  |
+| TD Bank | [Associate Banker II - Newark/Market St (40 hour) Preferred Bilingual/Spanish or Portuguese](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Newark-New-Jersey/Associate-Banker-II---Newark-Market-St--40-hour--Preferred-Bilingual-Spanish-or-Portuguese_R_1521967) | Newark, New Jersey | $23.75 to $31/hour | 2026-11-12 |  |
+| Truist | [Association Services Commercial Specialist I](https://careers.truist.com/us/en/job/R0121261) | Saint Petersburg, Florida, USA |  | 2026-11-12 |  |
+| Aso | [Tax Associate](https://jobs.ashbyhq.com/aso-careers/0892aeaa-15b4-452c-bb33-1b04b1b59826) | Indianapolis, IN |  | 2026-11-12 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor - Utah Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Salt-Lake-City/Merrill-Advisor-Development-Program---Financial-Advisor---Utah-Market_26042096) | Salt Lake City |  | 2026-11-12 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor: Houston Galleria Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Houston/Merrill-Advisor-Development-Program---Financial-Advisor--Houston-Galleria-Market_26042095) | Houston |  | 2026-11-12 |  |
+| Bridgewater Associates | [Client Investment Research Analyst, Investor Relations Team](https://job-boards.greenhouse.io/bridgewater89/jobs/8937950002) | New York City | $130,000 to $260,000 | 2026-11-12 |  |
+| Chubb | [NA Financial Ops Analyst](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38562) | Richmond, IN, United States |  | 2026-11-12 |  |
+| CommonSpirit Health (St. Luke's Health) | [Insurance Services Rep](https://www.commonspirit.careers/job/tacoma/insurance-services-rep/35300/97578246288) | TACOMA, WA |  | 2026-11-12 |  |
+| CVS Health | [Financial Operations Analyst, POS Rebate](https://jobs.cvshealth.com/us/en/job/R1095887) | 3100 Sanders Road, Northbrook, Illinois,United States | $43,888 to $93,574 | 2026-11-12 |  |
+| GP Fund Solutions | [Financial Accountant](https://gpfs.breezy.hr/p/52c72dbe553b-financial-accountant) | Latham, NY |  | 2026-11-12 |  |
+| Grant Thornton | [Associate, Tax & Audit Marketing](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116327) | Chicago, IL, United States | $60,000 to $90,000 | 2026-11-12 |  |
+| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Tacoma-WA/Personal-Banker_R-41821) | Tacoma, WA | $20.67 to $31.25/hour | 2026-11-12 |  |
+| KeyBank | [Personal Banker - Bilingual Spanish Preferred](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Trexlertown-PA/Personal-Banker_R-42118-1) | Trexlertown, PA | $20.67 to $31.25/hour | 2026-11-12 |  |
+| Maven | [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8352763) | Chicago | $150,000 to $190,000 | 2026-11-12 |  |
+| SEAKR Engineering | [Accounts Payable Specialist](https://jobs.smartrecruiters.com/SEAKREngineering/744000161173990-accounts-payable-specialist) | Centennial, CO, us (hybrid) | $23 to $28/hour | 2026-11-12 | US citizens/persons only |
+| SIG | [Trading Assistant / Private Placements](https://careers.sig.com/careers-home/jobs/11710) | Bala Cynwyd (Philadelphia Area), Pennsylvania |  | 2026-11-12 |  |
+| Smiths Group | [Temporary Accounts Payable (AP) Clerk - Minimum 12 weeks with potential to become permanent](https://jobs.smartrecruiters.com/SmithsGroup2/744000161089294-temporary-accounts-payable-ap-clerk-minimum-12-weeks-with-potential-to-become-permanent) | 93 Lexington Drive, Laconia, NEW HAMPSHIRE, us |  | 2026-11-12 |  |
+| TD Bank | [Relationship Banker I - Freehold South](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Freehold-New-Jersey/Relationship-Banker-I---Freehold-South_R_1521638) | Freehold, New Jersey | $22.50 to $29/hour | 2026-11-12 |  |
+| TD Bank | [Associate Banker II/Haddonfield(30hrs)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Haddonfield-New-Jersey/Associate-Banker-II-Haddonfield-30hrs-_R_1521733) | Haddonfield, New Jersey | $22 to $27.75/hour | 2026-11-12 |  |
+| Texas Tech University | [Student Financial Aid Analyst - TTU Online](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=927522) | Lubbock, Texas, US | $17.69 to $28.32/hour | 2026-11-12 |  |
+| Trimble | [Financial Analyst - Rotational Development Program (July 2027)](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Financial-Analyst---Rotational-Development-Program--July-2027-_R57669) | US - CO, Westminster | $58,300 to $80,100 | 2026-11-12 |  |
+| Trimble | [Financial Analyst - Rotational Development Program (July 2027)](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Financial-Analyst---Rotational-Development-Program--July-2027-_R57670) | US - CO, Westminster | $58,300 to $80,100 | 2026-11-12 |  |
+| UnitedHealth Group | [Insurance Follow up Representative](https://careers.unitedhealthgroup.com/job/las-vegas/insurance-follow-up-representative/34088/103175592784) | Las Vegas, Nevada (remote) | $16 to $29/hour | 2026-11-12 |  |
+| AlphaX | [Tax CPA - High-Net-Worth Tax & Advisory](https://apply.workable.com/j/4434C80587) | Paramus, New Jersey, United States |  | 2026-11-12 |  |
+| Asure Software | [Tax Filing Specialist I](https://asuresoftware.bamboohr.com/careers/1184) | Santa Ana, California, United States |  | 2026-11-12 | no visa sponsorship |
+| Goldman Sachs | [Asset & Wealth Management, Private Wealth Management, Goldman Sachs Trust Company, Assistant Trust Officer, As](https://higher.gs.com/roles/176907) | Wilmington, DE, United States |  | 2026-11-12 |  |
 | JPMorgan Chase | [Relationship Banker - Torrance Del Amo - Torrance, CA](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793596) | Torrance, CA, United States |  | 2026-11-11 |  |
 | JPMorgan Chase | [Relationship Banke - Simi Valley Market - Thousand Oaks, CA and Surrounding Areas](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807634) | Thousand Oaks, CA, United States |  | 2026-11-11 |  |
 | JPMorgan Chase | [Relationship Banker - Fresno Market, - Fresno, CA](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808056) | Fresno, CA, United States |  | 2026-11-11 |  |
@@ -128,7 +162,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Veridian Service Partners | [Financial Analyst](https://ats.rippling.com/veridian-service-partners/jobs/3ede68b4-73cd-4ada-a230-386c31ac49be) | Dallas, TX |  | 2026-11-11 |  |
 | Wells Fargo | [Commercial Banking Portfolio Coordinator](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Commercial-Banking-Portfolio-Coordinator_R-585490) | CHARLOTTE, NC |  | 2026-11-11 | no visa sponsorship |
 | Capital One | [Loan Closing Associate - Commercial Bank](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Loan-Closing-Associate---Commercial-Bank_R1005447-1) | Plano, TX |  | 2026-11-11 | no visa sponsorship |
-| Distro | [Payroll Specialist](https://jobs.lever.co/distro/a4ee2cd4-294a-45e3-b0fc-5d1bc4af56b0) | San Antonio, Texas |  | 2026-11-11 |  |
 | Distro | [Payroll Specialist](https://jobs.lever.co/distro/c59062af-2fea-44c3-bea8-853573ca2862) | Chandler, Arizona |  | 2026-11-11 |  |
 | Endeavor | [Endeavor Catalyst Finance: Portfolio Operations Associate](https://careers.endeavor.org/jobs/8684625-endeavor-catalyst-finance-portfolio-operations-associate) | New York, United States (hybrid) | $75,000 to $80,000 | 2026-11-11 | no visa sponsorship |
 | NextEra Energy | [Financial Analyst I](https://jobs.nexteraenergy.com/job/Juno-Beach-Financial-Analyst-I-FL-33408/1444241800/) | Juno Beach, FL, US |  | 2026-11-11 |  |
@@ -206,7 +239,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Marsh McLennan | [Actuarial Analyst](https://mmc.wd1.myworkdayjobs.com/MMC/job/Philadelphia---15th/Actuarial-Analyst_R_362120-2) | Philadelphia - 15th (hybrid) |  | 2026-11-10 |  |
 | Mizuho Americas | [Investment & Corporate Banking – Power & Utilities, Analyst](https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/New-York-NY-1271-AOA6th-Ave/Investment---Corporate-Banking---Power---Utilities--Analyst_R7531) | New York, NY (1271 AOA/6th Ave) | $110,000 to $130,000 | 2026-11-10 | no visa sponsorship |
 | Money Mart | [Financial Service Representative](https://job-boards.greenhouse.io/moneymart/jobs/5477435008) | Casa Grande, AZ, United States |  | 2026-11-10 |  |
-| PDI Technologies | [Accounting Analyst I](https://jobs.lever.co/pditechnologies/641ced27-b65e-42e8-8cd2-6bac60135612) | Temple, TX |  | 2026-11-10 |  |
 | RBC | [Analyst, Global Investment Banking, Equity-Linked Capital Markets Origination](https://jobs.rbc.com/ca/en/job/R-0000192311) | New York, New York, United States of America | $110,000 | 2026-11-10 |  |
 | Regions Financial | [Relationship Banker I - Part-Time - Signal Mountain](https://careers.regions.com/us/en/job/R107509) | Signal Mountain, Tennessee, United States of America | $37,621.05 to $44,536 | 2026-11-10 |  |
 | Regions Financial | [Relationship Banker I - Hapeville Branch](https://careers.regions.com/us/en/job/R107511) | Hapeville, Georgia, United States of America | $41,581.16 to $49,224 | 2026-11-10 |  |
@@ -256,7 +288,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Goldman Sachs | [Controllers / Analyst / New York / New Jersey](https://higher.gs.com/roles/187873) | New York, NY, United States; Jersey City, NJ, United States | $75,000 to $105,000 | 2026-11-09 |  |
 | Goldman Sachs | [Controllers, Analyst - Salt Lake City](https://higher.gs.com/roles/187877) | Salt Lake City, UT, United States |  | 2026-11-09 |  |
 | Bank of America | [Merrill Advisor Development Program - Financial Advisor: Baltimore & Associates Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Baltimore/Merrill-Advisor-Development-Program---Financial-Advisor--Baltimore---Associates-Market_26041253) | Baltimore | $80,000 to $90,000 | 2026-11-07 |  |
-| Ascension | [Claims Processing Assistant Neurosurgery](https://jobs.ascension.org/us/en/job/28050) | Jacksonville, FL, US |  | 2026-11-07 |  |
 | JPMorgan Chase | [Relationship Banker - Minnesota Northern Market](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807193) | Plymouth, MN, United States |  | 2026-11-07 |  |
 | JPMorgan Chase | [Relationship Banker - SC St Louis Market - Frontenac, MO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807236) | St Louis, MO, United States |  | 2026-11-07 |  |
 | JPMorgan Chase | [Relationship Banker - Fair Oaks and California - Pasadena, CA](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807583) | Pasadena, CA, United States |  | 2026-11-07 |  |
@@ -269,9 +300,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bank of America | [Financial Solutions Advisor - Austin Area](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Austin/Financial-Solutions-Advisor---Austin-Area_26041446) | Austin |  | 2026-11-07 |  |
 | Bank of America | [Merrill Advisor Development Program - Financial Advisor: Greater Arizona Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Phoenix/Merrill-Advisor-Development-Program---Financial-Advisor--Greater-Arizona-Market_26041415) | Phoenix |  | 2026-11-07 |  |
 | Bank of America | [Financial Solutions Advisor - West Houston Area](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Houston/Financial-Solutions-Advisor---West-Houston-Area_26041436) | Houston |  | 2026-11-07 |  |
-| Bertelsmann | [Accounting Assistant - (Open to remote)](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160279159-accounting-assistant-open-to-remote-) | New York, New York (NY), us (remote) | $55,000 | 2026-11-07 |  |
-| Carlisle | [Financial Analyst I](https://jobs.smartrecruiters.com/Carlisle/3743990016700776-financial-analyst-i-) | Carlisle, Pennsylvania, us (hybrid) |  | 2026-11-07 |  |
-| Christus Health | [Accountant I - Accounting](https://careers.christushealth.org/opportunity/accountant-i-accounting-375869) | Irving, TX, US |  | 2026-11-07 |  |
 | Cigna | [Risk & Underwriting Leadership Development Program Analyst (RULDP) January Class](https://jobs.thecignagroup.com/us/en/job/26010105) | Bloomfield, Connecticut, United States of America |  | 2026-11-07 |  |
 | Cox Enterprises | [Billing Specialist I](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Houston-TX/Billing-Specialist-I_R202684867) | Houston TX | $16.59 to $24.86/hour | 2026-11-07 | no visa sponsorship |
 | Halliburton | [Associate Accountant - Accountant](https://careers.halliburton.com/job/houston/associate-accountant-accountant/543/100779660496) | Houston, TX |  | 2026-11-07 |  |
@@ -369,8 +397,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BorgWarner | [Accounting Analyst](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Financial-Analyst_R2026-4409) | Auburn Hills - Michigan - USA | $62,000 to $85,250 | 2026-11-06 |  |
 | JPMorgan Chase | [Associate Relationship Banker - Westford, MA](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807184) | Westford, MA, United States |  | 2026-11-06 |  |
 | M&T Bank | [Universal Banker (Trapelo Rd branch)](https://mtb.wd5.myworkdayjobs.com/MTB/job/Belmont-MA/Universal-Banker--Trapelo-Rd-branch-_R91932) | Belmont, MA | $21.68 to $36.13/hour | 2026-11-06 |  |
+| Marsh McLennan | [Client Service Representative - Business Insurance (Entry Level)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Schaumburg---Martingale/Client-Service-Representative---Business-Insurance--Entry-Level-_R_372041) | Schaumburg - Martingale | $34,650 to $64,575 | 2026-11-06 |  |
 | TD Bank | [Associate Banker I - Bohemia](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Bohemia-New-York/Associate-Banker-I---Bohemia_R_1512950) | Bohemia, New York | $23.25 to $29.75/hour | 2026-11-06 |  |
-| Texas Health Resources | [Billing Specialist I - Fort Worth Brain and Spine - Fulltime, Days](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011737&lang=en) | Fort Worth |  | 2026-11-06 |  |
 | The Quality Group GmbH | [Werkstudent (gn) Rechtsabteilung](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5026977101) | Hamburg (hybrid) |  | 2026-11-06 |  |
 | Ascend Partner Firms | [Tax Associate](https://www.ascendtogether.com/partner-firms-jobs/?gh_jid=5286598007) | Kirkland, WA | $80,000 to $82,000 | 2026-11-06 |  |
 | Bank of America | [Merrill Advisor Development Program - Financial Advisor: 5th Ave Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/NEW-YORK/Merrill-Advisor-Development-Program---Financial-Advisor--5th-Ave-Market_26041347) | NEW YORK | $80,000 to $90,000 | 2026-11-06 |  |
@@ -424,7 +452,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | M&T Bank | [Universal Banker - Somers, CT](https://mtb.wd5.myworkdayjobs.com/MTB/job/Somers-CT/Universal-Banker---Somers--CT_R91756) | Somers, CT | $20.55 to $34.25/hour | 2026-11-06 |  |
 | M&T Bank | [Banking Services Operations Associate II - Lockbox Processor](https://mtb.wd5.myworkdayjobs.com/MTB/job/Baltimore-MD/Banking-Services-Operations-Associate-II---Lockbox-Processor_R91830) | Baltimore, MD | $19 to $31.14/hour | 2026-11-06 |  |
 | M&T Bank | [Global Capital Markets Relationship Manager I](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Global-Capital-Markets-Relationship-Manager-I_R91786-1) | Wilmington, DE | $77,300 to $128,900 | 2026-11-06 |  |
-| Marsh McLennan | [Client Service Representative - Business Insurance (Entry Level)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Schaumburg---Martingale/Client-Service-Representative---Business-Insurance--Entry-Level-_R_372041) | Schaumburg - Martingale | $34,650 to $64,575 | 2026-11-06 |  |
 | Neros Technologies | [Strategic Finance Analyst](https://job-boards.greenhouse.io/nerostechnologies/jobs/5285470007) | Torrance, California, United States | $107,500 to $150,500 | 2026-11-06 |  |
 | Peak Credit Union | [Financial Solutions Guide 1](https://job-boards.greenhouse.io/peakcreditunion/jobs/6250203004) | Gig Harbor, WA | $17 to $25.50/hour | 2026-11-06 |  |
 | Quanta Services | [Billing Specialist](https://careers-quanta.icims.com/jobs/19852/billing-specialist/job) | Grand Prairie, TX | $22 to $24/hour | 2026-11-06 |  |
@@ -456,7 +483,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520654342) | Manchester, New Hampshire, United States |  | 2026-11-06 |  |
 | Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520654346) | Henrico, Virginia, United States |  | 2026-11-06 |  |
 | Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520654373) | Redmond, Washington, United States |  | 2026-11-06 |  |
-| AlphaX | [Tax CPA - Private Client Advisory](https://apply.workable.com/j/FB2A073D79) | Paramus, New Jersey, United States |  | 2026-11-06 |  |
 | Hunter Douglas | [EPM Financial System Administrator](https://jobs.hunterdouglas.com/division/hunterdouglas/job/8052358003?gh_jid=8052358003) | New York, NY, United States |  | 2026-11-06 |  |
 | Facet | [Associate Financial Planner](https://apply.workable.com/j/18C5C3FB4B) | United States |  | 2026-11-06 |  |
 | Alphatec Spine | [Corporate Accountant](https://apply.workable.com/j/FAF5F5E8EA) | Carlsbad, California, United States |  | 2026-11-06 | no visa sponsorship |
@@ -474,7 +500,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Evergreen Residential Holdings, LLC | [Analyst, SFR Asset Management](https://evergreenresi.com/careers/openings/?gh_jid=4727583005) | Dallas, TX |  | 2026-11-06 |  |
 | Facet | [Financial Planner - Remote](https://apply.workable.com/j/FB763C8967) | United States (remote) | $95,000 to $110,000 | 2026-11-06 |  |
 | Harlem Children's Zone | [College Financing Coordinator](https://apply.workable.com/j/62280D99A0) | New York, New York, United States (hybrid) | $70,000 to $80,000 | 2026-11-06 | no visa sponsorship |
-| Brady Martz | [Associate Accountant - Tax and or Audit](https://apply.workable.com/j/285C1FD7FB) | Thief River Falls, Minnesota, United States |  | 2026-11-06 |  |
+| Brady Martz | [Associate Accountant - Tax and or Audit](https://apply.workable.com/j/285C1FD7FB) | Dickinson, North Dakota, United States |  | 2026-11-06 |  |
 | Eagle Seven | [Junior Trader](https://apply.workable.com/j/787BE44E7A) | Chicago, Illinois, United States |  | 2026-11-06 |  |
 | Huntington Bank | [Customer Experience Banker- Romeoville, IL](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Romeoville-IL/Customer-Experience-Banker--Romeoville--IL_R0077521) | Romeoville, IL | $23 to $26/hour | 2026-11-05 | no visa sponsorship |
 | Bank of America | [Client Service Representative - Merrill Wealth Management](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chandler/Client-Service-Representative----Merrill-Wealth-Management_26041010) | Chandler |  | 2026-11-05 |  |
@@ -606,7 +632,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Asure Software | [Financial Analyst](https://asuresoftware.bamboohr.com/careers/1147) | Austin, Texas, United States (hybrid) | $75,000 | 2026-11-05 | no visa sponsorship |
 | GP Fund Solutions | [Financial Accountant](https://gpfs.breezy.hr/p/463a162f6b33-financial-accountant) | Minneapolis, MN |  | 2026-11-05 |  |
 | GP Fund Solutions | [Financial Accountant](https://gpfs.breezy.hr/p/20b1485c2fc7-financial-accountant) | Latham, NY |  | 2026-11-05 |  |
-| Example Corp | [Universal Banker I - Full Time - Plaza, Staten Island](https://job-boards.greenhouse.io/examplecorpsandbox/jobs/8259844) | New York; Plaza Branch, Staten Island, NY |  | 2026-11-05 |  |
 | Distro | [Payroll Specialist - WA - On Site](https://jobs.lever.co/distro/9666040c-bc71-4322-8b4b-2ddec61915f5) | Washington |  | 2026-11-05 |  |
 | Commonwealth Health | [Billing Specialist I](https://tenor-health-foundation.breezy.hr/p/56e6d3bf058c-billing-specialist-i) | Wilkes-Barre, PA |  | 2026-11-05 |  |
 | Commonwealth Health | [Billing Specialist I](https://tenor-health-foundation.breezy.hr/p/e4bab298410d-billing-specialist-i) | Kingston, PA |  | 2026-11-05 |  |
@@ -707,13 +732,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Clark Davis Associates | [Junior Financial Analyst](https://jobs.smartrecruiters.com/ClarkDavisAssociates/71957285-junior-financial-analyst) | Princeton, NJ, us |  | 2026-11-05 |  |
 | ByteDance | [Merchant Financing Specialist (Third-Party Associate) - Global Payment](https://joinbytedance.com/search/7701908917309032709) | San Jose, California, United States of America | $50/hour | 2026-11-05 |  |
 | Franklin Electric | [Finance Development Program Analyst](https://franklin-electric.pinpointhq.com/en/postings/4c60b045-60fb-4d63-b279-0998efe8d4b6) | Fort Wayne, Indiana |  | 2026-11-05 |  |
-| Franklin Electric | [IT Auditor](https://franklin-electric.pinpointhq.com/en/postings/3b2fa6ce-f3f4-430e-b9f4-0335085df6ee) | Fort Wayne, Indiana |  | 2026-11-05 |  |
 | Goldman Sachs | [Asset & Wealth Management, Private Wealth Management, Goldman Sachs Family Office Accounting and Bill Pay, Ana](https://higher.gs.com/roles/187452) | Albany, NY, United States | $55,000 to $70,500 | 2026-11-05 |  |
 | Healthcare Fraud Shield | [Coding Auditor](https://hcfraudshield.pinpointhq.com/en/postings/0436fa48-3e9a-4bde-b2ca-ce8c8957a221) | Chesterfield, Missouri (Remote) |  | 2026-11-05 |  |
 | Holland America/Princess Alaska-Yukon Land Operations | [Accounting Clerk - Transportation Operations](https://hollandamericaprincess.pinpointhq.com/en/postings/dbdeabfe-aabb-45dc-9efc-97811d3e0779) | Anchorage, Alaska |  | 2026-11-05 | no visa sponsorship |
 | KPMG | [Manager, BTS Tax Project Manager](https://www.kpmguscareers.com/jobdetail/?jobId=139816) | Atlanta, GA | $107,160 to $226,320 | 2026-11-05 |  |
 | KPMG | [Associate, Federal Finance Transformation](https://www.kpmguscareers.com/jobdetail/?jobId=139820) | McLean, VA |  | 2026-11-05 |  |
-| KPMG | [Business Analyst 1 - Property Tax](https://www.kpmguscareers.com/jobdetail/?jobId=139835) | Orlando, FL | $22 to $25/hour | 2026-11-05 | no visa sponsorship |
 | Wei, Wei & Co., LLP | [Junior Auditor (Entry-Level)](https://weiweico.pinpointhq.com/en/postings/a8112ff7-2110-4021-b5d0-1c6797a087f1) | Flushing, New York |  | 2026-11-05 |  |
 | Wei, Wei & Co., LLP | [Junior Tax Accountant (Entry-Level)](https://weiweico.pinpointhq.com/en/postings/db0e3a10-3112-43ff-b125-4ec480ec16a8) | Flushing, New York |  | 2026-11-05 |  |
 | White Swan Data | [Sports Trader](https://whiteswandata.pinpointhq.com/en/postings/b6e28211-96e7-4429-99aa-680ac3073359) | New York, New York |  | 2026-11-05 |  |
@@ -733,26 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TD Bank | [Associate Banker II - Kean (40 hour) Preferred Bilingual/Spanish](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Union-New-Jersey/Associate-Banker-II---Kean--40-hour--Preferred-Bilingual-Spanish_R_1520539) | Union, New Jersey | $23.75 to $31/hour | 2026-11-04 |  |
 | TD Bank | [Relationship Banker I - Bridgewater (30 hour)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Bridgewater-New-Jersey/Relationship-Banker-I---Bridgewater--30-hour-_R_1519190) | Bridgewater, New Jersey | $24.25 to $32.50/hour | 2026-11-04 |  |
 | Bank of America | [Financial Solutions Advisor - Indianapolis Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Indianapolis/Financial-Solutions-Advisor---Indianapolis-Market_26040800-1) | Indianapolis |  | 2026-11-04 |  |
-| Bank of America | [Financial Solutions Advisor - Colorado South Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Denver/Financial-Solutions-Advisor---Colorado-South-Market_26038429-1) | Denver | $70,000 to $80,000 | 2026-11-04 |  |
-| City National Bank | [Capital Markets Client and Sales Support Analyst](https://careers.cnb.com/careers-home/jobs/14152) | Los Angeles, California | $71,869 to $114,797 | 2026-11-04 |  |
-| D.A. Davidson | [Experienced Investment Banking Analyst 1 or 2, Diversified Industrials Group](https://jobs.lever.co/dadavidson/38767416-c271-44d9-8f33-9007e56eca69) | Boston, MA |  | 2026-11-04 |  |
-| Exus Renewables North America | [Finance & Accounting Onboarding Specialist](https://ats.rippling.com/exus-renewables-north-america/jobs/9d1569c7-1dcf-43b8-8036-ee5f93ec6f40) | Pittsburgh, PA |  | 2026-11-04 |  |
-| Frost Bank | [Employee Benefits Account Manager - Frost Insurance Agency](https://careers.frostbank.com/us/en/job/R262169) | Bellaire, Texas, United States of America |  | 2026-11-04 |  |
-| Honda | [Financial Planning Analyst](https://careers.honda.com/us/en/job/13216) | Marysville, Ohio, United States |  | 2026-11-04 |  |
-| Huntington Bank | [Customer Experience Banker - Cincinnati Northgate](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Cincinnati-OH/Customer-Experience-Banker---Cincinnati-Northgate_R0077511) | Cincinnati, OH |  | 2026-11-04 | no visa sponsorship |
-| Huntington Bank | [Customer Experience Banker - Lebanon](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Lebanon-OH/Customer-Experience-Banker---Lebanon_R0077375-1) | Lebanon, OH |  | 2026-11-04 | no visa sponsorship |
-| Huntington Bank | [Customer Experience Banker- Myers Park Charlotte NC](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Charlotte-NC/Customer-Experience-Banker--Myers-Park-Charlotte-NC_R0077460) | Charlotte, NC |  | 2026-11-04 | no visa sponsorship |
-| Huntington Bank | [Customer Experience Banker Non NMLS - Sherman, TX](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Sherman-TX/Customer-Experience-Banker-Non-NMLS---Sherman--TX_R0077425) | Sherman, TX |  | 2026-11-04 | no visa sponsorship |
-| Huntington Bank | [Customer Experience Banker - Mayfield Hts, OH](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Mayfield-Heights-OH/Customer-Experience-Banker---Mayfield-Hts--OH_R0077492) | Mayfield Heights, OH |  | 2026-11-04 | no visa sponsorship |
-| Huntington Bank | [Customer Experience Banker - Russells Point, OH](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Russells-Point-OH/Customer-Experience-Banker---Russells-Point--OH_R0077423) | Russells Point, OH |  | 2026-11-04 | no visa sponsorship |
-| Insperity | [HCM Payroll Specialist I](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kennesaw-GA/HCM-Payroll-Specialist-I_JR103529) | Kennesaw, GA |  | 2026-11-04 |  |
-| Jobs for Humanity | [Inbound Phone Banker/Customer Service Representative](https://jobs.smartrecruiters.com/JobsForHumanity/744000159494027-inbound-phone-banker-customer-service-representative) | Charlotte, NC, us | $19.50 to $23.50/hour | 2026-11-04 |  |
-| Jobs for Humanity | [Inbound Phone Banker/Customer Service Representative](https://jobs.smartrecruiters.com/JobsForHumanity/744000159495599-inbound-phone-banker-customer-service-representative) | Huntersville, NC, us | $19.50 to $23.50/hour | 2026-11-04 |  |
-| JPMorgan Chase | [Relationship Banker - I 30 and University Branch - Fort Worth, TX.](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795447) | Fort Worth, TX, United States |  | 2026-11-04 |  |
-| JPMorgan Chase | [Relationship Banker Banker - Passaic Main Ave. Branch - New Jersey Passaic Essex Market](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796045) | Passaic, NJ, United States |  | 2026-11-04 |  |
-| JPMorgan Chase | [Relationship Banker - Towne Pointe Center Branch - New Jersey Monmouth County Market](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804038) | Manalapan, NJ, United States |  | 2026-11-04 |  |
-| JPMorgan Chase | [Relationship Banker - West Freehold Branch - New Jersey Monmouth County Market](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804051) | Freehold, NJ, United States |  | 2026-11-04 |  |
-| JPMorgan Chase | [Relationship Banker - Northvale Branch - New Jersey Paramus Market](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804075) | Northvale, NJ, United States |  | 2026-11-04 |  |
-| JPMorgan Chase | [Relationship Banker - New Jersey Bergen East Market](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804100) | Paramus, NJ, United States |  | 2026-11-04 |  |
-| JPMorgan Chase | [Relationship Banker - Greater Kansas Market - Olathe KS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804159) | Olathe, KS, United States |  | 2026-11-04 |  |
-| JPMorgan Chase | [Relationship Banker - Thirteenth Ave and 48th St - Brooklyn West, NY](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804782) | Brooklyn, NY, United States |  | 2026-11-04 |  |

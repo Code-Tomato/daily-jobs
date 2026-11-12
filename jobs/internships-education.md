@@ -1,11 +1,12 @@
 # Internships and co-ops: Education
 
-72 open, newest first (by the date the scraper first saw them), updated 2026-11-11.
+70 open, newest first (by the date the scraper first saw them), updated 2026-11-12.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Clark Art Institute | [Rodgers' Spring Intern- Community and Family Programs](https://clarkart.bamboohr.com/careers/64) · Spring | Williamstown, Massachusetts, United States |  | 2026-11-12 |  |
 | Ace Electric | [Apprenticeship Instructor (Bilingual)](https://aceelectric.bamboohr.com/careers/1089) | VALDOSTA, Georgia, United States |  | 2026-11-11 |  |
 | Black & Veatch | [Sr Apprentice Training Instructor (Bird Electric)](https://careers.bv.com/BirdElectric/job/Midland-Sr-Apprentice-Training-Instructor-%28Bird-Electric%29-TX-79701/1455770633/) | Midland, TX, US |  | 2026-11-10 |  |
 | TheatreSquared | [TheatreSquared Apprentice](https://theatresquared.bamboohr.com/careers/116) · Summer 2027 | Fayetteville, Arkansas, United States |  | 2026-11-10 |  |
@@ -51,11 +52,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | LLNL | [Predictive Science Academic Alliance Program IV Student Intern (PSAAP IV)](https://jobs.smartrecruiters.com/LLNL/3743990016225626-predictive-science-academic-alliance-program-iv-student-intern-psaap-iv-) | Livermore, CA, us |  | 2026-11-04 | clearance |
 | Alaska Wildlife Conservation Center | [Naturalist- Internship](https://awcc.bamboohr.com/careers/89) | Girdwood, Alaska, United States |  | 2026-11-04 |  |
 | Uncommon Schools | [Apprentice Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000155314910-apprentice-teacher) | Newark, New Jersey, us | $59,000 | 2026-11-04 |  |
-| Uncommon Schools | [Pre-K Apprentice Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000154481602-pre-k-apprentice-teacher) | Brooklyn, New York, us | $60,000 | 2026-11-04 |  |
 | Seattle Sounders FC & Seattle Reign FC | [2027 Athletic Training Internship (Educational) - Sounders FC](https://job-boards.greenhouse.io/seattlesoundersfc/jobs/4741536005) · Spring 2027 | Renton, WA |  | 2026-11-04 |  |
 | Seattle Sounders FC & Seattle Reign FC | [2027 Performance Internship (Educational) - Sounders FC](https://job-boards.greenhouse.io/seattlesoundersfc/jobs/4741544005) | Renton, WA |  | 2026-11-04 | no visa sponsorship |
-| Studio Museum in Harlem | [Spring 2027 Education Intern](https://ats.rippling.com/studiomuseumcareers/jobs/ae5a7f84-83ec-4647-9757-d93ac24d3a17) · Spring 2027 | New York, NY |  | 2026-11-04 |  |
-| AECOM | [High School Intern](https://jobs.smartrecruiters.com/AECOM2/744000153243027-high-school-intern) | Virginia Beach, VA, us |  | 2026-11-04 | no visa sponsorship |
 | Nashville Zoo | [Education Internship 2027](https://job-boards.greenhouse.io/nashvillezoo/jobs/5437790008) · Spring 2027 | Nashville, TN | $12.50/hour | 2026-11-04 |  |
 | Clinton Foundation | [2027 Spring Education Programs Intern (onsite)](https://www.clintonfoundation.org/careers/apply/?gh_jid=8004025003) · Spring 2027 | Little Rock, Arkansas |  | 2026-11-04 |  |
 | AECOM | [High School Intern](https://jobs.smartrecruiters.com/AECOM2/744000150456899-high-school-intern) | Akron, OH, us |  | 2026-11-04 | no visa sponsorship |
