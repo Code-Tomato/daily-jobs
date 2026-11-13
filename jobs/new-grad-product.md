@@ -1,11 +1,12 @@
 # New grad and entry level: Product, program and project management
 
-293 open, newest first (by the date the scraper first saw them), updated 2026-11-12.
+290 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| ICF | [Program Manager – Commercial and Industrial Energy Efficiency](https://careers.icf.com/us/en/job/R2603727) | Columbia, South Carolina, United States of America | $73,738 to $125,354 | 2026-11-13 | no visa sponsorship |
 | Jobgether | [New Grad- Project Scheduler](https://jobs.lever.co/jobgether/05adf3a8-81e3-4628-acb2-b66ee7438929) | US | $82,000 | 2026-11-12 |  |
 | Perplexity | [Product Manager, Legal](https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a) | San Francisco |  | 2026-11-12 |  |
 | Alarm.com | [Product Manager](https://job-boards.greenhouse.io/alarmcom/jobs/8916792002) | Tysons, Virginia | $90,000 to $110,000 | 2026-11-12 |  |
@@ -48,10 +49,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bask Health | [Product Owner](https://apply.workable.com/j/88E8AC387F) | new york, New York, United States |  | 2026-11-06 |  |
 | Apogee Global RMS | [Associate Strategy Consultant / Program Manager](https://apply.workable.com/j/0673AB1990) | Phoenix, Arizona, United States |  | 2026-11-06 |  |
 | Applied Business Communications (ABcom) | [Assistant Project Manager / Project Coordinator](https://apply.workable.com/j/02435A7A4E) | Saint Paul, Minnesota, United States |  | 2026-11-06 |  |
-| Jobgether | [Project Manager - Translations](https://jobs.lever.co/jobgether/3ecff68a-f73e-4dbe-83ea-0c62a6ecfd3b) | US |  | 2026-11-05 |  |
+| NMR Consulting | [Junior Project Manager](https://nmr.bamboohr.com/careers/44) | Huntsville, Alabama, United States | $65,000 to $85,000 | 2026-11-05 | clearance |
 | Black & Veatch | [APG EPC Project Manager](https://careers.bv.com/job/Cary-APG-EPC-Project-Manager-NC/1454465333/) | Cary, NC, US |  | 2026-11-05 |  |
 | KLA | [Product Supportability Program Manager](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Product-Supportability-Program-Manager_2642335) | Phoenix, AZ | $109,000 to $185,300 | 2026-11-05 |  |
-| NMR Consulting | [Junior Project Manager](https://nmr.bamboohr.com/careers/44) | Huntsville, Alabama, United States | $65,000 to $85,000 | 2026-11-05 | clearance |
 | Quanta Services | [Project Manager](https://careers-quanta.icims.com/jobs/19764/project-manager/job) | Puyallup, WA | $38 to $46/hour | 2026-11-05 |  |
 | Agate Software | [Project Manager - Glendale AZ [PJM-2026-10]](https://jobs.lever.co/agatesoftware/09bede4b-c2b7-4bcd-b58c-e89b0cf449d2) | Glendale, AZ (hybrid) |  | 2026-11-05 |  |
 | SFMOMA | [Museum Prep I, Fabrication, On-Call](https://jobs.lever.co/sfmoma/09c742b6-2792-4579-bd68-5cc496bdf4df) | San Francisco, CA |  | 2026-11-05 |  |
@@ -77,11 +77,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Sears | [Management Trainee - Project Manager track](https://jobs.smartrecruiters.com/Sears2/99770351-management-trainee-project-manager-track) | Elk Grove Village, IL, us |  | 2026-11-05 |  |
 | Sears | [Management Trainee - Project Manager track](https://jobs.smartrecruiters.com/Sears2/99770327-management-trainee-project-manager-track) | Gaithersburg, MD, us |  | 2026-11-05 |  |
 | Stefanini | [Client Service Project Manager](https://jobs.smartrecruiters.com/Stefanini1/83955683-client-service-project-manager) | New York, NY, us |  | 2026-11-05 |  |
+| Clasp Group | [Associate Product Manager, Clasp Talent](https://jobs.ashbyhq.com/clasp-group/4ec47cfb-34f0-4971-988e-0781c3b3f1d3) | Remote |  | 2026-11-04 | no visa sponsorship |
 | Netic | [Agent Product Manager](https://jobs.ashbyhq.com/netic/110ec0f2-63bf-4399-b2ed-44cf99b3727b) | San Francisco |  | 2026-11-04 |  |
 | CargoSprint | [Product Manager I](https://ats.rippling.com/cargosprint/jobs/e7e9e872-7e22-4a22-9826-130c55bbcb62) | Remote (United States) |  | 2026-11-04 |  |
 | City of New York | [BOB- Associate Project Manager III](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016579376-bob-associate-project-manager-iii) | New York City, NY, us |  | 2026-11-04 |  |
 | SharkNinja | [Associate Program Manager](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4724459006) | Needham, MA, United States |  | 2026-11-04 |  |
-| Clasp Group | [Associate Product Manager, Clasp Talent](https://jobs.ashbyhq.com/clasp-group/4ec47cfb-34f0-4971-988e-0781c3b3f1d3) | Remote |  | 2026-11-04 | no visa sponsorship |
 | North Wind Group | [Project Manager Assistant & Admin (ADMIN 1) 04257 NWD](https://north-wind-group.breezy.hr/p/9a3ae16cd908-project-manager-assistant-admin-admin-1-04257-nwd) | MORGANTOWN, WV |  | 2026-11-04 | clearance |
 | Rho | [Associate Product Manager](https://jobs.ashbyhq.com/rho/ff7900c4-1561-4bc3-8799-694ac6e62d1e) | NYC | $133,000 to $160,000 | 2026-11-04 |  |
 | City of New York | [ASSISTANT PROJECT MANAGER](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016542846-assistant-project-manager) | Valhalla, NY, us |  | 2026-11-04 |  |
@@ -95,10 +95,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016455616-project-manager) | New York City, NY, us |  | 2026-11-04 |  |
 | AECOM | [Entry-Level Deputy Project Manager](https://jobs.smartrecruiters.com/AECOM2/744000157843708-entry-level-deputy-project-manager) | Philadelphia, PA, us |  | 2026-11-04 | no visa sponsorship |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464240008) | Olathe KS |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464229008) | Nashville TN |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464243008) | Port St. Lucie FL |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464233008) | Phoenix AZ EDS |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464229008) | Nashville TN |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464243008) | Port St. Lucie FL |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464244008) | Atlanta GA |  | 2026-11-04 |  |
 | REXEL | [Project Manager I](https://jobs.smartrecruiters.com/REXEL1/744000157887719-project-manager-i) | Boise, ID, us |  | 2026-11-04 |  |
 | POWERX | [Project Manager](https://job-boards.greenhouse.io/powerx/jobs/4464251009) | Denver, Colorado |  | 2026-11-04 |  |
@@ -106,7 +106,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | iCapital | [Product Manager - Analyst / Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8907186002) | Colorado Springs, Colorado, United States | $60,000 to $90,000 | 2026-11-04 |  |
 | Pleasant Valley Corporation | [Project Manager, Parking Lot Solutions](https://pleasant-valley-corporation.breezy.hr/p/ed5f415fafa0-project-manager-parking-lot-solutions) | Medina, OH |  | 2026-11-04 |  |
 | REI Engineers | [Project Manager- Building Enclosure](https://rei.bamboohr.com/careers/83) | Raleigh, North Carolina, United States |  | 2026-11-04 |  |
-| Telnyx | [Associate Technical Project Manager](https://job-boards.greenhouse.io/telnyx54/jobs/8040550003) | Remote |  | 2026-11-04 |  |
 | ButterflyMX | [Implementation Project Manager](https://jobs.ashbyhq.com/butterflymx/5c6f4760-d373-41d4-b803-ba9eb959f677) | US Remote | $70,000 to $82,000 | 2026-11-04 |  |
 | City of New York | [Project Manager (Environmental)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016254177-project-manager-environmental-) | New York City, NY, us |  | 2026-11-04 |  |
 | City of New York | [Project Manager, Capital Planning](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016254166-project-manager-capital-planning) | New York City, NY, us |  | 2026-11-04 |  |
@@ -259,9 +258,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Marvell | [M&A Project Manager](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/M-A-Project-Manager_2602942) | Santa Clara, CA |  | 2026-10-20 |  |
 | KeyBank | [Product Owner - Teller 21](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Digital-II_R-41440) | Brooklyn, OH | $69,000 to $105,000 | 2026-10-20 |  |
 | SLB | [Project Manager](https://careers.slb.com/jobdescription.aspx?id=WDR00136807) | Midland, United States |  | 2026-10-20 | no visa sponsorship |
-| Mattel | [Development Program Management Associate I - Action Figures](https://jobs.mattel.com/en/job/el-segundo/development-program-management-associate-i-action-figures/2015/101581836208) | El Segundo, CALIFORNIA, us | $71,000 to $82,000 | 2026-10-20 |  |
 | Formlabs | [Technical Program Manager - Entry Level](https://careers.formlabs.com/job/8249069/apply/?gh_jid=8249069) | Boston, MA | $110,000 to $140,000 | 2026-10-20 |  |
-| Panasonic North America | [Project Manager](https://careers.na.panasonic.com/careers-home/jobs/50611) | Altoona, Iowa |  | 2026-10-20 |  |
 | SIG | [Technology Project Manager / Market Data](https://careers.sig.com/careers-home/jobs/11213) | Bala Cynwyd (Philadelphia Area), Pennsylvania |  | 2026-10-20 | no visa sponsorship |
 | Kinder Morgan | [Engineer-Production CO2](https://careers.kindermorgan.com/careers-home/jobs/6168) | SNYDER, Texas |  | 2026-10-20 |  |
 | Siemens | [Commercial Project Management Development Program](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521258) |  |  | 2026-10-20 | no visa sponsorship |

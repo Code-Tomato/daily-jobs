@@ -1,11 +1,33 @@
 # Internships and co-ops: Software engineering
 
-1,599 open, newest first (by the date the scraper first saw them), updated 2026-11-12. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,586 open, newest first (by the date the scraper first saw them), updated 2026-11-13. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Aurora | [Software Engineer Intern, Vehicle Platforms](https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef) · Summer 2027 | Mountain View, CA | $52 to $58/hour | 2026-11-13 |  |
+| Entegris | [Product Engineering Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Chaska-MN/Product-Engineering-Intern_REQ-15848) · Summer 2027 | Chaska, MN | $20 to $30/hour | 2026-11-13 |  |
+| State Street | [Cyber Security Operations Center Analyst, Full-time Internship (Jan - June 2027)](https://careers.statestreet.com/global/en/job/R-801091) | Quincy, Massachusetts, United States of America |  | 2026-11-13 |  |
+| Walmart Global Tech | [Summer 2027 Corporate Intern: APD Automation Engineer](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--APD-Automation-Engineer_R-2630170) · Summer 2027 | (USA) Together Building AR Bentonville Home Office |  | 2026-11-13 | no visa sponsorship |
+| AEP | [Cybersecurity Intern - Summer 2027](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158) · Summer 2027 | Columbus, OH |  | 2026-11-13 | no visa sponsorship |
+| Cardinal Health | [Technology Internship (Summer 2027)](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1) · Summer 2027 | OH-Dublin-Cardinal Place |  | 2026-11-13 | no visa sponsorship |
+| DocuSign | [AI Platform Engineer Intern](https://careers.docusign.com/careers-home/jobs/30578) | San Francisco, California | $39 to $51/hour | 2026-11-13 | no visa sponsorship |
+| Entegris | [Materials Solutions Engineering Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Materials-Solutions-Engineering-Intern---Summer-2027_REQ-15860) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
+| Entegris | [Commercial IT Summer Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Commercial-IT-Summer-Intern---Summer-2027_REQ-15869) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
+| Entegris | [Embedded Software Engineering Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870) · Summer 2027 | Bloomington, MN | $20 to $30/hour | 2026-11-13 |  |
+| Federal Reserve System | [2027 Summer Internship Program - Records and Information Management Intern](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Records-and-Information-Management-Intern_R-0000033909) · Summer 2027 | Atlanta, GA |  | 2026-11-13 | no visa sponsorship |
+| Lennox | [Advanced Technology Summer Intern](https://globalcareers-lennox.icims.com/jobs/55138/advanced-technology-summer-intern/job) · Summer | Carrollton, TX | $25 to $31.30/hour | 2026-11-13 |  |
+| Micron | [Intern - IT Software Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582) | Boise, ID - Main Site |  | 2026-11-13 |  |
+| Muon Space | [Security Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/muonspace/jobs/5294028007) · Summer 2027 | Mountain View, CA | $40 to $50/hour | 2026-11-13 | US citizens/persons only |
+| Muon Space | [Software Engineering Intern-Information Systems (Summer 2027)](https://job-boards.greenhouse.io/muonspace/jobs/5293973007) · Summer 2027 | San Jose, CA | $40 to $50/hour | 2026-11-13 | US citizens/persons only |
+| Octant Bio | [Software Engineer - Internship](https://www.octant.bio/jobs?gh_jid=6260895004) · Summer 2027 | Emeryville, California, United States | $1,500 to $2,000/week | 2026-11-13 |  |
+| PTC | [Onshape Site Reliability Engineering Intern (Summer 2027)](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926) · Summer 2027 | Boston, MA, USA | $32 to $36/hour | 2026-11-13 | no visa sponsorship |
+| ServiceNow | [Product Security Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161385779-product-security-intern) | San Diego, CALIFORNIA, us | $62.89/hour | 2026-11-13 |  |
+| Vital Lyfe | [Software Engineering Internship - Summer 2027](https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942) · Summer 2027 | Los Angeles - Greater Area |  | 2026-11-13 |  |
+| Zoox | [Systems & Safety Engineering Intern [Summer 2027]](https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f) · Summer 2027 | Foster City, CA |  | 2026-11-13 |  |
+| Zoox | [Contract Student Worker - Software Engineer (20/hrs week)](https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3) | Foster City, CA |  | 2026-11-13 |  |
+| Klaviyo Campus | [Software Engineer Co-op (Spring 2027)](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003) · Spring 2027 | Boston, MA | $49.50 to $60.50/hour | 2026-11-13 | no visa sponsorship |
 | AMAX | [R&D Engineering Intern](https://apply.workable.com/j/19B39953E1) | Fremont, California, United States |  | 2026-11-12 |  |
 | Bask Health | [Frontend Engineering Intern](https://apply.workable.com/j/9C2964C7CD) | United States |  | 2026-11-12 |  |
 | ONE Gas | [Summer 2027 IT Intern](https://ibedqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ONEGas-Careers/job/10123) · Summer 2027 | Tulsa, OK, United States |  | 2026-11-12 |  |
@@ -15,7 +37,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bask Health | [Product Engineering Intern](https://apply.workable.com/j/1C108B16E2) | United States |  | 2026-11-12 |  |
 | Bask Health | [Software Engineering Intern](https://apply.workable.com/j/E81C7F7D3B) | United States |  | 2026-11-12 |  |
 | Bose | [Digital Signal Processing ML Software Development Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372) | US, MA - Framingham | $29 to $37.25/hour | 2026-11-12 |  |
-| Brex | [Software Engineer, Intern (Summer 2027)](https://www.brex.com/careers/8936403002?gh_jid=8936403002) · Summer 2027 | San Francisco, California, United States (hybrid) | $55/hour | 2026-11-12 |  |
 | Formlabs | [2027 (Summer) - Manufacturing - Manufacturing Test Software Intern](https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598) · Summer | Somerville, MA |  | 2026-11-12 |  |
 | GlobalFoundries | [AI Processor Hardware/Software Integration Engineer Intern (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028) · Summer 2027 | USA - Texas - Richardson | $20 to $40/hour | 2026-11-12 |  |
 | Grant Thornton | [Cybersecurity and Privacy Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637) · Summer 2027 | New York, NY, United States | $40/hour | 2026-11-12 | no visa sponsorship |
@@ -111,10 +132,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | New York Life | [2027 New York Life Direct Summer Internship Program - IBM i Developer](https://careers.newyorklife.com/careers/job/45406361) · Summer 2027 | Tampa, Florida, United States | $25/hour | 2026-11-10 | no visa sponsorship |
 | Partners Behavioral Healthcare | [LADC Intern [Saint Cloud]](https://ats.rippling.com/partners-behavioral-healthcare/jobs/0c8dfddb-bf60-4dda-9b6c-0605639cf51b) | Waite Park, MN | $16.50/hour | 2026-11-10 |  |
 | Morgan Stanley | [Parametric - 2027 Software Engineer Co-Op ( Alpharetta OR New York)](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/21993-Parametric-2027-Software-Engineer-Co-Op-Alpharetta-OR-New-York/en-GB) | Seattle, United States of America | $31.25/hour | 2026-11-10 |  |
-| Harris Health | [Information Technology Intern](https://jobs.harrishealth.org/information-technology-intern/job/6BF92A727135CC299202CDB57A011441) | Bellaire, TX, US |  | 2026-11-09 |  |
 | Johnson & Johnson | [Software Test Engineering Co-op (RLM)](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669) | Danvers, Massachusetts, United States of America | $23.50 to $52.50/hour | 2026-11-09 | no visa sponsorship |
-| Simpson Gumpertz & Heger | [Technical Intern, Building Technology Summer 2027](https://www.sgh.com/careers/job-openings/view-job/8858466002?gh_jid=8858466002) · Summer 2027 | Los Angeles, California, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
 | Simpson Gumpertz & Heger | [Technical Intern, Building Technology Summer 2027](https://www.sgh.com/careers/job-openings/view-job/8858513002?gh_jid=8858513002) · Summer 2027 | New York, New York, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
+| Simpson Gumpertz & Heger | [Technical Intern, Building Technology Summer 2027](https://www.sgh.com/careers/job-openings/view-job/8858466002?gh_jid=8858466002) · Summer 2027 | Los Angeles, California, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
 | Simpson Gumpertz & Heger | [Technical Intern, Building Technology Summer 2027](https://www.sgh.com/careers/job-openings/view-job/8803036002?gh_jid=8803036002) · Summer 2027 | Chicago, Illinois, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
 | Simpson Gumpertz & Heger | [Technical Intern, Building Technology Summer 2027](https://www.sgh.com/careers/job-openings/view-job/8783233002?gh_jid=8783233002) · Summer 2027 | Washington, District of Columbia, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
 | Simpson Gumpertz & Heger | [Technical Intern, Building Technology Summer 2027](https://www.sgh.com/careers/job-openings/view-job/8760900002?gh_jid=8760900002) · Summer 2027 | Oakland, California, United States | $30.25 to $38.25/hour | 2026-11-09 |  |
@@ -129,19 +149,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Astranis | [Embedded Software Developer, Network/Payload Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704571006) · Winter 2027 | San Francisco | $29/hour | 2026-11-07 | US citizens/persons only |
 | Continental | [Intern - Credit Analyst, Year-Round](https://jobs.smartrecruiters.com/Continental/744000160248852-intern-credit-analyst-year-round) | Fort Mill, SC, us |  | 2026-11-07 |  |
 | Federal Reserve System | [2027 Information Technology Internship](https://rb.wd5.myworkdayjobs.com/FRS/job/St-Louis-MO/XMLNAME-2027-Information-Technology-Internship_R-0000034047) · Summer 2027 | St. Louis, MO | $20 to $22/hour | 2026-11-07 | US citizens/persons only |
-| Harris Health | [Information Technology Intern](https://jobs.harrishealth.org/information-technology-intern/job/A1B9F8B35A6E5AF1303DE105F934712D) | Bellaire, TX, US |  | 2026-11-07 |  |
 | KLA | [Software Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642954-1) | Milpitas, CA | $37 to $49/hour | 2026-11-07 |  |
 | Motorola Solutions | [Software Presales Enablement Intern - Summer Internship 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228) · Summer | Illinois Remote Work |  | 2026-11-07 | no visa sponsorship |
 | Notion | [Software Engineering Intern, Frontend (Summer 2027)](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413) · Summer 2027 | New York, New York | $57 to $61/hour | 2026-11-07 |  |
 | Notion | [Software Engineering Intern, iOS (Summer 2027)](https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947) · Summer 2027 | New York, New York | $57 to $61/hour | 2026-11-07 |  |
 | Samsara | [Software Engineering Internship - San Francisco](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) · Fall 2028 | San Francisco - SF9 | $61.90/hour | 2026-11-07 |  |
-| T-Mobile | [Summer 2027 Software Engineer HR Data Products Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-07 |  |
-| T-Mobile | [Summer 2027 Software Engineer HR Data Products Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-07 |  |
-| T-Mobile | [Summer 2027 Software Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-07 |  |
-| T-Mobile | [Summer 2027 Software Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-07 |  |
-| T-Mobile | [Summer 2027 Software Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-07 |  |
-| T-Mobile | [Summer 2027 Software Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739) · Summer 2027 | Overland Park, Kansas | $27 to $50/hour | 2026-11-07 |  |
-| T-Mobile | [Summer 2027 Software Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734) · Summer 2027 | Overland Park, Kansas | $27 to $50/hour | 2026-11-07 |  |
 | TechnipFMC | [Intern/Apprentice Information & Digital Services](https://careers.technipfmc.com/job/Stephenville-InternApprentice-Information-&-Digital-Services-TX-76401/1448759500/) | Stephenville, TX, US |  | 2026-11-07 |  |
 | The New York Times | [Android Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005) | New York, NY (hybrid) | $40/hour | 2026-11-07 |  |
 | The New York Times | [Backend Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005) | New York, NY (hybrid) | $40/hour | 2026-11-07 |  |
@@ -184,7 +196,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rockwell Automation | [Intern, Engineering (Independent Cart Technology)](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Engineering--Independent-Cart-Technology-_R26-8684-1) | Chelmsford, Massachusetts, United States | $22 to $40/hour | 2026-11-06 | no visa sponsorship |
 | RR Donnelley | [IT Support Engineer Summer Intern](https://jobs.smartrecruiters.com/RRDonnelley/744000159878934-it-support-engineer-summer-intern) · Summer | Wheeling, WV, us | $24/hour | 2026-11-06 |  |
 | Shield AI | [June 2027 Co-Op - Software Engineer Intern](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949) | Dallas, Texas |  | 2026-11-06 |  |
-| T-Mobile | [Summer 2027 Software Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650) · Summer 2027 | Atlanta, Georgia | $27 to $50/hour | 2026-11-06 |  |
 | Trajectory | [Member of Technical Staff - Intern](https://jobs.ashbyhq.com/trajectory/00cd9b1a-5d48-4ecb-8c53-cd27727448c5) | San Francisco |  | 2026-11-06 |  |
 | Trajectory | [Member of Technical Staff - Research Intern](https://jobs.ashbyhq.com/trajectory/a3fd075c-2480-4567-9bec-e587f2208ac8) | San Francisco |  | 2026-11-06 |  |
 | Charter Communications | [2027 Summer Intern: Software Engineer - P&T](https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-software-engineer-p-and-t/4673/100830276992) · Summer 2027 | Maryland Heights, Missouri |  | 2026-11-06 | no visa sponsorship |
@@ -208,13 +219,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Figma | [PhD Intern, Software Engineer - Interaction Design (2027)](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) · Summer 2027 | San Francisco, CA • New York, NY | $74/hour | 2026-11-05 |  |
 | KEEN Footwear | [Associate Footwear Developer Intern](https://www.keenfootwear.com/careers-list.html?4750548005&gh_jid=4750548005) | Portland, OR | $22/hour | 2026-11-05 | no visa sponsorship |
 | Plus3 IT Systems | [Cloud Engineer Intern](https://p3it.bamboohr.com/careers/37) | Reston, Virginia, United States |  | 2026-11-05 | clearance |
-| T-Mobile | [Summer 2027 Software Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652) · Summer 2027 | Atlanta, Georgia | $27 to $50/hour | 2026-11-05 |  |
-| T-Mobile | [Summer 2027 T-Ads Software Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234) · Summer 2027 | Philadelphia, Pennsylvania | $27 to $50/hour | 2026-11-05 |  |
 | Acds | [Tectro IT-IT Support Apprenticeship](https://jobs.lever.co/acds/a0b53070-6980-4761-a28a-c7ca9487e8b1) | Rogers, AR |  | 2026-11-05 |  |
 | KEEN Footwear | [Junior Material Developer Intern](https://www.keenfootwear.com/careers-list.html?4749923005&gh_jid=4749923005) | Portland, OR | $22/hour | 2026-11-05 | no visa sponsorship |
 | KEEN Footwear | [Quality Assurance Intern](https://www.keenfootwear.com/careers-list.html?4748663005&gh_jid=4748663005) | Portland, OR | $22/hour | 2026-11-05 | no visa sponsorship |
-| T-Mobile | [Summer 2027 Software Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882) · Summer 2027 | Philadelphia, Pennsylvania | $27 to $50/hour | 2026-11-05 |  |
-| T-Mobile | [Summer 2027 Software Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886) · Summer 2027 | New York, New York | $27 to $50/hour | 2026-11-05 |  |
 | The Riverside Company | [2027 Summer Internship, Technology](https://job-boards.greenhouse.io/theriversidecompany/jobs/8927817002) · Summer 2027 | New York, NY | $20/hour | 2026-11-05 |  |
 | Tevora | [Cybersecurity Internship Summer 2027 - Enterprise Risk Management](https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c) · Summer 2027 | Irvine, CA |  | 2026-11-05 |  |
 | Tevora | [Cybersecurity Internship Summer 2027 - Healthcare](https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0) · Summer 2027 | Irvine, CA |  | 2026-11-05 |  |
@@ -230,7 +237,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | MDB General Referrals | [2027 - Software Engineering Intern, AMER](https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/8318078) · Fall 2027 | Austin, TX, United States, New York, NY, United States, San Francisco, |  | 2026-11-05 |  |
 | BGE, Inc | [FAYETTEVILLE - Transportation, Internship](https://job-boards.greenhouse.io/bgeinc/jobs/5461892008) | One Steele Plaza 3739 N. Steele Boulevard, Suite 340, Fayetteville, AR |  | 2026-11-05 |  |
 | ECHO, Leahy Center for Lake Champlain | [Information Technology Internship](https://echo-leahy-center-for-lake-champlain.breezy.hr/p/93b81a880031-information-technology-internship) | Burlington, VT |  | 2026-11-05 |  |
-| Pattern | [AI Automation Engineer Intern](https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e) · Summer 2027 | Lehi, UT, US (hybrid) |  | 2026-11-05 |  |
 | Wikimedia Foundation Internship Program | [Software Engineering Internship Program (2027)](https://job-boards.greenhouse.io/wikimediainternship/jobs/8287616) | Remote | $34.32 to $42.13/hour | 2026-11-05 |  |
 | Simbe Robotics | [Robot Software Engineer Intern — Spring & Summer 2027](https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c) · Summer 2027 | San Francisco Bay Area |  | 2026-11-05 |  |
 | Critical Systems | [Internship Application - Building Automation Systems/Controls](https://criticalsystemsllc.bamboohr.com/careers/46) | Rockville, Maryland, United States |  | 2026-11-05 |  |
@@ -253,7 +259,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ESCO Group | [Automation Engineer Associate – Intern](https://escogroup.bamboohr.com/careers/359) · Summer 2027 | Marion, Iowa, United States |  | 2026-11-05 |  |
 | ESCO Group | [Automation Engineer Associate – Intern](https://escogroup.bamboohr.com/careers/361) · Summer 2027 | St. Peters, Missouri, United States |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Digital Media Intern - Taxpayers Protection Alliance Foundation](https://jobs.lever.co/standtogether/8c750142-f2b5-4833-82fb-13c83b29910f) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
-| NYISO Internship Program | [Intern - IT Software Development](https://job-boards.greenhouse.io/nyisointernships/jobs/5236084007) | Rensselaer, New York, United States | $22 to $33/hour | 2026-11-05 |  |
 | SK hynix memory solutions America Inc. | [Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009) | San Jose | $35 to $45/hour | 2026-11-05 |  |
 | Crest Industries | [Developer Intern](https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd) | Pineville, Louisiana |  | 2026-11-05 |  |
 | Institute for the Study of War | [Geospatial Intelligence and National Security Technologies Internship Spring 2027](https://understandingwar.bamboohr.com/careers/242) · Spring 2027 | Washington, District of Columbia, United States |  | 2026-11-05 |  |
@@ -347,8 +352,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rivian and Volkswagen Group Technologies | [Software Engineering Intern - Connected Systems (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f) · Summer 2027 | Palo Alto, California |  | 2026-11-04 |  |
 | Rivian and Volkswagen Group Technologies | [Software Engineering Intern - Vehicle Controls (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c) · Summer 2027 | Palo Alto, California |  | 2026-11-04 |  |
 | Rivian and Volkswagen Group Technologies | [Software Engineering Intern - Embedded Platforms (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048) · Summer 2027 | Palo Alto, California |  | 2026-11-04 |  |
-| Skydio | [Frontend Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd) · Summer 2027 | San Mateo, California, United States | $47 to $70/hour | 2026-11-04 |  |
-| Zus Health | [Platform Software Engineering Co-op](https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a) | Boston, MA |  | 2026-11-04 |  |
+| Skydio | [Frontend Software Engineer Intern](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd) | San Mateo, California, United States | $47 to $70/hour | 2026-11-04 |  |
 | GripFusion | [Internship Opportunities](https://gripfusion.breezy.hr/p/9f819bbe534a-internship-opportunities) | Ann Arbor, MI |  | 2026-11-04 |  |
 | Metalenz | [Camera Software Intern Summer 2027](https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6) · Summer 2027 | Boston, MA |  | 2026-11-04 |  |
 | Rhoda AI | [Software Engineer Intern, Inference](https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4) | Mountain View |  | 2026-11-04 |  |
@@ -358,7 +362,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | US Internships Public Careers Site | [Software Development Engineer in Test Intern - Undergraduate](https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221772004) | United States, San Mateo, CA | $50/hour | 2026-11-04 | no visa sponsorship |
 | Amplify | [Summer 2027: IT Services Intern](https://jobs.ashbyhq.com/amplify/ae648c1a-0973-440e-902d-cc41dc60f52f) · Summer 2027 | Remote - United States |  | 2026-11-04 |  |
 | Amplify | [Summer 2027: Software Engineering Intern](https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa) · Summer 2027 | Remote - United States |  | 2026-11-04 |  |
-| Bracebridge Capital | [Northeastern University Software Engineer - Application Development Co-op](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005) | Boston, MA | $43 to $48/hour | 2026-11-04 |  |
 | Bracebridge Capital | [Northeastern University Software Engineer - Business Intelligence Co-op](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005) | Boston | $43 to $48/hour | 2026-11-04 |  |
 | Braze | [Intern, Software Engineering](https://job-boards.greenhouse.io/braze/jobs/8301086) | New York City | $60/hour | 2026-11-04 |  |
 | National Information Solutions Cooperative (NISC) | [Intern - Application Analyst (Financials Software)](https://job-boards.greenhouse.io/nisc/jobs/8301304) · Summer 2027 | Mandan, ND |  | 2026-11-04 |  |
@@ -439,9 +442,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Relling | [Robotics Software Engineering Intern](https://jobs.ashbyhq.com/Relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e) | San Francisco |  | 2026-11-04 |  |
 | Partly | [Solutions Engineer Intern, US](https://jobs.ashbyhq.com/partly.com/842283ee-99bd-4dc0-bc9e-9a9567487217) | Austin, Texas |  | 2026-11-04 |  |
 | Range | [Software Engineering Intern](https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718) | McLean, VA |  | 2026-11-04 |  |
-| SeatGeek | [Security Engineer - Internship](https://seatgeek.com/jobs/8248151?gh_jid=8248151) · Summer 2028 | New York, New York | $55/hour | 2026-11-04 |  |
 | Amca | [Software Engineering Internship (Summer 2027)](https://job-boards.greenhouse.io/amca/jobs/4425120009) · Summer 2027 | El Segundo, CA | $30 to $50/hour | 2026-11-04 | US citizens/persons only |
-| Clay Labs | [Software Engineering Intern](https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa) | New York |  | 2026-11-04 |  |
 | Hermeus | [Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027](https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd) · Summer 2027 | Los Angeles, CA |  | 2026-11-04 | US citizens/persons only |
 | Keenfinity | [Software Engineering Intern](https://jobs.smartrecruiters.com/Keenfinity/744000152241469-software-engineering-intern) | Lincoln, NE, us | $25 to $27/hour | 2026-11-04 | no visa sponsorship |
 | LLNL | [Defense Science and Technology Internship Graduate Computer Student - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015740696-defense-science-and-technology-internship-graduate-computer-student-summer-2027) · Summer 2027 | Livermore, CA, us (hybrid) |  | 2026-11-04 | US citizens/persons only, clearance |
@@ -458,7 +459,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Keenfinity | [Software Test Automation Co-Op](https://jobs.smartrecruiters.com/Keenfinity/744000151395769-software-test-automation-co-op) | Fairport, NY, us | $25 to $26/hour | 2026-11-04 | no visa sponsorship |
 | SeatGeek | [Software Engineer - Internship](https://seatgeek.com/jobs/8227553?gh_jid=8227553) | New York, New York | $55/hour | 2026-11-04 |  |
 | Ibotta | [Information Security Intern](https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582) · Summer 2027 | Hybrid - Denver |  | 2026-11-04 |  |
-| VEGA Americas | [IT Co-Op - Spring 2027](https://job-boards.greenhouse.io/vegaamericas/jobs/4715490006) · Spring 2027 | Mason, OH | $17 to $20/hour | 2026-11-04 |  |
 | Vital Lyfe | [Software Engineering Internship - Spring 2027](https://jobs.ashbyhq.com/vital-lyfe/c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b) · Spring 2027 | Los Angeles - Greater Area |  | 2026-11-04 |  |
 | Collinear AI | [MTS - Research Scientist Internship](https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b) | Sunnyvale, California |  | 2026-11-04 |  |
 | Cowboy Space Corp. | [Intern, Software Engineering, 2027](https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a) | San Carlos, California |  | 2026-11-04 | US citizens/persons only |
@@ -609,7 +609,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Composio | [Fullstack Engineering Internship, Product Team (Fall 2026 & Winter 2027)](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d) · Fall 2026 | sf |  | 2026-11-04 |  |
 | Composio | [Forward Deployed Engineering Internship (Fall 2026 & Winter 2027)](https://jobs.ashbyhq.com/composio/6b742321-a1e6-46d7-88d1-103bae44df23) · Fall 2026 | sf |  | 2026-11-04 |  |
 | Zetier | [Cyber Engineering Intern](https://zetier.breezy.hr/p/720591ccecbf-cyber-engineering-intern) | Arlington, VA |  | 2026-11-04 |  |
-| The Nuclear Company | [Spring 2027 Software Engineering Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008) · Spring 2027 | Washington, DC | $25/hour | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | The Nuclear Company | [Summer 2027 Software Engineering Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) · Summer 2027 | Washington, DC | $25/hour | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Leap Group | [IT Support Intern (Part-Time)](https://ats.rippling.com/leap-group/jobs/5a793aa2-ad41-451c-9115-e22366d16edd) | Louisville, KY |  | 2026-11-04 |  |
 | CTC Campus - Website | [Software Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) · Summer 2027 | Chicago, Illinois, United States |  | 2026-11-04 |  |
@@ -628,8 +627,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Netic | [Software Engineer (Agent Platform) - Intern - 2026-2027](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) | San Francisco |  | 2026-11-04 |  |
 | Netic | [Forward Deployed Engineer (FDE) - Intern - 2026-2027](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c) | San Francisco |  | 2026-11-04 |  |
 | Serval | [Software Engineer Intern](https://jobs.ashbyhq.com/Serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b) | San Francisco |  | 2026-11-04 |  |
-| Palantir Technologies | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | Washington, D.C. | $10,000/month | 2026-11-04 | clearance |
-| Palantir Technologies | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Palo Alto, CA | $10,000/month | 2026-11-04 | clearance |
 | Pylon Labs | [Software Engineer, Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d) · Summer 2028 | San Francisco |  | 2026-11-04 |  |
 | IPConfigure | [Software Technical Support Engineer Intern](https://ipconfigure.bamboohr.com/careers/76) | Norfolk, Virginia, United States |  | 2026-11-04 |  |
 | Marshall Wace Internship Programmes | [Technology Intern - New York - 2027](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002) | New York | $150,000 | 2026-11-04 |  |
@@ -735,7 +732,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Micron | [Intern - Front End Materials Category Supplier Manager (CSM)](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161) | Boise, ID - North Office |  | 2026-11-03 |  |
 | NVIDIA | [AI Compiler and Kernel Intern – Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) · Summer 2027 | US, TX, Austin |  | 2026-11-03 |  |
 | Viasat | [Digital and Programmable Logic Engineer Intern](https://careers.viasat.com/careers-home/jobs/7088) | Tempe, Arizona | $20.91 to $67.07/hour | 2026-11-03 | US citizens/persons only |
-| Viasat | [Software Engineer Intern](https://careers.viasat.com/careers-home/jobs/7757) | Germantown, Maryland | $20.91 to $67.07/hour | 2026-11-03 | US citizens/persons only |
 | Microsoft | [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA, US | $5,690 to $12,250/month | 2026-11-02 |  |
 | Marsh McLennan | [2027 Summer Internship Program - Cyber Risk Management](https://mmc.wd1.myworkdayjobs.com/MMC/job/Boise---Broadway/XMLNAME-2027-Summer-Internship-Program---Cyber-Risk-Management_R_371099) · Summer 2027 | Boise - Broadway | $18.85/hour | 2026-11-02 |  |
 | Federal Reserve System | [2027 Summer Internship Program - Supervision & Regulation (Records and Information)](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Records-and-Information-_R-0000033858) · Summer 2027 | Atlanta, GA |  | 2026-11-02 | US citizens/persons only |
@@ -747,7 +743,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Garda Capital | [Infrastructure Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6239821004) | Wayzata, Minnesota, United States | $40/hour | 2026-11-02 |  |
 | HPE | [Software Engineering Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146) | Sunnyvale, California, United States of America | $35 to $41/hour | 2026-11-02 |  |
 | Keysight | [Solutions Engineering, Intern](https://jobs.keysight.com/careers-home/jobs/55091) · Summer 2028 | Santa Clara, California | $46.03 to $49.57/hour | 2026-11-02 | no visa sponsorship |
-| Molina Healthcare | [Cybersecurity Internship (Remote) – Summer 2027 (Undergraduate)](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040172) · Summer 2027 | United States (remote) |  | 2026-11-02 |  |
 | Nintendo of America | [Intern - Software Engineer, Graphics (NTD)](https://careers.nintendo.com/?gh_jid=4473550009) | Redmond, WA | $45/hour | 2026-11-02 | no visa sponsorship |
 | Nintendo of America | [Intern - Software Engineer, Performance Tools (NTD)](https://careers.nintendo.com/?gh_jid=4473568009) | Redmond, WA | $45/hour | 2026-11-02 | no visa sponsorship |
 | Siemens | [Strategic Student Program: Digital Enterprise Software Applications Internship (Summer 2027, GSCS)](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527491) · Summer 2027 | Charlotte - Michigan - United States of America; Chicago - Illinois -  |  | 2026-11-02 | no visa sponsorship |
@@ -756,3 +751,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Emerson (NI) | [Software Engineering Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010840) | Austin, TX, United States |  | 2026-10-30 | no visa sponsorship |
 | HCSC | [Early Careers - Cybersecurity Operations Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508) | IL - Chicago | $19.13 to $34.17/hour | 2026-10-30 | no visa sponsorship |
 | KLA | [Software Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1) | Milpitas, CA |  | 2026-10-30 |  |
+| Nintendo of America | [Intern - Software Engineer, Connectivity (NTD)](https://careers.nintendo.com/?gh_jid=4472147009) | Redmond, WA | $45/hour | 2026-10-30 | no visa sponsorship |
+| Siemens | [Building Automation Systems Specialist Internship](https://jobs.siemens.com/en_US/externaljobs/JobDetail/527690) | Dallas - Texas - United States of America; Plano - Texas - United Stat | $22 to $24/hour | 2026-10-30 |  |
+| Garda Capital | [Software Engineer Intern (C#)](https://job-boards.greenhouse.io/gardacp/jobs/6238021004) · Summer 2027 | Wayzata, Minnesota, United States | $45/hour | 2026-10-30 |  |
+| Zoox | [Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk)](https://jobs.lever.co/zoox/45594791-0b7b-4310-9a6e-067f53e4a191) | Foster City, CA |  | 2026-10-30 |  |
+| Skyworks | [Product Engineer Intern](https://careers.skyworksinc.com/job/Chelmsford-Product-Engineer-Intern-MA-01824-2558/1445115200/) | Chelmsford, US | $23 to $49/hour | 2026-10-30 | no visa sponsorship |

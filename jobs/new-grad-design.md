@@ -1,11 +1,13 @@
 # New grad and entry level: Design and creative
 
-177 open, newest first (by the date the scraper first saw them), updated 2026-11-12.
+177 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| McKinney | [Community Manager](https://job-boards.greenhouse.io/jobsmckinneycom/jobs/8384435) | Durham, NC (hybrid) | $65,000 to $90,000 | 2026-11-13 |  |
+| Resource Environmental Solutions LLC | [Designer I](https://job-boards.greenhouse.io/res/jobs/5458665008) | Pittsburgh, Pennsylvania, United States |  | 2026-11-13 |  |
 | Thomson Reuters | [Producer, Video Podcasts (Level 1 Journalist, TEMP)](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Los-Angeles-California/Producer--Video-Podcasts--Level-1-Journalist--TEMP-_JREQ205213) | United States of America, Los Angeles, California | $39 to $70/hour | 2026-11-12 |  |
 | Primer | [Curriculum Designer - Pursuits (Contractor)](https://jobs.ashbyhq.com/primer/8eb475e8-4d7b-4663-abd7-d71abdc31c85) | Remote |  | 2026-11-12 |  |
 | Stryker | [Label Designer (Remote)](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Label-Designer--Remote-_R576780) | Fort Lauderdale, Florida (remote) | $62,400 to $114,300 | 2026-11-12 | no visa sponsorship |
@@ -15,6 +17,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / C-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51991) | Sparks, Nevada |  | 2026-11-11 |  |
 | The Quality Group | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/5032407101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |
 | The Quality Group GmbH | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5023226101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |
+| Toast | [Video Designer](https://careers.toasttab.com/jobs?gh_jid=8261417) | Remote | $62,000 to $128,000 | 2026-11-11 |  |
 | Wade Trim | [Natural Gas Designer - #3081](https://jobs.lever.co/wadetrim/decd734b-91d4-4058-936f-6d3159c619a8) | Fort Worth, TX |  | 2026-11-11 |  |
 | Trilon Group | [Engineering Designer I](https://trilongroup.pinpointhq.com/en/postings/fd4c31a6-aac2-46f7-9abd-b46b3c2253e8) | Atlanta, Georgia | $65,000 to $80,000 | 2026-11-11 |  |
 | AccuWeather | [Graphic Production Artist](https://job-boards.greenhouse.io/accuweather/jobs/8367396) | State College, PA |  | 2026-11-10 |  |
@@ -40,8 +43,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | EBizCharge | [Graphic Designer I](https://ats.rippling.com/ebizcharge/jobs/7413e1ae-6d98-4a26-b478-e1bc2f67ba82) | Irvine, CA |  | 2026-11-05 |  |
 | Elyon International | [Producer Services Specialist-Remote](https://elyoninternational.bamboohr.com/careers/1085) | Portland, Oregon, United States (Remote) |  | 2026-11-05 |  |
 | Rapt Studio | [Designer (Interior Design/Architecture)](https://jobs.lever.co/RaptStudio/01b6726e-d7b0-411c-8bcd-f68ab738988e) | San Francisco, CA | $50,000 to $80,000 | 2026-11-05 |  |
-| DGA | [Designer](https://dga.bamboohr.com/careers/57) | San Diego, California, United States | $80,000 to $94,000 | 2026-11-05 |  |
-| Young Living Essential Oils | [UX/UI Designer I](https://youngliving.bamboohr.com/careers/212) | Lehi, Utah, United States |  | 2026-11-05 |  |
 | Enterprise Technology Services (Etek) | [Junior Graphic Designer/Production Designer](https://etek.bamboohr.com/careers/44) | Washington, District of Columbia, United States |  | 2026-11-05 |  |
 | WRJ Design Associates, LTD | [Interior Designer (Salt Lake City)](https://wrjdesign.bamboohr.com/careers/123) | Salt Lake City, Utah, United States |  | 2026-11-05 |  |
 | WRJ Design Associates, LTD | [Interior Designer (Jackson Hole)](https://wrjdesign.bamboohr.com/careers/124) | Jackson, Wyoming, United States |  | 2026-11-05 |  |
@@ -67,7 +68,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Evoke Agency | [JR Videographer](https://theevokeagency.bamboohr.com/careers/66) | Madison, Wisconsin, United States |  | 2026-11-05 |  |
 | AP on AP Media | [Audio Producer](https://jobs.smartrecruiters.com/APOnAPMedia/743999721386886-audio-producer) | Brooklyn, NY, us |  | 2026-11-05 |  |
 | Rice University | [Producer of Broadcast Services](https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6356) | United States |  | 2026-11-04 |  |
-| Taskrabbit | [Product Designer](https://job-boards.greenhouse.io/taskrabbit/jobs/8314929) | New York, New York, United States; San Francisco, California, United S (hybrid) | $141,000 | 2026-11-04 |  |
 | Jackson Spalding | [Junior Designer](https://ats.rippling.com/jackson-spalding/jobs/787c5542-0e88-47aa-8fe5-713212367328) | Atlanta, GA |  | 2026-11-04 |  |
 | Monumental Sports & Entertainment | [Junior Videographer](https://job-boards.greenhouse.io/monumentalsports/jobs/5275181007) | Washington, DC 20004 | $65,000 to $80,000 | 2026-11-04 |  |
 | Heavy Construction Systems Specialists, LLC | [Product Designer I](https://jobs.gem.com/heavy-construction-systems-specialists-llc/am9icG9zdDoRG9Mm9wyfqMehtdh9PpQE) | Remote |  | 2026-11-04 |  |
@@ -160,6 +160,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | RSM US | [UX Design Manager](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/UX-Design-Manager_JR122014) | Chicago | $126,500 to $223,900 | 2026-10-22 | no visa sponsorship |
 | Electronic Arts | [Experience Designer - Madden Core](https://jobs.ea.com/en_US/careers/JobDetail/Experience-Designer-I/216492) | Orlando, United States of America |  | 2026-10-22 |  |
 | Ford | [Junior Designer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70670) | Long Beach, CA, United States | $95,600 to $145,000 | 2026-10-21 | no visa sponsorship |
+| Paramount | [Designer, Toys](https://careers.paramount.com/job/Los-Angeles-Designer%2C-Toys-CA-90038/1430786400/) | Los Angeles, CA, US | $64,800 to $81,000 | 2026-10-20 |  |
 | Cook Children's | [Polysomnographic Tech (RPSGT)](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Polysomnographic-Tech--RPSGT-_JR-119823) | Fort Worth, TX |  | 2026-10-20 |  |
 | Cook Children's | [Polysomnographic Tech (RPSGT)](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Polysomnographic-Tech--RPSGT-_JR-112297) | Fort Worth, TX |  | 2026-10-20 |  |
 | Fox Corporation | [Freelance 'Digital 'Video Specialist](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Freelance--Digital--Video-Specialist_R50034035) | Los Angeles, California, USA | $28.85 to $39.42/hour | 2026-10-20 |  |
@@ -167,7 +168,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Paramount | [Digital Producer, WJZ](https://careers.paramount.com/job/Baltimore-Digital-Producer%2C-WJZ-MD-21211/1386247100/) | Baltimore, MD, US | $35/hour | 2026-10-20 |  |
 | Worley | [Piping Designer Level I](https://jobs.worley.com/careers/job/1133916402118) | Long Beach, CA, US; Monrovia, CA, US | $31.07 to $45.69/hour | 2026-10-20 |  |
 | Kiewit | [BIM Designer - Kiewit Industrial & Water Engineering](https://kiewitcareers.kiewit.com/job/Lenexa-BIM-Designer-Kiewit-Industrial-&-Water-Engineering-KS/1420673500/) | Lenexa, KS, US |  | 2026-10-20 |  |
-| Paramount | [Designer, Toys](https://careers.paramount.com/job/Los-Angeles-Designer%2C-Toys-CA-90038/1430786400/) | Los Angeles, CA, US | $64,800 to $81,000 | 2026-10-20 |  |
 | Panasonic North America | [Technician I Visual Inspection, Nights, D-Shift (7PM-7AM)[Wed-Fri + Alt Sat]](https://careers.na.panasonic.com/careers-home/jobs/51737) | Sparks, Nevada |  | 2026-10-20 |  |
 | Service Corporation International | [Memorial Designer](https://sci.wd5.myworkdayjobs.com/SCI/job/TX---Pflugerville/Memorial-Designer_Req167535) | TX - Pflugerville |  | 2026-10-20 |  |
 | xAI | [Data Visualization Engineer](https://job-boards.greenhouse.io/xai/jobs/5265194007) | Palo Alto, CA | $100,000 to $198,000 | 2026-10-20 | US citizens/persons only |

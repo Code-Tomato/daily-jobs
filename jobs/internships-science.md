@@ -1,11 +1,16 @@
 # Internships and co-ops: Science and research
 
-150 open, newest first (by the date the scraper first saw them), updated 2026-11-12.
+154 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Entegris | [Research Associate Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Research-Associate-Intern---Summer-2027_REQ-15864) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
+| Entegris | [Research Associate Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Research-Associate-Intern---Summer-2027_REQ-15849) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
+| Entegris | [Formulation Scientist, Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Formulation-Scientist--Intern---Summer-2027_REQ-15876) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
+| Henry Ford Health | [Research Student- Individual & Genomic Medicine](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016826236-research-student-individual-genomic-medicine) | Detroit, MI, us |  | 2026-11-13 |  |
+| Pacific Northwest National Laboratory | [PhD Intern - Atmospheric Chemistry](https://careers.pnnl.gov/careers-home/jobs/13715) | Richland, Washington | $24.04 to $36.06/hour | 2026-11-13 |  |
 | HPE | [HPE Labs - Systems Architecture Lab Research Associate Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Systems-Architecture-Lab-Research-Associate-Intern_1218728) | Milpitas, California, United States of America | $90,002 to $193,752 | 2026-11-12 |  |
 | Entegris | [Analytical Chemist Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Danbury-CT/Analytical-Chemist-Intern_REQ-15855) · Summer 2027 | Danbury, CT | $20 to $30/hour | 2026-11-11 |  |
 | Entegris | [Microanalysis Scientist Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Microanalysis-Scientist-Intern_REQ-15842) · Summer 2027 | Billerica, MA | $20 to $30/hour | 2026-11-11 |  |
@@ -92,7 +97,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Amgen | [Grad Intern – Bioanalytical Research Associate (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097) · Summer 2027 | US - California - Thousand Oaks | $35.34 to $41.20/hour | 2026-10-30 |  |
 | Cedars-Sinai | [Research Intern (Academic Credit) - Simpkins Lab - Department of Neurology - Per Diem (On-site)](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21589) | Los Angeles, CA, United States |  | 2026-10-29 |  |
 | Scripps Research | [INTERN RESEARCH - Encalada Lab](https://recruiting2.ultipro.com/SCR1003TSRI/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/OpportunityDetail?opportunityId=3c94ba0a-1943-4458-97d8-60e4f4bdf1d0) | San Diego, CA, USA | $17.75 to $20.40/hour | 2026-10-28 |  |
-| Cedars-Sinai | [Research Intern, Ramin Lab](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21590) | Los Angeles, CA, United States (hybrid) |  | 2026-10-27 |  |
 | Seagate | [Organic Chemistry Scientist/Engineer Intern - Summer 2027](https://seagatecareers.com/job/Longmont-Organic-Chemistry-ScientistEngineer-Intern-Summer-2027-CO-80501/1443837500/) · Summer 2027 | Longmont, United States | $22 to $35/hour | 2026-10-27 |  |
 | Trace3 | [Innovation Research & Development Lab Intern](https://job-boards.greenhouse.io/trace3/jobs/8306880) | Houston, TX | $18 to $27/hour | 2026-10-27 |  |
 | KLA | [Chemistry R&D Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Chemistry-R-D-Intern_2642152-1) · Summer 2027 | Totowa, NJ | $31.50 to $50/hour | 2026-10-24 |  |

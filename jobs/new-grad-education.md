@@ -1,11 +1,20 @@
 # New grad and entry level: Education
 
-361 open, newest first (by the date the scraper first saw them), updated 2026-11-12.
+359 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Texas Children's Hospital | [Childbirth Parenting Educator - PER DIEM, Saturday Sunday ONLY](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428640) | Houston, TX, United States |  | 2026-11-13 |  |
+| Assessment Intervention Management | [Math Test Prep Tutor and/or English Test Prep Tutor](https://assessment-intervention-management.breezy.hr/p/672addd8fec2-math-test-prep-tutor-and-or-english-test-prep-tutor) | San Antonio, TX | $25 to $40/hour | 2026-11-13 | no visa sponsorship |
+| Texas State University | [Graduate Admissions Specialist](https://jobs.hr.txstate.edu/postings/59243) | San Marcos, Other - Remote Work Possible, TX |  | 2026-11-13 | no visa sponsorship |
+| TTUHSC | [Asst/Assoc/Professor - Trauma/CC Surgery, Level 1 Trauma, Lubbock](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5281&PageType=JobDetails&jobid=927401) | Lubbock, Texas, US | $100,000 | 2026-11-13 |  |
+| Uncommon Schools | [High School Math Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000161375569-high-school-math-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-13 |  |
+| Uncommon Schools | [Middle School Science Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000161375519-middle-school-science-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-13 |  |
+| Uncommon Schools | [High School Spanish Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000161375429-high-school-spanish-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-13 |  |
+| Uncommon Schools | [High School ELA Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000161375219-high-school-ela-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-13 |  |
+| UT Health San Antonio | [Research Services Librarian](https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8437) | San Antonio, TX, United States |  | 2026-11-13 |  |
 | CSC Generation | [Seasonal Chef Instructor (Sur La Table)](https://jobs.lever.co/cscgeneration-2/d02d9a5a-787c-4448-bf57-f16641e278d9) | Westlake, OH |  | 2026-11-12 |  |
 | LLNL | [Laser Science and Technology Academic Graduate Appointee](https://jobs.smartrecruiters.com/LLNL/3743990016809806-laser-science-and-technology-academic-graduate-appointee) | Livermore, CA, us | $70,308 to $111,384 | 2026-11-12 | US citizens/persons only, clearance |
 | Green Tree School & Services | [Special Education Paraprofessional](https://jobs.ashbyhq.com/Green-Tree-School-and-Services/84c69e9c-0278-403b-a35b-921fb45ef262) | Philadelphia, PA |  | 2026-11-12 |  |
@@ -82,29 +91,22 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CAIRO | [Inclusion Classroom Aide - ELC](https://cairo.bamboohr.com/careers/324) | Portland, Oregon, United States | $23.16/hour | 2026-11-05 |  |
 | Township of Upper St Clair | [Group Exercise Instructor](https://townshipusc.bamboohr.com/careers/251) | Upper St. Clair, Pennsylvania, United States |  | 2026-11-05 |  |
 | Kitsap Community Resources | [Head Start Teacher](https://kitsap-community-resources.breezy.hr/p/50869b59f3fa-head-start-teacher) | Bremerton, WA | $21.03 to $23.37/hour | 2026-11-05 |  |
-| Discovery Kidzone | [Part Time Teacher — Tues/Thurs Childcare & Preschool (Entry Level)](https://discoverykidzone.bamboohr.com/careers/480) | Bozeman, Montana, United States |  | 2026-11-05 |  |
 | Khan Lab School | [Makerspace Manager](https://khanlabschool.bamboohr.com/careers/235) | Mountain View, California, United States | $85,000 to $100,000 | 2026-11-05 |  |
 | Aspire Early Learning Academy | [Full Time Teacher](https://aspireearlylearningacademy.bamboohr.com/careers/80) | Moncks Corner, South Carolina, United States |  | 2026-11-05 |  |
 | Rocketship Public Schools | [Dedicated Aid-Paraprofessional](https://jobs.lever.co/rocketship/20448d55-97c3-4850-a662-86fff6e4c314) | Washington, DC |  | 2026-11-05 |  |
-| Big Ideas Educational Services | [Afterschool PE Teacher - 3PM-6PM](https://bigideas.bamboohr.com/careers/141) | Miami Gardens, Florida, United States |  | 2026-11-05 |  |
-| Principia Education | [Middle School Test Prep Tutor (In-Person)](https://principiaeducation.bamboohr.com/careers/33) | McLean, Virginia, United States | $50 to $100/hour | 2026-11-05 |  |
 | Principia Education | [SAT & Test Prep Tutor (In-Person)](https://principiaeducation.bamboohr.com/careers/34) | McLean, Virginia, United States | $50 to $100/hour | 2026-11-05 |  |
 | Freudigman & Billings LLC | [Junior Admissions Test Prep Instructor](https://freudigmanbillings.bamboohr.com/careers/85) | Westport, Connecticut, United States | $67,000 to $75,000 | 2026-11-05 |  |
 | Hope Center for Children | [Direct Care Family Teacher - Second Shift](https://hopecfc.bamboohr.com/careers/75) | Spartanburg, South Carolina, United States |  | 2026-11-05 |  |
 | Project Kitty Hawk | [Application Specialist](https://jobs.lever.co/projectkittyhawk/658b86fe-9d54-46da-81c1-6b04d0321ebe) | Remote |  | 2026-11-05 |  |
-| Magical Beginnings | [Preschool Teacher](https://jobs.lever.co/magicalbeginningslc/77848195-778b-4d55-9630-84ce1421fedc) | Kingston, MA |  | 2026-11-05 |  |
-| Big Ideas Educational Services | [Afternoon PE Teacher](https://bigideas.bamboohr.com/careers/134) | Miami Gardens, Florida, United States |  | 2026-11-05 |  |
-| FRAME Technical Services, LLC | [EVOC Instructor - Hanford Patrol Training Academy](https://framellc.bamboohr.com/careers/36) | Richland, Washington, United States |  | 2026-11-05 |  |
-| Magical Beginnings | [Toddler Teacher](https://jobs.lever.co/magicalbeginningslc/7a003d4c-714b-4c12-90f5-73fbbee0c72e) | Middleton, MA |  | 2026-11-05 |  |
+| Magical Beginnings | [Preschool Teacher- PAID WINTER BREAK](https://jobs.lever.co/magicalbeginningslc/77848195-778b-4d55-9630-84ce1421fedc) | Kingston, MA |  | 2026-11-05 |  |
+| Magical Beginnings | [Toddler Teacher- PAID WINTER BREAK](https://jobs.lever.co/magicalbeginningslc/7a003d4c-714b-4c12-90f5-73fbbee0c72e) | Middleton, MA |  | 2026-11-05 |  |
 | ILSC Education Group | [ELS Substitute Instructor](https://ilsc.bamboohr.com/careers/715) | La Verne, California, United States | $19.50 to $25.50/hour | 2026-11-05 |  |
-| Urban Ecology Center | [Substitute Environmental Educator](https://urbanecologycenter.bamboohr.com/careers/364) | Milwaukee, Wisconsin, United States | $20/hour | 2026-11-05 |  |
 | Freedom Preparatory Academy Charter Schools | [Full-time Custodian Middle School](https://jobs.lever.co/freedomprep/f89f4301-1759-4693-a1c0-6b23a816515c) | Memphis, TN |  | 2026-11-05 |  |
 | Magical Beginnings | [Toddler Teacher - Paid Winter Break](https://jobs.lever.co/magicalbeginningslc/63cda724-580e-47a7-ae48-492615878ccb) | Beverly, MA |  | 2026-11-05 |  |
 | CSC Generation | [Chef Instructor, Pastry (Sur La Table)](https://jobs.lever.co/cscgeneration-2/9c1ed1fe-a510-438e-9fca-b752d56eab12) | Portland, OR |  | 2026-11-05 |  |
 | CSC Generation | [Chef Instructor, Pastry (Sur La Table)](https://jobs.lever.co/cscgeneration-2/c095de1e-af0d-4604-8f33-7b72d5fb4ded) | Walnut Creek, CA |  | 2026-11-05 |  |
 | CSC Generation | [Chef Instructor, Savory (Sur La Table)](https://jobs.lever.co/cscgeneration-2/641204b8-5979-435e-b992-67ae85b05103) | Walnut Creek, CA |  | 2026-11-05 |  |
 | CSC Generation | [Chef Instructor, Savory (Sur La Table)](https://jobs.lever.co/cscgeneration-2/7ff9f6ba-9939-46c9-8614-f20cc8feeaf0) | Portland, OR |  | 2026-11-05 |  |
-| Magical Beginnings | [Toddler Teacher](https://jobs.lever.co/magicalbeginningslc/f8e891d2-5b89-4fdc-8202-1b6b6098d1d0) | Hamilton, MA |  | 2026-11-05 |  |
 | Inter-Tribal Council of Nevada | [WIC Educator](https://itcn.bamboohr.com/careers/186) | Sparks, Nevada, United States |  | 2026-11-05 |  |
 | Opportunity Development Centers Inc | [Youth Services Mentor-After School](https://odcinc.bamboohr.com/careers/579) | Wausau, Wisconsin, United States | $17/hour | 2026-11-05 |  |
 | Ppgny | [Sexuality Educator/TAP Advisor](https://jobs.lever.co/ppgny/893b3b8f-5f64-44c5-a7cd-6a8462d00625) | Hempstead, NY |  | 2026-11-05 |  |
@@ -114,7 +116,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Hope Center for Children | [Night Shift Relief Family Teacher (PRN) Direct Care](https://hopecfc.bamboohr.com/careers/74) | Spartanburg, South Carolina, United States |  | 2026-11-05 |  |
 | Aspire Early Learning Academy | [Full Time Infant/Toddler Teacher](https://aspireearlylearningacademy.bamboohr.com/careers/70) | Moncks Corner, South Carolina, United States |  | 2026-11-05 |  |
 | Pacific College | [ADN Program Full-time Faculty Pediatrics](https://pacific.bamboohr.com/careers/95) | Costa Mesa, California, United States |  | 2026-11-05 |  |
-| Magical Beginnings | [Infant Teacher](https://jobs.lever.co/magicalbeginningslc/bba4cbb2-9c1c-4c6b-a6f6-c704759077ee) | Pembroke, MA |  | 2026-11-05 |  |
+| Magical Beginnings | [Infant Teacher- PAID WINTER BREAK](https://jobs.lever.co/magicalbeginningslc/bba4cbb2-9c1c-4c6b-a6f6-c704759077ee) | Pembroke, MA |  | 2026-11-05 |  |
 | Magical Beginnings | [Toddler Preschool Teacher](https://jobs.lever.co/magicalbeginningslc/8b845c93-f450-4f2e-b029-f786100a34d8) | Plymouth, MA |  | 2026-11-05 |  |
 | Magical Beginnings | [Preschool Teacher - Paid Winter Break](https://jobs.lever.co/magicalbeginningslc/3ca771f3-ad7d-4b3b-a48b-cbbac5de0c77) | Bellingham, MA |  | 2026-11-05 |  |
 | DREAM | [[Immediate Start] Recess Coach - East Harlem Elementary and Middle School](https://jobs.lever.co/wearedream/27b34abb-26da-4fa6-b786-0776224b93f7) | New York, NY - Multi-Site | $17.50 to $18/hour | 2026-11-05 |  |
@@ -124,9 +126,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Yu Ming Charter School | [[2026-2027] School Custodian](https://yumingcharterschool.bamboohr.com/careers/251) | Oakland, California, United States | $23 to $28/hour | 2026-11-05 |  |
 | KidTown Learning Academy | [2026-2027 4K Teacher](https://kidtownlearningacademy.bamboohr.com/careers/38) | Milwaukee, Wisconsin, United States |  | 2026-11-05 |  |
 | Ilisagvik College | [Adjunct Instructor (CDL/HEO)](https://ilisagvik.bamboohr.com/careers/337) | Utqiaġvik, Alaska, United States |  | 2026-11-05 |  |
-| Naperville Public Library | [Facilities Maintenance Worker - Nichols Library](https://napervillepl.bamboohr.com/careers/255) | Naperville, Illinois, United States |  | 2026-11-05 |  |
 | Colusa Indian Community Council | [Tutor (Educational Liaison)](https://colusa.bamboohr.com/careers/175) | Colusa, California, United States |  | 2026-11-05 |  |
-| Magical Beginnings | [Toddler Teacher](https://jobs.lever.co/magicalbeginningslc/90acc833-2fc6-4ed1-9bf0-486a3860e92a) | Middleton, MA |  | 2026-11-05 |  |
+| Magical Beginnings | [Toddler Teacher- PAID WINTER BREAK](https://jobs.lever.co/magicalbeginningslc/90acc833-2fc6-4ed1-9bf0-486a3860e92a) | Middleton, MA |  | 2026-11-05 |  |
 | Lansing School District | [Junior Varsity Boys Basketball Coach](https://jobs.lever.co/lansingschools/cb0fea30-4a47-4eb1-9605-a9f0483544ab) | Lansing, MI |  | 2026-11-05 |  |
 | French American School of Denver | [French Immersion Classroom Teacher Pool (K-5)](https://fasdenver.bamboohr.com/careers/30) | Denver, Colorado, United States |  | 2026-11-05 |  |
 | Pacific College | [MSN-FNP Adjunct Faculty](https://pacific.bamboohr.com/careers/89) | Costa Mesa, California, United States |  | 2026-11-05 |  |
@@ -246,7 +247,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Red Rabbit | [Food Service Worker/Packer , In-School - Washinton D.C.](https://red-rabbit.breezy.hr/p/9e21ccf451d1-food-service-worker-packer-in-school-washinton-d-c) | Washington, DC | $18 to $20/hour | 2026-11-04 |  |
 | Covista | [MSN Acute Care NP (Adjunct)](https://jobs.smartrecruiters.com/Covista/744000143871784-msn-acute-care-np-adjunct-) | remote, REMOTE, us |  | 2026-11-04 |  |
 | KIPP | [KIPP - Instructional Aide - Elementary School (26-27)](https://jobs.smartrecruiters.com/KIPP/744000143922449-kipp-instructional-aide-elementary-school-26-27-) | San Francisco, CA, us | $20.92 to $24.84/hour | 2026-11-04 |  |
-| IXL Learning | [Curriculum Alignment Specialist, Math Focus](https://www.ixl.com/company/jobs?gh_jid=8713967002) | Raleigh, NC |  | 2026-11-04 |  |
 | Apollo After School | [After Care Educator](https://apollo-after-school.breezy.hr/p/c2ab51009f1f-after-care-educator) | Beachwood, OH | $20/hour | 2026-11-04 |  |
 | Boyd Gaming | [Dealer School Trainee](https://jobs.smartrecruiters.com/BoydGaming/3743990014382054-dealer-school-trainee) | Michigan City, IN, us |  | 2026-11-04 |  |
 | KIPP | [School Bus Driver](https://jobs.smartrecruiters.com/KIPP/744000140530499-school-bus-driver) | Miami, FL, us | $18/hour | 2026-11-04 |  |
@@ -309,7 +309,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kokua Education - LinkedIn | [Part-time Substitute Teacher - Up to $185 daily](https://job-boards.greenhouse.io/kokualinkedin/jobs/6620216002) | New York, NY | $170 to $222/hour | 2026-11-04 |  |
 | Kokua Education - LinkedIn | [Part-time Substitute Teacher - Up to $220 daily](https://job-boards.greenhouse.io/kokualinkedin/jobs/6620906002) | Denver, CO | $200 to $220/hour | 2026-11-04 |  |
 | Proximity Learning Inc. | [Academic Tutors](https://proxlearn.bamboohr.com/careers/61) | Chicago , Illinois, United States | $30/hour | 2026-11-04 |  |
-| Nypl | [Adult English Language and Literacy Intake Advisor (Wakefield Library - Bronx)](https://nypl.pinpointhq.com/en/postings/aeb05a95-b97d-4c3a-ad6c-22caadd3ba26) | Bronx, New York |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor](https://ymcaboston.pinpointhq.com/en/postings/01a40c0b-d554-4d78-87ea-def17e0b15f6) | Needham, MA |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Substitute teacher for Remote or hybrid ESOL Instructors: Beginner – Advanced levels](https://ymcaboston.pinpointhq.com/en/postings/58b1db2e-e99d-492e-9b69-2ba190679d80) | Boston, Massachusetts (hybrid) |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Sports Instructor - Jr. Celtics Youth Sports Coach](https://ymcaboston.pinpointhq.com/en/postings/9bbf8983-a4f1-450f-b0c4-b4607c5907b6) | Brighton, MA |  | 2026-11-04 |  |
@@ -359,7 +358,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Texas Health Resources | [Admissions Specialist-ER-PRN](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26008277&lang=en) | Fort Worth |  | 2026-10-20 |  |
 | Christus Health | [Dietician - Oncology](https://careers.christushealth.org/opportunity/dietician-oncology-381661) | Longview, TX, US |  | 2026-10-20 |  |
 | Texas Southern University | [Academic Advisor](https://jobs.tsu.edu/postings/11682) | Houston, TX | $45,486.69 to $57,995.53 | 2026-10-20 |  |
-| CommonSpirit Health (St. Luke's Health) | [Group Fitness Instructor](https://www.commonspirit.careers/job/bryan/group-fitness-instructor/35300/99761238752) | BRYAN, TX |  | 2026-10-20 |  |
 | H-E-B | [Houston School of Retail Leadership Program](https://careers.heb.com/careers-home/jobs/190134) | Spring, Texas |  | 2026-10-20 |  |
 | Cedars-Sinai | [Research Grant Specialist I - Department of Neurology - Hybrid](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19357) | Los Angeles, CA, United States (hybrid) |  | 2026-10-20 |  |
 | Texas Tech University | [Instructor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5637&PageType=JobDetails&jobid=920138) | Texas, US |  | 2026-10-20 |  |

@@ -1,11 +1,28 @@
 # Internships and co-ops: Mechanical, aerospace and manufacturing
 
-1,457 open, newest first (by the date the scraper first saw them), updated 2026-11-12. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,446 open, newest first (by the date the scraper first saw them), updated 2026-11-13. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Intuitive Machines | [Guidance, Navigation & Controls (GNC) Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575622&lang=en_US) · Summer 2027 | Houston, TX, US |  | 2026-11-13 |  |
+| Intuitive Machines | [Propulsion Intern - Aerospace Engineering](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575568&lang=en_US) · Summer 2027 | Houston, TX, US |  | 2026-11-13 |  |
+| Concurrent Technologies Corporation | [Mechanical Engineering Intern](https://concurrent-technologies-corporation.breezy.hr/p/3af91a393333-mechanical-engineering-intern) | Johnstown, PA |  | 2026-11-13 |  |
+| CrowdStrike | [Launch Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Launch-Intern_R30570) | USA - Sunnyvale, CA | $22 to $30/hour | 2026-11-13 |  |
+| Entegris | [Mechanical Engineering Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866) · Summer 2027 | San Luis Obispo, CA | $20 to $30/hour | 2026-11-13 |  |
+| Entegris | [Quality Engineering Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Colorado-Springs-CO/Quality-Engineering-Intern_REQ-15867) · Summer 2027 | Colorado Springs, CO | $20 to $30/hour | 2026-11-13 |  |
+| Entegris | [Manufacturing Engineer Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Colorado-Springs-CO/Manufacturing-Engineer-Intern_REQ-15871) · Summer 2027 | Colorado Springs, CO | $20 to $30/hour | 2026-11-13 |  |
+| Entegris | [Quality Engineering Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Chaska-MN/Quality-Engineering-Intern_REQ-15878) · Summer 2027 | Chaska, MN | $20 to $30/hour | 2026-11-13 |  |
+| Entegris | [Manufacturing Engineering Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Manufacturing-Engineering-Intern---Summer-2027_REQ-15835-1) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
+| Intel | [SLT Mechanical Design Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/SLT-Mechanical-Design-Intern_JR0286720) | US, Oregon, Hillsboro | $89,098 to $89,102 | 2026-11-13 |  |
+| Motorola Solutions | [North America (NA) Systems Engineering Operations Internship - 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657) | Chicago, IL (hybrid) |  | 2026-11-13 |  |
+| Shield AI | [2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)](https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca) · Summer 2027 | San Diego, California |  | 2026-11-13 |  |
+| Toyota Research Institute | [Robotics Intern, Prototyping and Research Operations](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628) | Cambridge, MA | $40 to $58/hour | 2026-11-13 |  |
+| Wabtec | [Transducer Manufacturing Engineering Co-Op](https://jobs.smartrecruiters.com/Wabtec/3743990016822316-transducer-manufacturing-engineering-co-op) | Waltham, MA, us | $24 to $26/hour | 2026-11-13 | US citizens/persons only |
+| Southwest Research Institute | [STUDENT ASSISTANT-R&D - STUDENT SCIENTIST - Materials Chemistry](https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=18-01651) · Summer 2027 | San Antonio, Texas |  | 2026-11-13 | US citizens/persons only |
+| Punchcut | [Design Engineering Intern 2027](https://punchcut.bamboohr.com/careers/65) | San Francisco, California, United States (Remote) |  | 2026-11-13 |  |
+| Impulse Space | [Manufacturing Engineering Intern (Summer 2027)](https://impulsespace.pinpointhq.com/en/postings/db2664bb-d8ef-41fb-80d6-c19ac0215a34) · Summer 2027 | Redondo Beach, California |  | 2026-11-13 | US citizens/persons only |
 | Analog Devices | [Mechanical Engineer - Advanced Robotics Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mechanical-Engineer---Advanced-Robotics-Intern_R268505) | US, MA, Wilmington | $22 to $41/hour | 2026-11-12 |  |
 | Lennox | [HVAC Service Apprentice](https://globalcareers-lennox.icims.com/jobs/57925/hvac-service-apprentice/job) | Fort Wayne, IN | $33,000 to $42,000 | 2026-11-12 |  |
 | Accenture | [Manufacturing Execution Systems (MES) Manager / Apprentice.io](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Manufacturing-Execution-Systems--MES--Manager---Apprenticeio_R00368172) | Boston, 888 Boylston, Corp | $94,400 to $293,800 | 2026-11-12 |  |
@@ -15,14 +32,15 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lightmatter | [Packaging Thermal and Mechanical Analysis Internship - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473871008?gh_jid=5473871008) · Summer 2027 | Mountain View, CA | $53 to $57/hour | 2026-11-12 |  |
 | Loram | [Mechanical Engineering Intern](https://jobs.smartrecruiters.com/Loram1/3743990016798175-mechanical-engineering-intern) | Hamel, MN, us |  | 2026-11-12 |  |
 | Pacific Northwest National Laboratory | [Undergraduate Intern - Mechanical Engineer - Winter 2027](https://careers.pnnl.gov/careers-home/jobs/13549) · Winter 2027 | Richland, Washington | $17.13 to $27.02/hour | 2026-11-12 |  |
-| Regent | [Composite Structures Engineering Intern](https://jobs.ashbyhq.com/REGENT/1197920e-95f8-42e9-b4a6-1c40ec7137bd) | North Kingstown, Rhode Island, USA |  | 2026-11-12 |  |
+| Regent | [Composite Structures Engineering Intern (Summer)](https://jobs.ashbyhq.com/REGENT/1197920e-95f8-42e9-b4a6-1c40ec7137bd) · Summer | North Kingstown, Rhode Island, USA |  | 2026-11-12 |  |
 | Seagate | [Head Disk Mechanical Intern - Summer 2027](https://seagatecareers.com/job/Shakopee-Head-Disk-Mechanical-Intern-Summer-2027-MN/1442397800/) · Summer 2027 | Shakopee, United States | $27 to $37/hour | 2026-11-12 |  |
 | Siemens | [Manufacturing Engineering Internship - Automation & Industrial Engineering](https://jobs.siemens.com/en_US/externaljobs/JobDetail/529227) · Summer 2027 | Buffalo Grove, Illinois, United States of America |  | 2026-11-12 | no visa sponsorship |
 | Sonic Automotive | [Apprentice Automotive Buyer](https://jobs.smartrecruiters.com/SonicAutomotive/744000161127149-apprentice-automotive-buyer) | Charlotte, NC, us | $54,000 to $60,000 | 2026-11-12 |  |
 | T3 Services Group | [HVAC Install Apprentice](https://mainstream-home-services.breezy.hr/p/fc1ebf921c2b-hvac-install-apprentice) | Spokane Valley, WA |  | 2026-11-12 |  |
-| Ultragenyx Pharmaceutical | [Intern, Manufacturing Associate, Downstream and Central Services, 6:00 AM - 4:30 PM](https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4753208005?gh_jid=4753208005) | Bedford, MA | $23 to $28/hour | 2026-11-12 |  |
-| Ultragenyx Pharmaceutical | [Intern, Manufacturing Associate, Upstream, 7:00 AM - 7:00 PM](https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4753503005?gh_jid=4753503005) | Bedford, MA | $23 to $28/hour | 2026-11-12 |  |
+| Ultragenyx Pharmaceutical | [Intern, Manufacturing Associate, Downstream and Central Services, 6:00 AM - 4:30 PM](https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4753208005?gh_jid=4753208005) | Bedford, MA | $25 to $30/hour | 2026-11-12 |  |
+| Ultragenyx Pharmaceutical | [Intern, Manufacturing Associate, Upstream, 7:00 AM - 7:00 PM](https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4753503005?gh_jid=4753503005) | Bedford, MA | $25 to $30/hour | 2026-11-12 |  |
 | Daimler Truck North America | [Heavy Duty Engine Assembly Industrial Engineer Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Heavy-Duty-Engine-Assembly-Industrial-Engineer-Intern_DT-20655) | Detroit, MI US | $21 to $29/hour | 2026-11-11 |  |
+| MacDonald-Miller Facility Solutions | [Intern - Design Engineering](https://apply.workable.com/j/2730D42348) | Seattle, Washington, United States | $26/hour | 2026-11-11 |  |
 | AECOM | [Design Engineering Intern - Networking Event with AECOM – Raleigh, NC](https://jobs.smartrecruiters.com/AECOM2/744000160950270-design-engineering-intern-networking-event-with-aecom-raleigh-nc) · Summer 2027 | Greenville, SC, us |  | 2026-11-11 | no visa sponsorship |
 | Analog Devices | [Mechatronics Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831) | US, OR, Beaverton | $22 to $41/hour | 2026-11-11 |  |
 | Aurora | [Safety & Systems Engineering Intern](https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5) · Summer 2027 | Mountain View, CA | $52 to $65/hour | 2026-11-11 |  |
@@ -34,8 +52,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Litmus | [Industrial Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/litmus/429f682a-10b4-456a-8d66-8c5c13c6425e) · Summer 2027 | Santa Clara, California |  | 2026-11-11 |  |
 | NOV | [Mechanical Engineering Intern](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/45478) | Moore, OK, United States |  | 2026-11-11 |  |
 | Rambus | [CAD Engineering Intern](https://careers-rambus.icims.com/jobs/23121/cad-engineering-intern/job) | San Jose, CA | $25.80 to $47.80/hour | 2026-11-11 |  |
-| SoLa Impact | [Manufacturing Engineering Intern](https://apply.workable.com/j/719D6FD1EC) | Los Angeles, California, United States |  | 2026-11-11 |  |
-| MacDonald-Miller Facility Solutions | [Intern - Design Engineering](https://apply.workable.com/j/2730D42348) | Seattle, Washington, United States | $26/hour | 2026-11-11 |  |
+| SoLa Impact | [Industrial Engineering Intern](https://apply.workable.com/j/719D6FD1EC) | Los Angeles, California, United States |  | 2026-11-11 |  |
 | Industrial Electric Manufacturing | [Manufacturing Engineer Co-Op (Spring 2027)](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4411786009) · Spring 2027 | Jacksonville, Florida, United States |  | 2026-11-11 |  |
 | Formlabs | [Mechanical Engineering Intern (Summer 2027)](https://careers.formlabs.com/job/8199928/apply/?gh_jid=8199928) · Summer 2027 | Somerville, MA |  | 2026-11-11 |  |
 | Formlabs | [Materials Intern (Summer 2027)](https://careers.formlabs.com/job/8212692/apply/?gh_jid=8212692) · Summer 2027 | Somerville, MA |  | 2026-11-11 |  |
@@ -450,10 +467,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Micron | [Intern - DRAM Design Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) · Fall 2027 | Boise, ID - Main Site |  | 2026-11-05 |  |
 | SharkNinja | [Spring 2027: Quality Engineering Co-op, Shark (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723761006) · Spring 2027 | Needham, MA, United States | $30 to $36/hour | 2026-11-05 |  |
 | Siemens | [Union HVAC Apprentice](https://jobs.siemens.com/en_US/externaljobs/JobDetail/528446) | Dallas, Texas, United States of America |  | 2026-11-05 |  |
-| T-Mobile | [Summer 2027 Quality Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Quality-Engineering-Internship_REQ381210) · Summer 2027 | Philadelphia, Pennsylvania | $27 to $50/hour | 2026-11-05 |  |
 | Toyota Research Institute | [Robotics Research Intern, Manipulation](https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd) | Los Altos, CA | $45 to $65/hour | 2026-11-05 |  |
 | Waymo | [2027 Summer Intern, MS/PhD, Depot Automation](https://careers.withwaymo.com/jobs?gh_jid=8350687) · Summer 2027 | San Francisco, California | $70 to $85/hour | 2026-11-05 |  |
-| T-Mobile | [Summer 2027 Industrial Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736) · Summer 2027 | Irving, Texas |  | 2026-11-05 |  |
 | McAfee Heating and Air Conditioning | [HVAC Installation Apprentice – Start Your Career in the HVAC Trade](https://job-boards.greenhouse.io/mcafee/jobs/5468649008) | Dayton, OH |  | 2026-11-05 |  |
 | Exowatt | [Supply Chain & Manufacturing Spring Intern - Manufacturing (Austin)](https://jobs.lever.co/exowatt/4897f64b-552e-4426-a315-43feb605c672) · Spring 2027 | Austin, TX |  | 2026-11-05 |  |
 | Graepel North America | [Apprenticeship for Industrial Manufacturing Technician](https://graepelnorthamerica.bamboohr.com/careers/457) | Omaha, Nebraska, United States |  | 2026-11-05 |  |
@@ -467,7 +482,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Yellowstone Local | [HVAC & Plumbing Apprentice](https://jobs.yellowstonelocal.com/o/hvac-plumbing-apprentice-4) | Traverse City, MI, US | $20 to $25/hour | 2026-11-05 |  |
 | Scottsdale Air | [HVAC Install Apprentice](https://job-boards.greenhouse.io/scottsdaleair/jobs/5450414008) | Phoenix, AZ | $20/hour | 2026-11-05 |  |
 | Sila Services | [HVAC Service Apprentice](https://jobs.lever.co/sila/02e6f84b-ca96-4573-a4a4-c316a4753065) | Weymouth, MA | $17 to $20/hour | 2026-11-05 |  |
-| TGG Accounting | [Apprentice Mechanical Technician](https://tggaccounting.bamboohr.com/careers/1076) | Pittsburgh, Pennsylvania, United States | $18 to $22/hour | 2026-11-05 | no visa sponsorship |
 | Mantis Innovation | [Mechanical Engineer Intern / Co-Op for SUMMER 2027](https://jobs.lever.co/mantisinnovation/27751362-d901-4fb7-aada-2fd2577443cb) · Summer 2027 | Alpharetta, GA |  | 2026-11-05 |  |
 | Critical Systems | [Internship Application - Mechanical Engineer](https://criticalsystemsllc.bamboohr.com/careers/45) | Rockville, Maryland, United States |  | 2026-11-05 |  |
 | Mantis Innovation | [Mechanical Engineer Intern / Co-Op for SPRING 2027](https://jobs.lever.co/mantisinnovation/6e728d77-5b2f-4f75-ba71-7c93dc410a1c) · Spring 2027 | Alpharetta, GA |  | 2026-11-05 |  |
@@ -494,7 +508,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Texas AirSystems | [HVAC Sales/Project Engineer Internship - Summer 2027 - Houston](https://job-boards.greenhouse.io/texasairsystems/jobs/5414387008) · Summer 2027 | Houston, Texas |  | 2026-11-05 |  |
 | Texas AirSystems | [HVAC Sales/Project Engineer Internship - Summer 2027 - Lubbock](https://job-boards.greenhouse.io/texasairsystems/jobs/5414392008) · Summer 2027 | Lubbock, TX |  | 2026-11-05 |  |
 | Texas AirSystems | [HVAC Sales/Project Engineer Internship - Summer 2027 - San Antonio](https://job-boards.greenhouse.io/texasairsystems/jobs/5414376008) · Summer 2027 | Schertz, TX |  | 2026-11-05 |  |
-| Berkshire Grey | [Spring 2027 Mechatronics Engineering Co-op](https://berkshiregrey.bamboohr.com/careers/772) · Spring 2027 | Bedford, Massachusetts, United States |  | 2026-11-05 |  |
 | Foth | [Civil Engineering Intern-Coastal Infrastructure (Summer 2027)](https://jobs.lever.co/foth/072d5e17-c095-49bc-ac02-4cd558bb5d64) · Summer 2027 | Newport, Rhode Island |  | 2026-11-05 |  |
 | Foth | [Mechanical Engineering Co-op (Summer/Fall 2027)](https://jobs.lever.co/foth/d4e4eaf1-4046-4a8d-ae73-882f39355907) · Fall 2027 | Green Bay, Wisconsin |  | 2026-11-05 |  |
 | Specter Aerospace | [Propulsion Design Engineering Co-op - Spring 2027](https://specteraerospace.bamboohr.com/careers/118) · Spring 2027 | Peabody, Massachusetts, United States |  | 2026-11-05 | US citizens/persons only |
@@ -505,14 +518,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Sila Services | [HVAC Service Apprentice](https://jobs.lever.co/sila/58a4812c-d163-4734-93f8-d6a5925e4801) | Northbrook, Illinois | $18 to $22/hour | 2026-11-05 |  |
 | S. W. Cole Engineering, Inc. | [Drilling Apprentice - Springfield](https://swcole.bamboohr.com/careers/457) | Springfield, Massachusetts, United States |  | 2026-11-05 |  |
 | Thea Energy | [Manufacturing Engineering Intern - Spring 2027](https://jobs.lever.co/thea.energy/9571cb70-2c19-4739-ba46-8e6b43b9c219) · Spring 2027 | Kearny, NJ | $21 to $25/hour | 2026-11-05 |  |
-| Beyond Reach Labs | [Mechanical Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/beyondreachlabs/3ca9915e-b63f-4b26-bc20-cc8ae6d14d08) · Summer 2027 | New York City |  | 2026-11-05 | US citizens/persons only |
 | Sila Services | [HVAC Apprentice](https://jobs.lever.co/sila/66818e7d-715e-4721-aee3-62ad6b034c1c) | Pittsburgh, PA |  | 2026-11-05 |  |
 | Specter Aerospace | [Vehicle Design Co-Op - Spring 2027](https://specteraerospace.bamboohr.com/careers/116) · Spring 2027 | Boston, Massachusetts, United States |  | 2026-11-05 | US citizens/persons only |
 | Sila Services | [HVAC Install Apprentice](https://jobs.lever.co/sila/7f381801-a4f6-45e4-9517-0b085b229622) | Geneva, NY | $32,000 to $55,000 | 2026-11-05 |  |
 | Smiths Group | [Customer Reliability Engineer Intern (PT)](https://jobs.smartrecruiters.com/SmithsGroup2/744000135011634-customer-reliability-engineer-intern-pt-) | Port Arthur, TX, us |  | 2026-11-05 |  |
-| S. W. Cole Engineering, Inc. | [Drilling Apprentice w/CDL - Somersworth](https://swcole.bamboohr.com/careers/454) | Somersworth, New Hampshire, United States |  | 2026-11-05 |  |
 | SoloPulse | [Systems Engineering Intern](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51) | Peachtree Corners, GA |  | 2026-11-05 |  |
-| S. W. Cole Engineering, Inc. | [Drilling Apprentice - Somersworth](https://swcole.bamboohr.com/careers/443) | Somersworth, New Hampshire, United States |  | 2026-11-05 |  |
 | Sila Services | [HVAC Apprentice/Warehouse Runner](https://jobs.lever.co/sila/5f61cfbb-3900-4c12-bc35-6e53684f8581) | Beltsville, MD |  | 2026-11-05 |  |
 | GSM Services | [HVAC Service Technician/Apprentice (Residential) - Entry Level 8:00 am - 5:00 pm Tuesday - Saturday](https://ats.rippling.com/gsm-jobs/jobs/e2b6982c-2d31-4f07-88cf-f0757031569c) | Gastonia, NC |  | 2026-11-05 |  |
 | Hiller Plumbing, Heating, Cooling & Electrical | [HVAC Apprentice](https://jobs.lever.co/happyhiller/27d9ec38-e04a-4cc2-bf16-b4f8f1730b44) | Nashville, TN |  | 2026-11-05 |  |
@@ -549,7 +559,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Astro Mechanica | [Airframe/Structures Engineering Intern](https://jobs.ashbyhq.com/Astro-Mechanica/746a6647-a07d-41ef-91e4-0dfe3a10800b) · Summer 2027 | San Francisco |  | 2026-11-04 |  |
 | Astro Mechanica | [GNC Engineering Intern](https://jobs.ashbyhq.com/Astro-Mechanica/6ee33f39-7a07-4b46-8caf-5f6f7b62eb40) · Summer 2027 | San Francisco |  | 2026-11-04 |  |
 | Astroforge Io | [Flight Dynamics Intern](https://jobs.gem.com/astroforge-io/am9icG9zdDrXcoEja4RE6VJ7D4Vc7TeV) | Seal Beach | $30/hour | 2026-11-04 | US citizens/persons only |
-| EquipmentShare | [Intern: Shop Technician (Pump, Power & HVAC)](https://www.equipmentshare.com/careers/openings/?gh_jid=8337003) | Hartford, CT (Advanced Solutions) | $17 to $38/hour | 2026-11-04 |  |
 | Shield AI | [Structures / Mechanical Test Co-op - January 2027 Co-op](https://jobs.lever.co/shieldai/1be0e71a-cf7f-4966-8532-09e6f40bb9dc) | Dallas, Texas |  | 2026-11-04 |  |
 | Anduril Industries | [Fall 2027 Manufacturing Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007) · Fall 2027 | Ashville, Ohio, United States; Quincy, Massachusetts, United States; S | $28 to $45/hour | 2026-11-04 | US citizens/persons only |
 | Astera Institute | [Robotics Systems Intern](https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8) | Emeryville HQ |  | 2026-11-04 |  |
@@ -591,7 +600,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AbbVie | [2027 Mechanical Reliability Co-Op (Jan - July) (Undergraduate)](https://jobs.smartrecruiters.com/AbbVie/3743990016342366-2027-mechanical-reliability-co-op-jan-july-undergraduate-) | Worcester, MA, us |  | 2026-11-04 |  |
 | Rivian and Volkswagen Group Technologies | [Electromechanical Design Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7) · Summer 2027 | Palo Alto, California |  | 2026-11-04 |  |
 | Type One Energy Group, Inc. | [Summer Internship - Systems Engineer](https://ats.rippling.com/type-one-energy-group/jobs/7bc8e29f-a367-4f5a-9c8f-f9c5a737267b) · Summer 2027 | Madison, WI | $25 to $30/hour | 2026-11-04 |  |
-| Ursa Major | [2027 Summer IT Infrastructure & Automation Intern](https://ursamajor.com/careers/?gh_jid=4746884005) · Summer 2027 | Berthoud, Colorado | $30/hour | 2026-11-04 | US citizens/persons only |
 | Anduril Industries | [Winter 2027 Robotics Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007) · Winter 2027 | Quincy, Massachusetts, United States | $42 to $60/hour | 2026-11-04 | US citizens/persons only |
 | Type One Energy Group, Inc. | [Summer Internship - Materials Scientist](https://ats.rippling.com/type-one-energy-group/jobs/21601e37-fe47-423f-8333-1dba8e21f674) · Summer 2027 | Knoxville, TN | $25 to $35/hour | 2026-11-04 |  |
 | Type One Energy Group, Inc. | [Summer Internship - Mechanical Engineering](https://ats.rippling.com/type-one-energy-group/jobs/c8833646-842a-4c81-aab1-d9c6b6194173) · Summer 2027 | Knoxville, TN | $25 to $30/hour | 2026-11-04 |  |
@@ -639,15 +647,15 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Relling | [Mechatronics Engineering Intern](https://jobs.ashbyhq.com/Relling/91369822-84d7-4d24-b2e8-287201f00acd) | San Francisco |  | 2026-11-04 |  |
 | VEGA Americas | [Quality Engineering Co-Op - Spring 2027](https://job-boards.greenhouse.io/vegaamericas/jobs/4718200006) · Spring 2027 | Mason, Ohio | $17 to $20/hour | 2026-11-04 |  |
 | CannonDesign | [Mechanical Student Intern](http://www.cannondesign.com/careers/?gh_jid=8859109002) | St. Louis, MO |  | 2026-11-04 |  |
-| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441865008) · Summer 2027 | Overland Park, Kansas, United States |  | 2026-11-04 | no visa sponsorship |
-| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441384008) · Summer 2027 | Denver, Colorado, United States; Phoenix, Arizona, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
-| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441148008) · Summer 2027 | Minneapolis, Minnesota, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
-| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441008008) · Summer 2027 | Portland, Oregon, United States; Seattle, Washington, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
-| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441778008) · Summer 2027 | Orlando, Florida, United States |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441863008) · Summer 2027 | Dallas, Texas, United States; Houston, Texas, United States |  | 2026-11-04 | no visa sponsorship |
-| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441262008) · Summer 2027 | Los Angeles, California, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
+| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441865008) · Summer 2027 | Overland Park, Kansas, United States |  | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441876008) · Summer 2027 | Cleveland, Ohio, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
 | DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441879008) · Summer 2027 | Washington, D.C. | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
+| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441384008) · Summer 2027 | Denver, Colorado, United States; Phoenix, Arizona, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
+| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441262008) · Summer 2027 | Los Angeles, California, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
+| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441778008) · Summer 2027 | Orlando, Florida, United States |  | 2026-11-04 | no visa sponsorship |
+| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441148008) · Summer 2027 | Minneapolis, Minnesota, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
+| DLR Group | [Mechanical Engineering Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441008008) · Summer 2027 | Portland, Oregon, United States; Seattle, Washington, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
 | LLNL | [Materials and Chemistry Institute (MaCI) Graduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015817366-materials-and-chemistry-institute-maci-graduate-intern-summer-2027) · Summer 2027 | Livermore, CA, us |  | 2026-11-04 | clearance |
 | LLNL | [Materials and Chemistry Institute (MaCI) Undergraduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015817356-materials-and-chemistry-institute-maci-undergraduate-intern-summer-2027) · Summer 2027 | Livermore, CA, us | $23.26 to $31.62/hour | 2026-11-04 | clearance |
 | LLNL | [Materials Science Division Undergraduate Intern - Winter/Spring 2027](https://jobs.smartrecruiters.com/LLNL/3743990015817346-materials-science-division-undergraduate-intern-winter-spring-2027) · Spring 2027 | Livermore, CA, us | $23.26 to $31.62/hour | 2026-11-04 | clearance |
@@ -732,10 +740,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Matic | [Robotics Customer Success Intern](https://jobs.ashbyhq.com/MaticRobots/a0d77cc5-555f-46d8-89b1-e1df201a77dc) | Menlo Park, CA | $25 to $35/hour | 2026-11-04 |  |
 | Rivian and Volkswagen Group Technologies | [Electromechanical Design Engineering Intern (January - August 2027)](https://jobs.ashbyhq.com/rivianvw.tech/be70e02f-46d3-488e-b3c2-8dadc3bb34b8) | Irvine, California |  | 2026-11-04 |  |
 | Syska Hennessy Group | [Mechanical Engineering Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8175600) · Summer | Los Angeles, CA | $24 to $27/hour | 2026-11-04 |  |
-| Syska Hennessy Group | [Mechanical Engineer Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177276) · Summer | San Francisco, CA | $26 to $28/hour | 2026-11-04 |  |
 | Syska Hennessy Group | [Mechanical Engineer Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177404) · Summer | Chicago, IL | $23 to $26/hour | 2026-11-04 |  |
-| Syska Hennessy Group | [Mechanical Engineer Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8178051) · Summer | Jacksonville, FL | $22 to $26/hour | 2026-11-04 |  |
+| Syska Hennessy Group | [Mechanical Engineer Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177276) · Summer | San Francisco, CA | $26 to $28/hour | 2026-11-04 |  |
 | Syska Hennessy Group | [Mechanical Engineer Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177739) · Summer | New York, NY | $26 to $28/hour | 2026-11-04 |  |
+| Syska Hennessy Group | [Mechanical Engineer Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8178051) · Summer | Jacksonville, FL | $22 to $26/hour | 2026-11-04 |  |
 | Syska Hennessy Group | [Mechanical Engineer Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177511) · Summer | Dallas, TX | $23 to $27/hour | 2026-11-04 |  |
 | The Nuclear Company | [TNC Nuclear Interns 2027](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5418204008) · Summer 2027 | Columbia, South Carolina; Lexington, Kentucky | $25/hour | 2026-11-04 |  |
 | Solidigm | [Memory Core Design Engineering Intern](https://jobs.smartrecruiters.com/Solidigm/744000147954459-memory-core-design-engineering-intern) | Rancho Cordova, CA, us |  | 2026-11-04 |  |
@@ -748,11 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Hermeus | [Mission Systems Engineering Intern - Spring/Summer 2027](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) · Summer 2027 | Atlanta, GA |  | 2026-11-04 | US citizens/persons only |
 | AECOM | [Structural Engineering Intern - Bridge & Transportation Structures](https://jobs.smartrecruiters.com/AECOM2/744000146989469-structural-engineering-intern-bridge-transportation-structures) · Summer 2027 | Glen Allen, VA, us |  | 2026-11-04 | no visa sponsorship |
 | AgWest Farm Credit | [2027 Summer Internship Program](https://job-boards.greenhouse.io/agwestfarmcredit/jobs/4372303009) · Summer 2027 | Arizona; California; Oregon | $22/hour | 2026-11-04 | no visa sponsorship |
-| Apex Technology, Inc. | [Avionics Internship (Spring or Summer 2027)](https://jobs.ashbyhq.com/apex-technology-inc/115c16ac-bc17-49f5-ad00-f5a7e6dea07f) · Summer 2027 | Los Angeles |  | 2026-11-04 | US citizens/persons only |
-| Hadrian Automation | [Robotics Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584) | Los Angeles, CA | $46.15 to $50.71/hour | 2026-11-04 | US citizens/persons only |
-| Hermeus | [Manufacturing Engineering Intern - Spring/Summer 2027](https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f) · Summer 2027 | Atlanta, GA |  | 2026-11-04 | US citizens/persons only |
-| Hermeus | [Manufacturing Engineering Intern - Spring/Summer/Fall 2027](https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06) · Fall 2027 | Los Angeles, CA |  | 2026-11-04 | US citizens/persons only |
-| Hermeus | [Structures Engineering Intern - Spring/Summer/Fall 2027](https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878) · Fall 2027 | Los Angeles, CA |  | 2026-11-04 | US citizens/persons only |
-| Hermeus | [Structures/Mechanical Engineering Intern - Spring/Summer 2027](https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761) · Summer 2027 | Atlanta, GA |  | 2026-11-04 | US citizens/persons only |
-| Northmarq | [2027 Internship Pipeline](https://job-boards.greenhouse.io/northmarq/jobs/5140954008) · Summer 2027 | Atlanta, Georgia, United States; Austin, Texas, United States; Baltimo |  | 2026-11-04 |  |
-| Gradient Robotics | [Mechanical Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/gradientrobotics/477ee28b-2e05-4ac0-bf9e-d6bc2aa67de0) · Winter 2027 | San Francisco |  | 2026-11-04 |  |

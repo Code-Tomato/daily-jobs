@@ -1,11 +1,16 @@
 # Internships and co-ops: Design and creative
 
-171 open, newest first (by the date the scraper first saw them), updated 2026-11-12.
+169 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| SiriusXM | [Spring Intern, Video Production - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17682) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
+| Dell | [User Experience (UX) Research Intern](https://jobs.dell.com/en/sites/CX_1/job/302635) | Austin, TX, United States | $29.60 to $31.80/hour | 2026-11-13 |  |
+| Golden Pet Brands | [Creative Team Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4748138005) | Remote (USA) | $17 to $20/hour | 2026-11-13 |  |
+| SiriusXM | [Spring Intern, Podcast Producer - Part Time](https://careers.siriusxm.com/careers-home/jobs/17683) · Spring | Los Angeles, California | $18/hour | 2026-11-13 |  |
+| SiriusXM | [Spring Intern, Podcast Producer - Part Time](https://careers.siriusxm.com/careers-home/jobs/17681) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
 | Bask Health | [Creative Engineering Intern](https://apply.workable.com/j/24DD93E3BA) | United States |  | 2026-11-12 |  |
 | Riot Games | [Game Producer Intern, Teamfight Tactics (Masters/PhD) - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356876?gh_jid=8356876) · Summer 2027 | Los Angeles, USA | $54.62/hour | 2026-11-12 | no visa sponsorship |
 | Riot Games | [Technical Game Design Intern - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525) · Summer 2027 | Los Angeles, USA | $44.86/hour | 2026-11-12 | no visa sponsorship |
@@ -29,7 +34,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Match Group | [User Experience Research Intern](https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713) | Los Angeles, California (hybrid) |  | 2026-11-06 |  |
 | Pattern | [UX Design Intern - Summer 2027](https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d) · Summer 2027 | Lehi, UT, US (hybrid) |  | 2026-11-05 |  |
 | SharkNinja | [Summer 2027: Industrial Design Intern (May through August)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006) · Summer 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-05 |  |
-| T-Mobile | [Summer 2027 UX Design Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-UX-Design-Internship_REQ381307) · Summer 2027 | Philadelphia, Pennsylvania | $27 to $50/hour | 2026-11-05 |  |
 | Twelve NYC | [Industrial Design Intern](https://twelvenyc.bamboohr.com/careers/197) | Brooklyn, New York, United States | $22/hour | 2026-11-05 |  |
 | TH Experiential | [3-D Design Internship Fall/Winter 2026](https://thexperiential.bamboohr.com/careers/184) · Winter 2026 | New York, New York, United States (Remote) |  | 2026-11-05 |  |
 | TH Experiential | [Motion Graphic Internship Fall/Winter 2026](https://thexperiential.bamboohr.com/careers/185) · Winter 2026 | New York, New York, United States (Remote) |  | 2026-11-05 |  |
@@ -50,15 +54,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | UX Woman | [Graphic Design to UX Design Career Changer Apprenticeship](https://ux-woman.breezy.hr/p/2e6940970bf5-graphic-design-to-ux-design-career-changer-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
 | UX Woman | [Industrial Design to UX Design Career Changer Apprenticeship](https://ux-woman.breezy.hr/p/a2f8dee64d55-industrial-design-to-ux-design-career-changer-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
 | UX Woman | [Market Research to UX Research Career Changer Apprenticeship](https://ux-woman.breezy.hr/p/3ca8525de8f9-market-research-to-ux-research-career-changer-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
-| AutoNetTV | [Photography/Digital Media Internship](https://autonettv.bamboohr.com/careers/52) | Draper, Utah, United States |  | 2026-11-05 |  |
 | UX Woman | [Entry Level UX Design Apprenticeship](https://ux-woman.breezy.hr/p/f0d6d79eac59-entry-level-ux-design-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
 | UX Woman | [Entry Level UX Research Apprenticeship](https://ux-woman.breezy.hr/p/977eb5a6b06d-entry-level-ux-research-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
-| Grace Community Church | [Summer Intern- Worship](https://gcc.bamboohr.com/careers/20) · Summer | Newton, Kansas, United States |  | 2026-11-05 |  |
 | 617MediaGroup | [A/V Production Internship](https://617mediagroup.com/careers/?gh_jid=7974858002) | Greater Boston | $20.36/hour | 2026-11-05 |  |
-| Grace Community Church | [Summer Worship Intern](https://gcc.bamboohr.com/careers/13) · Summer | Newton, Kansas, United States |  | 2026-11-05 |  |
 | Recruit Aid Agency | [VIRTUAL INTERNSHIP: Graphic Designer/Graphic Illustrator](https://jobs.smartrecruiters.com/RecruitAidAgency/743999780672175-virtual-internship-graphic-designer-graphic-illustrator) | Nashville, TN, us (remote) |  | 2026-11-05 |  |
 | HUSH | [Intern: Design](https://jobs.lever.co/hush/6ca815d9-3477-4f62-82ab-6d2831b1bf0f) | Brooklyn, NY |  | 2026-11-05 |  |
-| Everywhere Capital | [Apprentice Designer - Remote](https://everywhere-capital.breezy.hr/p/2938326605ad-apprentice-designer-remote) | San Francisco, CA (remote) |  | 2026-11-05 |  |
 | SharkNinja | [Spring 2027: CMF Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4722306006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
 | GigFinesse | [Graphic Design Intern (Spring 2027)](https://job-boards.greenhouse.io/gigfinesse/jobs/4725799006) · Spring 2027 | Austin, Texas (Remote) |  | 2026-11-04 |  |
 | Jomboy Media | [Social Graphics Internship- Spring 2027](https://job-boards.greenhouse.io/jomboymedia/jobs/4478059009) · Spring 2027 | New York, New York, United States |  | 2026-11-04 |  |
@@ -94,7 +94,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Human Computer Lab | [Intern - Industrial Designer](https://jobs.ashbyhq.com/human-computer-lab/9aa0a361-9807-404b-a87e-1460699a296d) | San Francisco |  | 2026-11-04 |  |
 | DMS International | [UI/UX Design Intern](https://dms-international.breezy.hr/p/01e49142535e-ui-ux-design-intern) | Silver Spring, MD |  | 2026-11-04 |  |
 | Rilla | [Product Designer, Internship](https://jobs.ashbyhq.com/rilla/c15fc0ad-6da3-4bab-9c64-f8288453b2ae) | New York City | $1,500/month | 2026-11-04 |  |
-| Turning Point Action | [Graphic Design Intern](https://tpaction.breezy.hr/p/e2331f5700ef-graphic-design-intern) | Phoenix, AZ |  | 2026-11-04 |  |
 | Elevation Church | [Elevation Church Creative Ministry Apprenticeship (Spring 2027)](https://elevation-church.breezy.hr/p/bc9ca484e5db-elevation-church-creative-ministry-apprenticeship-spring-2027) · Spring 2027 | Matthews, NC |  | 2026-11-04 |  |
 | Palantir Technologies | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a) | Palo Alto, CA | $8,500/month | 2026-11-04 | clearance |
 | Claim Health | [Visual Design Intern](https://jobs.ashbyhq.com/claim-health/b0180c40-f6a2-4946-b272-d61e9655d6ca) | New York City |  | 2026-11-04 |  |
@@ -137,7 +136,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | PTC | [UI/UX Designer Intern (Summer 2027)](https://ptc.wd1.myworkdayjobs.com/PTC/job/USA-San-Mateo-CA/UI-UX-Designer-Intern--Summer-2027-_JR112956) · Summer 2027 | USA-San Mateo, CA | $32 to $36/hour | 2026-10-30 | no visa sponsorship |
 | SAS Institute | [Summer 2027 – User Experience Design Intern](https://careers-sas.icims.com/jobs/42758/summer-2027-%e2%80%93-user-experience-design-intern/job) · Summer 2027 | Cary HQ, NC | $15 to $49/hour | 2026-10-30 |  |
 | Sonos | [User Experience Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/User-Experience-Intern_R2883-1) · Winter 2027 | Seattle, WA |  | 2026-10-29 | no visa sponsorship |
-| Kroger | [Spring 2027 Graphic Design Intern](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/246142) · Spring 2027 | Cincinnati, OH, United States |  | 2026-10-29 |  |
 | Trimble | [Video Production Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/Video-Production-Intern_R58174) | US - OH, Dayton | $18.51 to $27.79/hour | 2026-10-29 |  |
 | ServiceNow | [Experience Team – UX Research Internships – Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000157919529-experience-team-ux-research-internships-summer-2027) · Summer 2027 | San Diego, CALIFORNIA, us | $45.97 to $53.04/hour | 2026-10-28 |  |
 | Intercontinental Exchange | [Summer Internship Program 2027 - User Experience (UX) Designer Intern](https://careers.ice.com/careers-home/jobs/14111) · Summer | New York, New York | $30/hour | 2026-10-24 |  |
@@ -152,6 +150,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Insomniac Games | [User Research Intern (Tools)- Master's](https://job-boards.greenhouse.io/insomniac/jobs/6227520004) | United States, Burbank, CA | $40.25/hour | 2026-10-20 | no visa sponsorship |
 | Nintendo of America | [Intern - User Experience](https://careers.nintendo.com/?gh_jid=4418258009) | Redmond, WA |  | 2026-10-20 | no visa sponsorship |
 | Polaris | [Transportation Industrial Design Intern](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Transportation-Industrial-Design-Intern_R31551) | Medina, MN, USA | $19.50 to $30.75/hour | 2026-10-20 | no visa sponsorship, US citizens/persons only |
+| Fox Corporation | [Summer 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033985) · Summer 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
+| Fox Corporation | [Spring 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033952-1) · Spring 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
 | KLA | [Precision Motion Control Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Precision-Motion-Control-Intern_2642139-1) | Milpitas, CA |  | 2026-10-20 |  |
 | Target | [UX Design Internship - Minneapolis, MN (Starting Summer, 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Design-Internship---Minneapolis--MN--Starting-Summer--2027-_R0000451077) · Summer 2027 | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $34/hour | 2026-10-20 |  |
 | GM | [Summer 2027 Intern - Industrial Design](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship |
@@ -159,8 +159,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Stryker | [Summer 2027 Internship - Industrial Design Intern - Michigan](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730) · Summer 2027 | Portage, Michigan | $35/hour | 2026-10-20 | no visa sponsorship |
 | Stryker | [Summer 2027 Intern - Industrial Design, User Experience - Michigan](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833) · Summer 2027 | Portage, Michigan | $35/hour | 2026-10-20 |  |
 | Dick's Sporting Goods | [Product Design (UX) - Summer 2027 Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Product-Design--UX----Summer-2027-Corporate-Internship_202608790-1) · Summer 2027 | Customer Support Center (hybrid) |  | 2026-10-20 |  |
-| Fox Corporation | [Summer 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033985) · Summer 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
-| Fox Corporation | [Spring 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033952-1) · Spring 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
 | Activision | [Activision 2027 Summer Internships - Game Design](https://careers.activision.com/us/en/job/R028091) · Summer 2027 | Playa Vista, California, United States of America | $20 to $50/hour | 2026-10-20 |  |
 | Epic Games | [Game Design Intern](https://epicgames.com/careers/jobs/6193647004?gh_jid=6193647004) | Cary,North Carolina,United States |  | 2026-10-20 |  |
 | Garmin | [Product Designer Intern](https://careers.garmin.com/careers-home/jobs/20190) | Olathe, Kansas |  | 2026-10-20 |  |

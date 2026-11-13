@@ -1,11 +1,12 @@
 # Internships and co-ops: Education
 
-70 open, newest first (by the date the scraper first saw them), updated 2026-11-12.
+70 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| SiriusXM | [Spring Intern, Music Library - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17678) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
 | Clark Art Institute | [Rodgers' Spring Intern- Community and Family Programs](https://clarkart.bamboohr.com/careers/64) · Spring | Williamstown, Massachusetts, United States |  | 2026-11-12 |  |
 | Ace Electric | [Apprenticeship Instructor (Bilingual)](https://aceelectric.bamboohr.com/careers/1089) | VALDOSTA, Georgia, United States |  | 2026-11-11 |  |
 | Black & Veatch | [Sr Apprentice Training Instructor (Bird Electric)](https://careers.bv.com/BirdElectric/job/Midland-Sr-Apprentice-Training-Instructor-%28Bird-Electric%29-TX-79701/1455770633/) | Midland, TX, US |  | 2026-11-10 |  |
@@ -22,7 +23,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Strada Education Foundation | [Strada Education Foundation Internship: Communication Intern](https://jobs.lever.co/stradaeducation/91b84789-7d6d-4009-a5a3-13bbf90dc7d4) | Indianapolis, Indiana | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Employer Alignment/Institute for the Future of Work Intern](https://jobs.lever.co/stradaeducation/407e6cd0-5789-4366-9449-23461c5e77bb) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
 | DREAM | [[Spring 2027] High School Data and Assessment Intern](https://jobs.lever.co/wearedream/c2f1b009-83aa-4578-80fb-38cda41652a5) · Spring 2027 | New York, NY - Multi-Site | $22/hour | 2026-11-05 |  |
-| Clark Art Institute | [Spencer Intern- Division of Learning and Engagement](https://clarkart.bamboohr.com/careers/54) | Williamstown, Massachusetts, United States |  | 2026-11-05 |  |
 | Virginia Moca | [Education Internship Spring 2027](https://virginiamoca.bamboohr.com/careers/46) · Spring 2027 | Virginia Beach, Virginia, United States | $15/hour | 2026-11-05 |  |
 | ECHO, Leahy Center for Lake Champlain | [Academic Animal Care Internship (unpaid)](https://echo-leahy-center-for-lake-champlain.breezy.hr/p/27e28d1a0f00-academic-animal-care-internship-unpaid) | Burlington, VT |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Economics Olympiad Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/f124f60f-a5d5-4e15-8a52-7a841df26662) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
