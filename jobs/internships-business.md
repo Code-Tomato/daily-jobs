@@ -1,11 +1,50 @@
 # Internships and co-ops: Business, consulting and operations
 
-2,413 open, newest first (by the date the scraper first saw them), updated 2026-11-13. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,425 open, newest first (by the date the scraper first saw them), updated 2026-11-14. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Syntax | [Index Analyst Intern (Summer 2027)](https://jobs.lever.co/syntax/75c16db8-4cfd-4d7c-98b0-c9153e2034fe) · Summer 2027 | New York City |  | 2026-11-14 |  |
+| Addepar | [Summer 2027 Internship - Product Analyst (Navigator)](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) · Summer 2027 | New York, NY | $31/hour | 2026-11-14 | no visa sponsorship |
+| AECOM | [Consulting Services Intern](https://jobs.smartrecruiters.com/AECOM2/744000161538923-consulting-services-intern) | New York City, NY, us |  | 2026-11-14 | no visa sponsorship |
+| AECOM | [Consulting Services Intern](https://jobs.smartrecruiters.com/AECOM2/744000161539368-consulting-services-intern) | Los Angeles, CA, us |  | 2026-11-14 | no visa sponsorship |
+| AECOM | [Consulting Services Intern](https://jobs.smartrecruiters.com/AECOM2/744000161539208-consulting-services-intern) | Chicago, IL, us |  | 2026-11-14 | no visa sponsorship |
+| Barnes & Thornburg LLP | [2027 BT RISE Internship - Legal Operations Intern](https://jobs.ashbyhq.com/barnes/9ae29c1f-7656-49d9-bb09-7c983019d5a7) | Indianapolis |  | 2026-11-14 |  |
+| Bask Health | [Go-to-Market Strategy Intern](https://apply.workable.com/j/493E4563DE) | United States |  | 2026-11-14 |  |
+| Boston Scientific | [Supply Chain Material Management Intern](https://bostonscientific.eightfold.ai/careers/job/563602813519128) | Maple Grove, MN, US | $43,368 to $73,736 | 2026-11-14 | no visa sponsorship |
+| Cohesity | [Security Governance & Risk Intern](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Cohesity---Heathrow/Security-Governance---Risk-Intern_R04596-1) | Cohesity - Heathrow |  | 2026-11-14 |  |
+| Daimler Truck North America | [Corporate Safety Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gastonia-NC-US/Corporate-Safety-Intern_DT-20391) | Gastonia, NC US | $21 to $29/hour | 2026-11-14 |  |
+| Daimler Truck North America | [Supply Chain Systems Digitalization Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Supply-Chain-Systems-Digitalization-Intern_DT-20680-1) | Portland, OR US | $21 to $29/hour | 2026-11-14 |  |
+| David Zwirner | [Events Intern](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295078007) | New York, NY | $17/hour | 2026-11-14 |  |
+| David Zwirner | [Operations Intern](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295163007) | New York, NY | $17/hour | 2026-11-14 |  |
+| Firestorm | [Business Development Intern](https://jobs.gem.com/firestorm/am9icG9zdDp3k9EPx-9FAebxebRn5mNx) | San Diego, CA |  | 2026-11-14 |  |
+| Intuitive Machines | [Satellite Mission Operations Intern – Altus](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575641&lang=en_US) · Summer 2027 | Houston, TX, US |  | 2026-11-14 |  |
+| Intuitive Machines | [Lunar Lander Mission Operations Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575643&lang=en_US) · Summer 2027 | Houston, TX, US |  | 2026-11-14 |  |
+| Intuitive Machines | [Logistics and Mechanisms Engineering Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575644&lang=en_US) · Summer 2027 | Glen Burnie, MD, US |  | 2026-11-14 |  |
+| John Hancock (Manulife) | [Winter Co-op 2027-US Retirement Analyst](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Winter-Co-op-2027-US-Retirement-Analyst_JR26100985) · Winter | Boston, Massachusetts | $42,900 to $56,600 | 2026-11-14 |  |
+| Minitab | [Business Development Intern](https://job-boards.greenhouse.io/minitab/jobs/8200493003) | State College, Pennsylvania, United States |  | 2026-11-14 | no visa sponsorship |
+| Northmarq | [Fund Management Summer 2027 Analyst Intern](https://job-boards.greenhouse.io/northmarq/jobs/5481439008) · Summer 2027 | New York, New York, United States | $17 to $22/hour | 2026-11-14 | no visa sponsorship |
+| Rambus | [Indirect Procurement Intern](https://careers-rambus.icims.com/jobs/23133/indirect-procurement-intern/job) | San Jose, CA | $25.80 to $47.80/hour | 2026-11-14 |  |
+| Ramp | [Risk Strategy Intern](https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109) | New York, NY (HQ) |  | 2026-11-14 |  |
+| Roark Capital | [2028 Roark Summer Analyst](https://job-boards.greenhouse.io/roarkcapitalgroup/jobs/5442468008) · Summer 2028 | Atlanta |  | 2026-11-14 |  |
+| ServiceNow | [Strategic Operations Intern (Summer 2027 - Masters Degree)](https://jobs.smartrecruiters.com/ServiceNow/744000161583461-strategic-operations-intern-summer-2027-masters-degree-) · Summer 2027 | Santa Clara, CALIFORNIA, us | $33.87 to $43.40/hour | 2026-11-14 |  |
+| ServiceNow | [Information Security Analyst Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161550869-information-security-analyst-intern) | San Diego, CALIFORNIA, us | $45.79/hour | 2026-11-14 |  |
+| Solidigm | [NAND Development Business Operations Intern](https://jobs.smartrecruiters.com/Solidigm/744000161579529-nand-development-business-operations-intern) | Rancho Cordova, CA, us |  | 2026-11-14 |  |
+| Strand Therapeutics | [Co-op, mRNA Process Development](https://job-boards.greenhouse.io/strandtherapeutics/jobs/6254267004) | Boston, Massachusetts | $25 to $28/hour | 2026-11-14 |  |
+| tarte cosmetics | [Spring 2027 Marketing Operations Internship](https://apply.workable.com/j/BF51963CE5) · Spring 2027 | New York, New York, United States | $21/hour | 2026-11-14 |  |
+| tarte cosmetics | [Spring 2027 Quality Internship](https://apply.workable.com/j/3CBB561F1C) · Spring 2027 | New York, New York, United States | $21/hour | 2026-11-14 |  |
+| tarte cosmetics | [Spring 2027 Retail Operations Internship](https://apply.workable.com/j/CE3C85E123) · Spring 2027 | New York, New York, United States | $21/hour | 2026-11-14 |  |
+| tarte cosmetics | [Spring 2027 Supply Chain Internship](https://apply.workable.com/j/7ECDEBE609) · Spring 2027 | New York, New York, United States | $21/hour | 2026-11-14 |  |
+| TC Energy | [Intern, Intelligent Operations Technology](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919) | Spokane, Washington (hybrid) |  | 2026-11-14 |  |
+| Texas Tech University | [Student Assistant- Business Services](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5639&PageType=JobDetails&jobid=928247) | Lubbock, TX |  | 2026-11-14 |  |
+| UCAR / NCAR | [Student Assistant for the Directorate (Lvl II)](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Student-Assistant-for-the-Directorate--Lvl-II-_REQ-2026-246-1) | Boulder, CO | $23.81/hour | 2026-11-14 | no visa sponsorship |
+| Ursa Major | [2027 Summer Ballistics Analyst Intern](https://ursamajor.com/careers/?gh_jid=4754182005) · Summer 2027 | Berthoud, Colorado | $30/hour | 2026-11-14 | US citizens/persons only |
+| NetApp | [Intern - Business Analyst](https://netapp.eightfold.ai/careers/job/45498418) | RTP, North Carolina, USA Office (NOCAROLINA) |  | 2026-11-14 |  |
+| Stand Together | [KIP Spring 2027 - Events Intern - R Street Institute](https://jobs.lever.co/standtogether/6b2a1483-9a11-48c9-b03d-bf90e111a4f2) · Spring 2027 | Washington, DC (hybrid) |  | 2026-11-14 |  |
+| BroadFutures | [BroadFutures' DC Winter 2027 Internship Program](https://broadfutures.pinpointhq.com/en/postings/67068bb7-b650-4c4a-abbe-2a8ea12de025) · Winter 2027 | Washington, Washington DC |  | 2026-11-14 |  |
+| TikTok | [Physical Security Systems & Technology Project Intern (PSST) - 2027 Start](https://lifeattiktok.com/search/7691158108957641013) | San Jose, California, United States of America |  | 2026-11-14 |  |
 | Intuitive Machines | [Marketing & Communications Operations Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575571&lang=en_US) · Summer 2027 | Houston, TX, US |  | 2026-11-13 |  |
 | SiriusXM | [Spring Intern, Programming Operations - Part Time](https://careers.siriusxm.com/careers-home/jobs/17685) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
 | SiriusXM | [Spring Intern, Music Programming Operations - NY - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17676) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
@@ -17,7 +56,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AEP | [Business Intern - Spring 2027](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Corpus-Christi-TX/Business-Intern---Spring-2027_R21046) · Spring 2027 | Corpus Christi, TX |  | 2026-11-13 | no visa sponsorship |
 | Boston Scientific | [Endoscopy Commercial Strategy & Excellence Intern 2027](https://bostonscientific.eightfold.ai/careers/job/563602813674227) · Winter 2027 | Marlboro, MA, US (hybrid) | $44,616 to $75,816 | 2026-11-13 | no visa sponsorship |
 | Charles Schwab | [2027 Corporate Development & Products Intern](https://www.schwabjobs.com/job/westlake/2027-corporate-development-and-products-intern/33727/103221565648) | Westlake, Texas |  | 2026-11-13 | no visa sponsorship |
-| Charter Communications | [2027 Summer Intern: Reporting and Program Coordinator](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-reporting-and-program-coordinator/4673/100149370992) · Summer 2027 | Greenwood Village, Colorado |  | 2026-11-13 | no visa sponsorship |
 | Daimler Truck North America | [Project Analyst Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Project-Analyst-Intern_DT-20671) | Portland, OR US | $21 to $29/hour | 2026-11-13 |  |
 | East Texas A&M University | [Coordinator of Internship Operations](https://tamus.wd1.myworkdayjobs.com/ETAMU_External/job/Commerce-TX/Coordinator-of-Internship-Operations_R-098783-1) | Commerce, TX |  | 2026-11-13 |  |
 | Federal Reserve System | [2027 Summer Internship Program - ASO Professional Development Intern](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---ASO-Professional-Development-Intern_R-0000033893) · Summer 2027 | Atlanta, GA |  | 2026-11-13 | no visa sponsorship |
@@ -43,7 +81,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Entegris | [Supply Planning Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Bloomington-MN/Supply-Planning-Intern---Summer-2027_REQ-15885-1) · Summer 2027 | Bloomington, MN | $20 to $30/hour | 2026-11-12 |  |
 | AECOM | [Planning Intern](https://jobs.smartrecruiters.com/AECOM2/744000161171399-planning-intern) · Spring 2027 | Philadelphia, PA, us |  | 2026-11-12 | no visa sponsorship |
 | AlphaSights | [Talent Operations Intern, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=8379982) · Summer 2027 | New York |  | 2026-11-12 |  |
-| Arcesium LLC | [Technology Operations Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) | New York |  | 2026-11-12 |  |
 | Clera | [Founder Associate Intern](https://jobs.ashbyhq.com/Clera/8704a729-c3bb-463e-8ff0-08e455176709) | San Francisco |  | 2026-11-12 |  |
 | Continental | [Intern - Purchasing Operations, Year-Round](https://jobs.smartrecruiters.com/Continental/744000161172264-intern-purchasing-operations-year-round) | Fort Mill, SC, us |  | 2026-11-12 |  |
 | EquipmentShare | [Intern: Fleet Coordinator](https://www.equipmentshare.com/careers/openings/?gh_jid=8378842) | St. Louis, MO (Vehicle Solutions) | $17/hour | 2026-11-12 |  |
@@ -69,7 +106,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TikTok | [Platform User Operations Specialist Project Intern (TikTok-Platform Responsibility-User Feedback Operations) -](https://lifeattiktok.com/search/7706845403284801797) | San Jose, California, United States of America |  | 2026-11-12 |  |
 | TikTok | [Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://lifeattiktok.com/search/7706761187966404869) | Seattle, Washington, United States of America |  | 2026-11-12 |  |
 | Daimler Truck North America | [Purchasing & Supply chain Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Purchasing---Supply-chain-Intern_DT-20658) | Detroit, MI US | $21 to $29/hour | 2026-11-11 |  |
-| Juniper Square | [Associate, Fund Administration (Interns)](https://jobs.ashbyhq.com/junipersquare/58e050b8-16c6-412b-9ac7-82bbf5a1a765) | USA | $25/hour | 2026-11-11 |  |
+| Juniper Square | [Associate, Fund Administration (Intern)](https://jobs.ashbyhq.com/junipersquare/58e050b8-16c6-412b-9ac7-82bbf5a1a765) | USA | $25/hour | 2026-11-11 |  |
 | Adobe | [2027 MBA Intern - Integrated GTM Strategy](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Integrated-GTM-Strategy_R173508) | San Francisco | $37 to $50/hour | 2026-11-11 |  |
 | Bosch | [Sales Operations Intern](https://jobs.smartrecruiters.com/BoschGroup/744000160938210-sales-operations-intern) | Dallas, TX, us | $24 to $27/hour | 2026-11-11 |  |
 | Bosch | [Sales Operations Intern](https://jobs.smartrecruiters.com/BoschGroup/744000160939779-sales-operations-intern) | Watertown, MA, us | $26 to $29/hour | 2026-11-11 |  |
@@ -166,7 +203,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Tiverton Advisors | [Summer Analyst](https://jobs.smartrecruiters.com/TivertonAdvisors/744000152184355-summer-analyst) · Summer | Raleigh, NC, us |  | 2026-11-09 |  |
 | DeciBio Consulting | [Life Science Summer Analyst (2027)](https://www.decibio.com/careers/open-positions?gh_jid=8692893002) · Summer 2027 | Los Angeles | $1,500/week | 2026-11-09 |  |
 | KVG | [DoD SkillBridge Internship / Various Opportunities](https://kvg.bamboohr.com/careers/62) | KVG Global Locations. Our HQ is located in Gettysburg, Pennsylvania, U |  | 2026-11-09 |  |
-| Clera | [Operations Intern](https://jobs.ashbyhq.com/Clera/5c1f661e-9c3a-4cca-bd47-ba792ded5f3b) | Salt Lake City | $20 to $25/hour | 2026-11-08 | no visa sponsorship |
 | MSCI | [Intern – Data Transformation](https://msci.jibeapply.com/careers-home/jobs/6071) | New York, New York | $35/hour | 2026-11-08 |  |
 | moomoo | [Unpaid - Integrated Marketing & Business Development Intern](https://apply.workable.com/j/6E0B16508F) | Jersey City, New Jersey, United States |  | 2026-11-08 |  |
 | City and County of San Francisco | [San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5380 Planning Intern (Leve](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016714676-san-francisco-municipal-transportation-agency-student-intern-program-summer-2027-5380-planning-intern-level-1-) · Summer 2027 | San Francisco, CA, us | $37.95/hour | 2026-11-07 |  |
@@ -247,7 +283,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Consigli Construction | [Field Operations Intern (Summer 2027)](https://apply.workable.com/j/A692316648) · Summer 2027 | New York, New York, United States | $24 to $29/hour | 2026-11-06 |  |
 | Consigli Construction | [Field Operations Intern (Summer 2027)](https://apply.workable.com/j/63E5199ACC) · Summer 2027 | Orono, Maine, United States | $24 to $29/hour | 2026-11-06 |  |
 | Consigli Construction | [Field Operations Intern (Summer 2027)](https://apply.workable.com/j/A1CB092A15) · Summer 2027 | Providence, Rhode Island, United States | $24 to $29/hour | 2026-11-06 |  |
-| Consigli Construction | [Field Operations Intern (Summer 2027)](https://apply.workable.com/j/FA2D4AD671) · Summer 2027 | Washington, District of Columbia, United States | $24 to $29/hour | 2026-11-06 |  |
 | Consigli Construction | [Field Operations Intern (Summer 2027)](https://apply.workable.com/j/4F8699D8F1) · Summer 2027 | Pleasant Valley, New York, United States | $24 to $29/hour | 2026-11-06 |  |
 | Consigli Construction | [Field Operations Intern (Summer 2027)](https://apply.workable.com/j/21D1B098FE) · Summer 2027 | Manchester, New Hampshire, United States | $24 to $29/hour | 2026-11-06 |  |
 | Consigli Construction | [Field Operations Intern (Summer 2027)](https://apply.workable.com/j/9623724FE9) · Summer 2027 | Lewiston, Maine, United States | $24 to $29/hour | 2026-11-06 |  |
@@ -313,7 +348,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | DiLeonardo International | [Architecture/Project Coordinator Internship, Winter 2026/Spring 2027](https://dileonardo.bamboohr.com/careers/55) · Winter 2026 | Warwick, Rhode Island, United States |  | 2026-11-05 |  |
 | DoorDash | [Drone Operations, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8312381) · Summer 2027 | San Francisco, CA |  | 2026-11-05 |  |
 | Waters Construction | [Safety Assistant Intern (Spring/Summer)](https://watersconst.bamboohr.com/careers/64) · Spring | Hartford, Connecticut, United States | $20/hour | 2026-11-05 |  |
-| Massachusetts School Building Authority | [Capital Planning Data Assistant (Co-op)](https://jobs.lever.co/massschoolbuildings/d50b947b-cfb4-463a-8a1b-44fcbe26de6e) | Boston, Massachusetts |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Legislative Intern - Citizens Against Government Waste](https://jobs.lever.co/standtogether/7fbfcfa1-c229-4a95-9006-329375973572) · Spring 2027 | Washington, DC (remote) |  | 2026-11-05 |  |
 | Flip AI | [Internship People & Culture (m/f/d)](https://jobs.ashbyhq.com/flip/06858195-a8ed-44d2-8efe-45690970e94e) | Stuttgart & Remote |  | 2026-11-05 |  |
 | Personal Risk Management Solutions | [Administrative Intern](https://job-boards.greenhouse.io/prms/jobs/4722988006) | New York, NY |  | 2026-11-05 |  |
@@ -323,7 +357,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | University of Pikeville | [WS - Spring Term - INTERNSHIP – First Baptist Church of Pikeville – Ministry & Administrative Asst– IWS](https://upike.bamboohr.com/careers/582) · Spring | Pikeville, Kentucky, United States |  | 2026-11-05 |  |
 | BGE, Inc | [CHARLOTTE - Planning & Landscape Architecture, Internship](https://job-boards.greenhouse.io/bgeinc/jobs/5451646008) | 1111 Metropolitan Avenue, Suite 250, ​Charlotte, North Carolina 28204 |  | 2026-11-05 |  |
 | Groma | [Spring 2027 Property Operations Co-op](https://job-boards.greenhouse.io/groma/jobs/4743488005) · Spring 2027 | Boston, MA | $20/hour | 2026-11-05 |  |
-| Suburban Enterprises | [Apprentice & Apprenticeship Manager](https://suburbanenterprises.bamboohr.com/careers/313) | Appleton, Wisconsin, United States |  | 2026-11-05 |  |
 | Critical Systems | [Internship Application - Project Coordinator](https://criticalsystemsllc.bamboohr.com/careers/47) | Rockville, Maryland, United States |  | 2026-11-05 |  |
 | Konare Law | [2027 Summer Associate](https://konarelaw.bamboohr.com/careers/203) · Summer 2027 | Frederick, Maryland, United States |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Development Intern - The American Council of Trustees and Alumni](https://jobs.lever.co/standtogether/11740e1b-1839-4c34-9883-6f4edf609b5f) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
@@ -331,7 +364,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ACT Group | [Operations Summer Intern](https://careers.actgroup.com/v/8869271002?gh_jid=8869271002) · Summer | New York, NY, United States | $30 to $40/hour | 2026-11-05 |  |
 | Hunter Douglas | [2027 MBA Program - Internship](https://jobs.hunterdouglas.com/division/hunterdouglas/job/8014482003?gh_jid=8014482003) | New York, Atlanta, Colorado, Irvine, Florida, Texas |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Events Intern - Competitive Enterprise Institute](https://jobs.lever.co/standtogether/a9aae301-77fc-4ca7-afea-1805de69f185) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
-| Stand Together | [KIP Spring 2027 - Programs Logistics Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/92af3ee6-eef5-4620-9942-1b8269d5f690) · Spring 2027 | Georgia |  | 2026-11-05 |  |
+| Stand Together | [KIP Spring 2027 - Programs Logistics Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/92af3ee6-eef5-4620-9942-1b8269d5f690) · Spring 2027 | Atlanta, Georgia |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Strategic Leadership Intern - Fair For All](https://jobs.lever.co/standtogether/d02174fe-d16c-4dbc-9298-84df32618c68) · Spring 2027 | New York, New York |  | 2026-11-05 |  |
 | TA Realty LLC | [MBA Summer Associate Internship 2027](https://ats.rippling.com/ta-realty-llc/jobs/a50468f4-89e7-44a2-a7ef-9153f811ae46) · Summer | Boston, MA |  | 2026-11-05 |  |
 | National Center on Sexual Exploitation | [Internship: Corporate Advocacy](https://ncose.bamboohr.com/careers/214) | Washington, District of Columbia, United States |  | 2026-11-05 |  |
@@ -345,7 +378,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | University of Pikeville | [WS - Spring Term INTERNSHIP - Appalachian Pregnancy Care Center (APCC) Administrative Operations Assistant - F](https://upike.bamboohr.com/careers/575) · Spring | Pikeville, Kentucky, United States | $8.75/hour | 2026-11-05 |  |
 | REGENXBIO | [People Intern](https://jobs.lever.co/regenxbio/4669880d-7813-47ec-ad05-159129ae7d3a) | Rockville, Maryland | $22 to $24/hour | 2026-11-05 |  |
 | Sequoia Services | [Summer 2027 College Internship](https://seqserv.bamboohr.com/careers/326) · Summer 2027 | Raleigh, North Carolina, United States |  | 2026-11-05 |  |
-| Stand Together | [KIP Spring 2027 - Communications & Operations Intern - James G. Martin Center for Academic Renewal](https://jobs.lever.co/standtogether/e1b0b0bd-764d-47d7-8355-85b6160c3580) · Spring 2027 | North Carolina (remote) |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Development and Fundraising Intern - Atlas Network](https://jobs.lever.co/standtogether/d4beb08c-b56d-4e76-9496-5b59ce3c7848) · Spring 2027 | Arlington, Virginia |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Development Intern - Independence Institute](https://jobs.lever.co/standtogether/031f2277-6d82-498b-bfba-0d338acf5bc3) · Spring 2027 | Denver, Colorado |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Events Intern - Atlas Network](https://jobs.lever.co/standtogether/54887295-de18-46c9-949d-b72fa8365820) · Spring 2027 | Arlington, Virginia |  | 2026-11-05 |  |
@@ -724,35 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277638-internship-journalist-and-fb-administrator) | Muncie, IN, us |  | 2026-11-05 |  |
 | ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277577-internship-journalist-and-fb-administrator) | Richmond, IN, us |  | 2026-11-05 |  |
 | ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277510-internship-journalist-and-fb-administrator) | Bowling Green, KY, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277457-internship-journalist-and-fb-administrator) | Florence, AL, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277425-internship-journalist-and-fb-administrator) | Stillwater, OK, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277280-internship-journalist-and-fb-administrator) | Knoxville, TN, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277147-internship-journalist-and-fb-administrator) | Lubbock, TX, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277093-internship-journalist-and-fb-administrator) | Waco, TX, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276991-internship-journalist-and-fb-administrator) | Nashville, TN, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276923-internship-journalist-and-fb-administrator) | Jonesboro, AR, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276761-internship-journalist-and-fb-administrator) | Cedar City, UT, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276694-internship-journalist-and-fb-administrator) | Ashland, OH, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276581-internship-journalist-and-fb-administrator) | Tulsa, OK, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276514-internship-journalist-and-fb-administrator) | Omaha, NE, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276497-internship-journalist-and-fb-administrator) | Murfreesboro, TN, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276430-internship-journalist-and-fb-administrator) | Memphis, TN, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276394-internship-journalist-and-fb-administrator) | Louisville, KY, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276309-internship-journalist-and-fb-administrator) | Conway, AR, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276243-internship-journalist-and-fb-administrator) | Cookeville, TN, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94276155-internship-journalist-and-fb-administrator) | Cookeville, TN, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94224600-internship-journalist-and-fb-administrator) | Johnstown, PA, us |  | 2026-11-05 |  |
-| BroadFutures | [BroadFutures' DC Summer 2027 Internship Program](https://broadfutures.pinpointhq.com/en/postings/c839b66a-0745-4b61-9500-23637382deff) · Summer 2027 | Washington, Washington DC |  | 2026-11-05 |  |
-| Electronic Arts | [Strategic Planning Intern (MBA)](https://jobs.ea.com/en_US/careers/JobDetail/Strategic-Planning-Intern-MBA/216510) | Los Angeles - Del Rey, United States of America |  | 2026-11-05 | no visa sponsorship |
-| Franklin Electric | [Summer 2027 Global Business Strategy Development Intern](https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06) · Summer 2027 | Fort Wayne, Indiana |  | 2026-11-05 |  |
-| Franklin Electric | [Summer 2027 - IT Operations Intern](https://franklin-electric.pinpointhq.com/en/postings/00f157b2-8269-440b-b675-fd03a04c0b23) · Summer 2027 | Fort Wayne, Indiana |  | 2026-11-05 |  |
-| TikTok | [Category Management Project Intern (TTikTok Shop - US Operation) - 2026 Start](https://lifeattiktok.com/search/7703506364450146613) | Los Angeles, California, United States of America |  | 2026-11-05 |  |
-| W. M. Keck Observatory | [High School Student Assistant - Systems Administration](https://keck.pinpointhq.com/en/postings/43a94137-51c8-4ec1-851f-19a7e311847f) | Kamuela, HI | $16 to $18.52/hour | 2026-11-05 |  |
-| W. M. Keck Observatory | [High School Student Assistant - Public Affairs](https://keck.pinpointhq.com/en/postings/21d826cd-b88f-43c1-abc9-c1ec48d155ea) | Kamuela, HI | $16 to $18.52/hour | 2026-11-05 |  |
-| Fox Corporation | [Spring 2027 FOX Sports - Big Ten Network - Internship Program - New York, NY](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-Sports---Big-Ten-Network---Internship-Program---New-York--NY_R50034245) · Spring 2027 | New York, New York, USA | $20/hour | 2026-11-04 |  |
-| Beli | [Strategy & Operations Intern - Summer 2027](https://beli.breezy.hr/p/db2b39aebadf-strategy-operations-intern-summer-2027) · Summer 2027 | New York, NY |  | 2026-11-04 |  |
-| Barnhart Crane & Rigging | [Administrative Intern](https://barnhart-crane-rigging.breezy.hr/p/c175cdcba2df-administrative-intern) | Memphis, TN |  | 2026-11-04 |  |
-| Center for Strategic and International Studies, Inc. | [Spring Intern, Americas Program](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4476492009) · Spring 2027 | Washington, D.C. | $18.40 to $20.40/hour | 2026-11-04 |  |
-| EnergyX | [Internship Program](https://energyx.bamboohr.com/careers/158) | Austin, Texas, United States |  | 2026-11-04 |  |
-| GoFundMe | [MBA Business Operations Intern, Summer 2027](https://job-boards.greenhouse.io/gofundme/jobs/8350137) · Summer 2027 | San Francisco, CA (hybrid) | $75/hour | 2026-11-04 |  |
-| NMI | [Business Strategy Intern](https://job-boards.greenhouse.io/nmi/jobs/5470254008) · Summer 2027 | US, Remote | $25 to $35/hour | 2026-11-04 |  |

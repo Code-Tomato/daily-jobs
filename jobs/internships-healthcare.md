@@ -1,11 +1,30 @@
 # Internships and co-ops: Healthcare
 
-2,933 open, newest first (by the date the scraper first saw them), updated 2026-11-13. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,951 open, newest first (by the date the scraper first saw them), updated 2026-11-14. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Bask Health | [Patient Experience Intern](https://apply.workable.com/j/9C8D5A5288) | United States |  | 2026-11-14 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1104264) | 4150 N. SHEPHERD, Houston, Texas,United States | $20 to $23.75/hour | 2026-11-14 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1104237) | 3505 CENTER ST., Deer Park, Texas,United States | $20 to $23.75/hour | 2026-11-14 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1104246) | 1610 NASA RD 1, Nassau Bay, Texas,United States | $20 to $23.75/hour | 2026-11-14 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1104256) | 4026 N MACARTHUR BLVD, Warr Acres, Oklahoma,United States | $20 to $23.75/hour | 2026-11-14 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1104098) | 12902 EAST 96TH STREET, NORTH, Owasso, Oklahoma,United States | $20 to $23.75/hour | 2026-11-14 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099003) | 1393 BIG BEND RD., Ballwin, Missouri,United States | $20 to $23.75/hour | 2026-11-14 |  |
+| CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1104030) | 111 PIONEER TRL, Chaska, Minnesota,United States | $24.25 to $42/hour | 2026-11-14 |  |
+| Munson Healthcare | [Nurse Externship - Days](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016848036-nurse-externship-days) · Summer 2027 | Traverse City, Michigan, us |  | 2026-11-14 |  |
+| Munson Healthcare | [Nurse Externship - Nights](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016847956-nurse-externship-nights) · Summer 2027 | Traverse City, Michigan, us |  | 2026-11-14 |  |
+| Ramboll | [Intern, Environment & Health](https://jobs.smartrecruiters.com/Ramboll3/744000161572245-intern-environment-health-) | Seattle, Washington, us | $20 to $25/hour | 2026-11-14 |  |
+| Tenet Healthcare | [Pharmacist Intern](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503017258) | Memphis, TN, United States |  | 2026-11-14 |  |
+| University Health (San Antonio) | [Student Nurse Intern PRN](https://careers.universityhealth.com/job/san-antonio/student-nurse-intern-prn/43277/103227644576) | San Antonio, TX |  | 2026-11-14 |  |
+| University Health (San Antonio) | [Student Nurse Intern PRN](https://careers.universityhealth.com/job/san-antonio/student-nurse-intern-prn/43277/103227644624) | San Antonio, TX |  | 2026-11-14 |  |
+| University Health (San Antonio) | [Student Nurse Intern PRN](https://careers.universityhealth.com/job/san-antonio/student-nurse-intern-prn/43277/57577778832) | San Antonio, TX |  | 2026-11-14 |  |
+| University Health (San Antonio) | [Student Nurse Intern PRN](https://careers.universityhealth.com/job/san-antonio/student-nurse-intern-prn/43277/64871768128) | San Antonio, TX |  | 2026-11-14 |  |
+| University Health (San Antonio) | [Student Nurse Intern PRN](https://careers.universityhealth.com/job/san-antonio/student-nurse-intern-prn/43277/64871768320) | San Antonio, TX |  | 2026-11-14 |  |
+| University Health (San Antonio) | [Student Nurse Intern PRN](https://careers.universityhealth.com/job/san-antonio/student-nurse-intern-prn/43277/64871768560) | San Antonio, TX |  | 2026-11-14 |  |
+| Connections Wellness Group | [Clinical Intern](https://connectionswellness.bamboohr.com/careers/27) | Plano, Texas, United States |  | 2026-11-14 |  |
 | Ascension | [Intern Imaging](https://jobs.ascension.org/us/en/job/30447) | Evansville, IN, US |  | 2026-11-13 |  |
 | Tri-County Therapy | [Therapy Center Internship](https://tct.bamboohr.com/careers/398) | Ladson, South Carolina, United States |  | 2026-11-13 |  |
 | CommonSpirit Health (St. Luke's Health) | [Patient Care Tech Apprenticeship](https://www.commonspirit.careers/job/colorado-springs/patient-care-tech-apprenticeship/35300/103216062224) | Colorado Springs, CO |  | 2026-11-13 |  |
@@ -368,7 +387,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | UX Woman | [Healthcare to UX Design Career Changer Apprenticeship](https://ux-woman.breezy.hr/p/1f25411ad19a-healthcare-to-ux-design-career-changer-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
 | Self Care Counseling | [Internship](https://selfcarecounseling.bamboohr.com/careers/32) | Loveland, Ohio, United States |  | 2026-11-05 |  |
 | Brazos Valley Council on Alcohol and Substance Abuse | [Residential Chemical Dependency Counselor or Counselor Intern](https://bvcasa.bamboohr.com/careers/194) | Bryan, Texas, United States |  | 2026-11-05 |  |
-| Commonwealth Health | [Nurse Intern/Extern- Center for Advanced Rehabilitation](https://tenor-health-foundation.breezy.hr/p/2f961e59da96-nurse-intern-extern-center-for-advanced-rehabilitation) | Wilkes-Barre, PA |  | 2026-11-05 |  |
 | Crossroads Inc | [Clinical Counseling Intern Weekly Stipend (Non-Profit)](https://crossroadsinc.bamboohr.com/careers/959) | Phoenix, Arizona, United States |  | 2026-11-05 | clearance |
 | Origami Rehabilitation | [Intern: Clinical Internship](https://origamirehab.bamboohr.com/careers/277) | Mason, Michigan, United States |  | 2026-11-05 |  |
 | Munson Healthcare | [Radiology Student Intern Opportunities](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990010867816-radiology-student-intern-opportunities) | Traverse City, Michigan, us |  | 2026-11-05 |  |
@@ -738,21 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Centria Autism | [Clinical Apprentice - BCBA Fieldwork Program](https://job-boards.greenhouse.io/centriaautism/jobs/8616970002) | Saint Joseph, Michigan, United States | $18 to $23/hour | 2026-11-04 |  |
 | Blink Health | [Pharmacy Intern / Onsite- Chesterfield](https://job-boards.greenhouse.io/blinkhealth/jobs/8613908002) | Chesterfield, MO |  | 2026-11-04 |  |
 | Greene County Public Health | [Public Health Intern](https://gcph.bamboohr.com/careers/84) | Xenia, Ohio, United States |  | 2026-11-04 |  |
-| Lemonaid Health | [PT Pharmacy Student Technician](https://ats.rippling.com/lemonaid-health/jobs/7e18851e-af08-4a65-9717-d219e8a4b5ff) | St. Louis, MO |  | 2026-11-04 |  |
-| Veterinary Emergency Group (VEG) | [Veterinary Technician Student Externship - Clearwater, FL](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6020008004?gh_jid=6020008004) | Clearwater, Florida, United States |  | 2026-11-04 |  |
-| Carbon Health | [Medical Assistant Externship](https://ats.rippling.com/carbon-health/jobs/61976bc6-0b80-4bce-a401-63ebb5e996ef) | Paso Robles, CA |  | 2026-11-04 |  |
-| Carbon Health | [Medical Assistant Externship](https://ats.rippling.com/carbon-health/jobs/efb069b3-4e99-4089-aeb8-6f5e6cfa6acb) | Paso Robles, CA |  | 2026-11-04 |  |
-| VetEvolve | [Colonial Gateway Veterinary Center - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/5222184008) | United States |  | 2026-11-04 |  |
-| CityVet DVM | [CityVet Veterinarian Externship : Atlanta, GA](https://job-boards.greenhouse.io/cityvetinc/jobs/4235639009) | Atlanta, Georgia, United States |  | 2026-11-04 | no visa sponsorship |
-| CityVet DVM | [CityVet Veterinarian Externship: Austin, Tx](https://job-boards.greenhouse.io/cityvetinc/jobs/4235758009) | Austin, Texas |  | 2026-11-04 | no visa sponsorship |
-| CityVet DVM | [CityVet Veterinarian Externship: Charlotte, NC](https://job-boards.greenhouse.io/cityvetinc/jobs/4235740009) | Charlotte, North Carolina, United States |  | 2026-11-04 | no visa sponsorship |
-| CityVet DVM | [CityVet Veterinarian Externship: Dallas-Fort Worth](https://job-boards.greenhouse.io/cityvetinc/jobs/4229535009) | Dallas, Texas, United States |  | 2026-11-04 | no visa sponsorship |
-| CityVet DVM | [CityVet Veterinarian Externship: Denver, CO](https://job-boards.greenhouse.io/cityvetinc/jobs/4235663009) | Denver, Colorado, United States |  | 2026-11-04 | no visa sponsorship |
-| CityVet DVM | [CityVet Veterinarian Externship: Houston, TX](https://job-boards.greenhouse.io/cityvetinc/jobs/4235765009) | Houston, Texas, United States |  | 2026-11-04 | no visa sponsorship |
-| CityVet DVM | [CityVet Veterinarian Externship: Oklahoma City, OK](https://job-boards.greenhouse.io/cityvetinc/jobs/4235621009) | Oklahoma City, Oklahoma, United States |  | 2026-11-04 | no visa sponsorship |
-| CityVet DVM | [CityVet Veterinarian Externship: Phoenix, AZ](https://job-boards.greenhouse.io/cityvetinc/jobs/4235668009) | Phoenix, Arizona, United States |  | 2026-11-04 | no visa sponsorship |
-| CityVet DVM | [CityVet Veterinarian Externship: San Antonio, TX](https://job-boards.greenhouse.io/cityvetinc/jobs/4235777009) | San Antonio, Texas, United States |  | 2026-11-04 | no visa sponsorship |
-| CityVet DVM | [CityVet Veterinarian Externship: Virginia Beach, VA](https://job-boards.greenhouse.io/cityvetinc/jobs/4235685009) | Virginia Beach, Virginia, United States |  | 2026-11-04 | no visa sponsorship |
-| TotalBond Veterinary Hospitals | [Veterinary Technician Student Externship/Preceptorship Program - TotalBond Veterinary Hospital at Bethel](https://boards.greenhouse.io/totalbond/jobs/8539590002?gh_jid=8539590002) | Lake Wylie, SC |  | 2026-11-04 |  |
-| TotalBond Veterinary Hospitals | [Veterinary Technician Student Externship/Preceptorship Program - TotalBond Veterinary Hospital at Forestbrook](https://boards.greenhouse.io/totalbond/jobs/8539609002?gh_jid=8539609002) | Gastonia, NC |  | 2026-11-04 |  |
-| Veterinary Emergency Group (VEG) | [Veterinary Technician Student Externship - Eden Prairie, MN](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/5988052004?gh_jid=5988052004) | Eden Prairie, Minnesota, United States |  | 2026-11-04 |  |

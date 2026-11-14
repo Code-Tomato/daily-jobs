@@ -6,38 +6,38 @@ resume and finds the ones you actually qualify for. The companies are the career
 Greenhouse, Lever, Ashby, SmartRecruiters, Workable, BambooHR, Breezy, Rippling, Recruitee, Teamtailor, Pinpoint and Gem.
 
 <!-- stats -->
-**637,263 US job postings from 20,538 companies**, updated 2026-11-13 (13,145 first seen that day).
+**637,808 US job postings from 20,527 companies**, updated 2026-11-14 (10,477 first seen that day).
 
-- [Internships and co-ops](jobs/internships.md): 17,438 open, 2,090 new this week
-- [New grad and entry level](jobs/new-grad.md): 49,118 open, 6,671 new this week
+- [Internships and co-ops](jobs/internships.md): 17,485 open, 1,661 new this week
+- [New grad and entry level](jobs/new-grad.md): 49,281 open, 5,861 new this week
 
 <details><summary>Postings by field</summary>
 
 | Field | Postings |
 |---|---:|
-| Business, consulting and operations | 131,490 |
-| Healthcare | 95,814 |
-| Skilled trades, service and retail | 69,902 |
-| Sales, marketing and communications | 56,370 |
-| Software engineering | 52,023 |
-| Other | 47,382 |
-| Finance, accounting and banking | 37,672 |
-| Mechanical, aerospace and manufacturing | 26,958 |
-| Data, ML and AI | 26,131 |
-| Hardware, chips and embedded | 17,848 |
-| Civil, construction and environmental | 16,550 |
-| Product, program and project management | 14,747 |
-| HR, legal and policy | 13,920 |
-| Other engineering | 9,490 |
-| Education | 8,655 |
-| Science and research | 7,236 |
-| Design and creative | 5,075 |
+| Business, consulting and operations | 131,821 |
+| Healthcare | 96,422 |
+| Skilled trades, service and retail | 70,139 |
+| Sales, marketing and communications | 56,356 |
+| Software engineering | 51,729 |
+| Other | 47,483 |
+| Finance, accounting and banking | 37,078 |
+| Mechanical, aerospace and manufacturing | 26,967 |
+| Data, ML and AI | 26,108 |
+| Hardware, chips and embedded | 17,829 |
+| Civil, construction and environmental | 16,662 |
+| Product, program and project management | 14,658 |
+| HR, legal and policy | 13,977 |
+| Other engineering | 9,507 |
+| Education | 8,687 |
+| Science and research | 7,300 |
+| Design and creative | 5,085 |
 
 </details>
 
-999 companies are a curated list; 19,539 more were found on the job-board systems with open APIs (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, BambooHR and others) and are checked daily (40 failed on their last check).
+999 companies are a curated list; 19,528 more were found on the job-board systems with open APIs (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, BambooHR and others) and are checked daily (37 failed on their last check).
 
-Curated boards that failed or looked wrong on their last check (their older postings are kept): Albertsons, American Express, Autodesk, Calpine, Canva, Deloitte, Disney, Fluor, GE Aerospace, Harman, JetZero, MD Anderson, NXP, Navy Federal Credit Union, Nielsen, Old Mission, Qorvo, Southwest Airlines, Synchrony, TIAA, UPS, United Airlines, Valaris.
+Curated boards that failed or looked wrong on their last check (their older postings are kept): AEP, AIG, AT&T, Abbott, Academy Sports + Outdoors, Adobe, Albemarle, Albertsons, Allstate, Ally Financial, Altera, American Express, American Family Insurance, Ameriprise Financial, Amgen, Analog Devices, Applied Materials, Argonne National Laboratory, Ascend Performance Materials, Austin Community College, Autodesk, BD, Baker Hughes, Bank of America, BlackRock, Blue Origin, Boom Supersonic, Boston Dynamics, Broadcom, Broadridge, Brookhaven National Laboratory, CME Group, CNA Insurance, Cadence, Calpine, Canva, Capital Group, CarMax, Cardinal Health, Caterpillar, Cboe, Centene, Chipotle, Ciena, Citi, ConocoPhillips, Cook Children's, Corebridge Financial, Corva, Cox Enterprises, CrowdStrike, Danaher, Deloitte, Dexcom, Dick's Sporting Goods, Disney, Dow, ERCOT, East Texas A&M University, Edwards Lifesciences, Elevance Health, Entegris, FICO, FIS, Fannie Mae, Fidelity Investments, Fifth Third Bank, Flowserve, Fluor, FormFactor, Fox Corporation, Fractal Analytics, GE Aerospace, GE HealthCare, GEICO, GM, Gap Inc., Gilead Sciences, Global Payments, GlobalFoundries, Grubhub, Guidehouse, HCSC, HP Inc, HPE, Harman, Home Depot, Huntsman, Huron, IQVIA, Illumina, Intel, Invesco, JetZero, Johnson & Johnson, KLA, KeyBank, Kimberly-Clark, Kyndryl, LPL Financial, Liberty Mutual, Lowe's, M&T Bank, MD Anderson, MKS Instruments, Marathon Petroleum, Marsh McLennan, Marvell, MassMutual, Mastercard, Medtronic, Methodist Health System, Micron, Mizuho Americas, Morgan Stanley, Motiva, Motorola Solutions, NVIDIA, NXP, Nasdaq, Nationwide, Navy Federal Credit Union, Netflix, New York Life, Nielsen, Nike, Noble Corporation, Northern Trust, Northwestern Mutual, ONEOK, Oaktree Capital Management, Old Mission, Onto Innovation, PIMCO, PNC, PTC, Palo Alto Networks, PayPal, Plains All American, Positron, Prairie View A&M University, Priceline, Protiviti, Prudential, Qorvo, Quantiphi, RSM US, Rackspace, Raymond James, RingCentral, Rippling, Rockwell Automation, S&P Global, SWBC, SailPoint, Semtech, Service Corporation International, ServiceTitan, Sharp HealthCare, SiFive, Sierra Space, Silicon Labs, Snap, Sony, Southwest Airlines, Stewart Information Services, Stryker, Synchrony, Sysco, T-Mobile, TIAA, Target, Tarleton State University, Texas A&M AgriLife Extension, Texas A&M AgriLife Research, Texas A&M Engineering Experiment Station (TEES), Texas A&M International University, Texas A&M Transportation Institute, Texas A&M University, Texas A&M University System Offices, Texas A&M University at Galveston, Texas A&M University-Corpus Christi, Texas A&M University-Kingsville, Texas A&M University-San Antonio, Texas A&M University-Texarkana, Texas Mutual Insurance, Thermo Fisher Scientific, Thomson Reuters, Thrivent, Transocean, Travelers, Trimble, TrueCar, U.S. Bank, UPS, USAA, United Airlines, Unity, University of Chicago, University of Texas at Austin, Unum, Valaris, Vanguard, Viavi Solutions, Visa, Waste Connections, Wells Fargo, West Texas A&M University, Westlake, Workday, Xcel Energy, Zendesk, Zillow, athenahealth, iHeartMedia.
 <!-- /stats -->
 
 ## Three ways to use it

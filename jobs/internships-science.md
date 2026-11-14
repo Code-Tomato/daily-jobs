@@ -1,11 +1,14 @@
 # Internships and co-ops: Science and research
 
-154 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
+156 open, newest first (by the date the scraper first saw them), updated 2026-11-14.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Eurofins | [Biochemistry Intern](https://jobs.smartrecruiters.com/Eurofins/744000161568740-biochemistry-intern) | Lancaster, PA, us |  | 2026-11-14 |  |
+| Intuitive Surgical | [Clinical Research Intern](https://jobs.smartrecruiters.com/Intuitive/744000161532709-clinical-research-intern) | Sunnyvale, CA, us |  | 2026-11-14 |  |
+| National Laboratory of the Rockies (NREL) | [Undergraduate/Graduate Internship – Biochemistry/Molecular Biology/Fermentation](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-Graduate-Internship---Biochemistry-Molecular-Biology-Fermentation_R14619) | Golden, CO | $39,600 to $63,400 | 2026-11-14 |  |
 | Entegris | [Research Associate Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Research-Associate-Intern---Summer-2027_REQ-15864) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
 | Entegris | [Research Associate Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Research-Associate-Intern---Summer-2027_REQ-15849) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
 | Entegris | [Formulation Scientist, Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Formulation-Scientist--Intern---Summer-2027_REQ-15876) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
@@ -96,7 +99,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | GM | [2027 Summer Intern - Research and Development - EPSR Lab](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---EPSR-Lab_JR-202623300) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-11-02 | no visa sponsorship, US citizens/persons only |
 | Amgen | [Grad Intern – Bioanalytical Research Associate (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097) · Summer 2027 | US - California - Thousand Oaks | $35.34 to $41.20/hour | 2026-10-30 |  |
 | Cedars-Sinai | [Research Intern (Academic Credit) - Simpkins Lab - Department of Neurology - Per Diem (On-site)](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21589) | Los Angeles, CA, United States |  | 2026-10-29 |  |
-| Scripps Research | [INTERN RESEARCH - Encalada Lab](https://recruiting2.ultipro.com/SCR1003TSRI/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/OpportunityDetail?opportunityId=3c94ba0a-1943-4458-97d8-60e4f4bdf1d0) | San Diego, CA, USA | $17.75 to $20.40/hour | 2026-10-28 |  |
 | Seagate | [Organic Chemistry Scientist/Engineer Intern - Summer 2027](https://seagatecareers.com/job/Longmont-Organic-Chemistry-ScientistEngineer-Intern-Summer-2027-CO-80501/1443837500/) · Summer 2027 | Longmont, United States | $22 to $35/hour | 2026-10-27 |  |
 | Trace3 | [Innovation Research & Development Lab Intern](https://job-boards.greenhouse.io/trace3/jobs/8306880) | Houston, TX | $18 to $27/hour | 2026-10-27 |  |
 | KLA | [Chemistry R&D Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Chemistry-R-D-Intern_2642152-1) · Summer 2027 | Totowa, NJ | $31.50 to $50/hour | 2026-10-24 |  |

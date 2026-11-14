@@ -1,11 +1,14 @@
 # New grad and entry level: Product, program and project management
 
-290 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
+292 open, newest first (by the date the scraper first saw them), updated 2026-11-14.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Eurofins | [Program Manager - DiscoveryOne](https://jobs.smartrecruiters.com/Eurofins/744000161522785-program-manager-discoveryone) | Saint Charles, MO, us |  | 2026-11-14 |  |
+| Google | [Technical Program Manager I, Data Center Networking, Cloud Network](https://www.google.com/about/careers/applications/jobs/results/114909851020075718) | Addison, TX, USA / Austin, TX, USA | $116,000 to $165,000 | 2026-11-14 |  |
+| Siemens | [Associate Project Manager - Medium Voltage Switchgear](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521824) | Raleigh - North Carolina - United States of America; Wendell - North C |  | 2026-11-14 | no visa sponsorship |
 | ICF | [Program Manager – Commercial and Industrial Energy Efficiency](https://careers.icf.com/us/en/job/R2603727) | Columbia, South Carolina, United States of America | $73,738 to $125,354 | 2026-11-13 | no visa sponsorship |
 | Jobgether | [New Grad- Project Scheduler](https://jobs.lever.co/jobgether/05adf3a8-81e3-4628-acb2-b66ee7438929) | US | $82,000 | 2026-11-12 |  |
 | Perplexity | [Product Manager, Legal](https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a) | San Francisco |  | 2026-11-12 |  |
@@ -54,7 +57,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | KLA | [Product Supportability Program Manager](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Product-Supportability-Program-Manager_2642335) | Phoenix, AZ | $109,000 to $185,300 | 2026-11-05 |  |
 | Quanta Services | [Project Manager](https://careers-quanta.icims.com/jobs/19764/project-manager/job) | Puyallup, WA | $38 to $46/hour | 2026-11-05 |  |
 | Agate Software | [Project Manager - Glendale AZ [PJM-2026-10]](https://jobs.lever.co/agatesoftware/09bede4b-c2b7-4bcd-b58c-e89b0cf449d2) | Glendale, AZ (hybrid) |  | 2026-11-05 |  |
-| SFMOMA | [Museum Prep I, Fabrication, On-Call](https://jobs.lever.co/sfmoma/09c742b6-2792-4579-bd68-5cc496bdf4df) | San Francisco, CA |  | 2026-11-05 |  |
+| SFMOMA | [Museum Prep I, Fabrication Shop, On-Call](https://jobs.lever.co/sfmoma/09c742b6-2792-4579-bd68-5cc496bdf4df) | San Francisco, CA |  | 2026-11-05 |  |
 | Distro | [Sidewalk Program Manager](https://jobs.lever.co/distro/12fb6cd7-57b9-456d-b65d-88bf853608f0) | Ithaca, New York |  | 2026-11-05 |  |
 | DFO Referrals | [Business Analyst, Project Management Pillar](https://job-boards.greenhouse.io/dforeferrals/jobs/6228327004) | Westport, CT | $80,000 to $120,000 | 2026-11-05 | no visa sponsorship |
 | Cultivate Initiatives | [Community Beautification Program Manager](https://cultivateinitiatives.bamboohr.com/careers/139) | Portland, Oregon, United States | $64,000 to $68,000 | 2026-11-05 |  |
@@ -96,10 +99,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AECOM | [Entry-Level Deputy Project Manager](https://jobs.smartrecruiters.com/AECOM2/744000157843708-entry-level-deputy-project-manager) | Philadelphia, PA, us |  | 2026-11-04 | no visa sponsorship |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464240008) | Olathe KS |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464244008) | Atlanta GA |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464233008) | Phoenix AZ EDS |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464229008) | Nashville TN |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464243008) | Port St. Lucie FL |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464244008) | Atlanta GA |  | 2026-11-04 |  |
 | REXEL | [Project Manager I](https://jobs.smartrecruiters.com/REXEL1/744000157887719-project-manager-i) | Boise, ID, us |  | 2026-11-04 |  |
 | POWERX | [Project Manager](https://job-boards.greenhouse.io/powerx/jobs/4464251009) | Denver, Colorado |  | 2026-11-04 |  |
 | ButterflyMX | [Implementation Project Manager (Hybrid)](https://jobs.ashbyhq.com/butterflymx/6da62dcb-ad9e-4de4-865a-14f80ec8d968) | NYC Headquarters (hybrid) | $75,000 to $85,000 | 2026-11-04 |  |
@@ -175,6 +178,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Saronic Technologies | [Associate Product Manager](https://jobs.ashbyhq.com/saronic/faedc1a5-99c2-41c8-a7ce-8329084b0224) | Austin, TX |  | 2026-11-04 | US citizens/persons only |
 | Fortuna Health | [Product Operations Associate](https://jobs.ashbyhq.com/fortuna-health/aa48c14b-e38e-4f27-84ef-a6b032bb9b60) | New York, NY |  | 2026-11-04 |  |
 | Voyager Technologies, Inc. | [Project Manager](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4342333009) | Webster, TX; (hybrid) |  | 2026-11-04 | US citizens/persons only, clearance |
+| GITAI | [Mission Manager](https://job-boards.greenhouse.io/gitai/jobs/5376000008) | Los Angeles, California, United States | $140,000 to $185,000 | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Shorr Packaging | [Project Manager - National Accounts](https://jobs.gem.com/shorr-careers/am9icG9zdDpSWnHzx90XB8O3VtEVLd-s) | Cincinnati, OH |  | 2026-11-04 |  |
 | Volexity | [Associate Product Manager](https://job-boards.greenhouse.io/volexity/jobs/4323110009) | Silver Spring, MD |  | 2026-11-04 |  |
 | US Conec, Ltd. | [Associate Product Manager](https://job-boards.greenhouse.io/usconec/jobs/4314187009) | Hickory, North Carolina, United States |  | 2026-11-04 |  |
@@ -234,7 +238,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Project Manager - Underground Transmission](https://careers.bv.com/job/Overland-Park-Project-Manager-Underground-Transmission-KS-66062/1292504801/) | Overland Park, KS, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Underground Transmission](https://careers.bv.com/job/Burlington-Project-Manager-Underground-Transmission-MA-01803/1292506401/) | Burlington, MA, US | $126,360 to $221,136 | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Transmission](https://careers.bv.com/job/Burlington-Project-Manager-Transmission-MA-01803/1292507701/) | Burlington, MA, US | $126,360 to $221,136 | 2026-10-20 |  |
-| Charter Communications | [Project Manager](https://jobs.spectrum.com/job/town-of-stamford/project-manager/4673/101444347008) | Stamford, Connecticut | $81,800 to $131,000 | 2026-10-20 | no visa sponsorship |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Columbus-Project-Manager-WaterWastewater-OH-43085/1421396233/) | Seven Hills, OH, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Des-Moines-Project-Manager-WaterWastewater-IA/1421409133/) | Kansas City, MO, US |  | 2026-10-20 |  |
 | Black & Veatch | [Data Center Field Project Manager](https://careers.bv.com/job/Overland-Park-Data-Center-Field-Project-Manager-KS-66062/1408970833/) | Canonsburg, PA, US |  | 2026-10-20 |  |
@@ -266,7 +269,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ICF | [Commercial Program Manager – Small Business Energy Savings](https://careers.icf.com/us/en/job/R2602830) | Atlanta, Georgia, United States of America | $98,614 to $167,644 | 2026-10-20 |  |
 | The Trade Desk | [Product Manager II](https://job-boards.greenhouse.io/thetradedesk/jobs/5204413007) | New York | $151,400 to $227,000 | 2026-10-20 |  |
 | Texas Children's Hospital | [Facilities Project Manager I](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/426250) | Houston, TX, United States |  | 2026-10-20 |  |
-| Mercury Insurance | [Product Manager Tech Products](https://careers-mercuryinsurance.icims.com/jobs/6667/product-manager-tech-products/job) | Remote, UNAVAILABLE | $85,871 to $179,048 | 2026-10-20 |  |
 | Veeva Systems | [Associate Product Manager - Vault CRM Suite](https://jobs.lever.co/veeva/551b6963-1d68-4952-8dce-99950b658c72) | California - Pleasanton | $60,000 to $120,000 | 2026-10-20 |  |
 | Veeva Systems | [Associate Product Manager - Vault CRM Suite](https://jobs.lever.co/veeva/6bcc8228-5b43-43e5-b96b-d62679b8c64a) | Massachusetts - Boston | $60,000 to $120,000 | 2026-10-20 |  |
 | Veeva Systems | [Associate Product Manager - Vault CRM Suite](https://jobs.lever.co/veeva/9a6eaa9b-0d86-4fd7-a687-17e70add8961) | Massachusetts - Boston | $60,000 to $120,000 | 2026-10-20 |  |

@@ -1,6 +1,6 @@
 # Internships and co-ops: Education
 
-70 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
+69 open, newest first (by the date the scraper first saw them), updated 2026-11-14.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -25,11 +25,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | DREAM | [[Spring 2027] High School Data and Assessment Intern](https://jobs.lever.co/wearedream/c2f1b009-83aa-4578-80fb-38cda41652a5) · Spring 2027 | New York, NY - Multi-Site | $22/hour | 2026-11-05 |  |
 | Virginia Moca | [Education Internship Spring 2027](https://virginiamoca.bamboohr.com/careers/46) · Spring 2027 | Virginia Beach, Virginia, United States | $15/hour | 2026-11-05 |  |
 | ECHO, Leahy Center for Lake Champlain | [Academic Animal Care Internship (unpaid)](https://echo-leahy-center-for-lake-champlain.breezy.hr/p/27e28d1a0f00-academic-animal-care-internship-unpaid) | Burlington, VT |  | 2026-11-05 |  |
-| Stand Together | [KIP Spring 2027 - Economics Olympiad Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/f124f60f-a5d5-4e15-8a52-7a841df26662) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
-| Stand Together | [KIP Spring 2027 - FEE in the Classroom North America Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/cebe0a41-f711-4c99-b64d-44d193b4f76f) · Spring 2027 | Georgia |  | 2026-11-05 |  |
+| Stand Together | [KIP Spring 2027 - FEE in the Classroom North America Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/cebe0a41-f711-4c99-b64d-44d193b4f76f) · Spring 2027 | Atlanta, Georgia |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - North America Programs Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/181f25c2-aafc-43de-8f8e-242987eef1c6) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
-| Stand Together | [KIP Spring 2027 - Programs Outreach Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/b46a3ae5-18a1-40e3-ba75-a97fb42bf3dd) · Spring 2027 | Georgia |  | 2026-11-05 |  |
-| Stand Together | [KIP Spring 2027 - Hackathons Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/ae52eb2b-0732-4e50-9b31-97d837182afe) · Spring 2027 | Georgia |  | 2026-11-05 |  |
+| Stand Together | [KIP Spring 2027 - Programs Outreach Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/b46a3ae5-18a1-40e3-ba75-a97fb42bf3dd) · Spring 2027 | Atlanta, Georgia |  | 2026-11-05 |  |
+| Stand Together | [KIP Spring 2027 - Hackathons Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/ae52eb2b-0732-4e50-9b31-97d837182afe) · Spring 2027 | Atlanta, Georgia |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Training and Education Intern - Atlas Network](https://jobs.lever.co/standtogether/4544fd5a-2854-40db-9e4d-a3b7da8cad3a) · Spring 2027 | Arlington, Virginia |  | 2026-11-05 |  |
 | Safe Harbor | [Education Intern – Spring 2027 (Unpaid)](https://safeharborsc.bamboohr.com/careers/229) · Spring 2027 | Greenville, South Carolina, United States |  | 2026-11-05 |  |
 | The Paley Center for Media | [Peter Roth Internship 2027](https://paleycenter.bamboohr.com/careers/227) | New York, New York, United States | $17/hour | 2026-11-05 |  |

@@ -1,11 +1,25 @@
 # New grad and entry level: Civil, construction and environmental
 
-848 open, newest first (by the date the scraper first saw them), updated 2026-11-13. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+857 open, newest first (by the date the scraper first saw them), updated 2026-11-14. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AECOM | [Entry-Level Environmental Scientist - Hiring Event with AECOM - Arlington, VA](https://jobs.smartrecruiters.com/AECOM2/744000161512490-entry-level-environmental-scientist-hiring-event-with-aecom-arlington-va) | Arlington, VA, us |  | 2026-11-14 | US citizens/persons only |
+| AMT Engineering | [Transportation Construction Inspector](https://jobs.lever.co/amtengineering/64a25cc9-6a65-44fa-8721-0f011ec57513) | Charlottesville, VA |  | 2026-11-14 |  |
+| AMT Engineering | [Transportation Construction Inspector](https://jobs.lever.co/amtengineering/af922111-e9f1-4198-9460-0e8a8743da73) | Culpeper, VA |  | 2026-11-14 |  |
+| Coffman Engineers, Inc. | [Structural Engineer (Entry Level)](https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000161547414-structural-engineer-entry-level-) | San Diego, CA, us | $80,000 to $88,000 | 2026-11-14 | no visa sponsorship |
+| Crystalia Glass | [Engineering Coordinator (Construction)](https://apply.workable.com/j/30F1896E6E) | Tbilisi, Tbilisi, Georgia |  | 2026-11-14 |  |
+| Fort Myer Construction | [Cement Mason Form Setter Trainee-R2725](https://fortmyer.bamboohr.com/careers/555) | Washington, District of Columbia, United States |  | 2026-11-14 |  |
+| ICF | [Construction Project Manager](https://careers.icf.com/us/en/job/R2601017) | San Diego, California, United States of America | $89,261 to $151,744 | 2026-11-14 | no visa sponsorship |
+| NewGround | [Construction Manager](https://newground.breezy.hr/p/ea58e536a38e-construction-manager) | Dallas, TX |  | 2026-11-14 |  |
+| NewGround | [Construction Manager](https://newground.breezy.hr/p/9af10bb97b6c-construction-manager) | Orlando, FL |  | 2026-11-14 |  |
+| Parametrix | [Civil Transportation Engineer I](https://job-boards.greenhouse.io/parametrix/jobs/4507324009) | Emeryville, California, United States | $83,000 to $88,000 | 2026-11-14 |  |
+| Sequoia Services | [Construction Laborer](https://seqserv.bamboohr.com/careers/334) | Vass, North Carolina, United States |  | 2026-11-14 |  |
+| Fort Myer Construction | [Cement Mason Trainee-R2724](https://fortmyer.bamboohr.com/careers/554) | Washington, District of Columbia, United States |  | 2026-11-14 |  |
+| Fischer Homes | [WARRANTY FIELD MANAGER](https://job-boards.greenhouse.io/f1sch3rh0m3s/jobs/6607314003) | Dayton, OH |  | 2026-11-14 |  |
+| Trilon Group | [Entry-Level Transportation Engineer](https://trilongroup.pinpointhq.com/en/postings/8b570ec0-f37f-4874-9d18-37d9907db664) | Virginia Beach, Virginia |  | 2026-11-14 | no visa sponsorship |
 | Apex Companies | [Environmental Engineer](https://job-boards.greenhouse.io/apexcompanies/jobs/5480728008) | Charlotte, NC |  | 2026-11-13 | no visa sponsorship |
 | Bohler | [Entry Level Civil Engineer - Land Development](https://jobs.gem.com/bohler-/am9icG9zdDrwlHn-4hdkFh8R8hVpoFWH) | TN - Nashville |  | 2026-11-13 | no visa sponsorship, US citizens/persons only |
 | Black & Veatch | [Graduate Engineer, Structural - Power - EDGE](https://careers.bv.com/job/Ann-Arbor-Graduate-Engineer%2C-Structural-Power-EDGE-MI-48103/1445370533/) | Ann Arbor, MI, US |  | 2026-11-12 |  |
@@ -15,10 +29,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Home Preservation Services | [Junior Coordinator Construction](https://homepreservation.bamboohr.com/careers/52) | Los Altos, California, United States |  | 2026-11-12 |  |
 | Keeley Construction | [Estimator (Entry Level)](https://job-boards.greenhouse.io/keeleyconstruction/jobs/4753432005) | Dallas, Texas, United States; New Braunfels, Texas, United States |  | 2026-11-12 |  |
 | Kiewit | [Estimator - Kiewit Building Group](https://kiewitcareers.kiewit.com/job/Federal-Way-Estimator-Kiewit-Building-Group-WA-98001/1449830800/) | Federal Way, WA, US | $95,000 to $99,000 | 2026-11-12 |  |
-| SpaceX | [Civil Engineer, Site Development](https://boards.greenhouse.io/spacex/jobs/8938178002?gh_jid=8938178002) | Cape Canaveral, FL |  | 2026-11-12 | US citizens/persons only |
+| SpaceX | [Civil Engineer, Site Development](https://boards.greenhouse.io/spacex/jobs/8938131002?gh_jid=8938131002) | Starbase, TX |  | 2026-11-12 | US citizens/persons only |
 | SpaceX | [Civil Engineer, Site Development](https://boards.greenhouse.io/spacex/jobs/8938174002?gh_jid=8938174002) | Bastrop, TX |  | 2026-11-12 | US citizens/persons only |
 | SpaceX | [Civil Engineer, Site Development](https://boards.greenhouse.io/spacex/jobs/8938191002?gh_jid=8938191002) | College Station, TX |  | 2026-11-12 | US citizens/persons only |
-| SpaceX | [Civil Engineer, Site Development](https://boards.greenhouse.io/spacex/jobs/8938131002?gh_jid=8938131002) | Starbase, TX |  | 2026-11-12 | US citizens/persons only |
+| SpaceX | [Civil Engineer, Site Development](https://boards.greenhouse.io/spacex/jobs/8938178002?gh_jid=8938178002) | Cape Canaveral, FL |  | 2026-11-12 | US citizens/persons only |
 | Sunrise Landscape | [Landscape Construction Crew Member-Driver (Installation)](https://sunrise-landscape.breezy.hr/p/154e5625df8d-landscape-construction-crew-member-driver-installation) | Ft Myers, FL | $17 to $20/hour | 2026-11-12 |  |
 | Timmons Group | [New Graduate Civil Project Engineer I](https://jobs.smartrecruiters.com/TimmonsGroup1/744000161113541-new-graduate-civil-project-engineer-i) | Richmond, VA, us | $80,000 | 2026-11-12 |  |
 | Zachry Group | [Engineer I Civil/Structural](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16439) | Downers Grove, IL, United States | $75,400 to $106,145 | 2026-11-12 | no visa sponsorship |
@@ -114,7 +128,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Zachry Group | [Project Engineer I-ENG](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16348) | Hammond, IN, United States |  | 2026-11-06 |  |
 | Felsburg Holt & Ullevig | [Water Resources Engineer, Entry Level - WR0022](https://apply.workable.com/j/A7780FF71F) | Colorado Springs, Colorado, United States | $72,000 to $85,000 | 2026-11-06 |  |
 | Felsburg Holt & Ullevig | [Water Resources Engineer, Entry Level - WR0024](https://apply.workable.com/j/062CE71965) | Greenwood Village, Colorado, United States | $72,000 to $85,000 | 2026-11-06 |  |
-| Crystalia Glass | [Engineering Coordinator (Construction)](https://apply.workable.com/j/8DB21457F3) | Tbilisi, Tbilisi, Georgia |  | 2026-11-06 |  |
 | Bremer Whyte Brown & O'Meara, LLP | [Associate Attorney - Civil Litigation](https://apply.workable.com/j/7F74D6799C) | Chandler, Arizona, United States |  | 2026-11-06 |  |
 | Fortify Companies | [MDS Estimator Monday - Friday, 11am - 8pm - Rytech Restoration](https://apply.workable.com/j/8A3C43BDE2) | Kennesaw, Georgia, United States (remote) |  | 2026-11-06 |  |
 | Fortify Companies | [MDS Estimator Thursday - Monday, 10am - 7pm - Rytech Restoration](https://apply.workable.com/j/CBBD9654DC) | Kennesaw, Georgia, United States (remote) |  | 2026-11-06 |  |
@@ -185,6 +198,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Houston Engineering, Inc. | [Engineer (EIT) - Water Resources](https://jobs.smartrecruiters.com/HoustonEngineeringInc/744000149419515-engineer-eit-water-resources) | Iowa City, IA, us |  | 2026-11-05 |  |
 | Osborn Consulting | [Water Resources Project Engineer](https://osborn.bamboohr.com/careers/214) | Bellevue, Washington, United States (hybrid) | $80,000 to $96,000 | 2026-11-05 |  |
 | S. W. Cole Engineering, Inc. | [Entry-Level - Construction Laboratory Technician - White River Junction](https://swcole.bamboohr.com/careers/462) | White River Junction, Vermont, United States |  | 2026-11-05 | no visa sponsorship |
+| Wade Trim | [Entry Level Civil/Environmental Engineer - #3024](https://jobs.lever.co/wadetrim/67ff8eaf-b0ba-4df2-a322-5fdf649b2995) | Taylor, MI |  | 2026-11-05 |  |
 | Yellowstone Local | [Plumbing Estimator](https://jobs.yellowstonelocal.com/o/plumbing-estimator-215) | Plano, TX, US | $85,000 to $110,000 | 2026-11-05 |  |
 | BGE, Inc | [FRISCO - Land Development, New Grad](https://job-boards.greenhouse.io/bgeinc/jobs/5397055008) | 10777 Westheimer Road, Suite 400, Houston, Texas 77042 |  | 2026-11-05 |  |
 | ERG | [Entry Level Environmental Engineer/Scientist 2026/2027 Career Fair](https://jobs.lever.co/erg/a43d3070-1dda-4e92-894c-cb2ae7bd7c64) | Fairfax, VA |  | 2026-11-05 |  |
@@ -310,8 +324,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | DiGeronimo Companies | [Project Engineer (Independence Construction)](https://independence-excavating.breezy.hr/p/1c42218d059e-project-engineer-independence-construction) | Columbus, OH |  | 2026-11-04 |  |
 | Granger Construction | [Project Engineer](https://jobs.gem.com/granger-construction/am9icG9zdDrz4OgjEcRkFCT_4QV7WmH1) | Lansing, MI |  | 2026-11-04 |  |
 | Keeley Construction | [Project Engineer (May 2027 Grad)](https://job-boards.greenhouse.io/keeleyconstruction/jobs/4748658005) | St. Louis, Missouri, United States |  | 2026-11-04 |  |
-| New Leaf Energy, Inc. | [Civil Engineer I](https://job-boards.greenhouse.io/newleafenergy/jobs/5274097007) | Lowell, Massachusetts, United States | $76,022 to $85,793 | 2026-11-04 |  |
 | New Leaf Energy, Inc. | [Civil Engineer I](https://job-boards.greenhouse.io/newleafenergy/jobs/5277498007) | Boston, Massachusetts, United States | $76,022 to $85,793 | 2026-11-04 |  |
+| New Leaf Energy, Inc. | [Civil Engineer I](https://job-boards.greenhouse.io/newleafenergy/jobs/5274097007) | Lowell, Massachusetts, United States | $76,022 to $85,793 | 2026-11-04 |  |
 | AECOM | [Entry-Level Civil Engineer - Hiring Event with AECOM – Atlanta, GA](https://jobs.smartrecruiters.com/AECOM2/744000158088859-entry-level-civil-engineer-hiring-event-with-aecom-atlanta-ga) | Atlanta, GA, us |  | 2026-11-04 | no visa sponsorship |
 | AEVEX | [Junior Field Engineer](https://job-boards.greenhouse.io/aevexaerospace/jobs/5460538008) | Baltimore, Maryland, United States | $89,000 to $97,900 | 2026-11-04 | US citizens/persons only, clearance |
 | Bohler | [Entry Level Civil Engineer - Land Development](https://jobs.gem.com/bohler-/am9icG9zdDrlDakDjJvnHMhcTUFoNeen) | FL - Tampa |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
@@ -363,8 +377,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Core One | [Field Engineer - Junior](https://job-boards.greenhouse.io/coreone/jobs/8885953002) | Sterling, VA | $70,000 to $95,000 | 2026-11-04 | US citizens/persons only, clearance |
 | The Quality Group | [Cloud & DevSecOps Architect (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/5004720101) | Deutschland, remote |  | 2026-11-04 |  |
 | The Quality Group GmbH | [Cloud & DevSecOps Architect (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5004719101) | Deutschland, remote |  | 2026-11-04 |  |
-| CaptiveAire | [Field Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8883691002&gh_jid=8883691002) | St. Louis, MO |  | 2026-11-04 |  |
 | CaptiveAire | [Field Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8884235002&gh_jid=8884235002) | Lancaster, PA |  | 2026-11-04 |  |
+| CaptiveAire | [Field Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8883691002&gh_jid=8883691002) | St. Louis, MO |  | 2026-11-04 |  |
 | Timmons Group | [New Graduate Civil Project Engineer I](https://jobs.smartrecruiters.com/TimmonsGroup1/744000155066929-new-graduate-civil-project-engineer-i) | Raleigh, NC, us |  | 2026-11-04 |  |
 | Cameramatics 1639649453 | [Sales Development Representative, Construction Fleets (On-Site)](https://cameramatics-1639649453.teamtailor.com/jobs/8526756-sales-development-representative-construction-fleets-on-site) | Austin, United States |  | 2026-11-04 |  |
 | Olsson | [Entry-Level Geotechnical Driller](https://job-boards.greenhouse.io/olsson/jobs/5448695008) | Oklahoma City, OK |  | 2026-11-04 |  |
@@ -388,9 +402,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of New York | [Project Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990015759669-project-engineer) | New York City, NY, us |  | 2026-11-04 |  |
 | Greenpoint Technologies | [Associate Project Engineer](https://job-boards.greenhouse.io/greenpointtechnologies/jobs/5436527008) | Bothell, Washington, United States | $78,000 to $93,000 | 2026-11-04 | US citizens/persons only |
 | Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4384514009) | Arlington, VA | $68,250 to $88,750 | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4418795009) | Portland, OR |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4414812009) | Columbus, Ohio, United States |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4414784009) | Detroit, MI |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4418795009) | Portland, OR |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Environmental Engineer or Geologist](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4421287009) | Tampa, Florida, United States |  | 2026-11-04 |  |
 | City of New York | [CIVIL SERVICE HIRING POOL ASSISTANT](https://jobs.smartrecruiters.com/CityOfNewYork/3743990015671556-civil-service-hiring-pool-assistant) | New York, NY, us |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4420848009) | Chicago, IL; Kansas City , MO; New York, NY; Parsippany, NJ; Princeton | $68,250 to $93,000 | 2026-11-04 |  |
@@ -449,8 +463,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AECOM | [Graduate Structural Engineer](https://jobs.smartrecruiters.com/AECOM2/744000148582249-graduate-structural-engineer) | Phoenix, AZ, us |  | 2026-11-04 | no visa sponsorship |
 | KPFF Consulting Engineers | [Entry-Level Bridge Structural Engineer [0-2 yrs exp]](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015162136-entry-level-bridge-structural-engineer-0-2-yrs-exp-) | Boise, ID, us |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4387215009) | Riverside, California, United States | $68,250 to $88,750 | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4363920009) | San Jose, California, United States | $68,250 to $88,750 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4387306009) | Las Vegas, NV | $68,250 to $88,750 | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4363920009) | San Jose, California, United States | $68,250 to $88,750 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4356939009) | Sacramento, California, United States; San Francisco, California, Unit | $68,250 to $88,750 | 2026-11-04 |  |
 | MacKay | [Geotechnical Engineer in Training (EIT)](https://job-boards.greenhouse.io/mackaysposito/jobs/4391931009) | Woodinville, WA | $27.50 to $32.50/hour | 2026-11-04 |  |
 | McCall-Thomas Engineering | [Lineman (UG)](https://mctengineering.bamboohr.com/careers/306) | Orangeburg, South Carolina, United States |  | 2026-11-04 | no visa sponsorship |
@@ -482,19 +496,19 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AECOM | [Entry-Level Structural Engineer](https://jobs.smartrecruiters.com/AECOM2/744000145821446-entry-level-structural-engineer) | Roanoke, VA, us |  | 2026-11-04 | no visa sponsorship |
 | AECOM | [Entry-Level Civil Engineer – Roadway Designer](https://jobs.smartrecruiters.com/AECOM2/744000145725719-entry-level-civil-engineer-roadway-designer) | Columbia, SC, us |  | 2026-11-04 | no visa sponsorship |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381579009) | Columbus, OH, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381580009) | Indianapolis, IN, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381583009) | Louisville, KY, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381584009) | White Plains, NY, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381585009) | King of Prussia, PA, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381588009) | Pittsburgh, PA, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381576009) | Columbia, MD, US |  | 2026-11-04 |  |
-| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379089009) | King of Prussia, PA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381588009) | Pittsburgh, PA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381585009) | King of Prussia, PA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381580009) | Indianapolis, IN, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4381584009) | White Plains, NY, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379072009) | Columbus, OH, US |  | 2026-11-04 |  |
-| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379068009) | Columbia, MD, US |  | 2026-11-04 |  |
-| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379076009) | Indianapolis, IN, US |  | 2026-11-04 |  |
-| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379081009) | Louisville, KY, US |  | 2026-11-04 |  |
-| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379085009) | White Plains, NY, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379093009) | Pittsburgh, PA, US |  | 2026-11-04 |  |
+| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379089009) | King of Prussia, PA, US |  | 2026-11-04 |  |
+| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379085009) | White Plains, NY, US |  | 2026-11-04 |  |
+| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379081009) | Louisville, KY, US |  | 2026-11-04 |  |
+| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379076009) | Indianapolis, IN, US |  | 2026-11-04 |  |
+| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379068009) | Columbia, MD, US |  | 2026-11-04 |  |
 | Bohler | [Entry Level Civil Engineer - Land Development, December 2026 Grad](https://jobs.gem.com/bohler-/am9icG9zdDqCyDrnFco2qXs4yKKNiFda) | NC - Charlotte |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Entry Level Civil Engineer - Land Development, December 2026 Grad](https://jobs.gem.com/bohler-/am9icG9zdDqTQ2M8mHjTh31WOlZ4Z1Gh) | TN - Nashville |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Entry Level Civil Engineer - Land Development, December 2026 Grad](https://jobs.gem.com/bohler-/am9icG9zdDpRCRC4G7M9X5l87e1jNXCP) | FL - Tampa |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
@@ -502,34 +516,34 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ARCO Companies | [Assistant Superintendent, Construction (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380292009) | Austin, TX, US; Chicago, IL, US; Dallas, TX, US; Nashville, TN, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2026)](https://job-boards.greenhouse.io/arco/jobs/4380054009) | Tampa, FL, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2026)](https://job-boards.greenhouse.io/arco/jobs/4380055009) | Orlando, FL, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380521009) | Greenville, SC, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380453009) | Charlotte, NC, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380285009) | Emeryville, CA, US | $102,000 to $115,000 | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380083009) | Austin, TX, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380275009) | Nashville, TN, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380241009) | Ft. Lauderdale, FL, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380108009) | Dallas, TX, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380761009) | Raleigh, NC, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380788009) | Richmond, VA, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380640009) | Savannah, GA, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380630009) | Memphis, TN, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380635009) | Salt Lake City, UT, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380621009) | Ponte Vedra Beach, FL, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380151009) | Laredo, TX, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380588009) | Charleston, SC, US |  | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380231009) | Lakewood, CO, US | $84,000 to $95,000 | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380761009) | Raleigh, NC, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380453009) | Charlotte, NC, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380131009) | St. Louis Park, MN, US | $84,000 to $95,000 | 2026-11-04 |  |
-| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380196009) · Winter 2026 | Chicago, IL, US | $84,000 to $95,000 | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380521009) | Greenville, SC, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380275009) | Nashville, TN, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380630009) | Memphis, TN, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380621009) | Ponte Vedra Beach, FL, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380635009) | Salt Lake City, UT, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380009009) | Atlanta, GA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380588009) | Charleston, SC, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380640009) | Savannah, GA, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380196009) · Winter 2026 | Chicago, IL, US | $84,000 to $95,000 | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380083009) | Austin, TX, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380241009) | Ft. Lauderdale, FL, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380151009) | Laredo, TX, US |  | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380231009) | Lakewood, CO, US | $84,000 to $95,000 | 2026-11-04 |  |
+| ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380108009) | Dallas, TX, US |  | 2026-11-04 |  |
 | ARCO Companies | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380235009) | Charleston, SC, US |  | 2026-11-04 |  |
 | ARCO Companies | [Traveling Assistant Superintendent, Construction (New Grad 2027)](https://job-boards.greenhouse.io/arco/jobs/4380183009) | United States |  | 2026-11-04 |  |
+| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379442009) | Savannah, GA, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379159009) | Charleston, SC, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379163009) | Charlotte, NC, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379170009) | Charleston, SC, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379167009) | Greenville, SC, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379175009) | Raleigh, NC, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379179009) | Richmond, VA, US |  | 2026-11-04 |  |
-| ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379442009) | Savannah, GA, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379439009) | Salt Lake City, UT, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379434009) | Memphis, TN, US |  | 2026-11-04 |  |
 | ARCO Design/Build | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/arcodb/jobs/4379430009) | Ponte Vedra Beach, FL, US |  | 2026-11-04 |  |
@@ -537,21 +551,20 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ARCO/Murray Construction Company | [Construction Project Manager (New Grad 2026)](https://job-boards.greenhouse.io/amcc/jobs/4379240009) | Orlando, FL, US |  | 2026-11-04 |  |
 | ARCO/Murray Construction Company | [Construction Project Manager (New Grad 2026)](https://job-boards.greenhouse.io/amcc/jobs/4379247009) | Tampa, FL, US |  | 2026-11-04 |  |
 | ARCO/Murray National Construction | [Assistant Superintendent, Construction (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379272009) | Austin, TX, US; Chicago, IL, US; Dallas, TX, US; Nashville, TN, US |  | 2026-11-04 |  |
+| ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379204009) · Winter 2026 | Chicago, IL, US | $84,000 to $95,000 | 2026-11-04 |  |
+| ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379256009) | Dallas, TX, US |  | 2026-11-04 |  |
+| ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379252009) | Austin, TX, US |  | 2026-11-04 |  |
+| ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379264009) | Lakewood, CO, US | $84,000 to $95,000 | 2026-11-04 |  |
+| ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379270009) | Emeryville, CA, US | $102,000 to $115,000 | 2026-11-04 |  |
 | ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379266009) | Ft. Lauderdale, FL, US |  | 2026-11-04 |  |
 | ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379260009) | Laredo, TX, US |  | 2026-11-04 |  |
 | ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379258009) | St. Louis Park, MN, US | $84,000 to $95,000 | 2026-11-04 |  |
-| ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379252009) | Austin, TX, US |  | 2026-11-04 |  |
-| ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379270009) | Emeryville, CA, US | $102,000 to $115,000 | 2026-11-04 |  |
-| ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379204009) · Winter 2026 | Chicago, IL, US | $84,000 to $95,000 | 2026-11-04 |  |
 | ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379268009) | Nashville, TN, US |  | 2026-11-04 |  |
-| ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379256009) | Dallas, TX, US |  | 2026-11-04 |  |
-| ARCO/Murray National Construction | [Construction Project Manager (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379264009) | Lakewood, CO, US | $84,000 to $95,000 | 2026-11-04 |  |
 | ARCO/Murray National Construction | [Traveling Assistant Superintendent, Construction (New Grad 2027)](https://job-boards.greenhouse.io/amn/jobs/4379262009) | United States |  | 2026-11-04 |  |
 | Greptile | [Field Engineering](https://jobs.ashbyhq.com/greptile/87de72d7-b4be-406a-bcf5-4b3d601bdd37) | San Francisco |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4355252009) | Arlington, VA | $68,250 to $88,750 | 2026-11-04 |  |
 | Olsson | [Entry Level Civil Engineer (Rail Track)](https://job-boards.greenhouse.io/olsson/jobs/5398029008) | Loveland, CO; Omaha, NE |  | 2026-11-04 |  |
 | Network Connex | [Civil Technician 1](https://jobs.lever.co/networkconnex/04e28f20-3f98-446f-9697-64eb59c8f0e3) | Dallas, TX |  | 2026-11-04 |  |
-| CaptiveAire | [Field Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8729594002&gh_jid=8729594002) | Long Island, NY |  | 2026-11-04 |  |
 | Bohler | [Entry Level Civil Engineer - Land Development](https://jobs.gem.com/bohler-/am9icG9zdDoyXSecmYMjXCQnNYv4uZLF) | MD - Bowie |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Entry Level Civil Engineer - Land Development](https://jobs.gem.com/bohler-/am9icG9zdDrO0o0ZZ2V2ID8q98U5YiGU) | PA - Philadelphia |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Entry Level Civil Engineer - Land Development](https://jobs.gem.com/bohler-/am9icG9zdDoVW0WUaPlXTFwDCOmqFDE2) | VA - Richmond |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
@@ -619,48 +632,46 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Construction Resources | [Install Helper](https://job-boards.greenhouse.io/constructionresources/jobs/5365976008) | 6340 Best Friend Road Ste.180, Norcross, GA, 30071 |  | 2026-11-04 |  |
 | KPFF Consulting Engineers | [Entry Level Civil Engineer](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990014201517-entry-level-civil-engineer) | Sacramento, CA, us | $64,000 to $85,000 | 2026-11-04 |  |
 | Forgen | [Project Engineer I](https://job-boards.greenhouse.io/forgen/jobs/5187604007) | West Palm Beach, Florida (hybrid) |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4317892009) | Chicago, IL; Indianapolis, IN; Milwaukee, WI | $65,000 to $88,500 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302025009) | Miami, Florida, United States |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4317892009) | Chicago, IL; Indianapolis, IN; Milwaukee, WI | $65,000 to $88,500 | 2026-11-04 |  |
 | Terrafirma Inc | [Field Engineer - Heavy Civil & Excavation](https://jobs.ashbyhq.com/TerraFirma-Inc/1a843f70-c952-405f-a031-ee532b5d6d73) | Robot Ranch (Austin, TX) |  | 2026-11-04 |  |
 | Terrafirma Inc | [Earthwork Estimator](https://jobs.ashbyhq.com/TerraFirma-Inc/b0e89e10-98b7-438f-b9bc-74c6cdd473b0) | Robot Ranch (Austin, TX) |  | 2026-11-04 |  |
 | DLR Group | [Architectural Designer, Entry-Level K-12](https://job-boards.greenhouse.io/dlrgroup/jobs/5320328008) | Phoenix, Arizona, United States (hybrid) |  | 2026-11-04 |  |
 | KALCON | [Project Engineer - Data Center Construction](https://job-boards.greenhouse.io/kalcon/jobs/4310127009) | Portsmouth, OH | $80,000 to $120,000 | 2026-11-04 |  |
-| Wight & Company | [Engineering Professional, Structural Engineering](https://job-boards.greenhouse.io/wight/jobs/8047100) | Darien or Chicago, Illinois | $70,000 to $105,000 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4296571009) | Richmond, VA | $68,250 to $93,000 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4304038009) | Albany, New York, United States | $68,250 to $88,750 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Environmental Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4303066009) | Chicago, IL | $71,000 to $85,000 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302905009) | Cleveland, OH; Pittsburgh, PA |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Traffic Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302974009) | Cleveland, OH; Pittsburgh, PA |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4304784009) | Arlington, VA | $68,250 to $93,000 | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302491009) | Princeton, NJ | $68,250 to $88,750 | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4292373009) | Irvine, California, United States | $68,250 to $93,000 | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302934009) | Pittsburgh, PA |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4294546009) | Tyler, TX |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4297975009) | Cleveland, OH |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302807009) | Milwaukee, WI |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4301750009) | Chicago, IL | $71,500 to $85,500 | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4297660009) | Austin, TX |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4292373009) | Irvine, California, United States | $68,250 to $93,000 | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302537009) | Parsippany, NJ | $68,250 to $88,750 | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4296423009) | Melville, NY; New York, NY; White Plains, NY | $68,250 to $88,750 | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4294546009) | Tyler, TX |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302491009) | Princeton, NJ | $68,250 to $88,750 | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302934009) | Pittsburgh, PA |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4300797009) | Houston, TX |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4300933009) | Celina, TX |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4300797009) | Houston, TX |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302537009) | Parsippany, NJ | $68,250 to $88,750 | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4297660009) | Austin, TX |  | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4296423009) | Melville, NY; New York, NY; White Plains, NY | $68,250 to $88,750 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4301498009) | Dallas, TX |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Civil Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4298885009) | Denver, Colorado, United States | $68,250 to $88,750 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Environmental Engineer, Scientist or Geologist](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302559009) | Parsippany, NJ | $68,250 to $88,750 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Environmental Engineer, Scientist, or Geologist](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302436009) | Syracuse, NY | $68,250 to $88,750 | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4301311009) | Denver, Colorado, United States | $68,250 to $88,750 | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4301470009) | Austin, TX; Houston, TX |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4295674009) | Philadelphia, PA |  | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302515009) | Syracuse, NY | $68,250 to $88,750 | 2026-11-04 |  |
-| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302461009) | Melville, NY | $68,250 to $93,000 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4294262009) | Irvine, California, United States | $68,250 to $93,000 | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4295674009) | Philadelphia, PA |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4296545009) | New York, NY; White Plains, NY | $68,250 to $88,750 | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4297561009) | Parsippany, NJ | $68,250 to $88,750 | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302461009) | Melville, NY | $68,250 to $93,000 | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4302515009) | Syracuse, NY | $68,250 to $88,750 | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4301311009) | Denver, Colorado, United States | $68,250 to $88,750 | 2026-11-04 |  |
+| Langan Engineering & Environmental Services | [Entry-Level Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4301470009) | Austin, TX; Houston, TX |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4296174009) | Charlotte, NC |  | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Geotechnical Engineer](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4296403009) | New York, NY | $68,280 to $93,000 | 2026-11-04 |  |
 | Palantir Technologies | [Privacy & Civil Liberties Engineer - New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90) · Fall 2026 | New York, NY |  | 2026-11-04 |  |
 | Olsson | [Entry-Level Civil Engineer - Data Center](https://job-boards.greenhouse.io/olsson/jobs/5275707008) | Des Moines, IA; Lincoln, NE; Omaha, NE; Phoenix, AZ |  | 2026-11-04 |  |
-| Olsson | [Entry-Level Surveyor](https://job-boards.greenhouse.io/olsson/jobs/5275832008) | South Sioux City, NE |  | 2026-11-04 |  |
 | KPFF Consulting Engineers | [Graduate Civil Engineer (0-3 Years Experience)](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990013709506-graduate-civil-engineer-0-3-years-experience-) | San Francisco, CA, us | $64,000 to $85,000 | 2026-11-04 |  |
 | KPFF Consulting Engineers | [Entry Level Civil Engineer](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990013709397-entry-level-civil-engineer) | San Francisco, CA, us | $64,000 to $85,000 | 2026-11-04 |  |
 | Holder Construction | [VDC Engineer](https://job-boards.greenhouse.io/holderconstruction/jobs/4286055009) | Wichita Falls, TX |  | 2026-11-04 | no visa sponsorship |
@@ -670,9 +681,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | A2H | [Civil Designer](https://a2h.breezy.hr/p/8bec5c6351a7-civil-designer) | Memphis, TN |  | 2026-11-04 |  |
 | Curtin Maritime | [Project Engineer - Nationwide (Travel Required)](https://curtinmaritime.bamboohr.com/careers/375) | Jacksonville, Florida, United States |  | 2026-11-04 |  |
 | JND | [[Entry Level] Network Field Engineer - Cell Phone Network Field Testing (2605-3)](https://jnd-inc.breezy.hr/p/5284c72f7f88-entry-level-network-field-engineer-cell-phone-network-field-testing-2605-3) | Plano, TX |  | 2026-11-04 |  |
-| Xometry | [DFM Project Engineer](https://job-boards.greenhouse.io/xometry/jobs/5141545007) | Lexington, KY |  | 2026-11-04 |  |
-| Xometry | [DFM Project Engineer](https://job-boards.greenhouse.io/xometry/jobs/5141543007) | North Bethesda, MD | $65,000 to $85,000 | 2026-11-04 |  |
 | Xometry | [DFM Project Engineer](https://job-boards.greenhouse.io/xometry/jobs/5141549007) | Waltham, MA | $65,000 to $85,000 | 2026-11-04 |  |
+| Xometry | [DFM Project Engineer](https://job-boards.greenhouse.io/xometry/jobs/5141543007) | North Bethesda, MD | $65,000 to $85,000 | 2026-11-04 |  |
+| Xometry | [DFM Project Engineer](https://job-boards.greenhouse.io/xometry/jobs/5141545007) | Lexington, KY |  | 2026-11-04 |  |
 | Xometry | [DFM Project Engineer](https://job-boards.greenhouse.io/xometry/jobs/5141576007) | Denver, CO | $65,000 to $85,000 | 2026-11-04 |  |
 | Xometry | [DFM Project Engineer](https://job-boards.greenhouse.io/xometry/jobs/5141579007) | Los Angeles, CA | $65,000 to $85,000 | 2026-11-04 |  |
 | Holder Construction | [VDC Engineer](https://job-boards.greenhouse.io/holderconstruction/jobs/4248866009) | Franklin Furnace, OH |  | 2026-11-04 | no visa sponsorship |
@@ -684,9 +695,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ProSidian Consulting, LLC | [Environmental Specialist I](https://jobs.smartrecruiters.com/prosidianconsulting/744000117357409-environmental-specialist-i) | Washington, us |  | 2026-11-04 | clearance |
 | Ekmgmt Com | [Estimator](https://jobs.gem.com/ekmgmt-com/am9icG9zdDq-5rJ4cG1wrX0nGTT4Qr1q) | Burlington |  | 2026-11-04 |  |
 | AKS Engineering & Forestry, LLC | [Structural Project Designer](https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174715009) | Medford, OR |  | 2026-11-04 |  |
-| Holder Construction | [VDC Engineer](https://job-boards.greenhouse.io/holderconstruction/jobs/4182711009) | Atlanta, GA |  | 2026-11-04 | no visa sponsorship |
 | Holder Construction | [VDC Engineer](https://job-boards.greenhouse.io/holderconstruction/jobs/4182730009) | Washington, DC |  | 2026-11-04 | no visa sponsorship |
 | Holder Construction | [VDC Engineer](https://job-boards.greenhouse.io/holderconstruction/jobs/4182784009) | Mooresville, IN |  | 2026-11-04 | no visa sponsorship |
+| Holder Construction | [VDC Engineer](https://job-boards.greenhouse.io/holderconstruction/jobs/4182711009) | Atlanta, GA |  | 2026-11-04 | no visa sponsorship |
 | Uprite Construction | [Project Engineer](https://job-boards.greenhouse.io/upriteconstruction/jobs/5134733008) | Plano, TX |  | 2026-11-04 |  |
 | AWP Safety | [Traffic Control Technician](https://jobs.smartrecruiters.com/AWPSafety/744000109567330-traffic-control-technician) | Oklahoma City, OK, us | $17.50 to $21/hour | 2026-11-04 |  |
 | Terrestris Global Solutions | [Junior Civil Engineer– Recreation Facilities Program](https://terrestris-global-solutions.breezy.hr/p/3f8813c2294b01-junior-civil-engineer-recreation-facilities-program) | Asheville, NC |  | 2026-11-04 | no visa sponsorship |
@@ -723,7 +734,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ISG | [Graduate Engineer - Civil](https://isginc.pinpointhq.com/en/postings/f224e264-434a-48b0-8a24-5d52d46ab8d5) | Mankato, Minnesota |  | 2026-11-04 |  |
 | Magic, Inc | [Design & Pre-Construction Project Coordinator - Freelance, Remote](https://magic.pinpointhq.com/en/postings/e4dbd4dc-ca5b-4c53-ae26-d8943baf1f1e) | Taguig City, Metro Manila (Remote) | $7/hour | 2026-11-04 |  |
 | The Boring Company | [Civil Engineer](https://jobs.gem.com/the-boring-company/am9icG9zdDq9l8kiFdcsY_cCQFkzE1hZ) | Bastrop, TX |  | 2026-11-04 |  |
-| Trilon Group | [Entry Level Transportation Engineer](https://trilongroup.pinpointhq.com/en/postings/51c23407-4dc5-49dd-b702-ebcd1d1afaea) | Columbus, Ohio |  | 2026-11-04 |  |
 | Trilon Group | [Land Surveyor](https://trilongroup.pinpointhq.com/en/postings/f771e009-30f2-4bb6-865e-155c4b645bef) | Neptune, New Jersey |  | 2026-11-04 |  |
 | Trilon Group | [Field Civil Engineer](https://trilongroup.pinpointhq.com/en/postings/344b9942-6d23-49e6-8aa1-a5198b688c6a) | Salt Lake City, Utah |  | 2026-11-04 |  |
 | Trilon Group | [Entry-Level Civil/Environmental Engineer – Solid Waste](https://trilongroup.pinpointhq.com/en/postings/5736f848-8246-47c6-b9ce-50997d41e002) | Maumee, Ohio |  | 2026-11-04 |  |
@@ -746,13 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Worley | [Rotational Structural Graduate](https://jobs.worley.com/careers/job/1133916568832) | Monrovia, CA, US; Long Beach, CA, US | $77,263 to $113,622 | 2026-10-28 |  |
 | Parkland Health | [Project Engineer - Plan Design](https://wd12.myworkdaysite.com/recruiting/parklandhospital/Parkland_Careers/job/Logistics-Building/Project-Engineer-Plan-Design_990795) | Logistics Building |  | 2026-10-27 |  |
 | TC Energy | [Geotechnical Engineer](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Washington-Pennsylvania/Geotechnical-Engineer_JR-11210-1) | Washington, Pennsylvania (hybrid) |  | 2026-10-27 |  |
-| Kiewit | [Field/Office Engineer - Weeks Marine Construction (Hawaii)](https://kiewitcareers.kiewit.com/Weeks/job/Aiea-FieldOffice-Engineer-Weeks-Marine-Construction-%28Hawaii%29-HI/1443509200/) | Kapolei, HI, US | $75,000 to $90,000 | 2026-10-26 |  |
-| Black & Veatch | [Graduate Engineer, Civil - Water (Savannah, GA)](https://careers.bv.com/job/Savannah-Graduate-Engineer%2C-Civil-Water-%28Savannah%2C-GA%29-GA-31401/1450984433/) | Savannah, GA, US |  | 2026-10-25 |  |
-| Black & Veatch | [Graduate Engineer, Civil - Water (Greenville, SC)](https://careers.bv.com/job/Greenville-Graduate-Engineer%2C-Civil-Water-%28Greenville%2C-SC%29-SC/1450984533/) | Greenville, SC, US |  | 2026-10-25 |  |
-| Black & Veatch | [Graduate Engineer, Civil - Water (San Antonio)](https://careers.bv.com/job/San-Antonio-Graduate-Engineer%2C-Civil-Water-%28San-Antonio%29-TX-78201/1450985033/) | San Antonio, TX, US |  | 2026-10-25 |  |
-| Zachry Group | [Construction Technical Services Coordinator I](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16181) | Houston, TX, United States |  | 2026-10-24 |  |
-| Black & Veatch | [Assistant Engineering Technician, Structural](https://careers.bv.com/job/Cary-Assistant-Engineering-Technician%2C-Structural-NC/1450471233/) | Cary, NC, US |  | 2026-10-23 |  |
-| Intel | [Construction Project Manager](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Construction-Project-Manager_JR0288014) | US, Arizona, Phoenix | $73,820 to $140,540 | 2026-10-23 | no visa sponsorship |
-| Black & Veatch | [Associate Geotechnical Engineer](https://careers.bv.com/job/Overland-Park-Associate-Geotechnical-Engineer-KS-66062/1450015233/) | Overland Park, KS, US |  | 2026-10-22 |  |
-| Worley | [Industrial Coater (Construction) - Anchorage, Fab Shop, AK](https://jobs.worley.com/careers/job/1133916425479) | Anchorage, AK, US |  | 2026-10-22 |  |
-| NVIDIA | [Power Architect - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2027_JR2027718) | US, CA, Santa Clara |  | 2026-10-21 |  |

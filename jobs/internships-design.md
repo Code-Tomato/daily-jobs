@@ -1,11 +1,18 @@
 # Internships and co-ops: Design and creative
 
-169 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
+176 open, newest first (by the date the scraper first saw them), updated 2026-11-14.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Pacvue | [Graphic Design Intern](https://job-boards.greenhouse.io/pacvue/jobs/6261128004) | US Remote | $20/hour | 2026-11-14 |  |
+| tarte cosmetics | [Spring 2027 Creative - Print Internship](https://apply.workable.com/j/A05F4C2847) · Spring 2027 | New York, New York, United States | $21/hour | 2026-11-14 |  |
+| tarte cosmetics | [Spring 2027 Intern to Founder & CEO - Graphic Design](https://apply.workable.com/j/3B186F4B4A) · Spring 2027 | New York, New York, United States | $21/hour | 2026-11-14 |  |
+| Zoox | [Industrial Design Intern [Summer 2027]](https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd) · Summer 2027 | Foster City, CA |  | 2026-11-14 |  |
+| Bask Health | [Product Design Intern](https://apply.workable.com/j/3505AD4868) | United States |  | 2026-11-14 |  |
+| Bask Health | [UX Research Intern](https://apply.workable.com/j/1F58DD2D0A) | United States |  | 2026-11-14 |  |
+| Bask Health | [UX Writing Intern](https://apply.workable.com/j/E35FFA0BD1) | United States |  | 2026-11-14 |  |
 | SiriusXM | [Spring Intern, Video Production - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17682) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
 | Dell | [User Experience (UX) Research Intern](https://jobs.dell.com/en/sites/CX_1/job/302635) | Austin, TX, United States | $29.60 to $31.80/hour | 2026-11-13 |  |
 | Golden Pet Brands | [Creative Team Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4748138005) | Remote (USA) | $17 to $20/hour | 2026-11-13 |  |
@@ -70,8 +77,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SharkNinja | [Spring 2027: HW UX/UI Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721298006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
 | Crystal Dynamics | [Presentation Animator Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746883005) · Spring 2027 | Remote/Flexible - United States | $20 to $23/hour | 2026-11-04 |  |
 | Pencor Services | [Spring Creative News Internship](https://pencor.bamboohr.com/careers/1093) · Spring | Lehighton, Pennsylvania, United States |  | 2026-11-04 |  |
-| SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
 | SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006) · Spring 2027 | New York, New York, United States | $30 to $36/hour | 2026-11-04 |  |
+| SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
 | Crystal Dynamics | [Game Design Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005) · Spring 2027 | Remote/Flexible - United States | $20 to $24/hour | 2026-11-04 |  |
 | Excel Sports Management | [Spring 2027 - Intern, Creative](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747588005) · Spring 2027 | New York, New York, United States | $17/hour | 2026-11-04 | no visa sponsorship |
 | Iris North America | [Motion Design Intern](https://job-boards.greenhouse.io/iris/jobs/8319399) | Atlanta, GA (hybrid) | $18/hour | 2026-11-04 |  |

@@ -1,13 +1,14 @@
 # New grad and entry level: Design and creative
 
-177 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
+173 open, newest first (by the date the scraper first saw them), updated 2026-11-14.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Bask Health | [Junior UX Designer](https://apply.workable.com/j/CE3B5E6259) | United States |  | 2026-11-14 |  |
+| Bask Health | [Junior UX Researcher](https://apply.workable.com/j/9D0E0B899C) | United States |  | 2026-11-14 |  |
 | McKinney | [Community Manager](https://job-boards.greenhouse.io/jobsmckinneycom/jobs/8384435) | Durham, NC (hybrid) | $65,000 to $90,000 | 2026-11-13 |  |
-| Resource Environmental Solutions LLC | [Designer I](https://job-boards.greenhouse.io/res/jobs/5458665008) | Pittsburgh, Pennsylvania, United States |  | 2026-11-13 |  |
 | Thomson Reuters | [Producer, Video Podcasts (Level 1 Journalist, TEMP)](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Los-Angeles-California/Producer--Video-Podcasts--Level-1-Journalist--TEMP-_JREQ205213) | United States of America, Los Angeles, California | $39 to $70/hour | 2026-11-12 |  |
 | Primer | [Curriculum Designer - Pursuits (Contractor)](https://jobs.ashbyhq.com/primer/8eb475e8-4d7b-4663-abd7-d71abdc31c85) | Remote |  | 2026-11-12 |  |
 | Stryker | [Label Designer (Remote)](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Label-Designer--Remote-_R576780) | Fort Lauderdale, Florida (remote) | $62,400 to $114,300 | 2026-11-12 | no visa sponsorship |
@@ -20,9 +21,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Toast | [Video Designer](https://careers.toasttab.com/jobs?gh_jid=8261417) | Remote | $62,000 to $128,000 | 2026-11-11 |  |
 | Wade Trim | [Natural Gas Designer - #3081](https://jobs.lever.co/wadetrim/decd734b-91d4-4058-936f-6d3159c619a8) | Fort Worth, TX |  | 2026-11-11 |  |
 | Trilon Group | [Engineering Designer I](https://trilongroup.pinpointhq.com/en/postings/fd4c31a6-aac2-46f7-9abd-b46b3c2253e8) | Atlanta, Georgia | $65,000 to $80,000 | 2026-11-11 |  |
-| AccuWeather | [Graphic Production Artist](https://job-boards.greenhouse.io/accuweather/jobs/8367396) | State College, PA |  | 2026-11-10 |  |
+| AccuWeather | [Weather Graphics Production Artist](https://job-boards.greenhouse.io/accuweather/jobs/8367396) | State College, PA |  | 2026-11-10 |  |
 | Konrad | [UI/UX Designer](https://www.konrad.com/careers/job/8199570003?gh_jid=8199570003) | New York | $80,000 to $100,000 | 2026-11-10 |  |
-| Clera | [Founding Product Designer](https://jobs.ashbyhq.com/Clera/27f3a6c6-fdda-4912-ba33-5bc30c67280d) | San Francisco | $150,000 to $250,000 | 2026-11-09 |  |
 | Garmin | [Aviation Human Factors Designer 1](https://careers.garmin.com/careers-home/jobs/21949) | Olathe, Kansas |  | 2026-11-07 |  |
 | Online Labels Group | [Flexographic Press Operator](https://online-labels.breezy.hr/p/0a3c014235e6-flexographic-press-operator) | 12177 28th Street N St. Petersburg, FL |  | 2026-11-07 |  |
 | Online Labels Group | [Flexographic Press Operator](https://online-labels.breezy.hr/p/ce599aad1ae7-flexographic-press-operator) | 2001 E Lake Mary Blvd Sanford, FL |  | 2026-11-07 |  |
@@ -92,7 +92,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Hachette Book Group | [Junior Designer, Artisan Books](https://jobs.gem.com/hachette-book-group/am9icG9zdDq4gNO5VDyVBFM9h0FQsnZv) | New York Office - 1290 Avenue of the Americas | $55,500 | 2026-11-04 |  |
 | Reformation | [Ecommerce Producer](https://job-boards.greenhouse.io/reformation/jobs/8177590) | Los Angeles, CA | $75,000 | 2026-11-04 |  |
 | Atari | [Junior Generalist Engineer (Video Games)](https://job-boards.greenhouse.io/atariinc/jobs/5434070008) | Atari - US (Remote); Implicit Conversions | $65,000 to $85,000 | 2026-11-04 |  |
-| inKind | [Graphic Designer](https://job-boards.greenhouse.io/inkind/jobs/5435387008) | Austin, in-person |  | 2026-11-04 |  |
 | NewGround | [Environmental Graphic Designer](https://newground.breezy.hr/p/593dad43b8a1-environmental-graphic-designer) | St. Louis, MO |  | 2026-11-04 |  |
 | Careerswift | [Product Designer (UX/UI)](https://jobs.ashbyhq.com/careerswift.ai/48766185-a27a-4bac-8116-db060aaea5bb) | United States | $60,000 to $80,000 | 2026-11-04 |  |
 | The Quality Group | [Graphic Designer (gn) - ESN](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4976695101) | Deutschland, remote |  | 2026-11-04 |  |
@@ -100,7 +99,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDo6hAaPKfZX1wndY9JhqRFH) | MD - Towson |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDqnHVJqChWyxuk6igDxJohR) | GA - Atlanta |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Careerswift | [Graphic Designer](https://jobs.ashbyhq.com/careerswift.ai/ba2c3b68-9252-4c65-9bd7-5a0033f60a95) | United States | $50,000 to $70,000 | 2026-11-04 |  |
-| Arena Club | [Junior 3D Motion Designer](https://job-boards.greenhouse.io/arenaclub/jobs/4393840009) | Los Angeles, CA |  | 2026-11-04 |  |
 | The Quality Group | [Packaging Designer (gn) - ESN](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4967676101) | Hamburg (hybrid) |  | 2026-11-04 |  |
 | The Quality Group GmbH | [Packaging Designer (gn) - ESN](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4967675101) | Hamburg (hybrid) |  | 2026-11-04 |  |
 | The Quality Group | [Graphic Designer Pre-Press (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4966371101) | Hamburg (hybrid) |  | 2026-11-04 |  |
@@ -156,10 +154,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Garmin | [Product Designer 1](https://careers.garmin.com/careers-home/jobs/19863) | Olathe, Kansas |  | 2026-10-28 |  |
 | Intel | [GPU Driver and Graphics Performance Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/GPU-Driver-and-Graphics-Performance-Engineer_JR0288152) | US, Oregon, Hillsboro (hybrid) | $111,030 to $181,940 | 2026-10-28 |  |
 | TikTok | [User Researcher](https://lifeattiktok.com/search/7699070278786058549) | San Jose, California, United States of America |  | 2026-10-24 |  |
-| Google | [UX Engineer, HUE Futures](https://www.google.com/about/careers/applications/jobs/results/131685895836181190) | San Francisco, CA, USA | $109,000 to $155,000 | 2026-10-22 |  |
 | RSM US | [UX Design Manager](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/UX-Design-Manager_JR122014) | Chicago | $126,500 to $223,900 | 2026-10-22 | no visa sponsorship |
 | Electronic Arts | [Experience Designer - Madden Core](https://jobs.ea.com/en_US/careers/JobDetail/Experience-Designer-I/216492) | Orlando, United States of America |  | 2026-10-22 |  |
-| Ford | [Junior Designer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70670) | Long Beach, CA, United States | $95,600 to $145,000 | 2026-10-21 | no visa sponsorship |
 | Paramount | [Designer, Toys](https://careers.paramount.com/job/Los-Angeles-Designer%2C-Toys-CA-90038/1430786400/) | Los Angeles, CA, US | $64,800 to $81,000 | 2026-10-20 |  |
 | Cook Children's | [Polysomnographic Tech (RPSGT)](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Polysomnographic-Tech--RPSGT-_JR-119823) | Fort Worth, TX |  | 2026-10-20 |  |
 | Cook Children's | [Polysomnographic Tech (RPSGT)](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Polysomnographic-Tech--RPSGT-_JR-112297) | Fort Worth, TX |  | 2026-10-20 |  |

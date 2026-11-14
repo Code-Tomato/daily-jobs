@@ -1,11 +1,17 @@
 # New grad and entry level: Education
 
-359 open, newest first (by the date the scraper first saw them), updated 2026-11-13.
+362 open, newest first (by the date the scraper first saw them), updated 2026-11-14.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Covista | [PMHNP (Adjunct)](https://jobs.smartrecruiters.com/Covista/744000161506034-pmhnp-adjunct-) | remote, REMOTE, us |  | 2026-11-14 |  |
+| Revolution Prep | [Professional Remote Tutor - SAT/ACT & Academics](https://ats.rippling.com/revolution-prep-careers/jobs/d4675df8-132a-4c0a-845e-ddafc2ba73f8) | VA (remote) | $25 to $29/hour | 2026-11-14 |  |
+| Revolution Prep | [Professional Remote Tutor - SAT/ACT English & Academics](https://ats.rippling.com/revolution-prep-careers/jobs/3cff3a52-623f-47c0-85da-a77544771ffc) | ME (remote) | $25 to $29/hour | 2026-11-14 |  |
+| Revolution Prep | [Professional Remote Tutor - SAT/ACT Math & Academics](https://ats.rippling.com/revolution-prep-careers/jobs/0403b681-ab7d-4bfa-8a42-93acf37436a2) | GA (remote) | $25 to $29/hour | 2026-11-14 |  |
+| Baylor Scott & White Health | [Certified Diabetes Educator I - RD](https://jobs.bswhealth.com/us/en/job/26020011) | Remote, United States |  | 2026-11-14 |  |
+| Sieda Community Action | [Early Head Start Teacher](https://sieda.bamboohr.com/careers/129) | Ottumwa, Iowa, United States | $17.94 to $21.08/hour | 2026-11-14 |  |
 | Texas Children's Hospital | [Childbirth Parenting Educator - PER DIEM, Saturday Sunday ONLY](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428640) | Houston, TX, United States |  | 2026-11-13 |  |
 | Assessment Intervention Management | [Math Test Prep Tutor and/or English Test Prep Tutor](https://assessment-intervention-management.breezy.hr/p/672addd8fec2-math-test-prep-tutor-and-or-english-test-prep-tutor) | San Antonio, TX | $25 to $40/hour | 2026-11-13 | no visa sponsorship |
 | Texas State University | [Graduate Admissions Specialist](https://jobs.hr.txstate.edu/postings/59243) | San Marcos, Other - Remote Work Possible, TX |  | 2026-11-13 | no visa sponsorship |
@@ -17,7 +23,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | UT Health San Antonio | [Research Services Librarian](https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8437) | San Antonio, TX, United States |  | 2026-11-13 |  |
 | CSC Generation | [Seasonal Chef Instructor (Sur La Table)](https://jobs.lever.co/cscgeneration-2/d02d9a5a-787c-4448-bf57-f16641e278d9) | Westlake, OH |  | 2026-11-12 |  |
 | LLNL | [Laser Science and Technology Academic Graduate Appointee](https://jobs.smartrecruiters.com/LLNL/3743990016809806-laser-science-and-technology-academic-graduate-appointee) | Livermore, CA, us | $70,308 to $111,384 | 2026-11-12 | US citizens/persons only, clearance |
-| Green Tree School & Services | [Special Education Paraprofessional](https://jobs.ashbyhq.com/Green-Tree-School-and-Services/84c69e9c-0278-403b-a35b-921fb45ef262) | Philadelphia, PA |  | 2026-11-12 |  |
 | Playbook | [Yoga Instructor (Contractor)](https://jobs.lever.co/playbook/4b273521-6abb-4e6f-b8e0-bd3038549477) | Redwood City, CA | $50 to $65/hour | 2026-11-12 |  |
 | Studyfetch | [Tutors](https://ats.rippling.com/studyfetch/jobs/f7a32366-8db5-4928-9c14-b60b5ddf2d65) | Beverly Hills, CA | $25 to $30/hour | 2026-11-12 |  |
 | BelovED Community & Empowerment Academy Charter Schools | [High School Math Support Teacher/ TA](https://apply.workable.com/j/BF8771DC17) | Jersey City, New Jersey, United States | $44,000 to $59,000 | 2026-11-12 |  |
@@ -97,7 +102,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Principia Education | [SAT & Test Prep Tutor (In-Person)](https://principiaeducation.bamboohr.com/careers/34) | McLean, Virginia, United States | $50 to $100/hour | 2026-11-05 |  |
 | Freudigman & Billings LLC | [Junior Admissions Test Prep Instructor](https://freudigmanbillings.bamboohr.com/careers/85) | Westport, Connecticut, United States | $67,000 to $75,000 | 2026-11-05 |  |
 | Hope Center for Children | [Direct Care Family Teacher - Second Shift](https://hopecfc.bamboohr.com/careers/75) | Spartanburg, South Carolina, United States |  | 2026-11-05 |  |
-| Project Kitty Hawk | [Application Specialist](https://jobs.lever.co/projectkittyhawk/658b86fe-9d54-46da-81c1-6b04d0321ebe) | Remote |  | 2026-11-05 |  |
 | Magical Beginnings | [Preschool Teacher- PAID WINTER BREAK](https://jobs.lever.co/magicalbeginningslc/77848195-778b-4d55-9630-84ce1421fedc) | Kingston, MA |  | 2026-11-05 |  |
 | Magical Beginnings | [Toddler Teacher- PAID WINTER BREAK](https://jobs.lever.co/magicalbeginningslc/7a003d4c-714b-4c12-90f5-73fbbee0c72e) | Middleton, MA |  | 2026-11-05 |  |
 | ILSC Education Group | [ELS Substitute Instructor](https://ilsc.bamboohr.com/careers/715) | La Verne, California, United States | $19.50 to $25.50/hour | 2026-11-05 |  |
@@ -117,7 +121,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Aspire Early Learning Academy | [Full Time Infant/Toddler Teacher](https://aspireearlylearningacademy.bamboohr.com/careers/70) | Moncks Corner, South Carolina, United States |  | 2026-11-05 |  |
 | Pacific College | [ADN Program Full-time Faculty Pediatrics](https://pacific.bamboohr.com/careers/95) | Costa Mesa, California, United States |  | 2026-11-05 |  |
 | Magical Beginnings | [Infant Teacher- PAID WINTER BREAK](https://jobs.lever.co/magicalbeginningslc/bba4cbb2-9c1c-4c6b-a6f6-c704759077ee) | Pembroke, MA |  | 2026-11-05 |  |
-| Magical Beginnings | [Toddler Preschool Teacher](https://jobs.lever.co/magicalbeginningslc/8b845c93-f450-4f2e-b029-f786100a34d8) | Plymouth, MA |  | 2026-11-05 |  |
 | Magical Beginnings | [Preschool Teacher - Paid Winter Break](https://jobs.lever.co/magicalbeginningslc/3ca771f3-ad7d-4b3b-a48b-cbbac5de0c77) | Bellingham, MA |  | 2026-11-05 |  |
 | DREAM | [[Immediate Start] Recess Coach - East Harlem Elementary and Middle School](https://jobs.lever.co/wearedream/27b34abb-26da-4fa6-b786-0776224b93f7) | New York, NY - Multi-Site | $17.50 to $18/hour | 2026-11-05 |  |
 | Faith Life Church | [Music Teacher (part time)](https://faithlife.bamboohr.com/careers/130) | Powell, Ohio, United States |  | 2026-11-05 |  |
