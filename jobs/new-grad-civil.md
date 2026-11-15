@@ -1,11 +1,12 @@
 # New grad and entry level: Civil, construction and environmental
 
-857 open, newest first (by the date the scraper first saw them), updated 2026-11-14. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+854 open, newest first (by the date the scraper first saw them), updated 2026-11-15. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| OHM Advisors | [Graduate Civil Engineer (Hiring for May 2027) - Indiana & Kentucky](https://apply.workable.com/j/420D4EC6A4) | Louisville, Kentucky, United States |  | 2026-11-15 |  |
 | AECOM | [Entry-Level Environmental Scientist - Hiring Event with AECOM - Arlington, VA](https://jobs.smartrecruiters.com/AECOM2/744000161512490-entry-level-environmental-scientist-hiring-event-with-aecom-arlington-va) | Arlington, VA, us |  | 2026-11-14 | US citizens/persons only |
 | AMT Engineering | [Transportation Construction Inspector](https://jobs.lever.co/amtengineering/64a25cc9-6a65-44fa-8721-0f011ec57513) | Charlottesville, VA |  | 2026-11-14 |  |
 | AMT Engineering | [Transportation Construction Inspector](https://jobs.lever.co/amtengineering/af922111-e9f1-4198-9460-0e8a8743da73) | Culpeper, VA |  | 2026-11-14 |  |
@@ -30,9 +31,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Keeley Construction | [Estimator (Entry Level)](https://job-boards.greenhouse.io/keeleyconstruction/jobs/4753432005) | Dallas, Texas, United States; New Braunfels, Texas, United States |  | 2026-11-12 |  |
 | Kiewit | [Estimator - Kiewit Building Group](https://kiewitcareers.kiewit.com/job/Federal-Way-Estimator-Kiewit-Building-Group-WA-98001/1449830800/) | Federal Way, WA, US | $95,000 to $99,000 | 2026-11-12 |  |
 | SpaceX | [Civil Engineer, Site Development](https://boards.greenhouse.io/spacex/jobs/8938131002?gh_jid=8938131002) | Starbase, TX |  | 2026-11-12 | US citizens/persons only |
-| SpaceX | [Civil Engineer, Site Development](https://boards.greenhouse.io/spacex/jobs/8938174002?gh_jid=8938174002) | Bastrop, TX |  | 2026-11-12 | US citizens/persons only |
 | SpaceX | [Civil Engineer, Site Development](https://boards.greenhouse.io/spacex/jobs/8938191002?gh_jid=8938191002) | College Station, TX |  | 2026-11-12 | US citizens/persons only |
 | SpaceX | [Civil Engineer, Site Development](https://boards.greenhouse.io/spacex/jobs/8938178002?gh_jid=8938178002) | Cape Canaveral, FL |  | 2026-11-12 | US citizens/persons only |
+| SpaceX | [Civil Engineer, Site Development](https://boards.greenhouse.io/spacex/jobs/8938174002?gh_jid=8938174002) | Bastrop, TX |  | 2026-11-12 | US citizens/persons only |
 | Sunrise Landscape | [Landscape Construction Crew Member-Driver (Installation)](https://sunrise-landscape.breezy.hr/p/154e5625df8d-landscape-construction-crew-member-driver-installation) | Ft Myers, FL | $17 to $20/hour | 2026-11-12 |  |
 | Timmons Group | [New Graduate Civil Project Engineer I](https://jobs.smartrecruiters.com/TimmonsGroup1/744000161113541-new-graduate-civil-project-engineer-i) | Richmond, VA, us | $80,000 | 2026-11-12 |  |
 | Zachry Group | [Engineer I Civil/Structural](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16439) | Downers Grove, IL, United States | $75,400 to $106,145 | 2026-11-12 | no visa sponsorship |
@@ -755,4 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpaceX | [Structural Engineer, Starship Tower](https://boards.greenhouse.io/spacex/jobs/8919976002?gh_jid=8919976002) | Cape Canaveral, FL |  | 2026-10-28 | US citizens/persons only |
 | Worley | [Rotational Structural Graduate](https://jobs.worley.com/careers/job/1133916568832) | Monrovia, CA, US; Long Beach, CA, US | $77,263 to $113,622 | 2026-10-28 |  |
 | Parkland Health | [Project Engineer - Plan Design](https://wd12.myworkdaysite.com/recruiting/parklandhospital/Parkland_Careers/job/Logistics-Building/Project-Engineer-Plan-Design_990795) | Logistics Building |  | 2026-10-27 |  |
-| TC Energy | [Geotechnical Engineer](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Washington-Pennsylvania/Geotechnical-Engineer_JR-11210-1) | Washington, Pennsylvania (hybrid) |  | 2026-10-27 |  |

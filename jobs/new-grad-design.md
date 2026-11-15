@@ -1,11 +1,13 @@
 # New grad and entry level: Design and creative
 
-173 open, newest first (by the date the scraper first saw them), updated 2026-11-14.
+172 open, newest first (by the date the scraper first saw them), updated 2026-11-15.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Clera | [Founding Product Designer](https://jobs.ashbyhq.com/Clera/c36ede05-7696-456b-9547-ecd5f33b02d9) | San Francisco | $150,000 to $250,000 | 2026-11-15 |  |
+| Fox Corporation | [Graphic Thumbnail Designer](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA--NY---New-York---37-W-28th-St/Graphic-Thumbnail-Designer_R50034296) | USA NY - New York - 37 W 28th St | $25.75 to $34.62/hour | 2026-11-15 |  |
 | Bask Health | [Junior UX Designer](https://apply.workable.com/j/CE3B5E6259) | United States |  | 2026-11-14 |  |
 | Bask Health | [Junior UX Researcher](https://apply.workable.com/j/9D0E0B899C) | United States |  | 2026-11-14 |  |
 | McKinney | [Community Manager](https://job-boards.greenhouse.io/jobsmckinneycom/jobs/8384435) | Durham, NC (hybrid) | $65,000 to $90,000 | 2026-11-13 |  |
@@ -152,7 +154,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / A-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51993) | Sparks, Nevada |  | 2026-10-30 |  |
 | Target | [UX Designer - Search & Recommendations](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Designer---Search---Recommendations_R0000475220-1) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $75,400 to $135,700 | 2026-10-29 |  |
 | Garmin | [Product Designer 1](https://careers.garmin.com/careers-home/jobs/19863) | Olathe, Kansas |  | 2026-10-28 |  |
-| Intel | [GPU Driver and Graphics Performance Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/GPU-Driver-and-Graphics-Performance-Engineer_JR0288152) | US, Oregon, Hillsboro (hybrid) | $111,030 to $181,940 | 2026-10-28 |  |
 | TikTok | [User Researcher](https://lifeattiktok.com/search/7699070278786058549) | San Jose, California, United States of America |  | 2026-10-24 |  |
 | RSM US | [UX Design Manager](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/UX-Design-Manager_JR122014) | Chicago | $126,500 to $223,900 | 2026-10-22 | no visa sponsorship |
 | Electronic Arts | [Experience Designer - Madden Core](https://jobs.ea.com/en_US/careers/JobDetail/Experience-Designer-I/216492) | Orlando, United States of America |  | 2026-10-22 |  |
@@ -171,8 +172,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Formlabs | [Industrial Designer - Entry Level](https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032) | Boston, MA | $90,000 to $120,000 | 2026-10-20 |  |
 | Quanta Services | [Piping Designer](https://careers-quanta.icims.com/jobs/18961/piping-designer/job) | Huntersville, NC |  | 2026-10-20 |  |
 | The New York Times | [Journalist, Graphics Intensive](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4728037005) | New York, NY | $82,414.80 | 2026-10-20 |  |
-| Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/18646) | Olathe, Kansas |  | 2026-10-20 |  |
-| Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/18738) | Portland, Oregon |  | 2026-10-20 |  |
 | TikTok | [Product Designer Graduate (TikTok-Design) - 2027 Start](https://lifeattiktok.com/search/7667791791502821637) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Effect Designer Graduate (TikTok-Design) - 2027 Start](https://lifeattiktok.com/search/7667849876715374853) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | Ford | [Industrial Designer - Components](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/63323) | Dearborn, MI, United States | $74,300 to $166,200 | 2026-10-19 | no visa sponsorship |

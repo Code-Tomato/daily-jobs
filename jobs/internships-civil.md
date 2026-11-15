@@ -1,11 +1,14 @@
 # Internships and co-ops: Civil, construction and environmental
 
-844 open, newest first (by the date the scraper first saw them), updated 2026-11-14. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+843 open, newest first (by the date the scraper first saw them), updated 2026-11-15. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| OHM Advisors | [Civil Engineering Intern (Hiring for May 2027) - Indiana & Kentucky](https://apply.workable.com/j/0BE2892FC8) | Louisville, Kentucky, United States |  | 2026-11-15 |  |
+| Xcel Energy | [Civil Engineering, Hydropower Intern - MN, WI](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Dam-Safety-Engineer-Intern--WI_JR115604-2) | Minneapolis, MN, 55401 (hybrid) | $21.20 to $24.60/hour | 2026-11-15 |  |
+| Fluor | [Construction Engineering Aide II- Summer Internship](https://careers.fluor.com/careers/job/1099556827388) · Summer | Lebanon, US-IN, United States | $43,000 to $66,000 | 2026-11-15 |  |
 | AECOM | [Traffic Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000161561210-traffic-engineering-intern) | Columbus, OH, us |  | 2026-11-14 | no visa sponsorship |
 | AECOM | [Civil Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000161502085-civil-engineering-intern) | Waterloo, IA, us |  | 2026-11-14 | US citizens/persons only |
 | Houston Engineering, Inc. | [Civil Engineer Intern- Transportation/Municipal](https://jobs.smartrecruiters.com/HoustonEngineeringInc/744000161513762-civil-engineer-intern-transportation-municipal) | Eden Prairie, MN, us | $22 to $24/hour | 2026-11-14 |  |
@@ -718,9 +721,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Trilon Group | [Civil Engineering Intern](https://trilongroup.pinpointhq.com/en/postings/f61007ee-3528-468c-baa0-e7be377f148d) | East Brunswick, New Jersey |  | 2026-11-04 |  |
 | Trilon Group | [Civil Engineering Intern](https://trilongroup.pinpointhq.com/en/postings/86cba6c4-7fb1-4fb0-9b1b-989d1a6b2a07) | Barnegat, New Jersey |  | 2026-11-04 |  |
 | Trilon Group | [Civil Engineering Intern](https://trilongroup.pinpointhq.com/en/postings/658f630f-80fd-4250-b64f-88d7e482da6e) | Neptune, New Jersey |  | 2026-11-04 |  |
-| Fluor | [Spring 2027 CO-OP - Industrial Construction Development Program (PURDUE)](https://careers.fluor.com/careers/job/1099556886951) · Spring 2027 | Lebanon, US-IN, United States | $43,000 to $66,000 | 2026-11-03 |  |
-| Fluor | [Spring 2027 CO-OP - Industrial Construction Development Program (PURDUE)](https://careers.fluor.com/careers/job/1099556886948) · Spring 2027 | Lebanon, US-IN, United States | $43,000 to $66,000 | 2026-11-03 |  |
-| Fluor | [Spring 2027 CO-OP - Industrial Construction Development Program (PURDUE)](https://careers.fluor.com/careers/job/1099556075292) · Spring 2027 | Lebanon, US-IN, United States | $43,000 to $66,000 | 2026-11-03 |  |
 | Marsh McLennan | [2027 Summer Internship Program: Construction/Surety Specialty Practice](https://mmc.wd1.myworkdayjobs.com/MMC/job/Spokane---Riverpoint/XMLNAME-2027-Summer-Internship-Program--Construction-Surety-Specialty-Practice_R_371086) · Summer 2027 | Spokane - Riverpoint | $18.85/hour | 2026-11-02 |  |
 | Marsh McLennan | [2027 Summer Internship Program: Construction/Surety Specialty Practice](https://mmc.wd1.myworkdayjobs.com/MMC/job/Boise---Broadway/XMLNAME-2027-Summer-Internship-Program--Construction-Surety-Specialty-Practice_R_371085) · Summer 2027 | Boise - Broadway | $18.85/hour | 2026-11-02 |  |
 | Commonwealth Fusion Systems | [Intern - Structural Engineer - Summer 2027](https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3) · Summer 2027 | Devens, MA |  | 2026-11-02 |  |
@@ -738,7 +738,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kiewit | [Field Engineer Intern - Kiewit Water Facilities South - Summer 2027](https://kiewitcareers.kiewit.com/job/Westlake-Field-Engineer-Intern-Kiewit-Water-Facilities-South-Summer-2027-TX/1412876900/) · Summer 2027 | Santa Teresa, NM, US |  | 2026-10-23 |  |
 | Varda | [Construction Management Internship – Spring 2027](https://job-boards.greenhouse.io/vardaspace/jobs/8041944003) · Spring 2027 | El Segundo, California, United States |  | 2026-10-23 | US citizens/persons only |
 | Permian Resources | [Environmental Engineering Intern](https://permianres.wd12.myworkdayjobs.com/Permian_Resources_Careers/job/Midland-Texas/Environmental-Engineering-Intern_R-100413) · Summer 2027 | Midland, Texas |  | 2026-10-21 |  |
-| Fluor | [Civil Structural Engineering Intern](https://careers.fluor.com/careers/job/1099556047183) | Houston, US-TX, United States | $43,000 to $66,000 | 2026-10-21 |  |
 | Kiewit | [Field Engineer Intern - Heavy Civil - Kiewit Foundations Summer 2027](https://kiewitcareers.kiewit.com/job/Omaha-Field-Engineer-Intern-Heavy-Civil-Kiewit-Foundations-Summer-2027-NE-68046/1429341300/) · Summer 2027 | Kittery, ME, US | $21 to $25/hour | 2026-10-20 |  |
 | Bechtel | [27 Intern / US / Mech Field Eng](https://jobs.bechtel.com/us/en/job/297286) | United States | $23.98 to $34.40/hour | 2026-10-20 | no visa sponsorship |
 | Bechtel | [27 Intern / US / Const Mgmt FE](https://jobs.bechtel.com/us/en/job/297287) | United States | $23 to $34.40/hour | 2026-10-20 | no visa sponsorship |
@@ -756,3 +755,4 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Civil Engineer Intern - Water (South Central Region)](https://careers.bv.com/job/Kansas-City-Civil-Engineer-Intern-Water-%28South-Central-Region%29-MO-64101/1435069633/) | Fort Worth, TX, US |  | 2026-10-20 |  |
 | GE HealthCare | [Surgery Field Engineer Apprentice -San Francisco Bay Area](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) | Remote | $48,000 to $72,000 | 2026-10-20 | no visa sponsorship |
 | Kiewit | [Field Engineer Intern - Kiewit Power Delivery](https://kiewitcareers.kiewit.com/job/Lenexa-Field-Engineer-Intern-Kiewit-Power-Delivery-KS/1427294100/) | Medford, OR, US | $20 to $25/hour | 2026-10-20 | no visa sponsorship |
+| Black & Veatch | [Structural Engineer Intern, Federal](https://careers.bv.com/job/Overland-Park-Structural-Engineer-Intern%2C-Federal-KS-66062/1434011033/) | Overland Park, KS, US |  | 2026-10-20 | US citizens/persons only |

@@ -1,11 +1,37 @@
 # New grad and entry level: Finance, accounting and banking
 
-2,557 open, newest first (by the date the scraper first saw them), updated 2026-11-14. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,544 open, newest first (by the date the scraper first saw them), updated 2026-11-15. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Huntington Bank | [Customer Experience Banker Non NMLS; Clinton, MS](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Clinton-MS/Customer-Experience-Banker-Non-NMLS--Clinton--MS_R0077731) | Clinton, MS |  | 2026-11-15 | no visa sponsorship |
+| Nationwide | [Property Claims Adjuster I - NEX (San Joaquin or Stanislaus County, CA - WFH)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California/Property-Claims-Adjuster-I---NEX--San-Joaquin-or-Stanislaus-County--CA---WFH-_101391) | California (remote) | $49,100 to $91,300 | 2026-11-15 |  |
+| Prosperity Bank | [Floater (Full Time) - Gun Barrel](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604979&lang=en_US) | GUN BARREL CITY-NORTH, Gun Barrel City, TX, US |  | 2026-11-15 |  |
+| Huntington Bank | [Customer Experience Banker - Michigan & Beck (Canton, MI)](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Canton-MI/Customer-Experience-Banker---Michigan---Beck--Canton--MI-_R0077806) | Canton, MI |  | 2026-11-15 | no visa sponsorship |
+| TD Bank | [Relationship Banker I (Dyker Heights) Bilingual Fujianese/ Mandarin preferred](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/1301-65th-Street-Brooklyn-New-York/Relationship-Banker-I--Dyker-Heights--Bilingual-Fujianese--Mandarin-preferred_R_1508169) | 1301 65th Street, Brooklyn, New York | $24.25 to $32.50/hour | 2026-11-15 |  |
+| TD Bank | [Associate Banker I (Brooklyn Chinatown) PT 20 hours - Bilingual Mandarin or Fujianese preferred](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Brooklyn-New-York/Associate-Banker-I--Brooklyn-Chinatown--PT-20-hours---Bilingual-Mandarin-or-Fujianese-preferred_R_1515658) | Brooklyn, New York | $23.25 to $29.75/hour | 2026-11-15 |  |
+| Allstate | [Auto Claims Adjuster Trainee](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Auto-Claims-Adjuster-Trainee_R37019) | US - Remote | $22.84 to $29.57/hour | 2026-11-15 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor: Dallas Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/Merrill-Advisor-Development-Program---Financial-Advisor--Dallas-Market_26042447) | Dallas |  | 2026-11-15 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor: Greater Dallas Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/FRISCO/Merrill-Advisor-Development-Program---Financial-Advisor--Greater-Dallas-Market_26042421) | FRISCO |  | 2026-11-15 |  |
+| Bank of America | [Merrill Advisor Development Program - Financial Advisor: Fort Worth & Associates](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Worth/Merrill-Advisor-Development-Program---Financial-Advisor--Fort-Worth---Associates_26042392-2) | Fort Worth |  | 2026-11-15 |  |
+| Capital Group | [Internal Wealth Specialist](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/Internal-Wealth-Specialist_JR7789-1) | Los Angeles | $99,484 to $159,174 | 2026-11-15 |  |
+| CNA Insurance | [Surety Underwriting Trainee](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Sioux-Falls-SD-USA/Surety-Underwriting-Trainee_R-8275) | Sioux Falls, SD, USA |  | 2026-11-15 |  |
+| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Buffalo-NY/Personal-Banker_R-43230) | Buffalo, NY | $20.67 to $31.25/hour | 2026-11-15 |  |
+| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Fremont-OH/Personal-Banker_R-43224) | Fremont, OH | $20.67 to $31.25/hour | 2026-11-15 |  |
+| KeyBank | [Business Banking Virtual Relationship Manager](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/For-Those-Who-Work-At-Home-OH/Business-Banking-Virtual-Relationship-Manager_R-42429-1) | For Those Who Work At Home, OH (remote) | $27.40 to $41.83/hour | 2026-11-15 |  |
+| Marsh McLennan | [Associate Account Manager -Management Liability Insurance](https://mmc.wd1.myworkdayjobs.com/MMC/job/Van-Nuys---Sepulveda/Associate-Account-Manager--Management-Liability-Insurance_R_372910-1) | Van Nuys - Sepulveda | $35,360 to $67,800 | 2026-11-15 |  |
+| Marsh McLennan | [Associate Account Manager - Management Liability Insurance](https://mmc.wd1.myworkdayjobs.com/MMC/job/Van-Nuys---Sepulveda/Associate-Account-Manager---Management-Liability-Insurance_R_353523) | Van Nuys - Sepulveda | $35,600 to $67,800 | 2026-11-15 |  |
+| Regions Financial | [Relationship Banker II - Ridgeland Branch](https://careers.regions.com/us/en/job/R105436) | Ridgeland, South Carolina, United States of America | $43,814.19 to $52,402 | 2026-11-15 |  |
+| Regions Financial | [Relationship Banker I - Highlands Main Branch](https://careers.regions.com/us/en/job/R105608) | Highlands, North Carolina, United States of America | $35,640.99 to $42,192 | 2026-11-15 |  |
+| Regions Financial | [Relationship Banker II - Demopolis](https://careers.regions.com/us/en/job/R106238) | Demopolis, Alabama, United States of America | $41,508.18 to $49,644 | 2026-11-15 |  |
+| Regions Financial | [Relationship Banker I - Dalton Main Branch](https://careers.regions.com/us/en/job/R107637) | Dalton, Georgia, United States of America | $37,621.05 to $44,536 | 2026-11-15 |  |
+| Regions Financial | [Relationship Banker I - Wolfchase Branch](https://careers.regions.com/us/en/job/R107639) | Bartlett, Tennessee, United States of America | $37,621.05 to $44,536 | 2026-11-15 |  |
+| Regions Financial | [Relationship Banker I - Bristol Central Branch](https://careers.regions.com/us/en/job/R107640) | Bristol, Tennessee, United States of America | $35,640.99 to $42,192 | 2026-11-15 |  |
+| Regions Financial | [Relationship Banker II - Southchase Branch](https://careers.regions.com/us/en/job/R107634) | Orlando, Florida, United States of America | $46,120.20 to $55,160 | 2026-11-15 |  |
+| Wells Fargo | [Fraud & Claims Operations Representative- Inbound Call Center](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-ANTONIO-TX/Fraud---Claims-Operations-Representative--Inbound-Call-Center_R-585819) | SAN ANTONIO, TX |  | 2026-11-15 | no visa sponsorship |
+| Liberty Mutual | [Surety Underwriting Assistant](https://searchjobs.libertymutualgroup.com/careers/job/618520694634) | Orange, California, United States |  | 2026-11-15 |  |
 | Kiewit | [Finance Analyst - South Central District (Entry Level)](https://kiewitcareers.kiewit.com/job/Westlake-Finance-Analyst-South-Central-District-%28Entry-Level%29-TX/1439056700/) | Abilene, TX, US |  | 2026-11-14 |  |
 | Aretum | [Junior Financial Business Analyst](https://apply.workable.com/j/5C8F7A540F) | Vienna, Virginia, United States | $45,000 to $95,000 | 2026-11-14 | clearance |
 | Barnes & Thornburg LLP | [Accounting Assistant-AP/GL](https://jobs.ashbyhq.com/barnes/5b383b8e-bd25-4b95-9d67-803ca69c5db9) | Indianapolis |  | 2026-11-14 |  |
@@ -47,7 +73,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Regions Financial | [Relationship Banker II - Brazos Town Center Branch](https://careers.regions.com/us/en/job/R107620) | Rosenberg, Texas, United States of America | $51,193.42 to $61,227.60 | 2026-11-14 |  |
 | Regions Financial | [2nd Shift Contact Center Banker (Tuesday-Saturday 12:00pm-9pm) W/ Onsite Training - Nashville, TN](https://careers.regions.com/us/en/job/R107623) | Nashville, Tennessee, United States of America | $35,748.02 to $42,940 | 2026-11-14 |  |
 | Salesforce | [Internal Auditor - Technology Audit](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Internal-Auditor---Technology-Audit_JR363989) | Georgia - Atlanta |  | 2026-11-14 |  |
-| Salesforce | [Finance Pathways Rotation Analyst (Early Career)](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Finance-Pathways-Rotation-Analyst--Early-Career-_JR359637-1) | Indiana - Indianapolis |  | 2026-11-14 |  |
 | Santander US | [CIB - Trade Finance and Working Capital Sales Analyst](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/CIB---Trade-Finance-and-Working-Capital-Sales-Analyst_Req1631989) | Madison Ave Corp | $110,000 to $135,000 | 2026-11-14 | no visa sponsorship |
 | Santander US | [Sales and Service Banker, Falmouth, MA](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Falmouth---Branch-MA/Sales-and-Service-Banker--Falmouth--MA_Req1634743-1) | Falmouth - Branch MA | $34,500 to $53,000 | 2026-11-14 | no visa sponsorship |
 | Significance, Inc. | [Financial Systems Analyst I](https://jobs.lever.co/significanceinc/fdcb2138-2779-47c6-ae14-b4c663338063) | Port Hueneme, CA |  | 2026-11-14 | US citizens/persons only, clearance |
@@ -311,6 +336,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Man Group | [Middle Office and Accounting Analyst](https://job-boards.eu.greenhouse.io/mangroup/jobs/4950564101) | Fort Worth; New York | $75,000 to $85,000 | 2026-11-11 |  |
 | Goldman Sachs | [Risk, Credit Risk - Dallas, Analyst](https://higher.gs.com/roles/188687) | Dallas, TX, United States |  | 2026-11-11 |  |
 | Huntington Bank | [Customer Experience Banker - East 185th St Branch Cleveland, OH](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Cleveland-OH/Customer-Experience-Banker---East-185th-St-Branch-Cleveland--OH_R0077626) | Cleveland, OH | $21 to $22/hour | 2026-11-10 | no visa sponsorship |
+| Thrivent | [Investment Operations Coordinator](https://thrivent.wd5.myworkdayjobs.com/External/job/CO---Loveland/Investment-Operations-Coordinator_REQ-49005-1) | CO - Loveland | $60,000 to $80,000 | 2026-11-10 |  |
 | Bank of America | [Merrill Wealth Management Client Associate – Advisor Development Program: Midtown Manhattan Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Merrill-Wealth-Management-Client-Associate---Advisor-Development-Program--Midtown-Manhattan-Market_26037205) | New York | $35.90/hour | 2026-11-10 |  |
 | City of New York | [Auditor](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016750936-auditor) | New York City, NY, us |  | 2026-11-10 | no visa sponsorship |
 | Huntington Bank | [Customer Experience Banker Non NMLS - Arlington, TX](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Arlington-TX/Customer-Experience-Banker-Non-NMLS---Arlington--TX_R0077661) | Arlington, TX |  | 2026-11-10 | no visa sponsorship |
@@ -403,8 +429,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TD Bank | [Relationship Banker I - Bilingual English & Vietnamese or Khmer Speaking Preferred - Lowell, MA (Highlands)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lowell-Massachusetts/Relationship-Banker-I---Bilingual-English---Vietnamese-or-Khmer-Speaking-Preferred---Lowell--MA--Highlands-_R_1514489) | Lowell, Massachusetts | $22.50 to $29/hour | 2026-11-10 |  |
 | TD Bank | [Relationship Banker I - Bedford, MA](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Bedford-Massachusetts/Relationship-Banker-I---Bedford--MA_R_1515277) | Bedford, Massachusetts | $22.50 to $29/hour | 2026-11-10 |  |
 | Texas Capital | [Financial Analyst](https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Dallas-TX/Financial-Analyst_JR106344-1) | Dallas, TX |  | 2026-11-10 |  |
-| Thrivent | [Investment Operations Coordinator](https://thrivent.wd5.myworkdayjobs.com/External/job/CO---Loveland/Investment-Operations-Coordinator_REQ-49005-1) | CO - Loveland | $60,000 to $80,000 | 2026-11-10 |  |
-| U.S. Bank | [Customer Success Manager- Business Banking & Money Movement](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Customer-Success-Manager--Business-Banking---Money-Movement_2026-0021835) | Minneapolis, MN (hybrid) | $75,600 to $92,400 | 2026-11-10 |  |
 | Webull Financial | [Treasury & Cash Management Analyst](https://ats.rippling.com/webull/jobs/1535eb13-0ed1-4d6c-9f82-7b09323925a6) | New York, NY | $65,000 to $95,000 | 2026-11-10 |  |
 | Wells Fargo | [Commercial Banking Portfolio Coordinator / Lending Fulfillment Operations](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHANDLER-AZ/Commercial-Banking-Portfolio-Coordinator---Lending-Fulfillment-Operations_R-585336) | CHANDLER, AZ |  | 2026-11-10 | no visa sponsorship |
 | GungHo Online Entertainment America, Inc. | [Accounting Associate (Japanese Bilingual)](https://gungho.bamboohr.com/careers/193) | Redondo Beach, California, United States (hybrid) | $47,000 to $65,000 | 2026-11-10 |  |
@@ -462,8 +486,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Central-Point-OR/Personal-Banker_R-43158) | Central Point, OR | $20.67 to $31.25/hour | 2026-11-07 |  |
 | KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Delmar-NY/Personal-Banker_R-43156) | Delmar, NY | $20.67 to $31.25/hour | 2026-11-07 |  |
 | KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Milwaukie-OR/Personal-Banker_R-43027) | Milwaukie, OR | $20.67 to $31.25/hour | 2026-11-07 |  |
-| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cincinnati-OH/Personal-Banker_R-43119) | Cincinnati, OH | $20.67 to $31.25/hour | 2026-11-07 |  |
-| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/South-Burlington-VT/Personal-Banker_R-43126) | South Burlington, VT | $20.67 to $31.25/hour | 2026-11-07 |  |
 | KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Glenmont-NY/Personal-Banker_R-43124) | Glenmont, NY | $20.67 to $31.25/hour | 2026-11-07 |  |
 | KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Draper-UT/Personal-Banker_R-43104) | Draper, UT | $20.67 to $31.25/hour | 2026-11-07 |  |
 | KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Greece-NY/Personal-Banker_R-43121) | Greece, NY | $20.67 to $31.25/hour | 2026-11-07 |  |
@@ -507,7 +529,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TD Bank | [Relationship Banker I - 325 Main Street, Harleysville, PA (30 Hours)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Harleysville-Pennsylvania/Relationship-Banker-I---325-Main-Street--Harleysville--PA--30-Hours-_R_1519890) | Harleysville, Pennsylvania | $22.50 to $29/hour | 2026-11-07 |  |
 | U.S. Bank | [Relationship Banker I - UT-Riverton Rock Wren (30hrs)](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Riverton-UT/Relationship-Banker-1---UT-Riverton-Rock-Wren--30hrs-_2026-0030707) | Riverton, UT | $20.25 to $24.75/hour | 2026-11-07 |  |
 | UnitedHealth Group | [Arbitration Claims Specialist](https://careers.unitedhealthgroup.com/job/dallas/arbitration-claims-specialist/34088/102958123168) | Dallas, Texas | $24 to $43/hour | 2026-11-07 |  |
-| Wells Fargo | [Operational Accounting Assistant](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SHOREVIEW-MN/Operational-Accounting-Assistant_R-574260) | SHOREVIEW, MN |  | 2026-11-07 |  |
 | One Federal Solution | [Financial Support Specialist (Entry Level)](https://apply.workable.com/j/E7E0AF4E2F) | Seattle, Washington, United States |  | 2026-11-07 |  |
 | Libra Solutions | [In-House Counsel & Portfolio Manager](https://apply.workable.com/j/DEB3FE316A) | Rye Brook, New York, United States (hybrid) | $150,000 | 2026-11-07 |  |
 | Prosci | [Indirect Tax Analyst](https://apply.workable.com/j/7E99C3404F) | United States (remote) | $60,000 to $75,000 | 2026-11-07 |  |
@@ -522,6 +543,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Christus Health | [Underwriting Assistant - Risk Finance](https://careers.christushealth.org/opportunity/underwriting-assistant-risk-finance-368431) | Irving, TX, US |  | 2026-11-07 |  |
 | Kaufman Rossin | [Cost Segregation Engineer](https://apply.workable.com/j/8D39DEE561) | Boca Raton, Florida, United States |  | 2026-11-07 |  |
 | Trexquant Investment | [Global Alpha Trader (GLOBAL)](https://apply.workable.com/j/19E45C3950) | United States |  | 2026-11-07 |  |
+| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Lebanon-IN/Personal-Banker_R-43077) | Lebanon, IN | $20.67 to $31.25/hour | 2026-11-06 |  |
 | Ascension | [Insurance Representative](https://jobs.ascension.org/us/en/job/24924) | Austin, TX, US |  | 2026-11-06 |  |
 | GoMining | [Junior/Middle Bookkeeper (US Operations)](https://apply.workable.com/j/EE0FFEC988) | United States |  | 2026-11-06 |  |
 | BorgWarner | [Accounting Analyst](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Financial-Analyst_R2026-4409) | Auburn Hills - Michigan - USA | $62,000 to $85,250 | 2026-11-06 |  |
@@ -562,8 +584,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | JPMorgan Chase | [Relationship Banker - NW St Louis Market - St Charles, MO](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806932) | Saint Charles, MO, United States |  | 2026-11-06 |  |
 | JPMorgan Chase | [Credit Card Customer Service Account Specialist I](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807113) | Heathrow, FL, United States |  | 2026-11-06 |  |
 | JPMorgan Chase | [Relationship Banker - Far Hills - Oakwood, OH](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807168) | Oakwood, OH, United States |  | 2026-11-06 |  |
-| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/Personal-Banker_R-43091) | Denver, CO | $20.67 to $31.25/hour | 2026-11-06 |  |
-| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Zionsville-IN/Personal-Banker_R-43077) | Zionsville, IN | $20.67 to $31.25/hour | 2026-11-06 |  |
 | Lakefield Veterinary Group | [Payroll Coordinator](https://job-boards.greenhouse.io/lakefieldveterinarygroup/jobs/4480812009) | Lakefield Veterinary Group - Kent, WA (hybrid) | $25 to $30/hour | 2026-11-06 |  |
 | Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520676853) | Clinton, Maryland, United States |  | 2026-11-06 |  |
 | Liberty Mutual | [Field Property Claims Adjuster](https://searchjobs.libertymutualgroup.com/careers/job/618520676858) | Bothell, Washington, United States |  | 2026-11-06 |  |
@@ -594,7 +614,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TD Bank | [Relationship Banker I/Levick/Bilingual Spanish preferred](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Philadelphia-Pennsylvania/Relationship-Banker-I-Levick-Bilingual-Spanish-preferred_R_1520453) | Philadelphia, Pennsylvania | $22.50 to $29/hour | 2026-11-06 |  |
 | TD Bank | [Associate Banker II - Whitehouse Station (40 hour)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Whitehouse-Station-New-Jersey/Associate-Banker-II---Whitehouse-Station--40-hour-_R_1520996) | Whitehouse Station, New Jersey | $23.75 to $31/hour | 2026-11-06 |  |
 | Truist | [Investment Banking Analyst - Energy](https://careers.truist.com/us/en/job/R0121556) | Houston, Texas, USA | $105,000 | 2026-11-06 |  |
-| U.S. Bank | [Mortgage Loan Officer](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Woodland-Hills-CA/Mortgage-Loan-Officer_2026-0034674) | Woodland Hills, CA | $20/hour | 2026-11-06 |  |
 | Vericast | [Accountant I](https://jobs.smartrecruiters.com/Vericast/744000159885059-accountant-i) | San Antonio, TX, us | $55,000 to $60,000 | 2026-11-06 |  |
 | Walgreens | [Specialist License](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1962371) | Deerfield, IL |  | 2026-11-06 |  |
 | Waste Connections | [Accountant I](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6460-Orlando/Accountant-I_R-105133) | 6460-Orlando | $24 to $26/hour | 2026-11-06 |  |
@@ -658,7 +677,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | JPMorgan Chase | [Relationship Banker - Port Authority - New York, NY](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806593) | New York, NY, United States |  | 2026-11-05 |  |
 | JPMorgan Chase | [Relationship Banker - Madison Square Garden - New York, NY](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806616) | New York, NY, United States |  | 2026-11-05 |  |
 | KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-Hartford-NY/Personal-Banker_R-43049) | New Hartford, NY | $20.67 to $31.25/hour | 2026-11-05 |  |
-| KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Liverpool-NY/Personal-Banker_R-43043-1) | Liverpool, NY | $20.67 to $31.25/hour | 2026-11-05 |  |
 | KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cheektowaga-NY/Personal-Banker_R-43038) | Cheektowaga, NY | $20.67 to $31.25/hour | 2026-11-05 |  |
 | KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Centennial-CO/Personal-Banker_R-43076) | Centennial, CO | $20.67 to $31.25/hour | 2026-11-05 |  |
 | KeyBank | [Personal Banker](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Grove-City-OH/Personal-Banker_R-43071-1) | Grove City, OH | $20.67 to $31.25/hour | 2026-11-05 |  |
@@ -667,7 +685,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | M&T Bank | [Universal Banker](https://mtb.wd5.myworkdayjobs.com/MTB/job/Newport-VT/Universal-Banker_R91860-1) | Newport, VT | $18.68 to $31.14/hour | 2026-11-05 |  |
 | Peak Credit Union | [Financial Solutions Guide 1](https://job-boards.greenhouse.io/peakcreditunion/jobs/6242269004) | Springfield, OR | $17 to $25.50/hour | 2026-11-05 |  |
 | Primary Freight Services | [Accounting Customer Service Representative](https://primaryfreight.bamboohr.com/careers/54) | La Palma, California, United States |  | 2026-11-05 |  |
-| Raymond James | [Financial Advisor Trainee (Frisco, TX)](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Frisco-Texas---United-States/Financial-Advisor-Trainee--Frisco--TX-_R-0013734) | Frisco, Texas - United States |  | 2026-11-05 |  |
 | Raymond James | [AMP Financial Advisor Trainee - Newtown, PA](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Newtown-Pennsylvania---United-States/AMP-Financial-Advisor-Trainee---Newtown--PA_R-0013672) | Newtown, Pennsylvania - United States |  | 2026-11-05 |  |
 | RBC | [Analyst/Associate, Debt Capital Markets](https://jobs.rbc.com/ca/en/job/R-0000191995) | New York, New York, United States of America | $110,000 to $175,000 | 2026-11-05 |  |
 | Regions Financial | [Relationship Banker I - Dunedin](https://careers.regions.com/us/en/job/R107423) | Dunedin, Florida, United States of America | $39,601.10 to $46,880 | 2026-11-05 |  |
@@ -698,12 +715,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TD Bank | [Associate Banker II - Newark/Springfield (40 hour)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Newark-New-Jersey/Associate-Banker-II---Newark-Springfield--40-hour-_R_1520534) | Newark, New Jersey | $23.75 to $31/hour | 2026-11-05 |  |
 | TD Bank | [Relationship Banker I - Clark (40 hour)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Clark-New-Jersey/Relationship-Banker-I---Clark---40-hour-_R_1520503) | Clark, New Jersey | $24.25 to $32.50/hour | 2026-11-05 |  |
 | TD Bank | [Associate Banker II- Clark (30 hour)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Clark-New-Jersey/Associate-Banker-II--Clark--30-hour-_R_1520510) | Clark, New Jersey | $23.75 to $31/hour | 2026-11-05 |  |
-| U.S. Bank | [Portfolio Monitoring Analyst](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Portfolio-Monitoring-Analyst_2026-0034350) | Minneapolis, MN | $27.50 to $36.68/hour | 2026-11-05 |  |
 | UnitedHealth Group | [Insurance Verifier- Business Office - Kelsey Seybold - Pearland TX](https://careers.unitedhealthgroup.com/job/pearland/insurance-verifier-business-office-kelsey-seybold-pearland-tx/34088/102870454736) | Pearland, Texas | $18 to $32/hour | 2026-11-05 |  |
 | Unum | [Financial Services Representative: Trainee](https://unum.wd1.myworkdayjobs.com/External/job/Portland-Maine-USA/Financial-Services-Representative--Trainee_836676) | Portland, Maine, USA | $36,000 to $68,000 | 2026-11-05 |  |
 | USAA | [Customer Service Claims Representative](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Customer-Service-Claims-Representative_R0122318) | San Antonio Home Office I | $43,750 to $45,750 | 2026-11-05 |  |
-| Wells Fargo | [Commercial Loan Servicing Representative](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MINNEAPOLIS-MN/Commercial-Loan-Servicing-Representative_R-583185) | MINNEAPOLIS, MN |  | 2026-11-05 | no visa sponsorship |
-| Wells Fargo | [Commercial Loan Servicing Representative](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MINNEAPOLIS-MN/Commercial-Loan-Servicing-Representative_R-583181) | MINNEAPOLIS, MN |  | 2026-11-05 | no visa sponsorship |
 | Advanced Agrilytics | [Residual Fertility Valuation - Project Coordinator](https://jobs.lever.co/advancedagrilytics/be563a6f-e61c-4a80-a52b-215663d34216) | Indianapolis, IN |  | 2026-11-05 |  |
 | Elyon International | [Mortage Loan Processor-Hybrid](https://elyoninternational.bamboohr.com/careers/1094) | Portland, Oregon, United States (hybrid) |  | 2026-11-05 |  |
 | FNS Customs Brokers, Inc. | [Billing & Settlement Specialist I](https://job-boards.greenhouse.io/chb/jobs/4726215006) | Carson, CA | $58,000 to $65,000 | 2026-11-05 |  |
@@ -742,17 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rycon Construction | [JR164 Accounts Receivable Junior Accountant](https://rycon.bamboohr.com/careers/870) | Pittsburgh, Pennsylvania, United States |  | 2026-11-05 |  |
 | Banner Bank | [Commercial Loan Specialist (Hybrid)](https://jobs.lever.co/bannerbank/8cf34762-5d9c-410d-8f78-be5bc409bfe5) | San Diego, California (hybrid) | $27.09 to $31.87/hour | 2026-11-05 |  |
 | BDG | [Account Executive, Finance](https://jobs.lever.co/BDG/fa48804a-fb66-4257-ac17-64992a3134f6) | New York, NY |  | 2026-11-05 |  |
-| SEEL | [Accounts Payable Clerk](https://seelllc.bamboohr.com/careers/450) | Detroit, Michigan, United States | $21/hour | 2026-11-05 |  |
-| Keish Environmental | [Junior Document Controller](https://keishenv.bamboohr.com/careers/93) | Sacramento, California, United States (hybrid) |  | 2026-11-05 | no visa sponsorship |
-| CIM Group, LP | [Coordinator, Development Financial Services](https://jobs.lever.co/cimgroup/4b14076f-71b8-4274-a2e1-77cbf7c09497) | Los Angeles, CA | $26.44 to $31.25/hour | 2026-11-05 |  |
-| Pathward, Career Fairs | [Capital Markets Analyst – Loan Trading](https://job-boards.greenhouse.io/pathwardcareerfair/jobs/6186924004) | Remote, USA | $60,000 to $100,500 | 2026-11-05 |  |
-| Pathward, Career Fairs | [Capital Markets Analyst – Warehouse Finance](https://job-boards.greenhouse.io/pathwardcareerfair/jobs/6186967004) | Remote, USA | $60,000 to $100,500 | 2026-11-05 |  |
-| Wintermute Trading | [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0) | New York | $210,000 to $240,000 | 2026-11-05 |  |
-| EPR Properties | [Property Accountant](https://eprproperties.bamboohr.com/careers/43) | Kansas City, Missouri, United States |  | 2026-11-05 |  |
-| Wintermute Trading | [Prediction Markets Trader](https://jobs.lever.co/wintermute-trading/76cca257-0961-4aa7-b234-eeb777196399) | New York | $210,000 to $240,000 | 2026-11-05 |  |
-| Auw | [Staff Accountant, Accounting Development Program (June 2027 start)](https://jobs.lever.co/auw/f3f014bd-997c-41e5-99d2-4eb7d51567c7) | Omaha, NE |  | 2026-11-05 |  |
-| J.S. Held LLC | [Consultant, Economic Damages & Valuations - Summer 2027 (New Grad)](https://jobs.smartrecruiters.com/JSHeldLLC/744000145775910-consultant-economic-damages-valuations-summer-2027-new-grad-) · Summer 2027 | San Francisco, CA, us | $90,000 to $110,000 | 2026-11-05 |  |
-| Parnall Law | [Billing Specialist](https://jobs.lever.co/parnalllaw/d6589537-dca2-45b6-b94c-6ef36d2f8315) | Remote |  | 2026-11-05 |  |
-| Accurate Personnel | [Payroll Coordinator](https://accuratetemps.bamboohr.com/careers/1723) | Schaumburg, Illinois, United States | $22 to $24/hour | 2026-11-05 |  |
-| Altus Schools | [Accountant I](https://altusschools.bamboohr.com/careers/53) | San Diego, California, United States |  | 2026-11-05 |  |
-| Aviva Health | [Billing Specialist](https://avivahealth.bamboohr.com/careers/360) | Roseburg, Oregon, United States |  | 2026-11-05 |  |

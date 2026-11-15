@@ -1,11 +1,19 @@
 # New grad and entry level: Mechanical, aerospace and manufacturing
 
-1,618 open, newest first (by the date the scraper first saw them), updated 2026-11-14. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,570 open, newest first (by the date the scraper first saw them), updated 2026-11-15. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Ally Financial | [Mechanical Claims Specialist](https://ally.wd1.myworkdayjobs.com/Ally/job/Schaumburg-IL/Mechanical-Claims-Specialist_R2601215) | Schaumburg, IL | $57,200 to $76,086 | 2026-11-15 |  |
+| Ally Financial | [Mechanical Claims Specialist](https://ally.wd1.myworkdayjobs.com/Ally/job/Schaumburg-IL/Mechanical-Claims-Specialist_R2601327) | Schaumburg, IL | $57,200 to $76,086 | 2026-11-15 |  |
+| Ally Financial | [Mechanical Claims Specialist](https://ally.wd1.myworkdayjobs.com/Ally/job/Schaumburg-IL/Mechanical-Claims-Specialist_R2601326) | Schaumburg, IL | $57,200 to $76,086 | 2026-11-15 |  |
+| Ally Financial | [Mechanical Claims Specialist](https://ally.wd1.myworkdayjobs.com/Ally/job/Schaumburg-IL/Mechanical-Claims-Specialist_R2601328-1) | Schaumburg, IL | $57,200 to $76,086 | 2026-11-15 |  |
+| Micron | [New College Grad - Design Engineer](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Design-Engineer_JR117605) | San Jose, CA | $86,000 to $173,000 | 2026-11-15 |  |
+| Rockwell Automation | [Mechanical Design Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Mechanical-Design-Engineer_R26-8610-1) | Chelmsford, Massachusetts, United States | $69,600 to $104,400 | 2026-11-15 | no visa sponsorship |
+| Bell Brothers | [HVAC Maintenance Trainee](https://job-boards.greenhouse.io/bellbros/jobs/5478135008) | Sacramento, CA | $50,000 to $80,000 | 2026-11-15 |  |
+| Fluor | [Infrastructure Construction Engineer- New Grad](https://careers.fluor.com/careers/job/1099556827326) | Austin, US-TX, United States | $53,500 to $99,500 | 2026-11-15 |  |
 | Mount Family Group, LTD | [Mechanical Assembler - Peabody, MA](https://westaff2.bamboohr.com/careers/2481) | Lowell, Massachusetts, United States |  | 2026-11-14 |  |
 | Accenture | [Custom Quality Engineer Autiomation and Functional tester Price 6591935](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/AR---Bentonville/Custom-Quality-Engineer-Autiomation-and-Functional-tester-Price-6591935_14905487) | AR - Bentonville | $40 to $45/hour | 2026-11-14 |  |
 | Advanced Technology Services | [Reliability Engineer](https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4727989006) | United States- Glendale Heights, Illinois |  | 2026-11-14 |  |
@@ -50,7 +58,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Entegris | [Engineer I, Manufacturing Engineer](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/San-Luis-Obispo-CA/Engineer-I--Manufacturing-Engineer_REQ-13851) | San Luis Obispo, CA |  | 2026-11-13 |  |
 | Eurofins | [2nd shift Mechanical Maintenance Specialist](https://jobs.smartrecruiters.com/Eurofins/744000161378355-2nd-shift-mechanical-maintenance-specialist) | Lancaster, PA, us |  | 2026-11-13 |  |
 | Ford | [Quality Engineer, Ford Energy](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74272) | Glendale, KY, United States | $74,300 to $166,200 | 2026-11-13 | no visa sponsorship |
-| GlobalFoundries | [Principal Packaging Design Integration Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Principal-Packaging-Design-Integration-Engineer--2027-New-College-Graduate-_JR-2602837) | USA - New York - Malta | $85,000 to $146,000 | 2026-11-13 |  |
 | Honda | [Supplier Quality Engineer- 2nd Shift](https://careers.honda.com/us/en/job/12272) | Greensburg, Indiana, United States |  | 2026-11-13 |  |
 | Honda | [Hybrid Powertrain Design Engineer](https://careers.honda.com/us/en/job/13332) | Raymond, Ohio, United States (hybrid) |  | 2026-11-13 |  |
 | Honda | [Mechanical Development Engineer](https://careers.honda.com/us/en/job/13386) | Raymond, Ohio, United States |  | 2026-11-13 |  |
@@ -74,11 +81,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633432) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633433) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633434) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633436) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633437) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633438) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633439) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633440) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633443) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633444) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633445) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
@@ -115,25 +118,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633498) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633499) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633501) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633502) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633503) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633504) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633505) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633507) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633508) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633510) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633513) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633514) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633515) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633516) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633519) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633520) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633528) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633530) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633532) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633533) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633534) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
-| Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633535) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633536) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633537) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633538) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
@@ -204,7 +188,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Legend Biotech US | [Procurement Operations Specialist, Pipeline (Contractor)](https://job-boards.greenhouse.io/legendcareers/jobs/4752923005) | Somerset, New Jersey, United States |  | 2026-11-11 |  |
 | LotusWorks | [Junior Mechanical Field Engineer](https://job-boards.eu.greenhouse.io/lotusworks/jobs/5032630101) | New Albany, Ohio, United States |  | 2026-11-11 |  |
 | LotusWorks | [Junior Welding Inspector](https://job-boards.eu.greenhouse.io/lotusworks/jobs/5029168101) | New Albany, Ohio, United States |  | 2026-11-11 |  |
-| Medtronic | [Systems Engineer I](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Systems-Engineer-I_R81599-1) | Mounds View, Minnesota, United States of America | $72,000 to $108,000 | 2026-11-11 |  |
 | Memorial Hermann | [Materials Management Attendant II - Medical Supply Chain](https://jobs.memorialhermann.org/us/en/job/100188911) | Sugar Land, Texas, United States of America |  | 2026-11-11 |  |
 | MKS Instruments | [Associate Manufacturing Engineer](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Broomfield-CO/Associate-Manufacturing-Engineer_R23451) | Broomfield, CO | $62,000 to $75,000 | 2026-11-11 | no visa sponsorship, US citizens/persons only |
 | NBCUniversal | [Associate Design Engineer](https://jobs.smartrecruiters.com/NBCUniversal3/744000160955954-associate-design-engineer) | New York, NEW YORK, us | $120,000 to $165,000 | 2026-11-11 |  |
@@ -290,7 +273,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kronospan | [Thermally Fused Laminate Operator Trainee](https://jobs.smartrecruiters.com/Kronospan/744000160298560-thermally-fused-laminate-operator-trainee) | Anniston, Alabama, us |  | 2026-11-07 |  |
 | LGC Group | [Oligo Manufacturing Technician I/II/III](https://jobs.smartrecruiters.com/LGCGroup/744000160288599-oligo-manufacturing-technician-i-ii-iii) | Petaluma, CA, us | $20.91 to $34.85/hour | 2026-11-07 |  |
 | McAdams | [SUE CAD Technician](https://job-boards.greenhouse.io/mcadams/jobs/5287467007) | Durham, North Carolina, United States |  | 2026-11-07 |  |
-| Medtronic | [Manufacturing Engineer I](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Humacao-Puerto-Rico-United-States-of-America/Manufacturing-Engineer-I_R81582-1) | Humacao, Puerto Rico, United States of America |  | 2026-11-07 |  |
 | Memorial Hermann | [Materials Management Attendant - Days](https://jobs.memorialhermann.org/us/en/job/100187353) | Katy, Texas, United States of America |  | 2026-11-07 |  |
 | Relativity Space | [Vehicle Structures Engineer I (Heat Shield)](https://boards.greenhouse.io/relativity/jobs/8880106002?gh_jid=8880106002) | Long Beach, California, United States | $90,000 to $136,000 | 2026-11-07 |  |
 | RR Donnelley | [Shipping & Receiving 1](https://jobs.smartrecruiters.com/RRDonnelley/744000160279199-shipping-receiving-1) | Sacramento, CA, us | $17.40 to $19/hour | 2026-11-07 |  |
@@ -333,7 +315,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kairos Power | [Materials Handler](https://job-boards.greenhouse.io/kairospower/jobs/6225009004) | Oak Ridge TN |  | 2026-11-06 |  |
 | NASA JPL | [Power Systems Engineer I (345A)](https://www.jpl.jobs/us/en/job/R6249) | Pasadena, California, United States of America | $99,112 to $118,560 | 2026-11-06 |  |
 | RA Holdings Group | [Industrial Mechanical Insulator](https://raholdings.bamboohr.com/careers/145) | Virginia Beach, Virginia, United States |  | 2026-11-06 |  |
-| Salesforce | [Systems Engineering Associate, Early Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Systems-Engineering-Associate--Early-Talent_JR367534-2) | Texas - Dallas (hybrid) |  | 2026-11-06 |  |
 | Sierra Space | [Mechanical Engineer I](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Mechanical-Engineer-I_R26480) | Centennial, CO | $77,234 to $106,196.75 | 2026-11-06 |  |
 | Singular Genomics | [Manufacturing Specialist 1 - Reagents](https://job-boards.greenhouse.io/singulargenomics/jobs/8045277003) | San Diego - Mesa Rim Office | $20 to $24.47/hour | 2026-11-06 |  |
 | SpaceX | [Mechanical Engineer, Electro-Mechanical (Starlink)](https://boards.greenhouse.io/spacex/jobs/8920975002?gh_jid=8920975002) | Redmond, WA | $100,000 to $165,000 | 2026-11-06 | US citizens/persons only |
@@ -368,7 +349,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | American AC Heat & Plumbing | [ENTRY LEVEL HVAC TECHNICIAN](https://american-air-conditioning-heating.breezy.hr/p/8c39b910ca06-entry-level-hvac-technician) | Van Nuys, CA | $22/hour | 2026-11-05 |  |
 | American AC Heat & Plumbing | [ENTRY LEVEL HVAC TECHNICIAN](https://american-air-conditioning-heating.breezy.hr/p/0949c03217e3-entry-level-hvac-technician) | Hawthorne, CA | $22/hour | 2026-11-05 |  |
 | Amgen | [Manufacturing Process Tech-Manufacturing Services Nights (D Shift)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Rhode-Island---West-Greenwich/Manufacturing-Process-Tech-Manufacturing-Services-Nights--D-Shift-_R-260530-1) | US - Rhode Island - West Greenwich |  | 2026-11-05 |  |
-| Applied Materials | [Mechanical Engineer I New College Grad - Bachelor's (Austin, TX)](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Mechanical-Engineer-I-New-College-Grad---Bachelor-s--Austin--TX-_R2632478) | Austin,TX | $70,000 to $95,500 | 2026-11-05 |  |
 | Beehive Industries, LLC | [Manufacturing Technician](https://ats.rippling.com/beehive-industries/jobs/7bd67f4f-cea2-4249-8983-ee57f98687b4) | Blue Ash, OH |  | 2026-11-05 | US citizens/persons only |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8353199) | Oklahoma City, OK | $15/hour | 2026-11-05 | no visa sponsorship |
 | Carvana | [Entry Level Automotive Parts Associate](https://www.carvana.com/careers/apply?gh_jid=8353190) | Houston, TX | $16 to $17/hour | 2026-11-05 | no visa sponsorship |
@@ -517,12 +497,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Honda | [HVAC Mechanical Design Engineer](https://careers.honda.com/us/en/job/13175) | Raymond, Ohio, United States |  | 2026-11-04 |  |
 | Ingram Content Group | [Maintenance Tech I - Manufacturing, Night Shift $30.25](https://jobs.smartrecruiters.com/IngramContentGroup1/744000159477459-maintenance-tech-i-manufacturing-night-shift-30-25) | Chambersburg, PA, us | $30/hour | 2026-11-04 |  |
 | John Deere | [Indirect Materials & Services Planner](https://careers.deere.com/careers/job/137484269819) | Moline, IL, US; Waterloo, IA, US; Horicon, WI, US |  | 2026-11-04 | no visa sponsorship |
-| Johnson & Johnson | [CAR-T Aseptic Manufacturing Operator](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/CAR-T-Aseptic-Manufacturing-Operator_R-107936-1) | Raritan, New Jersey, United States of America | $55,935 to $89,815 | 2026-11-04 |  |
 | Keenfinity | [Product Launch Engineer I](https://jobs.smartrecruiters.com/Keenfinity/744000159384202-product-launch-engineer-i) | Fairport, NY, us | $80,000 to $88,000 | 2026-11-04 | no visa sponsorship |
 | Kiewit | [Quality Control Inspector-Idaho Falls, ID-Kiewit Nuclear Solutions](https://kiewitcareers.kiewit.com/job/Idaho-Falls-Quality-Control-Inspector-Idaho-Falls%2C-ID-Kiewit-Nuclear-Solutions-ID/1447290100/) | Idaho Falls, ID, US |  | 2026-11-04 |  |
 | KLA | [Electro-Mechanical Assembler 2 - 1st Shift](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Electro-Mechanical-Assembler-2---1st-Shift_2640676-1) | Totowa, NJ | $16.93 to $28.75/hour | 2026-11-04 |  |
 | KLA | [Electro-Mechanical Assembler 2 - 2nd Shift](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Electro-Mechanical-Assembler-2---2nd-Shift_2638531-1) | Totowa, NJ | $16.93 to $28.75/hour | 2026-11-04 |  |
-| Medtronic | [Quality Engineer I (CAS), Rice Creek, MN](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Quality-Engineer-I---CAS---Rice-Creek--MN_R80934-1) | Minneapolis, Minnesota, United States of America | $66,400 to $99,600 | 2026-11-04 |  |
 | Oetiker | [Manufacturing Associate - 2nd Shift (Evenings)](https://jobs.smartrecruiters.com/Oetiker/744000159423200-manufacturing-associate-2nd-shift-evenings-) | Lancaster, New York, us | $38,000 to $42,000 | 2026-11-04 |  |
 | Oetiker | [Manufacturing Associate (2nd Shift - Evenings)](https://jobs.smartrecruiters.com/Oetiker/744000159422820-manufacturing-associate-2nd-shift-evenings-) | 1 Mill St, Batavia, New York, us | $38,000 to $42,000 | 2026-11-04 |  |
 | Polygon US | [Operations Technician I (HVAC)](https://job-boards.greenhouse.io/polygonus/jobs/5283122007) | Boise, Idaho, United States | $28 to $30/hour | 2026-11-04 |  |
@@ -555,7 +533,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Verista, Inc. | [6590 - CQV Engineer - Change Control](https://job-boards.greenhouse.io/veristainc/jobs/5463351008) | Indianapolis, IN | $69,300 to $102,623 | 2026-11-04 |  |
 | Xcite Automotive | [Automotive Jr Detailer](https://xciteauto.breezy.hr/p/e216f8894098-automotive-jr-detailer) | Hardeeville, SC |  | 2026-11-04 |  |
 | Xcite Automotive | [Automotive Junior Detailer](https://xciteauto.breezy.hr/p/e177a9ad5d9c-automotive-junior-detailer) | Orange Park, FL |  | 2026-11-04 |  |
-| Fluor | [Infrastructure Construction Engineering Specialist - New Grad](https://careers.fluor.com/careers/job/1099556731612) | Dallas, US-TX, United States | $53,500 to $99,500 | 2026-11-04 |  |
 | Neros Technologies | [Mechanical Engineer](https://job-boards.greenhouse.io/nerostechnologies/jobs/5274007007) | Torrance, California, United States | $100,000 to $160,000 | 2026-11-04 |  |
 | Olsson | [Telecom CAD Designer](https://job-boards.greenhouse.io/olsson/jobs/5462223008) | Lincoln, NE |  | 2026-11-04 |  |
 | Olsson | [Telecom CAD Designer](https://job-boards.greenhouse.io/olsson/jobs/5462164008) | Overland Park, KS |  | 2026-11-04 |  |
@@ -577,10 +554,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Mural Group | [Manufacturing Quality Engineer](https://jobs.ashbyhq.com/themuralgroup/a6a1c80b-094d-4341-8622-af6d61016b3a) | Western Kentucky |  | 2026-11-04 |  |
 | North Wind Group | [Structural Design Engineer 04271 LBYD](https://north-wind-group.breezy.hr/p/86418fbecf6b-structural-design-engineer-04271-lbyd) | BIRMINGHAM, AL |  | 2026-11-04 | clearance |
 | Hankook Tire | [Entry Level Manufacturing Engineer](https://careers-hankooktire.breezy.hr/p/6f829b7570fb-entry-level-manufacturing-engineer) | Clarksville, TN |  | 2026-11-04 |  |
-| Shield AI | [Engineer I, Mechanical (R6302) - New Grad](https://jobs.lever.co/shieldai/a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a) | Seattle, Washington |  | 2026-11-04 | clearance |
 | Bradshaw Home | [Junior Product Design Engineer](https://bradshaw-home.breezy.hr/p/3103b46bd5a2-junior-product-design-engineer) | Tampa, FL | $68,000 to $75,000 | 2026-11-04 |  |
 | Saronic Technologies | [Associate IT Systems Engineer](https://jobs.ashbyhq.com/saronic/846faa91-763f-4c16-aec5-2cd48830d3ff) | Austin, TX |  | 2026-11-04 | US citizens/persons only |
-| Shield AI | [EWIS Harness Design - Engineer I - New Grad](https://jobs.lever.co/shieldai/8436804b-9460-4a14-9062-b45d4583a00a) | Seattle, Washington |  | 2026-11-04 | clearance |
 | Valinor Enterprises, Inc. | [Junior Mechanical Engineer](https://jobs.ashbyhq.com/valinor/68e88f2e-0e31-4e74-8e79-9ee25b3e787b) | Washington, D.C. |  | 2026-11-04 | clearance |
 | VulcanForms | [Associate NPI Manufacturing Equipment Development Engineer](https://ats.rippling.com/vulcanforms/jobs/a147a3bd-b089-4cb3-819f-2034558e1002) | Devens, MA | $95,000 | 2026-11-04 |  |
 | Skydio | [Product Design Engineer (Early Career)](https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1) | San Mateo, California, United States | $132,000 to $175,000 | 2026-11-04 |  |
@@ -611,7 +586,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Sonic Automotive | [Dealership Automotive Salesperson - Lute Riley Honda](https://jobs.smartrecruiters.com/SonicAutomotive/744000153764156-dealership-automotive-salesperson-lute-riley-honda) | Richardson, TEXAS, us |  | 2026-11-04 |  |
 | CaptiveAire | [Commercial HVAC Service Technician](https://www.captiveaire.com/Careers/Opening.asp?id=8868029002&gh_jid=8868029002) | Savannah, GA |  | 2026-11-04 |  |
 | Forge Biologics | [Analyst I, QC Raw Materials](https://boards.greenhouse.io/forgebiologics/jobs/6212108004?gh_jid=6212108004) | Columbus, Ohio |  | 2026-11-04 |  |
-| Shield AI | [Associate Engineer, Manufacturing](https://jobs.lever.co/shieldai/ec31b849-7235-4d07-b46e-6fd89c85073d) | Seattle, Washington |  | 2026-11-04 |  |
 | Triumph Arcade | [Junior Mechanical Engineer](https://jobs.ashbyhq.com/triumph-arcade/bb9b85a2-d184-430f-9d58-44b36b86d22c) | United States / East Bay |  | 2026-11-04 |  |
 | Wabtec | [Remanufacturing Technician 2nd shift](https://jobs.smartrecruiters.com/Wabtec/3743990015888239-remanufacturing-technician-2nd-shift) | Kansas City, MO, us | $28.33/hour | 2026-11-04 | no visa sponsorship |
 | Loenbro | [Estimator I Mechanical/Structural](https://job-boards.greenhouse.io/loenbro/jobs/4432520009) | Westminster, CO | $90,000 to $105,000 | 2026-11-04 |  |
@@ -756,3 +730,29 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | INSTALILY.AI | [Design Engineer](https://job-boards.greenhouse.io/instalilyai/jobs/4271810009) | New York, New York, United States | $100,000 to $120,000 | 2026-11-04 |  |
 | Anduril Industries | [2027 Early Career Mechanical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) | Atlanta, Georgia, United States; Boston, Massachusetts, United States; | $86,000 to $114,000 | 2026-11-04 | US citizens/persons only |
 | Bell Cabinetry | [Cabinet Engineer/CAD Engineer](https://job-boards.greenhouse.io/bellcabinetry/jobs/5253692008) | 2705 Ronald Reagan Blvd. Ste. #100, Cumming, GA, 30041 |  | 2026-11-04 |  |
+| ProSkill | [Early Career- HVAC & Plumbing](https://job-boards.greenhouse.io/proskill/jobs/4606660008) | Anthem, AZ |  | 2026-11-04 |  |
+| JND | [[Entry Level] Korean Bilingual Quality Engineer 1 - Product Liability & Failure Analysis (17518-1)](https://jnd-inc.breezy.hr/p/e7e84c3c8104-entry-level-korean-bilingual-quality-engineer-1-product-liability-failure-analysis-17518-1) | United States |  | 2026-11-04 |  |
+| Aalo Atomics | [Manufacturing Engineer](https://ats.rippling.com/aalo-atomics/jobs/4863b7b1-39fc-47fe-94b0-6a5a9de5cfec) | Austin, TX |  | 2026-11-04 |  |
+| Clera | [Founding Engineer: Agent Infrastructure](https://jobs.ashbyhq.com/Clera/9843b97e-dee1-4c09-b5e0-84654085aa48) | San Francisco |  | 2026-11-04 |  |
+| Fortastra Corporation | [Guidance, Navigation, and Control (GN&C) Engineer](https://job-boards.greenhouse.io/fortastracorporation/jobs/4273369009) | Torrance, CA | $180,000 to $280,000 | 2026-11-04 | clearance |
+| Fix-It 24/7 | [HVAC Service Technician](https://job-boards.greenhouse.io/fix-it24-7/jobs/4266471009) | 3060 Delta Dr, Colorado Springs, Colorado 80910 | $80,000 to $250,000 | 2026-11-04 |  |
+| Albers Aerospace | [Systems Engineer onsite OKC](https://ats.rippling.com/albers-aersopace/jobs/2ab75492-5493-4f01-97a7-e0ee0bad88fb) | Oklahoma City, OK |  | 2026-11-04 | US citizens/persons only, clearance |
+| RR Donnelley | [Picker/Packer 2 2nd Shift](https://jobs.smartrecruiters.com/RRDonnelley/744000127060545-picker-packer-2-2nd-shift) | Cudahy, WI, us | $16 to $17/hour | 2026-11-04 |  |
+| Anduril Industries | [2027 Early Career Manufacturing Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) | Atlanta, Georgia, United States; Boston, Massachusetts, United States; | $86,000 to $114,000 | 2026-11-04 | US citizens/persons only |
+| Carnegie Robotics | [Mechanical Engineer I](https://carnegie-robotics.breezy.hr/p/97eac3d2150c-mechanical-engineer-i) | Pittsburgh, PA |  | 2026-11-04 | no visa sponsorship |
+| The Boring Company | [Tunnel Design Engineer](https://jobs.gem.com/the-boring-company/am9icG9zdDpCfAbWObmXO9L7iWnTyraS) | Las Vegas, NV, Nashville, TN |  | 2026-11-04 |  |
+| LG Electronics | [Production Engineer Associate](https://job-boards.greenhouse.io/lgelectronics/jobs/5201491008) | Clarksville, TN |  | 2026-11-04 |  |
+| AVTECH Global | [Aerospace/Aircraft Painter](https://aviation-technology-associates-llc.breezy.hr/p/782363fb9030-aerospace-aircraft-painter) | Savannah, GA | $25.66 to $32.19/hour | 2026-11-04 |  |
+| The Boring Company | [Field Mechanical Engineer](https://jobs.gem.com/the-boring-company/am9icG9zdDqNnDlV2dw0MRNMHiQTkTHB) | Las Vegas, NV |  | 2026-11-04 |  |
+| Amca | [Mechanical Build Engineer](https://job-boards.greenhouse.io/amca/jobs/4227276009) | El Segundo, CA | $100,000 to $130,000 | 2026-11-04 | US citizens/persons only |
+| SALT Service Co. | [HVAC Maintenance Technician](https://salt-home-services.breezy.hr/p/4f42be61038d-hvac-maintenance-technician) | Hutto, TX |  | 2026-11-04 |  |
+| Hermeus | [Build Engineer - Propulsion](https://jobs.lever.co/hermeus/d0a4d7af-5325-4bd5-9a07-a74d286ded52) | Los Angeles, CA |  | 2026-11-04 | US citizens/persons only |
+| Devils Lake Cars | [Vehicle Maintenance Technician](https://devilslakecars.bamboohr.com/careers/23) | Devils Lake, North Dakota, United States |  | 2026-11-04 |  |
+| HIKINEX | [Vehicle Operator Data](https://recruiting.breezy.hr/p/872b0513d23c-vehicle-operator-data) | San Francisco, CA |  | 2026-11-04 |  |
+| Amca | [Mechanical Design Engineer](https://job-boards.greenhouse.io/amca/jobs/4221761009) | El Segundo, CA | $100,000 to $130,000 | 2026-11-04 | US citizens/persons only |
+| The Wonderful Company | [Manufacturing Engineer](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000119251962-manufacturing-engineer) | Bend, OR, us |  | 2026-11-04 |  |
+| Senra Systems | [Production Engineer](https://job-boards.greenhouse.io/senrasystems/jobs/5173560008) | Cypress, California, United States | $75,000 to $85,000 | 2026-11-04 | US citizens/persons only |
+| ASM | [Senior Engineer I, Mechanical Engineering - Early Career (Fall 2026)](https://www.asm.com/open-vacancies/?gh_jid=4812519101) · Fall 2026 | US > Arizona > Phoenix |  | 2026-11-04 |  |
+| CaptiveAire | [Quality Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8477008002&gh_jid=8477008002) | Groveland, FL |  | 2026-11-04 |  |
+| Galvion LTD | [Manufacturing Operator (Contractor)](https://galvion.bamboohr.com/careers/210) | Portsmouth, New Hampshire, United States |  | 2026-11-04 |  |
+| LG Energy Solution Arizona | [Engineer I, Facilities](https://job-boards.greenhouse.io/lgenergyaz/jobs/5158264008) | Queen Creek, Arizona |  | 2026-11-04 |  |

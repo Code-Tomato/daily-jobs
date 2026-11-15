@@ -1,28 +1,32 @@
 # New grad and entry level: Data, ML and AI
 
-1,607 open, newest first (by the date the scraper first saw them), updated 2026-11-14. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,591 open, newest first (by the date the scraper first saw them), updated 2026-11-15. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
-| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203670003&gh_jid=8203670003) | South Carolina US (Remote) |  | 2026-11-14 |  |
-| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203672003&gh_jid=8203672003) | Wisconsin US (Remote) |  | 2026-11-14 |  |
-| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203667003&gh_jid=8203667003) | North Carolina US (Remote) |  | 2026-11-14 |  |
-| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203666003&gh_jid=8203666003) | Montana US (Remote) |  | 2026-11-14 |  |
-| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203665003&gh_jid=8203665003) | Mississippi US (Remote) |  | 2026-11-14 |  |
-| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203664003&gh_jid=8203664003) | Michigan US (Remote) |  | 2026-11-14 |  |
+| NVIDIA | [Deep Learning Framework Communications Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | US, CA, Santa Clara |  | 2026-11-15 |  |
+| Humana | [Financial Analytics Professional](https://careers.humana.com/us/en/job/R-432581) | Remote, Nationwide, United States of America | $66,800 to $91,100 | 2026-11-15 | no visa sponsorship |
+| Intel | [AI Frameworks Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/AI-Frameworks-Engineer_JR0289178) | US, California, Folsom (hybrid) | $133,410 to $240,710 | 2026-11-15 |  |
+| Vanguard | [Junior Investment Data Analyst](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Scottsdale-AZ/Junior-Investment-Data-Analyst_183945-1) | Scottsdale, AZ |  | 2026-11-15 | no visa sponsorship |
 | ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203663003&gh_jid=8203663003) | Louisiana US (Remote) |  | 2026-11-14 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203671003&gh_jid=8203671003) | Virginia US (Remote) |  | 2026-11-14 |  |
 | ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203662003&gh_jid=8203662003) | Kentucky US (Remote) |  | 2026-11-14 |  |
 | ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203661003&gh_jid=8203661003) | Kansas US (Remote) |  | 2026-11-14 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203666003&gh_jid=8203666003) | Montana US (Remote) |  | 2026-11-14 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203668003&gh_jid=8203668003) | North Dakota US (Remote) |  | 2026-11-14 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203672003&gh_jid=8203672003) | Wisconsin US (Remote) |  | 2026-11-14 |  |
 | ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203660003&gh_jid=8203660003) | Iowa US (Remote) |  | 2026-11-14 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203670003&gh_jid=8203670003) | South Carolina US (Remote) |  | 2026-11-14 |  |
 | ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203659003&gh_jid=8203659003) | Indiana US (Remote) |  | 2026-11-14 |  |
 | ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203658003&gh_jid=8203658003) | Florida US (Remote) |  | 2026-11-14 |  |
-| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203671003&gh_jid=8203671003) | Virginia US (Remote) |  | 2026-11-14 |  |
 | ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203657003&gh_jid=8203657003) | Arkansas US (Remote) |  | 2026-11-14 |  |
 | ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203656003&gh_jid=8203656003) | Alabama US (Remote) |  | 2026-11-14 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203664003&gh_jid=8203664003) | Michigan US (Remote) |  | 2026-11-14 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203667003&gh_jid=8203667003) | North Carolina US (Remote) |  | 2026-11-14 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203665003&gh_jid=8203665003) | Mississippi US (Remote) |  | 2026-11-14 |  |
 | ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203669003&gh_jid=8203669003) | Oklahoma US (Remote) |  | 2026-11-14 |  |
-| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203668003&gh_jid=8203668003) | North Dakota US (Remote) |  | 2026-11-14 |  |
 | ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203673003&gh_jid=8203673003) | Puerto Rico (Remote) |  | 2026-11-14 |  |
 | Amity Foundation | [Data Clerk - MCSP (Temp)](https://jobs.lever.co/amityfdn/dfeedcfc-e074-4faa-9a0c-2734d7c4e2ef) | 4001 Highway 104, Ione, CA 95640 |  | 2026-11-14 |  |
 | CommonSpirit Health (St. Luke's Health) | [Data Integrity Specialist](https://www.commonspirit.careers/job/centennial/data-integrity-specialist/35300/103266621600) | Centennial, CO |  | 2026-11-14 |  |
@@ -46,7 +50,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Pavago | [Data Entry Specialist](https://apply.workable.com/j/4671A5E351) | United States |  | 2026-11-13 |  |
 | Viasat | [Systems AI&T - Satellite Payload STE Engineer](https://careers.viasat.com/careers-home/jobs/9521) | Tempe, Arizona | $95,000 to $176,500 | 2026-11-13 | US citizens/persons only, clearance |
 | Vurvey Labs, Inc. | [Applied AI Specialist](https://ats.rippling.com/vurvey-labs-inc/jobs/a3f11794-6792-4b44-8fe7-a30d5c538aa5) | Cincinnati, OH |  | 2026-11-13 |  |
-| Centene | [Business Analyst I, Healthcare Analytics](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-LA/Business-Analyst-I--Healthcare-Analytics_1655832) | Remote-LA | $27.02 to $48.55/hour | 2026-11-12 | no visa sponsorship |
 | Experian | [Data Scientist, Fraud Risk Detection](https://jobs.smartrecruiters.com/Experian/744000161186552-data-scientist-fraud-risk-detection) | United States, UNITED STATES, us |  | 2026-11-12 |  |
 | Jobgether | [Data Analyst I Product](https://jobs.lever.co/jobgether/d6293ec5-4e13-4ff0-8f58-6d2b5432d3bb) | US | $81,341 to $112,974 | 2026-11-12 |  |
 | UTHealth Houston | [Epic Business Intelligence Applications Specialist I in Clinical Technology (Remote)](https://careers.uth.tmc.edu/us/en/job/260002G2) | Texas Medical Center-Houston, Texas, United States (remote) |  | 2026-11-12 |  |
@@ -66,6 +69,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Upstart | [Applied Scientist](https://careers.upstart.com/jobs?gh_jid=8360595) | United States / Remote | $141,500 to $196,000 | 2026-11-12 |  |
 | ZS Associates | [Associate Consultant, Scientific Data & AI](https://jobs.zs.com/careers-home/jobs/69590) | Boston, Massachusetts |  | 2026-11-12 | no visa sponsorship |
 | Carvana | [Data Entry Specialist](https://www.carvana.com/careers/apply?gh_jid=8349765) | Lexington, SC | $16/hour | 2026-11-12 | no visa sponsorship |
+| Salesforce | [AI Labs Rotational Fellowship, Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1) | California - San Francisco | $114,400 to $147,000 | 2026-11-11 |  |
 | Google | [Electronics Hardware Lab Generalist, Quantum AI](https://www.google.com/about/careers/applications/jobs/results/137886886671590086) | Goleta, CA, USA | $99,000 to $140,000 | 2026-11-11 |  |
 | Arizona Liver Health | [Research Data Entry/Scheduler (Bilingual)](https://azliver.com/careers-all-open-positions/?gh_jid=5478712008) | Tucson, AZ | $19 to $27/hour | 2026-11-11 |  |
 | Capital One | [Associate Analyst, Capital Markets & Analytics](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Associate-Analyst--Capital-Markets---Analytics_R1005493-2) | McLean, VA (hybrid) |  | 2026-11-11 | no visa sponsorship |
@@ -73,10 +77,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Flowcode | [Applied AI Engineer: Solutions & Infrastructure](https://job-boards.greenhouse.io/flowcode/jobs/4753182005) | New York, NY |  | 2026-11-11 |  |
 | Garmin | [Aviation Data Analyst](https://careers.garmin.com/careers-home/jobs/20451) | Chandler, Arizona |  | 2026-11-11 |  |
 | Intel | [Substrate Packaging Research and Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Substrate-Packaging-Research-and-Development-Engineer_JR0287474) | US, Arizona, Phoenix (hybrid) | $133,800 to $188,890 | 2026-11-11 |  |
-| KLA | [Business Intelligence Analyst](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Business-Intelligence-Analyst_2642995) | Ann Arbor, MI | $70,400 to $119,700 | 2026-11-11 |  |
 | Morningstar | [Structured Finance Analytics, Methodology & AI Solutions, Analyst – New York](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/New-York/Structured-Finance-Analytics--Methodology---AI-Solutions--Analyst---New-York_REQ-058936) | New York (hybrid) | $75,182 to $91,848.66 | 2026-11-11 |  |
 | Norm Ai | [AI-Enabled Paralegal](https://jobs.ashbyhq.com/norm/ed61b593-b9fe-4d53-ac9f-45a605b6887d) | New York City | $100,000 to $120,000 | 2026-11-11 |  |
-| Salesforce | [AI Labs Rotational Fellowship, Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1) | California - San Francisco | $114,400 to $147,000 | 2026-11-11 |  |
 | The Hartford | [Associate Data Scientist, Personal Lines](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Associate-Data-Scientist--Personal-Lines_R2627766) | Charlotte, NC | $81,040 to $121,560 | 2026-11-11 | no visa sponsorship |
 | Usasurveyjob | [Work at Home Data Entry Clerk - Part Time](https://jobs.lever.co/usasurveyjob/21a60de9-072a-49b2-87c7-abd1d7f93abe) | Hayward, California |  | 2026-11-11 |  |
 | Usasurveyjob | [Work at Home Data Entry Clerk - Part Time](https://jobs.lever.co/usasurveyjob/3facbd53-f533-404a-b49c-4423cf1c7297) | Buffalo, New York |  | 2026-11-11 |  |
@@ -123,7 +125,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Wise | [Graduate Data Scientist](https://jobs.smartrecruiters.com/Wise/744000160933600-graduate-data-scientist) | Austin, us |  | 2026-11-11 | no visa sponsorship |
 | Visterra | [Scientist, Computational Biology](https://visterrainc.bamboohr.com/careers/91) | Waltham, Massachusetts, United States | $135,250 to $168,000 | 2026-11-11 |  |
 | Charter Communications | [Associate Data Scientist](https://jobs.spectrum.com/job/town-of-stamford/associate-data-scientist/4673/99087266512) | Stamford, Connecticut | $73,200 to $117,200 | 2026-11-11 | no visa sponsorship |
-| KLA | [Data Scientist](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Data-Scientist_2642917-1) | Ann Arbor, MI | $90,400 to $153,700 | 2026-11-10 |  |
 | Lattice Semiconductor | [Finance Data Analyst](https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Hillsboro-OR/Finance-Data-Analyst_R-103517) | Hillsboro, OR |  | 2026-11-10 |  |
 | Adobe | [2027 University Graduate - Data Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455) | San Jose | $90,000 to $164,250 | 2026-11-10 |  |
 | AJAIA | [Junior AI Engineer](https://apply.workable.com/j/E67B131489) | New York, New York, United States (remote) |  | 2026-11-10 |  |
@@ -143,24 +144,21 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | UnitedHealth Group | [Advisory Services Consultant, Consultant Development Program - AI/ML Engineering Track - Multiple Locations](https://careers.unitedhealthgroup.com/job/eden-prairie/advisory-services-consultant-consultant-development-program-ai-ml-engineering-track-multiple-locati/34088/103077726784) | Eden Prairie, Minnesota (hybrid) | $72,800 to $130,000 | 2026-11-10 | no visa sponsorship |
 | Integra Beauty | [Conversational AI Specialist (On-Site)](https://jobs.lever.co/integrabeauty/22a42263-be50-4624-b481-11dd1dc1c457) | Groveport, Ohio |  | 2026-11-10 |  |
 | SpaceX | [Data Scientist (Starlink)](https://boards.greenhouse.io/spacex/jobs/8920514002?gh_jid=8920514002) | Redmond, WA | $125,000 to $200,000 | 2026-11-10 | US citizens/persons only |
-| Millennium | [Quantitative Analyst – Quant Analyst Program](https://mlp.eightfold.ai/careers/job/755959471860) | New York, New York, United States of America | $160,000 | 2026-11-10 |  |
 | SpaceX | [Electrical Hardware Engineer, AI Satellites (Starmind)](https://boards.greenhouse.io/spacex/jobs/8930403002?gh_jid=8930403002) | Bastrop, TX |  | 2026-11-09 | US citizens/persons only |
 | SpaceX | [Optical Test Engineer, AI Satellites (Starmind)](https://boards.greenhouse.io/spacex/jobs/8931042002?gh_jid=8931042002) | Bastrop, TX |  | 2026-11-09 | US citizens/persons only |
 | SpaceX | [Power Electronics Engineer, AI Satellites (Starmind)](https://boards.greenhouse.io/spacex/jobs/8931110002?gh_jid=8931110002) | Bastrop, TX |  | 2026-11-09 | US citizens/persons only |
-| U.S. Bank | [Investment Analytics Group Analyst](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Investment-Analytics-Group-Analyst_2026-0033962) | Minneapolis, MN | $75,600 to $92,400 | 2026-11-09 |  |
 | CodersData LLC | [Data Analyst (Entry Level)](https://jobs.smartrecruiters.com/CodersDataLLC/743999709915430-data-analyst-entry-level-) | North Patchogue, NY, us |  | 2026-11-09 |  |
 | John Deere | [Data & Analytics Development Program I](https://careers.deere.com/careers/job/137482523381) | Moline, IL, US |  | 2026-11-08 | no visa sponsorship |
+| Intel | [Microarchitecture and Design Engineer - AI SoC](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Microarchitecture-and-Design-Engineer---AI-SoC_JR0287996) | US, California, Santa Clara (hybrid) | $105,650 to $172,860 | 2026-11-07 |  |
 | Thermo Fisher Scientific | [Associate Research Scientist](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/Associate-Research-Scientist_R-01375204) | Collegeville, Pennsylvania, USA |  | 2026-11-07 | no visa sponsorship |
 | Domino's | [Shift Manager(06748) - 7901 Research Forest Dr., 300](https://jobs.smartrecruiters.com/Dominos/744000160389280-shift-manager-06748-7901-research-forest-dr-300) | The Woodlands, TX, us |  | 2026-11-07 |  |
 | Domino's | [Shift Manager(09274) - 13764 Research Blvd](https://jobs.smartrecruiters.com/Dominos/744000160353889-shift-manager-09274-13764-research-blvd) | Austin, TX, us |  | 2026-11-07 |  |
 | Air Products | [Product Development Research Engineer](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/St-Louis-Missouri/Product-Development-Research-Engineer_JR-2026-23099) | St. Louis, Missouri |  | 2026-11-07 |  |
 | Boston Scientific | [Quality Data Analyst I](https://bostonscientific.eightfold.ai/careers/job/563602813872886) | Arden Hills, MN, US | $59,900 to $113,800 | 2026-11-07 |  |
-| Intel | [Microarchitecture and Design Engineer - AI SoC](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Microarchitecture-and-Design-Engineer---AI-SoC_JR0287996) | US, California, Santa Clara (hybrid) | $105,650 to $172,860 | 2026-11-07 |  |
 | Latent Labs | [Research Scientist](https://jobs.ashbyhq.com/latentlabs/c7f36b7f-23ef-4c67-beca-c6e074f516a2) | San Francisco |  | 2026-11-07 |  |
 | NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | US, MA, Westford |  | 2026-11-07 |  |
 | Point72 | [Quantitative Analyst, Private Credit](https://boards.greenhouse.io/point72/jobs/8917054002?gh_jid=8917054002) | New York, NY | $140,000 to $160,000 | 2026-11-07 |  |
 | Revalize | [AI Enablement Engineer](https://jobs.smartrecruiters.com/Revalize/744000160204504-ai-enablement-engineer) | Remote, REMOTE, us |  | 2026-11-07 |  |
-| Salesforce | [AI Product Associate Analyst, Early Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/AI-Product-Associate-Analyst--Early-Talent_JR367622-2) | Illinois - Chicago | $69,200 to $76,230 | 2026-11-07 |  |
 | SAP | [SAP NS2 AI Consultant Specialist](https://jobs.sap.com/en/jobs/744000160297265/sap-ns2-ai-consultant-specialist/) | Herndon, Virginia, US |  | 2026-11-07 | no visa sponsorship, US citizens/persons only, clearance |
 | T. Rowe Price | [Financial Data Analyst](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Financial-Data-Analyst_84200) | Owings Mills, MD | $59,000 to $94,500 | 2026-11-07 |  |
 | Target | [Data Engineer - Finance AI (PySpark)](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Data-Engineer---Finance-Technology-Solutions_R0000444866) | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | $75,400 to $135,700 | 2026-11-07 |  |
@@ -205,7 +203,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Cardinal Health | [Data & Analytics Early Career Development Program (Embark)](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Early-Career-Development-Program--Embark-_20190569) | OH-Dublin-Cardinal Place |  | 2026-11-06 | no visa sponsorship |
 | ERG | [Early-Career Research Scientist/Engineer- Aerosol & Environmental](https://jobs.lever.co/erg/ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a) | Research Triangle Park (Laboratory), NC |  | 2026-11-06 |  |
 | John Deere | [Data & Analytics Development Program II](https://careers.deere.com/careers/job/137482525937) | Moline, IL, US |  | 2026-11-06 | no visa sponsorship |
-| Medtronic | [Research & Development Engineer I - Onsite](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Research---Development-Engineer-I---Onsite_R81266-1) | Memphis, Tennessee, United States of America | $74,400 to $111,600 | 2026-11-06 |  |
 | Sia | [Generative AI Consultant](https://jobs.smartrecruiters.com/Sia/744000159953609-generative-ai-consultant-) | Charlotte, NC, us | $81,000 to $102,000 | 2026-11-06 |  |
 | SIXT | [Logistics Administrator / Excel, AI & Process Improvement](https://jobs.smartrecruiters.com/SIXT/744000159958029-logistics-administrator-excel-ai-process-improvement) | Tulsa, OK, us |  | 2026-11-06 | no visa sponsorship |
 | Accellor | [Gen AI Engineer](https://jobs.gem.com/accellor/am9icG9zdDoUY28hMlIngfGiciN6eR3X) | San Jose | $90,000 to $130,000 | 2026-11-06 |  |
@@ -709,7 +706,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Spiralyze | [Junior Analytics Specialist](https://spiralyze.pinpointhq.com/en/postings/8b421525-958d-4ace-b46b-53cd43bd0dac) | Tbilisi, Georgia (Remote) |  | 2026-11-05 |  |
 | White Swan Data | [Quantitative Specialist](https://whiteswandata.pinpointhq.com/en/postings/2d85b27e-e368-4b75-91d0-302e2904d31c) | New York, New York |  | 2026-11-05 |  |
 | Vistra | [Data Scientist](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Data-Scientist_40016531-1) | Irving, Texas |  | 2026-11-04 |  |
-| Home Depot | [Data Analyst - Supply Chain](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst---Supply-Chain_Req197256) | STORE SUPPORT CENTER, ATLANTA - 9090 |  | 2026-11-04 |  |
 | PayPal | [Data Scientist](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137881) | San Jose, California, United States of America (hybrid) | $116,500 to $173,250 | 2026-11-04 |  |
 | Rice University | [Research Specialist I](https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6354) | Houston, TX, United States | $42,925 | 2026-11-04 |  |
 | SambaNova | [Machine Learning Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) | Austin, Texas, United States; San Jose, California, United States | $131,200 to $196,800 | 2026-11-04 |  |
@@ -756,3 +752,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Jobs for Humanity | [Temporary - Data Entry Clerk](https://jobs.smartrecruiters.com/JobsForHumanity/744000155357715-temporary-data-entry-clerk) | Phoenix, AZ, us |  | 2026-11-04 |  |
 | Welo Global | [Project Perseus / Speech & Voice AI Analyst - English (UK) Speakers](https://jobs.lever.co/weloglobal/30901371-82fc-47ed-9399-e784ad8cf0fd) | California | $28/hour | 2026-11-04 | no visa sponsorship |
 | Welo Global | [Project Perseus / Speech & Voice AI Analyst - Spanish (Mexico) Speakers](https://jobs.lever.co/weloglobal/8913ad03-6d17-48e7-be8e-4fa1817f0438) | California | $28/hour | 2026-11-04 | no visa sponsorship |
+| Welo Global | [Project Perseus / Speech & Voice AI Analyst - Spanish (Spain) Speakers](https://jobs.lever.co/weloglobal/48b1496f-97ae-40e9-9637-f7829dbafaf4) | California | $28/hour | 2026-11-04 | no visa sponsorship |
+| Bitdeer Technologies Group | [2027 US AI Engineering – New College Graduate](https://bitdeer.breezy.hr/p/826249d5dbdc-2027-us-ai-engineering-new-college-graduate) | San Jose, CA |  | 2026-11-04 |  |
+| Petra Security | [Quantitative Researcher](https://jobs.ashbyhq.com/petra-security/0cdef9cc-124c-4317-9df3-8423dfe33b30) | San Francisco |  | 2026-11-04 |  |
+| Via | [Business Development Associate, AI Labs](https://job-boards.greenhouse.io/via/jobs/8882305002) | New York, New York |  | 2026-11-04 |  |

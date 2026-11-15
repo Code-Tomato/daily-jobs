@@ -1,11 +1,12 @@
 # New grad and entry level: Product, program and project management
 
-292 open, newest first (by the date the scraper first saw them), updated 2026-11-14.
+290 open, newest first (by the date the scraper first saw them), updated 2026-11-15.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Palo Alto Networks | [Associate IT Product Manager](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-IT-Product-Manager_JR-024824) | Office - USA - CA - Headquarters |  | 2026-11-15 | no visa sponsorship |
 | Eurofins | [Program Manager - DiscoveryOne](https://jobs.smartrecruiters.com/Eurofins/744000161522785-program-manager-discoveryone) | Saint Charles, MO, us |  | 2026-11-14 |  |
 | Google | [Technical Program Manager I, Data Center Networking, Cloud Network](https://www.google.com/about/careers/applications/jobs/results/114909851020075718) | Addison, TX, USA / Austin, TX, USA | $116,000 to $165,000 | 2026-11-14 |  |
 | Siemens | [Associate Project Manager - Medium Voltage Switchgear](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521824) | Raleigh - North Carolina - United States of America; Wendell - North C |  | 2026-11-14 | no visa sponsorship |
@@ -32,7 +33,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Honda | [Technical Project Manager (102371)](https://careers.honda.com/us/en/job/13329) | Raymond, Ohio, United States |  | 2026-11-10 |  |
 | JPMorgan Chase | [Project Management Associate I](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807257) | Columbus, OH, United States |  | 2026-11-09 |  |
 | J.C. Cannistraro LLC | [Assistant Project Manager](https://cannistraro.bamboohr.com/careers/679) | Waltham, Massachusetts, United States |  | 2026-11-09 |  |
-| HPE | [Campus Switching Product Manager Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1) | Roseville, California | $108,500 to $218,500 | 2026-11-07 |  |
 | Tint | [Associate Product Manager](https://job-boards.greenhouse.io/tintai/jobs/4751433005) | US - Remote | $93,500 to $125,000 | 2026-11-07 |  |
 | Pacific Health Group | [Enhanced Care Management Program Manager](https://apply.workable.com/j/AE8FFD20CE) | Nevada County, California, United States | $80,000 to $85,000 | 2026-11-07 |  |
 | Terabase Energy | [Associate Project Manager Closure RMA and Warranty](https://apply.workable.com/j/EDCD1DD342) | Berkeley, California, United States |  | 2026-11-07 |  |
@@ -248,18 +248,16 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Project Manager - Advanced Power Generation](https://careers.bv.com/job/Overland-Park-Project-Manager-Advanced-Power-Generation-KS-66062/1286435501/) | Ann Arbor, MI, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Advanced Power Generation](https://careers.bv.com/job/Overland-Park-Project-Manager-Advanced-Power-Generation-KS-66062/1286435701/) | Ann Arbor, MI, US |  | 2026-10-20 |  |
 | Google | [Program Manager I, Data Center Maintenance Planner, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/119448228339819206) | New Albany, OH, USA | $108,000 to $153,000 | 2026-10-20 |  |
-| Palo Alto Networks | [Product Manager, User Identity](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Product-Manager--User-Identity_JR-022860) | Office - USA - CA - Headquarters | $129,200 to $209,000 | 2026-10-20 | no visa sponsorship |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Fayetteville-Project-Manager-WaterWastewater-AR-72701/1438094733/) | Fayetteville, AR, US |  | 2026-10-20 |  |
+| HPE | [Internal Project Manager I](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Internal-Project-Manager-I_1213447) | Bloomington, Minnesota, United States of America | $57,500 to $130,000 | 2026-10-20 |  |
+| HPE | [PLM Program Manager Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/PLM-Program-Manager-Graduate_1213445-1) | Spring, Texas, United States of America | $62,900 to $145,300 | 2026-10-20 |  |
 | Normal Computing | [Product Manager](https://jobs.ashbyhq.com/NormalComputing/acc80301-3574-4cc8-904a-fb66a346ebd4) | New York |  | 2026-10-20 |  |
 | Guidehouse | [Program Management SETA](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Program-Management-SETA_42728) | US - MD, Bethesda | $115,200 to $172,800 | 2026-10-20 | clearance |
 | Honda | [Technical Project Manager](https://careers.honda.com/us/en/job/13027) | Raymond, Ohio, United States |  | 2026-10-20 |  |
 | Invesco | [Associate Product Manager, Equities](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Assoc-Product-Mgr-EM-Equities_R-15536) | New York, New York |  | 2026-10-20 |  |
 | Adobe | [2027 MBA University Graduate - Product Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900) | San Jose | $105,300 to $205,150 | 2026-10-20 |  |
 | Aptiv | [Product Manager ADAS](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Boston-MA---USA/Product-Manager-ADAS_J000703323) | Boston, MA - USA |  | 2026-10-20 |  |
-| HPE | [Internal Project Manager I](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Internal-Project-Manager-I_1213447) | Bloomington, Minnesota, United States of America | $57,500 to $130,000 | 2026-10-20 |  |
-| HPE | [PLM Program Manager Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/PLM-Program-Manager-Graduate_1213445-1) | Spring, Texas, United States of America | $62,900 to $145,300 | 2026-10-20 |  |
 | Marvell | [M&A Project Manager](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/M-A-Project-Manager_2602942) | Santa Clara, CA |  | 2026-10-20 |  |
-| KeyBank | [Product Owner - Teller 21](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Digital-II_R-41440) | Brooklyn, OH | $69,000 to $105,000 | 2026-10-20 |  |
 | SLB | [Project Manager](https://careers.slb.com/jobdescription.aspx?id=WDR00136807) | Midland, United States |  | 2026-10-20 | no visa sponsorship |
 | Formlabs | [Technical Program Manager - Entry Level](https://careers.formlabs.com/job/8249069/apply/?gh_jid=8249069) | Boston, MA | $110,000 to $140,000 | 2026-10-20 |  |
 | SIG | [Technology Project Manager / Market Data](https://careers.sig.com/careers-home/jobs/11213) | Bala Cynwyd (Philadelphia Area), Pennsylvania |  | 2026-10-20 | no visa sponsorship |

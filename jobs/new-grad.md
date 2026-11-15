@@ -1,25 +1,25 @@
 # New grad and entry level
 
-New grad programs, rotational programs and entry-level roles (titled junior, associate, level I, or asking for at most one year of experience), newest first. Updated 2026-11-14: **49,281** open, **5,861** first seen in the last 7 days.
+New grad programs, rotational programs and entry-level roles (titled junior, associate, level I, or asking for at most one year of experience), newest first. Updated 2026-11-15: **49,056** open, **5,887** first seen in the last 7 days.
 
 | Field | Open | New this week |
 |---|---:|---:|
-| [Software engineering](new-grad-software.md) | 1,687 | 180 |
-| [Data, ML and AI](new-grad-data.md) | 1,607 | 144 |
-| [Hardware, chips and embedded](new-grad-hardware.md) | 1,137 | 116 |
-| [Mechanical, aerospace and manufacturing](new-grad-mechanical.md) | 1,618 | 271 |
-| [Civil, construction and environmental](new-grad-civil.md) | 857 | 74 |
-| [Science and research](new-grad-science.md) | 769 | 92 |
-| [Healthcare](new-grad-healthcare.md) | 11,806 | 1,818 |
-| [Finance, accounting and banking](new-grad-finance.md) | 2,557 | 418 |
-| [Product, program and project management](new-grad-product.md) | 292 | 26 |
-| [Business, consulting and operations](new-grad-business.md) | 10,890 | 1,349 |
-| [Sales, marketing and communications](new-grad-sales.md) | 2,562 | 341 |
-| [Design and creative](new-grad-design.md) | 173 | 17 |
-| [HR, legal and policy](new-grad-people.md) | 581 | 58 |
-| [Education](new-grad-education.md) | 362 | 37 |
-| [Skilled trades, service and retail](new-grad-trades.md) | 4,977 | 624 |
-| [Other engineering](new-grad-engineering.md) | 429 | 31 |
-| [Other](new-grad-other.md) | 6,977 | 265 |
+| [Software engineering](new-grad-software.md) | 1,662 | 171 |
+| [Data, ML and AI](new-grad-data.md) | 1,591 | 142 |
+| [Hardware, chips and embedded](new-grad-hardware.md) | 1,103 | 112 |
+| [Mechanical, aerospace and manufacturing](new-grad-mechanical.md) | 1,570 | 250 |
+| [Civil, construction and environmental](new-grad-civil.md) | 854 | 75 |
+| [Science and research](new-grad-science.md) | 770 | 91 |
+| [Healthcare](new-grad-healthcare.md) | 11,814 | 1,832 |
+| [Finance, accounting and banking](new-grad-finance.md) | 2,544 | 442 |
+| [Product, program and project management](new-grad-product.md) | 290 | 27 |
+| [Business, consulting and operations](new-grad-business.md) | 10,816 | 1,349 |
+| [Sales, marketing and communications](new-grad-sales.md) | 2,554 | 344 |
+| [Design and creative](new-grad-design.md) | 172 | 19 |
+| [HR, legal and policy](new-grad-people.md) | 582 | 57 |
+| [Education](new-grad-education.md) | 361 | 37 |
+| [Skilled trades, service and retail](new-grad-trades.md) | 4,978 | 631 |
+| [Other engineering](new-grad-engineering.md) | 423 | 35 |
+| [Other](new-grad-other.md) | 6,972 | 273 |
 
 Back to the [README](../README.md).

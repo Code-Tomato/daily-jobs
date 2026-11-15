@@ -1,11 +1,12 @@
 # Internships and co-ops: Skilled trades, service and retail
 
-617 open, newest first (by the date the scraper first saw them), updated 2026-11-14.
+609 open, newest first (by the date the scraper first saw them), updated 2026-11-15.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/5247---Claremont/Apprentice-Hourly_JR-2026-01479764) | 5247 - Claremont |  | 2026-11-15 |  |
 | California Closets | [Installation Technician - Apprentice](https://jobs.smartrecruiters.com/CaliforniaClosets/744000161542879-installation-technician-apprentice) | Brisbane, CA, us | $30/hour | 2026-11-14 |  |
 | David Zwirner | [Bookstore/Publishing Intern](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295136007) | New York, NY | $17/hour | 2026-11-14 |  |
 | Ericsson | [Networks NPI Intern](https://jobs.ericsson.com/careers/job/563121777071327) | Bellevue, WA, US | $28 to $44/hour | 2026-11-14 | no visa sponsorship |
@@ -79,15 +80,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Landscape Solutions | [Adult Apprentice](https://landscapesolutions.bamboohr.com/careers/561) | Remote |  | 2026-11-09 |  |
 | Landscape Solutions | [Apprentice - Northern Beaches](https://landscapesolutions.bamboohr.com/careers/546) | Remote |  | 2026-11-09 |  |
 | AIR Communities | [Apartment Apprentice Technician - Farrington Midtown](https://jobs.smartrecruiters.com/AIRCommunities/744000160308269-apartment-apprentice-technician-farrington-midtown) | Atlanta, GA, us | $19 to $20/hour | 2026-11-07 |  |
-| Caterpillar | [Paint Apprentice - 2nd shift](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/North-Little-Rock-Arkansas/Paint-Apprentice---2nd-shift_R0000403141) | North Little Rock, Arkansas | $21.75 to $27.30/hour | 2026-11-07 |  |
 | CenterPoint Energy | [LCLIGC Fitter Welder Apprentice 1-4](https://careers.centerpointenergy.com/job/Terre-Haute-LCLIGC-Fitter-Welder-Apprentice-1-4-IN-47807/1448656400/) | Terre Haute, IN, US |  | 2026-11-07 |  |
 | Sonic Automotive | [Apprentice Technician - Audi Nashville](https://jobs.smartrecruiters.com/SonicAutomotive/744000160285229-apprentice-technician-audi-nashville) | Brentwood, TN, us |  | 2026-11-07 |  |
 | Yellowstone Local | [Apprentice Plumber](https://jobs.yellowstonelocal.com/o/apprentice-plumber-25) | Northbrook, IL, US | $20/hour | 2026-11-07 |  |
 | Vertin | [Funeral Director Apprentice](https://apply.workable.com/j/CED8DD914A) | Oostburg, Wisconsin, United States |  | 2026-11-07 |  |
 | Pete's RV Center | [RV Service Technician-Apprentice](https://apply.workable.com/j/F984E0C6B7) | Saco, Maine, United States | $42,000 | 2026-11-07 |  |
 | Reliant Mission | [Mercy Church Apprenticeship](https://reliantinternships.breezy.hr/p/e0a04ac719ed-mercy-church-apprenticeship) | Charlotte, NC |  | 2026-11-06 |  |
-| Bosch | [Apprentice Machinist](https://jobs.smartrecruiters.com/BoschGroup/744000159971724-apprentice-machinist) | Mount Prospect, IL, us | $33 to $38/hour | 2026-11-06 | no visa sponsorship |
-| Caterpillar | [Machinist Apprentice](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Green-Valley-Arizona/Machinist-Apprentice_R0000395414) | Green Valley, Arizona | $18.65 to $27.95/hour | 2026-11-06 | no visa sponsorship |
 | Charles Schwab | [2027 Retail Investor Services Intern](https://www.schwabjobs.com/job/austin/2027-retail-investor-services-intern/33727/102909807392) · Summer 2027 | Austin, Texas |  | 2026-11-06 | no visa sponsorship |
 | East West Hospitality | [Food & Beverage Internship / Viceroy Snowmass](https://ats.rippling.com/east-west-hospitality/jobs/29f4c80d-97aa-4131-9fb0-89c7d87215f0) | Snowmass Village, CO | $15.16/hour | 2026-11-06 |  |
 | O-I | [Maintenance Apprentice (Journeyman)](https://jobs.smartrecruiters.com/O-I/744000159927240-maintenance-apprentice-journeyman-) | Toano, VA, us | $34.54/hour | 2026-11-06 |  |
@@ -115,9 +113,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | JGM | [Shop Apprentice- multiple openings](https://jgmusa.bamboohr.com/careers/336) | Sinking Spring, Pennsylvania, United States | $20 to $150/hour | 2026-11-05 |  |
 | PNE | [Apprentice Electrician](https://pneco.bamboohr.com/careers/382) | Longview, Washington, United States |  | 2026-11-05 |  |
 | Sonic Automotive | [Powersports Apprentice Technician - Team Mancuso Powersports North](https://jobs.smartrecruiters.com/SonicAutomotive/744000159742824-powersports-apprentice-technician-team-mancuso-powersports-north) | Houston, TX, us | $20/hour | 2026-11-05 |  |
-| Caterpillar | [Welder Apprentice - 1st shift](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/North-Little-Rock-Arkansas/Welder-Apprentice---1st-shift_R0000391697) | North Little Rock, Arkansas | $21.75 to $27.30/hour | 2026-11-05 |  |
-| Caterpillar | [Welder Apprentice - 2nd shift](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/North-Little-Rock-Arkansas/Welder-Apprentice---2nd-shift_R0000397124) | North Little Rock, Arkansas | $21.75 to $27.30/hour | 2026-11-05 |  |
-| Caterpillar | [WELDER APPRENTICE - 3RD SHIFT](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/North-Little-Rock-Arkansas/WELDER-APPRENTICE---3RD-SHIFT_R0000403874) | North Little Rock, Arkansas | $21.75 to $27.30/hour | 2026-11-05 |  |
 | Yellowstone Local | [Apprentice Electrician](https://jobs.yellowstonelocal.com/o/apprentice-electrician-237) | Murray, UT, US | $25 to $40/hour | 2026-11-05 |  |
 | EO | [Intern – Morgan McClure Lot Attendant](https://eo.bamboohr.com/careers/191) | Remote |  | 2026-11-05 |  |
 | Seaside Plumbing | [Plumbing Apprentice](https://seasideplumbing.bamboohr.com/careers/302) | Bishopville, Maryland, United States | $18 to $20/hour | 2026-11-05 |  |
@@ -294,8 +289,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Fetch-A-Tech | [Plumbing Install Apprentice](https://job-boards.greenhouse.io/fetchatech/jobs/5411206008) | Las Vegas, NV | $20 to $25/hour | 2026-11-04 |  |
 | Airo Mechanical | [Apprentice](https://ats.rippling.com/airo-mechanical-job-board/jobs/c2be9eb8-3d6f-4ba2-a760-4dabb88af9a2) | Mooresville, NC |  | 2026-11-04 |  |
 | STUDS | [Apprentice Piercer](https://job-boards.greenhouse.io/studsinc/jobs/6166095004) | 6000 Glades Road, Space # 1008A Boca Raton, FL. 33431 | $19 to $24/hour | 2026-11-04 |  |
-| Compeer Financial | [Intern Engineering](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008) | WI-Sun Prairie; IL-Bloomington | $19 to $20/hour | 2026-11-04 | no visa sponsorship |
 | Compeer Financial | [Intern Engineering](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008) | IL-Bloomington; WI-SunPrairie | $19 to $20/hour | 2026-11-04 | no visa sponsorship |
+| Compeer Financial | [Intern Engineering](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008) | WI-Sun Prairie; IL-Bloomington | $19 to $20/hour | 2026-11-04 | no visa sponsorship |
 | Wipliance | [Experienced Low Volt Apprentice](https://wipliance.bamboohr.com/careers/36) | Spokane Valley, Washington, United States | $20 to $24/hour | 2026-11-04 |  |
 | Reliant Mission | [Planted Apprenticeship / Christian Fellowship Church](https://reliantinternships.breezy.hr/p/6b14cfcb08e2-planted-apprenticeship-christian-fellowship-church) | Evansville, IN |  | 2026-11-04 |  |
 | A.N. Publishing | [Food & Drink Journalist Intern](https://jobs.smartrecruiters.com/ANPublishing1/744000144630909-food-drink-journalist-intern) | New York, NY, us |  | 2026-11-04 |  |
@@ -442,7 +437,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lowe's | [Enterprise Fulfillment Intern – Undergrad Internship – Summer 2027](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Enterprise-Fulfillment-Intern---Undergrad-Internship---Summer-2027_JR-02681013) · Summer 2027 | Mooresville, NC (SSC) 1999 |  | 2026-10-21 |  |
 | Republic Services | [Diesel Technician Apprentice-Paid Training](https://jobs.republicservices.com/us/en/job/R-186985) | Ivyland, Pennsylvania, United States of America |  | 2026-10-21 |  |
 | Rockwell Automation | [Development Technician Student Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Development-Technician-Student-Intern_R26-8420) | Milwaukee, Wisconsin, United States |  | 2026-10-21 |  |
-| Fluor | [Maintenance Co-op](https://careers.fluor.com/careers/job/1099555564716) | Rochester, US-MN, United States |  | 2026-10-21 |  |
+| Fluor | [SPR - Journeyman Electrician - Apprentice License](https://careers.fluor.com/careers/job/1099553563749) | Ft Worth, US-TX, United States |  | 2026-10-21 |  |
 | Fluor | [Apprentice Electrician (TS/SCI with Polygraph Clearance Required)](https://careers.fluor.com/careers/job/1099552525319) | Aurora, US-CO, United States | $25 to $30/hour | 2026-10-21 | US citizens/persons only, clearance |
 | Republic Services | [Diesel Technician Apprentice-Paid Training](https://jobs.republicservices.com/us/en/job/R-185911) | Grand Junction, Colorado, United States of America | $15.30 to $21.30/hour | 2026-10-20 |  |
 | Waste Connections | [Diesel Mechanic Apprentice](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/2045-Hood-River-Garbage/Preventative-Maintenance-Technician_R-101643) | 2045-Hood River Garbage | $28 to $30/hour | 2026-10-20 |  |
@@ -471,18 +466,21 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ONEOK | [Field Mechanic Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Watford-City-ND/Field-Mechanic-Intern_R8358-1) | Watford City, ND |  | 2026-10-20 |  |
 | ONEOK | [Field Mechanic Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Mentone-TX/Field-Mechanic-Intern_R8366-1) | Mentone, TX |  | 2026-10-20 |  |
 | ONEOK | [Field Mechanic Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Midland-TX/Field-Mechanic-Intern_R8367-1) | Midland, TX |  | 2026-10-20 |  |
+| GlobalFoundries | [FVX Maintenance Technician Apprentice (D Shift Nights)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/FVX-Maintenance-Technician-Apprentice--D-Shift-Nights-_JR-2605815) | USA - New York - Malta | $36,200 to $59,200 | 2026-10-20 |  |
+| GlobalFoundries | [DIF Apprentice Maintenance Technician (Night Shift)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/DIF-Apprentice-Maintenance-Technician--Night-Shift-_JR-2605789) | USA - New York - Malta | $36,200 to $59,200 | 2026-10-20 |  |
+| GlobalFoundries | [DIF Apprentice Equipment Technician (Days)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/DIF-Apprentice-Equipment-Technician--Days-_JR-2605599) | USA - New York - Malta | $36,200 to $59,200 | 2026-10-20 |  |
+| GlobalFoundries | [Maintenance Technician Apprenticeship](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Maintenance-Technician-Apprenticeship_JR-2602556-1) | USA - New York - Malta | $36,200 to $59,200 | 2026-10-20 |  |
+| GlobalFoundries | [Etch Maintenance Technician Apprentice (D Shift Nights)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Etch-Maintenance-Technician-Apprentice_JR-2605590) | USA - New York - Malta | $36,200 to $59,200 | 2026-10-20 |  |
 | Waymo | [2027 Summer Intern, MS/PhD, Semantics](https://careers.withwaymo.com/jobs?gh_jid=8244128) · Summer 2027 | Mountain View, California, USA | $70 to $85/hour | 2026-10-20 |  |
 | Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/6185---Hutch/Apprentice-Hourly_JR-2026-01399828) | 6185 - Hutch |  | 2026-10-20 |  |
 | Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/4547---North-Mankato/Apprentice-Hourly_JR-2026-01371117-1) | 4547 - North Mankato | $19.25 to $21.43/hour | 2026-10-20 |  |
 | Chipotle | [Apprentice Hourly](https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/5333---Lakeville-Heritage-Commons/Apprentice-Hourly_JR-2026-01364093) | 5333 - Lakeville Heritage Commons | $20.10 to $22.35/hour | 2026-10-20 |  |
-| GlobalFoundries | [FVX Maintenance Technician Apprentice (D Shift Nights)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/FVX-Maintenance-Technician-Apprentice--D-Shift-Nights-_JR-2605815) | USA - New York - Malta | $36,200 to $59,200 | 2026-10-20 |  |
 | Marathon Petroleum | [Intern/Co-op - Commercial Marine Operator (Summer 2027)](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Intern-Co-op---Commercial-Marine-Operator--Summer-2027-_00024663) · Summer 2027 | San Antonio, Texas | $25.60 to $29.87/hour | 2026-10-20 | no visa sponsorship |
 | Port Houston | [Apprentice Mechanic](https://porthouston.wd5.myworkdayjobs.com/External_Careers/job/La-Porte-TX/Apprentice-Mechanic_JR26_00125) | La Porte, TX |  | 2026-10-20 |  |
 | Port Houston | [Apprentice Crane Technician - Bayport](https://porthouston.wd5.myworkdayjobs.com/External_Careers/job/Seabrook-TX/Apprentice-Crane-Technician---Bayport_JR26_00173-1) | Seabrook, TX |  | 2026-10-20 |  |
 | Port Houston | [Apprentice Crane Technician - Bayport](https://porthouston.wd5.myworkdayjobs.com/External_Careers/job/Seabrook-TX/Apprentice-Crane-Technician---Bayport_JR26_00170-1) | Seabrook, TX |  | 2026-10-20 |  |
 | Port Houston | [Apprentice Crane Technician - Bayport](https://porthouston.wd5.myworkdayjobs.com/External_Careers/job/Seabrook-TX/Apprentice-Crane-Technician_JR26_00169-1) | Seabrook, TX |  | 2026-10-20 |  |
 | Port Houston | [Apprentice Crane Technician - Bayport](https://porthouston.wd5.myworkdayjobs.com/External_Careers/job/Seabrook-TX/Apprentice-Crane-Technician---Bayport_JR26_00171-1) | Seabrook, TX |  | 2026-10-20 |  |
-| Cisco | [PROPEL Project Specialist I (Intern) United States](https://careers.cisco.com/global/en/job/2028618) | Research Triangle Park, North Carolina, United States of America | $44,000 to $185,000 | 2026-10-20 |  |
 | Primoris | [Overhead Lineman Apprentice 1–8 –Port Richey, Fl](https://prim.wd108.myworkdayjobs.com/Primoris/job/New-Port-Richy-FL/Overhead-Lineman-Apprentice-1-8--Port-Richey--Fl_JR102654) | New Port Richy, FL |  | 2026-10-20 |  |
 | Primoris | [Overhead Lineman Apprentice 1–8 – Inverness, FL](https://prim.wd108.myworkdayjobs.com/Primoris/job/Florida/Overhead-Lineman-Apprentice-1-8---Inverness--FL_JR102653) | Florida |  | 2026-10-20 |  |
 | Primoris | [All-Level Apprentice/Journeyman, Foreman, Groundman, & Operator Opportunities-Brad J](https://prim.wd108.myworkdayjobs.com/Primoris/job/Texas/All-Level-Apprentice-Journeyman--Foreman--Groundman----Operator-Opportunities-Brad-J_JR102587) | Texas |  | 2026-10-20 |  |
@@ -507,8 +505,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Service Corporation International | [Funeral Director Apprentice](https://sci.wd5.myworkdayjobs.com/SCI/job/FL---Ormond-Beach/Funeral-Director-Apprentice_Req159252) | FL - Ormond Beach |  | 2026-10-20 |  |
 | SLB | [Mechanic Intern](https://careers.slb.com/jobdescription.aspx?id=EF18849-en_US%201) | Lafayette, United States | $18 to $22/hour | 2026-10-20 | no visa sponsorship |
 | Texas A&M AgriLife Research | [Non-Affiliated Student Technician](https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/Dallas-TX/Non-Affiliated-Student-Technician_R-090173-1) | Dallas, TX |  | 2026-10-20 |  |
-| GlobalFoundries | [DIF Apprentice Maintenance Technician (Night Shift)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/DIF-Apprentice-Maintenance-Technician--Night-Shift-_JR-2605789) | USA - New York - Malta | $36,200 to $59,200 | 2026-10-20 |  |
-| Johnson & Johnson | [Aviation Maintenance Technician Summer Intern](https://jj.wd5.myworkdayjobs.com/JJ/job/Trenton-New-Jersey-United-States-of-America/Aviation-Maintenance-Technician-Summer-Intern_R-100789) · Summer | Trenton, New Jersey, United States of America | $23.50 to $52.50/hour | 2026-10-20 | no visa sponsorship |
 | Kimberly-Clark | [Maintenance Technical Intern](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/Corinth-MS-USA/Maintenance-Technical-Intern_886058-2) | Corinth, MS, USA | $25/hour | 2026-10-20 |  |
 | Marathon Petroleum | [Intern/Co-op - Aircraft Maintenance Technician (Fall 2027))](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-OH-Aviation/Intern-Co-op---Aircraft-Maintenance-Technician--Fall-2027--_00023974) · Fall 2027 | Findlay OH Aviation | $20.31 to $25.38/hour | 2026-10-20 | no visa sponsorship |
 | ONEOK | [Field Mechanic Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Williston-ND/Intern---Field--DOT---Unfilled-_R8359-1) | Williston, ND |  | 2026-10-20 |  |
@@ -527,9 +523,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BorgWarner | [IT Technician Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/IT-Technician-Intern_R2026-2600) | Arden - North Carolina - USA |  | 2026-10-20 |  |
 | Entegris | [Facility Technician Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Rockrimmon-Colorado-Springs-CO/Facility-Technician-Co-Op_REQ-14427) · Spring 2027 | Rockrimmon, Colorado Springs, CO | $20 to $30/hour | 2026-10-20 |  |
 | Entegris | [Setup Technician Apprentice](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Chaska-MN/Setup-Technician-Apprentice_REQ-11260-1) | Chaska, MN | $24 to $28/hour | 2026-10-20 | no visa sponsorship |
-| GlobalFoundries | [DIF Apprentice Equipment Technician (Days)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/DIF-Apprentice-Equipment-Technician--Days-_JR-2605599) | USA - New York - Malta | $36,200 to $59,200 | 2026-10-20 |  |
-| GlobalFoundries | [Maintenance Technician Apprenticeship](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Maintenance-Technician-Apprenticeship_JR-2602556-1) | USA - New York - Malta | $36,200 to $59,200 | 2026-10-20 |  |
-| GlobalFoundries | [Etch Maintenance Technician Apprentice (D Shift Nights)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Etch-Maintenance-Technician-Apprentice_JR-2605590) | USA - New York - Malta | $36,200 to $59,200 | 2026-10-20 |  |
 | Insulet | [Co-op, Global Distribution & Fulfillment: January-June (Onsite)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Global-Distribution---Fulfillment--January-June--Onsite-_REQ-2026-18428-1) | Acton, Massachusetts | $25 to $34/hour | 2026-10-20 |  |
 | Republic Services | [Diesel Technician Apprentice-Paid Training](https://jobs.republicservices.com/us/en/job/R-186050) | Edwardsville, Illinois, United States of America | $16 to $23.30/hour | 2026-10-20 |  |
 | Republic Services | [Diesel Technician Apprentice-Paid Training](https://jobs.republicservices.com/us/en/job/R-186029) | Indianapolis, Indiana, United States of America |  | 2026-10-20 |  |
@@ -610,14 +603,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Impulse Space | [Information Technology Intern, Service Delivery (Summer 2027)](https://impulsespace.pinpointhq.com/en/postings/6ca1131c-5fc0-4f79-ade9-245d225f0f8e) · Summer 2027 | Redondo Beach, California |  | 2026-10-20 | US citizens/persons only |
 | Skyworks | [Product Development Assembly/Tuning Co-Op (Summer/Fall 2027)](https://careers.skyworksinc.com/job/San-Jose-Product-Development-AssemblyTuning-Co-Op-%28SummerFall-2027%29-CA-95134/1420023100/) · Fall 2027 | San Jose, CA, US | $23 to $49/hour | 2026-10-20 |  |
 | Skyworks | [Assembly/Tuning Co-Op (Winter/Spring 2027)](https://careers.skyworksinc.com/job/San-Jose-AssemblyTuning-Co-Op-%28WinterSpring-2027%29-CA-95134/1419262500/) · Spring 2027 | San Jose, CA, US | $23 to $49/hour | 2026-10-20 |  |
-| Micron | [Registered Technician Apprentice](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Registered-Technician-Apprentice_JR114821) | Manassas, VA - Fab 6 | $18 to $34/hour | 2026-10-19 |  |
 | Micron | [Intern - Fab Equipment Maintenance Technician](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---Fab-Equipment-Maintenance-Technician_JR114722) · Summer 2027 | Manassas, VA - Fab 6 | $24.45/hour | 2026-10-19 |  |
 | Micron | [Registered Apprenticeship Program - Process Technician](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Registered-Apprenticeship-Program---Process-Technician_JR115357) | Boise, ID - Main Site |  | 2026-10-19 |  |
 | Micron | [Registered Apprenticeship Program - Equipment Technician](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Registered-Apprenticeship-Program---Equipment-Technician_JR115355) | Boise, ID - Main Site |  | 2026-10-19 |  |
-| SpaceX | [Apprentice Welder](https://boards.greenhouse.io/spacex/jobs/8880245002?gh_jid=8880245002) | McGregor, TX |  | 2026-10-19 | US citizens/persons only |
 | Micron | [Intern- Technician, Process](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--Technician--Process_JR112005) · Summer 2027 | Boise, ID - ID1 |  | 2026-10-19 |  |
 | Micron | [Intern - Technician, Fab Equipment](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--Equipment-Technician_JR111002) · Summer 2027 | Boise, ID - ID1 |  | 2026-10-19 |  |
 | Micron | [Registered Apprenticeship, Facilities Water Service Technician](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Registered-Apprenticeship--Facilities-Water-Service-Technician_JR103875) | Boise, ID - Main Site |  | 2026-10-19 |  |
+| SpaceX | [Apprentice Welder](https://boards.greenhouse.io/spacex/jobs/8880245002?gh_jid=8880245002) | McGregor, TX |  | 2026-10-19 | US citizens/persons only |
 | Texas Instruments | [DoW SkillBridge / Equipment Technician Intern (Dallas/Richardson, TX)](https://careers.ti.com/en/sites/CX_1/job/25017476) | Dallas, TX, United States |  | 2026-10-19 |  |
 | Texas Instruments | [DoW SkillBridge / Equipment Technician Intern (Lehi, UT)](https://careers.ti.com/en/sites/CX_1/job/25017478) | Lehi, UT, United States |  | 2026-10-19 |  |
 | Texas Instruments | [DoW SkillBridge / Equipment Technician Intern (South Portland, ME)](https://careers.ti.com/en/sites/CX_1/job/25017479) | South Portland, ME, United States |  | 2026-10-19 |  |
