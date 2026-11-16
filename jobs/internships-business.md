@@ -1,11 +1,25 @@
 # Internships and co-ops: Business, consulting and operations
 
-2,411 open, newest first (by the date the scraper first saw them), updated 2026-11-15. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,399 open, newest first (by the date the scraper first saw them), updated 2026-11-16. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Amgen | [Undergrad Intern – R&D Execution, Operations & Strategy (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---R-D-Execution--Operations---Strategy--Summer-2027-_R-259964) · Summer 2027 | United States - Remote | $28.87/hour | 2026-11-16 |  |
+| LCRA | [Geospatial Intern (Summer 2027)](https://careers.lcra.org/careers-home/jobs/5309) · Summer 2027 | Austin, Texas |  | 2026-11-16 |  |
+| Clera | [Founders Associate Intern](https://jobs.ashbyhq.com/Clera/43eb93b4-4263-40e6-beb6-4b2e2f41cc55) | San Francisco | $80,000 to $110,000 | 2026-11-16 | no visa sponsorship |
+| Clera | [Strategy & Operations Working Student](https://jobs.ashbyhq.com/Clera/43345a4e-7087-4a35-aa3b-a27bf26feb85) | San Francisco |  | 2026-11-16 | no visa sponsorship |
+| Clera | [Strategic Operations Intern](https://jobs.ashbyhq.com/Clera/ea11d22a-20a8-435d-8de2-5fea5d4dc60c) | San Francisco |  | 2026-11-16 | no visa sponsorship |
+| Fanatics Collectibles | [Summer 2027 Intern - Pre-Press & Business Operations](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507753009) · Summer 2027 | New York, NY, United States | $27/hour | 2026-11-16 |  |
+| Fanatics Collectibles | [Summer 2027 Internship - Athlete Partnerships Contract Administration & PO Operations Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507827009) · Summer 2027 | New York, NY, United States | $27/hour | 2026-11-16 |  |
+| Fanatics Collectibles | [Summer 2027 Internship - Athlete Partnerships Planner Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507823009) · Summer 2027 | New York, NY, United States | $27/hour | 2026-11-16 |  |
+| Fanatics Collectibles | [Summer 2027 MBA Internship - Strategy Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507770009) · Summer 2027 | Los Angeles, CA, United States | $27/hour | 2026-11-16 |  |
+| Kaufman Borgeest & Ryan | [Summer Associate - Woodland Hills, CA](https://kbr.breezy.hr/p/1ec4ea45c5e8-summer-associate-woodland-hills-ca) · Summer | Woodland Hills, CA |  | 2026-11-16 |  |
+| Together Group | [Events Intern - Spring](https://togethergroup.pinpointhq.com/en/postings/4935acae-7e68-4a29-9733-bc1235991e20) · Spring | New York, New York |  | 2026-11-16 |  |
+| Together Group | [Showroom Intern - Spring](https://togethergroup.pinpointhq.com/en/postings/f0790c30-a6a5-49ab-9fa9-07c00ac322f6) · Spring | New York, New York |  | 2026-11-16 |  |
+| Together Group | [Business Operations Intern - Spring](https://togethergroup.pinpointhq.com/en/postings/76ee721b-b5d2-4ad5-895a-97d700011fc7) · Spring | New York, New York |  | 2026-11-16 |  |
+| Together Group | [Showroom Intern - Spring](https://togethergroup.pinpointhq.com/en/postings/c46e57be-b01a-4f9e-b8d0-0a786e726a2e) · Spring | Los Angeles, California |  | 2026-11-16 |  |
 | Clera | [Operations Intern](https://jobs.ashbyhq.com/Clera/f5dc2946-1e1f-4e60-9219-808cba43bc4a) | Salt Lake City | $20 to $25/hour | 2026-11-15 | no visa sponsorship |
 | SAS Institute | [Summer 2027 - IoT Product Strategy Intern (Master's)](https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job) · Summer 2027 | Cary HQ, NC | $15 to $49/hour | 2026-11-15 |  |
 | SAS Institute | [Summer 2027 – IoT Industry Consulting Intern](https://careers-sas.icims.com/jobs/43332/summer-2027-%e2%80%93-iot-industry-consulting-intern/job) · Summer 2027 | Cary HQ, NC | $15 to $49/hour | 2026-11-15 |  |
@@ -212,7 +226,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Zoox | [Safety Reporting Intern [Summer 2027]](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db) · Summer 2027 | Foster City, CA |  | 2026-11-07 |  |
 | Center for Strategic and International Studies, Inc. | [Spring Intern, Warfare, Irregular Threats, and Terrorism Program](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4474537009) · Spring 2027 | Washington, D.C. | $18.40 to $20.40/hour | 2026-11-07 | no visa sponsorship |
 | Corporate Traffic Logistics | [Jr. Logistics Specialist (January 2027 Internship)](https://corporate-traffic-logistics.breezy.hr/p/53f21cd74367-jr-logistics-specialist-january-2027-internship) | Jacksonville, FL |  | 2026-11-07 |  |
-| Dell | [Experience Strategy Graduate Intern](https://jobs.dell.com/en/sites/CX_1/job/302334) | Austin, TX, United States | $29.60 to $31.80/hour | 2026-11-07 |  |
 | Federal Reserve System | [2027 Summer Internship Program - Supervision & Regulation (CORE Risk Team)](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--CORE-Risk-Team-_R-0000033859) · Summer 2027 | Atlanta, GA |  | 2026-11-07 | US citizens/persons only |
 | First Global Management Services, Inc. | [Strategy Intern](https://firstagency.com/position/?job=5287413007&gh_jid=5287413007) | FIRST - New York | $20 to $25/hour | 2026-11-07 |  |
 | Galaxy | [2027 Risk Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250062004) | New York | $55/hour | 2026-11-07 |  |
@@ -244,7 +257,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Super Soccer Stars | [Sports Business Operations Intern](https://apply.workable.com/j/47426562C8) | West Hempstead, New York, United States |  | 2026-11-07 |  |
 | Goldman Sachs | [2027 / Americas / New York City Area / Executive Office, Office of the Chairman / Summer Analyst](https://higher.gs.com/roles/188644) · Summer | New York, NY, United States |  | 2026-11-07 |  |
 | KPMG | [Advisory Intern, Risk Services - Grants Management / Multiple Locations Summer 2027](https://www.kpmguscareers.com/jobdetail/?jobId=139882) · Summer 2027 | Albany, NY |  | 2026-11-07 | no visa sponsorship |
-| Nypl | [Digital Collections Operations Intern (17 Weeks)](https://nypl.pinpointhq.com/en/postings/d7ae4a9c-e6ca-49a6-9c9a-97c57d047e1e) | Long Island City, New York |  | 2026-11-07 |  |
 | TikTok | [Data Operations Intern (SoundOn) - 2027 Start](https://lifeattiktok.com/search/7704912455690504453) | Los Angeles, California, United States of America |  | 2026-11-07 |  |
 | TikTok | [Dine-In Creator Operations Intern (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7704961831681132805) | Los Angeles, California, United States of America |  | 2026-11-07 |  |
 | TikTok | [Travel Creator Operations Intern (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7678597116231158069) | Los Angeles, California, United States of America |  | 2026-11-07 |  |
@@ -744,15 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94284504-internship-journalist-and-fb-administrator) | Winston-Salem, NC, us |  | 2026-11-05 |  |
 | ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94284280-internship-journalist-and-fb-administrator) | Houston, TX, us |  | 2026-11-05 |  |
 | ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94284128-internship-journalist-and-fb-administrator) | Fayetteville, AR, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94283958-internship-journalist-and-fb-administrator) | Erie, PA, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94283789-internship-journalist-and-fb-administrator) | Columbus, OH, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94283637-internship-journalist-and-fb-administrator) | South Bend, IN, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94283606-internship-journalist-and-fb-administrator) | Hattiesburg, MS, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94283455-internship-journalist-and-fb-administrator) | Columbia, MO, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94283388-internship-journalist-and-fb-administrator) | Cedar Falls, IA, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94283284-internship-journalist-and-fb-administrator) | Edmond, OK, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277708-internship-journalist-and-fb-administrator) | Kalamazoo, MI, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277638-internship-journalist-and-fb-administrator) | Muncie, IN, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277577-internship-journalist-and-fb-administrator) | Richmond, IN, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277510-internship-journalist-and-fb-administrator) | Bowling Green, KY, us |  | 2026-11-05 |  |
-| ATIA Ltd | [Internship - Journalist and FB Administrator](https://jobs.smartrecruiters.com/ATIALtd/94277457-internship-journalist-and-fb-administrator) | Florence, AL, us |  | 2026-11-05 |  |

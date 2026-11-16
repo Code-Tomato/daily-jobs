@@ -1,11 +1,45 @@
 # New grad and entry level: Healthcare
 
-11,814 open, newest first (by the date the scraper first saw them), updated 2026-11-15. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+11,820 open, newest first (by the date the scraper first saw them), updated 2026-11-16. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Baylor Scott & White Health | [Nurse Practitioner Intensivist Medicine (Day) Frisco](https://jobs.bswhealth.com/us/en/job/26016143) | Frisco, Texas, United States |  | 2026-11-16 |  |
+| Baylor Scott & White Health | [Nurse Practitioner Intensivist Medicine- Nights Frisco](https://jobs.bswhealth.com/us/en/job/26016145) | Frisco, Texas, United States |  | 2026-11-16 |  |
+| Baylor Scott & White Health | [Nurse Practitioner Intensivist Medicine (Day) Waxahachie](https://jobs.bswhealth.com/us/en/job/26011404) | Dallas, Texas, United States |  | 2026-11-16 |  |
+| Baylor Scott & White Health | [Nocturnist Physician Assistant, Intensivist Medicine Dallas](https://jobs.bswhealth.com/us/en/job/26021057) | Dallas, Texas, United States |  | 2026-11-16 |  |
+| Baylor Scott & White Health | [Nurse Practitioner Nocturnist Intensivist Medicine](https://jobs.bswhealth.com/us/en/job/26015629) | Dallas, Texas, United States |  | 2026-11-16 |  |
+| Baylor Scott & White Health | [Nocturnist Nurse Practitioner Intensivist Medicine Waxahachie](https://jobs.bswhealth.com/us/en/job/26011406) | Dallas, Texas, United States |  | 2026-11-16 |  |
+| Baylor Scott & White Health | [Nocturnist Nurse Practitioner Intensivist Medicine Dallas](https://jobs.bswhealth.com/us/en/job/26015628) | Dallas, Texas, United States |  | 2026-11-16 |  |
+| Baylor Scott & White Health | [Nocturnist Nurse Practitioner Critical Care ICU Nocturnist (Denton, TX)](https://jobs.bswhealth.com/us/en/job/26020830) | Dallas, Texas, United States |  | 2026-11-16 |  |
+| Baylor Scott & White Health | [Nocturnist Acute Care Nurse Practitioner Intensivist - Frisco](https://jobs.bswhealth.com/us/en/job/26016616) | Frisco, Texas, United States |  | 2026-11-16 |  |
+| Harris Health | [Security Officer II- Strawberry Health Center](https://jobs.harrishealth.org/security-officer-ii-strawberry-health-center/job/79A78AC339FBC0E14DB9EE0640E4ECC9) | Houston, TX, US |  | 2026-11-16 |  |
+| Jobgether | [Utilization Management Nurse RN](https://jobs.lever.co/jobgether/d43f7a02-19e6-418f-ac39-b6cb8f72eb26) | US | $35 to $38/hour | 2026-11-16 |  |
+| MIND 24-7 | [Crisis Case Manager - Behavioral Health](https://job-boards.greenhouse.io/mind247/jobs/4727761006) | Metro - Phoenix, AZ |  | 2026-11-16 |  |
+| MIND 24-7 | [Registered Nurse - Behavioral Health](https://job-boards.greenhouse.io/mind247/jobs/4729758006) | Higley - Mesa, AZ |  | 2026-11-16 |  |
+| MIND 24-7 | [Registered Nurse - Behavioral Health](https://job-boards.greenhouse.io/mind247/jobs/4729760006) | Metro - Phoenix, AZ |  | 2026-11-16 |  |
+| MIND 24-7 | [Registered Nurse - Behavioral Health - PRN](https://job-boards.greenhouse.io/mind247/jobs/4729762006) | Higley - Mesa, AZ |  | 2026-11-16 |  |
+| Northwestern Memorial Healthcare | [Pharmacy Tech Part Time Rotating Shifts](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161694809--pharmacy-tech-part-time-rotating-shifts-) | Wheaton, IL, us |  | 2026-11-16 |  |
+| Texas Children's Hospital | [Pathology Patient Care Technician](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428811) | Conroe, TX, United States |  | 2026-11-16 |  |
+| UTMB Health | [Correctional Clinical Assoc (CCA) - Lychner Unit](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2607022&lang=en) | United States-Texas-Humble |  | 2026-11-16 | clearance |
+| Carbon Health | [Urgent Care Medical Assistant](https://ats.rippling.com/carbon-health/jobs/d9fbbe12-3aca-4572-9cb0-c21b202b862e) | San Mateo, CA |  | 2026-11-16 |  |
+| CommonSpirit Health (St. Luke's Health) | [Patient Access Rep Clinic](https://www.commonspirit.careers/job/auburn/patient-access-rep-clinic/35300/103362415520) | AUBURN, WA |  | 2026-11-16 |  |
+| CommonSpirit Health (St. Luke's Health) | [Patient Access Rep Clinic](https://www.commonspirit.careers/job/silverdale/patient-access-rep-clinic/35300/103362415248) | Silverdale, WA |  | 2026-11-16 |  |
+| CommonSpirit Health (St. Luke's Health) | [Patient Access Representative](https://www.commonspirit.careers/job/the-woodlands/patient-access-representative/35300/103362694640) | THE WOODLANDS, TX |  | 2026-11-16 |  |
+| CommonSpirit Health (St. Luke's Health) | [Patient Access Representative](https://www.commonspirit.careers/job/the-woodlands/patient-access-representative/35300/103362742272) | THE WOODLANDS, TX |  | 2026-11-16 |  |
+| Monarch Communities | [Care Manager (CNA/CHHA) PT & Per Diem](https://jobs.smartrecruiters.com/MonarchCommunities/744000161688309-care-manager-cna-chha-pt-per-diem-) | Linwood, NJ, us | $21/hour | 2026-11-16 |  |
+| Texas Health Resources | [Registered Nurse / RN II - Med Surg Station 31 - Full Time , Nights](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012150&lang=en) | Arlington |  | 2026-11-16 |  |
+| Texas Health Resources | [Registered Nurse / RN II - Med Surg St 32 - Full Time , Days](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012154&lang=en) | Arlington |  | 2026-11-16 |  |
+| Texas Health Resources | [Registered Nurse / RN II - Med Surg St 31 - Full Time , Days](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012152&lang=en) | Arlington |  | 2026-11-16 |  |
+| The Quality Group GmbH | [Marketing Manager (gn) - More Nutrition Schweiz](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5026619101) | Schweiz, remote |  | 2026-11-16 |  |
+| One Medical | [Medical Receptionist (Union Station)](http://www.onemedical.com/careers/all-departments/8348675?gh_jid=8348675) | Washington, DC | $21.50/hour | 2026-11-16 |  |
+| Baylor Scott & White Health | [Patient Services Specialist I – Neurosurgery (Dallas)](https://jobs.bswhealth.com/us/en/job/26020061) | Dallas, Texas, United States |  | 2026-11-16 |  |
+| Baylor Scott & White Health | [Patient Services Specialist 1 - Urgent Care - North Garland](https://jobs.bswhealth.com/us/en/job/26011950) | Garland, Texas, United States |  | 2026-11-16 |  |
+| Datavant | [Area Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5442755008) | Mount Holly NJ 08060 | $15.92 to $19.44/hour | 2026-11-16 | no visa sponsorship |
+| Rady Children's Health San Diego | [Registered Nurse (RN) - Neonatal ICU (NICU), San Diego, CA](https://jobs.rchsd.org/job/san-diego/registered-nurse-rn-neonatal-icu-nicu-san-diego-ca/1717/103378326480) | San Diego, California | $64.39 to $92.09/hour | 2026-11-16 |  |
+| Rady Children's Health San Diego | [Registered Nurse (RN) - Neonatal ICU (NICU), San Diego, CA](https://jobs.rchsd.org/job/san-diego/registered-nurse-rn-neonatal-icu-nicu-san-diego-ca/1717/103378327984) | San Diego, California | $64.39 to $85.17/hour | 2026-11-16 |  |
 | Cook Children's | [RN, Med/Surg, Prosper](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Prosper-TX/RN--Med-Surg--Prosper_JR-120248) | Prosper, TX |  | 2026-11-15 |  |
 | Family Relief Resources | [Morning/Afterschool caregiver for 12yr old (1E0460G)](https://familyreliefresources.bamboohr.com/careers/418) | Clackamas, Oregon, United States |  | 2026-11-15 |  |
 | Northwestern Memorial Healthcare | [Health Unit Coordinator](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161667159-health-unit-coordinator-) | DeKalb, IL, us |  | 2026-11-15 |  |
@@ -46,6 +80,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City and County of San Francisco | [Workplace Security Analyst Trainee (9910) - Department of Public Health - EXEMPT](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016859665-workplace-security-analyst-trainee-9910-department-of-public-health-exempt) | San Francisco, CA, us |  | 2026-11-14 |  |
 | Northwestern Memorial Healthcare | [Physician Assistant or Acute Care Nurse Practitioner (with RNFA) - Otolaryngology, Full-time, Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161596979-physician-assistant-or-acute-care-nurse-practitioner-with-rnfa-otolaryngology-full-time-days) | Huntley, IL, us |  | 2026-11-14 |  |
 | Tenet Healthcare | [Registered Nurse (RN) - ER](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603027001) | San Ramon, CA, United States |  | 2026-11-14 |  |
+| UT Southwestern | [Certified Medical Assistant, Imaging](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=260000MK&lang=en) | Texas-Dallas-5323 Harry Hines Blvd | $21/hour | 2026-11-14 |  |
 | AdvisaCare | [Full and Part time Hospice Registered Nurse or Licensed Practical Nurse](https://apply.workable.com/j/6D892CBE72) | Midland, Michigan, United States |  | 2026-11-14 |  |
 | Alpaca Health | [Registered Behavior Technician (RBT) - BCBA Trainee / Student Analyst](https://jobs.ashbyhq.com/alpacahealth/754a0e5b-72d6-43e6-929a-c2fd70be2526) | Leander, TX | $20 to $30/hour | 2026-11-14 |  |
 | Amity Foundation | [AOD Counselor II/III - SQRC](https://jobs.lever.co/amityfdn/560586df-f6a4-40f5-988e-dfdad1776d16) | 100 Main Street, San Quentin, CA 94964 |  | 2026-11-14 |  |
@@ -62,20 +97,20 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BAYADA Home Health Care | [LPN Nurse Residency Program](https://jobs.bayada.com/en/jobs?gh_jid=8941749002) | Saint Cloud, MN 56301 / 45.526650027 / -94.182898886 | $23/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [New Grad LPN - Nurse Residency in Minneapolis](https://jobs.bayada.com/en/jobs?gh_jid=8941869002) | Minneapolis, MN 55401 / 44.984365773 / -93.271215207 | $25 to $27/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [New Grad Physical Therapist, PT, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8943417002) | Lansdale, PA 19446 / 40.237983548 / -75.293334042 | $60 to $70/hour | 2026-11-14 |  |
-| BAYADA Home Health Care | [New Grad Physical Therapist, PT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8943383002) | Mentor, OH 44060 / 41.688072897 / -81.339756459 | $60 to $70/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [New Grad Physical Therapist, PT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8943350002) | Philadelphia, PA 19111 / 40.058936692 / -75.079982087 | $60 to $70/hour | 2026-11-14 |  |
+| BAYADA Home Health Care | [New Grad Physical Therapist, PT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8943383002) | Mentor, OH 44060 / 41.688072897 / -81.339756459 | $60 to $70/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [New Grad Physical Therapist, PT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8943403002) | Medina, OH 44215 / 41.070020995 / -81.901524981 | $60 to $70/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [New Grad Physical Therapist, PT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8943392002) | Collegeville, PA 19426 / 40.188927589 / -75.454398313 | $60 to $70/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [New Graduate LPN / Nurse Residency Program / St. Paul](https://jobs.bayada.com/en/jobs?gh_jid=8941872002) | Saint Paul, MN 55102 / 44.937876596 / -93.117642601 | $25 to $27/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [Nurse Residency Program - LPN Graduates](https://jobs.bayada.com/en/jobs?gh_jid=8942447002) | New Castle, DE 19720 / 39.666955371 / -75.599138773 | $40/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [Occupational Therapist- New Grad Opportunity!](https://jobs.bayada.com/en/jobs?gh_jid=8943233002) | Honolulu, HI 96801 / 21.306433 / -157.860259 | $70 to $75/hour | 2026-11-14 |  |
-| BAYADA Home Health Care | [Occupational Therapist, OT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8943216002) | Independence, OH 44131 / 41.380931421 / -81.662673114 | $63 to $70/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [Occupational Therapist, OT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8943208002) | Medina, OH 44215 / 41.070020995 / -81.901524981 | $63 to $70/hour | 2026-11-14 |  |
+| BAYADA Home Health Care | [Occupational Therapist, OT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8943216002) | Independence, OH 44131 / 41.380931421 / -81.662673114 | $63 to $70/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [Physical Therapist, PT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8943213002) | Mentor, OH 44060 / 41.688072897 / -81.339756459 | $63 to $75/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [Registered Nurse / RN New Grad Residency / St. Paul](https://jobs.bayada.com/en/jobs?gh_jid=8941923002) | Saint Paul, MN 55102 / 44.937876596 / -93.117642601 | $35 to $37/hour | 2026-11-14 |  |
-| BAYADA Home Health Care | [RN Nurse Residency Program](https://jobs.bayada.com/en/jobs?gh_jid=8941707002) | Moorhead, MN 56560 / 46.858627269 / -96.751850676 | $30 to $32/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [RN Nurse Residency Program](https://jobs.bayada.com/en/jobs?gh_jid=8941717002) | Saint Cloud, MN 56301 / 45.526650027 / -94.182898886 | $30 to $32/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [RN Nurse Residency Program](https://jobs.bayada.com/en/jobs?gh_jid=8941705002) | Duluth, MN 55802 / 46.77515502 / -92.092418241 | $30 to $32/hour | 2026-11-14 |  |
+| BAYADA Home Health Care | [RN Nurse Residency Program](https://jobs.bayada.com/en/jobs?gh_jid=8941707002) | Moorhead, MN 56560 / 46.858627269 / -96.751850676 | $30 to $32/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [RN Nurse Residency Program / New Grad / Minneapolis](https://jobs.bayada.com/en/jobs?gh_jid=8941924002) | Minneapolis, MN 55402 / 44.976533924 / -93.273206163 | $35 to $37/hour | 2026-11-14 |  |
 | BAYADA Home Health Care | [Special Needs Caregiver](https://jobs.bayada.com/en/jobs?gh_jid=8943349002) | Greensboro, NC 27406 / 36.019599792 / -79.780685962 | $15 to $16/hour | 2026-11-14 |  |
 | Baylor Scott & White Health | [RN Med Surg Telemetry Nights Sign On Bonus](https://jobs.bswhealth.com/us/en/job/26020878) | Rowlett, Texas, United States |  | 2026-11-14 |  |
@@ -284,11 +319,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | UnitedHealth Group | [Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/west-islip/associate-patient-care-coordinator/34088/103257638800) | West Islip, New York | $16 to $29/hour | 2026-11-14 |  |
 | UnitedHealth Group | [Medical Receptionist](https://careers.unitedhealthgroup.com/job/westborough/medical-receptionist/34088/103257639520) | Westborough, Massachusetts | $16 to $29/hour | 2026-11-14 |  |
 | US Physical Therapy | [Medical Receptionist](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990016856746-medical-receptionist) | Brighton, MI, us |  | 2026-11-14 |  |
-| UT Southwestern | [Certified Medical Assistant, Imaging](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=260000MK&lang=en) | Texas-Dallas-5323 Harry Hines Blvd | $21/hour | 2026-11-14 |  |
-| Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician (Full-Time) - Carle Place, NY](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6261952004?gh_jid=6261952004) | Carle Place, New York, United States |  | 2026-11-14 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician (Full-Time) - Carle Place, NY](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6261954004?gh_jid=6261954004) | Carle Place, New York, United States |  | 2026-11-14 |  |
-| Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician (Full-Time) - Greenwich, CT](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6261907004?gh_jid=6261907004) | Greenwich, Connecticut, United States |  | 2026-11-14 |  |
+| Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician (Full-Time) - Carle Place, NY](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6261952004?gh_jid=6261952004) | Carle Place, New York, United States |  | 2026-11-14 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician (Full-Time) - Greenwich, CT](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/5799724004?gh_jid=5799724004) | Greenwich, Connecticut, United States |  | 2026-11-14 |  |
+| Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician (Full-Time) - Greenwich, CT](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6261907004?gh_jid=6261907004) | Greenwich, Connecticut, United States |  | 2026-11-14 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician (Full-Time) - Nanuet, NY](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6261884004?gh_jid=6261884004) | Nanuet, New York, United States | $25 to $44/hour | 2026-11-14 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician (Full-Time) - Orange, CT](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6261914004?gh_jid=6261914004) | Orange, Connecticut, United States |  | 2026-11-14 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician (Full-Time) - White Plains, NY](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6261927004?gh_jid=6261927004) | White Plains, New York, United States |  | 2026-11-14 |  |
@@ -338,6 +372,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Compass Health Network | [Behavioral Health Consultant- Dental Integration](https://compasshealthnetwork.pinpointhq.com/en/postings/dec33341-4375-4285-a25e-278aeea86718) | St. Charles, Missouri |  | 2026-11-14 |  |
 | KPMG | [Associate, Federal Healthcare Policy](https://www.kpmguscareers.com/jobdetail/?jobId=139976) | McLean, VA |  | 2026-11-14 |  |
 | KPMG | [Associate, Federal Healthcare Policy](https://www.kpmguscareers.com/jobdetail/?jobId=139977) | McLean, VA |  | 2026-11-14 |  |
+| UTHealth Houston | [Data Entry Operator I - School of Public Health (Edinburg)](https://careers.uth.tmc.edu/us/en/job/260002CY) | Brownsville, Texas, United States |  | 2026-11-13 |  |
 | Adaptive Home Health | [Registered Nurse (RN) - Telehealth weekend on-call](https://jobs.ashbyhq.com/fira-health/1491e0fd-b1f3-43ae-9fd0-fb14cc73a10f) | Remote |  | 2026-11-13 |  |
 | Ascension | [Patient Care Technician Labor and Delivery](https://jobs.ascension.org/us/en/job/29763) | Austin, TX, US |  | 2026-11-13 |  |
 | Ascension | [Medical Front Office Orthopedics](https://jobs.ascension.org/us/en/job/24938) | Austin, TX, US |  | 2026-11-13 |  |
@@ -378,7 +413,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | UnitedHealth Group | [Home Infusion Registered Nurse (RN) - Part Time - Remote](https://careers.unitedhealthgroup.com/job/memphis/home-infusion-registered-nurse-rn-part-time-remote/34088/103247948448) | Memphis, Tennessee (remote) | $29 to $52/hour | 2026-11-13 |  |
 | UnitedHealth Group | [Home Infusion Registered Nurse (RN) Part Time](https://careers.unitedhealthgroup.com/job/paris/home-infusion-registered-nurse-rn-part-time/34088/103247948256) | Paris, Tennessee | $29 to $52/hour | 2026-11-13 |  |
 | UT Southwestern | [Retail Pharmacy Technician](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=984560&lang=en) | Texas-Dallas-6201 Harry Hines Blvd |  | 2026-11-13 |  |
-| UTHealth Houston | [Data Entry Operator I - School of Public Health (Edinburg)](https://careers.uth.tmc.edu/us/en/job/260002CY) | Brownsville, Texas, United States |  | 2026-11-13 |  |
 | AbbVie | [Veterinary Technician I](https://jobs.smartrecruiters.com/AbbVie/3743990016823236-veterinary-technician-i) | North Chicago, IL, us |  | 2026-11-13 |  |
 | Ascension | [Surgical Scheduler Orthopedics](https://jobs.ascension.org/us/en/job/24928) | Austin, TX, US |  | 2026-11-13 |  |
 | Ascension | [Patient Care Technician Stepdown Telemetry Observation](https://jobs.ascension.org/us/en/job/28854) | Austin, TX, US |  | 2026-11-13 |  |
@@ -682,6 +716,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | UnitedHealth Group | [RN Hospice Nurse - PRN](https://careers.unitedhealthgroup.com/job/roseburg/rn-hospice-nurse-prn/34088/103170432128) | Roseburg, Oregon | $53 to $55/hour | 2026-11-12 |  |
 | UnitedHealth Group | [Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/rutherford/patient-care-coordinator/34088/103203151280) | Rutherford, New Jersey | $18 to $32/hour | 2026-11-12 |  |
 | UnitedHealth Group | [Registered Nurse PRN - Home Health](https://careers.unitedhealthgroup.com/job/vero-beach-south/registered-nurse-prn-home-health/34088/103191303280) | Vero Beach, Florida | $28.27 to $50.48/hour | 2026-11-12 |  |
+| UT Southwestern | [RN Progressive Care Nights 5k Bonus](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=260000MC&lang=en) | Texas-Dallas-5323 Harry Hines Blvd |  | 2026-11-12 |  |
 | 4 Paws Animal Clinic | [Veterinary Receptionist](https://job-boards.greenhouse.io/4paws/jobs/8937647002) | Winter Park, FL | $16 to $20/hour | 2026-11-12 |  |
 | AdvisaCare | [Hospice Registered Nurse](https://apply.workable.com/j/9FBCF0DC61) | Lansing, Michigan, United States |  | 2026-11-12 |  |
 | Alliance Animal Health | [Veterinary Receptionist](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000161171989-veterinary-receptionist) | Trussville, AL, us |  | 2026-11-12 |  |
@@ -721,38 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BAYADA Home Health Care | [CNA/HHA 1:1 - Home Care](https://jobs.bayada.com/en/jobs?gh_jid=8938532002) | Clearwater Beach, FL 33767 / 27.969272587 / -82.825439617 | $17 to $19/hour | 2026-11-12 |  |
 | BAYADA Home Health Care | [DCW/ Direct Care Worker and CNA/ Certified Nursing Assistant](https://jobs.bayada.com/en/jobs?gh_jid=8937833002) | Tucson, AZ 85719 / 32.254714139 / -110.95098975 | $16.50 to $30/hour | 2026-11-12 |  |
 | BAYADA Home Health Care | [Home Caregiver/HHA](https://jobs.bayada.com/en/jobs?gh_jid=8937837002) | Mesa, AZ 85204 / 33.399576002 / -111.78593852 | $16.50 to $20/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Home Health Aide, Hospice](https://jobs.bayada.com/en/jobs?gh_jid=8937914002) | Tucson, AZ 85701 / 32.216607995 / -110.96975499 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [Home Health Aide - Private Duty](https://jobs.bayada.com/en/jobs?gh_jid=8937782002) | Naples, FL 34110 / 26.29409341 / -81.787152896 | $18 to $20/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Home Health Occupational Therapist](https://jobs.bayada.com/en/jobs?gh_jid=8938023002) | Oilville, VA 23129 / 37.699011153 / -77.777223482 | $58 to $68/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Home Health Physical Therapist](https://jobs.bayada.com/en/jobs?gh_jid=8938075002) | Sterling, VA 20164 / 39.01262158 / -77.393793036 | $67 to $78/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Hospital At Home (HICU) LPN](https://jobs.bayada.com/en/jobs?gh_jid=8937962002) | Downingtown, PA 19335 / 40.0204718 / -75.716078405; Select a Location | $40 to $45/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Hospital At Home (HICU) LPN](https://jobs.bayada.com/en/jobs?gh_jid=8937955002) | King Of Prussia, PA 19406 / 40.093760586 / -75.382200595; Select a Loc | $40 to $45/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Hospital At Home (HICU) Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8937968002) | Downingtown, PA 19335 / 40.0204718 / -75.716078405; Select a Location | $45 to $50/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Hospital At Home (HICU) Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8937969002) | King Of Prussia, PA 19406 / 40.093760586 / -75.382200595; Select a Loc | $45 to $50/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Hybrid Occupational Therapist, (OT) - Home Health/Outpatient](https://jobs.bayada.com/en/jobs?gh_jid=8938507002) | Durham, NC 27701 / 35.99739721 / -78.899576413 (hybrid) |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [LPN - Home Care / 1:1 / PRN Shifts](https://jobs.bayada.com/en/jobs?gh_jid=8938320002) | Tucson, AZ 85701 / 32.216607995 / -110.96975499 | $31/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [LPN (Licensed Practical Nurse)](https://jobs.bayada.com/en/jobs?gh_jid=8937883002) | Jersey City, NJ 07303 / 40.716704 / -74.037258 | $30 to $35/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Occupational Therapist](https://jobs.bayada.com/en/jobs?gh_jid=8937898002) | Marion, SC 29571 / 34.173063773 / -79.394505571 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [Occupational Therapist- Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8938101002) | Colonial Heights, VA 23834 / 37.271692513 / -77.404074672 | $68 to $72/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Occupational Therapist (OT) - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8937947002) | Fayetteville, NC 28301 / 35.078747415 / -78.888918165 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [Occupational Therapist, OT - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8938022002) | Mount Airy, NC 27030 / 36.494306114 / -80.623488171 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [Occupational Therapist, OT - Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8938084002) | Asheboro, NC 27203 / 35.724905319 / -79.80518473 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [OT Occupational Therapist](https://jobs.bayada.com/en/jobs?gh_jid=8938021002) | Ruckersville, VA 22968 / 38.231832651 / -78.397196794 | $58 to $68/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Outpatient Occupational Therapist- Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8937845002) | Media, PA 19063 / 39.917562349 / -75.402873424 | $50/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Overnight LPN - Home Care / 1:1 / South Tucson](https://jobs.bayada.com/en/jobs?gh_jid=8938321002) | Sahuarita, AZ 85629 / 31.953346549 / -110.97195006 | $31/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Overnight LPN - Home Care / 1:1 / Tucson](https://jobs.bayada.com/en/jobs?gh_jid=8938322002) | Tucson, AZ 85713 / 32.192933816 / -110.98674085 | $31/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Overnight RN, Home Care / 1:1 / South Tucson](https://jobs.bayada.com/en/jobs?gh_jid=8938324002) | Sahuarita, AZ 85629 / 31.953346549 / -110.97195006 | $35/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Overnight RN, Home Care / 1:1 / Tucson](https://jobs.bayada.com/en/jobs?gh_jid=8938325002) | Tucson, AZ 85701 / 32.216607995 / -110.96975499 | $35/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Pediatric RN, Home Care / 1:1 / Tucson](https://jobs.bayada.com/en/jobs?gh_jid=8938326002) | Tucson, AZ 85713 / 32.192933816 / -110.98674085 | $35/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Personal Care Assistant- HHA/CNA](https://jobs.bayada.com/en/jobs?gh_jid=8938544002) | St Petersburg, FL 33705 / 27.741884285 / -82.643895211 | $17 to $19/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Physical Therapist, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8937924002) | Georgetown, SC 29440 / 33.399407414 / -79.316479693 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [Physical Therapist, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8937927002) | Myrtle Beach, SC 29575 / 33.62036239 / -78.978761314 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [Physical Therapist, PT - Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8938024002) | Winston Salem, NC 27105 / 36.147611895 / -80.236671068 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [Physical Therapist, Weekend Baylor](https://jobs.bayada.com/en/jobs?gh_jid=8937944002) | Richmond, VA 23225 / 37.515888586 / -77.507884447 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8938575002) | Alexandria, VA 22304 / 38.812991106 / -77.122898195 | $64 to $70/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Registered Nurse, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8937932002) | Georgetown, SC 29442 / 33.387677 / -79.288966 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [Registered Nurse, RN - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8938087002) | Winston Salem, NC 27101 / 36.103093209 / -80.227060071 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [Registered Nurse, RN - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8938088002) | Greensboro, NC 27401 / 36.070605863 / -79.771377554 |  | 2026-11-12 |  |
-| BAYADA Home Health Care | [RN, Home Care / 1:1 / PRN](https://jobs.bayada.com/en/jobs?gh_jid=8938328002) | Tucson, AZ 85702 / 32.2221 / -110.9673 | $35/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Start of Care Registered Nurse, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8937895002) | Gaithersburg, MD 20877 / 39.143095973 / -77.189152539 | $55 to $62/hour | 2026-11-12 |  |
-| BAYADA Home Health Care | [Weekend Start of Care Registered Nurse, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8937967002) | Elkton, MD 21921 / 39.622461532 / -75.843283357 | $55 to $62/hour | 2026-11-12 |  |

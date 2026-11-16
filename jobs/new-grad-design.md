@@ -1,11 +1,13 @@
 # New grad and entry level: Design and creative
 
-172 open, newest first (by the date the scraper first saw them), updated 2026-11-15.
+172 open, newest first (by the date the scraper first saw them), updated 2026-11-16.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Farmers District 40 | [Manager Trainee - Morgan Raleigh](https://jobs.ashbyhq.com/farmersd40/8b190d4f-9117-474a-85f9-b1083c13e344) | Morgan Raleigh Agency - Battle Creek |  | 2026-11-16 |  |
+| Wade Trim | [Natural Gas Designer](https://jobs.lever.co/wadetrim/51f7d42d-d228-4933-b710-029425a17260) | Fort Worth, TX |  | 2026-11-16 |  |
 | Clera | [Founding Product Designer](https://jobs.ashbyhq.com/Clera/c36ede05-7696-456b-9547-ecd5f33b02d9) | San Francisco | $150,000 to $250,000 | 2026-11-15 |  |
 | Fox Corporation | [Graphic Thumbnail Designer](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA--NY---New-York---37-W-28th-St/Graphic-Thumbnail-Designer_R50034296) | USA NY - New York - 37 W 28th St | $25.75 to $34.62/hour | 2026-11-15 |  |
 | Bask Health | [Junior UX Designer](https://apply.workable.com/j/CE3B5E6259) | United States |  | 2026-11-14 |  |
@@ -13,7 +15,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | McKinney | [Community Manager](https://job-boards.greenhouse.io/jobsmckinneycom/jobs/8384435) | Durham, NC (hybrid) | $65,000 to $90,000 | 2026-11-13 |  |
 | Thomson Reuters | [Producer, Video Podcasts (Level 1 Journalist, TEMP)](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Los-Angeles-California/Producer--Video-Podcasts--Level-1-Journalist--TEMP-_JREQ205213) | United States of America, Los Angeles, California | $39 to $70/hour | 2026-11-12 |  |
 | Primer | [Curriculum Designer - Pursuits (Contractor)](https://jobs.ashbyhq.com/primer/8eb475e8-4d7b-4663-abd7-d71abdc31c85) | Remote |  | 2026-11-12 |  |
-| Stryker | [Label Designer (Remote)](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Label-Designer--Remote-_R576780) | Fort Lauderdale, Florida (remote) | $62,400 to $114,300 | 2026-11-12 | no visa sponsorship |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/22246) | Olathe, Kansas |  | 2026-11-11 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/22247) | Portland, Oregon |  | 2026-11-11 |  |
 | HCSC | [Producer Advocate](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/OK---Oklahoma-City/Producer-Advocate_R0056379-2) | OK - Oklahoma City | $17.75 to $28.39/hour | 2026-11-11 |  |
@@ -21,7 +22,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Quality Group | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/5032407101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |
 | The Quality Group GmbH | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5023226101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |
 | Toast | [Video Designer](https://careers.toasttab.com/jobs?gh_jid=8261417) | Remote | $62,000 to $128,000 | 2026-11-11 |  |
-| Wade Trim | [Natural Gas Designer - #3081](https://jobs.lever.co/wadetrim/decd734b-91d4-4058-936f-6d3159c619a8) | Fort Worth, TX |  | 2026-11-11 |  |
 | Trilon Group | [Engineering Designer I](https://trilongroup.pinpointhq.com/en/postings/fd4c31a6-aac2-46f7-9abd-b46b3c2253e8) | Atlanta, Georgia | $65,000 to $80,000 | 2026-11-11 |  |
 | AccuWeather | [Weather Graphics Production Artist](https://job-boards.greenhouse.io/accuweather/jobs/8367396) | State College, PA |  | 2026-11-10 |  |
 | Konrad | [UI/UX Designer](https://www.konrad.com/careers/job/8199570003?gh_jid=8199570003) | New York | $80,000 to $100,000 | 2026-11-10 |  |
@@ -135,7 +135,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SWA Group | [Entry-level Landscape Designer (1-2 years of experience)](https://swa-group.breezy.hr/p/d33352a30e9d-entry-level-landscape-designer-1-2-years-of-experience) | San Francisco, CA |  | 2026-11-04 |  |
 | McAdams | [Designer I](https://job-boards.greenhouse.io/mcadams/jobs/4702846007) | Raleigh, North Carolina, United States |  | 2026-11-04 |  |
 | Benesch | [Bridge Designer (EIT)](https://www.benesch.com/job-openings/4655359007?gh_jid=4655359007) | Fort Worth, TX |  | 2026-11-04 |  |
-| Palantir Technologies | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02) | New York, NY | $125,000 to $130,000 | 2026-11-04 | clearance |
 | Jobs for Humanity | [Online Producers](https://jobs.smartrecruiters.com/JobsForHumanity/744000016284635-online-producers) | Boston, Massachusetts, us | $15 to $16/hour | 2026-11-04 |  |
 | Palantir Technologies | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/32295454-6629-4f47-b11e-bbd7f5d41acb) | Palo Alto, CA | $125,000 to $130,000 | 2026-11-04 | clearance |
 | Palantir Technologies | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65) | Washington, D.C. | $125,000 to $130,000 | 2026-11-04 | clearance |
@@ -149,6 +148,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Collabera | [Jr. User Experience (UX) Designer](https://jobs.smartrecruiters.com/Collabera2/85576357-jr-user-experience-ux-designer) | New York, NY, us |  | 2026-11-04 |  |
 | Collabera | [Graphic Designer](https://jobs.smartrecruiters.com/Collabera2/80516538-graphic-designer) | Seattle, WA, us |  | 2026-11-04 |  |
 | Atria Group LLC | [User Interface Designer (Entry level)](https://jobs.smartrecruiters.com/AtriaGroupLLC/599787-user-interface-designer-entry-level-) | Dallas, TX, us |  | 2026-11-04 |  |
+| Palantir Technologies | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02) | New York, NY | $125,000 to $130,000 | 2026-11-04 | clearance |
 | Thorne | [Performance Creative & Social Specialist](https://thorne.pinpointhq.com/en/postings/b2cc0395-e902-4078-9a14-4876d6e25740) | Remote, South Carolina (Remote) |  | 2026-11-04 |  |
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / C-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51985) | Sparks, Nevada |  | 2026-11-02 |  |
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / A-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51993) | Sparks, Nevada |  | 2026-10-30 |  |

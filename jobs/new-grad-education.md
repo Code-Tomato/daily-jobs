@@ -1,6 +1,6 @@
 # New grad and entry level: Education
 
-361 open, newest first (by the date the scraper first saw them), updated 2026-11-15.
+358 open, newest first (by the date the scraper first saw them), updated 2026-11-16.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -342,11 +342,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | YMCA of Greater Boston | [Group Exercise Instructor - Aqua Zumba (certification required)](https://ymcaboston.pinpointhq.com/en/postings/a61a4db0-60e5-4b9e-857a-7f79ee89c003) | Woburn, MA |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor - Aqua Fitness](https://ymcaboston.pinpointhq.com/en/postings/293ea85e-6dfa-46ac-9b35-e0f109eb30e4) | Woburn, MA |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor - Body Combat (certification required or equivalent experience)](https://ymcaboston.pinpointhq.com/en/postings/1d0f2e1d-e00b-4f54-a440-5d5cd181398b) | Woburn, MA |  | 2026-11-04 |  |
-| Texas A&M University | [Graduate Academic Advisor II](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Graduate-Academic-Advisor-II_R-098338-2) | College Station, TX |  | 2026-11-03 |  |
 | UTMB Health | [Federal Work Study Student, Dean of Graduate School](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2600926&lang=en) | United States-Texas-Galveston |  | 2026-11-02 |  |
-| Texas A&M University | [Library Specialist I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Library-Specialist-I_R-098193-2) | College Station, TX | $15.85/hour | 2026-10-28 |  |
 | Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=925953) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-10-23 |  |
-| Texas A&M University | [Graduate Academic Advisor II](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Fort-Worth-TX/Graduate-Academic-Advisor-II_R-098183) | Fort Worth, TX | $55,000 to $60,000 | 2026-10-22 |  |
 | Rady Children's Health San Diego | [Preschool Classroom Floater (Casual) - Alexa's PLAYC](https://jobs.rchsd.org/job/san-diego/preschool-classroom-floater-casual-alexa-s-playc/1717/102243126416) | San Diego, California | $24.26 to $33.36/hour | 2026-10-22 |  |
 | United Airlines | [Ramp Training Instructor](https://careers.united.com/us/en/job/ORD00003574) | Chicago, Illinois, United States | $66,500 to $86,616 | 2026-10-20 | no visa sponsorship |
 | KLA | [Technical Instructor (EBEAM)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--EBEAM-_2639119) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |

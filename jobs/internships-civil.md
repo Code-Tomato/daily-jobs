@@ -1,6 +1,6 @@
 # Internships and co-ops: Civil, construction and environmental
 
-843 open, newest first (by the date the scraper first saw them), updated 2026-11-15. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+840 open, newest first (by the date the scraper first saw them), updated 2026-11-16. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -546,11 +546,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | KPFF Consulting Engineers | [2027 Structural Engineering Intern](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990014959785-2027-structural-engineering-intern) | Boise, ID, us |  | 2026-11-04 |  |
 | KPFF Consulting Engineers | [2027 Structural Engineering Intern](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990014959483-2027-structural-engineering-intern) | Salt Lake City, UT, us |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408628008) · Summer 2027 | Loveland, CO |  | 2026-11-04 |  |
-| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408723008) · Summer 2027 | Des Moines, IA |  | 2026-11-04 |  |
-| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408543008) · Summer 2027 | North Kansas City, MO; Overland Park, KS |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408720008) · Summer 2027 | Denver, CO |  | 2026-11-04 |  |
+| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408543008) · Summer 2027 | North Kansas City, MO; Overland Park, KS |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408699008) · Summer 2027 | Lincoln, NE |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408678008) · Summer 2027 | Fort Worth, TX |  | 2026-11-04 |  |
+| Olsson | [Civil Engineering Internship - Data Centers Site Design](https://job-boards.greenhouse.io/olsson/jobs/5408723008) · Summer 2027 | Des Moines, IA |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Roadway](https://job-boards.greenhouse.io/olsson/jobs/5405885008) | Dallas, TX; Fort Worth, TX |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Roadway](https://job-boards.greenhouse.io/olsson/jobs/5405845008) | Fayetteville, AR |  | 2026-11-04 |  |
 | Olsson | [Civil Engineering Internship - Site Design](https://job-boards.greenhouse.io/olsson/jobs/5398272008) · Summer 2027 | Manhattan, KS |  | 2026-11-04 |  |
@@ -738,6 +738,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kiewit | [Field Engineer Intern - Kiewit Water Facilities South - Summer 2027](https://kiewitcareers.kiewit.com/job/Westlake-Field-Engineer-Intern-Kiewit-Water-Facilities-South-Summer-2027-TX/1412876900/) · Summer 2027 | Santa Teresa, NM, US |  | 2026-10-23 |  |
 | Varda | [Construction Management Internship – Spring 2027](https://job-boards.greenhouse.io/vardaspace/jobs/8041944003) · Spring 2027 | El Segundo, California, United States |  | 2026-10-23 | US citizens/persons only |
 | Permian Resources | [Environmental Engineering Intern](https://permianres.wd12.myworkdayjobs.com/Permian_Resources_Careers/job/Midland-Texas/Environmental-Engineering-Intern_R-100413) · Summer 2027 | Midland, Texas |  | 2026-10-21 |  |
+| GE HealthCare | [Surgery Field Engineer Apprentice (Pittsburgh, PA)](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Pittsburgh/Surgery-Field-Engineer-Apprentice--Pittsburgh--PA-_R4039858-1) | Pittsburgh | $48,000 to $72,000 | 2026-10-20 | no visa sponsorship |
 | Kiewit | [Field Engineer Intern - Heavy Civil - Kiewit Foundations Summer 2027](https://kiewitcareers.kiewit.com/job/Omaha-Field-Engineer-Intern-Heavy-Civil-Kiewit-Foundations-Summer-2027-NE-68046/1429341300/) · Summer 2027 | Kittery, ME, US | $21 to $25/hour | 2026-10-20 |  |
 | Bechtel | [27 Intern / US / Mech Field Eng](https://jobs.bechtel.com/us/en/job/297286) | United States | $23.98 to $34.40/hour | 2026-10-20 | no visa sponsorship |
 | Bechtel | [27 Intern / US / Const Mgmt FE](https://jobs.bechtel.com/us/en/job/297287) | United States | $23 to $34.40/hour | 2026-10-20 | no visa sponsorship |
@@ -753,6 +754,5 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Construction Intern - Field](https://careers.bv.com/job/Field-Assignment-Construction-Intern-Field-KS/1434966733/) · Summer 2027 | Field Assignment, KS, US |  | 2026-10-20 |  |
 | Black & Veatch | [Civil Engineer Intern - Geotech](https://careers.bv.com/job/Overland-Park-Civil-Engineer-Intern-Geotech-KS-66062/1435068533/) | Overland Park, KS, US | $18.72 to $35.19/hour | 2026-10-20 |  |
 | Black & Veatch | [Civil Engineer Intern - Water (South Central Region)](https://careers.bv.com/job/Kansas-City-Civil-Engineer-Intern-Water-%28South-Central-Region%29-MO-64101/1435069633/) | Fort Worth, TX, US |  | 2026-10-20 |  |
-| GE HealthCare | [Surgery Field Engineer Apprentice -San Francisco Bay Area](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) | Remote | $48,000 to $72,000 | 2026-10-20 | no visa sponsorship |
 | Kiewit | [Field Engineer Intern - Kiewit Power Delivery](https://kiewitcareers.kiewit.com/job/Lenexa-Field-Engineer-Intern-Kiewit-Power-Delivery-KS/1427294100/) | Medford, OR, US | $20 to $25/hour | 2026-10-20 | no visa sponsorship |
 | Black & Veatch | [Structural Engineer Intern, Federal](https://careers.bv.com/job/Overland-Park-Structural-Engineer-Intern%2C-Federal-KS-66062/1434011033/) | Overland Park, KS, US |  | 2026-10-20 | US citizens/persons only |

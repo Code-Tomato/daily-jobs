@@ -1,11 +1,15 @@
 # Internships and co-ops: Sales, marketing and communications
 
-1,167 open, newest first (by the date the scraper first saw them), updated 2026-11-15. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,154 open, newest first (by the date the scraper first saw them), updated 2026-11-16. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Fanatics Collectibles | [Summer 2027 Internship - Licensing Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507681009) · Summer 2027 | New York, NY, United States | $27/hour | 2026-11-16 |  |
+| Fanatics Collectibles | [Summer 2027 MBA Internship - Licensing Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507489009) · Summer 2027 | Los Angeles, CA, United States | $27/hour | 2026-11-16 |  |
+| Octaura | [Intern, Product and Marketing Rotation](https://job-boards.greenhouse.io/octaura/jobs/4719079007) | New York |  | 2026-11-16 |  |
+| Octaura | [Intern, Sales GTM](https://job-boards.greenhouse.io/octaura/jobs/4687402007) | New York |  | 2026-11-16 |  |
 | Clera | [Growth & Marketing Intern / New Grad](https://jobs.ashbyhq.com/Clera/1798e957-ca09-4252-b639-a0a1073afabc) | San Francisco |  | 2026-11-15 |  |
 | PTC | [Partnerships Intern (Summer 2027)](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Partnerships-Intern--Summer-2027-_JR112941) · Summer 2027 | Boston, MA, USA | $25 to $33/hour | 2026-11-15 | no visa sponsorship |
 | Ocean Casino Resort | [Intern - Marketing (Summer 2027)](https://apply.workable.com/j/A8292ED533) · Summer 2027 | Atlantic City, New Jersey, United States | $18/hour | 2026-11-15 |  |
@@ -53,7 +57,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Adobe | [2027 Intern - Communications](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Communications_R173413) | San Francisco | $25 to $30/hour | 2026-11-13 |  |
 | Arm | [Intern Technical Writer](https://careers.arm.com/job/austin/intern-technical-writer/33099/103218662960) | Austin, Texas |  | 2026-11-13 |  |
 | CME Group | [Client Development & Sale Intern - Summer 2027](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/New-York---300-Vesey-Street/Client-Development---Sale-Intern---Summer-2027_35042-1) · Summer 2027 | New York - 300 Vesey Street | $23.84 to $39.71/hour | 2026-11-13 | no visa sponsorship |
-| CrowdStrike | [Sales Excellence Elite Intern (Summer 2027)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Sales-Excellence-Elite-Intern--Summer-2027-_R30134) · Summer 2027 | USA - Austin, TX |  | 2026-11-13 |  |
 | Galaxy | [2027 Data Center Growth & Development Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256234004) | New York | $55/hour | 2026-11-13 |  |
 | Mormon Women for Ethical Government | [State Communications Intern](https://mweg.bamboohr.com/careers/81) | United States (Remote) |  | 2026-11-13 |  |
 | SiriusXM | [Spring Intern, Promotions & Events Marketing - Part Time](https://careers.siriusxm.com/careers-home/jobs/17661) · Spring | Nashville, Tennessee | $18/hour | 2026-11-13 |  |
@@ -78,7 +81,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NBCUniversal | [NBC News Bureau Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000161096279-nbc-news-bureau-internships-summer-2027) · Summer 2027 | Universal City, CA, us | $19/hour | 2026-11-11 | no visa sponsorship |
 | NBCUniversal | [NBC 4 New York Production & Editorial Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000161093625-nbc-4-new-york-production-editorial-internships-summer-2027) · Summer 2027 | New York, NY, us | $19/hour | 2026-11-11 | no visa sponsorship |
 | PTC | [Documentation Content Intern (Summer 2027)](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Documentation-Content-Intern--Summer-2027-_JR112948) · Summer 2027 | Boston, MA, USA | $25 to $32/hour | 2026-11-11 | no visa sponsorship |
-| Adobe | [2027 SAMI Intern – Adobe Sales Academy BDR](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-SAMI-Intern---Adobe-Sales-Academy-BDR_R173029) | San Jose | $25 to $30/hour | 2026-11-11 |  |
 | Centene | [Communications & Videography Intern (Undergraduate - Summer)](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-KS/Communications---Videography-Intern--Undergraduate---Summer-_1669643) · Summer | Remote-KS | $18 to $26/hour | 2026-11-11 | no visa sponsorship |
 | Constellation Energy | [2027 Summer Intern to the Chief of Staff, External Affairs & Growth (Washington, DC)](https://jobs.constellationenergy.com/careers-home/jobs/142425) · Summer 2027 | Washington, Washington, DC |  | 2026-11-11 |  |
 | Entegris | [Internal Communications Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Internal-Communications-Co-Op_REQ-14901) | Billerica, MA |  | 2026-11-11 |  |
@@ -415,7 +417,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ISlide | [Spring 2027 Sports Licensing Intern](https://islide.breezy.hr/p/f77c9b4cfb40-spring-2027-sports-licensing-intern) · Spring 2027 | Hyde Park, MA |  | 2026-11-04 |  |
 | A.N. Publishing | [International Editor (Internship)](https://jobs.smartrecruiters.com/ANPublishing1/744000159542249-international-editor-internship-) | New York, NY, us |  | 2026-11-04 |  |
 | Babbel | [Performance Marketing Intern](https://jobs.ashbyhq.com/babbel/dd520fb8-ede6-4d9f-9423-111e2eb801ac) | New York | $18/hour | 2026-11-04 |  |
-| Dell | [Product Marketing Graduate Intern](https://jobs.dell.com/en/sites/CX_1/job/302216) | Round Rock, TX, United States | $29.60 to $31.80/hour | 2026-11-04 |  |
 | Atlassian | [Social Media Intern, 2027 Summer U.S.](https://www.atlassian.com/company/careers/details/27223) · Summer 2027 | San Francisco - United States - San Francisco, California 94104 United | $36 to $51/hour | 2026-11-04 |  |
 | GigFinesse | [Marketing Content Intern (Spring 2027)](https://job-boards.greenhouse.io/gigfinesse/jobs/4725845006) · Spring 2027 | Austin, Texas |  | 2026-11-04 |  |
 | GigFinesse | [Sales & Marketing Intern (Spring 2027)](https://job-boards.greenhouse.io/gigfinesse/jobs/4725909006) · Spring 2027 | New York City, NY |  | 2026-11-04 |  |
@@ -711,8 +712,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | MBJ Network | [Staff Writer-Intern](https://jobs.smartrecruiters.com/MBJNetwork/744000097967810-staff-writer-intern) | Lombard, IL, us |  | 2026-11-04 |  |
 | VetEvolve | [Brandermill Animal Hospital - DVM/VMD Extern](https://job-boards.greenhouse.io/vetevolve/jobs/4993566008) | Richmond, Virginia |  | 2026-11-04 |  |
 | Power Digital | [Sales Development Representative Internship, Spring 2027](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/4975499007) · Spring 2027 | Remote - United States |  | 2026-11-04 |  |
-| Highwire | [Public Relations Intern (Post-Graduate)](https://job-boards.greenhouse.io/highwire/jobs/4054548009) | New York, New York, United States (hybrid) | $20/hour | 2026-11-04 |  |
 | Highwire | [Public Relations Intern (Post-Graduate)](https://job-boards.greenhouse.io/highwire/jobs/4054549009) | San Francisco, California, United States (hybrid) | $20/hour | 2026-11-04 |  |
+| Highwire | [Public Relations Intern (Post-Graduate)](https://job-boards.greenhouse.io/highwire/jobs/4054548009) | New York, New York, United States (hybrid) | $20/hour | 2026-11-04 |  |
 | Everlight Solar | [Athletic Leadership and Sales Internship](https://everlight-solar.breezy.hr/p/b476907c8765-athletic-leadership-and-sales-internship) | St. Paul, MN | $60,000 to $150,000 | 2026-11-04 |  |
 | Everlight Solar | [Business-Value Creation and Sales Internship](https://everlight-solar.breezy.hr/p/b3ec20d50ab9-business-value-creation-and-sales-internship) | Minneapolis, MN | $60,000 to $150,000 | 2026-11-04 |  |
 | Everlight Solar | [Business-Value Creation and Sales Internship](https://everlight-solar.breezy.hr/p/aff04d10917a-business-value-creation-and-sales-internship) | St. Paul, MN | $60,000 to $150,000 | 2026-11-04 |  |
@@ -755,4 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Power Digital | [Public Relations Intern, Spring 2027](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/4345830007) · Spring 2027 | New York, New York, United States (remote) |  | 2026-11-04 |  |
 | Power Digital | [Public Relations Intern, Spring 2027](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/4346307007) · Spring 2027 | Remote - United States |  | 2026-11-04 |  |
 | German American Chambers of Commerce | [[RÖDL USA] Praktikant - German Intern](https://german-american-chambers-of-commerce.breezy.hr/p/7c7d206cc108-rodl-usa-praktikant-german-intern) | Charlotte, NC |  | 2026-11-04 |  |
-| German American Chambers of Commerce | [[RÖDL USA] Praktikant - German Intern](https://german-american-chambers-of-commerce.breezy.hr/p/2433d7f2c3da-rodl-usa-praktikant-german-intern) | Greenville, SC |  | 2026-11-04 |  |
