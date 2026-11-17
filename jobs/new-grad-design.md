@@ -1,11 +1,16 @@
 # New grad and entry level: Design and creative
 
-172 open, newest first (by the date the scraper first saw them), updated 2026-11-16.
+177 open, newest first (by the date the scraper first saw them), updated 2026-11-17.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Axiom Space | [User Interface Designer](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/User-Interface-Designer_JR100920) | Houston |  | 2026-11-17 |  |
+| Google | [UX Researcher, Enterprise Platform, Google Ads](https://www.google.com/about/careers/applications/jobs/results/86277138008679110) | Seattle, WA, USA | $109,000 to $155,000 | 2026-11-17 |  |
+| Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDrii6RfWSkIbRfbk5w7x6is) | NJ - Warren |  | 2026-11-17 | no visa sponsorship, US citizens/persons only |
+| Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDpJF1yuLabQcf3boF59TogT) | PA - Philadelphia, PA - Chalfont |  | 2026-11-17 | no visa sponsorship, US citizens/persons only |
+| Siemens Energy | [Drafter / Designer](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Drafter-Designer/306748) | Richland, Mississippi, United States of America |  | 2026-11-17 |  |
 | Farmers District 40 | [Manager Trainee - Morgan Raleigh](https://jobs.ashbyhq.com/farmersd40/8b190d4f-9117-474a-85f9-b1083c13e344) | Morgan Raleigh Agency - Battle Creek |  | 2026-11-16 |  |
 | Wade Trim | [Natural Gas Designer](https://jobs.lever.co/wadetrim/51f7d42d-d228-4933-b710-029425a17260) | Fort Worth, TX |  | 2026-11-16 |  |
 | Clera | [Founding Product Designer](https://jobs.ashbyhq.com/Clera/c36ede05-7696-456b-9547-ecd5f33b02d9) | San Francisco | $150,000 to $250,000 | 2026-11-15 |  |

@@ -1,6 +1,6 @@
 # Internships and co-ops: Science and research
 
-149 open, newest first (by the date the scraper first saw them), updated 2026-11-16.
+147 open, newest first (by the date the scraper first saw them), updated 2026-11-17.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -85,7 +85,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Syngenta Group | [Functional Genomics Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000152251958-functional-genomics-intern) | Durham, North Carolina, us | $20 to $45/hour | 2026-11-04 |  |
 | Ginkgo Bioworks Inc. | [Automation Scientist Graduate Intern, RAC Operations](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5249264007) | Boston, Massachusetts | $37,700 to $53,500 | 2026-11-04 |  |
 | ATEME | [Lab Engineer Intern](https://careers.ateme.com/jobs/8445632-lab-engineer-intern) | Englewood, United States | $15.16 to $20/hour | 2026-11-04 |  |
-| Flagship Pioneering Co-Op Program | [Pioneering Medicines: Biologic Formulations Technical Operations Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8842350002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
 | Lydian | [Coatings Engineer/Scientist Co-op](https://jobs.ashbyhq.com/lydian/bc092b36-e885-41dd-b970-ae2c06f5e271) · Spring 2027 | Boston |  | 2026-11-04 |  |
 | Cartesian Systems | [Micro-Intern: Research Assistant (IAP - Alumni Host)](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009) | Cambridge, MA | $20 to $25/hour | 2026-11-04 |  |
 | NETZSCH Group | [Application Center (Lab) Intern](https://jobs.smartrecruiters.com/NETZSCHGroup/744000149939169-application-center-lab-intern) | Exton, PA, us |  | 2026-11-04 |  |
@@ -100,7 +99,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Amgen | [Grad Intern – Bioanalytical Research Associate (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097) · Summer 2027 | US - California - Thousand Oaks | $35.34 to $41.20/hour | 2026-10-30 |  |
 | Cedars-Sinai | [Research Intern (Academic Credit) - Simpkins Lab - Department of Neurology - Per Diem (On-site)](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21589) | Los Angeles, CA, United States |  | 2026-10-29 |  |
 | Seagate | [Organic Chemistry Scientist/Engineer Intern - Summer 2027](https://seagatecareers.com/job/Longmont-Organic-Chemistry-ScientistEngineer-Intern-Summer-2027-CO-80501/1443837500/) · Summer 2027 | Longmont, United States | $22 to $35/hour | 2026-10-27 |  |
-| Trace3 | [Innovation Research & Development Lab Intern](https://job-boards.greenhouse.io/trace3/jobs/8306880) | Houston, TX | $18 to $27/hour | 2026-10-27 |  |
 | KLA | [Chemistry R&D Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Chemistry-R-D-Intern_2642152-1) · Summer 2027 | Totowa, NJ | $31.50 to $50/hour | 2026-10-24 |  |
 | Constellation Energy | [2027 Chemical Engineering Intern - Geysers](https://jobs.constellationenergy.com/careers-home/jobs/140353) | Middletown, California |  | 2026-10-23 |  |
 | Microsoft | [Research Intern - Gray Systems Lab (GSL)](https://apply.careers.microsoft.com/careers/job/1970393557045445) | Redmond, WA, US; Mountain View, CA, US | $6,810 to $14,610/month | 2026-10-23 |  |

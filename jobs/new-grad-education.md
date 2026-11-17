@@ -1,11 +1,19 @@
 # New grad and entry level: Education
 
-358 open, newest first (by the date the scraper first saw them), updated 2026-11-16.
+365 open, newest first (by the date the scraper first saw them), updated 2026-11-17.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Apollo After School | [After School Educator](https://apollo-after-school.breezy.hr/p/6953dba657a0-after-school-educator) | Jersey City, NJ | $20/hour | 2026-11-17 |  |
+| Covista | [FNP Capstone Practicum/Intensive - Part-time Faculty](https://jobs.smartrecruiters.com/Covista/744000161835039-fnp-capstone-practicum-intensive-part-time-faculty) | Remote, REMOTE, us |  | 2026-11-17 |  |
+| KIPP | [High School Team Teacher](https://jobs.smartrecruiters.com/KIPP/744000161911559-high-school-team-teacher) | Columbus, OH, us | $50,000 | 2026-11-17 |  |
+| LaAmistad | [Afterschool Classroom Teacher](https://laamistadinc.bamboohr.com/careers/499) | Atlanta, Georgia, United States |  | 2026-11-17 | no visa sponsorship |
+| Magical Beginnings | [Toddler Teacher - Paid Winter Break](https://jobs.lever.co/magicalbeginningslc/e238f1c0-f156-45e6-a609-2dbfb3e7ee96) | South Peabody, MA |  | 2026-11-17 |  |
+| Town of Hanover | [Out of School Time Program Specialist- Afterschool Program](https://hanovernh.bamboohr.com/careers/61) | Hanover, New Hampshire, United States | $25.31 to $26/hour | 2026-11-17 |  |
+| Apollo After School | [Part-Time Substitute Educator- Mendham, NJ](https://apollo-after-school.breezy.hr/p/013f2b764e53-part-time-substitute-educator-mendham-nj) | Randolph, NJ | $20/hour | 2026-11-17 |  |
+| Vivvi Early Learning | [Substitute Early Childhood Teacher - New York City](https://job-boards.greenhouse.io/vivvi/jobs/5530359003) | New York City | $20 to $23/hour | 2026-11-17 |  |
 | Covista | [PMHNP (Adjunct)](https://jobs.smartrecruiters.com/Covista/744000161506034-pmhnp-adjunct-) | remote, REMOTE, us |  | 2026-11-14 |  |
 | Revolution Prep | [Professional Remote Tutor - SAT/ACT & Academics](https://ats.rippling.com/revolution-prep-careers/jobs/d4675df8-132a-4c0a-845e-ddafc2ba73f8) | VA (remote) | $25 to $29/hour | 2026-11-14 |  |
 | Revolution Prep | [Professional Remote Tutor - SAT/ACT English & Academics](https://ats.rippling.com/revolution-prep-careers/jobs/3cff3a52-623f-47c0-85da-a77544771ffc) | ME (remote) | $25 to $29/hour | 2026-11-14 |  |
@@ -28,8 +36,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BelovED Community & Empowerment Academy Charter Schools | [High School Math Support Teacher/ TA](https://apply.workable.com/j/BF8771DC17) | Jersey City, New Jersey, United States | $44,000 to $59,000 | 2026-11-12 |  |
 | Frontier Schools | [Math Teacher](https://frontierschools.bamboohr.com/careers/240) | Kansas City, Missouri, United States |  | 2026-11-12 |  |
 | Brella | [Teacher - Pasadena](https://brella.breezy.hr/p/4ff105a72e15-teacher-pasadena) | Pasadena, CA |  | 2026-11-11 |  |
-| Senior Resource Group, LLC | [Fitness Instructor - The Village at Sherman Oaks](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000160989419-fitness-instructor-the-village-at-sherman-oaks) | Los Angeles, CA, us |  | 2026-11-11 |  |
-| Senior Resource Group, LLC | [Fitness Instructor - The Village at Sherman Oaks](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000160989240-fitness-instructor-the-village-at-sherman-oaks) | Los Angeles, CA, us |  | 2026-11-11 |  |
 | Big Ideas Educational Services | [Afterschool PE Teacher - 3PM-6PM](https://bigideas.bamboohr.com/careers/148) | Miami-Gardens, Florida, United States |  | 2026-11-11 |  |
 | Texas State University | [Academic Advisor I - Business Advising](https://jobs.hr.txstate.edu/postings/59214) | San Marcos, TX |  | 2026-11-11 |  |
 | Texas State University | [Academic Advisor I](https://jobs.hr.txstate.edu/postings/59209) | San Marcos, TX |  | 2026-11-11 |  |
@@ -139,6 +145,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Magical Beginnings | [Schoolwide Childcare Support Teacher](https://jobs.lever.co/magicalbeginningslc/cb293651-6840-4530-8554-3aa26f3aa422) | Wakefield, MA |  | 2026-11-05 |  |
 | Community Roots Academy | [Education Specialist - Mild/Moderate K-8](https://cra.bamboohr.com/careers/28) | Laguna Niguel, California, United States |  | 2026-11-05 |  |
 | Redeemer Presbyterian Church Lincoln Square | [Sunday Morning Teacher](https://ats.rippling.com/redeemer-presbyterian-church-lsq/jobs/8dcbd60c-ce1a-48e0-83d1-655c1c0baaf3) | New York, NY | $30 to $33/hour | 2026-11-05 |  |
+| Magical Beginnings | [Infant Teacher - Paid Winter Break](https://jobs.lever.co/magicalbeginningslc/0426d526-2a2b-44e0-92ea-9da05013748f) | Beverly, MA |  | 2026-11-05 |  |
 | Rocketship Public Schools | [Special Education Teacher](https://jobs.lever.co/rocketship/a052aec0-f35b-4ac6-bdcb-0d85c8ebf9e5) | Milwaukee, WI |  | 2026-11-05 |  |
 | Rocketship Public Schools | [Elementary Teacher](https://jobs.lever.co/rocketship/21858cee-837a-42c5-b1b0-b3c8e7ee7ff7) | Milwaukee, WI | $54,827 to $79,534 | 2026-11-05 |  |
 | Greenwood Christian Academy | [School Bus Driver](https://gcak12.bamboohr.com/careers/197) | Greenwood, Indiana, United States |  | 2026-11-05 |  |
@@ -148,7 +155,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Hope Center for Children | [Relief Family Teacher (PRN) Direct Care](https://hopecfc.bamboohr.com/careers/64) | Spartanburg, South Carolina, United States |  | 2026-11-05 |  |
 | LanguageBird | [Online Greek Instructor (Remote)](https://languagebird.bamboohr.com/careers/38) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
 | LanguageBird | [Online French Instructor (Remote)](https://languagebird.bamboohr.com/careers/30) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
-| OU Education Services | [Student Success Coach](https://jobs.lever.co/ou-education-services/bdb13f08-d80a-410f-9ea5-1db35a060e49) | Norman, Oklahoma |  | 2026-11-05 |  |
 | LanguageBird | [Online Arabic Instructor (Remote)](https://languagebird.bamboohr.com/careers/34) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
 | LanguageBird | [Online Italian Instructor (Remote)](https://languagebird.bamboohr.com/careers/36) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
 | Friends of Children with Special Needs | [Direct Support Instructor (Adult Day Program) - Fremont](https://fcsn1996.bamboohr.com/careers/26) | Fremont, California, United States | $20 to $24/hour | 2026-11-05 |  |
@@ -162,6 +168,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | LanguageBird | [Online Russian Instructor (Remote)](https://languagebird.bamboohr.com/careers/42) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
 | LanguageBird | [Online Hindi Instructor (Remote)](https://languagebird.bamboohr.com/careers/46) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
 | LanguageBird | [Online Spanish Instructor (Remote)](https://languagebird.bamboohr.com/careers/43) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
+| Magical Beginnings | [Preschool Teacher - Paid Winter Break](https://jobs.lever.co/magicalbeginningslc/f379dbd3-8063-407d-8b8b-2e3175a3b030) | Beverly, MA |  | 2026-11-05 |  |
 | Khan Lab School | [Middle School General Application (Grades 6-8)](https://khanlabschool.bamboohr.com/careers/154) | Mountain View, California, United States | $85,000 to $114,000 | 2026-11-05 |  |
 | Khan Lab School | [Upper School General Application (Grades 9-12)](https://khanlabschool.bamboohr.com/careers/156) | Mountain View, California, United States | $85,000 to $114,000 | 2026-11-05 |  |
 | American Kids Sports Center | [Swim Instructor](https://ats.rippling.com/american-kids-sports-center/jobs/418c2631-739a-4758-9370-486d20ad37f5) | Bakersfield, CA |  | 2026-11-05 |  |
