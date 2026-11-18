@@ -1,11 +1,83 @@
 # New grad and entry level: Data, ML and AI
 
-1,565 open, newest first (by the date the scraper first saw them), updated 2026-11-17. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,575 open, newest first (by the date the scraper first saw them), updated 2026-11-18. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AbbVie | [Associate Data Engineer II](https://jobs.smartrecruiters.com/AbbVie/3743990016926506-associate-data-engineer-ii) | Mettawa, IL, us |  | 2026-11-18 |  |
+| Centene | [Data Analyst I](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Analyst--I_1659018-1) | Remote-MO | $27.02 to $48.55/hour | 2026-11-18 | no visa sponsorship |
+| Jobs for Humanity | [Data Entry & Order Processing Clerk](https://jobs.smartrecruiters.com/JobsForHumanity/744000162238529-data-entry-order-processing-clerk) | Oakland, CA, us | $22.28 to $28.28/hour | 2026-11-18 |  |
+| Seagate | [Senior Engineer, Materials Science & Machine Learning (Early Career)](https://seagatecareers.com/job/Fremont-Senior-Engineer%2C-Materials-Science-&-Machine-Learning-%28Early-Career%29-CA-94536/1451764500/) | Fremont USA Research Center | $87,692 to $160,595 | 2026-11-18 |  |
+| Vistra | [Data Scientist](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Data-Scientist_40016989-2) | Irving, Texas |  | 2026-11-18 |  |
+| AECOM | [Junior Fire Protection Engineer, Data Centers - Remote (U.S.)](https://jobs.smartrecruiters.com/AECOM2/744000162178019-junior-fire-protection-engineer-data-centers-remote-u-s-) | Arlington, VA, us (remote) |  | 2026-11-18 |  |
+| ATOMS Careers page | [AI Researcher - New Grad (BS/MS)](https://job-boards.greenhouse.io/cssmerge/jobs/8948844002) | San Francisco, CA | $170,000 | 2026-11-18 |  |
+| ATOMS Careers page | [AI Researcher - New Grad (PhD)](https://job-boards.greenhouse.io/cssmerge/jobs/8948819002) | San Francisco, CA | $190,000 | 2026-11-18 |  |
+| Atoms | [AI Researcher - New Grad (BS/MS)](https://job-boards.greenhouse.io/atoms/jobs/8948841002) | San Francisco, CA | $170,000 | 2026-11-18 |  |
+| Atoms | [AI Researcher - New Grad (PhD)](https://job-boards.greenhouse.io/atoms/jobs/8924635002) | San Francisco, CA | $190,000 | 2026-11-18 |  |
+| Braskem | [Data Entry Admin - Learning & Development](https://job-boards.greenhouse.io/braskem/jobs/8207890003) | La Porte, TX; Pasadena, TX |  | 2026-11-18 | no visa sponsorship |
+| Guidehouse | [Data Analyst/FM Product Consultant](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IN-Indianapolis/Data-Analyst-FM-Product-Consultant_36597) | US - IN, Indianapolis |  | 2026-11-18 | clearance |
+| JPMorgan Chase | [Wealth Management Quant Analytics Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790035) | Jersey City, NJ, United States |  | 2026-11-18 |  |
+| Prolific Academic Ltd | [International Medical Graduate (IMG) Physician - AI Training - Improving AI Trust and Safety - United States (](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5040617101) | Remote | $130 to $216/hour | 2026-11-18 |  |
+| Prolific Academic Ltd | [Junior Doctor - AI Training - Improving AI Trust and Safety - United States (Remote)](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5040654101) | Remote | $130 to $216/hour | 2026-11-18 |  |
+| RVO Health | [People Data Analyst](https://job-boards.greenhouse.io/rvohealth/jobs/4755621005) | Remote- US | $75,000 to $95,000 | 2026-11-18 | no visa sponsorship |
+| Texas A&M Engineering Experiment Station (TEES) | [Research Engineer I](https://tamus.wd1.myworkdayjobs.com/TEES_External/job/College-Station-TX/Research-Engineer-I_R-098920-1) | College Station, TX |  | 2026-11-18 |  |
+| Universe | [Junior AI Motion Designer](https://jobs.ashbyhq.com/universe/c0afc5e7-bd76-41ee-96dc-00a078138a0f) | Remote |  | 2026-11-18 |  |
+| University of Texas at Austin | [Research Engineering/Scientist Professional](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Research-Engineering-Scientist-Professional_R_00050027) | UT MAIN CAMPUS | $75/hour | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/11e27d37-f773-4373-9b7d-9cc0f012a736) | Santa Ana, California |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/1a821bee-028c-4d06-913c-1925800c9bbe) | Newark, New Jersey |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/2195b685-0fe0-4792-b85c-c93041335e7a) | Richmond, California |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/43604b90-232c-4b18-be9f-450f9c83faa4) | Gresham, Oregon |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/60bcdbe8-847a-4b13-9f48-bc5d7599eb8c) | Norfolk, Virginia |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/8f6c05e4-5dcd-40ad-81b0-56e553768d86) | Moreno Valley, California |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/946e595a-c952-4c32-9470-5b802e4b35af) | Victorville, California |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/9d58ec22-c2d4-4293-b10a-ce0daacf6e22) | Salinas, California |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/d3bb7221-c6f7-4e83-8c58-b9b5b5d248cb) | League City, Texas |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/de866f99-cf7f-4fef-a8cb-bb9eb3fe3f6e) | Kansas City, Kansas |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/eae0d72f-5b13-4bed-a9e7-f3dbbf763755) | Mobile, Alabama |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time Survey Taker](https://jobs.lever.co/usasurveyjob/1cd71b11-eb3d-4f88-be8e-40c2faf12d4b) | Denton, Texas |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time Survey Taker](https://jobs.lever.co/usasurveyjob/46d8720f-b0a9-4e91-bd27-8a27f7ebab6a) | Boulder, Colorado |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time Survey Taker](https://jobs.lever.co/usasurveyjob/70b1c278-ef95-4ec7-92c8-a8db912506c4) | Oceanside, California |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time Survey Taker](https://jobs.lever.co/usasurveyjob/88815ced-8559-4fa2-860f-eedac0efd030) | Knoxville, Tennessee |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time Survey Taker](https://jobs.lever.co/usasurveyjob/95011f4f-369c-4786-9852-8b1c23b11f19) | Carlsbad, California |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time Survey Taker](https://jobs.lever.co/usasurveyjob/9809c8c2-14e5-4383-9065-7743918c3032) | Reno, Nevada |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time Survey Taker](https://jobs.lever.co/usasurveyjob/9e2196df-40e1-4452-bf04-a4af58fff46c) | Durham, North Carolina |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time Survey Taker](https://jobs.lever.co/usasurveyjob/c1aea1cb-f31f-4911-a756-b24e9b2cee4f) | Sterling Heights, Michigan |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry - Part Time Survey Taker](https://jobs.lever.co/usasurveyjob/f4704ee9-4fa8-4b3a-8c83-a4cd8806ea3b) | Memphis, Tennessee |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/5781d03c-9013-4cfe-a7ab-af8031bc91dc) | Las Vegas, Nevada |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/68aa34ca-edfd-419e-9904-3f98aa19223d) | Sacramento, California |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/7a474256-1a15-4a04-aa12-e93d5a6d6104) | Tucson, Arizona |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/7e714f12-a715-4619-bab5-f4a99ea5fb36) | Glendale, California |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/ae1848df-ff6e-4691-a3c5-a747997bfefd) | Round Rock, Texas |  | 2026-11-18 |  |
+| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/e696df2b-d568-49c9-83ce-e77e2c2ce06f) | Newport News, Virginia |  | 2026-11-18 |  |
+| Usasurveyjob | [Work From Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/338255b4-bfbc-4e48-9b70-e944968907fd) | Savannah, Georgia (remote) |  | 2026-11-18 |  |
+| Usasurveyjob | [Work From Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/9f70fa50-2cf2-4dc9-82d5-ef23371a08fc) | Westminster, Colorado (remote) |  | 2026-11-18 |  |
+| Usasurveyjob | [Work From Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/a24fea97-cf87-4735-9130-a27bad5f5c2b) | Simi Valley, California (remote) |  | 2026-11-18 |  |
+| Usasurveyjob | [Work From Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/d300cb8e-bee4-4766-8abf-5517e2442ff5) | Downey, California (remote) |  | 2026-11-18 |  |
+| Usasurveyjob | [Work From Home Data Entry - Part Time](https://jobs.lever.co/usasurveyjob/f1dce49a-3afb-4c56-a918-c1783a28d607) | Springfield, Illinois (remote) |  | 2026-11-18 |  |
+| Usasurveyjob | [Work From Home Data Entry Clerk - Part Time](https://jobs.lever.co/usasurveyjob/219a21f1-e759-4052-b8c9-e913ac0a7685) | Omaha, Nebraska (remote) |  | 2026-11-18 |  |
+| Usasurveyjob | [Work From Home Data Entry Clerk - Part Time](https://jobs.lever.co/usasurveyjob/69f532a3-ae07-494c-8d86-5e02169fff11) | Joliet, Illinois (remote) |  | 2026-11-18 |  |
+| Usasurveyjob | [Work From Home Data Entry Clerk - Part Time](https://jobs.lever.co/usasurveyjob/79c5c30d-c1e7-4c60-8ca2-976af55674f3) | Temecula, California (remote) |  | 2026-11-18 |  |
+| Usasurveyjob | [Work From Home Data Entry Clerk - Part Time](https://jobs.lever.co/usasurveyjob/a8ba81cb-9492-498f-a667-26dfd62b5442) | Modesto, California (remote) |  | 2026-11-18 |  |
+| Usasurveyjob | [Work From Home Data Entry Clerk - Part Time](https://jobs.lever.co/usasurveyjob/bdceb8e4-6851-45a9-b492-086c8fe02e59) | Antioch, California (remote) |  | 2026-11-18 |  |
+| Usasurveyjob | [Work From Home Data Entry Clerk - Part Time](https://jobs.lever.co/usasurveyjob/cda057c7-b2a3-447c-89ab-76c1ad93e3d4) | Sioux Falls, South Dakota (remote) |  | 2026-11-18 |  |
+| ZS Associates | [Decision Analytics Associate Consultant](https://jobs.zs.com/careers-home/jobs/70201) | South San Francisco, California |  | 2026-11-18 | no visa sponsorship |
+| ZS Associates | [Associate Consultant - Financial Modeling](https://jobs.zs.com/careers-home/jobs/70203) | Evanston, Illinois |  | 2026-11-18 | no visa sponsorship |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203656003&gh_jid=8203656003) | Alabama US (Remote) |  | 2026-11-18 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203669003&gh_jid=8203669003) | Oklahoma US (Remote) |  | 2026-11-18 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203659003&gh_jid=8203659003) | Indiana US (Remote) |  | 2026-11-18 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203662003&gh_jid=8203662003) | Kentucky US (Remote) |  | 2026-11-18 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203661003&gh_jid=8203661003) | Kansas US (Remote) |  | 2026-11-18 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203673003&gh_jid=8203673003) | Puerto Rico (Remote) |  | 2026-11-18 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203663003&gh_jid=8203663003) | Louisiana US (Remote) |  | 2026-11-18 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203658003&gh_jid=8203658003) | Florida US (Remote) |  | 2026-11-18 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203667003&gh_jid=8203667003) | North Carolina US (Remote) |  | 2026-11-18 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203657003&gh_jid=8203657003) | Arkansas US (Remote) |  | 2026-11-18 |  |
+| ABC Legal Services | [Data Entry Specialist, Remote](https://www.abclegal.com/job-openings/job?id=8203660003&gh_jid=8203660003) | Iowa US (Remote) |  | 2026-11-18 |  |
+| CarGurus | [Associate Marketing Data Analyst](https://careers.cargurus.com/us/en/job/8195874?gh_jid=8195874) | Boston, Massachusetts, United States |  | 2026-11-18 |  |
+| KPMG | [Associate, AI Engineer](https://www.kpmguscareers.com/jobdetail/?jobId=140086) | Atlanta, GA |  | 2026-11-18 | no visa sponsorship |
+| TikTok | [Data Scientist Graduate (TikTok Product) - 2027 Start](https://lifeattiktok.com/search/7669654422861383941) | San Jose, California, United States of America |  | 2026-11-18 |  |
 | Jobgether | [Machine Learning Engineer](https://jobs.lever.co/jobgether/14392006-a041-4d52-a5fa-236149b99477) | US |  | 2026-11-17 |  |
 | Ally Financial | [Analyst - Business Analytics](https://ally.wd1.myworkdayjobs.com/Ally/job/Lewisville-TX/Analyst---Business-Analytics_R2600935-1) | Lewisville, TX | $65,000 to $115,000 | 2026-11-17 | no visa sponsorship |
 | Capital Group | [AI Scientist](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/AI-Scientist_JR7703) | Los Angeles | $141,648 to $264,296 | 2026-11-17 |  |
@@ -22,7 +94,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Roblox | [[2027] Data Scientist - PhD Early Career - Safety](https://careers.roblox.com/jobs/8384186?gh_jid=8384186) | San Mateo, CA, United States | $185,860 to $221,380 | 2026-11-17 |  |
 | RR Donnelley | [Data Reporting Specialist](https://jobs.smartrecruiters.com/RRDonnelley/744000161927700-data-reporting-specialist) | Westlake Village, CA, us | $21 to $30/hour | 2026-11-17 |  |
 | RZR Global Inc. | [Machine Learning Engineer](https://job-boards.greenhouse.io/rzr/jobs/4217715009) | San Francisco |  | 2026-11-17 |  |
-| Emerald Transformer | [Junior Business Intelligence Analyst](https://emeraldtransformer.pinpointhq.com/en/postings/8b4e25c9-0102-42c6-ac5d-121a570e4fa7) | McKinney, Texas |  | 2026-11-17 |  |
 | Analysis Group (Data Science) | [Data Scientist (Master's) - Boston (2027 Start Date)](https://datasciencecareers-analysisgroup.icims.com/jobs/3023/data-scientist-%28master%27s%29---boston-%282027-start-date%29/job) | Boston, MA | $140,000 | 2026-11-16 | no visa sponsorship |
 | Assort Health | [Product Manager, AI Agents](https://jobs.ashbyhq.com/assorthealth/57060bfc-6c78-447f-b701-b382f9ee8ae6) | San Francisco |  | 2026-11-16 |  |
 | NVIDIA | [Deep Learning Framework Communications Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | US, CA, Santa Clara |  | 2026-11-15 |  |
@@ -43,7 +114,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Proofpoint | [AI Engineer](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Texas/AI-Engineer-II_R14847) | Texas |  | 2026-11-13 |  |
 | Ally Financial | [Analyst - Advanced Business Analytics](https://ally.wd1.myworkdayjobs.com/Ally/job/Lewisville-TX/Analyst---Advanced-Business-Analytics_R2600172) | Lewisville, TX | $65,000 to $115,000 | 2026-11-13 |  |
 | Arm | [Graduate, Research Scientist, AI](https://careers.arm.com/job/seattle/graduate-research-scientist-ai/33099/103208990256) | Seattle, Washington |  | 2026-11-13 |  |
-| Clera | [Founding Engineer, Environments and Data](https://jobs.ashbyhq.com/Clera/341d26c2-7a59-4cb1-838f-2457fe44003b) | San Francisco | $200,000 to $350,000 | 2026-11-13 |  |
 | FosterAdopt Connect | [Behavioral Intervention (Leavenworth/Atchinson) PART-TIME $21-$24/hour ENTRY LEVEL](https://fosteradopt.bamboohr.com/careers/716) | Leavenworth, Kansas, United States | $21.65 to $24/hour | 2026-11-13 |  |
 | Guidehouse | [Jr. Data Scientist](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Jr-Data-Scientist_44767) | US - VA, McLean | $98,000 to $163,000 | 2026-11-13 | clearance |
 | KeyBank | [2027 Analytics and Quantitative Modeling Rotational Analyst Program- Cleveland](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program--Cleveland_R-41381-1) | Cleveland, OH | $75,000 to $85,000 | 2026-11-13 | no visa sponsorship |
@@ -132,7 +202,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | MUFG Americas | [Business Data Analyst](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Business-Data-Analyst_10079330-WD-1) | Jersey City, NJ |  | 2026-11-10 |  |
 | NewtonX | [Client Delivery Associate, AI Training Pod](https://jobs.ashbyhq.com/newtonx/edfd5276-5b9a-4d2a-9179-9bab79d38bd3) | New York City | $73.25/hour | 2026-11-10 | no visa sponsorship |
 | Noviam Inc. | [Associate Product Manager, Data & AI](https://ats.rippling.com/noviam/jobs/923b15b0-55d7-46d7-8f17-f22ea381b2e4) | Jersey City, NJ |  | 2026-11-10 | no visa sponsorship |
-| Phillips 66 | [Operations Data Analyst & Administrator, Sweeny Refinery](https://careers.phillips66.com/job/Sweeny-Operations-Data-Analyst-&-Administrator%2C-Sweeny-Refinery-TX-77480/1448946200/) | Sweeny, TX, US | $82,800 to $101,200 | 2026-11-10 | US citizens/persons only |
 | Self Financial | [Data Scientist](https://job-boards.greenhouse.io/selffinancial/jobs/6252143004) | Austin, TX (hybrid) | $85,000 to $110,000 | 2026-11-10 | no visa sponsorship, US citizens/persons only |
 | UnitedHealth Group | [Advisory Services Analyst, Consultant Development Program - AI/ML Engineering Track - Multiple Locations](https://careers.unitedhealthgroup.com/job/eden-prairie/advisory-services-analyst-consultant-development-program-ai-ml-engineering-track-multiple-locations/34088/103073127808) | Eden Prairie, Minnesota (hybrid) | $60,200 to $107,400 | 2026-11-10 | no visa sponsorship |
 | UnitedHealth Group | [Advisory Services Consultant, Consultant Development Program - AI/ML Engineering Track - Multiple Locations](https://careers.unitedhealthgroup.com/job/eden-prairie/advisory-services-consultant-consultant-development-program-ai-ml-engineering-track-multiple-locati/34088/103077726784) | Eden Prairie, Minnesota (hybrid) | $72,800 to $130,000 | 2026-11-10 | no visa sponsorship |
@@ -153,7 +222,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Revalize | [AI Enablement Engineer](https://jobs.smartrecruiters.com/Revalize/744000160204504-ai-enablement-engineer) | Remote, REMOTE, us |  | 2026-11-07 |  |
 | SAP | [SAP NS2 AI Consultant Specialist](https://jobs.sap.com/en/jobs/744000160297265/sap-ns2-ai-consultant-specialist/) | Herndon, Virginia, US |  | 2026-11-07 | no visa sponsorship, US citizens/persons only, clearance |
 | T. Rowe Price | [Financial Data Analyst](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Financial-Data-Analyst_84200) | Owings Mills, MD | $59,000 to $94,500 | 2026-11-07 |  |
-| Target | [Data Engineer - Finance AI (PySpark)](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Data-Engineer---Finance-Technology-Solutions_R0000444866) | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | $75,400 to $135,700 | 2026-11-07 |  |
 | The Brattle Group | [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) | San Francisco, California, United States | $100,000 to $126,000 | 2026-11-07 | no visa sponsorship |
 | Usasurveyjob | [Remote Data Entry - Work From Home](https://jobs.lever.co/usasurveyjob/689c444a-3828-4369-b4a4-1b50d75cc827) | Austin, Texas (remote) | $35/hour | 2026-11-07 |  |
 | Usasurveyjob | [Remote Data Entry - Work From Home](https://jobs.lever.co/usasurveyjob/aefc6e09-7765-4561-ae6f-8c591e192303) | Louisville, Kentucky (remote) | $35/hour | 2026-11-07 |  |
@@ -197,9 +265,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SIXT | [Logistics Administrator / Excel, AI & Process Improvement](https://jobs.smartrecruiters.com/SIXT/744000159958029-logistics-administrator-excel-ai-process-improvement) | Tulsa, OK, us |  | 2026-11-06 | no visa sponsorship |
 | Accellor | [Gen AI Engineer](https://jobs.gem.com/accellor/am9icG9zdDoUY28hMlIngfGiciN6eR3X) | San Jose | $90,000 to $130,000 | 2026-11-06 |  |
 | Huckberry | [Business Analyst, AI & Automation](https://apply.workable.com/j/76FD110308) | Austin, Texas, United States |  | 2026-11-06 |  |
-| ConsumerAffairs | [Data Journalist, AI & Automation](https://apply.workable.com/j/0544C1F4F8) | United States |  | 2026-11-06 |  |
 | Ignite IT | [Jr. AI Prompt Engineer](https://apply.workable.com/j/310C67078E) | Ashburn, Virginia, United States |  | 2026-11-06 | US citizens/persons only |
-| BIP Capital | [Associate Product Owner / 1-3 Years - FinTech / SaaS / Multi-Platform / AI](https://apply.workable.com/j/03BC47BB4F) | Atlanta, Georgia, United States |  | 2026-11-06 |  |
 | Southwest Research Institute | [ENGINEER - RESEARCH ENGINEER - Fluids Engineering Dept. Experimental Engineer](https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=18-01639) | San Antonio, Texas |  | 2026-11-06 | US citizens/persons only |
 | Pearl | [Associate AI Conversation Designer (German)](https://job-boards.greenhouse.io/justanswer/jobs/8587759002) | United States |  | 2026-11-06 |  |
 | Avanza LLC | [AI Engineer](https://avanzallc.bamboohr.com/careers/35) | Arlington, Virginia, United States (hybrid) |  | 2026-11-06 | US citizens/persons only |
@@ -475,19 +541,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Usasurveyjob | [Work from Home Data Entry Clerk - Part Time](https://jobs.lever.co/usasurveyjob/548eeb64-8b83-4592-a40c-20bd265f89f1) | Tucson, Arizona (remote) |  | 2026-11-05 |  |
 | Usasurveyjob | [Work from home Data Entry Clerk - Part-time](https://jobs.lever.co/usasurveyjob/2d81486b-50f4-4630-bd72-7d6230e2738c) | Dallas, Texas (remote) |  | 2026-11-05 |  |
 | Usasurveyjob | [Work from Home Data Entry Clerk - Part-time](https://jobs.lever.co/usasurveyjob/43b2a5b9-2631-473b-a252-ff6ae9d2ca96) | Miami, Florida (remote) |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/34d81d12-0738-41ac-bbed-491b5b0a5a3b) | Newport News, Virginia |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/364bb9ae-5b7d-4231-8b22-2e53b101ca4e) | Sacramento, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/38c8ae7d-f32b-4a29-a151-4f993f4e67dc) | Glendale, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/47e92391-15a5-4de5-a605-73f5acd4e96d) | Chicago, Illinois |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/49d018ce-df1d-4743-8579-09a3150baccc) | Chattanooga, Tennessee |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/4a06ae44-50a4-4531-8bb3-3da913c7ab73) | Baltimore, Maryland |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/4ae576b9-53c2-4f1d-bdf4-9e1e83bc036b) | Pittsburgh, Pennsylvania |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/556e1cd5-b0dd-4545-88e7-b4d15e416c60) | Denver, Colorado |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/5701e2c4-49c1-47da-9af1-d1cb25a75e77) | Naperville, Illinois |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/57276d07-cf8c-4406-b94b-526a5b379e50) | Tampa, Florida |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/6176bd3c-fcfd-4a7b-b1ec-57a1aa54d87b) | Washington, District of Columbia |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/64a5940c-d766-45e6-b377-f68ce26cfbdd) | Phoenix, Arizona |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/65145d88-9093-4657-9d9a-323626383013) | Macon, Georgia |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/6cf976f0-1c7e-42b8-8d48-16787383782a) | Sugar Land, Texas |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/6f44b7ea-9087-4e4c-a4e3-9d5e2b06f2fc) | Columbia, South Carolina |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/714043b9-8c94-48f2-8b4e-93f964c598c2) | Philadelphia, Pennsylvania |  | 2026-11-05 |  |
@@ -529,36 +582,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d16e1cc2-ebfa-4a9b-83cc-c23a7ced9840) | Palm Bay, Florida |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d314b507-66ae-44d0-aae8-440764c82e55) | Louisville, Kentucky |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/e2ff4010-ef32-4cdc-9efb-230543682b14) | San Diego, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/e3e7e3c9-c275-41b6-9427-3c5462dd0d24) | Greensboro, North Carolina |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/e5a75a38-b8f3-4d2c-b742-57cb6c558f21) | Richmond, Virginia |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/e62fd309-870b-49bf-8103-3546d82b8e55) | Lakewood, New Jersey |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f2c3fa32-4ea9-4942-811f-f015827b4ead) | Seattle, Washington |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/fbde9e63-f50a-42c4-9a0c-ef1ae513e098) | Columbus, Georgia |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/93833a28-79e2-4cde-a408-dd6b248e548d) | Knoxville, Tennessee |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/95b38938-2d89-4e84-80a8-bb5bb18c8498) | Carlsbad, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/96af0358-f5d3-455c-9058-eb7598d8a26b) | Denton, Texas |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/9741ab09-4255-4f39-ba30-8e2ac1bf4cc7) | Oceanside, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/9796a94d-2072-4831-bcb5-be5868abee34) | Boulder, Colorado |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/987f9fa0-043b-461a-9bab-b5d96bdb507f) | Reno, Nevada |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/98901922-991a-4f23-b616-94f596c7c54c) | Durham, North Carolina |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/9a540506-cada-49f1-950a-a0d8d827c738) | Sterling Heights, Michigan |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/9bbcc983-44ab-4c5e-acba-a5a370c82daf) | Moreno Valley, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/9ca820eb-2913-4181-b729-fc9aa92613e2) | Santa Ana, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/9d0ffaad-bb9f-40d8-816c-94e1ce78c679) | Victorville, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/9d5db0b0-1eb2-4558-8e8c-3b0616b54309) | Salinas, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/9d8ed255-70f8-429f-9d3c-8fbec37322fc) | Mobile, Alabama |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/9e7bad83-a48d-446b-bc0b-63f6c5a65431) | Richmond, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/9fd66886-e472-4963-b792-7e3cb09830c8) | Gresham, Oregon |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/a06e3896-1ba6-4d6a-b664-2eec05b8becf) | Newark, New Jersey |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/a07ce11d-bcab-4920-b4e1-aa46e513fc5f) | League City, Texas |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/a0a8b64f-488c-49bd-a41d-d4b8c746438a) | Norfolk, Virginia |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/a1204540-1dd1-4ca1-b453-18dc3de1ea35) | Kansas City, Kansas |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/a6d2beb9-94f2-4dbf-8d8b-37272f32fad8) | Round Rock, Texas |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/a7d99d5d-91ab-409f-9c49-aeca49ad41b8) | Modesto, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/aabece80-2379-45b2-b579-a5acc0f7f4ac) | Sioux Falls, South Dakota |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/ae2e1177-a5ba-4640-a0c3-477cf5eba3dc) | Joliet, Illinois |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/b06da433-045f-44b6-9aed-4486cf7a0a5e) | Temecula, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/b072e77c-4760-40a3-978a-208e48d2479c) | Antioch, California |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/b40093e8-d38d-4a3c-8b1c-44bf8386eff7) | Arvada, Colorado |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/b469ba86-635a-4db1-8906-55e77f794eb5) | McAllen, Texas |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/b4f415d0-e467-4281-83dc-07e56e988451) | Rancho Cucamonga, California |  | 2026-11-05 |  |
@@ -566,7 +589,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/b54ccea4-cb17-405f-817d-9ae1c9697d36) | Garden Grove, California |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/b5b64efa-1b74-4c8d-9ccf-0b4cafd5ef22) | Fairfield, California |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/b5e565d9-cd51-45c5-bcc3-129620819ee9) | Orlando, Florida |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/b5fb8900-4889-4adb-9c66-11d3e2844659) | Savannah, Georgia |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/b6da16c6-e8fe-44fe-908b-d6d6e25b2044) | Green Bay, Wisconsin |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/b896174e-b3d3-427b-a2ab-9a78b24d8692) | Clearwater, Florida |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/bb456d20-2440-4467-9c21-df267c8a9a8b) | Cedar Rapids, Iowa |  | 2026-11-05 |  |
@@ -598,13 +620,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d10ec6ce-38d4-4499-b841-8bd9df9f04c5) | Bakersfield, California |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d13e5982-628f-4337-915d-8d14b8fabbf4) | Huntsville, Alabama |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d2a311af-d47a-458c-8c7d-caaf107de26d) | Burbank, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d2e1744d-ef22-47b1-9396-1b74fafa117d) | Downey, California |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d5069d70-f854-4dc5-ac42-904dba884d83) | Richardson, Texas |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d5611634-483f-4bc6-b7ab-e36d3a3908ca) | North Las Vegas, Nevada |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d6081bb8-07f6-49fc-80a6-f09bfedc1bf8) | Tallahassee, Florida |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d6dc1edc-f10b-432b-9597-373551ec66b1) | Lubbock, Texas |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d7706d72-d78a-4495-991e-08862b5f86cf) | Hollywood, Florida |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d7f97eea-f024-45de-9d09-9bc11908ef64) | Simi Valley, California |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d9a79727-460b-45b0-a971-e538bd04c8b1) | Lincoln, Nebraska |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d9d221b7-8613-4c83-bba7-5ab276a7e2f2) | Beaumont, Texas |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/dac7c979-649d-446e-890c-7f4ed55e6319) | Billings, Montana |  | 2026-11-05 |  |
@@ -634,13 +654,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/ee97fbff-7258-43f2-b442-95884c6b36c4) | Corona, California |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/efbeb115-fa3a-4819-be18-e87880e9bf37) | Jurupa Valley, California |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f0f5a752-92a0-4d50-8fc6-0747366a5ffd) | Topeka, Kansas |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f197c2e6-73e2-4020-a362-52e06ed842d5) | Westminster, Colorado |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f1b7d6b2-6a3c-480b-833e-c1d4fa3b7487) | Des Moines, Iowa |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f1be321c-386d-4ae5-9a27-5bc4d1c2594e) | West Covina, California |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f2f795d1-fd86-4a20-9196-6f841c268e73) | Lakeland, Florida |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f3d6bde8-ea81-4a85-a8e9-94e2671f03d3) | Wichita Falls, Texas |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f4e36b3e-523a-4cf9-916f-07d3697e186b) | Sandy Springs, Georgia |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f589a546-a8a3-4381-bede-0237cc1ce8c6) | Springfield, Illinois |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f5c476e6-1427-4b84-b434-192ef06b33d1) | Jersey City, New Jersey |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f5d39300-b1b8-4455-a4f0-a26191f88c89) | Norman, Oklahoma |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/f66e7871-85df-4ea0-82e0-a9955bc0c999) | McKinney, Texas |  | 2026-11-05 |  |
@@ -650,10 +668,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/fb763592-6b86-4cf1-8cb4-c7e9fe044e07) | Provo, Utah |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/fc67e3b8-215b-4aaa-bf27-b2b0d28cb830) | Pompano Beach, Florida |  | 2026-11-05 |  |
 | Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/fd4228cd-cac1-44aa-baa5-bf7e5325e1cf) | Chula Vista, California |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/975453e3-1d41-4a0b-81d9-fd8861e8a1bc) | Memphis, Tennessee |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/a76a80ab-ba7d-4fd0-8c3e-c646bc227ac8) | Omaha, Nebraska |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/d746e2fb-2cf2-418f-834b-0a01c92c03de) | Tucson, Arizona |  | 2026-11-05 |  |
-| Usasurveyjob | [Work at Home Data Entry Agent - Part Time](https://jobs.lever.co/usasurveyjob/e11a8d1a-f2bb-4df1-9e34-d8c87daada78) | Las Vegas, Nevada |  | 2026-11-05 |  |
 | Airplus Refrigeration, Inc. | [Work From Home - Data Entry Clerk](https://airplus-refrigeration-inc.breezy.hr/p/e7af35287cf3-work-from-home-data-entry-clerk) | West Hills, CA (remote) |  | 2026-11-05 |  |
 | Integrated Resources INC | [Data Management Specialist](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999659748831-data-management-specialist) | Maryland Heights, MO, us |  | 2026-11-05 |  |
 | Integrated Resources INC | [UM / Data Entry Tech](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999659702462-um-data-entry-tech) | Des Moines, IA, us |  | 2026-11-05 |  |
@@ -742,17 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Alpha Financial Markets Consulting | [Consultant - Data Engineering (Snowflake)](https://job-boards.greenhouse.io/alphafmcroles/jobs/8877591002) | United States |  | 2026-11-04 |  |
 | APTNEXUS | [Business Data Analyst](https://ats.rippling.com/aptnexus/jobs/93507859-bdba-4db5-8751-1fb321080dbc) | Washington, DC | $65,000 to $80,000 | 2026-11-04 | US citizens/persons only |
 | Cartesian Systems | [Field Data Collection Specialist](https://job-boards.greenhouse.io/cartesiansystems/jobs/4437393009) | Cambridge, MA | $65,000 to $80,000 | 2026-11-04 |  |
-| Maxinsights | [Embodied AI / VLA Research Engineer](https://jobs.ashbyhq.com/maxinsights/79cf8fc0-56fc-48ab-8732-f4d6eb53b0e8) | Santa Clara |  | 2026-11-04 |  |
-| Olsson | [Entry-Level Power Systems Studies Engineer - Data Centers](https://job-boards.greenhouse.io/olsson/jobs/5446995008) | Overland Park, KS |  | 2026-11-04 |  |
-| Palantir Technologies | [Data Engineer - Talent Acquisition Operations](https://jobs.lever.co/palantir/1b690123-1766-4e75-a0ef-0f58afa864b4) | New York, NY | $100,000 to $145,000 | 2026-11-04 |  |
-| Black Canyon Consulting | [Junior Data Scientist](https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/8012994003) | Bethesda, MD |  | 2026-11-04 |  |
-| Destro AI | [Founding Recruiter (Robotics and AI)](https://destro-ai.breezy.hr/p/3c420c557ef2-founding-recruiter-robotics-and-ai) | New York, NY |  | 2026-11-04 |  |
-| Options Technology | [Graduate Market Data Support Engineer](https://jobs.ashbyhq.com/options-it/19b313f7-75f8-4b95-a1e0-6933a62444e6) | Cambridge |  | 2026-11-04 |  |
-| ProSidian Consulting, LLC | [International Development Program/Project Data Analyst (PILAB011)](https://jobs.smartrecruiters.com/prosidianconsulting/744000153376929-international-development-program-project-data-analyst-pilab011-) | Washington, DC, us |  | 2026-11-04 |  |
-| Brain Co. | [Machine Learning Engineer, 2027 New Grad](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd) · Spring 2027 | San Francisco Bay Area |  | 2026-11-04 |  |
-| Celonis | [Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program](https://job-boards.greenhouse.io/celonis/jobs/7885816003?gh_jid=7885816003) | New York, US, New York (hybrid) | $90,000 to $95,000 | 2026-11-04 | no visa sponsorship |
-| Celonis | [Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program](https://job-boards.greenhouse.io/celonis/jobs/7885881003?gh_jid=7885881003) | Raleigh, US, North Carolina (hybrid) |  | 2026-11-04 | no visa sponsorship |
-| ABACUS | [Data Engineer](https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8006961003) | Remote in US |  | 2026-11-04 | no visa sponsorship |
-| OneImaging | [Associate Data Engineer (UMiami Only)](https://job-boards.greenhouse.io/oneimaging/jobs/4423646009) | Miami | $85,000 to $115,000 | 2026-11-04 |  |
-| Hanwha Energy USA | [Energy Analytics Analyst](https://job-boards.greenhouse.io/hanwhaenergyusa/jobs/4418940009) | Houston, TX | $115,000 to $140,000 | 2026-11-04 | no visa sponsorship |
-| Rox Data Corp | [AI-Native Account Executive](https://jobs.ashbyhq.com/Rox-Data-Corp/f74b7921-5dd2-4009-8246-4d5701b190a8) | San Francisco |  | 2026-11-04 |  |

@@ -1,11 +1,14 @@
 # New grad and entry level: Design and creative
 
-177 open, newest first (by the date the scraper first saw them), updated 2026-11-17.
+175 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| NetEase Games | [User Researcher](https://job-boards.greenhouse.io/neteasegames/jobs/5299255007) | Bothell - Onsite; Irvine - Onsite; Mountain View-Onsite |  | 2026-11-18 |  |
+| ICF | [Substation Protection & Control Designer - Remote](https://careers.icf.com/us/en/job/R2603868) | Reston, Virginia, United States of America (remote) | $67,355 to $114,503 | 2026-11-18 | no visa sponsorship |
+| UMT - Internal | [Jr. Creative, Copy](https://job-boards.greenhouse.io/umt/jobs/8949124002) | Brooklyn, NY | $73,000 to $85,000 | 2026-11-18 |  |
 | Axiom Space | [User Interface Designer](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/User-Interface-Designer_JR100920) | Houston |  | 2026-11-17 |  |
 | Google | [UX Researcher, Enterprise Platform, Google Ads](https://www.google.com/about/careers/applications/jobs/results/86277138008679110) | Seattle, WA, USA | $109,000 to $155,000 | 2026-11-17 |  |
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDrii6RfWSkIbRfbk5w7x6is) | NJ - Warren |  | 2026-11-17 | no visa sponsorship, US citizens/persons only |
@@ -26,7 +29,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / C-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51991) | Sparks, Nevada |  | 2026-11-11 |  |
 | The Quality Group | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/5032407101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |
 | The Quality Group GmbH | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5023226101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |
-| Toast | [Video Designer](https://careers.toasttab.com/jobs?gh_jid=8261417) | Remote | $62,000 to $128,000 | 2026-11-11 |  |
 | Trilon Group | [Engineering Designer I](https://trilongroup.pinpointhq.com/en/postings/fd4c31a6-aac2-46f7-9abd-b46b3c2253e8) | Atlanta, Georgia | $65,000 to $80,000 | 2026-11-11 |  |
 | AccuWeather | [Weather Graphics Production Artist](https://job-boards.greenhouse.io/accuweather/jobs/8367396) | State College, PA |  | 2026-11-10 |  |
 | Konrad | [UI/UX Designer](https://www.konrad.com/careers/job/8199570003?gh_jid=8199570003) | New York | $80,000 to $100,000 | 2026-11-10 |  |
@@ -45,7 +47,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ARC'TERYX | [Colour Designer 1, Footwear](https://jobs.lever.co/arcteryx.com/d13eb8f4-c1a1-42a5-b27c-6326ac92a8a5) | Portland, Oregon | $70,000 to $92,000 | 2026-11-05 |  |
 | Lasko Products | [Industrial Designer I](https://job-boards.greenhouse.io/laskoproducts/jobs/5272267007) | West Chester, PA |  | 2026-11-05 |  |
 | Hive | [UI / UX Designer](https://jobs.lever.co/hive/b0c66b0f-6f18-443c-818a-8633c356163e) | San Francisco | $60,000 to $100,000 | 2026-11-05 |  |
-| Kiewit | [Fire Sprinkler Designer 1 - Aero Automatic Sprinkler Company](https://kiewitcareers.kiewit.com/Aero/job/Phoenix-Fire-Sprinkler-Designer-1-Aero-Automatic-Sprinkler-Company-AZ-85001/1354623800/) | Phoenix, AZ, US |  | 2026-11-05 |  |
 | NewSpring Church | [KidSpring Designer-Illustrator](https://newspring.bamboohr.com/careers/97) | Anderson, South Carolina, United States |  | 2026-11-05 |  |
 | EBizCharge | [Graphic Designer I](https://ats.rippling.com/ebizcharge/jobs/7413e1ae-6d98-4a26-b478-e1bc2f67ba82) | Irvine, CA |  | 2026-11-05 |  |
 | Elyon International | [Producer Services Specialist-Remote](https://elyoninternational.bamboohr.com/careers/1085) | Portland, Oregon, United States (Remote) |  | 2026-11-05 |  |
@@ -93,9 +94,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TEGNA Inc. | [Producer](https://boards.greenhouse.io/tegnainc/jobs/5255056007?gh_jid=5255056007) | KIII-TV Corpus Christi |  | 2026-11-04 |  |
 | Benesch | [Railroad Grade Crossing – Designer](https://www.benesch.com/job-openings/5255944007?gh_jid=5255944007) | Remote | $36 to $40/hour | 2026-11-04 |  |
 | Atari | [Industrial Designer](https://job-boards.greenhouse.io/atariinc/jobs/5442825008) | Atari - US (Remote) |  | 2026-11-04 |  |
-| ON.energy | [REVIT Designer](https://job-boards.greenhouse.io/onenergy/jobs/4429506009) | Houston, Texas, United States; Miami, Florida, United States |  | 2026-11-04 |  |
 | SeatGeek | [UX Design - New Grad](https://seatgeek.com/jobs/8248135?gh_jid=8248135) | New York, New York | $110,000 to $130,000 | 2026-11-04 |  |
-| TEGNA Inc. | [News Producer](https://boards.greenhouse.io/tegnainc/jobs/5248417007?gh_jid=5248417007) | KENS-TV San Antonio |  | 2026-11-04 |  |
 | Hachette Book Group | [Junior Designer, Artisan Books](https://jobs.gem.com/hachette-book-group/am9icG9zdDq4gNO5VDyVBFM9h0FQsnZv) | New York Office - 1290 Avenue of the Americas | $55,500 | 2026-11-04 |  |
 | Reformation | [Ecommerce Producer](https://job-boards.greenhouse.io/reformation/jobs/8177590) | Los Angeles, CA | $75,000 | 2026-11-04 |  |
 | Atari | [Junior Generalist Engineer (Video Games)](https://job-boards.greenhouse.io/atariinc/jobs/5434070008) | Atari - US (Remote); Implicit Conversions | $65,000 to $85,000 | 2026-11-04 |  |
@@ -117,8 +116,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Patriot Growth Insurance Services, LLC | [Commercial Lines Producer](https://job-boards.greenhouse.io/patriotgrowthinsuranceservicesllc/jobs/4370621009) | Waterloo, IA | $55,000 to $260,000 | 2026-11-04 |  |
 | Life.Church | [Motion Designer](https://jobs.lever.co/life/8855c924-5777-45b7-8bf5-dba9c7511c52) | Edmond, OK |  | 2026-11-04 |  |
 | CannonDesign | [Designer - Entry Level](http://www.cannondesign.com/careers/?gh_jid=8652909002) | St. Louis, MO |  | 2026-11-04 |  |
-| Metropolis | [Learning Experience Designer](https://job-boards.greenhouse.io/metropolis/jobs/7782384003) | New York, New York, United States | $80,000 to $90,000 | 2026-11-04 |  |
 | Metropolis | [Learning Experience Designer](https://job-boards.greenhouse.io/metropolis/jobs/7782388003) | Los Angeles, California, United States | $80,000 to $90,000 | 2026-11-04 |  |
+| Metropolis | [Learning Experience Designer](https://job-boards.greenhouse.io/metropolis/jobs/7782384003) | New York, New York, United States | $80,000 to $90,000 | 2026-11-04 |  |
 | DLR Group | [Designer, Justice & Civic](https://job-boards.greenhouse.io/dlrgroup/jobs/5366446008) | Phoenix, Arizona, United States (hybrid) |  | 2026-11-04 |  |
 | PMG | [Graduate Leadership Program - Creative Motion Designer](https://job-boards.greenhouse.io/pmg/jobs/8594740002) | Dallas, Texas |  | 2026-11-04 |  |
 | PMG | [Graduate Leadership Program - Junior Designer](https://job-boards.greenhouse.io/pmg/jobs/8594731002) | Dallas, Texas |  | 2026-11-04 |  |
@@ -157,23 +156,22 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Thorne | [Performance Creative & Social Specialist](https://thorne.pinpointhq.com/en/postings/b2cc0395-e902-4078-9a14-4876d6e25740) | Remote, South Carolina (Remote) |  | 2026-11-04 |  |
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / C-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51985) | Sparks, Nevada |  | 2026-11-02 |  |
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / A-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51993) | Sparks, Nevada |  | 2026-10-30 |  |
-| Target | [UX Designer - Search & Recommendations](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Designer---Search---Recommendations_R0000475220-1) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $75,400 to $135,700 | 2026-10-29 |  |
 | Garmin | [Product Designer 1](https://careers.garmin.com/careers-home/jobs/19863) | Olathe, Kansas |  | 2026-10-28 |  |
 | TikTok | [User Researcher](https://lifeattiktok.com/search/7699070278786058549) | San Jose, California, United States of America |  | 2026-10-24 |  |
 | RSM US | [UX Design Manager](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/UX-Design-Manager_JR122014) | Chicago | $126,500 to $223,900 | 2026-10-22 | no visa sponsorship |
 | Electronic Arts | [Experience Designer - Madden Core](https://jobs.ea.com/en_US/careers/JobDetail/Experience-Designer-I/216492) | Orlando, United States of America |  | 2026-10-22 |  |
+| Kiewit | [BIM Designer - Kiewit Industrial & Water Engineering](https://kiewitcareers.kiewit.com/job/Lenexa-BIM-Designer-Kiewit-Industrial-&-Water-Engineering-KS/1420673500/) | Lenexa, KS, US |  | 2026-10-20 |  |
 | Paramount | [Designer, Toys](https://careers.paramount.com/job/Los-Angeles-Designer%2C-Toys-CA-90038/1430786400/) | Los Angeles, CA, US | $64,800 to $81,000 | 2026-10-20 |  |
 | Cook Children's | [Polysomnographic Tech (RPSGT)](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Polysomnographic-Tech--RPSGT-_JR-119823) | Fort Worth, TX |  | 2026-10-20 |  |
 | Cook Children's | [Polysomnographic Tech (RPSGT)](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Polysomnographic-Tech--RPSGT-_JR-112297) | Fort Worth, TX |  | 2026-10-20 |  |
 | Fox Corporation | [Freelance 'Digital 'Video Specialist](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Freelance--Digital--Video-Specialist_R50034035) | Los Angeles, California, USA | $28.85 to $39.42/hour | 2026-10-20 |  |
 | Hyundai Motor America | [Hyundai Design Center - Interior Designer I](https://careers-americas.hyundai.com/hatci/job/Irvine-Hyundai-Design-Center-Interior-Designer-I-CA-92618/1381053500/) | Irvine, CA, US | $75,000 to $112,000 | 2026-10-20 |  |
+| DNOW | [Engineering Designer](https://distributionnow.wd5.myworkdayjobs.com/DNOW_Careers/job/US-CO-Denver-1422-Delgany-Street-Suite-100/Engineering-Designer_R08523) | US CO Denver 1422 Delgany Street, Suite 100 |  | 2026-10-20 |  |
 | Paramount | [Digital Producer, WJZ](https://careers.paramount.com/job/Baltimore-Digital-Producer%2C-WJZ-MD-21211/1386247100/) | Baltimore, MD, US | $35/hour | 2026-10-20 |  |
 | Worley | [Piping Designer Level I](https://jobs.worley.com/careers/job/1133916402118) | Long Beach, CA, US; Monrovia, CA, US | $31.07 to $45.69/hour | 2026-10-20 |  |
-| Kiewit | [BIM Designer - Kiewit Industrial & Water Engineering](https://kiewitcareers.kiewit.com/job/Lenexa-BIM-Designer-Kiewit-Industrial-&-Water-Engineering-KS/1420673500/) | Lenexa, KS, US |  | 2026-10-20 |  |
 | Panasonic North America | [Technician I Visual Inspection, Nights, D-Shift (7PM-7AM)[Wed-Fri + Alt Sat]](https://careers.na.panasonic.com/careers-home/jobs/51737) | Sparks, Nevada |  | 2026-10-20 |  |
 | Service Corporation International | [Memorial Designer](https://sci.wd5.myworkdayjobs.com/SCI/job/TX---Pflugerville/Memorial-Designer_Req167535) | TX - Pflugerville |  | 2026-10-20 |  |
 | xAI | [Data Visualization Engineer](https://job-boards.greenhouse.io/xai/jobs/5265194007) | Palo Alto, CA | $100,000 to $198,000 | 2026-10-20 | US citizens/persons only |
-| DNOW | [Engineering Designer](https://distributionnow.wd5.myworkdayjobs.com/DNOW_Careers/job/US-CO-Denver-1422-Delgany-Street-Suite-100/Engineering-Designer_R08523) | US CO Denver 1422 Delgany Street, Suite 100 |  | 2026-10-20 |  |
 | Formlabs | [Industrial Designer - Entry Level](https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032) | Boston, MA | $90,000 to $120,000 | 2026-10-20 |  |
 | Quanta Services | [Piping Designer](https://careers-quanta.icims.com/jobs/18961/piping-designer/job) | Huntersville, NC |  | 2026-10-20 |  |
 | The New York Times | [Journalist, Graphics Intensive](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4728037005) | New York, NY | $82,414.80 | 2026-10-20 |  |

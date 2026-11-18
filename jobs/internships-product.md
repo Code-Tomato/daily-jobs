@@ -1,11 +1,16 @@
 # Internships and co-ops: Product, program and project management
 
-271 open, newest first (by the date the scraper first saw them), updated 2026-11-17.
+274 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Jobgether | [Data Center Apprentice Project Manager Program](https://jobs.lever.co/jobgether/09a0e80f-65db-4bf7-9d29-d528a93eef4a) | US |  | 2026-11-18 |  |
+| Amgen | [Undergrad Intern – R&D EOS / Global Program Management (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---R-D-EOS---Global-Program-Management--Summer-2027-_R-260924) · Summer 2027 | United States - Remote | $28.87/hour | 2026-11-18 |  |
+| Panasonic North America | [PMO Intern](https://careers.na.panasonic.com/careers-home/jobs/53001) | Sparks, Nevada |  | 2026-11-18 | no visa sponsorship |
+| RTI International | [Manager, Internships & Experiential Programs](https://careers.rti.org/careers-home/jobs/14230) | Durham, North Carolina | $125,000 to $150,000 | 2026-11-18 |  |
+| Uber | [2027 Product Management Intern, US](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Uber/job/304983) | San Francisco, CA, United States | $52 to $56.80/hour | 2026-11-18 |  |
 | We Are Overwatch | [Data Center Apprentice Project Manager Program](https://jobs.gem.com/overwatch/am9icG9zdDqZuP_h7Hwg0SPcSlAyDcwh) | Dallas, TX |  | 2026-11-17 |  |
 | Addepar | [Technical Product Management Intern (ADX) - Summer 2027](https://job-boards.greenhouse.io/addepar1/jobs/8910324002) · Summer 2027 | New York, NY | $39/hour | 2026-11-17 | no visa sponsorship |
 | Centene | [Business Operations/Project Management Summer 2027 Intern (Undergraduate)](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Operations-Summer-2027-Intern--Undergraduate-_1660516) · Summer 2027 | Remote-MO | $21 to $26/hour | 2026-11-17 | no visa sponsorship |
@@ -82,10 +87,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/207BC1D915) · Spring 2027 | Pleasant Valley, New York, United States | $23 to $28/hour | 2026-11-06 |  |
 | Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/9EAFFBC0A4) · Spring 2027 | White Plains, New York, United States | $23 to $28/hour | 2026-11-06 |  |
 | TikTok | [POI Content Product Manager Intern (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7696000179569854725) | San Jose, California, United States of America |  | 2026-11-06 |  |
-| ARCO Companies | [Project Manager Co-op (Spring/Summer 2027) - NWA](https://job-boards.greenhouse.io/arco/jobs/4480533009) · Summer 2027 | Rogers, AR, US |  | 2026-11-05 |  |
 | Viget | [Project & Product Manager Intern (2027)](https://jobs.lever.co/viget/969d8237-ec1a-4ec4-ba09-b08bcfcd81c4) | Boulder, CO |  | 2026-11-05 | no visa sponsorship |
 | Wind Energy Transmission Texas | [Summer 2027 Project Management Intern](https://windenergyoftexas.bamboohr.com/careers/147) · Summer 2027 | Austin, Texas, United States |  | 2026-11-05 |  |
-| ARCO National Holdings | [Project Manager Co-op (Spring/Summer 2027)](https://job-boards.greenhouse.io/anc/jobs/4384971009) · Summer 2027 | Rogers, AR, US |  | 2026-11-05 |  |
 | Franklin Electric | [Summer 2027 Project Management Intern](https://franklin-electric.pinpointhq.com/en/postings/dbd3aa29-6eb7-4f3a-a927-e65ba127499f) · Summer 2027 | Fort Wayne, Indiana |  | 2026-11-05 |  |
 | Intuitive Machines | [Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575114&lang=en_US) | Greenbelt, MD, US |  | 2026-11-04 | US citizens/persons only |
 | Veolia Environnement SA | [Project Management Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159676644-project-management-intern) | Glen Allen, VA, us |  | 2026-11-04 | no visa sponsorship |

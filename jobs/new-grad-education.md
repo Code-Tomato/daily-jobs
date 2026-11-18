@@ -1,11 +1,16 @@
 # New grad and entry level: Education
 
-365 open, newest first (by the date the scraper first saw them), updated 2026-11-17.
+367 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AHRC NYC | [Maintenance Worker (School) - Queens](https://jobs.smartrecruiters.com/AHRCNYC1/744000162095349-maintenance-worker-school-queens) | Queens, New York, us | $39,500 | 2026-11-18 |  |
+| Magical Beginnings | [Infant Teacher - Paid Winter Break](https://jobs.lever.co/magicalbeginningslc/31c340f0-c55c-4835-b9c7-e8f6aed03ef3) | Groveland, MA |  | 2026-11-18 |  |
+| Texas Health Resources | [Admissions Specialist I](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012469&lang=en) | Arlington |  | 2026-11-18 |  |
+| Texas Health Resources | [Admissions Specialist I](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012455&lang=en) | Fort Worth |  | 2026-11-18 |  |
+| UTRGV | [STUDENT SUCCESS SPECIALIST](https://careers.utrgv.edu/postings/53161) | Edinburg, Texas |  | 2026-11-18 |  |
 | Apollo After School | [After School Educator](https://apollo-after-school.breezy.hr/p/6953dba657a0-after-school-educator) | Jersey City, NJ | $20/hour | 2026-11-17 |  |
 | Covista | [FNP Capstone Practicum/Intensive - Part-time Faculty](https://jobs.smartrecruiters.com/Covista/744000161835039-fnp-capstone-practicum-intensive-part-time-faculty) | Remote, REMOTE, us |  | 2026-11-17 |  |
 | KIPP | [High School Team Teacher](https://jobs.smartrecruiters.com/KIPP/744000161911559-high-school-team-teacher) | Columbus, OH, us | $50,000 | 2026-11-17 |  |
@@ -146,7 +151,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Community Roots Academy | [Education Specialist - Mild/Moderate K-8](https://cra.bamboohr.com/careers/28) | Laguna Niguel, California, United States |  | 2026-11-05 |  |
 | Redeemer Presbyterian Church Lincoln Square | [Sunday Morning Teacher](https://ats.rippling.com/redeemer-presbyterian-church-lsq/jobs/8dcbd60c-ce1a-48e0-83d1-655c1c0baaf3) | New York, NY | $30 to $33/hour | 2026-11-05 |  |
 | Magical Beginnings | [Infant Teacher - Paid Winter Break](https://jobs.lever.co/magicalbeginningslc/0426d526-2a2b-44e0-92ea-9da05013748f) | Beverly, MA |  | 2026-11-05 |  |
-| Rocketship Public Schools | [Special Education Teacher](https://jobs.lever.co/rocketship/a052aec0-f35b-4ac6-bdcb-0d85c8ebf9e5) | Milwaukee, WI |  | 2026-11-05 |  |
 | Rocketship Public Schools | [Elementary Teacher](https://jobs.lever.co/rocketship/21858cee-837a-42c5-b1b0-b3c8e7ee7ff7) | Milwaukee, WI | $54,827 to $79,534 | 2026-11-05 |  |
 | Greenwood Christian Academy | [School Bus Driver](https://gcak12.bamboohr.com/careers/197) | Greenwood, Indiana, United States |  | 2026-11-05 |  |
 | College Admissions Made Possible 2.0 | [USC GEAR UP Tutor](https://campcollege2.bamboohr.com/careers/43) | Columbia, South Carolina, United States | $30 to $40/hour | 2026-11-05 |  |
@@ -190,7 +194,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Philadelphia Ballet | [School Accompanist](https://philadelphiaballet.bamboohr.com/careers/39) | Philadelphia, Pennsylvania, United States |  | 2026-11-05 | clearance |
 | LanguageBird | [Online Portuguese Instructor (Remote)](https://languagebird.bamboohr.com/careers/37) | Los Angeles, California, United States (Remote) |  | 2026-11-05 | no visa sponsorship |
 | TeachMichigan | [Early Career Educator Fellowship '26](https://teachmichigan.pinpointhq.com/en/postings/df6c76ab-295f-42db-932e-43d487b89b0c) | Michigan |  | 2026-11-05 |  |
-| Per Scholas | [Low Voltage Telecom Instructor](https://job-boards.greenhouse.io/perscholashires/jobs/4726978006) | United States | $50 to $55/hour | 2026-11-04 |  |
 | Trinity Logistics | [Agent Education & Training Specialist](https://trinitylogistics.com/join-us/job/?gh_jid=8929315002) | Seaford, DE (hybrid) |  | 2026-11-04 |  |
 | Accenture | [Instructor Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-3565-Piedmont-Rd-NE-ACN-Ops/Instructor-Specialist_14465756) | Atlanta, 3565 Piedmont Rd NE., ACN Ops | $63,800 to $154,800 | 2026-11-04 |  |
 | Zeta Charter Schools | [Elementary School Science Teacher (2027-2028)](https://zetaschools.org/careers?gh_jid=8044944003) | New York City, NY | $71,500 to $115,500 | 2026-11-04 |  |
@@ -244,7 +247,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Willamalane Park and Recreation District | [Youth Tumbling Instructor](https://willamalanedistrict.bamboohr.com/careers/354) | Springfield, Oregon, United States |  | 2026-11-04 |  |
 | Assessment Intervention Management | [Math Test Prep Tutor and/or English Test Prep Tutor](https://assessment-intervention-management.breezy.hr/p/0e68c6776686-math-test-prep-tutor-and-or-english-test-prep-tutor) | San Antonio, TX | $25 to $40/hour | 2026-11-04 | no visa sponsorship |
 | Ensemble Performing Arts | [Beginner Piano Teacher - Montclair, NJ](https://ensemble-performing-arts.breezy.hr/p/4497b40aaae9-beginner-piano-teacher-montclair-nj) | Montclair, NJ | $30 to $34/hour | 2026-11-04 |  |
-| Per Scholas | [Low Voltage Telecom Instructor](https://job-boards.greenhouse.io/perscholashires/jobs/4711919006) | Phoenix, Arizona, United States | $40 to $45/hour | 2026-11-04 |  |
 | Apollo After School | [Part-Time Substitute Educator – Before Care](https://apollo-after-school.breezy.hr/p/943b4cf45e1b-part-time-substitute-educator-before-care) | Mendham, NJ | $21/hour | 2026-11-04 |  |
 | Red Rabbit | [Porter/Dishwasher In-School (No Weekends - No Nights), Brooklyn, NY](https://red-rabbit.breezy.hr/p/61b31f3db76b-porter-dishwasher-in-school-no-weekends-no-nights-brooklyn-ny) | Brooklyn, NY | $17 to $19/hour | 2026-11-04 |  |
 | Apollo After School | [Before School, After School & Recess Educator Opportunities – Northwest Chicago](https://apollo-after-school.breezy.hr/p/9f2ebc24b0c8-before-school-after-school-recess-educator-opportunities-northwest-chicago) | Chicago, IL | $19 to $20/hour | 2026-11-04 |  |

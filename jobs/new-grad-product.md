@@ -1,11 +1,18 @@
 # New grad and entry level: Product, program and project management
 
-292 open, newest first (by the date the scraper first saw them), updated 2026-11-17.
+295 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| City of New York | [BOB - Associate Project Manager II](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016930046-bob-associate-project-manager-ii) | New York City, NY, us |  | 2026-11-18 |  |
+| City of New York | [BOB - Associate Project Manager 3](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016929771-bob-associate-project-manager-3) | New York City, NY, us |  | 2026-11-18 | clearance |
+| Create Music Group | [Operations Project Manager](https://ats.rippling.com/createmusicgroup/jobs/30f10eec-dc07-4807-bc41-98e888fca1d8) | Los Angeles, CA | $26.44 to $28.84/hour | 2026-11-18 |  |
+| Primoris | [Transmission Project Manager I](https://prim.wd108.myworkdayjobs.com/Primoris/job/Denton-TX/Transmission-Project-Manager-I_JR103366) | Denton, TX |  | 2026-11-18 |  |
+| REXEL | [Project Manager](https://jobs.smartrecruiters.com/REXEL1/744000162123179-project-manager) | Douglasville, GA, us |  | 2026-11-18 |  |
+| Black & Veatch | [Regional Planner Project Manager - Water/Wastewater](https://careers.bv.com/job/Austin-Regional-Planner-Project-Manager-WaterWastewater-TX-73301/1457787533/) | Houston, TX, US |  | 2026-11-18 |  |
+| TikTok | [Logistics Product Manager Graduate (Supply Chain and Logistics) - 2027 Start (MBA)](https://lifeattiktok.com/search/7704910847553931573) | Seattle, Washington, United States of America |  | 2026-11-18 |  |
 | UC San Diego | [Graduate Project Manager and Policy Analyst - 142045](https://employment.ucsd.edu/graduate-project-manager-and-policy-analyst-142045/job/7F2C292F8CCDB80DB75CB0D365CC0DC1) | Remote | $100,000 to $120,000 | 2026-11-17 |  |
 | Freddie Mac | [Project Management Associate II](https://careers.freddiemac.com/us/en/job/JR17818) | McLean, Virginia, United States of America | $70,000 to $106,000 | 2026-11-17 |  |
 | REXEL | [Project Manager](https://jobs.smartrecruiters.com/REXEL1/744000161885199-project-manager) | Orlando, FL, us |  | 2026-11-17 |  |
@@ -33,14 +40,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Northwestern Mutual | [Technical Program Manager II](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/Franklin-WI-Corporate/Technical-Program-Manager-II_JR-46308) | Franklin, WI Corporate | $89,360 to $154,200 | 2026-11-11 |  |
 | TikTok | [Project Manager Graduate (Linehaul Management) - 2027 Start](https://lifeattiktok.com/search/7706600831827085621) | Middlesex, New Jersey, United States of America |  | 2026-11-11 |  |
 | City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016750676-project-manager) | New York City, NY, us |  | 2026-11-10 |  |
-| Jobgether | [Project Manager, Implementation](https://jobs.lever.co/jobgether/1e6b1e30-4d8d-4525-81f7-0a6c576add44) | US (remote) |  | 2026-11-10 |  |
 | Applied Materials | [Technical Project Manager I - New College Graduate (Bachelors) Kalispell, MT](https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Technical-Project-Manager-I---New-College-Graduate--Bachelors--Kalispell--MT_R2633097) | Kalispell,MT | $65,500 to $90,000 | 2026-11-10 |  |
 | Honda | [Technical Project Manager (102371)](https://careers.honda.com/us/en/job/13329) | Raymond, Ohio, United States |  | 2026-11-10 |  |
 | JPMorgan Chase | [Project Management Associate I](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807257) | Columbus, OH, United States |  | 2026-11-09 |  |
 | J.C. Cannistraro LLC | [Assistant Project Manager](https://cannistraro.bamboohr.com/careers/679) | Waltham, Massachusetts, United States |  | 2026-11-09 |  |
 | Tint | [Associate Product Manager](https://job-boards.greenhouse.io/tintai/jobs/4751433005) | US - Remote | $93,500 to $125,000 | 2026-11-07 |  |
 | Pacific Health Group | [Enhanced Care Management Program Manager](https://apply.workable.com/j/AE8FFD20CE) | Nevada County, California, United States | $80,000 to $85,000 | 2026-11-07 |  |
-| Terabase Energy | [Associate Project Manager Closure RMA and Warranty](https://apply.workable.com/j/EDCD1DD342) | Berkeley, California, United States |  | 2026-11-07 |  |
 | V4C.ai | [Associate Project Manager](https://apply.workable.com/j/61FE66EF22) | Whiteville, North Carolina, United States (hybrid) |  | 2026-11-07 |  |
 | City of New York | [Project Manager, Flood Risk](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016686021-project-manager-flood-risk) | New York City, NY, us |  | 2026-11-06 |  |
 | City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016685706-project-manager) | New York City, NY, us |  | 2026-11-06 |  |
@@ -52,6 +57,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Quality Group GmbH | [Senior Product Owner (gn) - Logistics](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5029444101) | Hamburg (hybrid) |  | 2026-11-06 |  |
 | The Quality Group GmbH | [Senior Product Owner (gn) - Product Lifecycle Management (PLM)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5029470101) | Hamburg (hybrid) |  | 2026-11-06 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater 1](https://careers.bv.com/job/Las-Vegas-Project-Manager-WaterWastewater-1-NV-89044/1454932633/) | Las Vegas, NV, US |  | 2026-11-06 |  |
+| DH Pace | [Entry level Project Manager](https://job-boards.greenhouse.io/dhpace/jobs/5474920008) | Olathe KS |  | 2026-11-06 |  |
 | Owen Ames Kimball | [Assistant Project Manager](https://oakmi.bamboohr.com/careers/252) | Kalamazoo, Michigan, United States |  | 2026-11-06 |  |
 | Immortals | [Jr. Project Manager, Operations & Product](https://apply.workable.com/j/35C106EA2F) | United States |  | 2026-11-06 |  |
 | Bask Health | [Product Owner](https://apply.workable.com/j/88E8AC387F) | new york, New York, United States |  | 2026-11-06 |  |
@@ -67,7 +73,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | DFO Referrals | [Business Analyst, Project Management Pillar](https://job-boards.greenhouse.io/dforeferrals/jobs/6228327004) | Westport, CT | $80,000 to $120,000 | 2026-11-05 | no visa sponsorship |
 | Cultivate Initiatives | [Community Beautification Program Manager](https://cultivateinitiatives.bamboohr.com/careers/139) | Portland, Oregon, United States | $64,000 to $68,000 | 2026-11-05 |  |
 | Double L Management | [Assistant Project Manager (Fireproofing)](https://doublel.bamboohr.com/careers/82) | Westerville, Ohio, United States |  | 2026-11-05 |  |
-| Agate Software | [Project Manager - Okemos, MI [PJM-2026-10]](https://jobs.lever.co/agatesoftware/e38af078-ac1c-43d4-a01a-2b9287d3cd10) | Okemos, MI (hybrid) |  | 2026-11-05 |  |
 | PMA Consultants | [Assistant Project Manager](https://jobs.lever.co/pmaconsultants/46af906e-a7da-47b0-a1ca-577937313264) | Springfield, MA (hybrid) |  | 2026-11-05 |  |
 | Clerkie | [Associate Product Manager](http://getfiber.ai/careers?gh_jid=5269011007) | Remote |  | 2026-11-05 | no visa sponsorship |
 | Hive | [Associate Product Manager, Deploy Models](https://jobs.lever.co/hive/d5b22ed0-fdd2-4be1-8e6c-b6d734c17986) | San Francisco | $90,000 to $120,000 | 2026-11-05 |  |
@@ -103,11 +108,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016455616-project-manager) | New York City, NY, us |  | 2026-11-04 |  |
 | AECOM | [Entry-Level Deputy Project Manager](https://jobs.smartrecruiters.com/AECOM2/744000157843708-entry-level-deputy-project-manager) | Philadelphia, PA, us |  | 2026-11-04 | no visa sponsorship |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464240008) | Olathe KS |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464233008) | Phoenix AZ EDS |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464243008) | Port St. Lucie FL |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464244008) | Atlanta GA |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464243008) | Port St. Lucie FL |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464233008) | Phoenix AZ EDS |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464229008) | Nashville TN |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
 | REXEL | [Project Manager I](https://jobs.smartrecruiters.com/REXEL1/744000157887719-project-manager-i) | Boise, ID, us |  | 2026-11-04 |  |
 | POWERX | [Project Manager](https://job-boards.greenhouse.io/powerx/jobs/4464251009) | Denver, Colorado |  | 2026-11-04 |  |
 | ButterflyMX | [Implementation Project Manager (Hybrid)](https://jobs.ashbyhq.com/butterflymx/6da62dcb-ad9e-4de4-865a-14f80ec8d968) | NYC Headquarters (hybrid) | $75,000 to $85,000 | 2026-11-04 |  |
@@ -153,7 +158,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of New York | [Associate Project Manager 01](https://jobs.smartrecruiters.com/CityOfNewYork/3743990015759603-associate-project-manager-01) | Queens, NY, us |  | 2026-11-04 |  |
 | EliseAI | [Associate Product Manager / Housing](https://jobs.ashbyhq.com/EliseAI/f0c8d0af-8021-4a04-b0f9-de1baff48ee4) | New York City | $150,000 to $220,000 | 2026-11-04 |  |
 | POWERX | [Assistant Project Manager](https://job-boards.greenhouse.io/powerx/jobs/4423351009) | Dallas, Texas |  | 2026-11-04 |  |
-| Quest Defense Systems & Solutions, Inc. | [Project Management Specialist](https://www.quest-defense.com/careers/life-at-quest-defense/current-opportunities/?gh_jid=5247196007) | Cincinnati, OH | $65,000 to $72,000 | 2026-11-04 | US citizens/persons only |
 | Alarm.com | [Product Manager II (Technical)](https://job-boards.greenhouse.io/alarmcom/jobs/8842046002) | Tysons, Virginia | $110,000 to $125,000 | 2026-11-04 |  |
 | AmeriPharma | [Product Manager I (On-site in Laguna Hills, CA)](https://ameripharma.bamboohr.com/careers/817) | Laguna Hills, California, United States |  | 2026-11-04 |  |
 | Garner Health | [Product Manager II](https://job-boards.greenhouse.io/garnerhealth/jobs/6200765004) | New York City, New York | $143,000 to $170,000 | 2026-11-04 | no visa sponsorship |
@@ -226,6 +230,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TikTok | [Product Manager Graduate (TikTok LIVE - Platform Trust And Ecosystem) - 2027 Start](https://lifeattiktok.com/search/7680761598014015797) | San Jose, California, United States of America |  | 2026-10-26 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Des-Moines-Project-Manager-WaterWastewater-IA/1450472833/) | Des Moines, IA, US |  | 2026-10-23 |  |
 | CommonSpirit Health (St. Luke's Health) | [Project Delivery Project Manager](https://www.commonspirit.careers/job/chicago/project-delivery-project-manager/35300/102218853200) | CHICAGO, IL |  | 2026-10-21 |  |
+| Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Fayetteville-Project-Manager-WaterWastewater-AR-72701/1438094733/) | Fayetteville, AR, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - LNG](https://careers.bv.com/job/Overland-Park-Project-Manager-LNG-KS-66062/1436742933/) | Houston, TX, US (hybrid) |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - LNG](https://careers.bv.com/job/Overland-Park-Project-Manager-LNG-KS-66062/1251158001/) | Houston, TX, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Substation and Transmission](https://careers.bv.com/job/Chicago-Project-Manager-Substation-and-Transmission-IL-60290/1395194333/) | Chicago, IL, US | $126,236 to $214,599 | 2026-10-20 |  |
@@ -233,32 +238,31 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Project Manager - Water/Wastewater - Orlando](https://careers.bv.com/job/Orlando-Project-Manager-WaterWastewater-Orlando-FL-32801/1405256533/) | Orlando, FL, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Power Generation](https://careers.bv.com/job/Chattanooga-Project-Manager-Power-Generation-TN-37401/1365539233/) | Jacksonville, FL, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Gaithersburg-Project-Manager-WaterWastewater-MD/1255666301/) | Arlington, VA, US | $126,360 to $221,124 | 2026-10-20 |  |
-| Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Greenwood-Village-Project-Manager-WaterWastewater-CO-80110/1434951833/) | Phoenix, AZ, US |  | 2026-10-20 |  |
+| Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Greenwood-Village-Project-Manager-WaterWastewater-CO-80110/1434951833/) | South Jordan, UT, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - APG Services](https://careers.bv.com/job/Chattanooga-Project-Manager-APG-Services-TN-37401/1444519933/) | Chattanooga, TN, US |  | 2026-10-20 |  |
 | Intel | [Tool Install & Qualification Project Manager](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Tool-Install---Qualification-Project-Manager_JR0286750) | US, Oregon, Hillsboro | $52,000 to $200,000 | 2026-10-20 | no visa sponsorship |
 | Black & Veatch | [Distribution Project Manager](https://careers.bv.com/job/Ann-Arbor-Distribution-Project-Manager-MI-48103/1423580433/) | Ann Arbor, MI, US |  | 2026-10-20 |  |
-| Black & Veatch | [Project Manager, Industrial Water](https://careers.bv.com/job/Overland-Park-Project-Manager%2C-Industrial-Water-KS-66062/1402034333/) | Tampa, FL, US |  | 2026-10-20 |  |
+| Black & Veatch | [Project Manager, Industrial Water](https://careers.bv.com/job/Overland-Park-Project-Manager%2C-Industrial-Water-KS-66062/1402034333/) | Dallas, TX, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager, Industrial Water](https://careers.bv.com/job/Greenwood-Village-Project-Manager%2C-Industrial-Water-CO-80110/1402035033/) | Greenwood Village, CO, US | $142,648 to $242,495 | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Underground Transmission](https://careers.bv.com/job/Overland-Park-Project-Manager-Underground-Transmission-KS-66062/1292504801/) | Overland Park, KS, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Underground Transmission](https://careers.bv.com/job/Burlington-Project-Manager-Underground-Transmission-MA-01803/1292506401/) | Burlington, MA, US | $126,360 to $221,136 | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Transmission](https://careers.bv.com/job/Burlington-Project-Manager-Transmission-MA-01803/1292507701/) | Burlington, MA, US | $126,360 to $221,136 | 2026-10-20 |  |
-| Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Columbus-Project-Manager-WaterWastewater-OH-43085/1421396233/) | Seven Hills, OH, US |  | 2026-10-20 |  |
-| Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Des-Moines-Project-Manager-WaterWastewater-IA/1421409133/) | Kansas City, MO, US |  | 2026-10-20 |  |
-| Black & Veatch | [Data Center Field Project Manager](https://careers.bv.com/job/Overland-Park-Data-Center-Field-Project-Manager-KS-66062/1408970833/) | Canonsburg, PA, US |  | 2026-10-20 |  |
+| Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Columbus-Project-Manager-WaterWastewater-OH-43085/1421396233/) | Indianapolis, IN, US |  | 2026-10-20 |  |
+| Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Des-Moines-Project-Manager-WaterWastewater-IA/1421409133/) | Creve Coeur, MO, US |  | 2026-10-20 |  |
+| Black & Veatch | [Data Center Field Project Manager](https://careers.bv.com/job/Overland-Park-Data-Center-Field-Project-Manager-KS-66062/1408970833/) | San Antonio, TX, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Charlotte-Project-Manager-WaterWastewater-NC-28201/1421012033/) | Cary, NC, US |  | 2026-10-20 |  |
-| Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Greenville-Project-Manager-WaterWastewater-SC/1421015133/) | Savannah, GA, US |  | 2026-10-20 |  |
+| Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Greenville-Project-Manager-WaterWastewater-SC/1421015133/) | Charleston, SC, US |  | 2026-10-20 |  |
 | Black & Veatch | [Data Center Project Manager](https://careers.bv.com/job/Overland-Park-Data-Center-Project-Manager-KS-66062/1441543633/) | Darien, IL, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Dallas-Project-Manager-WaterWastewater-TX-75201/1429680833/) | Fort Worth, TX, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Advanced Power Generation](https://careers.bv.com/job/Overland-Park-Project-Manager-Advanced-Power-Generation-KS-66062/1286435501/) | Ann Arbor, MI, US |  | 2026-10-20 |  |
-| Black & Veatch | [Project Manager - Advanced Power Generation](https://careers.bv.com/job/Overland-Park-Project-Manager-Advanced-Power-Generation-KS-66062/1286435701/) | Ann Arbor, MI, US |  | 2026-10-20 |  |
+| Black & Veatch | [Project Manager - Advanced Power Generation](https://careers.bv.com/job/Overland-Park-Project-Manager-Advanced-Power-Generation-KS-66062/1286435701/) | Cary, NC, US |  | 2026-10-20 |  |
 | Google | [Program Manager I, Data Center Maintenance Planner, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/119448228339819206) | New Albany, OH, USA | $108,000 to $153,000 | 2026-10-20 |  |
 | Invesco | [Associate Product Manager, Equities](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Assoc-Product-Mgr-EM-Equities_R-15536) | New York, New York |  | 2026-10-20 |  |
 | Adobe | [2027 MBA University Graduate - Product Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900) | San Jose | $105,300 to $205,150 | 2026-10-20 |  |
 | Aptiv | [Product Manager ADAS](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Boston-MA---USA/Product-Manager-ADAS_J000703323) | Boston, MA - USA |  | 2026-10-20 |  |
-| Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Fayetteville-Project-Manager-WaterWastewater-AR-72701/1438094733/) | Fayetteville, AR, US |  | 2026-10-20 |  |
 | HPE | [Internal Project Manager I](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Internal-Project-Manager-I_1213447) | Bloomington, Minnesota, United States of America | $57,500 to $130,000 | 2026-10-20 |  |
 | HPE | [PLM Program Manager Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/PLM-Program-Manager-Graduate_1213445-1) | Spring, Texas, United States of America | $62,900 to $145,300 | 2026-10-20 |  |
-| Normal Computing | [Product Manager](https://jobs.ashbyhq.com/NormalComputing/acc80301-3574-4cc8-904a-fb66a346ebd4) | New York |  | 2026-10-20 |  |
+| Normal Computing | [Product Manager](https://jobs.ashbyhq.com/NormalComputing/acc80301-3574-4cc8-904a-fb66a346ebd4) | New York, NY |  | 2026-10-20 |  |
 | Guidehouse | [Program Management SETA](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Program-Management-SETA_42728) | US - MD, Bethesda | $115,200 to $172,800 | 2026-10-20 | clearance |
 | SLB | [Project Manager](https://careers.slb.com/jobdescription.aspx?id=WDR00136807) | Midland, United States |  | 2026-10-20 | no visa sponsorship |
 | Formlabs | [Technical Program Manager - Entry Level](https://careers.formlabs.com/job/8249069/apply/?gh_jid=8249069) | Boston, MA | $110,000 to $140,000 | 2026-10-20 |  |
@@ -272,7 +276,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Veeva Systems | [Associate Product Manager - Vault CRM Suite](https://jobs.lever.co/veeva/6bcc8228-5b43-43e5-b96b-d62679b8c64a) | Massachusetts - Boston | $60,000 to $120,000 | 2026-10-20 |  |
 | Veeva Systems | [Associate Product Manager - Vault CRM Suite](https://jobs.lever.co/veeva/9a6eaa9b-0d86-4fd7-a687-17e70add8961) | Massachusetts - Boston | $60,000 to $120,000 | 2026-10-20 |  |
 | Stripe | [Product Manager: New Grad Accelerator](https://stripe.com/jobs/search?gh_jid=7737124) | San Francisco, New York City, Seattle |  | 2026-10-20 |  |
-| Databricks | [Associate Product Manager, New Grad (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) · Fall 2026 | Bellevue, Washington; Mountain View, California; San Francisco, Califo | $133,000 to $150,000 | 2026-10-20 |  |
 | Electronic Arts | [Associate Game Product Manager - MTX and Events (Apex Legends)](https://jobs.ea.com/en_US/careers/JobDetail/Game-Product-Manager-MTX-and-Events-Apex-Legends/216014) | Los Angeles - Chatsworth, United States of America |  | 2026-10-20 |  |
 | Siemens Energy | [Jr Commercial Project Manager](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Jr-Commercial-Project-Manager/305027) | Orlando, Florida, United States of America |  | 2026-10-20 |  |
 | TikTok | [Listing Governance Program Manager Graduate (TikTok Shop - Governance & Experience) - 2027 Start](https://lifeattiktok.com/search/7693569931690182965) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
