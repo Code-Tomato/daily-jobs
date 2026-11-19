@@ -1,11 +1,16 @@
 # Internships and co-ops: HR, legal and policy
 
-505 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
+507 open, newest first (by the date the scraper first saw them), updated 2026-11-19.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Heritage Holding | [2027 Spring Talent Acquisition Co-op](https://jobs.ashbyhq.com/heritage-holding/1aceb5b1-c468-4777-9f71-4240278c65fa) · Spring 2027 | Boston, MA |  | 2026-11-19 |  |
+| Southern Poverty Law Center | [Intern, Federal Policy (Summer 2027)](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8950751002) · Summer 2027 | Washington, D.C. | $18.40/hour | 2026-11-19 |  |
+| Uplinq Inc | [HR Intern - ASU](https://ats.rippling.com/uplinq/jobs/118f8591-be02-495f-beb9-7ea49e6f1e34) | Scottsdale, AZ | $20 to $24/hour | 2026-11-19 |  |
+| Aalo Atomics | [Spring 2027 Licensing Engineering Intern - Austin, TX](https://ats.rippling.com/aalo-atomics/jobs/36131118-5880-4b44-8aba-3e29e225cb17) · Spring 2027 | Austin, TX |  | 2026-11-19 |  |
+| The Legal Aid Society of Rochester, NY | [Undergraduate and Paralegal Internship](https://lasroc.bamboohr.com/careers/134) | Rochester, New York, United States |  | 2026-11-19 |  |
 | Austin Sunshine Camps | [Human Resources & Talent Acquisition Intern for Camp Programing (Winter/Spring)](https://ats.rippling.com/asc-careers/jobs/66f8e94f-447b-421f-8d2e-81841f0c1064) · Winter | Austin, TX | $15 to $16/hour | 2026-11-18 |  |
 | Minitab | [Legal Intern](https://job-boards.greenhouse.io/minitab/jobs/8200710003) | State College, Pennsylvania, United States |  | 2026-11-18 | no visa sponsorship |
 | Molina Healthcare | [Legal & Compliance Internship (Remote) – Summer 2027 (Undergraduate)](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040174) · Summer 2027 | United States (remote) |  | 2026-11-18 |  |
@@ -84,7 +89,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Protiviti | [Austin Legal, Risk and Compliance Intern - 2027](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/AUSTIN/Austin-Legal--Risk-and-Compliance-Intern---2027_JR-258894) | AUSTIN | $28/hour | 2026-11-10 | no visa sponsorship |
 | Scout Motors | [Intern, Human Resources](https://job-boards.greenhouse.io/scoutmotors/jobs/5287135007) | Charlotte, NC; Blythewood, SC | $18 to $20/hour | 2026-11-10 |  |
 | Scout Motors | [Intern, Legal](https://job-boards.greenhouse.io/scoutmotors/jobs/5287132007) | Charlotte, North Carolina, United States | $20/hour | 2026-11-10 |  |
-| Think Academy US | [HR Intern - Mandarin Required](https://job-boards.greenhouse.io/thinkacademyus/jobs/8199764003) · Summer 2027 | Seattle/Boston/New York | $20 to $24/hour | 2026-11-10 |  |
+| Think Academy US | [HR Intern - Mandarin Required](https://job-boards.greenhouse.io/thinkacademyus/jobs/8199764003) · Summer 2027 | San Jose/Seattle/Boston/New York | $20 to $24/hour | 2026-11-10 |  |
 | Trimble | [PX Compliance Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/PX-Compliance-Intern_R58108) · Summer 2027 | US - CO, Westminster | $19.62 to $29.47/hour | 2026-11-10 |  |
 | Wings of Hope Family Crisis Services | [Counseling Intern](https://wingsofhope.bamboohr.com/careers/85) | Stillwater, Oklahoma, United States |  | 2026-11-10 |  |
 | Baxter Aerospace | [Recruiting & Personnel Intern](https://jobs.gem.com/baxter-aerospace/am9icG9zdDrb1CLD8xeZJSP6wUHqu1Rs) | Baxter Aerospace (St. George UT) |  | 2026-11-10 |  |
@@ -128,13 +133,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Strada Education Foundation | [Strada Education Foundation Internship: Legal Intern](https://jobs.lever.co/stradaeducation/cf1023bd-5d9f-4caa-a6ed-270bd965eb25) | Indianapolis, Indiana | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Policy Intern](https://jobs.lever.co/stradaeducation/a5d0b720-c67c-466d-829e-bd3cc72d1339) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
 | Alabama Ag Credit | [Skillbridge- Compliance Specialist Internship (DOW Partnership)](https://alabamaagcredit.bamboohr.com/careers/215) | Montgomery, Alabama, United States |  | 2026-11-05 |  |
-| Quincy Institute | [Democratizing Foreign Policy Research Intern](https://jobs.lever.co/quincyinst/73f9446b-700e-4be8-8bb6-149dd3d2017c) | Remote or Washington, D.C. |  | 2026-11-05 |  |
 | Business & Human Rights Resource Centre | [Just Transition and Legal Research Intern](https://bhrrc.bamboohr.com/careers/119) | Remote |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Policy Research Intern - Bluegrass Institute](https://jobs.lever.co/standtogether/4e19b85f-fcb3-437a-9e7e-b6eaed65f356) · Spring 2027 | Kentucky |  | 2026-11-05 |  |
 | Middle East Institute | [Intern: Policy Center (Spring 2027)](https://ats.rippling.com/mei-employment/jobs/68f4fa94-daf5-4270-a238-6c09d3a1aa28) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
 | New Mexico Immigrant Law Center | [12 Month-Policy Internship](https://nmilc1.bamboohr.com/careers/127) | Albuquerque, New Mexico, United States | $19/hour | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Coalitions Intern - Pacific Legal Foundation](https://jobs.lever.co/standtogether/b2fa7adc-21bf-4cca-a50b-d48d61970cbb) · Spring 2027 | Arlington, Virginia |  | 2026-11-05 |  |
-| Stand Together | [KIP Spring 2027 - Development Intern - Empire Center for Public Policy](https://jobs.lever.co/standtogether/16119bd8-d4bf-46bb-8435-30e0b12a0473) · Spring 2027 | New York |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Federal Policy Intern - Pacific Legal Foundation](https://jobs.lever.co/standtogether/93d509dd-f638-4d58-a371-b87880d2363c) · Spring 2027 | Arlington, Virginia |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - State Policies Intern - Marijuana Policy Project Foundation](https://jobs.lever.co/standtogether/e21ed89d-2cc7-49d7-9f66-8c53108f5dc3) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
 | Pattern | [Legal Internship](https://jobs.lever.co/pattern/79945988-cd73-422b-9694-a3a3b4be94f5) | Lehi, UT, US |  | 2026-11-05 |  |
@@ -295,7 +298,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Langan Engineering & Environmental Services | [Intern/Co-op - Environmental Permitting & Compliance (Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4403230009) · Summer 2027 | Austin, TX |  | 2026-11-04 |  |
 | Think Academy US | [Recruiting Intern](https://job-boards.greenhouse.io/thinkacademyus/jobs/7997492003) | Remote | $24 to $28/hour | 2026-11-04 |  |
 | CEO Lawyer | [Legal Interns Summer 2027](https://ats.rippling.com/ceo-lawyer/jobs/45a4d13f-6e12-4d5c-a457-ac8aa774aecb) · Summer 2027 | AR |  | 2026-11-04 |  |
-| Later | [Creator Campaigns Recruiter Co-Op](https://job-boards.greenhouse.io/later/jobs/8807453002) | Boston, MA | $21/hour | 2026-11-04 |  |
 | Quantinuum | [U.S. HR Intern - 985](https://jobs.eu.lever.co/quantinuum/8617abb8-6427-4320-9a59-9d78ee57358a) | US Broomfield, CO |  | 2026-11-04 | US citizens/persons only |
 | Veeam Software | [Policy Engineering Intern- Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101) · Summer 2027 | San Jose, CA, USA | $40 to $50/hour | 2026-11-04 |  |
 | Xcimer Energy | [Summer 2027 Internship - Physics](https://jobs.lever.co/xcimer/27e40b7a-0008-42e6-b43f-200d727f9b49) · Summer 2027 | Denver, CO |  | 2026-11-04 | US citizens/persons only |
@@ -490,24 +492,24 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Electronic Arts | [Legal Specialist Intern, Approvals (JD) - Summer 2027](https://jobs.ea.com/en_US/careers/JobDetail/Legal-Specialist-Intern-Approvals-JD-Level/216328) · Summer 2027 | Los Angeles - Del Rey, United States of America (hybrid) |  | 2026-10-20 |  |
 | MD Anderson | [Student Extern - HR](https://jobs.mdanderson.org/search/jobdetails/student-extern---hr/86d94d8f-28f0-4e50-8a96-17f2e268919c) | Remote (Within Texas), Texas, US | $18.19 to $26.27/hour | 2026-10-20 |  |
 | TikTok | [Human Resources Intern (Global Business Solutions) - 2027 Summer](https://lifeattiktok.com/search/7668095158915664181) · Summer 2027 | New York, New York, United States of America |  | 2026-10-20 |  |
+| TikTok | [Talent Acquisition Intern (TikTok Shop) - 2027 Summer](https://lifeattiktok.com/search/7667808988104476981) · Summer 2027 | Los Angeles, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [HR Business Partner Project Intern (TikTok Shop) - 2026 Start](https://lifeattiktok.com/search/7678753749129529653) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
 | TikTok | [Talent Acquisition Project Intern (GMPT) - 2026 Start](https://lifeattiktok.com/search/7677670535335627013) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [AMS Public Policy Project Intern (Global Public Policy) - 2027 Start](https://lifeattiktok.com/search/7685739270262573365) | Washington D.C., District of Columbia, United States of America |  | 2026-10-20 | no visa sponsorship |
-| TikTok | [HR Business Partner Project Intern (TikTok Shop) - 2026 Start](https://lifeattiktok.com/search/7678753749129529653) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
-| TikTok | [Talent Acquisition Intern (TikTok Shop) - 2027 Summer](https://lifeattiktok.com/search/7667808988104476981) · Summer 2027 | Los Angeles, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://lifeattiktok.com/search/7628351108585425157) · Summer 2026 | Seattle, Washington, United States of America |  | 2026-10-20 |  |
 | TikTok | [Talent Acquisition Intern (Global Business Solutions) - 2027 Summer](https://lifeattiktok.com/search/7668388999509494021) · Summer 2027 | New York, New York, United States of America |  | 2026-10-20 |  |
 | TikTok | [HR Business Partner Project Intern (GMPT) - 2026 Start (BS/MS)](https://lifeattiktok.com/search/7620881622469953797) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Talent Acquisition Intern (Global Functions) - 2027 Summer](https://lifeattiktok.com/search/7677826508891130165) · Summer 2027 | Los Angeles, California, United States of America |  | 2026-10-20 |  |
-| TikTok | [Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://lifeattiktok.com/search/7628351108585425157) · Summer 2026 | Seattle, Washington, United States of America |  | 2026-10-20 |  |
-| TikTok | [Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://lifeattiktok.com/search/7677828709466605877) | Los Angeles, California, United States of America |  | 2026-10-20 |  |
-| TikTok | [HRBP Project Intern (TikTok LIVE) - 2026 Fall](https://lifeattiktok.com/search/7667557988207479045) · Fall 2026 | Los Angeles, California, United States of America |  | 2026-10-20 |  |
-| TikTok | [AMS Public Policy Project Intern (Global Public Policy) - 2026 Start (BS/MS)](https://lifeattiktok.com/search/7629798426777307397) · Fall 2026 | Washington D.C., District of Columbia, United States of America |  | 2026-10-20 | no visa sponsorship |
 | TikTok | [Talent Acquisition Project Intern (E-Commerce) - 2026 Start](https://lifeattiktok.com/search/7677953146677479733) | New York, New York, United States of America |  | 2026-10-20 |  |
 | TikTok | [Talent Acquisition Intern (Global Functions) - 2027 Summer](https://lifeattiktok.com/search/7677822866848303365) · Summer 2027 | New York, New York, United States of America |  | 2026-10-20 |  |
-| TikTok | [Talent Acquisition Project Intern (Corporate Function) - 2026 Start](https://lifeattiktok.com/search/7678816516549462325) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
 | TikTok | [Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://lifeattiktok.com/search/7677828221800401157) | New York, New York, United States of America |  | 2026-10-20 |  |
+| TikTok | [Talent Acquisition Project Intern (Corporate Function) - 2026 Start](https://lifeattiktok.com/search/7678816516549462325) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
 | TikTok | [Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://lifeattiktok.com/search/7677950276409673989) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Talent Acquisition Project Intern (Product & Design) - 2026 Start](https://lifeattiktok.com/search/7677950258269653301) | Los Angeles, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Talent Acquisition Project Intern (Corporate Functions) - 2026 Fall](https://lifeattiktok.com/search/7678758076473067829) · Fall 2026 | San Jose, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [HRBP Project Intern (TikTok LIVE) - 2026 Fall](https://lifeattiktok.com/search/7667557988207479045) · Fall 2026 | Los Angeles, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://lifeattiktok.com/search/7628352960953207045) · Summer 2026 | Los Angeles, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Talent Acquisition Project Intern (Global Functions) - 2026 Start](https://lifeattiktok.com/search/7677828709466605877) | Los Angeles, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [AMS Public Policy Project Intern (Global Public Policy) - 2026 Start (BS/MS)](https://lifeattiktok.com/search/7629798426777307397) · Fall 2026 | Washington D.C., District of Columbia, United States of America |  | 2026-10-20 | no visa sponsorship |
 | TikTok | [Talent Acquisition Project Intern (E-Commerce) - 2026 Summer (BS/MS)](https://lifeattiktok.com/search/7628350902421522693) · Summer 2026 | San Jose, California, United States of America |  | 2026-10-20 |  |
 | Texas Instruments | [Human Resources Intern](https://careers.ti.com/en/sites/CX_1/job/25017555) | Dallas, TX, United States |  | 2026-10-19 | no visa sponsorship |

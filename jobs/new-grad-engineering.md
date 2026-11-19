@@ -1,11 +1,16 @@
 # New grad and entry level: Other engineering
 
-414 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
+419 open, newest first (by the date the scraper first saw them), updated 2026-11-19.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| City of New York | [Resident Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959416-resident-engineer) | New York City, NY, us |  | 2026-11-19 |  |
+| City of New York | [Resident Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959081-resident-engineer) | New York City, NY, us |  | 2026-11-19 |  |
+| Clera | [Founding GTM](https://jobs.ashbyhq.com/Clera/bc9ae879-1c9c-4265-9e9f-8825fe7b5118) | San Francisco | $80,000 to $120,000 | 2026-11-19 |  |
+| Stream Realty | [Building Engineer I](https://jobs.smartrecruiters.com/StreamRealty/744000162375948-building-engineer-i) | Austin, TX, us |  | 2026-11-19 |  |
+| Eight Sleep | [New Grad - Engineering](https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79) | New York City |  | 2026-11-19 |  |
 | Intel | [Power Integrity Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Power-Integrity-Engineer_JR0288908) | US, Arizona, Phoenix (hybrid) | $105,650 to $172,860 | 2026-11-18 |  |
 | Ascension | [1st Class Steam Engineer](https://jobs.ascension.org/us/en/job/1315214) | Washington, DC, US | $29.60 to $39.06/hour | 2026-11-18 |  |
 | Black & Veatch | [Graduate Engineer, Instrument & Controls - APG (Houston)](https://careers.bv.com/job/Houston-Graduate-Engineer%2C-Instrument-&-Controls-APG-%28Houston%29-TX-77001/1458238533/) | Houston, TX, US |  | 2026-11-18 |  |
@@ -38,7 +43,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Trilon Group | [Drainage Engineer EI](https://trilongroup.pinpointhq.com/en/postings/e916a081-194b-42dc-8cbb-d2cbb1592896) | Orlando, Florida |  | 2026-11-13 |  |
 | ERCOT | [Grid Interconnections Engineer](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Grid-Interconnections-Engineer_R2556) | Taylor, TX | $89,000 to $122,000 | 2026-11-12 |  |
 | AtriCure | [R&D Engineer - Product Development, MedTech](https://job-boards.greenhouse.io/atricure/jobs/4480201009) | Mason, OH |  | 2026-11-12 |  |
-| Beyond Reach Labs | [Build Engineer](https://jobs.ashbyhq.com/beyondreachlabs/50be617f-764e-48bc-9686-bfb06bad9d46) | New York City |  | 2026-11-12 | US citizens/persons only |
 | Infineon | [Graduate - Applications Engineer](https://jobs.infineon.com/careers/job/563808972336535) | Colorado Springs, CO, US; San Jose, CA, US |  | 2026-11-12 |  |
 | GE HealthCare | [Field Service Engineer, Early Career Trainee (Ismir/Manisa)](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer--Early-Career-Trainee--Ismir-Manisa-_R4049000-1) | Remote |  | 2026-11-11 |  |
 | Blue Sky Hospitality Solutions | [Engineer I](https://blue-sky-hospitality-solutions.breezy.hr/p/701bb32eaedf-engineer-i) | Schaumburg, IL |  | 2026-11-11 |  |
@@ -78,6 +82,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Accenture | [Support Engineer - 6560285](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/Support-Engineer---6560285_14855092) | Nashville, 4101 Charlotte Ave., Corp | $37 to $47/hour | 2026-11-05 |  |
 | TechnipFMC | [Simulation Specialist I](https://careers.technipfmc.com/job/Houston-Simulation-Specialist-I-TX-77044/1447864700/) | Houston, TX, US |  | 2026-11-05 |  |
 | Stream Realty | [Building Engineer I](https://jobs.smartrecruiters.com/StreamRealty/744000159498503-building-engineer-i) | Washington, DC, us |  | 2026-11-05 |  |
+| Lalamove | [Application Support Engineer](https://jobs.lever.co/lalamove/d19288b5-119c-477e-8409-81455f5a2211) | New York |  | 2026-11-05 |  |
 | Broadcast Management Group | [Junior Broadcast Engineer](https://broadcastmgmtgroup.bamboohr.com/careers/186) | Chicago, Illinois, United States |  | 2026-11-05 |  |
 | Silver Star | [OSP Engineer I](https://silverstar.bamboohr.com/careers/337) | Freedom, Wyoming, United States |  | 2026-11-05 |  |
 | PhoenixAI | [Support Engineer (open to New Grad)](https://ats.rippling.com/celerdataopenroles/jobs/c2f3baa4-ea22-40c1-9a91-b9bce899fa1e) | Menlo Park, CA | $80,000 to $100,000 | 2026-11-05 |  |
@@ -159,9 +164,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BillionToOne | [Automation Service Engineer I/II, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4733813005) | Menlo Park, CA | $179,169 | 2026-11-04 |  |
 | Olsson | [Entry-Level Engineer - Water/Wastewater](https://job-boards.greenhouse.io/olsson/jobs/5420753008) | Springfield, MO |  | 2026-11-04 |  |
 | Coffman Engineers, Inc. | [Fire Protection Engineer (Entry Level)](https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000148623869-fire-protection-engineer-entry-level-) | Meridian, ID, us |  | 2026-11-04 | no visa sponsorship |
-| Syska Hennessy Group | [Engineer I (ICT)](https://job-boards.greenhouse.io/syskahennessy/jobs/8175497) | New York, NY | $72,408 to $102,613 | 2026-11-04 |  |
-| Syska Hennessy Group | [Engineer I (ICT)](https://job-boards.greenhouse.io/syskahennessy/jobs/8175235) | Chicago, IL | $65,168 to $92,751 | 2026-11-04 |  |
 | Syska Hennessy Group | [Engineer I (ICT)](https://job-boards.greenhouse.io/syskahennessy/jobs/8175269) | Boston, MA | $68,788 to $97,182 | 2026-11-04 |  |
+| Syska Hennessy Group | [Engineer I (ICT)](https://job-boards.greenhouse.io/syskahennessy/jobs/8175235) | Chicago, IL | $65,168 to $92,751 | 2026-11-04 |  |
+| Syska Hennessy Group | [Engineer I (ICT)](https://job-boards.greenhouse.io/syskahennessy/jobs/8175497) | New York, NY | $72,408 to $102,613 | 2026-11-04 |  |
 | Egis Group | [Entry Level Engineer](https://jobs.smartrecruiters.com/EgisGroup/744000147539499-entry-level-engineer) | Indianapolis, IN, us |  | 2026-11-04 | no visa sponsorship |
 | Podium | [Technical Support Engineer](https://job-boards.greenhouse.io/podium81/jobs/8172144) | Lehi, Utah |  | 2026-11-04 |  |
 | HP Hood | [R&D Technical Documentation Specialist I](https://job-boards.greenhouse.io/hoodhp/jobs/5408675008) | Wilmington, MA | $78,000 to $88,000 | 2026-11-04 |  |
@@ -184,8 +189,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Clera | [Founding Engineer](https://jobs.ashbyhq.com/Clera/92549653-5f67-498e-9adf-c2bacb89089f) | San Francisco | $120,000 to $250,000 | 2026-11-04 | no visa sponsorship |
 | Westgate Resorts | [Engineering Tech II](https://jobs.smartrecruiters.com/WestgateResorts/744000128555490-engineering-tech-ii) | Gatlinburg, TN, us |  | 2026-11-04 |  |
 | CaptiveAire | [Application Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8560942002&gh_jid=8560942002) | Eagan,MN |  | 2026-11-04 |  |
-| CaptiveAire | [Application Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8560958002&gh_jid=8560958002) | East Petersburg, PA |  | 2026-11-04 |  |
 | CaptiveAire | [Application Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8560951002&gh_jid=8560951002) | Raleigh, NC |  | 2026-11-04 |  |
+| CaptiveAire | [Application Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8560958002&gh_jid=8560958002) | East Petersburg, PA |  | 2026-11-04 |  |
 | QGenda | [QGenda Technical Engineer - New Grad 2026](https://job-boards.greenhouse.io/qgenda/jobs/5226438008) | Atlanta, Georgia |  | 2026-11-04 | no visa sponsorship |
 | AECOM | [Entry-Level Fire Protection Engineer](https://jobs.smartrecruiters.com/AECOM2/744000121053274-entry-level-fire-protection-engineer) | Arlington, VA, us |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | ASM | [Engineer, Field Service- Early Career](https://www.asm.com/open-vacancies/?gh_jid=4501039101) | US > Arizona > Phoenix |  | 2026-11-04 | no visa sponsorship |

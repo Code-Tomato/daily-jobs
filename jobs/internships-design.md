@@ -1,11 +1,12 @@
 # Internships and co-ops: Design and creative
 
-179 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
+178 open, newest first (by the date the scraper first saw them), updated 2026-11-19.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| FieldPulse | [Graphic Design Internship](https://ats.rippling.com/fieldpulse/jobs/ae0561e4-3ac6-4acf-bf13-958f819e3963) | Dallas, TX |  | 2026-11-19 |  |
 | NBCUniversal | [NBC Connecticut Digital Producer Internships - Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000162312681-nbc-connecticut-digital-producer-internships-summer-2027) · Summer 2027 | Hartford, Connecticut, us |  | 2026-11-18 | no visa sponsorship |
 | Garmin | [Product Designer Intern](https://careers.garmin.com/careers-home/jobs/22511) · Summer 2027 | Olathe, Kansas |  | 2026-11-18 |  |
 | University of Pikeville | [WS - Spring Term - INTERNSHIP – Mountain Top Media – Videographer – IWS](https://upike.bamboohr.com/careers/625) · Spring | Pikeville, Kentucky, United States |  | 2026-11-18 |  |
@@ -53,7 +54,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Twelve NYC | [Industrial Design Intern](https://twelvenyc.bamboohr.com/careers/197) | Brooklyn, New York, United States | $22/hour | 2026-11-05 |  |
 | TH Experiential | [3-D Design Internship Fall/Winter 2026](https://thexperiential.bamboohr.com/careers/184) · Winter 2026 | New York, New York, United States (Remote) |  | 2026-11-05 |  |
 | TH Experiential | [Motion Graphic Internship Fall/Winter 2026](https://thexperiential.bamboohr.com/careers/185) · Winter 2026 | New York, New York, United States (Remote) |  | 2026-11-05 |  |
-| Viget | [Product & Web Designer Intern (2027)](https://jobs.lever.co/viget/938c3301-b358-42e3-afff-123b97b6d290) | Boulder, CO |  | 2026-11-05 | no visa sponsorship |
 | Road Commission for Oakland County | [Geographic Information Systems Internship](https://rcoc.bamboohr.com/careers/314) · Summer 2027 | Oakland County, Michigan, United States |  | 2026-11-05 |  |
 | SS Digital Media | [Oakland University Internship - Creative](https://ssdigitalmedia.bamboohr.com/careers/93) | Troy, Michigan, United States |  | 2026-11-05 |  |
 | Institute for the Study of War | [Multimedia & Video Production Internship Spring 2027](https://understandingwar.bamboohr.com/careers/249) · Spring 2027 | Washington, District of Columbia, United States |  | 2026-11-05 |  |
@@ -83,11 +83,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | KnowBe4 | [Multimedia Designer Summer Internship (Hybrid)](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) · Summer | Clearwater, Florida (hybrid) |  | 2026-11-04 |  |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | [Design Intern](https://job-boards.greenhouse.io/fccincinnati/jobs/8083877003) | Cincinnati, OH |  | 2026-11-04 |  |
 | SharkNinja | [Spring 2027: HW UX/UI Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721298006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
-| Crystal Dynamics | [Presentation Animator Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746883005) · Spring 2027 | Remote/Flexible - United States | $20 to $23/hour | 2026-11-04 |  |
 | Pencor Services | [Spring Creative News Internship](https://pencor.bamboohr.com/careers/1093) · Spring | Lehighton, Pennsylvania, United States |  | 2026-11-04 |  |
-| SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006) · Spring 2027 | New York, New York, United States | $30 to $36/hour | 2026-11-04 |  |
 | SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
-| Crystal Dynamics | [Game Design Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005) · Spring 2027 | Remote/Flexible - United States | $20 to $24/hour | 2026-11-04 |  |
+| SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006) · Spring 2027 | New York, New York, United States | $30 to $36/hour | 2026-11-04 |  |
+| Crystal Dynamics | [Game Design Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005) · Spring 2027 | Remote/Flexible - United States | $21 to $24/hour | 2026-11-04 |  |
 | Excel Sports Management | [Spring 2027 - Intern, Creative](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747588005) · Spring 2027 | New York, New York, United States | $17/hour | 2026-11-04 | no visa sponsorship |
 | Iris North America | [Motion Design Intern](https://job-boards.greenhouse.io/iris/jobs/8319399) | Atlanta, GA (hybrid) | $18/hour | 2026-11-04 |  |
 | Nex | [Summer 2027 / UI Motion Artist Intern](https://job-boards.greenhouse.io/nex/jobs/5461373008) · Summer 2027 | San Jose, California |  | 2026-11-04 |  |

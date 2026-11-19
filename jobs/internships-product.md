@@ -1,11 +1,15 @@
 # Internships and co-ops: Product, program and project management
 
-274 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
+275 open, newest first (by the date the scraper first saw them), updated 2026-11-19.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Fessler and Bowman, Inc. | [Project Management Intern](https://jobs.lever.co/fesslerbowman/00717b14-94ba-4c86-8fa6-f7d639c163d9) | Grand Blanc, MI |  | 2026-11-19 |  |
+| Lucid Software | [Product Management Internship - Summer 2027](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) · Summer 2027 | Raleigh, NC |  | 2026-11-19 |  |
+| Lucid Software | [Product Management Internship - Summer 2027](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) · Summer 2027 | Salt Lake City, UT |  | 2026-11-19 |  |
+| Pyrotek | [Intern - Product Management](https://jobs.smartrecruiters.com/Pyrotek3/744000162385949-intern-product-management) | Spokane, WA, us | $22/hour | 2026-11-19 |  |
 | Jobgether | [Data Center Apprentice Project Manager Program](https://jobs.lever.co/jobgether/09a0e80f-65db-4bf7-9d29-d528a93eef4a) | US |  | 2026-11-18 |  |
 | Amgen | [Undergrad Intern – R&D EOS / Global Program Management (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---R-D-EOS---Global-Program-Management--Summer-2027-_R-260924) · Summer 2027 | United States - Remote | $28.87/hour | 2026-11-18 |  |
 | Panasonic North America | [PMO Intern](https://careers.na.panasonic.com/careers-home/jobs/53001) | Sparks, Nevada |  | 2026-11-18 | no visa sponsorship |
@@ -87,7 +91,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/207BC1D915) · Spring 2027 | Pleasant Valley, New York, United States | $23 to $28/hour | 2026-11-06 |  |
 | Consigli Construction | [Project Management Co-op (Spring 2027)](https://apply.workable.com/j/9EAFFBC0A4) · Spring 2027 | White Plains, New York, United States | $23 to $28/hour | 2026-11-06 |  |
 | TikTok | [POI Content Product Manager Intern (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7696000179569854725) | San Jose, California, United States of America |  | 2026-11-06 |  |
-| Viget | [Project & Product Manager Intern (2027)](https://jobs.lever.co/viget/969d8237-ec1a-4ec4-ba09-b08bcfcd81c4) | Boulder, CO |  | 2026-11-05 | no visa sponsorship |
 | Wind Energy Transmission Texas | [Summer 2027 Project Management Intern](https://windenergyoftexas.bamboohr.com/careers/147) · Summer 2027 | Austin, Texas, United States |  | 2026-11-05 |  |
 | Franklin Electric | [Summer 2027 Project Management Intern](https://franklin-electric.pinpointhq.com/en/postings/dbd3aa29-6eb7-4f3a-a927-e65ba127499f) · Summer 2027 | Fort Wayne, Indiana |  | 2026-11-05 |  |
 | Intuitive Machines | [Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575114&lang=en_US) | Greenbelt, MD, US |  | 2026-11-04 | US citizens/persons only |
@@ -105,7 +108,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Legend Biotech US | [Site Project Management Office Intern](https://job-boards.greenhouse.io/legendcareers/jobs/4745151005) | Raritan, New Jersey, United States |  | 2026-11-04 |  |
 | Amplify | [Summer 2027: Product Management Intern](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e) · Summer 2027 | Remote - United States |  | 2026-11-04 |  |
 | Anduril Industries | [2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) · Summer 2027 | Costa Mesa, California, United States; Honolulu, Hawaii, United States | $28 to $45/hour | 2026-11-04 | US citizens/persons only |
-| US Internships Public Careers Site | [Technical Program Management Intern - Undergraduate](https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221742004) | United States, Aliso Viejo, CA | $36.50/hour | 2026-11-04 | no visa sponsorship |
 | Arcesium LLC | [Product Management Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) | New York |  | 2026-11-04 |  |
 | Carlisle | [Product Management Intern](https://jobs.smartrecruiters.com/Carlisle/3743990016055226-product-management-intern) · Spring 2027 | Carlisle, Pennsylvania, us |  | 2026-11-04 |  |
 | B&S Site Development | [Midwest Internship Program - Summer 2027](https://job-boards.greenhouse.io/bssitedevelopment/jobs/4423205009) · Summer 2027 | Columbus, Ohio |  | 2026-11-04 |  |
@@ -246,27 +248,26 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ByteDance | [Project Management Project Intern (Real Estate & Facilities - AMS) - 2026 Start (BS/MS)](https://joinbytedance.com/search/7620892797440379189) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Video Moderation & Platform Responsibility Product Manager Project Intern (TikTok-Platform Responsibility-Feed](https://lifeattiktok.com/search/7697105572165519621) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://lifeattiktok.com/search/7668820702623467781) · Summer 2027 | Seattle, Washington, United States of America |  | 2026-10-20 |  |
-| TikTok | [Product Manager Intern (PGC) - 2027 Summer](https://lifeattiktok.com/search/7673365416605010229) · Summer 2027 | Los Angeles, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer](https://lifeattiktok.com/search/7669705525866383621) · Summer 2027 | Seattle, Washington, United States of America |  | 2026-10-20 |  |
-| TikTok | [Cross-border E-commerce Product Operations Intern (TikTok Shop - User & Promotion Growth Product ) - 2026 Star](https://lifeattiktok.com/search/7689010193607051525) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
 | TikTok | [Recommendation Product Manager Intern (TikTok-Product-Content Ecosystem)- 2027 Summer](https://lifeattiktok.com/search/7667874197682899205) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
-| TikTok | [Product Manager Intern (PGC) - 2027 Summer](https://lifeattiktok.com/search/7673365923163638069) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Product Manager Intern (PGC) - 2027 Summer](https://lifeattiktok.com/search/7673365416605010229) · Summer 2027 | Los Angeles, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Cross-border E-commerce Product Operations Intern (TikTok Shop - User & Promotion Growth Product ) - 2026 Star](https://lifeattiktok.com/search/7689010193607051525) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experiences) - 2026 Start](https://lifeattiktok.com/search/7677483498854205701) | San Jose, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start](https://lifeattiktok.com/search/7649673091993454853) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Operations Intern (PGC) - 2027 Summer](https://lifeattiktok.com/search/7673361736079329541) · Summer 2027 | Los Angeles, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Creative Product Operations Intern (International Advertising - Creative and Brand Innovation) - 2027 Summer -](https://lifeattiktok.com/search/7693727532178229509) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
-| TikTok | [Product Manager Project Intern (Business Integrity) - 2026 Start (MBA)](https://lifeattiktok.com/search/7683651421602433333) | San Jose, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Product Manager Intern (PGC) - 2027 Summer](https://lifeattiktok.com/search/7673365923163638069) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Creative Product Manager Intern (International Advertising - Creative and Brand Innovation) - 2027 Summer - In](https://lifeattiktok.com/search/7693732178706974981) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
-| TikTok | [Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start](https://lifeattiktok.com/search/7649673091993454853) | San Jose, California, United States of America |  | 2026-10-20 |  |
-| TikTok | [Product Operations Intern (PGC) - 2027 Summer](https://lifeattiktok.com/search/7673354724523526453) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)](https://lifeattiktok.com/search/7676283436713593093) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Product Operations Intern (PGC) - 2027 Summer](https://lifeattiktok.com/search/7673354724523526453) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Open Platform Product Project Intern (TikTok-Product-Open Platform) - 2026 Start](https://lifeattiktok.com/search/7672345290048817413) | San Jose, California, United States of America |  | 2026-10-20 |  |
-| TikTok | [Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer](https://lifeattiktok.com/search/7670420287191517493) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
-| TikTok | [Product Manager Intern (Scaled Growth) - 2027 Summer](https://lifeattiktok.com/search/7673559305519794437) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://lifeattiktok.com/search/7672562486917286149) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Product Manager Intern (Scaled Growth) - 2027 Summer](https://lifeattiktok.com/search/7673559305519794437) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer](https://lifeattiktok.com/search/7670420287191517493) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager Intern (Content and Services) - 2027 Summer](https://lifeattiktok.com/search/7673337777708550405) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Product Manager Intern (Signal and Identity Product) - 2027 Summer](https://lifeattiktok.com/search/7672554809555192117) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://lifeattiktok.com/search/7672569081632229685) · Summer 2027 | Seattle, Washington, United States of America |  | 2026-10-20 |  |
 | TikTok | [Project Manager Intern (Linehaul Management) - 2027 Summer](https://lifeattiktok.com/search/7677806275910617349) · Summer 2027 | Seattle, Washington, United States of America |  | 2026-10-20 |  |
-| TikTok | [Product Manager Intern (Signal and Identity Product) - 2027 Summer](https://lifeattiktok.com/search/7672554809555192117) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager Vertical Search Ads Mandarin Speaking Project intern (Content and Service Ads) - 2026 Start (B](https://lifeattiktok.com/search/7655410730217048373) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Global Product Operations Manager Project Intern (Global Business Solutions) - 2026 Start (BS/MS)](https://lifeattiktok.com/search/7660641959426132277) · Fall 2026 | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager Intern (Commerce Ads) - 2027 Summer](https://lifeattiktok.com/search/7672557943224961333) · Summer 2027 | San Jose, California, United States of America |  | 2026-10-20 |  |

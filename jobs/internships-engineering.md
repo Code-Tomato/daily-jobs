@@ -1,11 +1,18 @@
 # Internships and co-ops: Other engineering
 
-510 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
+512 open, newest first (by the date the scraper first saw them), updated 2026-11-19.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| SharkNinja | [Spring 2027: Cost Engineering Co-op (January to June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4730253006) · Spring 2027 | Needham, MA, United States |  | 2026-11-19 |  |
+| Arc Boat Company | [Service Engineering Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5477182008) | Torrance, CA | $36/hour | 2026-11-19 |  |
+| Axogen | [Intern, New Product Development (R&D)](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8853157002) · Spring 2027 | Tampa, Florida, United States | $18 to $20/hour | 2026-11-19 |  |
+| Clera | [GTM Intern](https://jobs.ashbyhq.com/Clera/fef7e09e-d321-4829-a873-f0bec7295d62) | San Francisco |  | 2026-11-19 |  |
+| US Internships Public Careers Site | [Service Reliability Intern - Undergraduate](https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6264738004) · Spring 2026 | United States, Aliso Viejo, CA | $45.75/hour | 2026-11-19 | no visa sponsorship |
+| Wade Trim | [Engineer Summer Intern - #3085.12](https://jobs.lever.co/wadetrim/06a4a1b1-466a-4d9d-8419-4ff50cb4a0cc) · Summer | Palm Bay, FL |  | 2026-11-19 |  |
+| Sezzle | [A.I. Engineering Intern (Remote)](https://job-boards.greenhouse.io/sezzle/jobs/7750229003) | Türkiye, Remote |  | 2026-11-19 |  |
 | Veolia Environnement SA | [EI&C Co-op](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190999-ei-c-co-op) | Bellevue, WA, us | $23 to $27/hour | 2026-11-18 | no visa sponsorship |
 | Amgen | [Grad Intern - Inflammation R&D (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---Inflammation-R-D--Summer-2027-_R-261887) · Summer 2027 | US - California - South San Francisco | $35.34 to $41.20/hour | 2026-11-18 |  |
 | Amgen | [Grad Intern – Protein Engineering (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Grad-Intern---Protein-Engineering--Summer-2027-_R-261826) · Summer 2027 | US - California - Thousand Oaks | $35.34 to $41.20/hour | 2026-11-18 |  |
@@ -106,8 +113,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Wade Trim | [Engineer Summer Intern - #3075](https://jobs.lever.co/wadetrim/fdbb72e3-1271-430f-90ee-3501b66afd8e) · Summer | Atlanta, GA |  | 2026-11-05 |  |
 | Smiths Group | [Engineering Intern](https://jobs.smartrecruiters.com/SmithsGroup2/744000151387389-engineering-intern) | 603 Hendee Street, Springfield, MA, us |  | 2026-11-05 |  |
 | Smiths Group | [Engineering Intern – Braid Design](https://jobs.smartrecruiters.com/SmithsGroup2/744000151383182-engineering-intern-braid-design) | 603 Hendee Street, Springfield, MA, us |  | 2026-11-05 |  |
-| Wade Trim | [Engineer Summer Intern - #3045](https://jobs.lever.co/wadetrim/c505e1c2-3221-44d2-935f-9664562ec8fb) · Summer | Taylor, MI |  | 2026-11-05 |  |
-| Wade Trim | [Engineer Summer Intern - #3047](https://jobs.lever.co/wadetrim/dcc51f98-f338-45e1-bf5d-36761bda35ec) · Summer | Pittsburgh, PA |  | 2026-11-05 |  |
 | Wade Trim | [Engineer Summer Intern - #3048](https://jobs.lever.co/wadetrim/fccad92f-36fa-4b8b-a776-fc2101d28207) · Summer | Fort Worth, TX |  | 2026-11-05 |  |
 | Wade Trim | [Engineer Summer Intern - #3049](https://jobs.lever.co/wadetrim/1743cb56-18c6-44d8-9c27-03cce728d5a2) · Summer | Grand Rapids, MI |  | 2026-11-05 |  |
 | Wade Trim | [Engineer Summer Intern - #3050](https://jobs.lever.co/wadetrim/a6660993-5674-4a91-beda-5c20dd903732) · Summer | Orlando, FL |  | 2026-11-05 |  |
@@ -146,8 +151,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Westmag | [Engineering Intern (Jan 2027)](https://jobs.ashbyhq.com/westmag/590ae373-6aab-4d70-a9c9-9b3c08e48408) | South San Francisco |  | 2026-11-04 |  |
 | HP IQ | [Engineering Intern, Wireless Automation and Test (Summer 2027)](https://job-boards.greenhouse.io/hpiq/jobs/6114741004) · Summer 2027 | San Francisco, CA | $40 to $50/hour | 2026-11-04 |  |
 | Jensen Hughes | [Intern, Fire Protection Engineering](https://job-boards.greenhouse.io/jensenhughes/jobs/5462623008) | Allen, Texas, United States | $20 to $30/hour | 2026-11-04 |  |
-| Jensen Hughes | [Intern, Fire Protection Engineering](https://job-boards.greenhouse.io/jensenhughes/jobs/5462641008) | Denver, Colorado, United States | $20 to $30/hour | 2026-11-04 |  |
 | Jensen Hughes | [Intern, Fire Protection Engineering](https://job-boards.greenhouse.io/jensenhughes/jobs/5462676008) | Denver, Colorado, United States | $20 to $30/hour | 2026-11-04 |  |
+| Jensen Hughes | [Intern, Fire Protection Engineering](https://job-boards.greenhouse.io/jensenhughes/jobs/5462641008) | Denver, Colorado, United States | $20 to $30/hour | 2026-11-04 |  |
 | Skydio | [Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ)](https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048) | San Mateo, California, United States | $47 to $70/hour | 2026-11-04 |  |
 | SOCOTEC | [Life Safety – Fire & Life Safety Engineering Intern](https://jobs.smartrecruiters.com/Socotec/744000157922529-life-safety-fire-life-safety-engineering-intern) | Worcester, MA, us |  | 2026-11-04 |  |
 | SOCOTEC | [Life Safety – Fire & Life Safety Engineering Intern](https://jobs.smartrecruiters.com/Socotec/744000157921000-life-safety-fire-life-safety-engineering-intern) | Coral Gables, FL, us |  | 2026-11-04 |  |
@@ -156,11 +161,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Skydio | [Autonomy Engineer Intern, 2027](https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b) | San Mateo, California, United States | $47 to $70/hour | 2026-11-04 |  |
 | Type One Energy Group, Inc. | [Summer Internship - Plasma Diagnostics](https://ats.rippling.com/type-one-energy-group/jobs/f2197e39-1718-433f-8272-ab94ecfa02e6) · Summer 2027 | Knoxville, TN | $25 to $35/hour | 2026-11-04 |  |
 | Barnhart Crane & Rigging | [Intern Engineer](https://barnhart-crane-rigging.breezy.hr/p/4229970744f7-intern-engineer) | Chesapeake, VA |  | 2026-11-04 |  |
-| Crystal Dynamics | [Gameplay Engineer Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005) · Spring 2027 | Remote/Flexible - United States | $20 to $25/hour | 2026-11-04 |  |
+| Crystal Dynamics | [Gameplay Engineer Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005) · Spring 2027 | Remote/Flexible - United States | $22 to $25/hour | 2026-11-04 |  |
 | Brelle | [Engineering Internship / Co-Op](https://jobs.ashbyhq.com/brelle/74ad7e11-3927-4ddb-b10e-897d3b0cc12e) | Los Alamitos, CA |  | 2026-11-04 |  |
 | Type One Energy Group, Inc. | [Summer Internship - Fusion Engineering](https://ats.rippling.com/type-one-energy-group/jobs/9b2de22b-517c-4ca8-9f71-6b006a5c047a) · Summer 2027 | Knoxville, TN | $25 to $35/hour | 2026-11-04 |  |
 | Type One Energy Group, Inc. | [Summer Internship - Radio Frequency Engineer](https://ats.rippling.com/type-one-energy-group/jobs/7604bae0-8531-432e-82e5-3ce8ed4744f9) · Summer 2027 | Madison, WI | $25 to $30/hour | 2026-11-04 |  |
-| Illumio | [Engineering Intern, Product Security](https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d) · Winter 2026 | Sunnyvale, California - HQ |  | 2026-11-04 | no visa sponsorship |
 | Olsson | [Engineering Internship - Rail Public Projects](https://job-boards.greenhouse.io/olsson/jobs/5458376008) | Utah - Remote |  | 2026-11-04 |  |
 | OneEthos | [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) · Fall 2026 | United States - Remote |  | 2026-11-04 |  |
 | Anduril Industries | [2027 Low Observables Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) · Summer 2027 | Costa Mesa, California, United States | $34 to $50/hour | 2026-11-04 | US citizens/persons only |
@@ -194,8 +198,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Syngenta Group | [R&D Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000151678376-r-d-intern) | Woodland, CALIFORNIA, us | $20 to $45/hour | 2026-11-04 |  |
 | AECOM | [Fire Protection Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000151438259-fire-protection-engineering-intern) · Summer 2027 | Arlington, VA, us |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | AECOM | [Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000151127909-engineering-intern) · Summer 2027 | Philadelphia, PA, us (hybrid) |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
-| EQT Corporation | [Production Facility Engineering Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5425078008) | Canonsburg, PA |  | 2026-11-04 |  |
-| Star Catcher | [Summer 2027 Engineering Internship](https://job-boards.greenhouse.io/star-catcher/jobs/4413079009) · Summer 2027 | Jacksonville, Florida, United States |  | 2026-11-04 | US citizens/persons only |
 | Jensen Hughes | [Intern, Fire Protection Engineering](https://job-boards.greenhouse.io/jensenhughes/jobs/5396224008) | Colorado Springs, Colorado, United States | $20 to $30/hour | 2026-11-04 |  |
 | Kaw Valley Engineering, Inc. | [Engineering Internship - MULTIPLE LOCATIONS](https://jobs.smartrecruiters.com/KawValleyEngineeringInc/744000150171149-engineering-internship-multiple-locations) | Junction City, Kansas, us |  | 2026-11-04 |  |
 | AECOM | [Highway Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000149932534-highway-engineering-intern-) · Summer 2027 | Morgantown, WV, us |  | 2026-11-04 |  |

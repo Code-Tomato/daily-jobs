@@ -1,11 +1,23 @@
 # Internships and co-ops: Finance, accounting and banking
 
-844 open, newest first (by the date the scraper first saw them), updated 2026-11-18. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+850 open, newest first (by the date the scraper first saw them), updated 2026-11-19. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Pilot Company | [Program Intern, Energy Accounting](https://jobs.smartrecruiters.com/PilotCompany/744000162528449-program-intern-energy-accounting) | Houston, TX, us |  | 2026-11-19 |  |
+| Wayflyer | [Credit Intern](https://jobs.ashbyhq.com/wayflyer/0cf09ee7-ba97-42f3-baf0-bebd89400b37) | Charlotte, North Carolina |  | 2026-11-19 |  |
+| iCapital | [Corporate Finance - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8937982002) · Summer 2027 | New York, New York, United States | $43.50/hour | 2026-11-19 |  |
+| iCapital | [Fund Finance - 2027 Summer Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938097002) · Summer 2027 | New York, New York, United States | $43.50/hour | 2026-11-19 |  |
+| Inspire Medical Systems Inc. | [Intern, Financial Planning and Analysis (Summer 2027)](https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/5485322008?gh_jid=5485322008) · Summer 2027 | Minneapolis, MN | $20 to $22/hour | 2026-11-19 |  |
+| J.S. Held LLC | [Forensic Accounting Summer 2027 Internship – Family Law](https://jobs.smartrecruiters.com/JSHeldLLC/744000162371669-forensic-accounting-summer-2027-internship-family-law) · Summer 2027 | Irvine, CA, us | $32/hour | 2026-11-19 |  |
+| Legend Biotech US | [Accounting Intern](https://job-boards.greenhouse.io/legendcareers/jobs/4755557005) · Summer 2027 | Bridgewater, New Jersey, United States |  | 2026-11-19 |  |
+| SingerLewak | [Tax Intern - International](https://jobs.lever.co/singerlewak/69af9033-4e92-4db1-afe9-24e81061ec89) | Los Angeles, California |  | 2026-11-19 |  |
+| UVIMCO | [2028 Summer Investment Intern](https://job-boards.greenhouse.io/uvimco/jobs/5486467008) · Summer 2028 | Charlottesville, Virginia, United States | $35/hour | 2026-11-19 |  |
+| Uplinq Inc | [Accounting Specialist Intern - ASU](https://ats.rippling.com/uplinq/jobs/335bd3e6-ce0f-40d7-85f7-296d91bc1eab) | Scottsdale, AZ | $20 to $24/hour | 2026-11-19 |  |
+| Uplinq Inc | [Tax Preparer Intern - ASU](https://ats.rippling.com/uplinq/jobs/03afc277-9764-4728-b2f5-618537588897) | Scottsdale, AZ | $20 to $24/hour | 2026-11-19 |  |
+| The Boring Company | [Finance & Accounting Internship (Part-Time)](https://jobs.gem.com/the-boring-company/am9icG9zdDpkn90G6jarlbB4oRO-nD9z) | Bastrop, TX |  | 2026-11-19 | no visa sponsorship |
 | Expand Energy | [Intern - Accounting](https://jobs.expandenergy.com/job/Oklahoma-City-Intern-Accounting-OK-73118/1429773700/) | Oklahoma City, OK, US |  | 2026-11-18 |  |
 | Kiewit | [Finance Analyst Intern- Eastern District (Summer 2027)](https://kiewitcareers.kiewit.com/job/New-York-Finance-Analyst-Intern-Eastern-District-%28Summer-2027%29-NY-10001/1430983300/) · Summer 2027 | Portsmouth, NH, US | $19 to $23/hour | 2026-11-18 |  |
 | Applied Materials | [Summer 2027 Data/Finance Analyst Intern- Bachelor's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652) · Summer 2027 | Santa Clara,CA |  | 2026-11-18 |  |
@@ -45,8 +57,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Charter Communications | [2027 Summer Intern: Associate Billing Solutions Analyst​ (Customer Operations)](https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-associate-billing-solutions-analyst-customer-operations/4673/100133780352) · Summer 2027 | Maryland Heights, Missouri |  | 2026-11-17 | no visa sponsorship |
 | Continental | [2027 Internship - Finance & Controlling (Hoosier Racing Tire)](https://jobs.smartrecruiters.com/Continental/744000161815369-2027-internship-finance-controlling-hoosier-racing-tire-) · Spring 2027 | Plymouth, IN, us |  | 2026-11-16 |  |
 | Fanatics Collectibles | [Summer 2027 Internship - Accounting & Controllership Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507797009) · Summer 2027 | New York, NY, United States | $27/hour | 2026-11-16 |  |
-| Fanatics Collectibles | [Summer 2027 Internship - Strategic Finance Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507812009) · Summer 2027 | New York, NY, United States | $27/hour | 2026-11-16 |  |
 | Fanatics Collectibles | [Summer 2027 Internship - Strategic Finance Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507802009) · Summer 2027 | Los Angeles, CA, United States | $27/hour | 2026-11-16 |  |
+| Fanatics Collectibles | [Summer 2027 Internship - Strategic Finance Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507812009) · Summer 2027 | New York, NY, United States | $27/hour | 2026-11-16 |  |
 | CME Group | [IT Asset Management Intern - Summer 2027](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/IT-Asset-Management-Intern---Summer-2027_34985-1) · Summer 2027 | Chicago - 20 S. Wacker | $21.68 to $36.10/hour | 2026-11-15 | no visa sponsorship |
 | Marsh McLennan | [Summer 2027 Intern - Insurance](https://mmc.wd1.myworkdayjobs.com/MMC/job/Chesterfield---Maryville/Summer-2027-Intern---Insurance_R_359206) · Summer 2027 | Chesterfield - Maryville |  | 2026-11-15 | no visa sponsorship |
 | PTC | [Business Process Internal Audit Intern (Summer 2027)](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Internal-Audit-Intern_JR113081) · Summer 2027 | Boston, MA, USA | $25 to $27/hour | 2026-11-15 | no visa sponsorship |
@@ -58,7 +70,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ESCO Group | [Accounting Intern](https://escogroup.bamboohr.com/careers/374) | Marion, Iowa, United States |  | 2026-11-14 |  |
 | Financial Technology Partners | [2028 Summer Analyst, Investment Banking (New York)](https://job-boards.greenhouse.io/financialtechnologypartners/jobs/8928899002) · Summer 2028 | New York | $110,000 | 2026-11-14 | no visa sponsorship |
 | Financial Technology Partners | [2028 Summer Analyst, Investment Banking (San Francisco)](https://job-boards.greenhouse.io/financialtechnologypartners/jobs/8929161002) · Summer 2028 | San Francisco | $110,000 | 2026-11-14 | no visa sponsorship |
-| Mariner | [Intern, Financial Planning- Sarasota, FL](https://jobs.ashbyhq.com/mariner-careers/53d896fc-7d0e-4be3-b1e8-9f9a90272632) | Sarasota, FL |  | 2026-11-14 |  |
 | Nabors | [Intern - Finance](https://jobs.nabors.com/en/sites/nabors-careers/job/1002009) | Houston, TX, United States |  | 2026-11-14 | no visa sponsorship |
 | Robinhood | [Corporate Finance Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464) · Summer 2027 | New York, NY |  | 2026-11-14 |  |
 | Salesforce | [Summer 2027 Intern - Sales Immersion, Financial Services](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1) · Summer 2027 | New York - New York | $30 to $32/hour | 2026-11-14 |  |
@@ -140,7 +151,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Analog Devices | [Design Evaluation Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Design-Evaluation-Engineering-Intern_R267479) | US, CA, San Jose, Rio Robles | $25 to $46/hour | 2026-11-07 |  |
 | Entegris | [Internal Audit Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Internal-Audit-Co-Op_REQ-14475) · Spring 2027 | Billerica, MA | $20 to $30/hour | 2026-11-07 |  |
 | GCM Grosvenor | [2027 Fund Accounting Summer Intern](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7989281003) · Summer | Chicago, Illinois, United States | $65,000 to $70,000 | 2026-11-07 | no visa sponsorship |
-| Tenet Healthcare | [Corporate Financial Planning & Analysis Intern – Summer 2027 – Onsite in Dallas, TX](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028573) · Summer 2027 | Dallas, TX, United States |  | 2026-11-07 |  |
 | The Brydon Group | [Spring 2027 Sales Intern - Brydon Portfolio Companies](https://apply.workable.com/j/DD8AB53C48) · Spring 2027 | United States | $18 to $20/hour | 2026-11-07 |  |
 | The Brydon Group | [MBA Summer 2027 Internship (June - Aug.) - Investment or Portfolio Ops.](https://apply.workable.com/j/B6DE6CE8F6) · Summer 2027 | Washington, District of Columbia, United States | $3,800/week | 2026-11-07 |  |
 | M/I Homes | [Mortgage Intern - Summer 2027](https://apply.workable.com/j/4DA238CC85) · Summer 2027 | Columbus, Ohio, United States |  | 2026-11-07 |  |
@@ -297,9 +307,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Golden Hippo | [Social Media Intern, Financial Brand - Spring 2027](https://www.golden-careers.com/jobs/4748860005?gh_jid=4748860005) · Spring 2027 | Remote | $18 to $20/hour | 2026-11-04 |  |
 | Kuvare | [Finance Intern](https://ats.rippling.com/kuvare-jobs/jobs/29948379-6275-4744-b4dd-6efe1f91e329) | Rosemont, IL |  | 2026-11-04 |  |
 | Hasbro | [2027 Summer Finance Internships](https://job-boards.greenhouse.io/hasbro/jobs/4470038009) · Summer 2027 | Boston, Massachusetts, United States; Renton, Washington, United State (hybrid) | $34 to $38/hour | 2026-11-04 | no visa sponsorship |
-| EquipmentShare | [Intern: Accounting](https://www.equipmentshare.com/careers/openings/?gh_jid=8327219) | Columbia, MO (Headquarters) |  | 2026-11-04 |  |
 | EquipmentShare | [Intern: Accounting](https://www.equipmentshare.com/careers/openings/?gh_jid=8201421) | Columbia, MO (Headquarters) |  | 2026-11-04 |  |
 | EquipmentShare | [Intern: Accounting](https://www.equipmentshare.com/careers/openings/?gh_jid=8327200) | Columbia, MO (Headquarters) |  | 2026-11-04 |  |
+| EquipmentShare | [Intern: Accounting](https://www.equipmentshare.com/careers/openings/?gh_jid=8327219) | Columbia, MO (Headquarters) |  | 2026-11-04 |  |
 | Excel Sports Management | [Spring 2027 - Intern, Finance](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747571005) · Spring 2027 | New York, New York, United States | $17/hour | 2026-11-04 | no visa sponsorship |
 | The BAM Companies | [Asset Management and Acquisitions Intern](https://job-boards.greenhouse.io/bamfam/jobs/4468132009) | Carmel, Indiana | $18 to $19/hour | 2026-11-04 |  |
 | Cain Watters & Associates, LLC | [Tax Internship - Spring 2027](https://cainwattersassociates.recruitee.com/o/tax-internship-spring-2027) · Spring 2027 | Frisco, TX, US |  | 2026-11-04 |  |
@@ -311,7 +321,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Oscar Health | [Actuarial Intern](https://oscarhealth.com/careers/jobs?gh_jid=8303588) | New York, New York, United States | $33.04 to $43.37/hour | 2026-11-04 |  |
 | Four Hands | [Accounting Intern](https://job-boards.greenhouse.io/fourhands/jobs/4457775009) · Spring 2027 | Austin, TX |  | 2026-11-04 |  |
 | AtriCure | [Accounting Co-op](https://job-boards.greenhouse.io/atricure/jobs/4455464009) | Mason, OH |  | 2026-11-04 |  |
-| Bright Machines | [Strategic Finance Intern](https://jobs.lever.co/brightmachines/2b3e6083-1051-4c4f-a10c-f1e765b4758e) | Burlingame, California |  | 2026-11-04 |  |
 | Allworth Financial | [Financial Planning Intern](https://job-boards.greenhouse.io/allworthfinancial/jobs/8892545002) | Dallas, Texas, United States | $20/hour | 2026-11-04 |  |
 | Viking Global Investors | [Public Equity Investment Intern - Summer 2027](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6203682004) · Summer 2027 | New York, NY | $250,000 | 2026-11-04 |  |
 | BGM Group | [2027 Tax Season Internship- Norwalk, CT](https://bgmgroup.bamboohr.com/careers/262) | Norwalk, Connecticut, United States |  | 2026-11-04 |  |
@@ -331,11 +340,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BlueWave | [Spring 2027 Co-op, Asset Management](https://ats.rippling.com/bluewave/jobs/d9bdab27-21e8-4573-a47c-57c9970e59d8) · Spring 2027 | Boston - Hybrid |  | 2026-11-04 |  |
 | RCLCO | [2027 Summer Intern, Investments & Portfolio Management](https://job-boards.greenhouse.io/rclco/jobs/8243963) · Summer 2027 | Los Angeles | $5,800/month | 2026-11-04 |  |
 | Ibotta | [FP&A Intern](https://jobs.ashbyhq.com/ibotta/d34ff436-cb87-48ee-a6d4-c45da136edc5) · Summer 2027 | Hybrid - Denver |  | 2026-11-04 |  |
-| National Life Insurance Company | [Corporate Tax Intern – Summer 2027](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4405034009) · Summer 2027 | Addison, TX; Montpelier, VT | $19 to $28/hour | 2026-11-04 | no visa sponsorship |
 | National Life Insurance Company | [Financial Reporting Intern – Summer 2027](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4405054009) · Summer 2027 | Addison, TX; Montpelier, VT | $19 to $28/hour | 2026-11-04 | no visa sponsorship |
 | AIR Communities | [2027 Summer Finance Internship](https://jobs.smartrecruiters.com/AIRCommunities/744000151948349-2027-summer-finance-internship) · Summer 2027 | Denver, CO, us | $38.46/hour | 2026-11-04 |  |
 | Gelber Group Handshake | [Discretionary Trading Internship - Summer 2027](https://job-boards.greenhouse.io/gelberhandshake/jobs/4716802006) · Summer 2027 | Chicago | $35/hour | 2026-11-04 |  |
-| Metropolis | [Risk Management Intern](https://job-boards.greenhouse.io/metropolis/jobs/8003557003) · Summer 2027 | Chicago, Illinois, United States (hybrid) | $22/hour | 2026-11-04 |  |
 | Retire SMART Holdings, Inc. | [Financial Advisor Intern - Summer 2027](https://retiresmart.bamboohr.com/careers/47) · Summer 2027 | Omaha, Nebraska, United States |  | 2026-11-04 |  |
 | Sage Home Loans Corporation | [2027 Summer Intern / Sage Home Loans](https://job-boards.greenhouse.io/sagehomeloanscorporation/jobs/8223283) · Summer 2027 | Charlotte, NC | $20 to $35/hour | 2026-11-04 |  |
 | Viking Global Investors | [Private Equity Investment Intern - Summer 2027](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6203684004) · Summer 2027 | New York, NY | $250,000 | 2026-11-04 |  |
@@ -345,7 +352,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | EQT Corporation | [Commodities Trading Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5422432008) | Remote |  | 2026-11-04 | US citizens/persons only |
 | Hotchkis & Wiley | [2027 Undergraduate Summer Intern](https://hwcm.bamboohr.com/careers/66) · Fall 2027 | Los Angeles, California, United States | $50/hour | 2026-11-04 |  |
 | EQT Corporation | [Commodities Trading Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5421186008) | Remote |  | 2026-11-04 | US citizens/persons only |
-| National Life Insurance Company | [Audit Co-Op Student](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4407351009) | Montpelier, VT | $18 to $27/hour | 2026-11-04 | no visa sponsorship |
 | Avery Dennison | [Accounting Co-op ( part time) - Spring 2027](https://jobs.smartrecruiters.com/AveryDennison/744000149452469-accounting-co-op-part-time-spring-2027) · Spring 2027 | Mentor, OH, us | $22 to $27/hour | 2026-11-04 | no visa sponsorship |
 | Bracebridge Capital | [Summer 2027 Investment Operations Intern](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4733666005) · Summer 2027 | Boston, MA | $35/hour | 2026-11-04 |  |
 | Kuvare | [Actuarial Intern](https://ats.rippling.com/kuvare-jobs/jobs/94bc2fc6-28fc-4f47-a16a-5d8c0cb83e5c) | Rosemont, IL |  | 2026-11-04 |  |
@@ -359,8 +365,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | EQT Corporation | [Corporate Tax Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5418000008) | Canonsburg, PA |  | 2026-11-04 |  |
 | Fireclay Partners | [Internship - Investment Banking Summer Associate (Summer 2027)](https://fireclay-partners.breezy.hr/p/b0cb24cbf7dd-internship-investment-banking-summer-associate-summer-2027) · Summer 2027 | Kansas City, MO |  | 2026-11-04 |  |
 | Ibotta | [Accounting Intern](https://jobs.ashbyhq.com/ibotta/f8880452-62af-4b0d-96ab-6e0943dd4fbf) · Summer 2027 | Hybrid - Denver |  | 2026-11-04 |  |
-| Secretariat | [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) · Summer 2027 | Los Angeles, California, United States | $20 to $30/hour | 2026-11-04 | no visa sponsorship |
 | Secretariat | [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009) · Summer 2027 | Washington, District of Columbia, United States | $20 to $30/hour | 2026-11-04 | no visa sponsorship |
+| Secretariat | [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) · Summer 2027 | Los Angeles, California, United States | $20 to $30/hour | 2026-11-04 | no visa sponsorship |
 | ATA | [Intern](https://ats.rippling.com/ata/jobs/96bf24cc-830a-4411-b7f4-8ba163f0d74e) | Milan, TN |  | 2026-11-04 |  |
 | NinjaHoldings | [FP&A and Capital Markets Intern](https://ninjaholdings.breezy.hr/p/5c9264e0e133-fp-a-and-capital-markets-intern) | Chicago, IL |  | 2026-11-04 |  |
 | Pilot Company | [Program Intern, Energy Accounting](https://jobs.smartrecruiters.com/PilotCompany/744000148495349-program-intern-energy-accounting) | Houston, TX, us |  | 2026-11-04 |  |
@@ -750,9 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Liberty Mutual | [Global Risk Solutions Claims Internship - Summer 2027](https://searchjobs.libertymutualgroup.com/careers/job/618519615471) · Summer 2027 | Plano, Texas, United States |  | 2026-10-20 |  |
 | New York Life | [2027 New York Life Direct Summer Internship Program - Insurance Operations](https://careers.newyorklife.com/careers/job/44275995) · Summer | Tampa, Florida, United States (hybrid) | $25/hour | 2026-10-20 | no visa sponsorship |
 | Zipline | [Strategic Finance Intern (Spring 2027)](https://www.zipline.com/open-roles/7978791003?gh_jid=7978791003) · Spring 2027 | South San Francisco, California, USA | $37/hour | 2026-10-20 | no visa sponsorship |
-| Zipline | [Strategic Finance Intern (Summer 2027)](https://www.zipline.com/open-roles/7978795003?gh_jid=7978795003) · Summer 2027 | South San Francisco, California, USA | $37/hour | 2026-10-20 | no visa sponsorship |
-| Charles River Associates | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) · Summer 2027 | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, | $30 to $37.50/hour | 2026-10-20 |  |
-| Hilltop Holdings | [Intern - Commercial Banking](https://ejlu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/HilltopHoldingsAllJobs/job/32155) | Fort Worth, TX, United States |  | 2026-10-20 | no visa sponsorship |
-| Hilltop Holdings | [Intern - Finance & Strategies](https://ejlu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/HilltopHoldingsAllJobs/job/32175) · Summer 2027 | Memphis, TN, United States |  | 2026-10-20 | no visa sponsorship |
-| Liberty Mutual | [Global Internal Audit Co-op (January – June 2027)](https://searchjobs.libertymutualgroup.com/careers/job/618519522119) | Boston, Massachusetts, United States |  | 2026-10-20 | no visa sponsorship |
-| RBC | [2027 Capital Markets, Global Investment Banking Summer Associate - Houston](https://jobs.rbc.com/ca/en/job/R-0000186008) · Summer | Houston, Texas, United States of America | $175,000 | 2026-10-20 |  |

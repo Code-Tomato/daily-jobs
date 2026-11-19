@@ -1,11 +1,13 @@
 # New grad and entry level: Product, program and project management
 
-295 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
+295 open, newest first (by the date the scraper first saw them), updated 2026-11-19.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| SharkNinja | [Associate Program Manager](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4730200006) | Needham, MA, United States |  | 2026-11-19 |  |
+| TikTok | [TikTok Local Services - Merchant & Listings Governance Program Manager](https://lifeattiktok.com/search/7626137712793569589) | Los Angeles, California, United States of America |  | 2026-11-19 |  |
 | City of New York | [BOB - Associate Project Manager II](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016930046-bob-associate-project-manager-ii) | New York City, NY, us |  | 2026-11-18 |  |
 | City of New York | [BOB - Associate Project Manager 3](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016929771-bob-associate-project-manager-3) | New York City, NY, us |  | 2026-11-18 | clearance |
 | Create Music Group | [Operations Project Manager](https://ats.rippling.com/createmusicgroup/jobs/30f10eec-dc07-4807-bc41-98e888fca1d8) | Los Angeles, CA | $26.44 to $28.84/hour | 2026-11-18 |  |
@@ -108,13 +110,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016455616-project-manager) | New York City, NY, us |  | 2026-11-04 |  |
 | AECOM | [Entry-Level Deputy Project Manager](https://jobs.smartrecruiters.com/AECOM2/744000157843708-entry-level-deputy-project-manager) | Philadelphia, PA, us |  | 2026-11-04 | no visa sponsorship |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464240008) | Olathe KS |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464229008) | Nashville TN |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464233008) | Phoenix AZ EDS |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464244008) | Atlanta GA |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464243008) | Port St. Lucie FL |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464233008) | Phoenix AZ EDS |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464229008) | Nashville TN |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
 | REXEL | [Project Manager I](https://jobs.smartrecruiters.com/REXEL1/744000157887719-project-manager-i) | Boise, ID, us |  | 2026-11-04 |  |
-| POWERX | [Project Manager](https://job-boards.greenhouse.io/powerx/jobs/4464251009) | Denver, Colorado |  | 2026-11-04 |  |
 | ButterflyMX | [Implementation Project Manager (Hybrid)](https://jobs.ashbyhq.com/butterflymx/6da62dcb-ad9e-4de4-865a-14f80ec8d968) | NYC Headquarters (hybrid) | $75,000 to $85,000 | 2026-11-04 |  |
 | iCapital | [Product Manager - Analyst / Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8907186002) | Colorado Springs, Colorado, United States | $60,000 to $90,000 | 2026-11-04 |  |
 | Pleasant Valley Corporation | [Project Manager, Parking Lot Solutions](https://pleasant-valley-corporation.breezy.hr/p/ed5f415fafa0-project-manager-parking-lot-solutions) | Medina, OH |  | 2026-11-04 |  |
@@ -196,6 +197,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Jobs for Humanity | [Project Manager (Remote)](https://jobs.smartrecruiters.com/JobsForHumanity/744000130568839-project-manager-remote-) | Grand Rapids, MI, us (remote) |  | 2026-11-04 |  |
 | The Quality Group | [Senior Product Owner (gn) - Production](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4881211101) | Deutschland, remote |  | 2026-11-04 |  |
 | The Quality Group GmbH | [Senior Product Owner (gn) - Production](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4881210101) | Deutschland, remote |  | 2026-11-04 |  |
+| Datavant | [Risk Adjustment Coding Project Manager](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5214687008) | Remote - United States | $75,000 to $90,000 | 2026-11-04 | no visa sponsorship |
 | REI Engineers | [Project Manager](https://rei.bamboohr.com/careers/77) | Charlotte, North Carolina, United States |  | 2026-11-04 |  |
 | B&S Site Development | [Assistant Project Manager](https://job-boards.greenhouse.io/bssitedevelopment/jobs/4259472009) | Manassas, Virginia |  | 2026-11-04 |  |
 | HIKINEX | [Assistant Project Manager](https://recruiting.breezy.hr/p/5494f791371a-assistant-project-manager) | New York, NY |  | 2026-11-04 |  |
@@ -279,21 +281,19 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Electronic Arts | [Associate Game Product Manager - MTX and Events (Apex Legends)](https://jobs.ea.com/en_US/careers/JobDetail/Game-Product-Manager-MTX-and-Events-Apex-Legends/216014) | Los Angeles - Chatsworth, United States of America |  | 2026-10-20 |  |
 | Siemens Energy | [Jr Commercial Project Manager](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Jr-Commercial-Project-Manager/305027) | Orlando, Florida, United States of America |  | 2026-10-20 |  |
 | TikTok | [Listing Governance Program Manager Graduate (TikTok Shop - Governance & Experience) - 2027 Start](https://lifeattiktok.com/search/7693569931690182965) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
+| TikTok | [GEO Content Product Manager Graduate (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7667573235673073925) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Content Governance Strategy Program Manager Graduate (TikTok Shop - Governance & Experience) - 2027 Start](https://lifeattiktok.com/search/7689566686433331461) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager, Video Moderation, Platform Responsibility](https://lifeattiktok.com/search/7688558723866151221) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Project Manager Graduate (Linehaul Management) - 2027 Start - 2027 Start](https://lifeattiktok.com/search/7689252942457194805) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
-| TikTok | [Product Manager Graduate (Content and Service, Search Ads) - 2027 Start](https://lifeattiktok.com/search/7675440171819960629) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [FBT Seller Growth Central Strategy Project Manager Graduate (FBT Seller Growth) - 2027 Start](https://lifeattiktok.com/search/7671401479379339573) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
-| TikTok | [GEO Content Product Manager Graduate (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7667573235673073925) | San Jose, California, United States of America |  | 2026-10-20 |  |
-| TikTok | [Product Manager Graduate (Sales and Operations Management Platform) - 2027 Start](https://lifeattiktok.com/search/7673331530758228229) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [POI Content Product Manager Graduate (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7667573398700165429) | San Jose, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Product Manager Graduate (Sales and Operations Management Platform) - 2027 Start](https://lifeattiktok.com/search/7673331530758228229) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager Graduate (Scaled Growth ) - 2027 Start](https://lifeattiktok.com/search/7675439423287314693) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager Graduate (Signal and Identity Product) - 2027 Start](https://lifeattiktok.com/search/7673330687380490501) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager Graduate (Ads Interface Platform) - 2027 Start](https://lifeattiktok.com/search/7673194618236078341) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Product Manager Graduate (Ads Interface Platform) - 2027 Start](https://lifeattiktok.com/search/7673198824630077701) | Seattle, Washington, United States of America |  | 2026-10-20 |  |
-| TikTok | [Creative Product Manager Graduate (Creative and Brand Innovation) - 2027 Start](https://lifeattiktok.com/search/7673256057754290437) | San Jose, California, United States of America |  | 2026-10-20 |  |
-| TikTok | [Product Manager Graduate (Content and Service Ads) - 2027 Start](https://lifeattiktok.com/search/7673333697095469317) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Creative Product Operations Graduate (International Advertising - Creative and Brand Innovation) - 2027 Start](https://lifeattiktok.com/search/7673910154845014325) | San Jose, California, United States of America |  | 2026-10-20 |  |
+| TikTok | [Creative Product Manager Graduate (Creative and Brand Innovation) - 2027 Start](https://lifeattiktok.com/search/7673256057754290437) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Program Manager Graduate (PMO) - 2027 Start (MBA)](https://lifeattiktok.com/search/7673236143812184325) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Technical Project Manager(Distribution Partnerships)-TikTok](https://lifeattiktok.com/search/7633303697447913781) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | Micron | [TIQ Program Manager - US Expansions](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/TIQ-Program-Manager---US-Expansions_JR112989) | Boise, ID - ID1 | $68,000 to $203,000 | 2026-10-19 |  |

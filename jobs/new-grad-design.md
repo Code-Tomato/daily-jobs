@@ -1,11 +1,17 @@
 # New grad and entry level: Design and creative
 
-175 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
+180 open, newest first (by the date the scraper first saw them), updated 2026-11-19.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| CentralReach | [Instructional Designer I](https://job-boards.greenhouse.io/centralreach/jobs/4511461009) | Fort Lauderdale, Florida, United States, Holmdel, New Jersey, United S | $65,000 to $80,000 | 2026-11-19 |  |
+| EOS | [Tier 2 Audio Visual Field Technician](https://eosits.com/company/careers/?gh_jid=8950481002) | Los Angeles, California, United States | $32 to $41/hour | 2026-11-19 |  |
+| RugsUSA | [Junior Graphic Designer](https://ats.rippling.com/rugsusa/jobs/efc4e656-fd84-4746-bd05-527f6e65844a) | NJ |  | 2026-11-19 |  |
+| RVi Planning + Landscape Architecture | [Landscape Designer (Bonita Springs, FL)](https://job-boards.greenhouse.io/rvi/jobs/5296320007) | Bonita Springs, Florida, United States | $64,000 to $75,000 | 2026-11-19 |  |
+| RVi Planning + Landscape Architecture | [Landscape Designer (Tampa, FL)](https://job-boards.greenhouse.io/rvi/jobs/5296334007) | Tampa, Florida, United States | $64,000 to $75,000 | 2026-11-19 |  |
+| BHG Financial | [Learning Experience Designer](https://jobs.lever.co/bhg-inc/afaa797d-58cc-4795-8222-08f2263e1b27) | Remote |  | 2026-11-19 |  |
 | NetEase Games | [User Researcher](https://job-boards.greenhouse.io/neteasegames/jobs/5299255007) | Bothell - Onsite; Irvine - Onsite; Mountain View-Onsite |  | 2026-11-18 |  |
 | ICF | [Substation Protection & Control Designer - Remote](https://careers.icf.com/us/en/job/R2603868) | Reston, Virginia, United States of America (remote) | $67,355 to $114,503 | 2026-11-18 | no visa sponsorship |
 | UMT - Internal | [Jr. Creative, Copy](https://job-boards.greenhouse.io/umt/jobs/8949124002) | Brooklyn, NY | $73,000 to $85,000 | 2026-11-18 |  |
@@ -21,6 +27,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bask Health | [Junior UX Designer](https://apply.workable.com/j/CE3B5E6259) | United States |  | 2026-11-14 |  |
 | Bask Health | [Junior UX Researcher](https://apply.workable.com/j/9D0E0B899C) | United States |  | 2026-11-14 |  |
 | McKinney | [Community Manager](https://job-boards.greenhouse.io/jobsmckinneycom/jobs/8384435) | Durham, NC (hybrid) | $65,000 to $90,000 | 2026-11-13 |  |
+| TheCoTeam, LLC | [Junior AV System Designer](https://thecoteam.pinpointhq.com/en/postings/8e723478-7a69-479f-98e6-ed3702221b4b) | Minnetonka, Minnesota | $60,000 to $80,000 | 2026-11-13 |  |
 | Thomson Reuters | [Producer, Video Podcasts (Level 1 Journalist, TEMP)](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Los-Angeles-California/Producer--Video-Podcasts--Level-1-Journalist--TEMP-_JREQ205213) | United States of America, Los Angeles, California | $39 to $70/hour | 2026-11-12 |  |
 | Primer | [Curriculum Designer - Pursuits (Contractor)](https://jobs.ashbyhq.com/primer/8eb475e8-4d7b-4663-abd7-d71abdc31c85) | Remote |  | 2026-11-12 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/22246) | Olathe, Kansas |  | 2026-11-11 |  |
@@ -83,7 +90,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Storable | [Junior Graphic Designer](https://www.storable.com/about-us/culture/careers/?gh_jid=6229546004) | Seattle, WA (hybrid) | $70,000 to $100,000 | 2026-11-04 |  |
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDoekGRWIxwYxewww1kdDHyi) | FL - Orlando |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Nor-Cal Controls ES, LLC | [Network Designer I](https://norcalcontrols.bamboohr.com/careers/216) | El Dorado Hills, California, United States | $94,600 to $115,000 | 2026-11-04 |  |
-| EOS | [Tier 2 Audio Visual Field Technician](https://eosits.com/company/careers/?gh_jid=8889713002) | Los Angeles, California, United States | $32 to $41/hour | 2026-11-04 |  |
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDpSYhEaiEMAjFxFDuQ2oLrK) | FL - Boca Raton |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Black & McDonald Limited | [Designer Level 1](https://black-mcdonald-limited.breezy.hr/p/c8c77d90276401-designer-level-1) | San Antonio, TX |  | 2026-11-04 |  |
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDqzDcvPGcNba8OiCBdY3ygQ) | NC - Raleigh |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
@@ -122,7 +128,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | PMG | [Graduate Leadership Program - Creative Motion Designer](https://job-boards.greenhouse.io/pmg/jobs/8594740002) | Dallas, Texas |  | 2026-11-04 |  |
 | PMG | [Graduate Leadership Program - Junior Designer](https://job-boards.greenhouse.io/pmg/jobs/8594731002) | Dallas, Texas |  | 2026-11-04 |  |
 | TEGNA Inc. | [News Producer](https://boards.greenhouse.io/tegnainc/jobs/5187933007?gh_jid=5187933007) | KHOU-TV Houston |  | 2026-11-04 |  |
-| Benesch | [Roadway Designer I](https://www.benesch.com/job-openings/5177047007?gh_jid=5177047007) | Milwaukee, WI; Neenah, WI; Madison, WI |  | 2026-11-04 |  |
 | Dorsia | [Designer](https://job-boards.greenhouse.io/dorsia/jobs/5173121007) | Miami, FL or New York City, NY | $70,000 to $90,000 | 2026-11-04 |  |
 | SWA Group | [Entry-Level Landscape Designer (1-3 years)](https://swa-group.breezy.hr/p/6da9365001fb-entry-level-landscape-designer-1-3-years) | Sausalito, CA |  | 2026-11-04 |  |
 | OpenArt AI | [Product UI/UX Designer - Junior Level](https://jobs.ashbyhq.com/openart/4cc44d51-f824-4d54-bbfa-25a1937bec2d) | San Francisco |  | 2026-11-04 |  |

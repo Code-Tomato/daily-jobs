@@ -1,13 +1,34 @@
 # New grad and entry level: Science and research
 
-806 open, newest first (by the date the scraper first saw them), updated 2026-11-18. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+815 open, newest first (by the date the scraper first saw them), updated 2026-11-19. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
-| Cedars-Sinai | [Clinical Research Data Specialist I - Heart Institute - Chugh Team](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21973) | Los Angeles, CA, United States |  | 2026-11-18 |  |
+| CommonSpirit Health (St. Luke's Health) | [Clinical Lab Scientist](https://www.commonspirit.careers/job/northridge/clinical-lab-scientist/35300/103514666464) | NORTHRIDGE, CA |  | 2026-11-19 |  |
+| AECOM | [Entry-Level Geologist](https://jobs.smartrecruiters.com/AECOM2/744000162375279-entry-level-geologist) | Milwaukee, WI, us |  | 2026-11-19 | US citizens/persons only |
+| BillionToOne | [Clinical Laboratory Scientist, Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4755919005) | Union City, CA | $200,536 | 2026-11-19 |  |
+| Certified Group | [Research Assistant I](https://job-boards.greenhouse.io/certifiedgroup/jobs/4513819009) | Aurora, IL | $20/hour | 2026-11-19 |  |
+| EHS Support, LLC | [Wetland Scientist](https://ats.rippling.com/ehs-support-llc/jobs/22dcad81-8d9e-478f-91d1-b14295004fb5) | Remote (United States) |  | 2026-11-19 |  |
+| Eurofins | [Scientist I (Multiple Shifts) - Eurofins Environment Testing - Pomona, CA](https://jobs.smartrecruiters.com/Eurofins/744000162405344-scientist-i-multiple-shifts-eurofins-environment-testing-pomona-ca) | Pomona, CA, us | $22.20 to $24/hour | 2026-11-19 |  |
+| Eurofins | [Laboratory Technician - Rapid Microbiology (San Angelo, TX Night-Shift)](https://jobs.smartrecruiters.com/Eurofins/744000162395965-laboratory-technician-rapid-microbiology-san-angelo-tx-night-shift-) | San Angelo, TX, us |  | 2026-11-19 |  |
+| Eurofins | [Laboratory Technician (Entry Level, no college degree required) Carrollton, TX](https://jobs.smartrecruiters.com/Eurofins/744000162394189-laboratory-technician-entry-level-no-college-degree-required-carrollton-tx) | Carrollton, TX, us | $18 to $20/hour | 2026-11-19 |  |
+| GenScript | [Research Associate](https://job-boards.greenhouse.io/genscript/jobs/5300904007) | Seattle, Washington, United States |  | 2026-11-19 |  |
+| Millennium Health | [Clinical Laboratory Scientist](https://apply.workable.com/j/2898260D53) | San Diego, California, United States | $108,000 | 2026-11-19 |  |
+| Northwestern Memorial Healthcare | [Clinical Lab Assistant Part Time Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162324945-clinical-lab-assistant-part-time-days) | Palos Heights, IL, us |  | 2026-11-19 |  |
+| ProBio | [Scientist I, Analytical Operations](https://job-boards.greenhouse.io/probio/jobs/5300586007) | Pennington, New Jersey, United States | $70,000 to $83,000 | 2026-11-19 |  |
+| Revolution Medicines | [Scientist I, Biophysics, Mechanism of Action](https://www.revmed.com/careers-list/?gh_jid=8208777003) | Redwood City, California, United States | $119,000 to $149,000 | 2026-11-19 |  |
+| SGS | [Extractable and Leachable Chemist I](https://jobs.smartrecruiters.com/SGS/744000162407449-extractable-and-leachable-chemist-i) | Fairfield, NJ, us | $24 to $30/hour | 2026-11-19 |  |
+| SGS | [Microbiologist I](https://jobs.smartrecruiters.com/SGS/744000162406879-microbiologist-i) | Fairfield, NJ, us | $23 to $25/hour | 2026-11-19 |  |
+| SGS | [Account Manager - Geology & Hydrology](https://jobs.smartrecruiters.com/SGS/744000162363244-account-manager-geology-hydrology) | Remote, REMOTE, us | $50,000 to $65,000 | 2026-11-19 |  |
+| Turner Mining Group | [Geologist](https://turner-mining-group.breezy.hr/p/14bb8876423b-geologist) | Lovelock, NV |  | 2026-11-19 | no visa sponsorship |
+| Umoja Biopharma | [Analyst I, Quality Control Microbiology (Contract)](https://www.umoja-biopharma.com/careers/jobs/?gh_jid=6250860004) | Louisville, Colorado, United States | $26.92 to $33.17/hour | 2026-11-19 |  |
+| GLIDE | [Lab Technician](https://jobs.lever.co/glide/f19619e9-8ad9-48c1-acce-1537660a51d0) | San Francisco |  | 2026-11-19 |  |
+| Luminis Health | [Equipment Specialist](https://boards.greenhouse.io/luminishealth/jobs/5370103008?gh_jid=5370103008) | Lanham, MD | $22.47 to $28.66/hour | 2026-11-19 |  |
+| Alcanza Clinical Research | [Clinical Research Coordinator](https://alcanzaclinical.pinpointhq.com/en/postings/6bc84042-94ab-4cf2-a474-54cac14991d0) | Woodstock, Georgia |  | 2026-11-19 |  |
 | Mariana Minerals | [Lab Technician](https://jobs.ashbyhq.com/marianaminerals/0523d224-e502-49a3-b56b-fd4e6f0d3b95) | San Francisco HQ |  | 2026-11-18 |  |
+| Cedars-Sinai | [Clinical Research Data Specialist I - Heart Institute - Chugh Team](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21973) | Los Angeles, CA, United States |  | 2026-11-18 |  |
 | McKesson | [Associate Biomedical Technician](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CA-City-of-Industry/Associate-Biomedical-Technician_JR0157695) | USA, CA, City of Industry | $23.21 to $38.68/hour | 2026-11-18 |  |
 | Syngenta Group | [Associate Scientist](https://jobs.smartrecruiters.com/SyngentaGroup/744000162212359-associate-scientist) | Malta, ILLINOIS, us |  | 2026-11-18 |  |
 | Air Liquide | [Laboratory Technician I](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Taylor-TX/Laboratory-Technician-I_R10105264) | Taylor, TX | $22 to $23/hour | 2026-11-18 |  |
@@ -102,7 +123,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Sharp HealthCare | [Clinical Lab Scientist I - Sharp Tri-City - Night Shift - Full Time](https://sharp.wd1.myworkdayjobs.com/External/job/STCMC-Tri-City-MedicalCenter-Main-Campus---4002-Vista-Way/Clinical-Lab-Scientist-I---Sharp-Tri-City---Night-Shift---Full-Time_JR211901-1) | STCMC Tri-City Medical Center Main Campus - 4002 Vista Way | $43.98 to $63.78/hour | 2026-11-12 |  |
 | Sharp HealthCare | [Histo Tech - Lab - Copley - Variable Shifts - Per Diem](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Histo-Tech---Lab---Copley---Variable-Shifts---Per-Diem_JR211932) | San Diego, CA | $38.80 to $56.06/hour | 2026-11-12 |  |
 | Tenet Healthcare | [Registered Nurse (RN) - Cath Lab](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603013910) | West Palm Beach, FL, United States |  | 2026-11-12 |  |
-| Tenet Healthcare | [Laboratory Assistant II](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028585) | San Antonio, TX, United States |  | 2026-11-12 |  |
 | UT Southwestern | [Clinical Research Coordinator I](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=985543&lang=en) | Texas-Dallas-5161 Harry Hines Blvd |  | 2026-11-11 |  |
 | AECOM | [Entry-Level Geologist](https://jobs.smartrecruiters.com/AECOM2/744000161018749-entry-level-geologist) | Conshohocken, PA, us |  | 2026-11-11 | no visa sponsorship |
 | Cedars-Sinai | [Visiting Graduate Student (Academic Credit) - Simpkins Lab - Department of Neurology - Per Diem (On-site)](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21221) | Los Angeles, CA, United States |  | 2026-11-11 |  |
@@ -123,7 +143,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | knownwell | [Clinical Research Assistant](https://jobs.ashbyhq.com/knownwell/1a621b01-4d62-49ac-b87d-be26dd97417a) | Woburn, MA |  | 2026-11-11 |  |
 | Natera | [Histology Lab Operator I](https://job-boards.greenhouse.io/natera/jobs/6250079004) | San Carlos, CA | $23.06 to $34.56/hour | 2026-11-11 |  |
 | ProKidney | [QC Microbiology Analyst 1](https://job-boards.greenhouse.io/prokidney/jobs/5289412007) | 3929 Westpoint Blvd, Suite G, Winston-Salem, NC 2710 |  | 2026-11-11 |  |
-| Tenet Healthcare | [Lab Assistant II](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603025866) | Harlingen, TX, United States |  | 2026-11-11 |  |
 | Baylor Scott & White Health | [Patient Service Specialist I - Laboratory Services (Irving, TX)](https://jobs.bswhealth.com/us/en/job/26020117) | Irving, Texas, United States |  | 2026-11-11 |  |
 | Johnson & Johnson | [Associate Scientist](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Associate-Scientist_R-105660-2) | Spring House, Pennsylvania, United States of America | $78,000 to $126,500 | 2026-11-10 |  |
 | Nidus Technologies | [Lab Technician](https://jobs.ashbyhq.com/nidus-technologies/493ed9e4-ca5a-4e3b-873d-e03f166de009) | New York City | $85,000 to $120,000 | 2026-11-10 |  |
@@ -138,7 +157,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Northwestern Memorial Healthcare | [Clinical Lab Assistant-Inpatient Huntley Part-time Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160689459-clinical-lab-assistant-inpatient-huntley-part-time-days) | Huntley, IL, us |  | 2026-11-10 |  |
 | Northwestern Memorial Healthcare | [Cytogenetics Technologist, Full-Time Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160686964-cytogenetics-technologist-full-time-days) | Chicago, IL, us |  | 2026-11-10 |  |
 | Tempus | [Clinical Operations Coordinator (Reference Lab)](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Clinical-Operations-Coordinator--Reference-Lab-_JR202601200) | Chicago |  | 2026-11-10 |  |
-| Tenet Healthcare | [Lab Assistant II](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028277) | El Paso, TX, United States |  | 2026-11-10 |  |
+| Tenet Healthcare | [Lab Assistant III](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028277) | El Paso, TX, United States |  | 2026-11-10 |  |
 | Tenet Healthcare | [Medical Lab Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028562) | San Antonio, TX, United States |  | 2026-11-10 |  |
 | Texas Health Resources | [Medical Laboratory Scientist – 3rd Shift (New Grads are accepted)](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012044&lang=en) | Fort Worth |  | 2026-11-10 |  |
 | Harvard University | [Research Assistant II - Lab](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016722501-research-assistant-ii-lab) | Boston, MA, us |  | 2026-11-09 | no visa sponsorship |
@@ -157,7 +176,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Eurofins | [Associate Scientist: Stability and Batch Release](https://jobs.smartrecruiters.com/Eurofins/744000160228684-associate-scientist-stability-and-batch-release) | Columbia, MO, us |  | 2026-11-07 |  |
 | KeyBank | [Equity Research Associate - Industrials](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Equity-Research-Associate---Industrials_R-42953) | Cleveland, OH | $80,000 to $150,000 | 2026-11-07 |  |
 | Northwestern Memorial Healthcare | [Clinical Lab Assistant II-Full-time Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160307349-clinical-lab-assistant-ii-full-time-days) | Geneva, IL, us |  | 2026-11-07 |  |
-| Pliant Therapeutics, Inc. | [Scientist I, Chemistry (Contract)](https://job-boards.greenhouse.io/plianttherapeuticsinc/jobs/8197997003) | South San Francisco, CA (hybrid) | $68 to $75/hour | 2026-11-07 |  |
 | Republic Services | [Chemical Treatment Operator I (Hazardous Waste & Chemistry)](https://jobs.republicservices.com/us/en/job/R-188116) | Lewisberry, Pennsylvania, United States of America |  | 2026-11-07 |  |
 | Texas Health Resources | [Registered Nurse, RN (PRN)- GI Lab](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011885&lang=en) | Dallas |  | 2026-11-07 |  |
 | Thermo Fisher Scientific | [Scientist I, Analytical Research & Development](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Florence-South-Carolina-USA/Scientist-I--Analytical-Research---Development_R-01374410) | Florence, South Carolina, USA |  | 2026-11-07 | no visa sponsorship |
@@ -201,7 +219,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Vitrolife Group | [Laboratory Assistant](https://career.vitrolifegroup.com/jobs/8571722-laboratory-assistant) | Miami, United States |  | 2026-11-05 |  |
 | OVP Health | [Lab Collector](https://ovphealth.bamboohr.com/careers/1229) | Ravenswood, West Virginia, United States |  | 2026-11-05 |  |
 | Pplm | [Laboratory Testing Personnel (Medical Lab Technologist)](https://jobs.lever.co/pplm/96f7fd18-aad2-4ac0-bfa9-c9f0c883f68b) | Boston, MA |  | 2026-11-05 |  |
-| BillionToOne | [Clinical Laboratory Scientist, Oncology (AM Shift)](https://jobs.ashbyhq.com/billiontoone/90cef78c-41da-486f-a8fe-60ff2d7c0e0e) | Menlo Park - Base Building |  | 2026-11-05 |  |
 | Abiologics | [Scientist I, In Vitro Pharmacology](https://job-boards.greenhouse.io/abiologics/jobs/8877429002) | Watertown, MA | $100,000 to $126,500 | 2026-11-05 |  |
 | Profound Research | [*Entry Level Clinical Research Candidates-Talent Community](https://jobs.lever.co/profoundresearch/cbf08199-abfa-4437-82c2-bc7f9dc52854) | Hybrid |  | 2026-11-05 |  |
 | Profound Research | [*Entry Level Clinical Research Candidates-Talent Community (Detroit, MI)](https://jobs.lever.co/profoundresearch/d9006a23-6b66-4275-9d8c-6e8f09924f34) | Detroit, MI |  | 2026-11-05 |  |
@@ -423,7 +440,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Northwestern Memorial Healthcare | [Clinical Medical Physicist-Huntley Oncology Clinic Full-time Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000154748517-clinical-medical-physicist-huntley-oncology-clinic-full-time-days) | Huntley, IL, us |  | 2026-11-04 |  |
 | Northwestern Memorial Healthcare | [Phlebotomist-Lab Part Time Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000154743021-phlebotomist-lab-part-time-days) | Lake Forest, IL, us |  | 2026-11-04 |  |
 | Northwestern Memorial Healthcare | [Radiology Technologist CDH Cath Lab Full-time Days Sign-on Bonus Available](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000154727769-radiology-technologist-cdh-cath-lab-full-time-days-sign-on-bonus-available) | Winfield, IL, us |  | 2026-11-04 |  |
-| BillionToOne | [Clinical Laboratory Scientist, Oncology (AM Shift)](https://job-boards.greenhouse.io/billiontoone/jobs/4742104005) | Menlo Park, CA | $156,194 | 2026-11-04 |  |
 | Eurofins | [On Call/Flex Laboratory Assistant (Micro)](https://jobs.smartrecruiters.com/Eurofins/744000154523299-on-call-flex-laboratory-assistant-micro-) | Des Moines, IA, us |  | 2026-11-04 |  |
 | Eurofins | [Product Safety Engineer](https://jobs.smartrecruiters.com/Eurofins/744000154183237-product-safety-engineer) | Littleton, MA, us | $75,000 to $100,000 | 2026-11-04 |  |
 | Eurofins | [Product Safety Engineer](https://jobs.smartrecruiters.com/Eurofins/744000154181889-product-safety-engineer) | Littleton, MA, us | $68,000 to $88,000 | 2026-11-04 |  |
@@ -478,7 +494,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Harvard University | [Lab Curriculum Coordinator I](https://jobs.smartrecruiters.com/HarvardUniversity/3743990015197869-lab-curriculum-coordinator-i) | Cambridge, MA, us |  | 2026-11-04 | no visa sponsorship |
 | Headlands Research | [Research Assistant](https://job-boards.greenhouse.io/headlandsresearch/jobs/4286801009) | Escondido, California | $20 to $25/hour | 2026-11-04 |  |
 | Adams Clinical | [NP/PA — BOTOX® Injector](https://job-boards.greenhouse.io/adamsclinical/jobs/4398129009) | New York, New York, United States | $85 to $95/hour | 2026-11-04 |  |
-| Luminis Health | [Medical Lab Scientist I - Full-time -DCMC](https://boards.greenhouse.io/luminishealth/jobs/5409184008?gh_jid=5409184008) | Lanham, MD | $39.50 to $44.52/hour | 2026-11-04 |  |
 | Eurofins | [HPLC Oligonucleotide Method Development & Validation](https://jobs.smartrecruiters.com/Eurofins/744000148609710-hplc-oligonucleotide-method-development-validation) | Lancaster, PA, us |  | 2026-11-04 |  |
 | SGS | [Laboratory Technician I](https://jobs.smartrecruiters.com/SGS/744000148597389-laboratory-technician-i) | Brookings, SD, us |  | 2026-11-04 |  |
 | A-TEK Inc. | [Associate Scientist I El Paso](https://job-boards.greenhouse.io/atek/jobs/5410978008) | El Paso, Texas, United States |  | 2026-11-04 | US citizens/persons only |
@@ -488,10 +503,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Eurofins | [Laboratory Technician - Rapid Microbiology (OKC Day-Shift)](https://jobs.smartrecruiters.com/Eurofins/744000147336659-laboratory-technician-rapid-microbiology-okc-day-shift-) | Oklahoma City, OK, us |  | 2026-11-04 |  |
 | Eurofins | [Laboratory Technician - Rapid Microbiology (Grand Island, NE Night-Shift)](https://jobs.smartrecruiters.com/Eurofins/744000147334469-laboratory-technician-rapid-microbiology-grand-island-ne-night-shift-) | Grand Island, NE, us |  | 2026-11-04 |  |
 | Eurofins | [Lab Technician- San Angelo, TX (Day Shift)](https://jobs.smartrecruiters.com/Eurofins/744000147285465-lab-technician-san-angelo-tx-day-shift-) | San Angelo, TX, us |  | 2026-11-04 |  |
-| Kardigan | [Scientist, Drug Metabolism and Pharmacokinetics (DMPK)](https://job-boards.greenhouse.io/kardigan/jobs/5409487008) | South San Francisco, California, United States | $135,000 to $160,000 | 2026-11-04 |  |
 | Medra | [Research Associate, Protein Purification & Quality Control](https://jobs.ashbyhq.com/medraai/3adae454-8f38-40af-825b-fea9a7da9a10) | San Francisco |  | 2026-11-04 |  |
 | BillionToOne | [Clinical Laboratory Scientist, Oncology (PM Shift)](https://job-boards.greenhouse.io/billiontoone/jobs/4728398005) | Menlo Park, CA | $156,194 | 2026-11-04 |  |
-| BillionToOne | [Clinical Laboratory Scientist, Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4728399005) | Union City, CA | $200,536 | 2026-11-04 |  |
 | BillionToOne | [Clinical Laboratory Scientist, Prenatal (contractor)](https://job-boards.greenhouse.io/billiontoone/jobs/4728402005) | Union City, CA | $70/hour | 2026-11-04 |  |
 | Luminis Health | [Medical Lab Scientist I - PRN -Evening - AAMC](https://boards.greenhouse.io/luminishealth/jobs/5399628008?gh_jid=5399628008) | Annapolis, MD | $39.50 to $44.52/hour | 2026-11-04 |  |
 | Blue Water Thinking | [Biomedical Technician / Equipment Support Specialist - Level I](https://job-boards.greenhouse.io/bluewaterthinking/jobs/4708521006) | Onsite - Aurora, CO | $55,000 to $70,000 | 2026-11-04 | no visa sponsorship, clearance |
@@ -596,7 +609,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Thermo Fisher Scientific | [Scientist I - Process R&D Chemist](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Florence-South-Carolina-USA/Scientist-I---Process-R-D-Chemist_R-01374251) | Florence, South Carolina, USA |  | 2026-10-29 |  |
 | UT Health San Antonio | [Research Lab Tech-Assoc](https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8357) | San Antonio, TX, United States |  | 2026-10-29 |  |
 | Baylor Scott & White Health | [Lab Tech 2](https://jobs.bswhealth.com/us/en/job/26019749) | Irving, Texas, United States |  | 2026-10-28 |  |
-| Tenet Healthcare | [Lab Assistant II](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603027207) | Brownsville, TX, United States |  | 2026-10-28 |  |
 | UTHealth Houston | [Program Manager - Graduate School of Biomedical Sciences](https://careers.uth.tmc.edu/us/en/job/2600027S) | Texas Medical Center-Houston, Texas, United States |  | 2026-10-27 |  |
 | Natera | [Clinical Lab Operator I](https://job-boards.greenhouse.io/natera/jobs/6211025004) | Austin, TX |  | 2026-10-27 |  |
 | Natera | [Lab Assistant I](https://job-boards.greenhouse.io/natera/jobs/6144474004) | Austin, TX |  | 2026-10-27 |  |
@@ -628,7 +640,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | IQVIA | [Clinical Research Associate 2, IQVIA](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Clinical-Research-Associate-2--IQVIA_R1570541) | Durham, North Carolina, United States of America | $74,500 to $197,500 | 2026-10-20 |  |
 | IQVIA | [Clinical Research Associate 2, IQVIA](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Clinical-Research-Associate-2--IQVIA_R1570550) | Durham, North Carolina, United States of America | $74,500 to $197,500 | 2026-10-20 |  |
 | Rady Children's Health Orange County (CHOC) | [Clinical Laboratory Scientist, Microbiology (Part Time, Nights, Non Benefitted)](https://rch.wd108.myworkdayjobs.com/Careers/job/Main-Campus---Orange/Clinical-Laboratory-Scientist--Microbiology--Part-Time--Nights--Non-Benefitted-_R-32202) | Main Campus - Orange | $50.40 to $83.16/hour | 2026-10-20 |  |
-| Tenet Healthcare | [Medical Lab Tech (MLT)](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603021563) | Bartlett, TN, United States |  | 2026-10-20 |  |
 | Morgan Stanley | [Equity Research – Associate, SMID Cap Biotech (New York)](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Equity-Research---Associate--Biopharma--New-York-_JR045717-1) | New York, New York, United States of America | $150,000 to $200,000 | 2026-10-20 |  |
 | CommonSpirit Health (St. Luke's Health) | [Clinical Lab Scientist](https://www.commonspirit.careers/job/sacramento/clinical-lab-scientist/35300/100085894688) | SACRAMENTO, CA |  | 2026-10-20 |  |
 | Baylor Scott & White Health | [Lab Tech 2 PRN](https://jobs.bswhealth.com/us/en/job/26016825) | Irving, Texas, United States |  | 2026-10-20 |  |
@@ -668,7 +679,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Texas Biomedical Research Institute | [Biocontainment Veterinary Research Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4590335) | San Antonio, TX |  | 2026-10-20 |  |
 | Cedars-Sinai | [Research Associate II - Guerin Children's - Merrill Lab - Full-Time, On-Site, Days](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21134) | Los Angeles, CA, United States |  | 2026-10-20 |  |
 | Rady Children's Health Orange County (CHOC) | [Lab Assistant/Phlebotomist (Part Time, Evenings)](https://rch.wd108.myworkdayjobs.com/Careers/job/Main-Campus---Orange/Lab-Assistant-Phlebotomist--Part-Time--Evenings-_R-33222) | Main Campus - Orange | $23 to $36.28/hour | 2026-10-20 |  |
-| Tenet Healthcare | [Lab Assistant II](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603021778) | El Paso, TX, United States |  | 2026-10-20 |  |
 | Tenet Healthcare | [Registered Nurse (RN) - Cath Lab](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603023910) | Rock Hill, SC, United States |  | 2026-10-20 |  |
 | Tenet Healthcare | [Laboratory Assistant II](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603025655) | Framingham, MA, United States |  | 2026-10-20 |  |
 | Texas A&M AgriLife Extension | [RSSI Graduate Research Assistant](https://tamus.wd1.myworkdayjobs.com/AgriLife_Extension_External/job/College-Station-TX/RSSI-Graduate-Research-Assistant_R-089229-1) | College Station, TX |  | 2026-10-20 |  |
@@ -715,7 +725,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Perplexity | [Perplexity Research Fellowship](https://jobs.ashbyhq.com/Perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8) | San Francisco |  | 2026-10-20 |  |
 | Tenet Healthcare | [Medical Lab Scientist - Weekend nights 12-hour shifts ED](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603023403) | Fort Mill, SC, United States |  | 2026-10-20 |  |
 | Cedars-Sinai | [Research Associate II - Center for Autonomous Robotic Surgery](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20183) | West Hollywood, CA, United States |  | 2026-10-20 |  |
-| Christus Health | [MLT, Medical Lab Technician I - General Lab](https://careers.christushealth.org/opportunity/mlt-medical-lab-technician-i-general-lab-384695) | Beaumont, TX, US |  | 2026-10-20 |  |
 | CommonSpirit Health (St. Luke's Health) | [Cath Lab RN](https://www.commonspirit.careers/job/lake-jackson/cath-lab-rn/35300/100682663040) | LAKE JACKSON, TX |  | 2026-10-20 |  |
 | Lila Sciences | [Scientist I/II, Characterization and Composition Analysis](https://job-boards.greenhouse.io/lilasciences/jobs/4384606009) | Cambridge, MA USA (hybrid) | $108,000 to $170,000 | 2026-10-20 |  |
 | Tenet Healthcare | [Medical Lab Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603016150) | San Antonio, TX, United States |  | 2026-10-20 |  |
@@ -747,12 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Tenet Healthcare | [Registered Nurse (RN) - Cath Lab](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603015152) | Tucson, AZ, United States |  | 2026-10-20 |  |
 | Cedars-Sinai | [Clinical Research Coordinator I - Heart Institute - Bairey-Merz Lab](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19569) | Los Angeles, CA, United States |  | 2026-10-20 |  |
 | Tenet Healthcare | [Registered Nurse (RN) - Cath Lab](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603016657) | Port St Lucie, FL, United States |  | 2026-10-20 |  |
-| Tenet Healthcare | [Cath Lab Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603017092) | Rock Hill, SC, United States |  | 2026-10-20 |  |
-| UTRGV | [Graduate Research Assistant for Health Sciences 2026-2027](https://careers.utrgv.edu/postings/52110) | Edinburg, Texas |  | 2026-10-20 |  |
-| Scripps Research | [RESEARCH ASSISTANT I - Badran Lab](https://recruiting2.ultipro.com/SCR1003TSRI/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/OpportunityDetail?opportunityId=6911b664-e4b3-4d3c-b82f-ec543a7a1683) | San Diego, CA, USA | $20.67 to $25.06/hour | 2026-10-20 |  |
-| UnitedHealth Group | [Part -Time Clinical Research Coordinator](https://careers.unitedhealthgroup.com/job/mount-kisco/part-time-clinical-research-coordinator/34088/98426067792) | Mount Kisco, New York | $24 to $43/hour | 2026-10-20 |  |
-| Tenet Healthcare | [Registered Nurse (RN) - Interventional Radiology Holding/Cath Lab](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603017452) | West Palm Beach, FL, United States |  | 2026-10-20 |  |
-| Tenet Healthcare | [Biomedical Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603010828) | West Palm Beach, FL, United States |  | 2026-10-20 |  |
-| UTRGV | [Graduate Research Assistant / Marine Ecosystems Institute](https://careers.utrgv.edu/postings/51847) | Rio Grande Valley, Texas |  | 2026-10-20 |  |
-| Tenet Healthcare | [Cath Lab Tech](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503016693) | Tucson, AZ, United States |  | 2026-10-20 |  |
-| Texas Health Resources | [Endoscopic Retrograde Cholangiopancreatography Technician (ERCP) - Endo/GI Lab](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26004807&lang=en) | Plano |  | 2026-10-20 |  |

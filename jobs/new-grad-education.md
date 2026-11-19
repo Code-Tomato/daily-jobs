@@ -1,11 +1,16 @@
 # New grad and entry level: Education
 
-367 open, newest first (by the date the scraper first saw them), updated 2026-11-18.
+372 open, newest first (by the date the scraper first saw them), updated 2026-11-19.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Parallel | [Speech-Language Pathologist – Indiana (26-27 School Year)](https://job-boards.greenhouse.io/parallellearning/jobs/4756344005) | United States | $52 to $66/hour | 2026-11-19 |  |
+| Alma del Mar Charter School | [English as a Second Language (ESL) Specialist Teacher](https://alma-del-mar-charter-school.breezy.hr/p/08bbad196e77-english-as-a-second-language-esl-specialist-teacher) | New Bedford, MA | $49,150 | 2026-11-19 |  |
+| Apollo After School | [After School Substitute Educator](https://apollo-after-school.breezy.hr/p/c26248f2d95c-after-school-substitute-educator) | Howard Beach, NY | $20 to $22/hour | 2026-11-19 |  |
+| KIPP | [High School Team Teacher](https://jobs.smartrecruiters.com/KIPP/744000162391109-high-school-team-teacher) | Columbus, OH, us |  | 2026-11-19 |  |
+| New Mexico Junior College | [Part-Time Adult Education Instructor](https://nmjc.bamboohr.com/careers/77) | Hobbs, New Mexico, United States |  | 2026-11-19 | no visa sponsorship |
 | AHRC NYC | [Maintenance Worker (School) - Queens](https://jobs.smartrecruiters.com/AHRCNYC1/744000162095349-maintenance-worker-school-queens) | Queens, New York, us | $39,500 | 2026-11-18 |  |
 | Magical Beginnings | [Infant Teacher - Paid Winter Break](https://jobs.lever.co/magicalbeginningslc/31c340f0-c55c-4835-b9c7-e8f6aed03ef3) | Groveland, MA |  | 2026-11-18 |  |
 | Texas Health Resources | [Admissions Specialist I](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012469&lang=en) | Arlington |  | 2026-11-18 |  |
