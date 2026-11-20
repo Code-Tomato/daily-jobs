@@ -1,12 +1,36 @@
 # Internships and co-ops: Sales, marketing and communications
 
-1,178 open, newest first (by the date the scraper first saw them), updated 2026-11-19. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,168 open, newest first (by the date the scraper first saw them), updated 2026-11-20. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
-| iCapital | [Brand and Communications - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8949799002) · Summer 2027 | New York, New York, United States | $43.50/hour | 2026-11-19 |  |
+| DTCC | [Marketing & Communications Intern [2027 Internship Program]](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215290) · Spring 2029 | Jersey City, NJ, United States (hybrid) |  | 2026-11-20 | no visa sponsorship |
+| Unum | [Sales & Client Management Intern - Maryland](https://unum.wd1.myworkdayjobs.com/External/job/Columbia-Maryland-USA/Sales---Client-Management-Intern---Maryland_836115) | Columbia, Maryland, USA |  | 2026-11-20 |  |
+| Centene | [Marketing & Communications Graduate Summer Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Marketing---Communications-Graduate-Summer-Intern_1667774) · Summer | Remote-MO | $21 to $30/hour | 2026-11-20 | no visa sponsorship |
+| Creative Spirit | [Publicis Media Spring 2027 Internship - Atlanta](https://creative-spirit.breezy.hr/p/fcea2b765a2f-publicis-media-spring-2027-internship-atlanta) · Spring 2027 | Atlanta, GA |  | 2026-11-20 |  |
+| Creative Spirit | [Publicis Media Spring 2027 Internship - Chicago](https://creative-spirit.breezy.hr/p/1c0259d98138-publicis-media-spring-2027-internship-chicago) · Spring 2027 | Chicago, IL |  | 2026-11-20 |  |
+| Creative Spirit | [Publicis Media Spring 2027 Internship - NYC](https://creative-spirit.breezy.hr/p/ca4379a9715b-publicis-media-spring-2027-internship-nyc) · Spring 2027 | New York, NY |  | 2026-11-20 |  |
+| HPE | [Networking Security Sales Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Networking-Security-Sales-Intern_1214124) | Spring, Texas, United States of America | $26 to $30/hour | 2026-11-20 |  |
+| Insulet | [Intern, Corporate Communications: June-August 2027 (Hybrid)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Intern--Corporate-Communications--June-August-2027--Hybrid-_REQ-2026-19271) | Acton, Massachusetts (hybrid) | $25 to $34/hour | 2026-11-20 | no visa sponsorship |
+| Marvell | [Product Marketing Intern, MBA - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Marketing-Intern--MBA---Summer-2027_2603894-1) · Summer 2027 | Santa Clara, CA |  | 2026-11-20 |  |
+| New York City Ballet | [Winter / Spring Intern - Social Media](https://nycballet.bamboohr.com/careers/195) · Winter | New York, New York, United States |  | 2026-11-20 |  |
+| Parspec | [Intern, Enterprise Growth & Strategic Accounts](https://jobs.ashbyhq.com/parspec/8fdc1258-a3f7-44d5-8249-4576878b1fb0) | Hybrid - San Mateo, California |  | 2026-11-20 |  |
+| Salesforce | [Summer 2027 Intern - Sales Development, Public Sector](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Summer-2027-Intern---Sales-Development--Public-Sector_JR360458-1) · Summer 2027 | Virginia - Mclean | $28 to $32/hour | 2026-11-20 |  |
+| SharkNinja | [Summer 2027: Employer Brand Intern (June to August)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726787006) · Summer 2027 | Needham, MA, United States | $28 to $36/hour | 2026-11-20 |  |
+| Southern Poverty Law Center | [Intern, Public & Media Relations (Summer 2027)](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8954805002) · Summer 2027 | Atlanta, GA | $18.40/hour | 2026-11-20 |  |
+| UnitedHealth Group | [Enterprise Partnerships Internship - PBDP - Owensboro, KY](https://careers.unitedhealthgroup.com/job/owensboro/enterprise-partnerships-internship-pbdp-owensboro-ky/34088/103529135232) | Owensboro, Kentucky | $18 to $32/hour | 2026-11-20 | no visa sponsorship |
+| Formlabs | [2027 (Summer) Marketing - Social Media Intern](https://careers.formlabs.com/job/8400491/apply/?gh_jid=8400491) · Summer | Somerville, MA |  | 2026-11-20 |  |
+| Formlabs | [Video Content Creator Intern (Summer 2027)](https://careers.formlabs.com/job/8395549/apply/?gh_jid=8395549) · Summer 2027 | Somerville, MA |  | 2026-11-20 |  |
+| Invesco | [Early Career Intern - Internal Sales (Global Liquidity)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Internal-Sales--Global-Liquidity-_R-15865-1) · Summer 2028 | New York, New York | $35/hour | 2026-11-20 |  |
+| NBCUniversal | [NBC Telemundo Connecticut Sales Marketing Intern - Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000162315360-nbc-telemundo-connecticut-sales-marketing-intern-summer-2027) · Summer 2027 | Hartford, Connecticut, us | $17.48/hour | 2026-11-20 | no visa sponsorship |
+| NBCUniversal | [NBC Telemundo Connecticut Sales Intern - Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000162312217-nbc-telemundo-connecticut-sales-intern-summer-2027) · Summer 2027 | Hartford, Connecticut, us | $17.48/hour | 2026-11-20 | no visa sponsorship |
+| The Shipyard | [Integrated Communications Intern](https://apply.workable.com/j/E6E56E8984) | Denver, Colorado, United States (hybrid) | $20/hour | 2026-11-20 | no visa sponsorship |
+| The Shipyard | [Integrated Communications Intern](https://apply.workable.com/j/EC0F04B685) | New York, New York, United States (hybrid) | $20/hour | 2026-11-20 | no visa sponsorship |
+| Trace3 | [Sales Development Representative Intern](https://job-boards.greenhouse.io/trace3/jobs/8399428) | Colorado Springs, CO | $17 to $21/hour | 2026-11-20 |  |
+| Zebra Technologies | [2027 Summer Internship (US) - NA Vertical & Field Marketing](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----NA-Vertical---Field-Marketing_JR103620) · Summer 2027 | Lincolnshire, Illinois | $24 to $25.50/hour | 2026-11-20 | no visa sponsorship |
+| iCapital | [Brand and Communications - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8949799002) · Summer 2027 | New York, New York, United States |  | 2026-11-19 |  |
 | Allied Global Marketing | [Field Marketing Intern](https://ats.rippling.com/allied-global-marketing/jobs/9e01d157-0702-4a76-a51a-222aafd50d6f) · Spring 2027 | New York, NY |  | 2026-11-19 |  |
 | Allied Global Marketing | [Marketing & Press Intern](https://ats.rippling.com/allied-global-marketing/jobs/e294563b-5b6a-40ef-a7b3-a2963176954b) | Chicago, IL |  | 2026-11-19 |  |
 | AppLovin | [Platform Partnerships Intern](https://boards.greenhouse.io/applovin/jobs/4730428006?gh_jid=4730428006) · Spring 2028 | Palo Alto, CA | $70/hour | 2026-11-19 |  |
@@ -58,22 +82,19 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NBCUniversal | [Universal Pictures Publicty & Marketing Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000161879532-universal-pictures-publicty-marketing-internships-summer-2027) · Summer 2027 | Universal City, CA, us | $19/hour | 2026-11-17 | no visa sponsorship |
 | NBCUniversal | [Focus Features Publicity & Marketing Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000161879639-focus-features-publicity-marketing-internships-summer-2027) · Summer 2027 | Universal City, CA, us | $19/hour | 2026-11-17 | no visa sponsorship |
 | NVIDIA | [Enterprise Sales Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Sales-Intern---Summer-2027_JR2029682) · Summer 2027 | US, CA, Santa Clara |  | 2026-11-17 |  |
-| Onsharp | [Marketing Intern](https://onsharp.bamboohr.com/careers/80) | Fargo, North Dakota, United States |  | 2026-11-17 |  |
 | SAP | [SAP Customer Success iXp Intern – SAP Innovation Experience Customer Engagement Support NYC](https://jobs.sap.com/en/jobs/744000161877199/sap-customer-success-ixp-intern-sap-innovation-experience-customer-engagement-support-nyc/) | New York, New York, US |  | 2026-11-17 |  |
 | SAP | [SAP iXp Intern - NA Campaign Advisory & Execution](https://jobs.sap.com/en/jobs/744000161932859/sap-ixp-intern-na-campaign-advisory-execution/) | Alpharetta, Georgia, US |  | 2026-11-17 |  |
 | Stand Together | [KIP Spring 2027 - Communications Intern - Sutherland Institute](https://jobs.lever.co/standtogether/8a9406fe-976b-4a66-98eb-6f41da365dfa) · Spring 2027 | Salt Lake City, Utah |  | 2026-11-17 |  |
 | Stand Together | [KIP Spring 2027 - Policy Research & TikTok Content Intern - Sutherland Institute](https://jobs.lever.co/standtogether/b592294a-453f-42b5-a51e-f8d93e9010a3) · Spring 2027 | Salt Lake City, Utah |  | 2026-11-17 |  |
-| Veolia Environnement SA | [Field Service Representative -Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161872541-field-service-representative-intern) | Trevose, PA, us |  | 2026-11-17 |  |
 | Veolia Environnement SA | [Field Service Representative -Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161862130-field-service-representative-intern) | Pottstown, PA, us |  | 2026-11-17 |  |
-| Xometry | [Sales Intern](https://job-boards.greenhouse.io/xometry/jobs/5296555007) | North Bethesda, MD | $20/hour | 2026-11-17 |  |
 | Xometry | [Sales Intern](https://job-boards.greenhouse.io/xometry/jobs/5296559007) | Lexington, KY | $20/hour | 2026-11-17 |  |
+| Xometry | [Sales Intern](https://job-boards.greenhouse.io/xometry/jobs/5296555007) | North Bethesda, MD | $20/hour | 2026-11-17 |  |
 | NCFC Youth | [Intern- Marketing and Development](https://ncfcyouth.bamboohr.com/careers/114) | Raleigh, North Carolina, United States |  | 2026-11-17 |  |
 | HPE | [Customer Success Manager Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Customer-Success-Manager-Intern_1214116) | Alpharetta, Georgia, United States of America | $35 to $41/hour | 2026-11-17 |  |
 | Fanatics Collectibles | [Summer 2027 Internship - Partnerships & Licensing Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507681009) · Summer 2027 | New York, NY, United States | $27/hour | 2026-11-16 |  |
 | Fanatics Collectibles | [Summer 2027 MBA Internship - Partnerships & Licensing Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507489009) · Summer 2027 | Los Angeles, CA, United States | $27/hour | 2026-11-16 |  |
 | Octaura | [Intern, Product and Marketing Rotation](https://job-boards.greenhouse.io/octaura/jobs/4719079007) | New York |  | 2026-11-16 |  |
 | Octaura | [Intern, Sales GTM](https://job-boards.greenhouse.io/octaura/jobs/4687402007) | New York |  | 2026-11-16 |  |
-| Clera | [Growth & Marketing Intern / New Grad](https://jobs.ashbyhq.com/Clera/1798e957-ca09-4252-b639-a0a1073afabc) | San Francisco |  | 2026-11-15 |  |
 | PTC | [Partnerships Intern (Summer 2027)](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Partnerships-Intern--Summer-2027-_JR112941) · Summer 2027 | Boston, MA, USA | $25 to $33/hour | 2026-11-15 | no visa sponsorship |
 | Ocean Casino Resort | [Intern - Marketing (Summer 2027)](https://apply.workable.com/j/A8292ED533) · Summer 2027 | Atlantic City, New Jersey, United States | $18/hour | 2026-11-15 |  |
 | Siemens | [Strategic Student Program: Go-To-Market Sales Execution Intern (GS&CS, Spring 2027)](https://jobs.siemens.com/en_US/externaljobs/JobDetail/520088) · Spring 2027 | Mason, Ohio, United States of America | $18 to $50/hour | 2026-11-15 | no visa sponsorship |
@@ -118,12 +139,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SiriusXM | [Spring Intern, Social Content - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17684) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
 | Adobe | [2027 Intern - Communications](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Communications_R173413) | San Francisco | $25 to $30/hour | 2026-11-13 |  |
 | CME Group | [Client Development & Sale Intern - Summer 2027](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/New-York---300-Vesey-Street/Client-Development---Sale-Intern---Summer-2027_35042-1) · Summer 2027 | New York - 300 Vesey Street | $23.84 to $39.71/hour | 2026-11-13 | no visa sponsorship |
-| Galaxy | [2027 Data Center Growth & Development Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256234004) | New York | $55/hour | 2026-11-13 |  |
 | Mormon Women for Ethical Government | [State Communications Intern](https://mweg.bamboohr.com/careers/81) | United States (Remote) |  | 2026-11-13 |  |
 | SiriusXM | [Spring Intern, Promotions & Events Marketing - Part Time](https://careers.siriusxm.com/careers-home/jobs/17661) · Spring | Nashville, Tennessee | $18/hour | 2026-11-13 |  |
 | SiriusXM | [Spring Intern, Podcast Marketing - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17658) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
 | SiriusXM | [Spring Intern, Content Marketing & Partnerships - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17667) · Spring | Los Angeles, California | $18/hour | 2026-11-13 |  |
-| The New York Times | [B2B Subscriptions, Marketing Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4753228005) | New York, NY (hybrid) | $20/hour | 2026-11-13 |  |
 | Veeam Software | [Customer Experience Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5035360101) · Summer 2027 | Remote, Georgia, USA | $20 to $25/hour | 2026-11-13 |  |
 | M/I Homes | [Marketing Intern - Summer 2027](https://apply.workable.com/j/A9DFFD2B2B) · Summer 2027 | Naperville, Illinois, United States | $22 to $26/hour | 2026-11-13 |  |
 | Parspec | [Product Marketing Manager Intern](https://jobs.ashbyhq.com/parspec/abbea999-9113-4e40-9f07-f462f2cd0edc) | Hybrid - San Mateo, California |  | 2026-11-12 |  |
@@ -162,6 +181,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Recruitics | [Marketing Intern](https://recruitics.bamboohr.com/careers/392) | New York, New York, United States | $18/hour | 2026-11-11 |  |
 | Regent | [Marketing & Comms Intern (Spring Co-Op/Summer)](https://jobs.ashbyhq.com/REGENT/13687437-26bd-4bea-88b7-93a91cfd4ec9) · Spring | North Kingstown, Rhode Island, USA |  | 2026-11-11 |  |
 | Riot Games | [Social Media Manager Intern - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356358?gh_jid=8356358) · Summer 2027 | Los Angeles, USA | $35/hour | 2026-11-11 | no visa sponsorship |
+| Studyfetch | [Sales Intern (Honen Fellowship Program)](https://ats.rippling.com/studyfetch/jobs/7253c227-d81c-4312-b368-8d76658987ca) | Beverly Hills, CA |  | 2026-11-11 |  |
 | Texas Instruments | [Sales, Marketing, and Content Enablement Intern](https://careers.ti.com/en/sites/CX_1/job/25019924) | Dallas, TX, United States |  | 2026-11-11 | no visa sponsorship |
 | The Classic Center | [Marketing Internship (Summer 2027)](https://theclassiccenter.bamboohr.com/careers/252) · Summer 2027 | Athens, Georgia, United States |  | 2026-11-11 |  |
 | Tom James Company | [Semester Sales Internship - U of Wisconsin Eau Claire](https://jobs.lever.co/tomjames/39a767ce-51db-456d-96a4-b598c21e36ad) · Summer 2027 | Eau Claire, WI | $15/hour | 2026-11-11 |  |
@@ -214,9 +234,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SportsMed Physical Therapy | [Digital Marketing Intern](https://jobs.lever.co/spineandsportsmed/bc46bcab-d79d-48b2-8c75-9c2f855fd672) | Glen Rock, NJ | $18 to $21/hour | 2026-11-09 |  |
 | Voltaire Group | [Equestrian Sales Apprentice – Winter Horse Show Program](https://jobs.voltairegroup.com/o/equestrian-sales-apprentice-winter-horse-show-program) · Winter | Ocala, FL, US; Wellington, FL, US |  | 2026-11-09 |  |
 | JFrog | [Sales Development Representative (SDR - SkillBridge Internship)](https://join.jfrog.com/job/?job=8089839&gh_jid=8089839) | Sunnyvale, Atlanta |  | 2026-11-09 |  |
-| Magnet Media, Inc. | [Account Management Intern - Spring 2027](http://www.magnetmediafilms.com/careers?gh_jid=8036230) · Spring 2027 | New York, NY |  | 2026-11-09 |  |
 | Magnet Media, Inc. | [Design Intern (Spring 2027)](http://www.magnetmediafilms.com/careers?gh_jid=8036296) · Spring 2027 | New York, NY |  | 2026-11-09 |  |
-| Magnet Media, Inc. | [Social Media Intern (Spring 2027)](http://www.magnetmediafilms.com/careers?gh_jid=8036360) · Spring 2027 | New York, NY |  | 2026-11-09 |  |
 | Aldrich Capital Partners | [Private Equity Marketing Intern](https://aldrichcap.recruitee.com/o/private-equity-marketing-intern) | Tysons Corner, VA, US |  | 2026-11-09 |  |
 | Pallet, Square Peg & Weld | [Peer Support Specialist Intern](https://palletsquarepegweld.bamboohr.com/careers/195) | Seattle, Washington, United States |  | 2026-11-09 |  |
 | Red Edge | [Communications Intern](https://red-edge.breezy.hr/p/2b7312032302-communications-intern) | Arlington, VA |  | 2026-11-09 |  |
@@ -253,7 +271,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | LV Collective | [Sales & Marketing Intern / Rambler Clemson](https://apply.workable.com/j/9EE6523F41) · Fall 2027 | Clemson, South Carolina, United States |  | 2026-11-07 |  |
 | LV Collective | [Sales & Marketing Intern / Rambler Gainesville](https://apply.workable.com/j/63674F2E57) · Fall 2027 | Gainesville, Florida, United States |  | 2026-11-07 |  |
 | LV Collective | [Sales & Marketing Intern / Rambler Northgate](https://apply.workable.com/j/1EB624B559) | College Station, Texas, United States |  | 2026-11-07 |  |
-| The Clean Fight | [Fall/Winter 2026 Internship - Marketing and Outreach](https://apply.workable.com/j/1A5D3D9374) · Winter 2026 | New York, New York, United States | $17/hour | 2026-11-07 |  |
 | Kids in the Game | [Marketing Internship](https://apply.workable.com/j/62D7ED479D) · Fall 2026 | New York, New York, United States |  | 2026-11-07 |  |
 | ODK Media | [Advertising Business Intern (Unpaid)](https://apply.workable.com/j/9FE42AE060) | Irvine, California, United States |  | 2026-11-07 |  |
 | ODK Media | [Community / SEO Intern (Unpaid)](https://apply.workable.com/j/69427BE919) | Irvine, California, United States |  | 2026-11-07 |  |
@@ -266,7 +283,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Match Group | [Product Marketing Intern](https://jobs.lever.co/matchgroup/c44982cb-4339-48ba-a097-e42fd793e724) | Los Angeles, California (hybrid) |  | 2026-11-06 |  |
 | Match Group | [Social Marketing Intern](https://jobs.lever.co/matchgroup/d4f57475-3ea3-4560-924b-5a5507d4f002) | Los Angeles, California (hybrid) |  | 2026-11-06 |  |
 | Appalachian Voices | [Communications Intern](https://appalachian.bamboohr.com/careers/61) | United States (Remote) | $15/hour | 2026-11-06 |  |
-| Ballotpedia | [Editorial Spring 2027 Internship Program (Paid/Remote)](https://apply.workable.com/j/DF762B8021) · Spring 2027 | United States (remote) | $15/hour | 2026-11-06 |  |
 | Chubb | [Digital Marketing Intern](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38339) · Summer 2027 | Chicago, IL, United States | $18 to $24/hour | 2026-11-06 |  |
 | Chubb | [Customer Experience and Delivery Intern](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38419) · Summer 2027 | Portland, ME, United States | $18 to $24/hour | 2026-11-06 |  |
 | CrowdStrike | [Sales Tech Internship- Summer 2027](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Sales-Tech-Internship--Summer-2027_R30806) · Summer 2027 | USA - Arlington, VA | $28 to $32/hour | 2026-11-06 |  |
@@ -280,7 +296,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Reply | [Marketing Intern – Lead Generation](https://jobs.lever.co/reply/877efc67-d621-4065-9ac6-79050d59d62d) | Detroit Area, Michigan | $25 to $35/hour | 2026-11-06 |  |
 | S&B USA | [Marketing/Graphic Design Intern](https://job-boards.greenhouse.io/sbusa/jobs/5474111008) · Summer 2027 | Pittsburgh, Pennsylvania, United States |  | 2026-11-06 |  |
 | Soko Glam | [Influencer & PR Intern (Then I Met You)](https://soko-glam.breezy.hr/p/00dc1f459de7-influencer-pr-intern-then-i-met-you) · Spring 2027 | Brooklyn, NY | $17/hour | 2026-11-06 |  |
-| Veolia Environnement SA | [Communications Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159924554-communications-intern) | Cary, NC, us | $18.54 to $20.60/hour | 2026-11-06 | no visa sponsorship |
 | Everyday Dose Inc. | [Marketing intern](https://apply.workable.com/j/0E86E033C3) | Austin, Texas, United States | $30/hour | 2026-11-06 |  |
 | goodr | [Content Creation Intern](https://job-boards.greenhouse.io/goodr/jobs/8895542002) · Spring 2027 | Los Angeles | $20/hour | 2026-11-06 |  |
 | Appalachian Voices | [New Economy Communications & Outreach Intern](https://appalachian.bamboohr.com/careers/60) | Norton, Virginia, United States | $15/hour | 2026-11-06 |  |
@@ -302,10 +317,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Pinterest | [Content Enablement Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8334884) | San Francisco, CA, US; Remote, US |  | 2026-11-05 |  |
 | RR Donnelley | [Sales Intern - Summer 2027](https://jobs.smartrecruiters.com/RRDonnelley/744000159731890-sales-intern-summer-2027) · Summer 2027 | Madison Heights, MI, us | $18/hour | 2026-11-05 |  |
 | The Classic Center | [Marketing & Fundraising Internship](https://theclassiccenter.bamboohr.com/careers/267) · Summer 2027 | Athens, Georgia, United States |  | 2026-11-05 |  |
-| The New York Times | [Advertising Events & Socials Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751091005) | New York, NY (hybrid) | $20/hour | 2026-11-05 |  |
-| The New York Times | [Advertising Marketing Design Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751089005) | New York, NY | $20/hour | 2026-11-05 |  |
 | The New York Times | [Copywriter, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750883005) | New York, NY | $20/hour | 2026-11-05 |  |
-| The New York Times | [Creative Production, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005) | New York, NY | $20/hour | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Marketing Intern - Media Research Center](https://jobs.lever.co/standtogether/85ba02b2-8854-40e2-b74a-91cd2bda1f33) · Spring 2027 | Virginia |  | 2026-11-05 |  |
 | DowntownDC BID | [Copy of DowntownDC BID - Marketing and Communications Intern (16 to 29 hours/week)](https://ats.rippling.com/bid-employment-opportunities/jobs/086610d8-cd40-48df-a678-a365d020f878) | Washington, DC (hybrid) |  | 2026-11-05 |  |
 | IMA Financial Group | [Risk Control Intern - Summer 2027](https://imacorp.com/careers/openings/5275147007?gh_jid=5275147007) · Summer 2027 | Dallas, TX |  | 2026-11-05 |  |
@@ -351,7 +363,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | National Center on Sexual Exploitation | [Internship: Marketing & Communications; Parent Center](https://ncose.bamboohr.com/careers/210) | Washington, District of Columbia, United States |  | 2026-11-05 |  |
 | Cogent Talent Solutions | [Sales Intern - Fall of 2026](https://jobs.lever.co/cogentanalytics/3beb650c-e73b-4607-8db0-8ece7a5c9eb7) · Fall | Greensboro, NC |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Marketing and Communications Intern - Atlas Network](https://jobs.lever.co/standtogether/b073f8d5-799b-4402-96fc-ca2a0b0e1ecd) · Spring 2027 | Arlington, Virginia |  | 2026-11-05 |  |
-| Stand Together | [KIP Spring 2027 - Digital Communications Intern - R Street Institute](https://jobs.lever.co/standtogether/e9825a41-6736-42dc-af11-13b2ae661010) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
 | Cultural Survival | [Spring 2027 - Communications Internship - 6 Months - Remote / Primavera 2027 - Pasantía de Comunicaciones - 6 ](https://culturalsurvival.bamboohr.com/careers/116) · Spring 2027 | Remote |  | 2026-11-05 |  |
 | LogRocket | [Relationship Marketing Intern](https://jobs.lever.co/logrocket/95cf5509-bb8d-4c6e-88e1-181f0c248dde) | Boston, MA |  | 2026-11-05 |  |
 | Passion For Life | [Internship - Website Content Designer](https://mypassion4life.bamboohr.com/careers/51) | United States (Remote) |  | 2026-11-05 |  |
@@ -462,6 +473,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Premier Roofing Company | [2027 Paid Summer Internship – Sales Representative at Premier Roofing](https://premier-roofing.pinpointhq.com/en/postings/20880da6-4648-4dd9-852c-8db613587ef8) · Summer 2027 | Minnetonka, Minnesota |  | 2026-11-05 |  |
 | Tpin | [Internship - Environmental Campaigns Web and Digital Content](https://jobs.publicinterestnetwork.org/en/postings/b5db296c-b323-4dfc-ab71-a669d6e14a20) | Multiple Locations (Remote) |  | 2026-11-05 |  |
 | Tpin | [Marketing Internship, Environment Illinois](https://jobs.publicinterestnetwork.org/en/postings/9275270f-6bd2-4143-ac55-ea91adad6872) | Chicago, Illinois |  | 2026-11-05 |  |
+| NinjaHoldings | [Content Marketing Intern](https://ninjaholdings.breezy.hr/p/73dd6d17563b-content-marketing-intern) | Chicago, IL |  | 2026-11-04 |  |
 | Zebra Technologies | [2027 Summer Internship (US) - Social Media](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Social-Media_JR103617) · Summer 2027 | Lincolnshire, Illinois | $25.50/hour | 2026-11-04 | no visa sponsorship |
 | Beli | [Social Media Intern - Summer 2027](https://beli.breezy.hr/p/41c65e4302ee-social-media-intern-summer-2027) · Summer 2027 | New York, NY |  | 2026-11-04 |  |
 | ISlide | [Spring 2027 Digital Marketing Intern](https://islide.breezy.hr/p/d275f4eaa9ac-spring-2027-digital-marketing-intern) · Spring 2027 | Hyde Park, MA |  | 2026-11-04 |  |
@@ -489,14 +501,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Reporters Committee for Freedom of the Press | [Summer 2027 Communications Internship](https://jobs.smartrecruiters.com/ReportersCommitteeForFreedomOfThePress/744000159402876-summer-2027-communications-internship) · Summer 2027 | Washington, DC, us |  | 2026-11-04 |  |
 | Skild AI | [Founding Brand Design Intern](https://job-boards.greenhouse.io/skildai-careers/jobs/5471524008) | San Mateo, CA |  | 2026-11-04 |  |
 | Teradyne | [Technical Writer Co-Op, Spring 2027, (Teradyne, North Reading, MA)](https://jobs.teradyne.com/Teradyne/job/North-Reading-Technical-Writer-Co-Op%2C-Spring-2027%2C-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1447301800/) · Spring 2027 | North Reading, MA, US | $25.50 to $47/hour | 2026-11-04 | no visa sponsorship |
-| The New York Times | [Advertising Marketing Measurement Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750498005) | New York, NY (hybrid) | $20/hour | 2026-11-04 |  |
 | ACLU - Internships | [Spring 2027 Legal Intern, Affiliate Support and Nationwide Initiatives- Communications](https://job-boards.greenhouse.io/acluinternships/jobs/8927728002) · Spring 2027 | Hybrid-Puerto Rico |  | 2026-11-04 |  |
 | Asklocala 1671530238 | [Customer Success Intern](https://asklocala-1671530238.teamtailor.com/jobs/8653624-customer-success-intern) | Coral Gables, United States |  | 2026-11-04 |  |
 | MATTE PROJECTS | [Creative Content Intern - Winter/Spring 2027 (On-Site)](https://job-boards.greenhouse.io/matteprojects/jobs/6240645004) · Spring 2027 | New York, New York |  | 2026-11-04 |  |
 | Our National Conversation | [Media & Marketing Writer Intern](https://jobs.smartrecruiters.com/OurNationalConversation/744000159261070-media-marketing-writer-intern) | Los Angeles, CA, us |  | 2026-11-04 |  |
-| KnowBe4 | [Sales Development Representative Summer Internship (Hybrid)](https://job-boards.greenhouse.io/knowbe4/jobs/8919174002) · Summer | Arlington, Virginia (hybrid) |  | 2026-11-04 |  |
 | KnowBe4 | [Sales Development Representative Summer Internship (Hybrid)](https://job-boards.greenhouse.io/knowbe4/jobs/8919154002) · Summer | Clearwater, FL (hybrid) |  | 2026-11-04 |  |
 | KnowBe4 | [Sales Development Representative Summer Internship (Hybrid)](https://job-boards.greenhouse.io/knowbe4/jobs/8919183002) · Summer | New York, New York (hybrid) |  | 2026-11-04 |  |
+| KnowBe4 | [Sales Development Representative Summer Internship (Hybrid)](https://job-boards.greenhouse.io/knowbe4/jobs/8919174002) · Summer | Arlington, Virginia (hybrid) |  | 2026-11-04 |  |
 | AccuWeather | [Editorial Intern](https://job-boards.greenhouse.io/accuweather/jobs/8337176) · Spring 2027 | State College, PA; Wichita, KS; or Remote |  | 2026-11-04 |  |
 | Signal Group | [Communications Internship (Spring 2027)](https://signal-group.breezy.hr/p/7430e06c6108-communications-internship-spring-2027) · Spring 2027 | Washington, DC | $18.40/hour | 2026-11-04 |  |
 | Zus Health | [Customer Support Engineer Co-op](https://jobs.ashbyhq.com/zus-health/49ec343a-1d80-43d1-9f69-39e34f28b60f) | Boston, MA |  | 2026-11-04 |  |
@@ -505,24 +516,24 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lawfare Institute | [Spring 2027 Editorial Intern](https://ats.rippling.com/lawfare-institute/jobs/fc190f2e-3477-406e-86b4-7e6a1bc21cba) · Spring 2027 | Remote (United States) | $18.40/hour | 2026-11-04 |  |
 | Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/f0483a157223-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
 | Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/9172cf64d8d6-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
-| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/80a9b0c195a1-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
-| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/7754f687dc85-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
-| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/0b9018261184-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
-| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/b4cf890fbd9b-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
-| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/bec61070ac79-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
-| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/c13a30ee48df-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
-| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/0a3af4226308-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
 | Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/27c57b5bb2ff-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
-| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/382679c107a4-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
+| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/b4cf890fbd9b-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
+| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/7754f687dc85-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
+| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/80a9b0c195a1-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
 | Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/48d4a8213448-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
-| Storage Scholars | [Inside Sales Representative (Part Time Internship)](https://storage-scholars.breezy.hr/p/a0faddc1557f-inside-sales-representative-part-time-internship) | United States |  | 2026-11-04 |  |
+| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/382679c107a4-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
+| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/0a3af4226308-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
+| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/c13a30ee48df-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
+| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/bec61070ac79-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
+| Storage Scholars | [Inbound Sales Specialist (Part Time Internship)](https://storage-scholars.breezy.hr/p/0b9018261184-inbound-sales-specialist-part-time-internship) | United States |  | 2026-11-04 |  |
+| Storage Scholars | [Inside Sales Representative (Part Time Internship)](https://storage-scholars.breezy.hr/p/deafe372664b-inside-sales-representative-part-time-internship) | United States |  | 2026-11-04 |  |
 | Storage Scholars | [Inside Sales Representative (Part Time Internship)](https://storage-scholars.breezy.hr/p/90671a1f97cf-inside-sales-representative-part-time-internship) | United States |  | 2026-11-04 |  |
+| Storage Scholars | [Inside Sales Representative (Part Time Internship)](https://storage-scholars.breezy.hr/p/12e5361c2ee3-inside-sales-representative-part-time-internship) | United States |  | 2026-11-04 |  |
 | Storage Scholars | [Inside Sales Representative (Part Time Internship)](https://storage-scholars.breezy.hr/p/bd0668a591de-inside-sales-representative-part-time-internship) | United States |  | 2026-11-04 |  |
 | Storage Scholars | [Inside Sales Representative (Part Time Internship)](https://storage-scholars.breezy.hr/p/24ab2f711096-inside-sales-representative-part-time-internship) | United States |  | 2026-11-04 |  |
+| Storage Scholars | [Inside Sales Representative (Part Time Internship)](https://storage-scholars.breezy.hr/p/a0faddc1557f-inside-sales-representative-part-time-internship) | United States |  | 2026-11-04 |  |
 | Storage Scholars | [Inside Sales Representative (Part Time Internship)](https://storage-scholars.breezy.hr/p/17e44e0b7935-inside-sales-representative-part-time-internship) | United States |  | 2026-11-04 |  |
 | Storage Scholars | [Inside Sales Representative (Part Time Internship)](https://storage-scholars.breezy.hr/p/a9975cf86c4e-inside-sales-representative-part-time-internship) | United States |  | 2026-11-04 |  |
-| Storage Scholars | [Inside Sales Representative (Part Time Internship)](https://storage-scholars.breezy.hr/p/deafe372664b-inside-sales-representative-part-time-internship) | United States |  | 2026-11-04 |  |
-| Storage Scholars | [Inside Sales Representative (Part Time Internship)](https://storage-scholars.breezy.hr/p/12e5361c2ee3-inside-sales-representative-part-time-internship) | United States |  | 2026-11-04 |  |
 | Storage Scholars | [Sales Representative Internship (Remote, select U.S. states)](https://storage-scholars.breezy.hr/p/3b8997a757b4-sales-representative-internship-remote-select-u-s-states) | United States (remote) |  | 2026-11-04 |  |
 | AECOM | [Environmental Intern - Remediation](https://jobs.smartrecruiters.com/AECOM2/744000158178435-environmental-intern-remediation) | Rocky Hill, CT, us |  | 2026-11-04 | no visa sponsorship |
 | Alaska Wildlife Conservation Center | [Social Media & Content Creation Internship](https://awcc.bamboohr.com/careers/92) · Summer 2027 | Girdwood, Alaska, United States | $15/hour | 2026-11-04 |  |
@@ -567,7 +578,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | selfpublishing.com | [Sales Internship Program (Summer 2027) (Paid Internship)](https://ats.rippling.com/selfpublishingcom-careers/jobs/928712f0-ea55-4d60-97fd-662474bd5976) · Summer 2027 | West Lake Hills, TX |  | 2026-11-04 |  |
 | selfpublishing.com | [Social Media Internship Program (Summer 2027)](https://ats.rippling.com/selfpublishingcom-careers/jobs/99236fec-91f5-4373-9cbf-e74ac2464609) · Summer 2027 | West Lake Hills, TX |  | 2026-11-04 |  |
 | STR | [Graphic Design & Technical Communications Intern - Summer 2027](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) · Summer 2027 | Woburn, MA | $25.20 to $54/hour | 2026-11-04 | US citizens/persons only |
-| Versant | [Versant Summer Internships: MS NOW News & Content Production](https://jobs.smartrecruiters.com/Versant3/744000156632379-versant-summer-internships-ms-now-news-content-production) · Summer 2027 | New York, NY, us | $19 to $25/hour | 2026-11-04 | no visa sponsorship |
 | Amplify | [Summer 2027: Marketing Intern](https://jobs.ashbyhq.com/amplify/c99b2457-451b-4a7b-a874-e50b955288f5) · Summer 2027 | Remote - United States |  | 2026-11-04 |  |
 | Amplify | [Summer 2027: Sales Intern](https://jobs.ashbyhq.com/amplify/d7018048-760b-492c-a6ab-d51673331ae2) · Summer 2027 | Remote - United States |  | 2026-11-04 |  |
 | Amplify | [Summer 2027: Customer Experience Intern](https://jobs.ashbyhq.com/amplify/cb658439-f141-451e-9949-8651dc8c549d) · Summer 2027 | Remote - United States |  | 2026-11-04 |  |
@@ -578,7 +588,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Syngenta Group | [Golden Harvest Marketing Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000156343839-golden-harvest-marketing-intern) | Lisle, ILLINOIS, us | $20 to $45/hour | 2026-11-04 |  |
 | Syngenta Group | [Customer Experience Specialist Intern - East USA](https://jobs.smartrecruiters.com/SyngentaGroup/744000156336351-customer-experience-specialist-intern-east-usa) | West Palm Beach, Florida, us | $20 to $45/hour | 2026-11-04 |  |
 | Ursa Major | [2027 Summer Marketing & Communications Intern](https://ursamajor.com/careers/?gh_jid=4744833005) · Summer 2027 | Berthoud, Colorado | $30/hour | 2026-11-04 | US citizens/persons only |
-| US Internships Public Careers Site | [Marketing Intern - MBA](https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221783004) | United States, San Mateo, CA | $43.75/hour | 2026-11-04 | no visa sponsorship |
 | Avery Dennison | [Sales Excellence Intern - Summer 2027](https://jobs.smartrecruiters.com/AveryDennison/744000156046639-sales-excellence-intern-summer-2027) · Summer 2027 | Mentor, OH, us | $22 to $27/hour | 2026-11-04 | no visa sponsorship |
 | German American Chambers of Commerce | [[BESTAR] Commercial Sales Intern](https://german-american-chambers-of-commerce.breezy.hr/p/7027b416d92c-bestar-commercial-sales-intern) | Atlanta, GA |  | 2026-11-04 |  |
 | RR Donnelley | [Sales Intern](https://jobs.smartrecruiters.com/RRDonnelley/744000156075839-sales-intern) | Seattle, WA, us | $22.14/hour | 2026-11-04 |  |
@@ -600,30 +609,19 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AECOM | [Communications Intern – Hiring Event with AECOM – Atlanta, GA](https://jobs.smartrecruiters.com/AECOM2/744000155034840-communications-intern-hiring-event-with-aecom-atlanta-ga) · Summer 2027 | Atlanta, GA, us |  | 2026-11-04 | no visa sponsorship |
 | Louis Dreyfus Company | [Merchandising Intern](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000154913889-merchandising-intern) | Grand Junction, IA, us |  | 2026-11-04 |  |
 | Renewal by Andersen Metro & Midwest | [Sales and Marketing Intern](https://job-boards.greenhouse.io/mooreholdingsllc/jobs/4367204009) | Indianapolis, IN | $18/hour | 2026-11-04 |  |
-| Versant | [Versant Summer Internships: Entertainment Content & Acquisitions](https://jobs.smartrecruiters.com/Versant3/744000155081504-versant-summer-internships-entertainment-content-acquisitions) · Summer 2027 | North Hollywood, CA, us | $19/hour | 2026-11-04 | no visa sponsorship |
-| Versant | [Versant Summer Internships: Marketing, Sales, Customer & Creative (Fandango, Rotten Tomatoes, GolfNow, Full Sw](https://jobs.smartrecruiters.com/Versant3/744000155081639-versant-summer-internships-marketing-sales-customer-creative-fandango-rotten-tomatoes-golfnow-full-swing-) · Summer 2027 | North Hollywood, CA, us | $19/hour | 2026-11-04 | no visa sponsorship |
-| Versant | [Versant Summer Internships: CNBC Production & Editorial Internships](https://jobs.smartrecruiters.com/Versant3/744000155081159-versant-summer-internships-cnbc-production-editorial-internships) · Summer 2027 | Englewood Cliffs, NJ, us | $19/hour | 2026-11-04 | no visa sponsorship |
-| Versant | [Versant Summer Internships: CNBC Content, Events & Marketing](https://jobs.smartrecruiters.com/Versant3/744000155080720-versant-summer-internships-cnbc-content-events-marketing) · Summer 2027 | Englewood Cliffs, NJ, us | $19/hour | 2026-11-04 | no visa sponsorship |
 | Advanced Space | [2026-2027 Technical Growth and Capture Intern/Co-op](https://job-boards.greenhouse.io/advancedspace/jobs/4444656009) | Westminster, CO | $21 to $27/hour | 2026-11-04 | US citizens/persons only |
 | Our National Conversation | [Content Creator Intern](https://jobs.smartrecruiters.com/OurNationalConversation/744000154838379-content-creator-intern) | Los Angeles, CA, us (remote) |  | 2026-11-04 |  |
 | AMOREPACIFIC US, INC | [Sulwhasoo Trade Marketing Intern](https://job-boards.greenhouse.io/amorepacificusinc/jobs/4444597009) | New York City (Hybrid) | $18 to $21/hour | 2026-11-04 |  |
 | Cottingham & Butler | [2027 Summer Sales Internship](https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/5447645008?gh_jid=5447645008) · Summer 2027 | Dallas, Texas, United States |  | 2026-11-04 |  |
-| NinjaHoldings | [Content Marketing Intern](https://ninjaholdings.breezy.hr/p/73dd6d17563b-content-marketing-intern) | Chicago, IL |  | 2026-11-04 |  |
 | Pickle | [Comms & Content Intern](https://jobs.ashbyhq.com/shoponpickle/992d0fe9-4616-4620-a0f0-2a0468861008) | New York City |  | 2026-11-04 |  |
 | Arc Boat Company | [Brand Marketing Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5446659008) | Torrance, CA | $32/hour | 2026-11-04 |  |
 | Democratic National Committee | [Spring 2027 DNC Social Media Internship](https://ats.rippling.com/democratic-national-committee/jobs/763743a1-c28a-4f13-b17d-999b1e3b952d) · Spring 2027 | Washington, DC |  | 2026-11-04 |  |
-| Versant | [Versant Summer Internships: CNBC Production & Editorial Internships](https://jobs.smartrecruiters.com/Versant3/744000154167432-versant-summer-internships-cnbc-production-editorial-internships) · Summer 2027 | Washington, DC, us | $19/hour | 2026-11-04 | no visa sponsorship |
-| Versant | [Versant Summer Internships: MS NOW News & Content Production](https://jobs.smartrecruiters.com/Versant3/744000154167659-versant-summer-internships-ms-now-news-content-production) · Summer 2027 | Washington, DC, us | $19/hour | 2026-11-04 | no visa sponsorship |
-| Versant | [Versant Summer Internships: Marketing, Sales, Customer & Creative (Fandango, Rotten Tomatoes, GolfNow, Full Sw](https://jobs.smartrecruiters.com/Versant3/744000154165458-versant-summer-internships-marketing-sales-customer-creative-fandango-rotten-tomatoes-golfnow-full-swing-) · Summer 2027 | Carlsbad, CA, us | $19/hour | 2026-11-04 | no visa sponsorship |
-| Versant | [Versant Summer Internships: Marketing, Sales, Customer & Creative (Fandango, Rotten Tomatoes, GolfNow, Full Sw](https://jobs.smartrecruiters.com/Versant3/744000154162837-versant-summer-internships-marketing-sales-customer-creative-fandango-rotten-tomatoes-golfnow-full-swing-) · Summer 2027 | Orlando, FL, us | $19/hour | 2026-11-04 | no visa sponsorship |
-| Versant | [Versant Summer Internships: Entertainment Content & Acquisitions](https://jobs.smartrecruiters.com/Versant3/744000154162439-versant-summer-internships-entertainment-content-acquisitions) · Summer 2027 | New York, NY, us | $19/hour | 2026-11-04 | no visa sponsorship |
 | Alphabe Insight Inc | [Public Relations Intern](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000153848301-public-relations-intern) | Las Vegas, NV, us | $40,000 to $45,000 | 2026-11-04 |  |
 | Hipeople Official | [GTM/ sales intern](https://jobs.ashbyhq.com/hipeople-official/0e2c94b0-0edd-4739-81a6-bfc1c5f7147b) | New York City |  | 2026-11-04 |  |
 | KnowBe4 | [Sales Development Representative Intern (Hybrid)](https://job-boards.greenhouse.io/knowbe4/jobs/8870388002) | Arlington, Virginia (hybrid) |  | 2026-11-04 |  |
 | KnowBe4 | [Sales Development Representative Intern (Hybrid)](https://job-boards.greenhouse.io/knowbe4/jobs/8870350002) | Clearwater, Florida (hybrid) |  | 2026-11-04 |  |
 | The Quality Group | [Intern Product Line Management (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4998384101) | Deutschland, remote |  | 2026-11-04 |  |
 | The Quality Group GmbH | [Intern Product Line Management (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4998383101) | Hamburg (hybrid) |  | 2026-11-04 |  |
-| Our National Conversation | [Conservative Writer Intern](https://jobs.smartrecruiters.com/OurNationalConversation/744000153595599-conservative-writer-intern) | Los Angeles, CA, us (remote) |  | 2026-11-04 |  |
 | Wabtec | [Corporate Communications Intern](https://jobs.smartrecruiters.com/Wabtec/3743990015888566-corporate-communications-intern) · Fall 2027 | Pittsburgh, PA, us | $16 to $27/hour | 2026-11-04 |  |
 | Momentum Life Sciences | [Intern](https://job-boards.greenhouse.io/momentumlifesciences/jobs/4430655009) | Remote |  | 2026-11-04 |  |
 | RF-SMART | [Digital Marketing Intern - Spring 2027](https://job-boards.greenhouse.io/rfsmart/jobs/5441069008) · Spring 2027 | Jacksonville, Florida, United States | $20/hour | 2026-11-04 | no visa sponsorship |
@@ -638,13 +636,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TEGNA Inc. | [2027 Summer News Intern / Multiple Locations](https://boards.greenhouse.io/tegnainc/jobs/5249414007?gh_jid=5249414007) · Summer 2027 | Any TEGNA Station Location ; Tysons, Virginia, United States | $15 to $21.30/hour | 2026-11-04 |  |
 | WongDoody | [Intern Account Manager - for dm-drogerie markt](https://job-boards.greenhouse.io/wongdoody/jobs/7680386003) | Stuttgart, DE |  | 2026-11-04 |  |
 | Pencor Services | [Social Media Internship](https://pencor.bamboohr.com/careers/1098) | Lehighton, Pennsylvania, United States |  | 2026-11-04 |  |
-| Pilot Company | [Program Intern, Internal Communications](https://jobs.smartrecruiters.com/PilotCompany/744000151651199-program-intern-internal-communications) | Knoxville, TN, us |  | 2026-11-04 |  |
 | Pilot Company | [Program Intern, Salesforce - SC Fuels](https://jobs.smartrecruiters.com/PilotCompany/744000151650014-program-intern-salesforce-sc-fuels) | Orange, CA, us | $18.50 to $29.50/hour | 2026-11-04 |  |
 | The Information | [2027 Summer Editorial Intern](https://ats.rippling.com/theinformation-jobs/jobs/92609155-dbdf-45b0-a065-7fa85ce9757c) · Summer 2027 | New York, NY |  | 2026-11-04 |  |
 | Clinton Foundation | [2027 Spring Communications Intern (Onsite)](https://www.clintonfoundation.org/careers/apply/?gh_jid=8004013003) · Spring 2027 | Little Rock, Arkansas |  | 2026-11-04 |  |
 | Clinton Foundation | [2027 Spring Philanthropy and Partnerships Intern](https://www.clintonfoundation.org/careers/apply/?gh_jid=8004015003) · Spring 2027 | Little Rock, Arkansas |  | 2026-11-04 |  |
 | Oneapp | [Partnerships Intern](https://jobs.ashbyhq.com/oneapp/a6db6bbb-bc8d-43d2-9dd6-1047a9d5aec5) · Fall 2027 | New York Office |  | 2026-11-04 | no visa sponsorship |
-| Shorr Packaging | [Marketing Intern](https://jobs.gem.com/shorr-careers/am9icG9zdDoZZ9VBnfxvyDPJWhz5C6Zf) | Corporate Headquarters/Aurora, IL |  | 2026-11-04 |  |
 | Avery Dennison | [Sales Intern - Summer 2027](https://jobs.smartrecruiters.com/AveryDennison/744000150153603-sales-intern-summer-2027) · Summer 2027 | Mentor, OH, us | $22 to $27/hour | 2026-11-04 |  |
 | Relay | [Sales Development Intern (Summer 2027)](https://job-boards.greenhouse.io/relaypro/jobs/8205005) · Summer 2027 | Raleigh, NC |  | 2026-11-04 |  |
 | SharkNinja | [Marketing, Creative & eCommerce Co-op Spring Opportunities (Jan-Jun 2027)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713885006) · Spring | Needham, MA, United States (hybrid) |  | 2026-11-04 |  |
@@ -658,7 +654,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ibotta | [D2C Marketing Intern](https://jobs.ashbyhq.com/ibotta/f543fdd4-7b73-4f57-a6d3-32990967c625) · Summer 2027 | Hybrid - Denver |  | 2026-11-04 |  |
 | Pilot Company | [Program Intern, Sales](https://jobs.smartrecruiters.com/PilotCompany/744000149040859-program-intern-sales) | Dallas, TX, us |  | 2026-11-04 |  |
 | Veeam Software | [Campaign Marketing Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955286101) · Summer 2027 | Remote, Georgia, USA | $20 to $25/hour | 2026-11-04 |  |
-| Veeam Software | [CoE Program & Content Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4964357101) · Summer 2027 | Remote, Georgia, USA | $20 to $25/hour | 2026-11-04 |  |
 | Veeam Software | [Customer Success Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4967009101) · Summer 2027 | Alpharetta, GA, USA | $20 to $25/hour | 2026-11-04 |  |
 | A Plus Garage Doors - Utah | [Garage Door Sales/Technician Apprentice](https://job-boards.greenhouse.io/aputah/jobs/4402162009) | St George, UT | $20/hour | 2026-11-04 |  |
 | Guild Garage Group | [Garage Door Sales/Technician Apprentice](https://job-boards.greenhouse.io/guildgaragegroup/jobs/4402163009) | A Plus - St George, UT | $20/hour | 2026-11-04 |  |
@@ -676,7 +671,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Athena Global Advisors, LLC | [Summer 2027 Intern, Events & Experiences](https://ats.rippling.com/athena-careers/jobs/ed1cdf80-5a22-4f5d-848c-901b92eefff8) · Summer 2027 | Philadelphia, PA | $20/hour | 2026-11-04 |  |
 | Athena Global Advisors, LLC | [Summer 2027 Intern, Insights & Optimization](https://ats.rippling.com/athena-careers/jobs/ac748bef-16b0-4aef-8ab7-3e82734afe51) · Summer 2027 | Philadelphia, PA | $20/hour | 2026-11-04 |  |
 | Athena Global Advisors, LLC | [Summer 2027 Intern, Marketing & Communications](https://ats.rippling.com/athena-careers/jobs/70502f57-b19a-48aa-894b-8f2b5e5d7cf4) · Summer 2027 | Philadelphia, PA | $20/hour | 2026-11-04 |  |
-| Loram | [Technical Communications Intern](https://jobs.smartrecruiters.com/Loram1/3743990015081545-technical-communications-intern) | Hamel, MN, us |  | 2026-11-04 |  |
 | AKS Internships | [2027 AKS Marketing Internship Program](https://job-boards.greenhouse.io/aks-internships/jobs/4395456009) | Tualatin, Oregon, United States; Vancouver, Washington, United States | $19 to $25/hour | 2026-11-04 |  |
 | Symphony Communication Services | [Intern, Customer Success](https://symphony.com/company/apply?gh_jid=8125850) | New York | $30/hour | 2026-11-04 |  |
 | Dynamic Catholic | [Internship - Email Marketing](https://jobs.lever.co/dynamiccatholic/09f21913-6fc3-461f-83d2-0e931f7e2495) | Erlanger, Kentucky |  | 2026-11-04 |  |
@@ -697,7 +691,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Arcade Ai | [Social Media & Content Marketing Intern](https://jobs.ashbyhq.com/arcade-ai/fc100248-39eb-49dc-bf46-def1e991542d) | Presidio, CA |  | 2026-11-04 |  |
 | Rust Automation & Controls Inc. | [Inside Sales Internship - Summer 2027](https://ats.rippling.com/rust-automation-controls/jobs/6891254a-91e8-4286-b2c4-ddf92b401349) · Summer 2027 | West Jordan, UT |  | 2026-11-04 |  |
 | Expeditors | [Sales internship](https://jobs.smartrecruiters.com/Expeditors/744000144890329-sales-internship) | Scottsdale, AZ, us |  | 2026-11-04 |  |
-| March Capital | [Platform & Marketing Intern](https://marchcapital.bamboohr.com/careers/43) | Santa Monica, California, United States |  | 2026-11-04 |  |
 | Empowerly | [Marketing Intern (Student Ambassador)](https://ats.rippling.com/empowerly/jobs/b12ed479-c193-4e10-8e54-5607a448929b) | San Francisco, CA | $20/hour | 2026-11-04 |  |
 | The Quality Group | [Working Student Brand Marketing (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4955786101) | Hamburg (hybrid) |  | 2026-11-04 |  |
 | The Quality Group GmbH | [Working Student Brand Marketing (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4955053101) | Hamburg (hybrid) |  | 2026-11-04 |  |
@@ -737,7 +730,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | DEFENSEWERX | [Marketing, Communication, and Events Intern](https://defensewerx.bamboohr.com/careers/129) | Vicksburg, Mississippi, United States |  | 2026-11-04 | clearance |
 | Mesh | [Digital Marketing Intern](https://whenwemesh.bamboohr.com/careers/26) | Baton Rouge, Louisiana, United States |  | 2026-11-04 |  |
 | The Wonderful Company | [Wonderful Scholar Summer Internship, Market Development](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000113782126-wonderful-scholar-summer-internship-market-development) · Summer | Los Angeles, CA, us | $19 to $20/hour | 2026-11-04 |  |
-| Summit Electric Supply | [Summer Internship - Sales](https://jobs.smartrecruiters.com/SummitElectricSupply/744000110430935-summer-internship-sales-) · Summer | Irving, TX, us |  | 2026-11-04 |  |
 | Bestomer | [Intern, Content](https://jobs.gem.com/bestomer/am9icG9zdDpRBL3If3dUeALOWlGyGB5e) | Los Angeles, SF |  | 2026-11-04 |  |
 | La Casita Center | [Communications Intern - Creative Content](https://lacasitacenter.bamboohr.com/careers/58) | Louisville, Kentucky, United States |  | 2026-11-04 |  |
 | fountainplatform.com | [MBA Growth Marketing and Community Lead (Semester Internship)](https://jobs.gem.com/fountainplatform-com/am9icG9zdDp8iQIeUaz6lAvOZpYsjjMZ) | Remote |  | 2026-11-04 |  |
@@ -756,3 +748,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Everlight Solar | [Athletic Leadership and Sales Internship](https://everlight-solar.breezy.hr/p/b476907c8765-athletic-leadership-and-sales-internship) | St. Paul, MN | $60,000 to $150,000 | 2026-11-04 |  |
 | Everlight Solar | [Business-Value Creation and Sales Internship](https://everlight-solar.breezy.hr/p/b3ec20d50ab9-business-value-creation-and-sales-internship) | Minneapolis, MN | $60,000 to $150,000 | 2026-11-04 |  |
 | Everlight Solar | [Business-Value Creation and Sales Internship](https://everlight-solar.breezy.hr/p/aff04d10917a-business-value-creation-and-sales-internship) | St. Paul, MN | $60,000 to $150,000 | 2026-11-04 |  |
+| Everlight Solar | [EntrepreneurX and Sales Internship](https://everlight-solar.breezy.hr/p/32751fc0fb4f-entrepreneurx-and-sales-internship) | Minneapolis, MN | $60,000 to $150,000 | 2026-11-04 |  |
+| Everlight Solar | [EntrepreneurX and Sales Internship](https://everlight-solar.breezy.hr/p/a613af2d20ef-entrepreneurx-and-sales-internship) | St. Paul, MN | $60,000 to $150,000 | 2026-11-04 |  |
+| Lucid Software | [Customer Experience Intern - Part-Time](https://job-boards.greenhouse.io/lucidsoftware/jobs/5633294004) | Raleigh, NC (hybrid) |  | 2026-11-04 |  |
+| ProSidian Consulting, LLC | [Communications Intern / Communications [COC0071268]](https://jobs.smartrecruiters.com/prosidianconsulting/744000077421635-communications-intern-communications-coc0071268-) | Charlotte, NC, us |  | 2026-11-04 |  |
+| ALKU | [Sales Internship Program](https://boards.greenhouse.io/alku/jobs/6674287?gh_jid=6674287) | Herndon, VA |  | 2026-11-04 | no visa sponsorship |
+| theburntapp.com | [Video & Content Intern – Design, Storytelling, and Vibe Marketing](https://jobs.gem.com/theburntapp-com/am9icG9zdDrk_wOCODZKxt1ZW8u0A-Xi) · Summer 2025 | Burnt HQ |  | 2026-11-04 |  |
+| ALKU | [Sales Internship Program](https://boards.greenhouse.io/alku/jobs/6674267?gh_jid=6674267) | Franklin, TN |  | 2026-11-04 | no visa sponsorship |
+| MBJ Network | [Video Editor - Intern](https://jobs.smartrecruiters.com/MBJNetwork/744000063662017-video-editor-intern) | Lombard, IL, us |  | 2026-11-04 |  |

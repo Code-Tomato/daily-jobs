@@ -1,11 +1,146 @@
 # New grad and entry level: Skilled trades, service and retail
 
-5,085 open, newest first (by the date the scraper first saw them), updated 2026-11-19. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+5,003 open, newest first (by the date the scraper first saw them), updated 2026-11-20. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AEP | [Line Mechanic C - A](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Corpus-Christi-TX/Line-Mechanic-C---A_R20965) | Corpus Christi, TX | $34.96 to $56.52/hour | 2026-11-20 |  |
+| Ascension | [Telemetry Technician](https://jobs.ascension.org/us/en/job/32970) | Indianapolis, IN, US |  | 2026-11-20 |  |
+| Better Homes and Gardens Real Estate Advantage Realty | [Real Estate Data Entry Operator](https://jobs.smartrecruiters.com/BetterHomesAndGardensRealEstateAdvantageRealty/744000162690119-real-estate-data-entry-operator) | San Antonio, TX, us | $27.81 to $29.97/hour | 2026-11-20 |  |
+| Carvana | [Security Guard - ADESA Pittsburgh](https://www.carvana.com/careers/apply?gh_jid=8404959) | New Stanton, PA | $17/hour | 2026-11-20 | no visa sponsorship |
+| City of New York | [Natural Areas Crew Member](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016990656-natural-areas-crew-member) | Rego Park, NY, us | $107.50/hour | 2026-11-20 |  |
+| City of New York | [Computer Service Technician (Part-Time)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016990436-computer-service-technician-part-time-) | New York City, NY, us |  | 2026-11-20 |  |
+| Grant Thornton | [IT Field Desktop Technician](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116376) | Dallas, TX, United States (hybrid) | $60,000 to $80,000 | 2026-11-20 |  |
+| Lampire Biological Laboratories, Inc. | [Abattoir Technician](https://lampire.bamboohr.com/careers/98) | Coopersburg, Pennsylvania, United States |  | 2026-11-20 |  |
+| Monarch Communities | [Cook- (Part Time)](https://jobs.smartrecruiters.com/MonarchCommunities/744000162705852-cook-part-time-) | Beverly, MA, us | $26/hour | 2026-11-20 |  |
+| Waste Connections | [Local CDL Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6032-Knoxville-MainYd2400Chpmn/Local-CDL-Driver_R-105577) | 6032-Knoxville MainYd2400Chpmn | $27/hour | 2026-11-20 |  |
+| Waste Connections | [CDL Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6501-Georgia-Hauling/CDL-Driver_R-105255) | 6501-Georgia Hauling | $26.50/hour | 2026-11-20 |  |
+| Waste Connections | [Local Truck Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/5019-Stutzman-Hauling/Local-Truck-Driver_R-105876-1) | 5019-Stutzman Hauling | $22.50/hour | 2026-11-20 |  |
+| Airbus | [Warehouse Operator](https://ag.wd3.myworkdayjobs.com/Airbus/job/Miami-Area-FL/Warehouse-Operator_JR10459337-1) | Miami Area, FL |  | 2026-11-20 | no visa sponsorship |
+| Ascension | [Shuttle Driver](https://jobs.ascension.org/us/en/job/32909) | Flint, MI, US |  | 2026-11-20 |  |
+| Aspen Skiing Company | [Food Runner - Limelight Mammoth](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000162570024-food-runner-limelight-mammoth-) | Mammoth Lakes, CA, us |  | 2026-11-20 |  |
+| Atmos Energy | [Service Technician 1](https://atmosenergy.wd108.myworkdayjobs.com/External_Career_Site/job/Texas---Garland/Service-Technician-1_JR14494) | Texas - Garland |  | 2026-11-20 |  |
+| Atmos Energy | [Service Technician 1](https://atmosenergy.wd108.myworkdayjobs.com/External_Career_Site/job/Texas---Carrollton/Service-Technician-1_JR14484) | Texas - Carrollton |  | 2026-11-20 |  |
+| Baylor Scott & White Health | [Histotechnician II PRN](https://jobs.bswhealth.com/us/en/job/26016510) | Fort Worth, Texas, United States |  | 2026-11-20 |  |
+| BD | [Assembler 2](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-TX---El-Paso---Northwestern-Dr/Assembler-2_R-557645-1) | USA TX - El Paso - Northwestern Dr. |  | 2026-11-20 |  |
+| Beta Technologies | [Facilities Team Member](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4515243009) | South Burlington, Vermont, United States | $26 to $30/hour | 2026-11-20 |  |
+| BNSF Railway | [Conductor Trainee-Tulsa, OK](https://jobs.bnsf.com/us/en/job/96165) | Tulsa, OK, United States | $259.65/hour | 2026-11-20 |  |
+| Bone Dry Roofing | [Repair Technician](https://jobs.lever.co/bonedry/8119fc27-160a-4c6f-8f2c-87746fae2683) | Dayton, Ohio | $36,000 to $100,000 | 2026-11-20 |  |
+| Bosch | [Multi Machine Operator](https://jobs.smartrecruiters.com/BoschGroup/744000162519630-multi-machine-operator) | Pineville, NC, us |  | 2026-11-20 |  |
+| Bosch | [Multi Machine Operator](https://jobs.smartrecruiters.com/BoschGroup/744000162520829-multi-machine-operator) | Pineville, NC, us |  | 2026-11-20 |  |
+| Caterpillar | [Early Career Welder Trainee](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/South-Milwaukee-Wisconsin/Early-Career-Welder-Trainee_R0000406371) | South Milwaukee, Wisconsin | $29.30 to $33.35/hour | 2026-11-20 |  |
+| Caterpillar | [CNC Gear Machinist - 2nd Shift](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/South-Milwaukee-Wisconsin/CNC-Gear-Machinist---2nd-Shift_R0000406366) | South Milwaukee, Wisconsin | $32.17 to $40.22/hour | 2026-11-20 |  |
+| Caterpillar | [Shop Technician I (1st Shift)](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/West-Fargo-North-Dakota/Shop-Technician-I--1st-Shift-_R0000386696) | West Fargo, North Dakota | $20.53 to $26.13/hour | 2026-11-20 | no visa sponsorship |
+| Clearsite Industrial Services | [Hydrovac Operator](https://apply.workable.com/j/1C6AC5C193) | Richmond, Virginia, United States | $29 to $39/hour | 2026-11-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [Cook](https://www.commonspirit.careers/job/glendale/cook/35300/103533638784) | GLENDALE, CA |  | 2026-11-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [Cook](https://www.commonspirit.careers/job/hot-springs/cook/35300/103524049024) | HOT SPRINGS, AR |  | 2026-11-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [Cook](https://www.commonspirit.careers/job/houston/cook/35300/103524028576) | HOUSTON, TX |  | 2026-11-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [Cook](https://www.commonspirit.careers/job/houston/cook/35300/103529094864) | HOUSTON, TX |  | 2026-11-20 |  |
+| CommonSpirit Health (St. Luke's Health) | [Operating Room Technician](https://www.commonspirit.careers/job/sacramento/operating-room-technician/35300/103523794320) | SACRAMENTO, CA |  | 2026-11-20 |  |
+| Continental | [BestDrive Retread Technician](https://jobs.smartrecruiters.com/Continental/744000162599174-bestdrive-retread-technician) | Forest Park, GA, us |  | 2026-11-20 | no visa sponsorship |
+| Continental | [BestDrive Service Technician](https://jobs.smartrecruiters.com/Continental/744000162596970-bestdrive-service-technician) | Marietta, GA, us |  | 2026-11-20 | no visa sponsorship |
+| Continental | [BestDrive Retread Technician](https://jobs.smartrecruiters.com/Continental/744000162599459-bestdrive-retread-technician) | Forest Park, GA, us |  | 2026-11-20 | no visa sponsorship |
+| Continental | [BestDrive Service Technician](https://jobs.smartrecruiters.com/Continental/744000162598929-bestdrive-service-technician) | Charlotte, NC, us |  | 2026-11-20 | no visa sponsorship |
+| Continental | [BestDrive Service Technician](https://jobs.smartrecruiters.com/Continental/744000162598809-bestdrive-service-technician) | Marietta, GA, us |  | 2026-11-20 | no visa sponsorship |
+| Continental | [BestDrive Service Technician](https://jobs.smartrecruiters.com/Continental/744000162596230-bestdrive-service-technician) | Forest Park, GA, us |  | 2026-11-20 | no visa sponsorship |
+| Continental | [BestDrive Service Technician (EG)](https://jobs.smartrecruiters.com/Continental/744000162596279-bestdrive-service-technician-eg-) | Valdosta, GA, us |  | 2026-11-20 | no visa sponsorship |
+| Continental | [BestDrive Service Technician](https://jobs.smartrecruiters.com/Continental/744000162595199-bestdrive-service-technician) | Duncan, SC, us |  | 2026-11-20 | no visa sponsorship |
+| Curaleaf | [Production Technician](https://job-boards.greenhouse.io/curaleaf/jobs/8952806002) | Fargo, ND | $18/hour | 2026-11-20 |  |
+| Danaher | [Process Maintenance Technician Shift 2 (Monday-Friday 2:00pm - 10:30pm)](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Process-Maintenance-Technician-Shift-2--Monday-Friday-2-00pm---10-30pm-_R1319997) | Logan, Utah, United States | $27 to $34/hour | 2026-11-20 |  |
+| DH Pace | [Automatic Door Technician Trainee](https://job-boards.greenhouse.io/dhpace/jobs/5489555008) | Lake Charles LA |  | 2026-11-20 |  |
+| Dynamic Eco Home | [Solar Service Technician](https://ats.rippling.com/dynamic-slr/jobs/5d8bd3fa-d4cf-4e94-92c4-b70476210e58) | Richardson, TX | $25 to $35/hour | 2026-11-20 |  |
+| Eataly North America | [Seasonal Prep Cook - Eataly Downtown](https://jobs.smartrecruiters.com/Eataly/744000162550599-seasonal-prep-cook-eataly-downtown) | New York, NY, us | $17 to $19/hour | 2026-11-20 |  |
+| Emerson (NI) | [Machine Operator II](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014126) | Pearland, TX, United States |  | 2026-11-20 | no visa sponsorship |
+| EQT Corporation | [Production Operator I/II/III/IV](https://job-boards.greenhouse.io/eqtcorporation/jobs/5490067008) | Mannington, WV |  | 2026-11-20 |  |
+| Fiserv | [Machine Operator](https://careers.fiserv.com/us/en/job/R-10404637) | Chesapeake, Virginia, United States of America | $18/hour | 2026-11-20 | no visa sponsorship |
+| Formlabs | [Material Handler 2nd Shift](https://careers.formlabs.com/job/8401884/apply/?gh_jid=8401884) | Perrysburg, OH |  | 2026-11-20 |  |
+| Freedom Magnolia | [Housekeeping/Transportation](https://freedommagnolia.bamboohr.com/careers/1052) | Magnolia, Mississippi, United States |  | 2026-11-20 |  |
+| H-E-B | [EM Field Technician I- North Houston/ Woodlands, TX](https://careers.heb.com/careers-home/jobs/236188) | Houston, Texas |  | 2026-11-20 |  |
+| Harvard University | [Custodian A](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016980536-custodian-a) | Cambridge, MA, us | $28.75/hour | 2026-11-20 | no visa sponsorship |
+| Harvard University | [Custodian A](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016979607-custodian-a) | Cambridge, MA, us | $28.75/hour | 2026-11-20 | no visa sponsorship |
+| Harvard University | [Custodian A](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016979306-custodian-a) | Cambridge, MA, us | $28.75/hour | 2026-11-20 | no visa sponsorship |
+| Houston Methodist | [Cashier](https://houstonmethodist.wd12.myworkdayjobs.com/GTI/job/HM-Texas-Medical-Center---Dunn-Tower/Cashier_JR-17039-1) | HM Texas Medical Center - Dunn Tower |  | 2026-11-20 |  |
+| Houston Methodist | [Cardiology Diagnostic Technician I](https://houstonmethodist.wd12.myworkdayjobs.com/GTI/job/HM-Texas-Medical-Center---Fondren-Tower/Cardiology-Diagnostic-Technician-I_JR-18358-2) | HM Texas Medical Center - Fondren Tower |  | 2026-11-20 |  |
+| Hut 8 | [Data Center Technician I](https://job-boards.greenhouse.io/hut8/jobs/5489854008) | Odessa, TX |  | 2026-11-20 |  |
+| Imagine Exhibitions Inc | [Team Member: Titanic Exhibition](https://ats.rippling.com/theimagineteam/jobs/c081e133-a22f-426b-880c-e09746a953cd) | Miami, FL |  | 2026-11-20 |  |
+| Intuitive Surgical | [Assembly Technician 1](https://jobs.smartrecruiters.com/Intuitive/744000162429259-assembly-technician-1) | Peachtree Corners, GA, us |  | 2026-11-20 |  |
+| Johnson & Johnson | [Quality Control Technician I](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Quality-Control-Technician-I_R-099036) | Jacksonville, Florida, United States of America |  | 2026-11-20 |  |
+| Johnson & Johnson | [Machine Operator I](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Machine-Operator-I_R-110570-1) | Jacksonville, Florida, United States of America |  | 2026-11-20 |  |
+| Kinder Morgan | [Maintenance Manager Pier IX](https://careers.kindermorgan.com/careers-home/jobs/7455) | NEWPORT NEWS, Virginia | $132,000 to $160,000 | 2026-11-20 |  |
+| Kodiak Gas Services | [Field Service Technician, Entry](https://kodiakgas.wd12.myworkdayjobs.com/KodiakGasCareers/job/NM---Carlsbad/Field-Service-Technician--Entry_JR3942) | NM - Carlsbad |  | 2026-11-20 |  |
+| Loma Linda University Health | [Diet Technician 1 (CH, PT)](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18198) | United States |  | 2026-11-20 |  |
+| Nordstrom | [Maintenance Tech 1 - The Mall at Short Hills](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Short-Hills-NJ/Maintenance-Tech-1---The-Mall-at-Short-Hills_R-899568) | Short Hills, NJ | $19.25 to $33/hour | 2026-11-20 |  |
+| Northwestern Memorial Healthcare | [EVS Technician-Part Time Evenings](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162606779-evs-technician-part-time-evenings) | DeKalb, IL, us |  | 2026-11-20 |  |
+| Oceaneering | [Jr. Facilities Technician](https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/12000) | Morgan City, LA, United States |  | 2026-11-20 |  |
+| PS Logistics | [Driver Manager](https://jobs.smartrecruiters.com/PSLogistics/744000162602779-driver-manager) | Nashville, TN, us |  | 2026-11-20 |  |
+| Quadient | [Field Service Technician 1](https://jobs.smartrecruiters.com/Quadient1/744000162562884-field-service-technician-1) | Seattle, WA, us (hybrid) |  | 2026-11-20 |  |
+| Relativity Space | [TPS Technician I, Second Shift](https://boards.greenhouse.io/relativity/jobs/8952265002?gh_jid=8952265002) | Long Beach, California, United States | $22.80 to $34.20/hour | 2026-11-20 |  |
+| Renaissance Repair and Supply | [Test Technician I](https://renrns.bamboohr.com/careers/296) | Flower Mound, Texas, United States |  | 2026-11-20 |  |
+| Republic Services | [Landfill Laborer](https://jobs.republicservices.com/us/en/job/R-188856) | Houston, Texas, United States of America |  | 2026-11-20 |  |
+| Republic Services | [Driver Trainee](https://jobs.republicservices.com/us/en/job/R-188434) | Indianapolis, Indiana, United States of America |  | 2026-11-20 |  |
+| Republic Services | [Maintenance Shop Clerk](https://jobs.republicservices.com/us/en/job/R-187351) | Greenfield, Indiana, United States of America |  | 2026-11-20 |  |
+| Republic Services | [Heavy Equipment Technician](https://jobs.republicservices.com/us/en/job/R-188179) | Church Hill, Tennessee, United States of America |  | 2026-11-20 |  |
+| Republic Services | [Driver Trainee](https://jobs.republicservices.com/us/en/job/R-187499) | Cincinnati, Ohio, United States of America | $18.75 to $20.62/hour | 2026-11-20 |  |
+| Republic Services | [OnSite Environmental Technician I-3](https://jobs.republicservices.com/us/en/job/R-188892) | Lansing, Michigan, United States of America |  | 2026-11-20 |  |
+| Republic Services | [Chemical Processing Operator I-2](https://jobs.republicservices.com/us/en/job/R-180444) | Detroit, Michigan, United States of America |  | 2026-11-20 |  |
+| Republic Services | [Standby Vessel Operator I](https://jobs.republicservices.com/us/en/job/R-188872) | Seattle, Washington, United States of America | $24.45 to $33.60/hour | 2026-11-20 |  |
+| RR Donnelley | [Forklift Driver - Day Shift](https://jobs.smartrecruiters.com/RRDonnelley/744000162591659-forklift-driver-day-shift) | Milwaukee, WI, us | $17/hour | 2026-11-20 |  |
+| Seneca Holdings | [Tier 1 Data Center Technician (Active Secret Clearance Required)](https://senecaholdings.com/jobs/?gh_jid=4756410005) | Lakewood, Colorado |  | 2026-11-20 |  |
+| SixGen, Inc. | [Jr. Threat Hunter/Purple Team Operator-TS/SCI](https://job-boards.greenhouse.io/sixgeninc/jobs/5489596008) | Remote |  | 2026-11-20 | clearance |
+| SLB | [Local HazMat CDL Driver](https://careers.slb.com/jobdescription.aspx?id=WDR00137441) | Williston, United States |  | 2026-11-20 | no visa sponsorship |
+| Smiths Group | [Field Service Technician I - OMA](https://jobs.smartrecruiters.com/SmithsGroup2/744000162608980-field-service-technician-i-oma) | Omaha, NE, us | $64,680 to $87,560 | 2026-11-20 |  |
+| Smiths Group | [Field Service Technician I - DEN](https://jobs.smartrecruiters.com/SmithsGroup2/744000162552320-field-service-technician-i-den) | Denver, CO, us | $67,760 to $91,630 | 2026-11-20 |  |
+| TDX | [Control Systems Technician I (Entry-level)](https://tdxcorp.bamboohr.com/careers/1732) | Swedesboro, New Jersey, United States |  | 2026-11-20 | clearance |
+| The Mather in Tysons | [Barback](https://job-boards.greenhouse.io/matherintysons/jobs/5302414007) | The Mather (Tysons, VA) | $17.80 to $24.93/hour | 2026-11-20 |  |
+| The Scion Group | [Maintenance Technician](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8954630002) | Capstone Cottages of Lubbock, Lubbock, Texas, United States |  | 2026-11-20 | no visa sponsorship |
+| Veolia Environnement SA | [Laborer Sludge Loading](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162535750--laborer-sludge-loading) | East Rockaway, NY, us | $20.65/hour | 2026-11-20 |  |
+| Verizon | [Spec-Retail](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/4421-Six-Forks-RD-Raleigh-North-Carolina/Spec-Retail_R-1104189) | 4421 Six Forks RD, Raleigh, North Carolina | $16 to $21/hour | 2026-11-20 |  |
+| Waste Connections | [Driver Helper](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/2453-Alaska-Nome/Driver-Helper_R-105819) | 2453-Alaska Nome | $25 to $30/hour | 2026-11-20 |  |
+| Waste Connections | [Roll Off Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/5182-Waxahachie/Roll-Off-Driver_R-105794) | 5182-Waxahachie | $24 to $27/hour | 2026-11-20 |  |
+| Waste Connections | [Heavy Equipment Mechanic](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/2311-Pahrump-Hauling/Heavy-Equipment-Mechanic_R-105884) | 2311-Pahrump Hauling | $29 to $30/hour | 2026-11-20 |  |
+| Waste Connections | [CDL Driver- Brooklyn NY](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6260B-NYC-Hauling-Brooklyn/Roll-Off-Driver--Brooklyn-NY_R-103680) | 6260B-NYC Hauling Brooklyn | $30.77 to $34.20/hour | 2026-11-20 |  |
+| Waste Connections | [CDL Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6051-Mid-State-Recycling-AmAve/CDL-Driver_R-105821) | 6051-Mid State Recycling AmAve |  | 2026-11-20 |  |
+| Westgate Resorts | [Cashier](https://jobs.smartrecruiters.com/WestgateResorts/744000162612959-cashier) | River Ranch, FL, us |  | 2026-11-20 |  |
+| AEP | [Line Mechanic C-A](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/San-Benito-TX/Line-Mechanic-C-A_R20996) | San Benito, TX | $34.96 to $56.52/hour | 2026-11-20 |  |
+| Archrock | [Control Room Operator I - Rotator](https://edva.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10000786) | Midland, TX, United States |  | 2026-11-20 |  |
+| Bachmann Chemical and Engineering | [Material Handler - Process and Filling](https://apply.workable.com/j/32152715A5) | Torrington, Connecticut, United States | $22/hour | 2026-11-20 | no visa sponsorship |
+| BD | [Test Technician I](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Durham---Roche-Drive/Test-Technician-I_R-560654-1) | USA NC - Durham - Roche Drive |  | 2026-11-20 |  |
+| BD | [Test Technician I](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Durham---Roche-Drive/Test-Technician-I_R-560477) | USA NC - Durham - Roche Drive |  | 2026-11-20 |  |
+| Emerson (NI) | [Material Attendant](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014165) | Shakopee, MN, United States |  | 2026-11-20 |  |
+| Enbridge | [Maintenance Technician I](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Venice-LA-USA/Maintenance-Technician-I_73762-2) | Venice, LA, USA | $27 to $35/hour | 2026-11-20 |  |
+| FormFactor | [Material Handler 2](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Farmers-Branch-TX/Material-Handler-2_JR101348) | Farmers Branch, TX |  | 2026-11-20 |  |
+| Kimberly-Clark | [Production Operator](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/USA-WI-Neenah/Production-Operator_888254-2) | USA-WI-Neenah | $28.12/hour | 2026-11-20 |  |
+| Kinder Morgan | [Corrosion Technician](https://careers.kindermorgan.com/careers-home/jobs/7028) | ROME, Georgia |  | 2026-11-20 |  |
+| Lowe's | [Market Delivery Driver (Birmingham, AL)](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Birmingham-AL-Trussville-0594/Market-Delivery-Driver--Birmingham--AL-_JR-02708461) | Birmingham, AL (Trussville) 0594 |  | 2026-11-20 |  |
+| Memorial Hermann | [OR Attendant 11A-7:30P](https://jobs.memorialhermann.org/us/en/job/100186866) | Sugar Land, Texas, United States of America |  | 2026-11-20 |  |
+| MKS Instruments | [Machinist 1](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Broomfield-CO/Machinist-1_R24070) | Broomfield, CO |  | 2026-11-20 | US citizens/persons only |
+| MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Methuen-MA/Assembler-2_R24161) | Methuen, MA | $14.75 to $24.58/hour | 2026-11-20 | US citizens/persons only |
+| MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Methuen-MA/Assembler-2_R24168) | Methuen, MA | $14.75 to $24.58/hour | 2026-11-20 | US citizens/persons only |
+| MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Methuen-MA/Assembler-2_R24170) | Methuen, MA | $14.75 to $24.58/hour | 2026-11-20 | US citizens/persons only |
+| MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Methuen-MA/Assembler-2_R24163) | Methuen, MA |  | 2026-11-20 | US citizens/persons only |
+| MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Methuen-MA/Assembler-2_R24162) | Methuen, MA |  | 2026-11-20 | US citizens/persons only |
+| MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Wilmington-MA/Assembler-2_R24142) | Wilmington, MA |  | 2026-11-20 | US citizens/persons only |
+| Nordstrom | [Facilities Technician 1 - Cedar Rapids Fulfillment Center](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Cedar-Rapids-IA/Facilities-Technician-1---Cedar-Rapids-Fulfillment-Center_R-897909-1) | Cedar Rapids IA | $19.25 to $32.25/hour | 2026-11-20 |  |
+| Republic Services | [Maintenance Shop Welder](https://jobs.republicservices.com/us/en/job/R-188715) | Houston, Texas, United States of America |  | 2026-11-20 |  |
+| Republic Services | [Technician I - TSDF](https://jobs.republicservices.com/us/en/job/R-188655) | Browns Summit, North Carolina, United States of America |  | 2026-11-20 |  |
+| Republic Services | [Maintenance Shop Technician C](https://jobs.republicservices.com/us/en/job/R-188748) | Browns Summit, North Carolina, United States of America |  | 2026-11-20 |  |
+| Republic Services | [ES Field Technician I](https://jobs.republicservices.com/us/en/job/R-188750) | Lancaster, Pennsylvania, United States of America |  | 2026-11-20 |  |
+| Republic Services | [OnSite Environmental Technician I](https://jobs.republicservices.com/us/en/job/R-184154) | San Jose, California, United States of America | $22.05 to $30.30/hour | 2026-11-20 |  |
+| Republic Services | [ES Field Technician I](https://jobs.republicservices.com/us/en/job/R-188713) | Tacoma, Washington, United States of America | $20.30 to $27.87/hour | 2026-11-20 |  |
+| UTMB Health | [ER Technician I - ED Galveston (7p-7a/Full-Time)](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2604977&lang=en) | United States-Texas-Galveston |  | 2026-11-20 |  |
+| Verizon | [Spec-Retail](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/280-N-Milwaukee-ST-Boise-Idaho/Spec-Retail_R-1104076-2) | 280 N Milwaukee ST, Boise, Idaho | $16 to $21/hour | 2026-11-20 |  |
+| Waste Connections | [Local CDL Route Driver- Meridian, ID](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/2215-Ada/Local-CDL-Route-Driver--Meridian--ID_R-104792) | 2215-Ada |  | 2026-11-20 |  |
+| Waste Connections | [Local CDL Truck Driver / Home Every Night](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/3185B-Waste-Away-Transport/Local-CDL-Driver_R-104398) | 3185B-Waste Away Transport |  | 2026-11-20 |  |
+| Waste Connections | [Residential Driver - Class A Route](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/3300-Phoenix-East-Valley-Hauling/Residential-Driver---Class-A-Route_R-105478) | 3300-Phoenix East Valley Hauling | $25/hour | 2026-11-20 |  |
+| WM (Waste Management) | [Yard Driver](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2351439) | Winston-Salem, NC, United States | $16.44/hour | 2026-11-20 |  |
+| WM (Waste Management) | [Entry Level Heavy Equipment Operator](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2356099) | Homer, GA, United States | $20/hour | 2026-11-20 |  |
+| University Health (San Antonio) | [Med Surg Technician](https://careers.universityhealth.com/job/san-antonio/med-surg-technician/43277/103444009856) | San Antonio, TX |  | 2026-11-20 |  |
+| Cortland | [Maintenance Technician - Cortland Mountain Vista](https://job-boards.greenhouse.io/cortland/jobs/4462427009) | Mesa, AZ |  | 2026-11-20 |  |
+| Barnhart Crane & Rigging | [Crane & Truck Diesel Mechanic](https://barnhart-crane-rigging.breezy.hr/p/10e775748287-crane-truck-diesel-mechanic) | Memphis, TN |  | 2026-11-20 |  |
+| BGE, Inc | [Rod/Instrument Technician](https://job-boards.greenhouse.io/bgeinc/jobs/5437821008) | 10777 Westheimer Road, Suite 400, Houston, Texas 77042 |  | 2026-11-20 |  |
+| Yakutat Tlingit Tribe | [Custodian](https://ytt.bamboohr.com/careers/186) | Yakutat, Alaska, United States |  | 2026-11-20 |  |
 | AECOM | [Environmental Technician I](https://jobs.smartrecruiters.com/AECOM2/744000162512029-environmental-technician-i) | Long Beach, CA, us |  | 2026-11-19 | no visa sponsorship |
 | AECOM | [Environmental Technician I](https://jobs.smartrecruiters.com/AECOM2/744000162510120-environmental-technician-i) | Long Beach, CA, us |  | 2026-11-19 | no visa sponsorship |
 | Asbury Communities | [Cook II](https://jobs.smartrecruiters.com/AsburyCommunities/744000162530325-cook-ii) | Gaithersburg, MD, us |  | 2026-11-19 |  |
@@ -69,7 +204,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Northwestern Memorial Healthcare | [Line Cook - Food Service Cook, Full-time, Rotating](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162359604-line-cook-food-service-cook-full-time-rotating) | Chicago, IL, us | $24.70/hour | 2026-11-19 |  |
 | Northwestern Memorial Healthcare | [Housekeeping Technician - Environmental Services Casual Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162292634-housekeeping-technician-environmental-services-casual-days-) | Huntley, IL, us |  | 2026-11-19 |  |
 | OGD Overhead Garage Door | [Garage Door Technician - Commercial & Residential](https://jobs.lever.co/overhead-garage-door/3177caac-0d9d-4d7c-ac0a-e2f88b38b566) | Columbia, SC |  | 2026-11-19 |  |
-| Quadient | [Field Service Technician 1](https://jobs.smartrecruiters.com/Quadient1/744000162324499-field-service-technician-1) | Seattle, WA, us (hybrid) |  | 2026-11-19 |  |
 | Sarasota Manatee Airport Authority | [IT System Technician](https://smaa.breezy.hr/p/64ca1780a1af-it-system-technician) | Sarasota, US | $21/hour | 2026-11-19 |  |
 | Silicon Ranch Corporation | [Solar Maintenance Technician I (Georgia sites)](https://job-boards.greenhouse.io/siliconranch/jobs/5486895008) | Various GA sites (Hazlehurst, Jesup, Vidalia, Waycross, and Douglas) |  | 2026-11-19 |  |
 | Silverado | [Full Time Cook (PM)](https://job-boards.greenhouse.io/silverado/jobs/5300992007) | Alexandria, Virginia | $18 to $21/hour | 2026-11-19 |  |
@@ -78,7 +212,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Spectrum Retirement Communities, LLC | [Housekeeper](https://jobs.smartrecruiters.com/SpectrumRetirementCommunities/3743990016947286-housekeeper) | Gilbert, AZ, us |  | 2026-11-19 |  |
 | The Scion Group | [Housekeeper, Full-Time](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8950384002) | The Magnolia at Auburn, Auburn, Alabama, United States |  | 2026-11-19 | no visa sponsorship |
 | Tlingit Haida Tribal Business Corporation | [Facility Maintenance Laborer-Electric](https://job-boards.greenhouse.io/thtbc/jobs/4512322009) | Fort Carson, Colorado, United States | $9.55 to $22.36/hour | 2026-11-19 |  |
-| Traba | [Customer On-Site - Keller, TX](https://jobs.ashbyhq.com/traba/4ba7392d-4209-4fbd-93bb-b4ac3c990957) | Keller, TX |  | 2026-11-19 |  |
 | Veo - Operations | [Bicycle and Scooter Repair Technician/Driver - Hybrid](https://job-boards.greenhouse.io/operationscareers/jobs/6265072004) | Santa Monica, California, United States (hybrid) | $20/hour | 2026-11-19 |  |
 | Veolia Environnement SA | [Machine Operator I - 3rd shift](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162327370-machine-operator-i-3rd-shift) | Minnetonka, MN, us | $23/hour | 2026-11-19 |  |
 | Walmart | [Power Washing Technician](https://jobs.smartrecruiters.com/Walmart30/744000162384236-power-washing-technician) | Sandersville, GA, us |  | 2026-11-19 |  |
@@ -104,13 +237,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Princess Cruises | [Utility Beverage Attendant](https://princesscruises.pinpointhq.com/en/postings/7421a58d-3fb5-4495-949a-d18fa6433ae2) | New York, New York |  | 2026-11-19 |  |
 | Trilon Group | [Entry Level Survey Technician](https://trilongroup.pinpointhq.com/en/postings/f5a83339-e8cc-4e7f-b477-e5d83ef3d839) | Neptune, New Jersey |  | 2026-11-19 |  |
 | 1X | [CNC Operator](https://jobs.ashbyhq.com/1x/a8f00f40-aa88-4650-afe8-fb5778f79e3f) | Hayward, CA | $30/hour | 2026-11-18 |  |
-| Ascension | [Sterile Processing Technician](https://jobs.ascension.org/us/en/job/27467) | Wichita, KS, US |  | 2026-11-18 |  |
 | Ascension | [Rehabilitation Technician](https://jobs.ascension.org/us/en/job/32765) | Murfreesboro, TN, US |  | 2026-11-18 |  |
 | Ascension | [Sterile Processing Technician](https://jobs.ascension.org/us/en/job/30444) | Evansville, IN, US |  | 2026-11-18 |  |
 | Ascension | [Shuttle Driver](https://jobs.ascension.org/us/en/job/1310345) | Avilla, IN, US |  | 2026-11-18 |  |
 | Better Homes and Gardens Real Estate Advantage Realty | [Real Estate Data Entry Operator](https://jobs.smartrecruiters.com/BetterHomesAndGardensRealEstateAdvantageRealty/744000162191189-real-estate-data-entry-operator) | San Antonio, TX, us | $27.81 to $29.97/hour | 2026-11-18 |  |
 | Bosch | [Production Operator](https://jobs.smartrecruiters.com/BoschGroup/744000162295194-production-operator) | Grand Rapids, MI, us | $24.31/hour | 2026-11-18 |  |
 | County of Blair | [Maintenance Technician](https://apply.workable.com/j/C9B98D1609) | Hollidaysburg, Pennsylvania, United States | $21.38/hour | 2026-11-18 |  |
+| J Rose Logistics | [Local Class A CDL Driver / Home Daily Intermodal](https://j-rose-enterprises-llc.breezy.hr/p/858a242df04d-local-class-a-cdl-driver-home-daily-intermodal) | Atlanta, GA | $1,440/week | 2026-11-18 |  |
 | JPMorgan Chase | [Retail Fraud Specialist I](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810171) | Columbus, OH, United States |  | 2026-11-18 |  |
 | Macy's | [Starbucks Barista Trainer, Westland - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/REQ_826195) | Hialeah, FL, United States |  | 2026-11-18 |  |
 | Republic Services | [OnSite Environmental Technician I](https://jobs.republicservices.com/us/en/job/R-186138) | Buffalo, New York, United States of America | $17.65 to $24.25/hour | 2026-11-18 |  |
@@ -123,7 +256,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ascension | [Telemetry Technician](https://jobs.ascension.org/us/en/job/30261) | Milwaukee, WI, US |  | 2026-11-18 |  |
 | Ascension | [Telemetry Technician](https://jobs.ascension.org/us/en/job/30262) | Milwaukee, WI, US |  | 2026-11-18 |  |
 | Avery Dennison | [Label Machine Operator, Lamination S-T 7:45pm-8:00am Wed 7:45pm-2am](https://jobs.smartrecruiters.com/AveryDennison/744000162148617-label-machine-operator-lamination-s-t-7-45pm-8-00am-wed-7-45pm-2am) | Bensalem Township, PA, us |  | 2026-11-18 |  |
-| Avery Dennison | [Label Machine Operator, Wed-Thurs 6am-2:30pm, Fri-Sat 6am-6:30pm](https://jobs.smartrecruiters.com/AveryDennison/744000162117719-label-machine-operator-wed-thurs-6am-2-30pm-fri-sat-6am-6-30pm) | La Vergne, TN, us |  | 2026-11-18 |  |
 | B Street Collision | [Entry Level - Auto Body Technician](https://ats.rippling.com/b-street-collision/jobs/3d614d4f-57b0-40d1-be7b-388ad0b39c12) | Olathe, KS |  | 2026-11-18 |  |
 | B Street Collision | [Entry Level - Auto Body Technician](https://ats.rippling.com/b-street-collision/jobs/2790fe35-2925-4df0-a350-f5b1c7730c76) | Kansas City, KS |  | 2026-11-18 |  |
 | Baylor Scott & White Health | [Dialysis Technician](https://jobs.bswhealth.com/us/en/job/26021255) | Temple, Texas, United States |  | 2026-11-18 |  |
@@ -150,7 +282,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Esri | [Service Delivery Technician- Charlotte, NC](https://www.esri.com/careers/5284873007?gh_jid=5284873007) | Charlotte, NC - Ballantyne | $19.95 to $32.55/hour | 2026-11-18 |  |
 | First Meridian Services | [Line Cook at Osteria Marco](https://ats.rippling.com/first-meridian-services/jobs/67b83ebd-01e5-495f-99ef-04a00bbd46f0) | Denver, CO | $22 to $24/hour | 2026-11-18 |  |
 | Harvard University | [Custodian A](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016906586-custodian-a) | Cambridge, MA, us | $28.75/hour | 2026-11-18 | no visa sponsorship |
-| Hawthorne Residential Partners | [Maintenance Technician I](https://job-boards.greenhouse.io/hrpliving/jobs/4510747009) | 904 West - 904 Gabriel Dr. - Greenville, NC - 27834 |  | 2026-11-18 |  |
 | Jack Link's Protein Snacks | [Maintenance Technician - Night Shift](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000162163279-maintenance-technician-night-shift-) | New Glarus, WI, us | $25.46 to $38.19/hour | 2026-11-18 |  |
 | Kodiak Gas Services | [Field Service Technician, Entry](https://kodiakgas.wd12.myworkdayjobs.com/KodiakGasCareers/job/NM---Carlsbad/Field-Service-Technician--Entry_JR3927) | NM - Carlsbad |  | 2026-11-18 |  |
 | Konecranes | [Industrial Technician - Cedar Rapids, IA](https://jobs.smartrecruiters.com/Konecranes/744000162127478-industrial-technician-cedar-rapids-ia) | Cedar Rapids, Iowa, us | $22 to $48/hour | 2026-11-18 |  |
@@ -234,6 +365,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Compass Health Network | [Behavioral Technician (PRN/As needed)](https://compasshealthnetwork.pinpointhq.com/en/postings/846c7e78-af5e-4022-9b57-72b2b2ef4a07) | El Dorado Springs, Missouri |  | 2026-11-18 |  |
 | Keystone Clearwater Solutions | [CDL Water Truck Driver / Night Shift / Sign-On Bonus](https://keystoneclear.pinpointhq.com/en/postings/1b196b93-33ac-4c7e-83db-bf47ebed700f) | Canton, Pennsylvania |  | 2026-11-18 |  |
 | Rangeline Group | [Field Technician Level 1](https://rangeline.pinpointhq.com/en/postings/59d5f0ca-71f5-448a-aa36-05bfb56678cd) | Murrieta, California |  | 2026-11-18 |  |
+| Kimberly-Clark | [Entry Level Operator](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/New-Milford-CT-USA/Entry-Level-Operator_888202-2) | New Milford, CT, USA | $22.68/hour | 2026-11-17 |  |
 | Aspen Skiing Company | [Jr. Sous Chef - Limelight Aspen](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000161940046-jr-sous-chef-limelight-aspen) | Aspen, CO, us |  | 2026-11-17 |  |
 | Better Homes and Gardens Real Estate Advantage Realty | [Real Estate Data Entry Operator](https://jobs.smartrecruiters.com/BetterHomesAndGardensRealEstateAdvantageRealty/744000161991490-real-estate-data-entry-operator) | San Antonio, TX, us | $27.81 to $29.97/hour | 2026-11-17 |  |
 | Macy's | [Starbucks Barista Trainer, Gurnee Mills - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/REQ_826000) | Gurnee, IL, United States |  | 2026-11-17 |  |
@@ -242,6 +374,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Republic Services | [Maintenance Shop Welder](https://jobs.republicservices.com/us/en/job/R-188618) | Amarillo, Texas, United States of America |  | 2026-11-17 |  |
 | Republic Services | [Heavy Equipment Technician](https://jobs.republicservices.com/us/en/job/R-188412) | Gardendale, Alabama, United States of America |  | 2026-11-17 |  |
 | Republic Services | [Driver Trainee](https://jobs.republicservices.com/us/en/job/R-187555) | Cincinnati, Ohio, United States of America | $18.75 to $20.62/hour | 2026-11-17 |  |
+| Turner Mining Group | [Utilities Excavator Operator](https://turner-mining-group.breezy.hr/p/25a9ec399d20-utilities-excavator-operator) | Bowmansville, PA |  | 2026-11-17 |  |
 | Westlake | [Maintenance Mechanic](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Okeechobee-FL/Maintenance-Mechanic_R33316) | US - Okeechobee, FL |  | 2026-11-17 |  |
 | Westlake | [Maintenance Mechanic](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Okeechobee-FL/Maintenance-Mechanic_R33318) | US - Okeechobee, FL |  | 2026-11-17 |  |
 | Accredited Labs | [Midwest Remote Calibration Technician - Field (Cal-Cert)](https://job-boards.greenhouse.io/accreditedlabs/jobs/4509600009) | Remote |  | 2026-11-17 |  |
@@ -254,7 +387,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bender Companies | [Apartment Maintenance Technician- Glendale Heights](https://ats.rippling.com/bender-companies/jobs/1171ba7e-1761-4d10-88aa-6af53dbfe4e3) | Glendale Heights, IL | $24 to $26/hour | 2026-11-17 |  |
 | Boyd Gaming | [Grill Cook - Alder & Birch Steakhouse NEW OUTLET](https://jobs.smartrecruiters.com/BoydGaming/3743990016881886-grill-cook-alder-birch-steakhouse-new-outlet) | St. Charles, us |  | 2026-11-17 |  |
 | Children's Health (Dallas) | [Dietetic Cashier](https://jobsearch.childrens.com/us/en/job/33895) | Dallas, TX, US |  | 2026-11-17 |  |
-| Cornerstone Building Brands | [Quality Technician I](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990016880046-quality-technician-i) | North Brunswick Township, NJ, us | $20/hour | 2026-11-17 |  |
 | Cortland | [Front Door Waste Technician - Scottsdale, AZ](https://job-boards.greenhouse.io/cortland/jobs/4506297009) | Scottsdale, AZ |  | 2026-11-17 |  |
 | Cortland | [Maintenance Technician- Cortland Landing at Herndon](https://job-boards.greenhouse.io/cortland/jobs/4504825009) | Herndon, VA |  | 2026-11-17 |  |
 | Cortland | [Maintenance Technician - Raleigh, NC](https://job-boards.greenhouse.io/cortland/jobs/4489399009) | Raleigh, NC |  | 2026-11-17 |  |
@@ -267,7 +399,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Eataly North America | [Bread Baker - Eataly Houston (New Store Opening!)](https://jobs.smartrecruiters.com/Eataly/744000161922819-bread-baker-eataly-houston-new-store-opening-) | Houston, TX, us |  | 2026-11-17 |  |
 | Emerson (NI) | [CNC Machinist 1st Shift (Mon - Thur)](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013825) | Brenham, TX, United States |  | 2026-11-17 | no visa sponsorship |
 | Enterprise Ventures Corporation | [Coatings Technician I](https://enterprise-ventures-corporation.breezy.hr/p/cfa90e83fdb9-coatings-technician-i) | Johnstown, PA |  | 2026-11-17 |  |
-| EOG Resources | [Control Room Operator Entry](https://careers.eogresources.com/jobdetails.asp?jo_num=11472&apply=yes&) | Malvern, OH, US |  | 2026-11-17 |  |
+| EquipmentShare | [Entry Level Heavy Equipment Shop Technician (Mechanic)](https://www.equipmentshare.com/careers/openings/?gh_jid=8392806) | Lakeland, FL |  | 2026-11-17 |  |
 | Ericsson | [Data Center Technician I - Entry Level](https://jobs.ericsson.com/careers/job/563121777376674) | Tulsa, OK, US |  | 2026-11-17 | no visa sponsorship |
 | Experience Senior Living | [Environmental Services Technician (Maintenance Technician)](https://apply.workable.com/j/891301C0AE) | Naples, Florida, United States |  | 2026-11-17 |  |
 | Eye Care Partners | [Ophthalmic Technician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8945727002) | North Woodbury, OH |  | 2026-11-17 |  |
@@ -284,7 +416,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Halliburton | [Mechanic Technician I-III](https://careers.halliburton.com/job/odessa/mechanic-technician-i-iii/543/103397826272) | Odessa, TX |  | 2026-11-17 |  |
 | International SOS Government Medical Services | [Orthopedic Technician](https://jobs.smartrecruiters.com/InternationalSOSGovernmentMedicalServices/744000161889499-orthopedic-technician) | Fort Walton Beach, FL, us |  | 2026-11-17 |  |
 | Jack Link's Protein Snacks | [FSQ Technician - 1st Shift](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000161834061-fsq-technician-1st-shift) | Perry, GA, us | $22/hour | 2026-11-17 |  |
-| Kimberly-Clark | [Entry Level Operator](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/New-Milford-CT-USA/Entry-Level-Operator_888202-2) | New Milford, CT, USA | $23.87/hour | 2026-11-17 |  |
 | Kimberly-Clark | [Operator](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/Marinette-WI-USA/Operator_888261-2) | Marinette, WI, USA | $23.87/hour | 2026-11-17 |  |
 | Knight’s Companies Inc. | [Concrete Delivery Professional](https://job-boards.greenhouse.io/knightscompaniesinc/jobs/4508776009) | Lugoff, SC |  | 2026-11-17 |  |
 | Konecranes | [Port Technician - Kearny, NJ](https://jobs.smartrecruiters.com/Konecranes/744000161881880-port-technician-kearny-nj) | Kearny, New Jersey, us |  | 2026-11-17 |  |
@@ -339,7 +470,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Symbotic | [Automation Maintenance Technician](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Jackson-GA/Automation-Maintenance-Technician_R8511) | USA Jackson, GA |  | 2026-11-17 |  |
 | Toast | [Customer Care Specialist - Retail](https://careers.toasttab.com/jobs?gh_jid=8385981) | Omaha, NE (hybrid) | $20.50/hour | 2026-11-17 |  |
 | Tokyo Electron | [Process Technician Contractor](https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Hillsboro-QRS-Shared/Process-Technician-Contractor_R26-02564) | Hillsboro QRS Shared |  | 2026-11-17 |  |
-| Uft | [Service Technician](https://jobs.lever.co/uft/9ee9405d-7e4d-48cc-bef3-d89e0d20e998) | Ankeny, IA |  | 2026-11-17 |  |
 | Unite Us | [Technical Solutions Manager](https://job-boards.greenhouse.io/uniteus/jobs/8944974002) | United States (remote) | $75,000 to $92,000 | 2026-11-17 |  |
 | Van Metre Companies | [Maintenance Technician (The Piedmont Raleigh Apartments)](https://job-boards.greenhouse.io/vanmetre/jobs/8394164) | Raleigh, NC | $23 to $26/hour | 2026-11-17 |  |
 | Veolia Environnement SA | [O&M Technician I](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161889169-o-m-technician-i) | Banning, CA, us | $43 to $51/hour | 2026-11-17 |  |
@@ -366,12 +496,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Silverado | [Full Time Cook (AM)](https://job-boards.greenhouse.io/silverado/jobs/5293846007) | Franklin, Tennessee | $21 to $23/hour | 2026-11-17 |  |
 | University Health (San Antonio) | [Cook - Part-Time](https://careers.universityhealth.com/job/selma/cook-part-time/43277/103391397744) | Selma, TX |  | 2026-11-17 |  |
 | Celerion | [Laundry Attendant / Housekeeper - 30+ hrs/week](https://jobs.lever.co/celerion/5a2d3b5f-cc68-461f-a2f2-a2b291a94f89) | Lincoln, NE |  | 2026-11-17 |  |
-| Siemens Energy | [Overhead Beam Crane Operator (M-F 4pm to Midnight)](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Overhead-Beam-Crane-Operator-M-F-4pm-to-Midnight/306975) | Charlotte, North Carolina, United States of America |  | 2026-11-17 |  |
+| Siemens Energy | [Overhead Beam Crane Operator (M-F 4pm to Midnight)](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Overhead-Beam-Crane-Operator-M-F-4pm-to-Midnight/306975) | Charlotte, North Carolina, United States |  | 2026-11-17 |  |
 | AccorHotel | [Guest Experience Ambassador Overnight (Bell/Door Attendant)](https://jobs.smartrecruiters.com/AccorHotel/744000161694349-guest-experience-ambassador-overnight-bell-door-attendant-) | New York, NY, us | $27/hour | 2026-11-16 |  |
 | Caterpillar | [Corinth Reman Cylinder Head Assembly II (3rd shift)](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Corinth-Mississippi/Corinth-Reman-Cylinder-Head-Assembly-II--3rd-shift-_R0000403743-1) | Corinth, Mississippi | $18.35 to $23.85/hour | 2026-11-16 | no visa sponsorship |
 | Enviri Corporation | [Heavy Equipment Operator](https://jobs.smartrecruiters.com/EnviriCorporation/744000161693949-heavy-equipment-operator) | Cofield, NC, us |  | 2026-11-16 |  |
 | Monarch Communities | [Dining Server (Full-Time)](https://jobs.smartrecruiters.com/MonarchCommunities/744000161773319-dining-server-full-time-) | Kennett Square, PA, us | $15 to $17/hour | 2026-11-16 |  |
 | Republic Services | [Driver Trainee](https://jobs.republicservices.com/us/en/job/R-187722) | Elizabethtown, Kentucky, United States of America |  | 2026-11-16 |  |
+| Small Potato Trucking | [TD: CDL-A Dedicated Driver – $1,550 Guaranteed Weekly Minimum](https://small-potato-trucking.breezy.hr/p/4a6b16af1d38-td-cdl-a-dedicated-driver-1-550-guaranteed-weekly-minimum) | Thomson, GA | $80,000 to $86,000 | 2026-11-16 |  |
 | Waste Connections | [Heavy Equipment Operator](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6060-EnvnmtlTrust-Athens/Heavy-Equipment-Operator_R-105624) | 6060-EnvnmtlTrust Athens | $22 to $25/hour | 2026-11-16 |  |
 | Waste Connections | [CDL Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6032-Knoxville-MainYd2400Chpmn/CDL-Driver_R-105229) | 6032-Knoxville MainYd2400Chpmn | $27/hour | 2026-11-16 |  |
 | Children's Health (Dallas) | [Dietetic Cashier](https://jobsearch.childrens.com/us/en/job/33844) | Dallas, TX, US |  | 2026-11-16 |  |
@@ -400,8 +531,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Waste Connections | [CDL Route Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6390L-Westborough-Hauling/CDL-Route-Driver_R-105671) | 6390L-Westborough Hauling | $28 to $32/hour | 2026-11-15 |  |
 | Waste Connections | [Diesel Mechanic - 2nd Shift](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/6390L-Westborough-Hauling/Diesel-Mechanic---2nd-Shift_R-105675) | 6390L-Westborough Hauling | $30 to $35/hour | 2026-11-15 |  |
 | Waste Connections | [Front Load CDL Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/3185B-Waste-Away-Transport/Front-Load-CDL-Driver_R-104397) | 3185B-Waste Away Transport |  | 2026-11-15 |  |
+| Parkland Health | [Orthotics and Prosthetics Technician](https://wd12.myworkdaysite.com/recruiting/parklandhospital/Parkland_Careers/job/Moody-Outpatient-Center/Orthotics-and-Prosthetics-Technician_990726) | Moody Outpatient Center |  | 2026-11-14 |  |
 | Better Homes and Gardens Real Estate Advantage Realty | [Real Estate Data Entry Operator](https://jobs.smartrecruiters.com/BetterHomesAndGardensRealEstateAdvantageRealty/744000161630339-real-estate-data-entry-operator) | San Antonio, TX, us | $27.81 to $29.97/hour | 2026-11-14 |  |
-| OSC Global | [Document Technician I](https://oscglobal.bamboohr.com/careers/408) | Richland, Washington, United States (Remote) | $18.90 to $24.37/hour | 2026-11-14 |  |
+| OSC Global | [Document Technician I](https://oscglobal.bamboohr.com/careers/408) | Richland, Washington, United States | $18.90 to $24.37/hour | 2026-11-14 |  |
 | Absolute International Security | [Unarmed Security Guard Post Commander - Riverside](https://job-boards.greenhouse.io/absolutesecurityintl/jobs/4507031009) | Southern California (Field Operations) | $18.10 to $18.60/hour | 2026-11-14 |  |
 | Alvarado Street Brewery | [Line Cook](https://asbbeer.bamboohr.com/careers/211) | Carmel-by-the-Sea, California, United States |  | 2026-11-14 |  |
 | Applied Medical | [Automation Maintenance Technician](https://careers.appliedmedical.com/careers-home/jobs/15038) | Rancho Santa Margarita, California | $25 to $30/hour | 2026-11-14 |  |
@@ -423,7 +555,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Halliburton | [Mechanic Technician (I - III)](https://careers.halliburton.com/job/williston/mechanic-technician-i-iii/543/103262578592) | Williston, ND | $23.36 to $56.62/hour | 2026-11-14 | no visa sponsorship |
 | Helping Hands Reentry Outreach Centers | [Driver](https://ats.rippling.com/hhrocjobs/jobs/03457005-5a55-43d8-8181-750dbf3a2ad1) | Portland, OR |  | 2026-11-14 |  |
 | K Group Companies | [Field Service Technician – Entry Level](https://jobs.lever.co/kgroupcompanies/dd4e08ae-6d4f-4815-9bc2-95329bd90996) | Grand Rapids, Michigan |  | 2026-11-14 |  |
-| Kodiak Gas Services | [Field Service Technician, Entry](https://kodiakgas.wd12.myworkdayjobs.com/KodiakGasCareers/job/NM---Carlsbad/Field-Service-Technician--Entry_JR3873) | NM - Carlsbad |  | 2026-11-14 |  |
 | Kodiak Gas Services | [Field Service Technician, Entry](https://kodiakgas.wd12.myworkdayjobs.com/KodiakGasCareers/job/TX---Midland/Field-Service-Technician--Entry_JR3925) | TX - Midland |  | 2026-11-14 |  |
 | Konecranes | [Crane Technician - Swing Shift - Lafayette, IN](https://jobs.smartrecruiters.com/Konecranes/744000161516444-crane-technician-swing-shift-lafayette-in) | Lafayette, INDIANA, us | $22 to $48/hour | 2026-11-14 |  |
 | Konecranes | [Crane Technician - Swing Shift - Lafayette, IN](https://jobs.smartrecruiters.com/Konecranes/744000161520550-crane-technician-swing-shift-lafayette-in) | Lafayette, INDIANA, us | $22 to $48/hour | 2026-11-14 |  |
@@ -436,9 +567,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Northwestern Memorial Healthcare | [Housekeeper Part time Second shift](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161553502-housekeeper-part-time-second-shift) | Geneva, IL, us |  | 2026-11-14 |  |
 | Northwestern Memorial Healthcare | [EVS Tech-Housekeeping Part Time Nights](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161540285-evs-tech-housekeeping-part-time-nights) | Lake Forest, IL, us |  | 2026-11-14 |  |
 | Northwestern Memorial Healthcare | [Housekeeping Technician - Environmental Services, Part-time, Evenings](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161524009-housekeeping-technician-environmental-services-part-time-evenings-) | Huntley, IL, us |  | 2026-11-14 |  |
-| Oncor | [Electrician B (Substation & Transmission)](https://recruiting2.ultipro.com/ONC1003OEDC/JobBoard/de43ded3-2d19-4562-a2bc-bc2c9b595f44/OpportunityDetail?opportunityId=015a8b72-29ff-4091-b9f4-c9e5f8fa462e) | Big Spring, TX, USA | $73,261 | 2026-11-14 |  |
-| Parkland Health | [Orthotics and Prosthetics Technician](https://wd12.myworkdaysite.com/recruiting/parklandhospital/Parkland_Careers/job/Moody-Outpatient-Center/Orthotics-and-Prosthetics-Technician_990726) | Moody Outpatient Center |  | 2026-11-14 |  |
-| Pilot Company | [Technician, Maintenance Call Center](https://jobs.smartrecruiters.com/PilotCompany/744000161494010-technician-maintenance-call-center) | Knoxville, TN, us |  | 2026-11-14 |  |
 | POWERX | [Field Service Technician - Development Program](https://job-boards.greenhouse.io/powerx/jobs/4507722009) | Chicago, Illinois |  | 2026-11-14 |  |
 | POWERX | [Field Service Technician - Development Program](https://job-boards.greenhouse.io/powerx/jobs/4507741009) | Kalamazoo, Michigan |  | 2026-11-14 |  |
 | POWERX | [Field Service Technician - Development Program](https://job-boards.greenhouse.io/powerx/jobs/4507740009) | Fort Wayne, Indiana |  | 2026-11-14 |  |
@@ -462,8 +590,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Republic Services | [Maintenance Shop Technician C](https://jobs.republicservices.com/us/en/job/R-188488) | Dayton, Ohio, United States of America |  | 2026-11-14 |  |
 | Republic Services | [Maintenance Shop Technician C](https://jobs.republicservices.com/us/en/job/R-176098) | Fairfax, Virginia, United States of America | $25.15 to $34.60/hour | 2026-11-14 |  |
 | REXEL | [CDL Driver](https://jobs.smartrecruiters.com/REXEL1/744000161478850-cdl-driver) | Charlotte, NC, us |  | 2026-11-14 |  |
-| SanMar- External | [Warehouse II - 3rd Shift](https://boards.greenhouse.io/sanmar/jobs/5294919007?gh_jid=5294919007) | Ashland, VA | $18.50 to $24.50/hour | 2026-11-14 |  |
 | SanMar- External | [Warehouse II - 3rd Shift](https://boards.greenhouse.io/sanmar/jobs/5294917007?gh_jid=5294917007) | Ashland, VA | $18.50 to $24.50/hour | 2026-11-14 |  |
+| SanMar- External | [Warehouse II - 3rd Shift](https://boards.greenhouse.io/sanmar/jobs/5294919007?gh_jid=5294919007) | Ashland, VA | $18.50 to $24.50/hour | 2026-11-14 |  |
 | Select Water Solutions | [Operator I - Water Treatment](https://jobs.dayforcehcm.com/en-US/select/CANDIDATEPORTAL/jobs/33638) | Big Spring, TX 79720, USA |  | 2026-11-14 |  |
 | Small Potato Trucking | [SW: CDL-A Dedicated Driver – $300 Per Day / Tracy, CA](https://small-potato-trucking.breezy.hr/p/89445e99620d-sw-cdl-a-dedicated-driver-300-per-day-tracy-ca) | Stockton, CA |  | 2026-11-14 |  |
 | Small Potato Trucking | [SW: CDL-A Local Driver – $1,500 Weekly Average Potential](https://small-potato-trucking.breezy.hr/p/ad449a9300f3-sw-cdl-a-local-driver-1-500-weekly-average-potential) | Tracy, CA |  | 2026-11-14 |  |
@@ -495,13 +623,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Semios Group | [Seasonal Installation Technician](https://apply.workable.com/j/1089F66138) | Fresno, California, United States | $18/hour | 2026-11-14 |  |
 | The Semios Group | [Seasonal Installation Technician](https://apply.workable.com/j/323C1B0FDB) | Turlock, California, United States | $18/hour | 2026-11-14 |  |
 | First Meridian Services | [Cook at Hattie B's Hot Chicken](https://ats.rippling.com/first-meridian-services/jobs/cb082890-f2e5-41a2-a903-cd52e9db223d) | Nashville, TN | $16/hour | 2026-11-14 |  |
-| SanMar- External | [Maintenance (Facilities II) 10am - 6:30pm](https://boards.greenhouse.io/sanmar/jobs/5252988007?gh_jid=5252988007) | Shakopee, MN | $19.60 to $26/hour | 2026-11-14 |  |
-| SanMar-Internal | [Maintenance (Facilities II) 10am - 6:30pm](https://job-boards.greenhouse.io/sanmaremployeeopenings/jobs/5252979007) | Shakopee, MN | $19.60 to $26/hour | 2026-11-14 |  |
 | TotalEnergies | [Maintenance Technician - Part Time](https://jobs.totalenergies.com/en_US/careers/JobDetail/Maintenance-Technician-Part-Time/83806) | WYTHELLE, United States / US |  | 2026-11-14 |  |
 | Network Connex | [Field Technician](https://jobs.lever.co/networkconnex/f708332b-42ee-4de8-8442-ad853e474e43) | Atlanta, GA |  | 2026-11-14 |  |
+| Cook Children's | [Instrument Technician I](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Instrument-Technician-I_JR-120182) | Fort Worth, TX |  | 2026-11-13 |  |
 | ASTRO PAK | [Shop Technician - Data Center](https://job-boards.greenhouse.io/astropakllc/jobs/4506302009) | Indianapolis, IN |  | 2026-11-13 |  |
 | Better Homes and Gardens Real Estate Advantage Realty | [Real Estate Data Entry Operator](https://jobs.smartrecruiters.com/BetterHomesAndGardensRealEstateAdvantageRealty/744000161429089-real-estate-data-entry-operator) | San Antonio, TX, us | $27.81 to $29.97/hour | 2026-11-13 |  |
-| Cook Children's | [Instrument Technician I](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Instrument-Technician-I_JR-120182) | Fort Worth, TX |  | 2026-11-13 |  |
 | Monarch Communities | [Cook (Per Diem)](https://jobs.smartrecruiters.com/MonarchCommunities/744000161461580-cook-per-diem-) | Phoenixville, PA, us | $23 to $24/hour | 2026-11-13 |  |
 | Republic Services | [Field Service Technician I](https://jobs.republicservices.com/us/en/job/R-188471) | Norfolk, Massachusetts, United States of America | $20.30 to $27.87/hour | 2026-11-13 |  |
 | WM (Waste Management) | [Small Equipment Operator, MRF](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355507) | Fort Worth, TX, United States | $21 to $23/hour | 2026-11-13 |  |
@@ -510,7 +636,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AbbVie | [Production Technician I / Operator (Days - 3rd Shift)](https://jobs.smartrecruiters.com/AbbVie/3743990016817556-production-technician-i-operator-days-3rd-shift-) | Tempe, AZ, us |  | 2026-11-13 |  |
 | Adventurer Manufacturing | [Production Assembly](https://adventurermanufacturing.bamboohr.com/careers/94) | Yakima, Washington, United States | $17.51 to $22.56/hour | 2026-11-13 |  |
 | AEP | [Stores Attendant B - Storekeeper](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Lima-OH/Stores-Attendant-B---Storekeeper_R21128) | Lima, OH | $27.67 to $40.27/hour | 2026-11-13 |  |
-| Ascension | [Emergency Dispatch Operator](https://jobs.ascension.org/us/en/job/26040) | Austin, TX, US |  | 2026-11-13 |  |
 | Ascension | [Telemetry Technician](https://jobs.ascension.org/us/en/job/29507) | Indianapolis, IN, US |  | 2026-11-13 |  |
 | Ascension | [Telemetry Technician](https://jobs.ascension.org/us/en/job/29506) | Indianapolis, IN, US |  | 2026-11-13 |  |
 | Aspen Skiing Company | [Maintenance Engineer I - Limelight Denver](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000161347555-maintenance-engineer-i-limelight-denver) | Denver, CO, us | $24.65 to $26.80/hour | 2026-11-13 |  |
@@ -518,7 +643,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Atmos Energy | [Service Technician 1](https://atmosenergy.wd108.myworkdayjobs.com/External_Career_Site/job/Texas---Plano/Service-Technician-1_JR14453) | Texas - Plano |  | 2026-11-13 |  |
 | Aumovio | [Material Handler](https://jobs.smartrecruiters.com/Aumovio/744000161321349-material-handler) | Allentown, PA, us |  | 2026-11-13 | no visa sponsorship |
 | BEST Logistics Group | [Diesel Technician](https://bestlogisticsgroup.recruitee.com/o/diesel-technician-4) | South Point, OH, US |  | 2026-11-13 |  |
-| Boyd Gaming | [Cook III Prep-Garden Court Buffet-Steady Extra](https://jobs.smartrecruiters.com/BoydGaming/3743990016822436-cook-iii-prep-garden-court-buffet-steady-extra) | Las Vegas, us |  | 2026-11-13 |  |
 | Boyd Gaming | [Prep III Cook - Neon Fork - Steady Extra](https://jobs.smartrecruiters.com/BoydGaming/3743990016822046-prep-iii-cook-neon-fork-steady-extra) | Las Vegas, us |  | 2026-11-13 |  |
 | Carlisle | [Seasonal (Now-March) Machine Operator I-ISO-CCM](https://jobs.smartrecruiters.com/Carlisle/3743990016817855-seasonal-now-march-machine-operator-i-iso-ccm) | Puyallup, Washington, us | $26.33 to $27.33/hour | 2026-11-13 |  |
 | Carlisle | [Quality Control Technician I - ISO - CCM](https://jobs.smartrecruiters.com/Carlisle/3743990016814076-quality-control-technician-i-iso-ccm) | Terrell, Texas, us |  | 2026-11-13 |  |
@@ -531,7 +655,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Carvana | [Wheel Restoration Technician (2nd Shift) – 4-Day Work Week!](https://www.carvana.com/careers/apply?gh_jid=8383185) | Akron, NY | $20 to $24/hour | 2026-11-13 | no visa sponsorship |
 | Carvana | [Wheel & Rim Repair Technician (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8383158) | Heath, OH |  | 2026-11-13 | no visa sponsorship |
 | Caterpillar | [Machinist III - Night Shift](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Sumter-South-Carolina/Machinist-III---Night-Shift_R0000405399) | Sumter, South Carolina | $24.70 to $32.10/hour | 2026-11-13 |  |
-| City and County of San Francisco | [8202 - Security Guard - Fine Arts Museum](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016832396-8202-security-guard-fine-arts-museum) | San Francisco, CA, us |  | 2026-11-13 |  |
 | Cogent Talent Solutions | [CNC Machinist - Entry Level](https://jobs.lever.co/cogentanalytics/71e49d42-2b41-4d78-a971-194ae3466e3e) | Corpus Christi, TX |  | 2026-11-13 |  |
 | CommonSpirit Health (St. Luke's Health) | [Cook](https://www.commonspirit.careers/job/bakersfield/cook/35300/103215955424) | BAKERSFIELD, CA |  | 2026-11-13 |  |
 | CommonSpirit Health (St. Luke's Health) | [Cook](https://www.commonspirit.careers/job/bakersfield/cook/35300/103215955472) | BAKERSFIELD, CA |  | 2026-11-13 |  |
@@ -544,7 +667,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Internal | [Temporary Manager in Training - South Hills Village](https://job-boards.greenhouse.io/internaljobsatlush/jobs/8383119) | Pittsburgh, Pennsylvania, United States | $22.84/hour | 2026-11-13 |  |
 | Konecranes | [Industrial Site Technician - 2nd Shift - Pueblo, CO](https://jobs.smartrecruiters.com/Konecranes/744000161336094-industrial-site-technician-2nd-shift-pueblo-co) | Pueblo, CO, us | $22 to $48/hour | 2026-11-13 |  |
 | Konecranes | [Industrial Site Technician - Middletown, OH](https://jobs.smartrecruiters.com/Konecranes/744000161320385-industrial-site-technician-middletown-oh) | Middletown, OH, us | $22 to $48/hour | 2026-11-13 |  |
-| Konecranes | [Site Technician - Swing Shift - Lafayette, IN](https://jobs.smartrecruiters.com/Konecranes/744000161311939-site-technician-swing-shift-lafayette-in) | Lafayette, IN, us | $22 to $48/hour | 2026-11-13 |  |
 | Lowe's | [Line Haul Delivery Driver](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Huntsville-AL-N-Huntsville-1577/Line-Haul-Delivery-Driver_JR-02703123) | Huntsville, AL (N Huntsville) 1577 |  | 2026-11-13 |  |
 | Macy's | [Starbucks Barista Trainer, Cherry Hill - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/REQ_824739) | Cherry Hill, NJ, United States |  | 2026-11-13 |  |
 | Medtronic | [Machine Operator I, First Shift](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Eatontown-New-Jersey-United-States-of-America/Machine-Operator-I--First-Shift_R82013-1) | Eatontown, New Jersey, United States of America | $38,400 to $57,600 | 2026-11-13 |  |
@@ -558,7 +680,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Salt City Trucking | [SW: TARGET Experienced Local CDL-A Driver – Up to $28.50/Hour + Early Starts](https://salt-city-trucking.breezy.hr/p/c09029f2d9bf-sw-target-experienced-local-cdl-a-driver-up-to-28-50-hour-early-starts) | Woodland, CA | $78,000 | 2026-11-13 |  |
 | Silverado | [Full Time Cook (AM)](https://job-boards.greenhouse.io/silverado/jobs/5293905007) | Encinitas, California | $21 to $24/hour | 2026-11-13 |  |
 | Silverado | [On-Call Cook – Flexible Shifts](https://job-boards.greenhouse.io/silverado/jobs/5293719007) | Alexandria, Virginia | $18 to $21/hour | 2026-11-13 |  |
-| Small Potato Trucking | [SW: TARGET Experienced CDL-A Local Driver – Up to $28.50/Hour](https://small-potato-trucking.breezy.hr/p/aed1d795c308-sw-target-experienced-cdl-a-local-driver-up-to-28-50-hour) | Woodland, CA | $25 to $28/hour | 2026-11-13 |  |
 | Smiths Group | [Field Service Technician I - ORD (Evening Shift)](https://jobs.smartrecruiters.com/SmithsGroup2/744000161378608-field-service-technician-i-ord-evening-shift-) | Chicago, IL, us | $64,680 to $87,560 | 2026-11-13 | US citizens/persons only |
 | SpaceX | [Process Operator Specialist, Air Separation Unit (Starship)](https://boards.greenhouse.io/spacex/jobs/8932422002?gh_jid=8932422002) | Starbase, TX |  | 2026-11-13 | US citizens/persons only |
 | SpaceX | [Process Operator Specialist, Air Separation Unit (Starship) - Night Shift](https://boards.greenhouse.io/spacex/jobs/8940772002?gh_jid=8940772002) | Starbase, TX |  | 2026-11-13 | US citizens/persons only |
@@ -567,8 +688,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Surgery Partners | [Certified Surgical Tech ($5000 Sign-On Bonus)](https://job-boards.greenhouse.io/surgerypartners/jobs/4485998009) | Westmont, Illinois, United States | $28 to $39.25/hour | 2026-11-13 |  |
 | Surgery Partners | [Certified Surgical Tech (PRN)](https://job-boards.greenhouse.io/surgerypartners/jobs/4502758009) | Lombard, Illinois, United States | $28 to $39.25/hour | 2026-11-13 |  |
 | Vast | [Soft Goods Technician](https://boards.greenhouse.io/vast/jobs/4728958006?gh_jid=4728958006) | Long Beach, California, United States | $18.38 to $29.66/hour | 2026-11-13 |  |
-| Veolia Environnement SA | [Maintenance Technician I](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161363089-maintenance-technician-i) | Johnstown, OH, us |  | 2026-11-13 |  |
-| Veolia Environnement SA | [Maintenance Technician I](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161361379-maintenance-technician-i) | Johnstown, OH, us |  | 2026-11-13 |  |
 | Viasat | [Service Delivery Tier 2 Rep, Temporary](https://careers.viasat.com/careers-home/jobs/7060) | Carlsbad, California | $63,000 to $117,500 | 2026-11-13 |  |
 | Wabtec | [Production Technician](https://jobs.smartrecruiters.com/Wabtec/3743990016818746-production-technician) | Duncan, SC, us | $19/hour | 2026-11-13 |  |
 | Waste Connections | [General Laborer (Purdy, WA)](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/2190P-LRI-Purdy-TferCompost/General-Laborer--Purdy--WA-_R-105235) | 2190P-LRI Purdy Tfer&Compost | $22 to $23.50/hour | 2026-11-13 |  |
@@ -595,7 +714,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SanMar- External | [7pm Equipment Operator-NP](https://boards.greenhouse.io/sanmar/jobs/5286558007?gh_jid=5286558007) | Dallas, TX | $20.50/hour | 2026-11-13 |  |
 | Zone 5 Technologies | [UAV Aircraft Assembler II](https://job-boards.greenhouse.io/zone5technologies/jobs/5464051008) | San Luis Obispo, California | $23 to $27/hour | 2026-11-13 |  |
 | Intermex Wire Transfer | [Cajero](https://job-boards.greenhouse.io/intermexwiretransfer/jobs/4723456006) | Chicago IL |  | 2026-11-13 |  |
-| Bender Companies | [Apartment Maintenance Technician- Woodridge](https://ats.rippling.com/bender-companies/jobs/b4e8a6a8-5e76-4d47-9d12-066870f93c3c) | Woodridge, IL | $25 to $26/hour | 2026-11-13 |  |
 | Triumvirate Environmental | [Environmental Technician](https://job-boards.greenhouse.io/triumvirateenvironmental/jobs/4704541006) | Clayton, NC |  | 2026-11-13 | no visa sponsorship |
 | CommonSpirit Health (St. Luke's Health) | [Barista](https://www.commonspirit.careers/job/little-rock/barista/35300/99805382464) | LITTLE ROCK, AR |  | 2026-11-13 |  |
 | Chariot Defense | [Engineering Technician](https://job-boards.greenhouse.io/chariotdefense/jobs/5217522008) | San Bruno, California, United States | $24.40 to $65.40/hour | 2026-11-13 |  |
@@ -614,13 +732,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Waste Connections | [Heavy Equipment Operator](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/5009-Red-Carpet-Landfill/Heavy-Equipment-Operator_R-105573) | 5009-Red Carpet Landfill | $21/hour | 2026-11-12 |  |
 | AccorHotel | [Director of Wellness, Retail, and Club 1927 (January 2027 Start)](https://jobs.smartrecruiters.com/AccorHotel/744000161139884-director-of-wellness-retail-and-club-1927-january-2027-start-) | Sonoma, CA, us | $106,000 to $140,000 | 2026-11-12 |  |
 | AECOM | [Environmental Technician/Treatment System Operator](https://jobs.smartrecruiters.com/AECOM2/744000161125639-environmental-technician-treatment-system-operator) | Richmond, VA, us |  | 2026-11-12 | US citizens/persons only |
-| Asbury Communities | [Cook](https://jobs.smartrecruiters.com/AsburyCommunities/744000161151457-cook) | Gaithersburg, MD, us |  | 2026-11-12 |  |
-| Asbury Communities | [Cook](https://jobs.smartrecruiters.com/AsburyCommunities/744000161148204-cook) | Gaithersburg, MD, us |  | 2026-11-12 |  |
-| Ascension | [Telemetry Technician](https://jobs.ascension.org/us/en/job/29732) | Tulsa, OK, US |  | 2026-11-12 |  |
 | Ascension | [Certified Sterile Processing Technician (CRCST)](https://jobs.ascension.org/us/en/job/1319066) | Indianapolis, IN, US |  | 2026-11-12 |  |
 | Ascension | [Technician Sterile Processing](https://jobs.ascension.org/us/en/job/27778) | Kokomo, IN, US |  | 2026-11-12 |  |
-| Aspen Skiing Company | [Cook - Limelight Aspen - Winter](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000161180810-cook-limelight-aspen-winter) | Aspen, CO, us | $21 to $25/hour | 2026-11-12 |  |
-| Aspen Skiing Company | [Cook - Limelight Snowmass - Winter](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000161177749-cook-limelight-snowmass-winter) | Snowmass Village, CO, us | $21 to $25/hour | 2026-11-12 |  |
 | Aspen Skiing Company | [Cook - The Little Nell - Winter](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000161156869-cook-the-little-nell-winter) | Aspen, CO, us | $23 to $28/hour | 2026-11-12 |  |
 | Aspen Skiing Company | [Maintenance Engineer Trainee - Limelight Ketchum](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000161131299-maintenance-engineer-trainee-limelight-ketchum) | Ketchum, ID, us | $20 to $22/hour | 2026-11-12 |  |
 | Avery Dennison | [Lamination machine operator, FE Day Shift, Wed-Sat, 7 AM-3:30 PM, 7 AM-6:30 PM](https://jobs.smartrecruiters.com/AveryDennison/744000161171229-lamination-machine-operator-fe-day-shift-wed-sat-7-am-3-30-pm-7-am-6-30-pm) | Charlotte, NC, us |  | 2026-11-12 |  |
@@ -642,117 +755,4 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ConocoPhillips | [Multi-skill Operator/Lease Operator - South Midland Basin](https://conocophillips.wd1.myworkdayjobs.com/External/job/Midland-TX/Multi-skill-Operator-Lease-Operator---South-Midland-Basin_REQ-006773) | Midland, TX |  | 2026-11-12 |  |
 | ConocoPhillips | [Multi-skill Operator/Lease Operator - Kermit, TX](https://conocophillips.wd1.myworkdayjobs.com/External/job/Kermit-TX/Multi-skill-Operator-Lease-Operator---Kermit--TX_REQ-006641) | Kermit, TX |  | 2026-11-12 |  |
 | Continental | [Pre-Cure Tread Operator (PCT) - Illinois](https://jobs.smartrecruiters.com/Continental/744000161170369-pre-cure-tread-operator-pct-illinois) | Mount Vernon, IL, us | $25.30/hour | 2026-11-12 |  |
-| Cornerstone Building Brands | [Machine Operator 1st Shift](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990016789786-machine-operator-1st-shift) | Shelbyville, IN, us | $19.25/hour | 2026-11-12 |  |
 | DH Pace | [Automatic Door Technician Trainee](https://job-boards.greenhouse.io/dhpace/jobs/5478240008) | Lake Charles LA |  | 2026-11-12 |  |
-| DH Pace | [Commercial Entry Door Technicians - Tampa](https://job-boards.greenhouse.io/dhpace/jobs/5479534008) | Tampa FL |  | 2026-11-12 |  |
-| DH Pace | [Hollow Metal Entry Door Installers - Tampa](https://job-boards.greenhouse.io/dhpace/jobs/5479535008) | Tampa FL |  | 2026-11-12 |  |
-| Dow | [Analytical Technician](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Freeport-TX-USA/Analytical-Technician_R2069295) | Freeport (TX, USA) |  | 2026-11-12 | no visa sponsorship |
-| Dow | [Packaging Operator](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Carrollton-KY-USA/Packaging-Operator_R2069822-1) | Carrollton (KY, USA) |  | 2026-11-12 | no visa sponsorship |
-| Eataly North America | [Pizza Cook - Eataly Aventura](https://jobs.smartrecruiters.com/Eataly/744000161111150-pizza-cook-eataly-aventura) | Aventura, FL, us |  | 2026-11-12 |  |
-| EQT Corporation | [Junior Operator](https://job-boards.greenhouse.io/eqtcorporation/jobs/5479423008) | Newington, NH |  | 2026-11-12 |  |
-| ERCOT | [System Operator Development Program](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/System-Operator-Development-Program_R2568-1) · Fall 2026 | Austin, TX |  | 2026-11-12 |  |
-| Eurofins | [Sample Control Technician I - Environment Testing - Monday - Friday, 1st Shift](https://jobs.smartrecruiters.com/Eurofins/744000161175309-sample-control-technician-i-environment-testing-monday-friday-1st-shift-) | Kittanning, PA, us |  | 2026-11-12 |  |
-| Experience Senior Living | [Environmental Services Technician Full Time](https://apply.workable.com/j/013DE40779) | Cape Coral, Florida, United States |  | 2026-11-12 |  |
-| Eye Care Partners | [Ophthalmic Technician - Eyecare Experience Required!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8937977002) | Overland Park, KS |  | 2026-11-12 |  |
-| Fermilab | [Emergency Operator/Dispatcher](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Emergency-Operator-Dispatcher_R_010191) | Batavia | $28.30 to $34.51/hour | 2026-11-12 |  |
-| Harvard University | [Custodian B](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016799906-custodian-b) | Cambridge, MA, us | $28.75/hour | 2026-11-12 | no visa sponsorship |
-| Harvard University | [Custodian A](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016799376-custodian-a) | Cambridge, MA, us | $28.75/hour | 2026-11-12 | no visa sponsorship |
-| Hawthorne Residential Partners | [Maintenance Technician I](https://job-boards.greenhouse.io/hrpliving/jobs/4486123009) | McDonough GA |  | 2026-11-12 |  |
-| Intel | [ORAP Metro Module Equipment Technician](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/ORAP-Metro-Module-Equipment-Technician_JR0287271-1) | US, Oregon, Hillsboro | $44,230 to $85,340 | 2026-11-12 |  |
-| Intown Golf Club | [Server](https://job-boards.greenhouse.io/intowngolfclub/jobs/5479253008) | Philly-PA | $23.50/hour | 2026-11-12 |  |
-| Konecranes | [Site Technician - Swing Shift - Lafayette, Indiana](https://jobs.smartrecruiters.com/Konecranes/744000161089869-site-technician-swing-shift-lafayette-indiana) | Lafayette, IN, us | $22 to $48/hour | 2026-11-12 |  |
-| Konecranes | [Site Technician - Swing Shift - Lafayette, Indiana](https://jobs.smartrecruiters.com/Konecranes/744000161089165-site-technician-swing-shift-lafayette-indiana) | Lafayette, IN, us | $22 to $48/hour | 2026-11-12 |  |
-| Luminis Health | [PACU Technician - Procedural Care - CPT/PRN](https://boards.greenhouse.io/luminishealth/jobs/5473320008?gh_jid=5473320008) | Annapolis, MD | $20.74 to $24.46/hour | 2026-11-12 |  |
-| Macy's | [Starbucks Barista Trainer, Lenox Square Mall - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/REQ_824513) | Atlanta, GA, United States |  | 2026-11-12 |  |
-| MAT Holdings, Inc | [Warehouse Clerk](https://jobs.smartrecruiters.com/MATHoldings/744000161126679-warehouse-clerk) | Dallas, TX, us |  | 2026-11-12 |  |
-| Medtronic | [Assembler II](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Brooklyn-Center-Minnesota-United-States-of-America/Assembler-II_R76315-1) | Brooklyn Center, Minnesota, United States of America | $40,800 to $61,200 | 2026-11-12 |  |
-| Monarch Communities | [Dining Server](https://jobs.smartrecruiters.com/MonarchCommunities/744000161174049-dining-server) | Shrewsbury, NJ, us | $16/hour | 2026-11-12 |  |
-| Northwestern Memorial Healthcare | [EVS Tech-Housekeeping Part Tome Nights](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161130489-evs-tech-housekeeping-part-tome-nights) | Lake Forest, IL, us |  | 2026-11-12 |  |
-| Northwestern Memorial Healthcare | [EVS Tech II-Housekeeping Part Time Nights](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161129619-evs-tech-ii-housekeeping-part-time-nights) | Lake Forest, IL, us |  | 2026-11-12 |  |
-| Northwestern Memorial Healthcare | [EVS Tech-Housekeeping Full Time Days](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161128002-evs-tech-housekeeping-full-time-days) | Lake Forest, IL, us |  | 2026-11-12 |  |
-| Northwestern Memorial Healthcare | [Housekeeper Casual Evenings Weekends only](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161128139-housekeeper-casual-evenings-weekends-only) | Winfield, IL, us |  | 2026-11-12 |  |
-| Northwestern Memorial Healthcare | [EVS Tech-Housekeeping Full Time Mid Shift](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161125690-evs-tech-housekeeping-full-time-mid-shift) | Lake Forest, IL, us |  | 2026-11-12 |  |
-| Oetiker | [Production Support - Material Handler (2nd Shift - Evenings)](https://jobs.smartrecruiters.com/Oetiker/744000161110327-production-support-material-handler-2nd-shift-evenings-) | 4437 Walden Ave, Lancaster, NY, us | $40,000 to $44,000 | 2026-11-12 |  |
-| Panasonic North America | [Technician I Assembly, Rotating Days / A-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/52349) | Sparks, Nevada |  | 2026-11-12 |  |
-| Panasonic North America | [Technician I Top Cap, Nights, DB-Shift (7PM-7AM)[Sun-Tues + Alt Sat]](https://careers.na.panasonic.com/careers-home/jobs/52341) | Sparks, Nevada |  | 2026-11-12 |  |
-| Panasonic North America | [Technician I Assembly, Nights, D-Shift (7PM-7AM)[Wed-Fri + Alt Sat]](https://careers.na.panasonic.com/careers-home/jobs/52354) | Sparks, Nevada |  | 2026-11-12 |  |
-| Panasonic North America | [Technician I Assembly, Rotating Days / C-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/52356) | Sparks, Nevada |  | 2026-11-12 |  |
-| Rady Children's Health San Diego | [Food Service Worker (Casual) - Per Diem - Food Service](https://jobs.rchsd.org/job/san-diego/food-service-worker-casual-per-diem-food-service/1717/103204755952) | San Diego, California | $23 to $28.88/hour | 2026-11-12 |  |
-| Republic Services | [Driver Trainee](https://jobs.republicservices.com/us/en/job/R-188406) | Winder, Georgia, United States of America |  | 2026-11-12 |  |
-| Republic Services | [Technician Trainee](https://jobs.republicservices.com/us/en/job/R-185878) | Eden Prairie, Minnesota, United States of America | $24.10 to $33.10/hour | 2026-11-12 |  |
-| Republic Services | [Driver Trainee-2](https://jobs.republicservices.com/us/en/job/R-188090) | Muskegon, Michigan, United States of America |  | 2026-11-12 |  |
-| Republic Services | [Diesel Mechanic - Technician C](https://jobs.republicservices.com/us/en/job/R-188206) | Allentown, Pennsylvania, United States of America | $25.15 to $37.75/hour | 2026-11-12 |  |
-| Rockwell Automation | [Assembler 2](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Assembler-2_R26-8462-1) | Mequon, Wisconsin, United States | $19.50/hour | 2026-11-12 | no visa sponsorship |
-| Senior plc | [Process Operator](https://jobs.smartrecruiters.com/SeniorPlc1/3743990016798696-process-operator) | Burbank, California, us | $47,840 | 2026-11-12 | US citizens/persons only |
-| SGS | [Field Technician I- TWIC Required](https://jobs.smartrecruiters.com/SGS/744000161165968-field-technician-i-twic-required-) | Mobile, AL, us |  | 2026-11-12 |  |
-| Shinola- Retail | [Shinola Retail Key Holder - LA - Venice](https://job-boards.greenhouse.io/shinolaretail/jobs/8938416002) | Los Angeles, CA | $19.25 to $21.35/hour | 2026-11-12 |  |
-| Sika AG | [Shipping Operator](https://jobs.smartrecruiters.com/SikaAG/744000161177909-shipping-operator) | Fontana, CA, us |  | 2026-11-12 |  |
-| Soho House & Co. | [Cecconi's Barback - Soho Beach House Miami](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/5033464101) | Soho Beach House Miami, 4385 Collins Ave, Miami Beach, FL 33140 |  | 2026-11-12 |  |
-| Splendido | [Pastry Cook](https://job-boards.greenhouse.io/mathersplendido/jobs/5291727007) | Splendido (Tucson, AZ) |  | 2026-11-12 |  |
-| Stream Realty | [Desktop Technician](https://jobs.smartrecruiters.com/StreamRealty/744000161175005-desktop-technician) | Houston, TX, us |  | 2026-11-12 |  |
-| Surgery Partners | [Surgical Tech](https://job-boards.greenhouse.io/surgerypartners/jobs/4503233009) | Independence, Ohio, United States |  | 2026-11-12 |  |
-| Trucking Group UTAH | [SW: CDL-A Local Driver – Competitive Hourly Pay + Early Starts](https://rodriguez.breezy.hr/p/436eb91b693f-sw-cdl-a-local-driver-competitive-hourly-pay-early-starts) | Sacramento, CA | $25 to $28.50/hour | 2026-11-12 |  |
-| University Health (San Antonio) | [Cook - Part-Time](https://careers.universityhealth.com/job/selma/cook-part-time/43277/103163088112) | Selma, TX |  | 2026-11-12 |  |
-| University Health (San Antonio) | [Cook](https://careers.universityhealth.com/job/selma/cook/43277/103163087440) | Selma, TX |  | 2026-11-12 |  |
-| Waste Connections | [CDL Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/3087-Gills-Freeport-Disposal/CDL-Driver_R-105387) | 3087-Gills Freeport Disposal | $28/hour | 2026-11-12 |  |
-| WM (Waste Management) | [Yard Driver](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355819) | Concord, NC, United States | $18.24/hour | 2026-11-12 |  |
-| Yellowstone Local | [Plumbing Service Technician](https://jobs.yellowstonelocal.com/o/plumbing-service-technician-24568235012366) | Tucson, AZ, US | $75,000 to $100,000 | 2026-11-12 |  |
-| Zachry Group | [Janitor I](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16436) | Gregory, TX, United States |  | 2026-11-12 |  |
-| Experience Senior Living | [Environmental Services Technician (Maintenance Tech) Part Time](https://apply.workable.com/j/B6DBD6EBD4) | Lone Tree, Colorado, United States | $22 to $24/hour | 2026-11-12 |  |
-| University Health (San Antonio) | [Cook](https://careers.universityhealth.com/job/san-antonio/cook/43277/54065955776) | San Antonio, TX |  | 2026-11-12 |  |
-| University Health (San Antonio) | [Cook](https://careers.universityhealth.com/job/san-antonio/cook/43277/56989069728) | San Antonio, TX |  | 2026-11-12 |  |
-| Wine Enthusiast | [Delivery Driver Helper](https://ats.rippling.com/wineenthusiast/jobs/f82abc19-d19b-4bed-874d-e193e6364d7e) | Perth Amboy, NJ |  | 2026-11-12 |  |
-| RR Donnelley | [Hoist Operator 2 - 1st Shift](https://jobs.smartrecruiters.com/RRDonnelley/744000137758489-hoist-operator-2-1st-shift) | Commerce, CA, us | $18.25/hour | 2026-11-12 |  |
-| InfraServices | [Tower Technician I](https://jobs.lever.co/infraservices/5cbb229d-ff78-45be-8560-34e295cc06bf) | Wanamingo, Minnesota |  | 2026-11-12 |  |
-| RR Donnelley | [H0391-Digital Print Operator 2](https://jobs.smartrecruiters.com/RRDonnelley/744000089492095-h0391-digital-print-operator-2) | Lewisville, TX, us | $17.50 to $22.60/hour | 2026-11-12 |  |
-| Reliable Safety and Flow Corporation | [Material Handler- 3rd Shift Shipping](https://reliablesfc.pinpointhq.com/en/postings/cbcd3e3a-8480-4a6e-aeab-940dffa38c3b) | Liberty, South Carolina |  | 2026-11-12 |  |
-| Waste Connections | [Local CDL Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/2183-LeMay-Pacific/Local-CDL-Driver_R-103221) | 2183-LeMay Pacific | $35.01/hour | 2026-11-11 |  |
-| Ascension | [Mobile Unit Driver](https://jobs.ascension.org/us/en/job/27493) | Evansville, IN, US |  | 2026-11-11 |  |
-| Caterpillar | [Iron Technician I](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Grand-Junction-Colorado/Iron-Technician-I_R0000394241) | Grand Junction, Colorado | $20.80 to $27.85/hour | 2026-11-11 | no visa sponsorship |
-| Domino's | [Delivery Experts (01448) 716 E Broadway](https://jobs.smartrecruiters.com/Dominos/744000161009181-delivery-experts-01448-716-e-broadway) | Louisville, KY, us |  | 2026-11-11 |  |
-| Domino's | [Closing Delivery Driver(06273) - 200 A W 29 ST](https://jobs.smartrecruiters.com/Dominos/744000161007857-closing-delivery-driver-06273-200-a-w-29-st) | Pueblo, CO, us |  | 2026-11-11 |  |
-| Domino's | [Closing Delivery Driver(06271) - 1501 S PRAIRIE AVE](https://jobs.smartrecruiters.com/Dominos/744000161011879-closing-delivery-driver-06271-1501-s-prairie-ave) | Pueblo, CO, us |  | 2026-11-11 |  |
-| Domino's | [Delivery Driver(08213)](https://jobs.smartrecruiters.com/Dominos/744000160999860-delivery-driver-08213-) | San Antonio, TX, us |  | 2026-11-11 |  |
-| Domino's | [Delivery Driver (02557) - 908 N Walnut St](https://jobs.smartrecruiters.com/Dominos/744000160999312-delivery-driver-02557-908-n-walnut-st) | Bloomington, IN, us |  | 2026-11-11 |  |
-| Domino's | [Delivery Driver(06839)](https://jobs.smartrecruiters.com/Dominos/744000160998634-delivery-driver-06839-) | San Angelo, TX, us |  | 2026-11-11 |  |
-| Domino's | [Delivery Driver(08008)](https://jobs.smartrecruiters.com/Dominos/744000160997525-delivery-driver-08008-) | San Antonio, TX, us |  | 2026-11-11 |  |
-| Ericsson | [Data Center Technician I - Entry Level](https://jobs.ericsson.com/careers/job/563121777263747) | Worthington, OH, US; Westerville, OH, US; Columbus, OH, US; New Albany |  | 2026-11-11 | no visa sponsorship |
-| Garmin | [GIS/Cartography Technician 1](https://careers.garmin.com/careers-home/jobs/21552) | Olathe, Kansas |  | 2026-11-11 |  |
-| Google | [Data Center Technician I](https://www.google.com/about/careers/applications/jobs/results/89657015277626054) | Bridgeport, AL, USA | $73,500 to $100,000 | 2026-11-11 |  |
-| J Rose Logistics | [Class A CDL Driver / Home Weekly / 0.70CPM](https://j-rose-enterprises-llc.breezy.hr/p/f7d70ee2fc85-class-a-cdl-driver-home-weekly-0-70cpm) | Kansas City, KS |  | 2026-11-11 |  |
-| J Rose Logistics | [Class A CDL Truck Driver / Home Weekly / 0.70CPM](https://j-rose-enterprises-llc.breezy.hr/p/41e6dcbdb5aa-class-a-cdl-truck-driver-home-weekly-0-70cpm) | St Louis, MO | $90,000 to $100,000 | 2026-11-11 |  |
-| J Rose Logistics | [Semi-Local Class A CDL Driver / Pneumatic Division](https://j-rose-enterprises-llc.breezy.hr/p/99dd8984fffc-semi-local-class-a-cdl-driver-pneumatic-division) | Augusta, GA | $1,200 to $1,600/week | 2026-11-11 |  |
-| J Rose Logistics | [Semi-Local Class A CDL Driver / Pneumatic Division](https://j-rose-enterprises-llc.breezy.hr/p/b3e9a2cd55b7-semi-local-class-a-cdl-driver-pneumatic-division) | Marietta, GA | $1,200 to $1,600/week | 2026-11-11 |  |
-| J Rose Logistics | [Semi-Local Class A CDL Drivers - Pneumatic Tanker](https://j-rose-enterprises-llc.breezy.hr/p/84ec89d17b77-semi-local-class-a-cdl-drivers-pneumatic-tanker) | Birmingham, AL | $1,200 to $1,600/week | 2026-11-11 |  |
-| Select Water Solutions | [Operator I - Water Transfer](https://jobs.dayforcehcm.com/en-US/select/CANDIDATEPORTAL/jobs/33603) | Cambridge, OH 43725, USA |  | 2026-11-11 |  |
-| Select Water Solutions | [Operator I - Water Transfer](https://jobs.dayforcehcm.com/en-US/select/CANDIDATEPORTAL/jobs/33598) | Hickory, PA, USA |  | 2026-11-11 |  |
-| Select Water Solutions | [Operator I - Water Transfer](https://jobs.dayforcehcm.com/en-US/select/CANDIDATEPORTAL/jobs/33588) | DuBois, PA 15801, USA |  | 2026-11-11 |  |
-| Senior Resource Group, LLC | [Server - Villa Hermosa](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000160988309-server-villa-hermosa) | Tucson, AZ, us |  | 2026-11-11 |  |
-| Senior Resource Group, LLC | [Server - Villa Hermosa](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000160988210-server-villa-hermosa) | Tucson, AZ, us |  | 2026-11-11 |  |
-| Waste Connections | [CDL Truck Driver](https://wasteconnections.wd1.myworkdayjobs.com/Careers/job/5190-Haltom-City/CDL-Truck-Driver_R-105171) | 5190-Haltom City | $23 to $25/hour | 2026-11-11 |  |
-| Action Property Management | [Maintenance Technician I - Daniel Burnham Court](https://jobs.lever.co/actionlife/7dd7fc4d-0a61-47f1-b6d3-a72e59fc733d) | San Francisco, CA | $32 to $35/hour | 2026-11-11 |  |
-| Advance Displays Inc. | [Order Fulfillment Specialist](https://advancedisplays.bamboohr.com/careers/64) | Scottsboro, Alabama, United States |  | 2026-11-11 |  |
-| AECOM | [Entry-Level Archaeological Technician](https://jobs.smartrecruiters.com/AECOM2/744000160953926-entry-level-archaeological-technician) | Germantown, MD, us |  | 2026-11-11 | no visa sponsorship, US citizens/persons only |
-| AEP | [Service Mechanic C-A](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Abilene-TX/Service-Mechanic-C-A_R20897) | Abilene, TX | $34.96 to $56.52/hour | 2026-11-11 |  |
-| Asbury Communities | [Cook](https://jobs.smartrecruiters.com/AsburyCommunities/744000160944399-cook) | Erie, PA, us |  | 2026-11-11 |  |
-| Asbury Communities | [Cook](https://jobs.smartrecruiters.com/AsburyCommunities/744000160943129-cook) | Erie, PA, us |  | 2026-11-11 |  |
-| Asbury Communities | [Cook](https://jobs.smartrecruiters.com/AsburyCommunities/744000160942409-cook) | Erie, PA, us |  | 2026-11-11 |  |
-| Ascension | [Certified Sterile Processing Technician (CRCST)](https://jobs.ascension.org/us/en/job/1319412) | Indianapolis, IN, US |  | 2026-11-11 |  |
-| Ascension | [Switchboard Operator](https://jobs.ascension.org/us/en/job/28999) | Jacksonville, FL, US |  | 2026-11-11 |  |
-| AST SpaceMobile | [2nd Shift Technician I](https://ast-science.com/company/careers/?gh_jid=4745963005) | Midland, Texas, United States | $20/hour | 2026-11-11 |  |
-| AST SpaceMobile | [Technician I, 3rd shift, 20703 MLI](https://ast-science.com/company/careers/?gh_jid=4741206005) | Midland, Texas, United States | $20/hour | 2026-11-11 |  |
-| Avery Dennison | [Label Machine Operator, SUN-TUES 8PM-7:30AM WED 10:30PM-7AM](https://jobs.smartrecruiters.com/AveryDennison/744000160961419-label-machine-operator-sun-tues-8pm-7-30am-wed-10-30pm-7am) | Charlotte, NC, us |  | 2026-11-11 |  |
-| BAYADA Home Health Care | [Registered Behavioral Technician (RBT) / Part-time](https://jobs.bayada.com/en/jobs?gh_jid=8936318002) | Pennsauken, NJ 08109 / 39.950866919 / -75.048664024 |  | 2026-11-11 |  |
-| Bertelsmann | [Material Handler II](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160907965-material-handler-ii) | Valencia, California (CA), us | $23.50/hour | 2026-11-11 |  |
-| BNSF Railway | [Conductor Trainee Centralia, IL](https://jobs.bnsf.com/us/en/job/95917) | Centralia, IL, United States | $259.65/hour | 2026-11-11 |  |
-| Bobcat Transport | [Small Co/Guaranteed Salary/Fly to Job Sites-Need Hazmat & Tanker CDL A Driver](https://bobcat-transport.breezy.hr/p/d95dc8d6e3ea-small-co-guaranteed-salary-fly-to-job-sites-need-hazmat-tanker-cdl-a-driver) | Atlanta, GA |  | 2026-11-11 |  |
-| C3EL | [AV Technician](https://job-boards.greenhouse.io/c3el/jobs/5290716007) | Tampa, FL |  | 2026-11-11 | US citizens/persons only, clearance |
-| California Closets | [Installation Technician Journeyman](https://jobs.smartrecruiters.com/CaliforniaClosets/744000160986189-installation-technician-journeyman) | Tucson, AZ, us | $24 to $26/hour | 2026-11-11 |  |
-| Canam | [Maintenance Worker](https://jobs.smartrecruiters.com/GroupeCanam/744000160897675-maintenance-worker) | Claremont, NH, NH, us |  | 2026-11-11 |  |
-| CommonSpirit Health (St. Luke's Health) | [Barista](https://www.commonspirit.careers/job/houston/barista/35300/103137728288) | HOUSTON, TX |  | 2026-11-11 |  |
-| CommonSpirit Health (St. Luke's Health) | [Barista](https://www.commonspirit.careers/job/houston/barista/35300/103137728336) | HOUSTON, TX |  | 2026-11-11 |  |
-| CommonSpirit Health (St. Luke's Health) | [Barista](https://www.commonspirit.careers/job/houston/barista/35300/103137728560) | HOUSTON, TX |  | 2026-11-11 |  |
-| CommonSpirit Health (St. Luke's Health) | [Cook](https://www.commonspirit.careers/job/houston/cook/35300/103137728432) | HOUSTON, TX |  | 2026-11-11 |  |
-| CommonSpirit Health (St. Luke's Health) | [Cook](https://www.commonspirit.careers/job/park-rapids/cook/35300/103116351424) | PARK RAPIDS, MN |  | 2026-11-11 |  |
-| CommonSpirit Health (St. Luke's Health) | [Cook](https://www.commonspirit.careers/job/sacramento/cook/35300/102785911984) | SACRAMENTO, CA |  | 2026-11-11 |  |
-| Cortland | [Maintenance Technician-Cortland Hunters Creek](https://job-boards.greenhouse.io/cortland/jobs/4486639009) | Orlando, FL |  | 2026-11-11 |  |

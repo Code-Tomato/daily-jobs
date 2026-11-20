@@ -1,14 +1,53 @@
 # New grad and entry level: Hardware, chips and embedded
 
-1,093 open, newest first (by the date the scraper first saw them), updated 2026-11-19. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,100 open, newest first (by the date the scraper first saw them), updated 2026-11-20. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Ciena | [Verification and Field Application Engineer - New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-and-Field-Application-Engineer---New-Grad_R032159) | Atlanta | $67,400 to $107,400 | 2026-11-20 |  |
+| IMC | [Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4987749101) | Chicago, United States; New York, United States | $175,000 to $225,000 | 2026-11-20 |  |
+| KLA | [Optical Manufacturing Design Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Manufacturing-Design-Engineer_2643128) | Milpitas, CA | $106,700 to $181,400 | 2026-11-20 |  |
+| Plains All American | [Electrical & Instrumentation Technician I](https://plains.wd1.myworkdayjobs.com/Plains/job/Dilley-TX/Electrical---Instrumentation-Technician-I_R0015280) | Dilley, TX |  | 2026-11-20 |  |
+| The Boring Company | [Electrical Engineer](https://jobs.gem.com/the-boring-company/am9icG9zdDroPBM0DTppuBvWI13XuuPd) | Nashville, TN |  | 2026-11-20 |  |
+| BAYADA Home Health Care | [Part-Time Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8954062002) | Centre Hall, PA 16828 / 40.823483146 / -77.690268077 | $17/hour | 2026-11-20 |  |
+| Daimler Truck North America | [Mechanical Product Validation Engineer I – Vehicle Thermodynamics & Integration (VTI)](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Mechanical-Product-Validation-Engineer-I---Vehicle-Thermodynamics---Integration--VTI-_DT-20717-2) | Portland, OR US | $71,000 to $91,000 | 2026-11-20 |  |
+| Elevance Health | [Benefit Verification Specialist - BioPlus Specialty Pharmacy](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/Benefit-Verification-Specialist---BioPlus-Specialty-Pharmacy_JR213315-1) | FL-LAKE MARY, 3200 LAKE EMMA RD, STE 1000 |  | 2026-11-20 |  |
+| Enbridge | [Electrical Controls Technician I](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Orla-TX-USA/Electrical-Controls-Technician-I_73521-1) | Orla, TX, USA | $40 to $42/hour | 2026-11-20 |  |
+| ERG | [Process Engineer](https://jobs.lever.co/erg/a0b2f85f-deda-422e-b8ab-52b6405d942f) | Indian Head, MD |  | 2026-11-20 | US citizens/persons only, clearance |
+| Eye Care Partners | [Optical Sales Associate / Optician - Training Provided!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8951695002) | Columbia, MO |  | 2026-11-20 |  |
+| Garmin | [Process Engineer 1](https://careers.garmin.com/careers-home/jobs/21751) | Salem, Oregon |  | 2026-11-20 |  |
+| GlobalFoundries | [Design-for-Test Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Sr-Engineer-Design_JR-2604155) | USA - Texas - Richardson | $86,000 to $148,000 | 2026-11-20 |  |
+| HPE | [VLSI ASIC Logic Design Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-ASIC-Logic-Design-Engineer_1218744-2) | Ft. Collins, Colorado, United States of America | $115,000 to $218,000 | 2026-11-20 |  |
+| Intel | [Mechanical or Electrical Tool Install Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Mechanical-or-Electrical-Tool-Install-Engineer_JR0289188) | US, Oregon, Hillsboro (hybrid) | $89,010 to $170,630 | 2026-11-20 |  |
+| Intel | [Oregon Advanced Packaging Module Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Oregon-Advanced-Packaging-Module-Engineer_JR0289276) | US, Oregon, Hillsboro | $99,030 to $146,440 | 2026-11-20 |  |
+| LMR Technical Group | [Electronic Flight Bag / Electronic Knee Board (EFB/EKB) Manager](https://lmrtechnicalgroup.bamboohr.com/careers/1753) | Moody AFB, Georgia, United States |  | 2026-11-20 | no visa sponsorship, US citizens/persons only, clearance |
+| Loma Linda University Health | [Insurance Verification Rep 1](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18156) | Redlands, CA, United States |  | 2026-11-20 |  |
+| Micron | [New College Grad - Semiconductor Process Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---Semiconductor-Process-Engineer_JR116031) | Boise, ID - ID1 |  | 2026-11-20 |  |
+| National Vision | [Licensed Optician - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000162609882-licensed-optician-optical-specialist) | Naples, FL, us |  | 2026-11-20 |  |
+| Panasonic North America | [Controls Engineer I](https://careers.na.panasonic.com/careers-home/jobs/51095) | Sparks, Nevada |  | 2026-11-20 |  |
+| Sopra Steria | [FPGA Verification Engineer (Entry Level)](https://jobs.smartrecruiters.com/SopraSteria1/744000162563965-fpga-verification-engineer-entry-level-) | Platteville, WI, us |  | 2026-11-20 | US citizens/persons only |
+| SpaceX | [Electrical Engineer, PCB (Starlink/Starmind)](https://boards.greenhouse.io/spacex/jobs/8943531002?gh_jid=8943531002) | Bastrop, TX |  | 2026-11-20 | US citizens/persons only |
+| SpaceX | [Integration & Test Engineer (Bus & Payload Sub-Assemblies)](https://boards.greenhouse.io/spacex/jobs/8950289002?gh_jid=8950289002) | Redmond, WA | $100,000 to $165,000 | 2026-11-20 | US citizens/persons only |
+| University of Texas at Austin | [Graduate Program Administrator, Electrical and Computer Engineering in Cockrell School of Engineering](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Graduate-Program-Administrator---Electrical-and-Computer-Engineering-in-Cockrell-School-of-Engineering_R_00050082) | AUSTIN, TX |  | 2026-11-20 |  |
+| Daimler Truck North America | [Manufacturing Production Process Engineer I](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Byesville-OH-US/Manufacturing-Production-Process-Engineer-I_DT-20280) | Byesville, OH US | $71,000 to $91,000 | 2026-11-20 |  |
+| Halliburton | [Electronic Technician I-III](https://careers.halliburton.com/job/odessa/electronic-technician-i-iii/543/103487286752) | Odessa, TX |  | 2026-11-20 |  |
+| Honda | [Mechatronics Test Engineer](https://careers.honda.com/us/en/job/13419) | Haw River, North Carolina, United States |  | 2026-11-20 |  |
+| HPE | [ASIC Design for Test Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-for-Test-Engineer_1211215-3) | Sunnyvale, California, United States of America | $84,200 to $170,300 | 2026-11-20 |  |
+| Johnson & Johnson | [Operations Process Engineer/Surgical Robotics-OTTAVA](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Operations-Process-Engineer-Surgical-Robotics-OTTAVA_R-111447) | Santa Clara, California, United States of America | $76,000 to $108,230 | 2026-11-20 |  |
+| KLA | [Semiconductor Field Service Engineer - New College Grads](https://kla.wd1.myworkdayjobs.com/Search/job/Boise-ID/Semiconductor-Field-Service-Engineer---New-College-Grads_2639745-1) | Boise, ID | $29.19 to $49.62/hour | 2026-11-20 |  |
+| KLA | [Electrical Design Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Electrical-Design-Engineer_2635639-1) | Milpitas, CA | $95,000 to $161,500 | 2026-11-20 |  |
+| Motorola Solutions | [Security Operations Center (SOC) Analyst I (Night Shift)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/San-Antonio-TX/Security-Operations-Center--SOC--Analyst-I--Night-Shift-_R69854) | San Antonio, TX | $80,000 to $85,000 | 2026-11-20 | no visa sponsorship, US citizens/persons only, clearance |
+| Varda | [Spacecraft Systems Integration & Test Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/8208956003) | El Segundo, California, United States | $109,148 to $172,673 | 2026-11-20 | US citizens/persons only |
+| Anduril Industries | [Operations Analyst, Hardware Platform Operations](https://boards.greenhouse.io/andurilindustries/jobs/5286764007?gh_jid=5286764007) | Costa Mesa, California, United States | $124,000 to $164,000 | 2026-11-20 | US citizens/persons only |
+| Kairos Power | [Firmware Development Engineer](https://job-boards.greenhouse.io/kairospower/jobs/6193295004) | Alameda, CA | $92,454 to $108,769 | 2026-11-20 |  |
+| Rocket Lab | [Avionics Test Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8055497003) | Long Beach, CA | $68,000 to $93,500 | 2026-11-20 | US citizens/persons only |
+| Relativity Space | [Instrumentation & Controls Engineer I](https://boards.greenhouse.io/relativity/jobs/8870944002?gh_jid=8870944002) | Cape Canaveral, Florida, United States | $90,000 to $136,000 | 2026-11-20 |  |
+| Astranis | [RF Test Engineer](https://job-boards.greenhouse.io/astranis/jobs/4005511006) | San Francisco | $115,000 to $180,000 | 2026-11-20 | US citizens/persons only |
 | Eye Care Partners | [Optical Sales Associate / Optician - Training Provided!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8951594002) | Lake St. Louis, MO |  | 2026-11-19 |  |
-| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8950112002) | Jacksonville, NC 28540 / 34.762214469 / -77.472743592 | $16/hour | 2026-11-19 |  |
 | BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8950028002) | Pottstown, PA 19464 / 40.255510881 / -75.629775003 | $18/hour | 2026-11-19 |  |
+| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8950112002) | Jacksonville, NC 28540 / 34.762214469 / -77.472743592 | $16/hour | 2026-11-19 |  |
 | Blue Origin | [Instrumentation and Controls Engineer I](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Huntsville-AL/Instrumentation-and-Controls-Engineer-I_R67306) | Huntsville, AL |  | 2026-11-19 | US citizens/persons only |
 | Blue Origin | [GN&C Guidance and Control Engineer III - ACE](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/GN-C-Guidance-and-Control-Engineer-III---ACE_R75490) | Greater Seattle Area | $119,814 to $182,987.70 | 2026-11-19 | US citizens/persons only |
 | CMTS LLC | [Mechanical Electrical Plumbing Inspector – Aviation & Infrastructure – PA/MD/NJ/DE](https://cmtsllc.bamboohr.com/careers/1427) | Philadelphia, Pennsylvania, United States | $85,000 to $105,000 | 2026-11-19 |  |
@@ -16,7 +55,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Dungarvin | [Direct Support Professional (DSP) Float / Caregiver](https://jobs.smartrecruiters.com/Dungarvin/744000162396663-direct-support-professional-dsp-float-caregiver-) | Flora, IN, us |  | 2026-11-19 |  |
 | Eye Care Partners | [Optical Sales Associate / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8950717002) | Midwest City, OK |  | 2026-11-19 |  |
 | National Vision | [Sales Associate - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000162395849-sales-associate-optical-specialist) | Draper, UT, us |  | 2026-11-19 |  |
-| National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000162395519-sales-associate-optical-specialist-part-time) | Grand Rapids, MI, us |  | 2026-11-19 |  |
 | National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000162395349-sales-associate-optical-specialist-part-time) | Daytona Beach, FL, us |  | 2026-11-19 |  |
 | National Vision | [Sales Associate - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000162377661-sales-associate-optical-specialist) | Knoxville, TN, us |  | 2026-11-19 |  |
 | National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000162375919-sales-associate-optical-specialist-part-time) | Goodyear, AZ, us |  | 2026-11-19 |  |
@@ -36,7 +74,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BAYADA Home Health Care | [Hab Aide/DSP (Direct Support Professional)](https://jobs.bayada.com/en/jobs?gh_jid=8948054002) | Monroeville, PA 15146 / 40.43051069 / -79.765676874 | $19/hour | 2026-11-18 |  |
 | DABS, Inc. | [Direct Support Professional (DSP)](https://jobs.lever.co/dabsinc/947f007e-333a-46c0-acca-d5a2dda40560) | Oakley, CA | $17 to $25/hour | 2026-11-18 |  |
 | Daimler Truck North America | [Electrical Engineer I](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gaffney-SC-US/Electrical-Engineer-I_DT-20723) | Gaffney, SC US | $71,000 to $91,000 | 2026-11-18 |  |
-| Eurofins | [Associate Engineer, Electrical Failure Analysis](https://jobs.smartrecruiters.com/Eurofins/744000162140057-associate-engineer-electrical-failure-analysis) | Sunnyvale, CA, us |  | 2026-11-18 | US citizens/persons only |
 | General Matter | [Automation & Controls Engineer, New Grads](https://job-boards.greenhouse.io/generalmatter/jobs/5476939008) | Los Angeles, CA | $125,000 to $135,000 | 2026-11-18 | clearance |
 | General Matter | [Mechanical Process Engineer (New Grad)](https://job-boards.greenhouse.io/generalmatter/jobs/5485524008) | Los Angeles | $96,000 to $106,000 | 2026-11-18 | clearance |
 | GM | [Casting Process Engineer – Development Program](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Saginaw-Michigan-United-States-of-America/Casting-Process-Engineer---Development-Program_JR-202614031) | Saginaw, Michigan, United States of America |  | 2026-11-18 | no visa sponsorship |
@@ -58,9 +95,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Axon | [Hardware Validation Automation Analyst I (Onsite)](https://job-boards.greenhouse.io/axon/jobs/8201576003) | Phoenix, Arizona, United States |  | 2026-11-17 |  |
 | BAYADA Home Health Care | [Special Needs Caregiver / DSP](https://jobs.bayada.com/en/jobs?gh_jid=8944693002) | Eden, NC 27288 / 36.50150396 / -79.752907587 | $16/hour | 2026-11-17 |  |
 | CVS Health | [Benefits Verification Specialist- Work from home](https://jobs.cvshealth.com/us/en/job/R1088484) | Work at Home, Georgia, United States (remote) | $17 to $31.30/hour | 2026-11-17 |  |
-| Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8945061002) | Saline, MI |  | 2026-11-17 |  |
-| Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8944592002) | Birmingham, AL |  | 2026-11-17 |  |
 | Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8944588002) | Birmingham, AL |  | 2026-11-17 |  |
+| Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8944592002) | Birmingham, AL |  | 2026-11-17 |  |
+| Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8945061002) | Saline, MI |  | 2026-11-17 |  |
 | Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8944585002) | Moody, AL |  | 2026-11-17 |  |
 | GlobalFoundries | [GaN & Compound Semiconductor Device Technology Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/GaN---Compound-Semiconductor-Device-Technology-Engineer--2027-New-College-Graduate-_JR-2604443) | USA - New York - Malta | $85,000 to $146,000 | 2026-11-17 |  |
 | GlobalFoundries | [Heterogeneous Integrated Photonics Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Heterogeneous-Integrated-Photonics-Engineer--2027-New-College-Graduate-_JR-2604442) | USA - New York - Malta | $85,000 to $146,000 | 2026-11-17 |  |
@@ -107,8 +144,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AECOM | [Entry-Level Electrical Engineer](https://jobs.smartrecruiters.com/AECOM2/744000161349180-entry-level-electrical-engineer) | Atlanta, GA, us |  | 2026-11-13 | US citizens/persons only |
 | Antares | [Electrical Engineer I/II](https://jobs.ashbyhq.com/Antares/cec14d84-448c-4665-919c-170f7102ced9) | Los Angeles |  | 2026-11-13 | US citizens/persons only |
 | Boyd Gaming | [Engineer I](https://jobs.smartrecruiters.com/BoydGaming/3743990016823166-engineer-i) | Michigan City, us |  | 2026-11-13 |  |
-| Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8939205002) | Montgomery, AL |  | 2026-11-13 |  |
 | Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8939475002) | Columbus, OH |  | 2026-11-13 |  |
+| Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8939205002) | Montgomery, AL |  | 2026-11-13 |  |
 | Micron | [ATE Diffusion Process Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/ATE-Diffusion-Process-Engineer_JR117676) | Boise, ID - ID1 |  | 2026-11-13 |  |
 | Micron | [New College Grad - ATE Process Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---ATE-Process-Engineer_JR107760) | Boise, ID - ID1 |  | 2026-11-13 |  |
 | Micron | [New College Grad - Semiconductor Process Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Process-Engineer_JR116163) | Boise, ID - Main Site |  | 2026-11-13 |  |
@@ -136,7 +173,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Dodmg | [Mechanical Engineer: RF Subsystems](https://jobs.lever.co/dodmg/8a5cad5b-41da-440e-ac52-b826d70cc67d) | Calabasas, CA | $81,100 to $98,900 | 2026-11-11 | clearance |
 | Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8936239002) | Conyers, GA |  | 2026-11-11 |  |
 | Lam Research | [Electrical Engineer 1](https://careers.lamresearch.com/careers/job/1099556271141) | Fremont, CA, US | $73,000 to $135,000 | 2026-11-11 |  |
-| LotusWorks | [Junior Electrical Field Engineer](https://job-boards.eu.greenhouse.io/lotusworks/jobs/5026707101) | New Albany, Ohio, United States |  | 2026-11-11 |  |
+| LotusWorks | [Junior Electrical Commissioning Engineer](https://job-boards.eu.greenhouse.io/lotusworks/jobs/5026707101) | New Albany, Ohio, United States |  | 2026-11-11 |  |
 | LotusWorks | [Waste/UPW Commissioning Engineer](https://job-boards.eu.greenhouse.io/lotusworks/jobs/5029163101) | New Albany, Ohio, United States |  | 2026-11-11 |  |
 | National Vision | [Sales Associate - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000160972199-sales-associate-optical-specialist) | Merritt Island, FL, us |  | 2026-11-11 |  |
 | National Vision | [Sales Associate - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000160885920-sales-associate-optical-specialist) | Littleton, CO, us |  | 2026-11-11 |  |
@@ -153,9 +190,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Thermo Fisher Scientific | [R&D - Electrical Engineer Technician](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Marietta-Ohio-USA/R-D---Electrical-Engineer-Technician_R-01364233) | Marietta, Ohio, USA |  | 2026-11-10 |  |
 | Anduril Industries | [Early Career RF Mission Systems Engineer, Air Dominance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007) | Costa Mesa, California, United States | $120,000 to $153,000 | 2026-11-10 |  |
 | ANS | [Electrical Engineer (0-3 Years of Experience)](https://jobs.lever.co/ans/5aea1568-64c4-4c44-ab38-478c2d215490) | Overland Park, Kansas |  | 2026-11-10 |  |
-| Aspen Skiing Company | [Concierge - Limelight Ketchum](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000160741579-concierge-limelight-ketchum) | Ketchum, ID, us |  | 2026-11-10 |  |
-| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8934963002) | Dover, DE 19901 / 39.154775745 / -75.516464902 | $17.50 to $18/hour | 2026-11-10 |  |
 | BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8934815002) | Allentown, PA 18102 / 40.606417257 / -75.478311068 | $17.50 to $19/hour | 2026-11-10 |  |
+| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8934963002) | Dover, DE 19901 / 39.154775745 / -75.516464902 | $17.50 to $18/hour | 2026-11-10 |  |
 | Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8935141002) | Fayetteville, NC |  | 2026-11-10 |  |
 | Intel | [IP Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/IP-Design-Verification-Engineer_JR0288395) | US, California, Santa Clara (hybrid) | $105,650 to $149,150 | 2026-11-10 | no visa sponsorship |
 | Intel | [NM Silicon Photonics Lithography Process Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/NM-Silicon-Photonics-Lithography-Process-Development-Engineer_JR0289004) | US, New Mexico, Albuquerque | $99,030 to $188,890 | 2026-11-10 |  |
@@ -180,7 +216,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | National Vision | [EXPERIENCED Optical Lab Techs (F/T 3-day schedule)](https://jobs.smartrecruiters.com/NationalVision1/744000160480081-experienced-optical-lab-techs-f-t-3-day-schedule-) | Plano, TX, us |  | 2026-11-08 |  |
 | National Vision | [Licensed Optician - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000160480490-licensed-optician-optical-specialist) | Tucson, AZ, us |  | 2026-11-08 |  |
 | National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000160480329-sales-associate-optical-specialist-part-time) | Rockford, IL, us |  | 2026-11-08 |  |
-| National Vision | [Sales Associate - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000160480289-sales-associate-optical-specialist) | Tempe, AZ, us |  | 2026-11-08 |  |
 | National Vision | [Licensed Optician - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000160479109-licensed-optician-optical-specialist) | Estero, FL, us |  | 2026-11-08 |  |
 | National Vision | [Licensed Optician - Optical Specialist - Bilingual Spanish](https://jobs.smartrecruiters.com/NationalVision1/744000160477959-licensed-optician-optical-specialist-bilingual-spanish) | Kissimmee, FL, us |  | 2026-11-08 |  |
 | Sigma Defense | [1454 - RF Electrical Engineer](https://apply.workable.com/j/DAEA691E19) | Huntsville, Alabama, United States | $65,000 to $85,000 | 2026-11-07 | US citizens/persons only, clearance |
@@ -189,16 +224,14 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Base Power | [Electronics Design Engineer](https://jobs.ashbyhq.com/base-power/617e05a6-a617-4223-9e50-1fc12a12c95d) | Austin, TX |  | 2026-11-07 |  |
 | Base Power | [Battery Safety & Abuse Test Engineer](https://jobs.ashbyhq.com/base-power/a2915462-a9de-49c7-9062-826f3405210f) | Austin, TX |  | 2026-11-07 |  |
 | Base Power | [Test Engineer, Abuse Engineering](https://jobs.ashbyhq.com/base-power/6d34e4ff-fd0d-46da-b01a-62be7f1e33e0) | Austin, TX |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8933272002) | Harrisonville, MO 64701 / 38.648093024 / -94.339369912 | $18/hour | 2026-11-07 |  |
 | BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8933127002) | Asheville, NC 28806 / 35.581282476 / -82.610950259 | $18/hour | 2026-11-07 |  |
+| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8933272002) | Harrisonville, MO 64701 / 38.648093024 / -94.339369912 | $18/hour | 2026-11-07 |  |
 | BAYADA Home Health Care | [Part-time Special Needs Caregiver (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8933301002) | Liberty, MO 64069 / 39.231181 / -94.432794 | $19/hour | 2026-11-07 |  |
 | BAYADA Home Health Care | [Special Needs Caregivers / DSP](https://jobs.bayada.com/en/jobs?gh_jid=8933152002) | Reading, PA 19601 / 40.346454645 / -75.934254592 | $17 to $19/hour | 2026-11-07 |  |
 | Chevron | [Complex Facility Process Engineer](https://careers.chevron.com/job/richmond/complex-facility-process-engineer/38138/102958801248) | Richmond, California | $104,700 to $180,500 | 2026-11-07 | no visa sponsorship |
 | Cisco | [ASIC DFT Engineer I (Full Time) - United States](https://careers.cisco.com/global/en/job/2030926) | San Jose, California, United States of America | $107,800 to $157,400 | 2026-11-07 |  |
 | Infineon | [Graduate - Process Engineer](https://jobs.infineon.com/careers/job/563808972331435) | Leominster, MA, US | $80,000 to $95,000 | 2026-11-07 | US citizens/persons only |
-| Sopra Steria | [FPGA Verification Engineer (Entry Level)](https://jobs.smartrecruiters.com/SopraSteria1/744000160224361-fpga-verification-engineer-entry-level-) | Platteville, WI, us |  | 2026-11-07 | US citizens/persons only |
 | Sopra Steria | [FPGA Verification Engineer (Entry Level)](https://jobs.smartrecruiters.com/SopraSteria1/744000160220699-fpga-verification-engineer-entry-level-) | East Hartford, CT, us |  | 2026-11-07 | US citizens/persons only |
-| SpaceX | [Electrical Test Engineer (Starfall)](https://boards.greenhouse.io/spacex/jobs/8933527002?gh_jid=8933527002) | Hawthorne, CA | $105,000 to $150,000 | 2026-11-07 | US citizens/persons only |
 | MSR-FSR | [Analytical Test Technician - Semiconductor](https://apply.workable.com/j/E0A71D5855) | Chandler, Arizona, United States |  | 2026-11-07 |  |
 | Libra Solutions | [Representative, Balance Verifications](https://apply.workable.com/j/8C0403832A) | Charlotte, North Carolina, United States |  | 2026-11-07 |  |
 | Libra Solutions | [Representative, Balance Verifications](https://apply.workable.com/j/76DEDC8767) | Las Vegas, Nevada, United States |  | 2026-11-07 |  |
@@ -250,10 +283,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ford | [Thermal Firmware Integration Engineer - Early Career Program, Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73527) · Spring 2027 | Palo Alto, CA, United States |  | 2026-11-05 | no visa sponsorship |
 | Ford | [Thermal Test Engineer - Early Career Program, Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73529) · Spring 2027 | Long Beach, CA, United States |  | 2026-11-05 | no visa sponsorship |
 | National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000159734970-sales-associate-optical-specialist-part-time) | Melbourne, FL, us |  | 2026-11-05 |  |
-| National Vision | [Sales Associate - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000159728769-sales-associate-optical-specialist) | Longview, TX, us |  | 2026-11-05 |  |
 | National Vision | [Sales Associate - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000159728669-sales-associate-optical-specialist) | Walker, MI, us |  | 2026-11-05 |  |
 | National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000159728154-sales-associate-optical-specialist-part-time) | Mesa, AZ, us |  | 2026-11-05 |  |
-| National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000159725176-sales-associate-optical-specialist-part-time) | Flint, MI, us |  | 2026-11-05 |  |
 | SpaceX | [Electrical Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8928704002?gh_jid=8928704002) | Redmond, WA | $105,000 to $175,000 | 2026-11-05 | US citizens/persons only |
 | SpaceX | [Electrical Hardware Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8928696002?gh_jid=8928696002) | Redmond, WA | $105,000 to $175,000 | 2026-11-05 | US citizens/persons only |
 | SpaceX | [Electronic Design Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8928709002?gh_jid=8928709002) | Redmond, WA | $105,000 to $175,000 | 2026-11-05 | US citizens/persons only |
@@ -335,6 +366,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Aspire Allergy & Sinus | [Insurance Verification & Authorization Specialist](https://aspireallergy.pinpointhq.com/en/postings/bfa27246-267e-4ca3-86ba-c91bfa44247e) | Austin, Texas |  | 2026-11-05 |  |
 | Astrolab | [PCB Designer (All Levels)](https://astrolab.pinpointhq.com/en/postings/80da9cd0-c752-4756-9e71-d15ae552517d) | Hawthorne, CA |  | 2026-11-05 |  |
 | Smithsonian Institution | [Electronics Engineer,(IS-855-12)](https://trustcareers.si.edu/en/postings/2ab4b90f-2086-4169-a680-ba937c037053) | Cambridge, MA |  | 2026-11-05 |  |
+| IB Abel Inc | [Electrical Engineer - Entry Level](https://ibabel.bamboohr.com/careers/526) | York, Pennsylvania, United States |  | 2026-11-04 |  |
 | Intel | [Mechanical, Electrical, and Structural Tool Install Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Mechanical--Electrical--and-Structural-Tool-Install-Engineer_JR0288548) | US, Oregon, Hillsboro (hybrid) | $76,390 to $146,440 | 2026-11-04 | no visa sponsorship |
 | Family Relief Resources | [DSP needed for teenage brothers(1F0009G & 1F0010G)](https://familyreliefresources.bamboohr.com/careers/399) | Beaverton, Oregon, United States |  | 2026-11-04 |  |
 | AHRC NYC | [DSP Complex Needs - Brooklyn](https://jobs.smartrecruiters.com/AHRCNYC1/744000159624339-dsp-complex-needs-brooklyn) | Brooklyn, New York, us | $22/hour | 2026-11-04 |  |
@@ -357,7 +389,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BAYADA Home Health Care | [DSP - Direct Support Professional](https://jobs.bayada.com/en/jobs?gh_jid=8927546002) | Reidsville, NC 27320 / 36.344147996 / -79.670503832 | $15 to $16/hour | 2026-11-04 |  |
 | BAYADA Home Health Care | [Special Needs Caregiver - DSP](https://jobs.bayada.com/en/jobs?gh_jid=8927012002) | Bethel Park, PA 15102 / 40.321878056 / -80.039501228 | $18 to $19/hour | 2026-11-04 |  |
 | Benchmark Space Systems | [Test Engineer](https://benchmark-space-systems-inc.breezy.hr/p/7331c44e227f-test-engineer) | Burlington, VT |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
-| National Vision | [Sales Associate - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000159263099-sales-associate-optical-specialist) | Wheat Ridge, CO, us |  | 2026-11-04 |  |
 | National Vision | [Sales Associate - Optical Specialist - Part Time - Bilingual Spanish](https://jobs.smartrecruiters.com/NationalVision1/744000159239411-sales-associate-optical-specialist-part-time-bilingual-spanish) | Fort Myers, FL, us |  | 2026-11-04 |  |
 | Proper Voltage | [Associate Electrical Engineer](https://ats.rippling.com/proper-voltage/jobs/7d272a91-31f4-4532-ba1d-9bbdc54672b4) | Carlsbad, CA | $70,000 to $90,000 | 2026-11-04 | no visa sponsorship |
 | BAYADA Home Health Care | [Part Time Special Needs Caregiver (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8925881002) | Springfield, MO 65801 / 37.215431 / -93.294903 | $19/hour | 2026-11-04 |  |
@@ -366,8 +397,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Longshot | [Electrical Engineer I](https://ats.rippling.com/longshot/jobs/4392677a-3d26-4049-845d-bb7fb04246fd) | Alameda, CA |  | 2026-11-04 | US citizens/persons only |
 | Moxxi Digital | [Junior Optimization Specialist](https://job-boards.greenhouse.io/moxxidigital/jobs/5468587008) | New York, New York | $60,000 to $65,000 | 2026-11-04 |  |
 | National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000158826529-sales-associate-optical-specialist-part-time) | Peoria, IL, us |  | 2026-11-04 |  |
-| National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000158826479-sales-associate-optical-specialist-part-time) | Alcoa, TN, us |  | 2026-11-04 |  |
-| National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000158826079-sales-associate-optical-specialist-part-time) | Colorado Springs, CO, us |  | 2026-11-04 |  |
 | National Vision | [Sales Associate - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000158825629-sales-associate-optical-specialist) | Springfield, MO, us |  | 2026-11-04 |  |
 | Slice | [Hardware Fulfillment Associate](https://slice.careers/careers-listing?gh_jid=8325605) | Bellmawr New Jersey, Philadelphia Pennsylvania | $22/hour | 2026-11-04 |  |
 | We Are Overwatch | [Electrical Commissioning Engineer](https://jobs.gem.com/overwatch/am9icG9zdDrjXaIPWmNjRtqua1pTSWKc) | Remote |  | 2026-11-04 |  |
@@ -380,7 +409,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Voyager Technologies, Inc. | [Electrical Hardware Engineer I](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4455215009) | Pittsburgh, PA (hybrid) |  | 2026-11-04 | US citizens/persons only |
 | Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8921918002) | Charlotte, NC |  | 2026-11-04 |  |
 | National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000158374524-sales-associate-optical-specialist-part-time) | Salt Lake City, UT, us |  | 2026-11-04 |  |
-| National Vision | [Licensed Optician - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000158373930-licensed-optician-optical-specialist) | Lake Mary, FL, us |  | 2026-11-04 |  |
 | National Vision | [Sales Associate - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000158373951-sales-associate-optical-specialist) | Lady Lake, FL, us |  | 2026-11-04 |  |
 | National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000158370907-sales-associate-optical-specialist-part-time) | Lady Lake, FL, us |  | 2026-11-04 |  |
 | Eye Care Partners | [Optician / Optical Sales Associate](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8920680002) | Tyler, TX |  | 2026-11-04 |  |
@@ -411,7 +439,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | National Vision | [Sales Associate - Optical Specialist - Part Time - Bilingual Spanish](https://jobs.smartrecruiters.com/NationalVision1/744000156850619-sales-associate-optical-specialist-part-time-bilingual-spanish) | Estero, FL, us |  | 2026-11-04 |  |
 | National Vision | [3rd shift Entry Level Optical Manufacturing](https://jobs.smartrecruiters.com/NationalVision1/744000156799619-3rd-shift-entry-level-optical-manufacturing) | St. Cloud, MN, us |  | 2026-11-04 |  |
 | National Vision | [2nd Shift Entry Level Optical Manufacturing](https://jobs.smartrecruiters.com/NationalVision1/744000156798139-2nd-shift-entry-level-optical-manufacturing-) | St. Cloud, MN, us |  | 2026-11-04 |  |
-| National Vision | [1st Shift Entry Level Optical Manufacturing.](https://jobs.smartrecruiters.com/NationalVision1/744000156795328-1st-shift-entry-level-optical-manufacturing-) | St. Cloud, MN, us |  | 2026-11-04 |  |
 | National Vision | [Sales Associate - Optical Specialist - Part Time - Bilingual Spanish](https://jobs.smartrecruiters.com/NationalVision1/744000156784551-sales-associate-optical-specialist-part-time-bilingual-spanish) | Cape Coral, FL, us |  | 2026-11-04 |  |
 | BAYADA Home Health Care | [Part-time Special Needs Caregiver (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8903947002) | Blue Springs, MO 64013 / 39.012714 / -94.269583009 | $18/hour | 2026-11-04 |  |
 | Eye Care Partners | [Optical Technician / Optical Sales](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8902698002) | Brick Township, NJ |  | 2026-11-04 |  |
@@ -419,18 +446,16 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpotOn | [Hardware Shipping Specialist](https://jobs.ashbyhq.com/spoton/68cdd664-e7cc-41db-a6ec-ee0c168144a3) | San Rafael, CA | $20 to $25/hour | 2026-11-04 | no visa sponsorship |
 | ASM | [Field Process Engineer](https://www.asm.com/open-vacancies/?gh_jid=5005209101) | US > Arizona > Phoenix |  | 2026-11-04 |  |
 | BAYADA Home Health Care | [Caregiver - Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8899807002) | West Mifflin, PA 15122 / 40.366458436 / -79.893970758 | $18 to $19/hour | 2026-11-04 |  |
-| BAYADA Home Health Care | [Direct Support Professional / DSP](https://jobs.bayada.com/en/jobs?gh_jid=8900939002) | Winston Salem, NC 27101 / 36.103093209 / -80.227060071 | $16/hour | 2026-11-04 |  |
 | BAYADA Home Health Care | [Direct Support Professional / DSP](https://jobs.bayada.com/en/jobs?gh_jid=8899956002) | Exton, PA 19341 / 40.04062934 / -75.641171232 | $18/hour | 2026-11-04 |  |
-| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8899933002) | Lansdale, PA 19446 / 40.237983548 / -75.293334042 | $18/hour | 2026-11-04 |  |
-| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8899902002) | Bedford, PA 15522 / 39.99754413 / -78.524634104 | $19/hour | 2026-11-04 |  |
+| BAYADA Home Health Care | [Direct Support Professional / DSP](https://jobs.bayada.com/en/jobs?gh_jid=8900939002) | Winston Salem, NC 27101 / 36.103093209 / -80.227060071 | $16/hour | 2026-11-04 |  |
 | BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8899894002) | Fayetteville, NC 28301 / 35.078747415 / -78.888918165 | $15 to $16/hour | 2026-11-04 |  |
-| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8901168002) | Raleigh, NC 27610 / 35.756422694 / -78.577185011 | $100/hour | 2026-11-04 |  |
-| BAYADA Home Health Care | [Direct Support Professional / DSP / Caregiver](https://jobs.bayada.com/en/jobs?gh_jid=8900286002) | Lancaster, PA 17601 / 40.074127395 / -76.320888632 | $18 to $20/hour | 2026-11-04 |  |
+| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8899902002) | Bedford, PA 15522 / 39.99754413 / -78.524634104 | $19/hour | 2026-11-04 |  |
+| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8899933002) | Lansdale, PA 19446 / 40.237983548 / -75.293334042 | $18/hour | 2026-11-04 |  |
+| BAYADA Home Health Care | [Direct Support Professional (DSP) - Part-time](https://jobs.bayada.com/en/jobs?gh_jid=8901168002) | Raleigh, NC 27610 / 35.756422694 / -78.577185011 | $100/hour | 2026-11-04 |  |
 | BAYADA Home Health Care | [Direct Support Professional (DSP) - Spanish Bilingual](https://jobs.bayada.com/en/jobs?gh_jid=8899876002) | Salisbury, NC 28146 / 35.615653335 / -80.428960371 | $15/hour | 2026-11-04 |  |
 | BAYADA Home Health Care | [DSP / Community Support Worker](https://jobs.bayada.com/en/jobs?gh_jid=8899882002) | Fairview, PA 16415 / 42.039293245 / -80.229925576 |  | 2026-11-04 |  |
+| BAYADA Home Health Care | [Part-time Direct Support Professional / DSP / Caregiver](https://jobs.bayada.com/en/jobs?gh_jid=8900286002) | Lancaster, PA 17601 / 40.074127395 / -76.320888632 | $18 to $20/hour | 2026-11-04 |  |
 | BAYADA Home Health Care | [Special Needs Caregiver / DSP](https://jobs.bayada.com/en/jobs?gh_jid=8899958002) | Coatesville, PA 19320 / 39.986624424 / -75.826094756 | $18/hour | 2026-11-04 |  |
-| National Vision | [Sales Associate - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000156426069-sales-associate-optical-specialist) | Lake Mary, FL, us |  | 2026-11-04 |  |
-| National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000156393907-sales-associate-optical-specialist-part-time) | Lafayette, IN, us |  | 2026-11-04 |  |
 | Hankook Tire | [Production Control Engineer I](https://careers-hankooktire.breezy.hr/p/55e33efd9209-production-control-engineer-i) | Clarksville, TN |  | 2026-11-04 |  |
 | BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8895617002) | Wilmington, DE 19805 / 39.743586198 / -75.580892813 | $17.50 to $18/hour | 2026-11-04 |  |
 | HawkEye 360 | [Space Test Engineer](https://job-boards.greenhouse.io/hawkeye360/jobs/4455445009) | Herndon, VA | $70,000 to $115,000 | 2026-11-04 |  |
@@ -440,11 +465,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BGE Inc. Campus | [AUSTIN - Junior Instrumentation and Controls Engineer](https://job-boards.greenhouse.io/bgeinccampus/jobs/5454656008) | 101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728 |  | 2026-11-04 |  |
 | BGE Inc. Campus | [FRISCO - Junior Electrical Power Engineer](https://job-boards.greenhouse.io/bgeinccampus/jobs/5454633008) | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 |  | 2026-11-04 |  |
 | BGE Inc. Campus | [FRISCO - Junior Instrumentation and Controls Engineer](https://job-boards.greenhouse.io/bgeinccampus/jobs/5454646008) | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 |  | 2026-11-04 |  |
-| National Vision | [Licensed Optician - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000155851149-licensed-optician-optical-specialist-part-time) | Columbus, GA, us |  | 2026-11-04 |  |
 | Podium Automation | [Electrical Design Engineer](https://jobs.ashbyhq.com/podium-automation/8ad8f317-4eee-4009-989d-67cd13162298) | New York City |  | 2026-11-04 | no visa sponsorship |
 | Eye Care Partners | [Optical Sales Associate / Optician - Training Provided!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8888236002) | Topeka, KS |  | 2026-11-04 |  |
 | Lesaffre | [Yeast Extract Process Engineer - VIE Contract 18 months (M/W)](https://jobs.smartrecruiters.com/Lesaffre/744000155432929-yeast-extract-process-engineer-vie-contract-18-months-m-w-) | Cedar Rapids, IA, us |  | 2026-11-04 |  |
-| National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000155522769-sales-associate-optical-specialist-part-time) | Naples, FL, us |  | 2026-11-04 |  |
 | Zone 5 Technologies | [Electrical Engineer I/II](https://job-boards.greenhouse.io/zone5technologies/jobs/5451759008) | Fort Walton Beach, Florida, United States; Fort Worth, Texas; San Luis | $80,000 to $136,000 | 2026-11-04 |  |
 | Cricut | [Firmware Engineer](https://jobs.smartrecruiters.com/Cricut/744000155306769-firmware-engineer) | South Jordan, UT, us (remote) |  | 2026-11-04 |  |
 | Eye Care Partners | [Optical Sales](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8885448002) | Durham, NC |  | 2026-11-04 |  |
@@ -455,20 +478,14 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Burns Engineering, Inc. | [Electrical Design Associate - AV East](https://www.burns-group.com/careers/current-openings/?gh_jid=4448512009) | Washington DC |  | 2026-11-04 |  |
 | Capstone Solutions | [RF Tower Technician 1 / 2](https://capstonesolutions.bamboohr.com/careers/178) | Kent, Washington, United States |  | 2026-11-04 |  |
 | Carlisle | [R&D Process Engineer](https://jobs.smartrecruiters.com/Carlisle/3743990016057435-r-d-process-engineer-) | Senatobia, Mississippi, us (hybrid) |  | 2026-11-04 |  |
-| National Vision | [Sales Associate - Optical Specialist - Keyholder](https://jobs.smartrecruiters.com/NationalVision1/744000155058876-sales-associate-optical-specialist-keyholder) | Pittsburgh (Robinson Township/North Fayette area), PA, us |  | 2026-11-04 |  |
-| National Vision | [Licensed Optician - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000154871324-licensed-optician-optical-specialist) | Cape Coral, FL, us |  | 2026-11-04 |  |
-| National Vision | [Sales Associate - Optical Specialist - Part Time](https://jobs.smartrecruiters.com/NationalVision1/744000154870739-sales-associate-optical-specialist-part-time) | Pittsburgh, PA, us |  | 2026-11-04 |  |
-| National Vision | [Sales Associate - Optical Specialist - Part Time - Bilingual Spanish](https://jobs.smartrecruiters.com/NationalVision1/744000154870389-sales-associate-optical-specialist-part-time-bilingual-spanish) | Port Saint Lucie, FL, us |  | 2026-11-04 |  |
-| National Vision | [Licensed Optician - Optical Specialist](https://jobs.smartrecruiters.com/NationalVision1/744000154869789-licensed-optician-optical-specialist) | Alcoa, TN, us |  | 2026-11-04 |  |
 | DH Pace | [Entry Door Installers (Hollow Metal, Wood, Frame and Hardware)](https://job-boards.greenhouse.io/dhpace/jobs/5448258008) | Port St. Lucie FL |  | 2026-11-04 |  |
-| BAYADA Home Health Care | [Direct Support Personnel / DSP](https://jobs.bayada.com/en/jobs?gh_jid=8876660002) | Centre Hall, PA 16828 / 40.823483146 / -77.690268077 | $17/hour | 2026-11-04 |  |
 | Neros Technologies | [RF Test Technician](https://job-boards.greenhouse.io/nerostechnologies/jobs/5260366007) | Torrance, California, United States | $92,500 to $129,500 | 2026-11-04 |  |
 | Olsson | [Associate Electrical Engineer-Federal Engineering & Design](https://job-boards.greenhouse.io/olsson/jobs/5446806008) | Arizona - Remote; Arkansas - Remote; Florida - Remote; Georgia - Remot |  | 2026-11-04 |  |
 | Olsson | [Associate Electrical Engineer-Federal Engineering & Design](https://job-boards.greenhouse.io/olsson/jobs/5446793008) | Arizona - Remote; Arkansas - Remote; Iowa - Remote; Missouri - Remote; |  | 2026-11-04 |  |
 | Capstone Solutions | [Electrical Technician 1](https://capstonesolutions.bamboohr.com/careers/194) | Aurora, Colorado, United States | $22 to $28/hour | 2026-11-04 |  |
 | ENSCO, Inc. | [Electronics Assembler](https://job-boards.greenhouse.io/ensco/jobs/5436837008) | Hauppauge, New York, United States | $18.64 to $27.07/hour | 2026-11-04 | US citizens/persons only, clearance |
-| Olsson | [Associate Electrical Engineer-Federal Engineering & Design](https://job-boards.greenhouse.io/olsson/jobs/5445320008) | Arizona - Remote; Arkansas - Remote; Georgia - Remote; Idaho - Remote; |  | 2026-11-04 |  |
 | Olsson | [Associate Electrical Engineer-Federal Engineering & Design](https://job-boards.greenhouse.io/olsson/jobs/5445270008) | Arizona - Remote; Arkansas - Remote; Idaho - Remote; Missouri - Remote |  | 2026-11-04 |  |
+| Olsson | [Associate Electrical Engineer-Federal Engineering & Design](https://job-boards.greenhouse.io/olsson/jobs/5445320008) | Arizona - Remote; Arkansas - Remote; Georgia - Remote; Idaho - Remote; |  | 2026-11-04 |  |
 | BAYADA Home Health Care | [Special Needs Caregiver / DSP](https://jobs.bayada.com/en/jobs?gh_jid=8867840002) | Easton, PA 18042 / 40.681054588 / -75.22092175 | $17 to $19/hour | 2026-11-04 |  |
 | Anduril Industries | [Systems Test Engineer, IBCS-M](https://boards.greenhouse.io/andurilindustries/jobs/5255079007?gh_jid=5255079007) | Costa Mesa, California, United States | $112,000 to $149,000 | 2026-11-04 |  |
 | Anton Paar | [Application Engineer Analytical Instrumentation](https://jobs.smartrecruiters.com/AntonPaar1/744000153095559-application-engineer-analytical-instrumentation) | Houston - Texas, TX, us |  | 2026-11-04 |  |
@@ -477,13 +494,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Apex Technology, Inc. | [Early Power Electronics Engineer](https://jobs.ashbyhq.com/apex-technology-inc/45ad8156-0ec3-49a1-af81-22f3833337d0) | Los Angeles |  | 2026-11-04 | US citizens/persons only |
 | LG Energy Solution Arizona | [Engineer I, Equipment](https://job-boards.greenhouse.io/lgenergyaz/jobs/5441942008) | Queen Creek, Arizona |  | 2026-11-04 |  |
 | Anduril Industries | [Electrical Engineer, Weapon Systems](https://boards.greenhouse.io/andurilindustries/jobs/5253515007?gh_jid=5253515007) | Costa Mesa, California, United States | $132,000 to $175,000 | 2026-11-04 |  |
-| BAYADA Home Health Care | [DSP - IDD Support Professional](https://jobs.bayada.com/en/jobs?gh_jid=8858238002) | Camp Hill, PA 17001 / 40.249157 / -76.922516 | $18/hour | 2026-11-04 |  |
+| BAYADA Home Health Care | [Part-time DSP - IDD Support Professional](https://jobs.bayada.com/en/jobs?gh_jid=8858238002) | Camp Hill, PA 17001 / 40.249157 / -76.922516 | $18/hour | 2026-11-04 |  |
 | DISHER | [Electrical Engineer (R&D) - Contract](https://jobs.lever.co/disher/8e9e3641-29f0-44ab-a14d-7dcfe193575c) | Portage, MI |  | 2026-11-04 |  |
 | Eye Care Partners | [Optical Sales - Paid Training](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8858040002) | Shepherdsville, KY |  | 2026-11-04 |  |
 | City of New York | [Assistant Electrical Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990015759436-assistant-electrical-engineer) | Queens, NY, us |  | 2026-11-04 |  |
 | CRB | [Process Engineer I](https://jobs.smartrecruiters.com/CRB/744000152537490-process-engineer-i) | Kansas City, MO, us |  | 2026-11-04 |  |
-| Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8857186002) | Sharpsburg, GA |  | 2026-11-04 |  |
 | Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8857168002) | Pensacola, FL |  | 2026-11-04 |  |
+| Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8857186002) | Sharpsburg, GA |  | 2026-11-04 |  |
 | Human Agency | [Digital Designer (Contractor)](https://job-boards.greenhouse.io/humanagency/jobs/8008324003) | US or Canada |  | 2026-11-04 |  |
 | Human Agency | [Digital Designer (Contractor)](https://job-boards.greenhouse.io/humanagency/jobs/8008576003) | Austin |  | 2026-11-04 |  |
 | TEGNA Inc. | [Yield Inventory Analyst](https://boards.greenhouse.io/tegnainc/jobs/5250277007?gh_jid=5250277007) | KPNX-TV Phoenix |  | 2026-11-04 |  |
@@ -492,8 +509,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Aescape | [Junior Electrical & Firmware Engineer](https://jobs.ashbyhq.com/aescape/5ab3f804-c547-40e3-b496-53f1d3b5048e) | NYC/Metro Area | $95,000 to $125,000 | 2026-11-04 |  |
 | BAYADA Home Health Care | [Special Needs Caregiver (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8846338002) | Hendersonville, NC 28792 / 35.35672526 / -82.413190648 | $16 to $20/hour | 2026-11-04 |  |
 | Defendify | [Level 1 SOC Analyst](https://defendify.breezy.hr/p/71eac7fbd06b-level-1-soc-analyst) | Portland, ME |  | 2026-11-04 |  |
-| IB Abel Inc | [Associate Electrical Engineer](https://ibabel.bamboohr.com/careers/526) | York, Pennsylvania, United States |  | 2026-11-04 |  |
-| Wabash Valley Power Alliance | [Electronic Field Engineer](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000151690169-electronic-field-engineer) | Lafayette, IN, us |  | 2026-11-04 |  |
 | CRB | [Electrical Engineer I](https://jobs.smartrecruiters.com/CRB/744000151448959-electrical-engineer-i) | Kansas City, MO, us |  | 2026-11-04 |  |
 | CRB | [Electrical Designer I](https://jobs.smartrecruiters.com/CRB/744000151443369-electrical-designer-i) | Kansas City, MO, us |  | 2026-11-04 |  |
 | Anduril Industries | [2027 Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) | Costa Mesa, California, United States | $112,000 to $149,000 | 2026-11-04 | US citizens/persons only |
@@ -502,7 +517,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Eye Care Partners | [Optical Sales](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8830591002) | Hilliard, OH |  | 2026-11-04 |  |
 | CRB | [Electrical Engineer I](https://jobs.smartrecruiters.com/CRB/744000150692159-electrical-engineer-i) | Rockville, MD, us |  | 2026-11-04 |  |
 | Eye Care Partners | [Optical Technician / Optician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8827075002) | Albertville, AL |  | 2026-11-04 |  |
-| Wabash Valley Power Alliance | [Electronic Field Technician](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000150700004-electronic-field-technician) | Lafayette, IN, us |  | 2026-11-04 |  |
 | Ambrosia Energy | [Power Electronics Test Engineer](https://jobs.ashbyhq.com/Ambrosia-Energy/6705c7b0-7206-4007-949a-d2f7e3af8693) | Austin, TX |  | 2026-11-04 | no visa sponsorship |
 | Eye Care Partners | [Optical Technician / Optician - Paid Training](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8814315002) | Northfield, OH |  | 2026-11-04 |  |
 | Verista, Inc. | [6518 - Service Order CQV Engineer / Validation Engineer](https://job-boards.greenhouse.io/veristainc/jobs/5425663008) | Indianapolis, IN | $70,491 to $102,623 | 2026-11-04 |  |
@@ -514,7 +528,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CRB | [Electrical Engineer I](https://jobs.smartrecruiters.com/CRB/744000148759489-electrical-engineer-i) | Irvine, CA, us |  | 2026-11-04 |  |
 | Observable Space | [Optical Technician](https://jobs.ashbyhq.com/observable-space/5c3952b2-9533-46d7-97c2-a0c4fa1a90b1) | Los Angeles, CA (hybrid) |  | 2026-11-04 |  |
 | Chefman | [Product Test Technician — Firmware & Connected Devices (Entry Level)](https://job-boards.greenhouse.io/chefman/jobs/4399706009) | Mahwah, NJ | $50,000 to $60,000 | 2026-11-04 |  |
-| CRB | [Process Engineer (Entry Level)](https://jobs.smartrecruiters.com/CRB/744000148538589-process-engineer-entry-level-) | Rockville, MD, us |  | 2026-11-04 |  |
 | CaptiveAire | [Plant Process Engineer - Groveland](https://www.captiveaire.com/Careers/Opening.asp?id=8786096002&gh_jid=8786096002) | Groveland, FL |  | 2026-11-04 |  |
 | Cirrus Logic | [Product Test Engineer - New College Graduate](https://jobs.eu.lever.co/cirrus/12cd627f-7c7c-4737-b1e9-22edc752e35e) | Austin, Texas |  | 2026-11-04 | no visa sponsorship |
 | Syska Hennessy Group | [Electrical Engineer I](https://job-boards.greenhouse.io/syskahennessy/jobs/8175337) | Richmond, VA | $65,168 to $92,751 | 2026-11-04 |  |
@@ -585,6 +598,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Mesh Optical Technologies | [Electrical Integration & Test Engineer](https://job-boards.greenhouse.io/meshopticaltechnologies/jobs/4134655009) | Gardena, CA | $115,000 to $140,000 | 2026-11-04 |  |
 | Mesh Optical Technologies | [Mechanical Integration & Test Engineer](https://job-boards.greenhouse.io/meshopticaltechnologies/jobs/4134652009) | Gardena, CA | $110,000 to $135,000 | 2026-11-04 |  |
 | ProSidian Consulting, LLC | [Engineering Operations Technician I / Construction Project Controls Engineering [FHWA09009]](https://jobs.smartrecruiters.com/prosidianconsulting/744000106573323-engineering-operations-technician-i-construction-project-controls-engineering-fhwa09009-) | Vancouver, WA, us |  | 2026-11-04 | no visa sponsorship, US citizens/persons only, clearance |
+| True Anomaly | [Electrical Engineer I- IIII (eGSE)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5026924007) | Long Beach, CA | $90,000 to $145,000 | 2026-11-04 | US citizens/persons only |
 | BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8364462002) | Blairsville, PA 15717 / 40.439079393 / -79.250074053 | $17.50 to $18/hour | 2026-11-04 |  |
 | Mussett Nicholas & Associates | [Electrical Engineer (New Grad)](https://mussett-nicholas-associates.breezy.hr/p/9e53cf96f91b-electrical-engineer-new-grad) | Indianapolis, IN |  | 2026-11-04 |  |
 | CaptiveAire | [Plant Process Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8350660002&gh_jid=8350660002) | West Union, IA |  | 2026-11-04 |  |
@@ -655,8 +669,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SambaNova | [Physical Design Engineer, New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004) | San Jose, California, United States | $120,000 to $150,000 | 2026-10-28 |  |
 | SambaNova | [Post-Silicon Validation Engineer, New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004) | San Jose, California, United States | $120,000 to $150,000 | 2026-10-28 |  |
 | Texas Tech University | [Lecturer - Full Time - Electrical and Computer Engineering](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5637&PageType=JobDetails&jobid=926171) | Lubbock, TX |  | 2026-10-28 |  |
-| SpaceX | [Welder (Starship Launch Hardware) - Multiple Shifts](https://boards.greenhouse.io/spacex/jobs/8426061002?gh_jid=8426061002) | Cape Canaveral, FL |  | 2026-10-28 | US citizens/persons only |
-| Siemens Energy | [Electrical Engineer- II](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Electrical-Engineer-II/298357) | Richland, Mississippi, United States of America; Houston, Texas, UNITE |  | 2026-10-28 |  |
+| Siemens Energy | [Electrical Engineer- II](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Electrical-Engineer-II/298357) | Richland, Mississippi, United States; Houston, Texas, United States; D |  | 2026-10-28 |  |
 | SpaceX | [Electrical Engineer (Starship Avionics)](https://boards.greenhouse.io/spacex/jobs/8882529002?gh_jid=8882529002) | Starbase, TX |  | 2026-10-27 | US citizens/persons only |
 | Cisco | [ASIC Design Verification Engineer I (Full Time) - United States](https://careers.cisco.com/global/en/job/2025368) | San Jose, California, United States of America | $107,800 to $157,400 | 2026-10-27 |  |
 | Motorola Solutions | [Junior Process Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Junior-Process-Engineer_R69923) | Los Angeles, CA | $30 to $36/hour | 2026-10-27 | US citizens/persons only |
@@ -668,7 +681,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Elevance Health | [Benefit Verification Specialist - BioPlus Specialty Pharmacy](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/Benefit-Verification-Specialist---BioPlus-Specialty-Pharmacy_JR203088) | FL-LAKE MARY, 3200 LAKE EMMA RD, STE 1000 |  | 2026-10-24 |  |
 | GlobalFoundries | [New Product Development Test Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Sr-Engineer-Design_JR-2604139) | USA - Texas - Richardson | $86,000 to $148,000 | 2026-10-24 |  |
 | Intel | [Module Engineering - Day Shift 5 or 7](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineering---Day-Shift-5-or-7_JR0288497) | US, Arizona, Phoenix | $99,030 to $139,810 | 2026-10-24 | no visa sponsorship |
-| Primoris | [Engineer 1 Electrical](https://prim.wd108.myworkdayjobs.com/Primoris/job/Houston-TX/Engineer-1-Electrical_JR102991) | Houston, TX |  | 2026-10-24 |  |
 | SpaceX | [PCB Process Technician (Starlink)](https://boards.greenhouse.io/spacex/jobs/8671126002?gh_jid=8671126002) | Bastrop, TX |  | 2026-10-24 | US citizens/persons only |
 | NVIDIA | [Silicon Co-Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | US, CA, Santa Clara |  | 2026-10-23 |  |
 | Micron | [New College Grad - DRAM Product Development Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Engineer-DRAM-Product-Development-Engineer_JR114840) | Boise, ID - Main Site |  | 2026-10-23 |  |
@@ -699,6 +711,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Texas Tech University | [Instructor - Electrical and Computer Engineering](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5637&PageType=JobDetails&jobid=925989) | Lubbock, TX |  | 2026-10-21 |  |
 | Varda | [Propulsion Engineer I - Hardware and Bus Systems](https://job-boards.greenhouse.io/vardaspace/jobs/8039672003) | El Segundo, California, United States | $109,148 to $139,466 | 2026-10-21 | US citizens/persons only |
 | Home Depot | [Process Engineer I](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Process-Engineer-I_Req195721-1) | STORE SUPPORT CENTER, ATLANTA - 9090 |  | 2026-10-21 |  |
+| Archrock | [Instrumentation & Electrical Shop Technician Intermediate (Non-Rotational/Local Only)](https://edva.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10000597) | Midland, TX, United States |  | 2026-10-20 |  |
 | Black & Veatch | [Associate Electrical Engineer - Power System Protection](https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833/) | Overland Park, KS, US |  | 2026-10-20 |  |
 | ERCOT | [Engineer Development Program - Entry Level Power Engineer](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Engineer-Development-Program---Entry-Level-Power-Engineer_R2167-1) · Fall 2027 | Austin, TX |  | 2026-10-20 |  |
 | Lattice Semiconductor | [Junior BMC Firmware Engineer](https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-102808) | Duluth, Georgia |  | 2026-10-20 | US citizens/persons only |
@@ -743,16 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NVIDIA | [RTL Power Optimization Engineer – New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841) | US, CA, Santa Clara |  | 2026-10-20 |  |
 | NVIDIA | [ASIC Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) | US, CA, Santa Clara |  | 2026-10-20 |  |
 | NVIDIA | [Formal Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837) | US, CA, Santa Clara |  | 2026-10-20 |  |
-| NVIDIA | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681) | US, CA, Santa Clara |  | 2026-10-20 |  |
-| NVIDIA | [DFT Engineer - New College Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865) | US, CA, Santa Clara |  | 2026-10-20 |  |
-| NVIDIA | [ASIC Physical Design and Timing Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177) | US, CA, Santa Clara |  | 2026-10-20 |  |
-| Allegro MicroSystems | [Product Validation Engineer](https://allegromicro.wd5.myworkdayjobs.com/AllegroCareers/job/Manchester-NH/Product-Validation-Engineer_R6889) | Manchester, NH |  | 2026-10-20 | no visa sponsorship |
-| Black & Veatch | [Electrical Field Engineer - Simple Cycle - Georgia](https://careers.bv.com/job/Newnan-Electrical-Field-Engineer-Simple-Cycle-Georgia-GA/1442561933/) | Newnan, GA, US |  | 2026-10-20 |  |
-| Hyundai Motor America | [Powertrain Performance Test Engineer (Engineer I / Engineer II)](https://careers-americas.hyundai.com/hatci/job/Chino-Powertrain-Performance-Test-Engineer-%28Engineer-I-Engineer-II%29-CA-91710/1362835400/) | Chino, CA, US | $115,000 to $155,000 | 2026-10-20 |  |
-| Samsung Semiconductor | [Etch Process Engineer - Nights](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Etch-Process-Engineer---Nights_R113939-1) | 1530 FM 973 Taylor, TX, USA | $70,480 to $179,090 | 2026-10-20 |  |
-| Samsung Semiconductor | [Etch Process Engineer - Days](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Etch-Process-Engineer---Days_R113938) | 1530 FM 973 Taylor, TX, USA | $70,480 to $179,090 | 2026-10-20 |  |
-| Samsung Semiconductor | [Etch Process Engineer - Days](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Etch-Process-Engineer---Days_R113742-1) | 12100 Samsung Blvd, Austin, TX, USA | $70,480 to $179,090 | 2026-10-20 |  |
-| Samsung Semiconductor | [Etch Process Engineer - Nights](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Etch-Process-Engineer---Nights_R110077-1) | 12100 Samsung Blvd, Austin, TX, USA | $70,480 to $179,090 | 2026-10-20 |  |
-| Qorvo | [Advanced Manufacturing/Process Engineer, Assembly & Test](https://careers.qorvo.com/job/Richardson-Advanced-ManufacturingProcess-Engineer%2C-Assembly-&-Test-TX-75080/1396980900/) | Richardson, TX, US |  | 2026-10-20 | no visa sponsorship, US citizens/persons only, clearance |
-| Worley | [Rotational Graduate Engineer - Electrical/Instrumentation](https://jobs.worley.com/careers/job/1133915650762) | Charleston, WV, US |  | 2026-10-20 |  |
-| KLA | [Semiconductor Field Service Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Rio-Rancho-NM/Customer-Support-Engineer_2641398-1) | Rio Rancho, NM | $23.71 to $40.29/hour | 2026-10-20 |  |

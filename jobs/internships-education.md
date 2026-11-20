@@ -1,11 +1,12 @@
 # Internships and co-ops: Education
 
-66 open, newest first (by the date the scraper first saw them), updated 2026-11-19.
+64 open, newest first (by the date the scraper first saw them), updated 2026-11-20.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AECOM | [High School Water Intern](https://jobs.smartrecruiters.com/AECOM2/744000162558310-high-school-water-intern) | Denver, CO, us |  | 2026-11-20 | US citizens/persons only |
 | SiriusXM | [Spring Intern, Music Library - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17678) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
 | Clark Art Institute | [Rodgers' Spring Intern- Community and Family Programs](https://clarkart.bamboohr.com/careers/64) · Spring | Williamstown, Massachusetts, United States |  | 2026-11-12 |  |
 | Ace Electric | [Apprenticeship Instructor (Bilingual)](https://aceelectric.bamboohr.com/careers/1089) | VALDOSTA, Georgia, United States |  | 2026-11-11 |  |
@@ -14,7 +15,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | 7AM Enfant Inc. | [Academic Fashion Design Internship](https://7am-enfant-inc.breezy.hr/p/1909a68063a8-academic-fashion-design-internship) | New York, NY |  | 2026-11-09 |  |
 | Chubb | [Agency Education and Development Intern](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38424) · Summer 2027 | Chicago, IL, United States | $18 to $24/hour | 2026-11-07 |  |
 | Strategic HR Client | [CACFP Childcare Centers and Afterschool/Summer Program Specialist I](https://job-boards.greenhouse.io/strategichr/jobs/8197868003) · Summer | Cleveland, Ohio (hybrid) | $20 to $24/hour | 2026-11-07 |  |
-| Uncommon Schools | [Pre-K Apprentice Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000160273014-pre-k-apprentice-teacher) | Brooklyn, New York, us | $60,000 | 2026-11-07 |  |
 | Middlebury College | [Admissions Communication Intern (AY 26-27 901454)](https://apply.workable.com/j/444DC4C86E) | Middlebury, Vermont, United States | $14.95/hour | 2026-11-07 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Learner Engagement and Community Intern](https://jobs.lever.co/stradaeducation/14537f82-790c-4b10-bd63-f8a80c6564c1) | Indianapolis, Indiana | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Post-Secondary Education Team (PSE)](https://jobs.lever.co/stradaeducation/68c7fe9c-c4b9-4cfb-8165-bcebf6013692) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
@@ -40,7 +40,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | N Family Club | [Apprentice Educator](https://nfamilyclub.pinpointhq.com/en/postings/2a687ac9-f031-46d5-a416-69da16ff6d9a) | Cambridge, Cambridgeshire |  | 2026-11-05 |  |
 | Motorola Solutions | [Global Education Intern (Summer 2027 Internship)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Education-Intern--Summer-2027-Internship-_R70403) · Summer 2027 | Chicago, IL |  | 2026-11-04 |  |
 | UCAR / NCAR | [2027 CISL Outreach, Development & Education Intern (CODE)](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/XMLNAME-2027-CISL-Outreach--Development---Education-Intern--CODE-_REQ-2026-229-1) · Summer 2027 | Boulder, CO | $28.32/hour | 2026-11-04 | no visa sponsorship |
-| REXEL | [High School Co-op](https://jobs.smartrecruiters.com/REXEL1/744000159205669-high-school-co-op) | Weymouth, MA, us | $16.50/hour | 2026-11-04 |  |
 | REXEL | [High School Co-op](https://jobs.smartrecruiters.com/REXEL1/744000159204609-high-school-co-op) | East Providence, RI, us | $16.50/hour | 2026-11-04 |  |
 | Uncommon Schools | [High School Apprentice Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000159246487-high-school-apprentice-teacher) | Brooklyn, New York, us | $60,000 | 2026-11-04 |  |
 | Anduril Industries | [2027 Library Science Intern](https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007) · Summer 2027 | Santa Ana, California, United States | $24 to $40/hour | 2026-11-04 | US citizens/persons only |
@@ -53,7 +52,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Seattle Sounders FC & Seattle Reign FC | [2027 Performance Internship (Educational) - Sounders FC](https://job-boards.greenhouse.io/seattlesoundersfc/jobs/4741544005) | Renton, WA |  | 2026-11-04 | no visa sponsorship |
 | Clinton Foundation | [2027 Spring Education Programs Intern (onsite)](https://www.clintonfoundation.org/careers/apply/?gh_jid=8004025003) · Spring 2027 | Little Rock, Arkansas |  | 2026-11-04 |  |
 | AECOM | [High School Intern](https://jobs.smartrecruiters.com/AECOM2/744000150456899-high-school-intern) | Akron, OH, us |  | 2026-11-04 | no visa sponsorship |
-| City of New York | [Community Education Intern](https://jobs.smartrecruiters.com/CityOfNewYork/3743990015335796-community-education-intern) | New York City, NY, us |  | 2026-11-04 |  |
 | Seattle Sounders FC & Seattle Reign FC | [2027 Athletic Training Student Intern (Educational Internship) - Seattle Reign FC](https://job-boards.greenhouse.io/seattlesoundersfc/jobs/4731415005) | Tukwila, WA |  | 2026-11-04 | no visa sponsorship |
 | World Wildlife Fund, Inc. | [WWF Legacy Library Intern](https://jobs.smartrecruiters.com/WorldWildlifeFundInc1/744000145825919-wwf-legacy-library-intern) | Washington D.C., us |  | 2026-11-04 | no visa sponsorship |
 | Advocates for Children - Interns and Volunteers | [Summer Law Student Intern Program in Education Advocacy](https://job-boards.greenhouse.io/afcvolunteers/jobs/5213859007) · Summer | New York, NY (hybrid) |  | 2026-11-04 |  |

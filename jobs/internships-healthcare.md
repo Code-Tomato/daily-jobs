@@ -1,11 +1,59 @@
 # Internships and co-ops: Healthcare
 
-2,994 open, newest first (by the date the scraper first saw them), updated 2026-11-19. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+3,012 open, newest first (by the date the scraper first saw them), updated 2026-11-20. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Cook Children's | [Nurse Extern](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Nurse-Extern_JR-120275) | Fort Worth, TX |  | 2026-11-20 |  |
+| Amgen | [Grad Intern - Global Patient Safety (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/INTERN-Global-Patient-Safety--Summer-2027-_R-260517) · Summer 2027 | United States - Remote | $35.34 to $41.20/hour | 2026-11-20 |  |
+| Ascension | [Student Nurse Intern MedSurg](https://jobs.ascension.org/us/en/job/32516) | Wichita, KS, US |  | 2026-11-20 |  |
+| Ascension | [Nursing Intern](https://jobs.ascension.org/us/en/job/32770) | Panama City, FL, US |  | 2026-11-20 |  |
+| Ascension | [Nursing Intern](https://jobs.ascension.org/us/en/job/32766) | Panama City, FL, US |  | 2026-11-20 |  |
+| Ascension | [Student Nurse Intern](https://jobs.ascension.org/us/en/job/33587) | Jacksonville, FL, US |  | 2026-11-20 |  |
+| Ascension | [CV Imaging Intern](https://jobs.ascension.org/us/en/job/31951) | Appleton, WI, US |  | 2026-11-20 |  |
+| Ascension | [Imaging Intern](https://jobs.ascension.org/us/en/job/31947) | Appleton, WI, US |  | 2026-11-20 |  |
+| Ascension | [CT Imaging Intern](https://jobs.ascension.org/us/en/job/31946) | Appleton, WI, US |  | 2026-11-20 |  |
+| Ascension | [Student Nurse Intern Float](https://jobs.ascension.org/us/en/job/33601) | Baltimore, MD, US |  | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1109818) | 965 NORTH JUDGE ELY BLVD., Abilene, Texas,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1110626) | 10555 N ORACLE RD, Oro Valley, Arizona,United States | $21.25 to $25/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1110624) | 44274 WEST-SMITH ENKE RD., Maricopa, Arizona,United States | $21.25 to $25/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1110619) | 18591 N 59TH AVE, Glendale, Arizona,United States | $21.25 to $25/hour | 2026-11-20 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1109749) | 1888 BOILING SPRINGS ROAD, Boiling Springs, South Carolina,United Stat | $30 to $42/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1086827) | 1940 W 33RD ST, Chicago, Illinois,United States | $20.50 to $24.25/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1109746) | 2 SOUTH BEDFORD ST.,, Madison, Wisconsin,United States | $20.50 to $24.25/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1110689) | 2600 ELIDA RD, Lima, Ohio,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1109785) | 1127 N. BRIDGE STREET, Elkin, North Carolina,United States | $30 to $42/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1110496) | 59 GEORGE ST., Charleston, South Carolina,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| Henry Ford Health | [Nurse Extern - Acute Rehab](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016968456-nurse-extern-acute-rehab) | Rochester, MI, us |  | 2026-11-20 |  |
+| Milliman | [Actuarial Intern - Spring 2027 - Philadelphia (Remote) Health](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=be45e890-9f5b-4fe4-852d-7841c4b5ef5f) · Spring 2027 | Berwyn, PA, USA (remote) | $21 to $46/hour | 2026-11-20 | no visa sponsorship |
+| UTMB Health | [Certified Nursing Assistant (CNA) Apprenticeship Program](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2607075&lang=en) | United States-Texas-Galveston; United States-Texas-League City, United | $15/hour | 2026-11-20 |  |
+| Ascension | [Nursing Intern](https://jobs.ascension.org/us/en/job/32262) | Franklin, WI, US |  | 2026-11-20 |  |
+| Ascension | [Youth Apprentice Certified Nursing Assistant](https://jobs.ascension.org/us/en/job/32261) | Franklin, WI, US |  | 2026-11-20 |  |
+| Re:Build Manufacturing | [Environmental, Health & Safety (EHS) Co-Op](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4755765005) | Rochester, NY | $20 to $25/hour | 2026-11-20 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1105860) | 103 N MAYSVILLE ROAD, Zanesville, Ohio,United States | $30 to $42/hour | 2026-11-20 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1105920) | 1208 MAPLE AVENUE, Zanesville, Ohio,United States | $30 to $42/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1105638) | 103 N MAYSVILLE ROAD, Zanesville, Ohio,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1105249) | 8765 S. DIXIE HWY., Pinecrest, Florida,United States | $20.50 to $24.25/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1105195) | 20345 OLD CUTLER RD, Cutler Bay, Florida,United States | $20.50 to $24.25/hour | 2026-11-20 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1105886) | 309 EAST CORNWALLIS DRIVE, Greensboro, North Carolina,United States | $30 to $42/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1105228) | 600 NE 128TH ST, North Miami, Florida,United States | $20.50 to $24.25/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1105206) | 9666 OLDE US 20, Rossford, Ohio,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1105212) | 14075 BISCAYNE BLVD, North Miami Beach, Florida,United States | $20.50 to $24.25/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1104453) | 2042 RANKIN MILL ROAD, Greensboro, North Carolina,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1104459) | 309 EAST CORNWALLIS DRIVE, Greensboro, North Carolina,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1103298) | 9666 OLDE US 20, Rossford, Ohio,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1092967) | 309 EAST CORNWALLIS DRIVE, Greensboro, North Carolina,United States | $23.75 to $42/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1092960) | 1903 WEST FLORIDA STREET, Greensboro, North Carolina,United States | $23.75 to $42/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1086054) | 3341 RANDLEMAN RD., Greensboro, North Carolina,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1079918) | 7510 SYLVANIA AVE., Sylvania, Ohio,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1072718) | 800 MAIN AVE, De Pere, Wisconsin,United States | $30 to $42/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1076579) | 46960 VAN DYKE AVE., Shelby Township, Michigan,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1076600) | 13500 22 MILE RD., Shelby Township, Michigan,United States | $20 to $23.75/hour | 2026-11-20 |  |
+| CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1075117) | 7510 SYLVANIA AVE., Sylvania, Ohio,United States | $30 to $42/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1061489) | 1825 NE 185TH ST, North Miami Beach, Florida,United States | $20.50 to $24.25/hour | 2026-11-20 |  |
+| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1058087) | 2115 TWENTY FIVE MILE RD., Shelby Township, Michigan,United States | $20 to $23.75/hour | 2026-11-20 |  |
 | CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1109723) | 1105 SOUTH MAIN STREET, Kernersville, North Carolina,United States | $23.75 to $42/hour | 2026-11-19 |  |
 | HealthCorps | [Teens Make Health Happen Marketing & Communications Internship](https://apply.workable.com/j/397BEF05E7) | Flagstaff, Arizona, United States |  | 2026-11-19 |  |
 | Henry Ford Health | [Henry Ford Health Genesys Nurse Extern Program](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016961076-henry-ford-health-genesys-nurse-extern-program) | Grand Blanc, MI, us |  | 2026-11-19 |  |
@@ -26,9 +74,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Henry Ford Health | [Nurse Extern - Orthopedics/General Surgery](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016945646-nurse-extern-orthopedics-general-surgery) | Rochester, MI, us |  | 2026-11-19 |  |
 | Henry Ford Health | [Nurse Extern - Neuro/Stroke Unit](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016945486-nurse-extern-neuro-stroke-unit) | Clinton Township, MI, us |  | 2026-11-19 |  |
 | Henry Ford Health | [Nurse Extern - LDRP](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016943074-nurse-extern-ldrp) | Rochester, MI, us |  | 2026-11-19 |  |
-| Henry Ford Health | [Nurse Extern - Labor and Delivery](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016937556-nurse-extern-labor-and-delivery) | Detroit, MI, us |  | 2026-11-19 |  |
-| Henry Ford Health | [Nurse Extern- Float Staffing](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016934096-nurse-extern-float-staffing) | Novi, MI, us |  | 2026-11-19 |  |
-| Henry Ford Health | [Nurse Extern - Family Centered Maternity Care Postpartum](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016932316-nurse-extern-family-centered-maternity-care-postpartum) | Detroit, MI, us |  | 2026-11-19 |  |
 | Levittown Animal Hospital | [Veterinary Technician Student Externship/Preceptorship Program - Levittown Animal Hospital](https://boards.greenhouse.io/levittown/jobs/8950583002?gh_jid=8950583002) | Levittown, NY |  | 2026-11-19 |  |
 | Northwestern Memorial Healthcare | [Final Semester Student Nurse Intern Program (Part Time) – Lake Forest Hospital – Spring 2027](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162330951-final-semester-student-nurse-intern-program-part-time-lake-forest-hospital-spring-2027) · Spring 2027 | Lake Forest, IL, us |  | 2026-11-19 |  |
 | UnitedHealth Group | [Optum Bank of Healthcare, Accounting Intern - Draper, UT](https://careers.unitedhealthgroup.com/job/draper/optum-bank-of-healthcare-accounting-intern-draper-ut/34088/103492333488) | Draper, Utah | $18 to $32/hour | 2026-11-19 |  |
@@ -117,7 +162,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R0997129) | 2707 SCHOFIELD AVE, Schofield, Wisconsin,United States | $23.75 to $42/hour | 2026-11-18 |  |
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1107343) | 274 NORTH MAIN STREET, Mooresville, North Carolina,United States | $20 to $23.75/hour | 2026-11-17 |  |
 | Ascension | [Imaging Intern](https://jobs.ascension.org/us/en/job/1324191) | Wichita, KS, US |  | 2026-11-17 |  |
-| Ascension | [Clinical Intern](https://jobs.ascension.org/us/en/job/30146) | Murfreesboro, TN, US |  | 2026-11-17 |  |
 | Bosch | [Research Intern: Multimodal Foundation Models for Healthcare](https://jobs.smartrecruiters.com/BoschGroup/744000161844052-research-intern-multimodal-foundation-models-for-healthcare) | Pittsburgh, PA, us |  | 2026-11-17 |  |
 | Centene | [Healthcare Administration Summer 2027 Intern (Graduate)](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Healthcare-Administration-Summer-2027-Intern--Graduate-_1660524) · Summer 2027 | Remote-MO | $21 to $30/hour | 2026-11-17 | no visa sponsorship |
 | CommonSpirit Health (St. Luke's Health) | [Intern Respiratory Care](https://www.commonspirit.careers/job/lexington/intern-respiratory-care/35300/103399002000) | LEXINGTON, KY |  | 2026-11-17 |  |
@@ -528,7 +572,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1104030) | 111 PIONEER TRL, Chaska, Minnesota,United States | $24.25 to $42/hour | 2026-11-14 |  |
 | Munson Healthcare | [Nurse Externship - Days](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016848036-nurse-externship-days) · Summer 2027 | Traverse City, Michigan, us |  | 2026-11-14 |  |
 | Munson Healthcare | [Nurse Externship - Nights](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016847956-nurse-externship-nights) · Summer 2027 | Traverse City, Michigan, us |  | 2026-11-14 |  |
-| Ramboll | [Intern, Environment & Health](https://jobs.smartrecruiters.com/Ramboll3/744000161572245-intern-environment-health-) | Seattle, Washington, us | $20 to $25/hour | 2026-11-14 |  |
 | Tenet Healthcare | [Pharmacist Intern](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503017258) | Memphis, TN, United States |  | 2026-11-14 |  |
 | University Health (San Antonio) | [Student Nurse Intern PRN](https://careers.universityhealth.com/job/san-antonio/student-nurse-intern-prn/43277/103227644576) | San Antonio, TX |  | 2026-11-14 |  |
 | University Health (San Antonio) | [Student Nurse Intern PRN](https://careers.universityhealth.com/job/san-antonio/student-nurse-intern-prn/43277/103227644624) | San Antonio, TX |  | 2026-11-14 |  |
@@ -581,14 +624,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1102963) | 2350 MIRACLE MILE, Bullhead City, Arizona,United States | $21.25 to $25/hour | 2026-11-13 |  |
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R0999548) | 9725 S EASTERN AVE, Las Vegas, Nevada,United States | $20.50 to $24.25/hour | 2026-11-13 |  |
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1103122) | 4100 BLUE DIAMOND RD, Las Vegas, Nevada,United States | $20.50 to $24.25/hour | 2026-11-13 |  |
-| Henry Ford Health | [Henry Ford Health Genesys Nurse Extern Program](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016821166-henry-ford-health-genesys-nurse-extern-program) | Grand Blanc, MI, us |  | 2026-11-13 |  |
 | The MJ Companies | [Pharmacy Consultant Internship](https://job-boards.greenhouse.io/themjcos/jobs/5479231008) | Carmel, IN |  | 2026-11-13 |  |
 | Unitek Learning | [Medical Assistant Career & Externship Coordinator](https://jobs.smartrecruiters.com/UnitekLearning/744000161350919-medical-assistant-career-externship-coordinator) | Bakersfield, CA, us | $28 to $32/hour | 2026-11-13 |  |
 | West Cancer Center | [Chemotherapy Prep Technician Apprentice - Full Time - Wolf River](https://job-boards.greenhouse.io/westcancercenter/jobs/8940511002) | Germantown, TN |  | 2026-11-13 |  |
 | Ascension | [Nurse Intern ICU](https://jobs.ascension.org/us/en/job/30152) | Mequon, WI, US |  | 2026-11-12 |  |
 | Ascension | [Nurse Intern ICU](https://jobs.ascension.org/us/en/job/30166) | Mequon, WI, US |  | 2026-11-12 |  |
-| Texas Health Resources | [Nurse Extern, PT, Days, Float Pool](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26008426&lang=en) | Denton |  | 2026-11-12 |  |
-| Ascension | [Student RN Intern Medical Surgical](https://jobs.ascension.org/us/en/job/17273) | Hoffman Estates, IL, US |  | 2026-11-12 |  |
 | Bask Health | [Patient Experience Product Intern](https://apply.workable.com/j/90535FE8AA) | United States |  | 2026-11-12 |  |
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1087769) | 2585 LEON C, SIMON DR., New Orleans, Louisiana,United States | $20 to $23.75/hour | 2026-11-12 |  |
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1102240) | 1220 EAST REPUBLIC RD., Springfield, Missouri,United States |  | 2026-11-12 |  |
@@ -682,7 +722,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1008139) | 1982 WEST 1700 SOUTH, Syracuse, Utah,United States | $20.50 to $24.25/hour | 2026-11-12 |  |
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1008185) | 1135 W RIVERDALE RD, Riverdale, Utah,United States | $20.50 to $24.25/hour | 2026-11-12 |  |
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1004646) | 5305 SOUTH 1900 WEST, Roy, Utah,United States | $20.50 to $24.25/hour | 2026-11-12 |  |
-| Marsh McLennan | [Marsh People and Investments Health and Benefits Summer Internship- New York- College Program 2027](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/Marsh-People-and-Investments-Health-and-Benefits-Summer-Internship--New-York--College-Program-2027_R_372544) · Fall 2027 | New York - 1166 (hybrid) |  | 2026-11-12 | no visa sponsorship |
 | Metro Vein Centers | [Early-Career Physician Apprentice Program — Outpatient Vein Care (Comprehensive Paid Training Provided)](https://job-boards.greenhouse.io/metroveincenters/jobs/4503278009) | Dallas, TX Area | $250,000 | 2026-11-12 |  |
 | Metro Vein Centers | [Early-Career Physician Apprentice Program — Outpatient Vein Care (Full Paid Training Provided)](https://job-boards.greenhouse.io/metroveincenters/jobs/4503227009) | Greater Detroit Metropolitan Area, MI | $250,000 | 2026-11-12 |  |
 | Metro Vein Centers | [Early-Career Physician Apprentice Program — Outpatient Vein Care (Fully Paid Specialty Mentorship)](https://job-boards.greenhouse.io/metroveincenters/jobs/4503291009) | NYC Metropolitan Area | $250,000 | 2026-11-12 |  |
@@ -690,6 +729,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ultragenyx Pharmaceutical | [Co-op, Validation](https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4753215005?gh_jid=4753215005) | Bedford, MA | $25 to $30/hour | 2026-11-12 |  |
 | Ultragenyx Pharmaceutical | [Intern, Environmental Health and Safety (Winter Term Jan 4-Feb 26 2027)](https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4753224005?gh_jid=4753224005) · Winter | Bedford, MA | $25 to $30/hour | 2026-11-12 |  |
 | Tri County Special Education | [School Psychologist Intern](https://tcsea.bamboohr.com/careers/35) | Bloomington, Illinois, United States | $30,000 | 2026-11-12 |  |
+| Marsh McLennan | [Health and Benefits Summer Intern- Louisville KY- College Program 2027](https://mmc.wd1.myworkdayjobs.com/MMC/job/Louisville---West-Market/Health-and-Benefits-Summer-Intern--Louisville-KY--College-Program-2027_R_372414) · Fall 2027 | Louisville - West Market (hybrid) |  | 2026-11-11 | no visa sponsorship |
 | Ascension | [Sonography Clinical Intern](https://jobs.ascension.org/us/en/job/26665) | Nashville, TN, US |  | 2026-11-11 |  |
 | Ascension | [Nursing Intern](https://jobs.ascension.org/us/en/job/27974) | Oshkosh, WI, US |  | 2026-11-11 |  |
 | Harris Health | [Pharmacy Tech Apprentice](https://jobs.harrishealth.org/pharmacy-tech-apprentice/job/D48C305154BE886AEA79D26688531A69) | Bellaire, TX, US |  | 2026-11-11 |  |
@@ -702,13 +742,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1100854) | 195 CONSTON AVE, Christiansburg, Virginia,United States | $30 to $42/hour | 2026-11-11 |  |
 | Douglas County Health Department | [Intern (General)](https://douglascountyil.bamboohr.com/careers/48) | Tuscola, Illinois, United States |  | 2026-11-11 |  |
 | LaBella Associates | [Health & Safety Intern](https://apply.workable.com/j/8C5DA9699D) | Rochester, New York, United States | $16 to $20/hour | 2026-11-11 |  |
-| Marsh McLennan | [Health and Benefits Summer Intern- Louisville KY- College Program 2027](https://mmc.wd1.myworkdayjobs.com/MMC/job/Louisville---West-Market/Health-and-Benefits-Summer-Intern--Louisville-KY--College-Program-2027_R_372414) · Fall 2027 | Louisville - West Market (hybrid) |  | 2026-11-11 | no visa sponsorship |
 | Northwestern Memorial Healthcare | [Community Health Worker Apprenticeship Program - 2026/2027 Cohort](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160907869-community-health-worker-apprenticeship-program-2026-2027-cohort) | Chicago, IL, us | $18/hour | 2026-11-11 |  |
 | UnitedHealth Group | [Nurse Intern, OptumRx Infusion - Phoenix, AZ](https://careers.unitedhealthgroup.com/job/chandler/nurse-intern-optumrx-infusion-phoenix-az/34088/103116189888) | Chandler, Arizona | $18 to $24/hour | 2026-11-11 | no visa sponsorship |
 | UnitedHealth Group | [Nurse Intern, OptumRx Infusion - Miramar, FL](https://careers.unitedhealthgroup.com/job/miramar/nurse-intern-optumrx-infusion-miramar-fl/34088/103116189840) | Miramar, Florida | $18 to $24/hour | 2026-11-11 | no visa sponsorship |
 | UnitedHealth Group | [Nurse Intern, OptumRx Infusion - Roseville, MN](https://careers.unitedhealthgroup.com/job/roseville/nurse-intern-optumrx-infusion-roseville-mn/34088/103116189952) | Roseville, Minnesota | $18 to $24/hour | 2026-11-11 | no visa sponsorship |
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1079519) | 4567 RIVER CITY DR, Jacksonville, Florida,United States | $20 to $23.75/hour | 2026-11-11 |  |
-| Ascension | [Intern Imaging](https://jobs.ascension.org/us/en/job/27693) | Milwaukee, WI, US |  | 2026-11-10 |  |
 | ASM | [Intern, EHS (Environment, Health, Safety)](https://www.asm.com/open-vacancies/?gh_jid=5031707101) | US > Arizona > Phoenix |  | 2026-11-10 |  |
 | Seasons Psychotherapy Associates LLC | [Registered Intern Therapist (RMHCI, RCSWI, RMFTI) – Broward County Outpatient Group Practice](https://seasonsfl.bamboohr.com/careers/98) | Fort Lauderdale, Florida, United States |  | 2026-11-10 |  |
 | CommonSpirit Health (St. Luke's Health) | [Extern RN](https://www.commonspirit.careers/job/bakersfield/extern-rn/35300/103081234112) | BAKERSFIELD, CA |  | 2026-11-10 |  |
@@ -718,41 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099633) | 2545 WHISKEY RD, Aiken, South Carolina,United States | $20 to $23.75/hour | 2026-11-10 |  |
 | CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1012277) | 936 WILLOW RD., Northbrook, Illinois,United States | $20.50 to $24.25/hour | 2026-11-10 |  |
 | CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1099613) | 200 E. BROADWAY, Granville, Ohio,United States | $23.75 to $42/hour | 2026-11-10 |  |
-| Henry Ford Health | [Nurse Extern- Clinical Decision Unit](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990016737646-nurse-extern-clinical-decision-unit) | Warren, MI, us |  | 2026-11-10 |  |
-| Munson Healthcare | [Radiology Student Intern](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016729731-radiology-student-intern) | Manistee, Michigan, us |  | 2026-11-10 |  |
-| Town of Lexington | [Therapeutic Recreation Intern](https://townoflexington.bamboohr.com/careers/73) | Lexington, Massachusetts, United States | $19/hour | 2026-11-10 |  |
-| TTUHSC | [Pharmacy Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=927563) | Dallas / Ft. Worth, Texas, US | $100,000 | 2026-11-10 |  |
-| University Health (San Antonio) | [Student Nurse Intern PRN](https://careers.universityhealth.com/job/san-antonio/student-nurse-intern-prn/43277/103083380448) | San Antonio, TX |  | 2026-11-10 |  |
-| UT Southwestern | [Respiratory Therapy Extern, PRN](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=260000M5&lang=en) | Texas-Dallas-5200 Harry Hines Blvd |  | 2026-11-10 |  |
-| Changing Lives at Home Mental Health Inc. | [Masters Level Graduate Student Intern - 2nd Year](https://clhmentalhealth.bamboohr.com/careers/35) | Baltimore, Maryland, United States |  | 2026-11-10 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099059) | 12691 ANTIOCH, Overland Park, Kansas,United States | $20.50 to $24.25/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099069) | 2400 BERNADETTE DR, Columbia, Missouri,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099045) | 15846 MANCHESTER RD., Ellisville, Missouri,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099046) | 12756 OLIVE BLVD, Creve Coeur, Missouri,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099057) | 2665 N. ILLINOIS ST., Swansea, Illinois,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099013) | 4701 N ILLINOIS ST, Fairview Heights, Illinois,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099014) | 4701 N ILLINOIS ST, Fairview Heights, Illinois,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099015) | 907 E HIGHWAY 50, O Fallon, Illinois,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099053) | 1800 VANDALIA ST., Collinsville, Illinois,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099022) | 2239 EAST COOK ST., SUITE 101, Springfield, Illinois,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099026) | 910 COURT STREET, Pekin, Illinois,United States | $20.50 to $24.25/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099021) | 603 S. FOURTH ST., Chillicothe, Illinois,United States | $20.50 to $24.25/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099035) | 225 WEST COURT ST, Kankakee, Illinois,United States | $20.50 to $24.25/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099040) | 8546 S TAMIAMI TRL, Sarasota, Florida,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099068) | 3570 HARDEN BLVD, Lakeland, Florida,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099056) | 5391 N SOCRUM LOOP RD, Lakeland, Florida,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099027) | 101 BARTLETT PLAZA, Bartlett, Illinois,United States | $20.50 to $24.25/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099028) | 9139 BROADWAY, Brookfield, Illinois,United States | $19.50 to $20.50/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099064) | 4305 NORFOLK PKWY, West Melbourne, Florida,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099062) | 106 N PARROTT AVE, Okeechobee, Florida,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099029) | 5052 N A1A, Vero Beach, Florida,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099041) | 4999 S FEDERAL HWY, Fort Pierce, Florida,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099058) | 2220 S US HWY 1, Fort Pierce, Florida,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099067) | 2873 SW PORT ST. LUCIE BLVD., Port Saint Lucie, Florida,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern](https://jobs.cvshealth.com/us/en/job/R1099050) | 200 E. BROADWAY, Granville, Ohio,United States | $20 to $23.75/hour | 2026-11-09 |  |
-| Achieve Behavioral Health | [MHC Intern (YU Achieve program)](https://achievebh.bamboohr.com/careers/49) | Monsey, New York, United States |  | 2026-11-09 |  |
-| Rye Harrison Veterinary Hospital | [DVM Student Externship/Preceptorship Program - Rye Harrison Veterinary Hospital (Sees Exotics)](https://boards.greenhouse.io/ryeharrison/jobs/5040401002?gh_jid=5040401002) | Rye, NY | $250/week | 2026-11-09 |  |
-| Achieve Behavioral Health | [Psychology Doctoral Internship](https://achievebh.bamboohr.com/careers/20) | Monsey, New York, United States | $35,000 | 2026-11-09 |  |
-| Achieve Behavioral Health | [Social Work and MHC Intern](https://achievebh.bamboohr.com/careers/9) | Monsey, New York, United States |  | 2026-11-09 |  |
-| Children's Dental Land | [Externship-Bilingual Dental Assistant](https://jobs.smartrecruiters.com/ChildrensDentalLand/79727444-externship-bilingual-dental-assistant) | Phoenix, AZ, us |  | 2026-11-09 |  |
-| CVS Health | [Pharmacy Intern - Grad](https://jobs.cvshealth.com/us/en/job/R1097862) | 190 S. SANDUSKY ST., Delaware, Ohio,United States | $23.75 to $42/hour | 2026-11-08 |  |
