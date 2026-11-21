@@ -1,11 +1,14 @@
 # Internships and co-ops: Design and creative
 
-179 open, newest first (by the date the scraper first saw them), updated 2026-11-20.
+176 open, newest first (by the date the scraper first saw them), updated 2026-11-21.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Feyen Zylstra | [Digital Media Intern (Video Focus)](https://fz.bamboohr.com/careers/259) · Summer 2027 | Grand Rapids, Michigan, United States |  | 2026-11-21 |  |
+| Meyocks | [Graphic Design Intern](https://meyocks.bamboohr.com/careers/75) | West Des Moines, Iowa, United States |  | 2026-11-21 |  |
+| Phillips Auctioneers LLC | [Spring Photographs Internship](https://phillipsauctioneers.bamboohr.com/careers/601) · Spring | New York, New York, United States | $17.50/hour | 2026-11-21 |  |
 | Adobe | [2027 Intern - Video Production](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Video-Production_R173409) | San Francisco | $25 to $30/hour | 2026-11-20 |  |
 | Blizzard Entertainment | [Blizzard 2027 Summer Internships - Game Design (Systems Design)](https://careers.blizzard.com/global/en/job/R028377) · Summer 2027 | Irvine, California, United States of America | $20 to $50/hour | 2026-11-20 |  |
 | Sony | [Intern, Creative A&R](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/NA--Hollywood-N-Orange-Dr-375/Intern--Creative-A-R_JR-119935-1) | NA / Hollywood N Orange Dr 37.5 | $18/hour | 2026-11-20 |  |
@@ -62,7 +65,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TH Experiential | [Motion Graphic Internship Fall/Winter 2026](https://thexperiential.bamboohr.com/careers/185) · Winter 2026 | New York, New York, United States (Remote) |  | 2026-11-05 |  |
 | Road Commission for Oakland County | [Geographic Information Systems Internship](https://rcoc.bamboohr.com/careers/314) · Summer 2027 | Oakland County, Michigan, United States |  | 2026-11-05 |  |
 | SS Digital Media | [Oakland University Internship - Creative](https://ssdigitalmedia.bamboohr.com/careers/93) | Troy, Michigan, United States |  | 2026-11-05 |  |
-| Institute for the Study of War | [Multimedia & Video Production Internship Spring 2027](https://understandingwar.bamboohr.com/careers/249) · Spring 2027 | Washington, District of Columbia, United States |  | 2026-11-05 |  |
 | One Tree Planted | [Photo & Video Intern](https://onetreeplanted.bamboohr.com/careers/122) | Remote, New York, United States (Remote) |  | 2026-11-05 |  |
 | Immuta | [UX Design Internship - Summer 2027](https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3) · Summer 2027 | College Park, MD / Columbus, OH / Boston, MA |  | 2026-11-05 |  |
 | Epicosity | [2027 Graphic Design Intern](https://epicosity.bamboohr.com/careers/35) | Sioux Falls, South Dakota, United States |  | 2026-11-05 |  |
@@ -88,20 +90,17 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | KnowBe4 | [Multimedia Designer Summer Internship (Hybrid)](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) · Summer | Clearwater, Florida (hybrid) |  | 2026-11-04 |  |
 | SharkNinja | [Spring 2027: HW UX/UI Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721298006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
 | Pencor Services | [Spring Creative News Internship](https://pencor.bamboohr.com/careers/1093) · Spring | Lehighton, Pennsylvania, United States |  | 2026-11-04 |  |
-| SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006) · Spring 2027 | New York, New York, United States | $30 to $36/hour | 2026-11-04 |  |
 | SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006) · Spring 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-04 |  |
+| SharkNinja | [Spring 2027: Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006) · Spring 2027 | New York, New York, United States | $30 to $36/hour | 2026-11-04 |  |
 | Crystal Dynamics | [Game Design Intern [Spring 2027]](https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005) · Spring 2027 | Remote/Flexible - United States | $21 to $24/hour | 2026-11-04 |  |
-| Excel Sports Management | [Spring 2027 - Intern, Creative](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747588005) · Spring 2027 | New York, New York, United States | $17/hour | 2026-11-04 | no visa sponsorship |
 | Iris North America | [Motion Design Intern](https://job-boards.greenhouse.io/iris/jobs/8319399) | Atlanta, GA (hybrid) | $18/hour | 2026-11-04 |  |
 | Nex | [Summer 2027 / UI Motion Artist Intern](https://job-boards.greenhouse.io/nex/jobs/5461373008) · Summer 2027 | San Jose, California |  | 2026-11-04 |  |
-| PrizePicks | [UX Research Intern - Spring 2027](http://prizepicks.com/position?gh_jid=8031331003) · Spring 2027 | Atlanta, Georgia, United States | $30/hour | 2026-11-04 | no visa sponsorship |
 | Nominal | [Product Designer - Internship (Summer 2027)](https://jobs.gem.com/nominal/am9icG9zdDoPXJ5iXKNTyqm8k7nUAyu4) · Summer 2027 | New York, NY, Los Angeles, CA, Austin, TX |  | 2026-11-04 | US citizens/persons only |
 | Anduril Industries | [2027 Product Designer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) · Summer 2027 | Costa Mesa, California, United States | $34 to $42/hour | 2026-11-04 | US citizens/persons only |
 | DLR Group | [Audiovisual Systems Design Intern / Summer 2027](https://job-boards.greenhouse.io/dlrgroup/jobs/5441252008) · Summer 2027 | Cleveland, Ohio, United States; Los Angeles, California, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
 | SeatGeek | [UX Design - Internship](https://seatgeek.com/jobs/8248125?gh_jid=8248125) | New York, New York | $50/hour | 2026-11-04 |  |
 | National Life Insurance Company | [Graphic Design Intern – Summer 2027](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4404976009) · Summer 2027 | Addison, TX; Montpelier, VT | $19 to $28/hour | 2026-11-04 | no visa sponsorship |
 | Bound | [UX Design Intern (Summer 2027)](https://ats.rippling.com/bound/jobs/ef56b967-e64c-4b26-8a1b-a02753c27d04) · Summer 2027 | Ames, IA |  | 2026-11-04 |  |
-| Athena Global Advisors, LLC | [Summer 2027 Intern, Designer, Creative Department](https://ats.rippling.com/athena-careers/jobs/6caed124-e1e5-45a8-a485-87bd9811c699) · Summer 2027 | Philadelphia, PA | $20/hour | 2026-11-04 |  |
 | Megazone Cloud US | [Visual Design Co-op 2027](https://jobs.ashbyhq.com/megazone/66b2d2e9-1b13-40d0-a4d4-e4599fd418ca) | Rochester, NY |  | 2026-11-04 |  |
 | Timmons Group | [Landscape Designer Internship - Summer 2027](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148861879-landscape-designer-internship-summer-2027) · Summer 2027 | Charlottesville, VA, us | $25/hour | 2026-11-04 |  |
 | Timmons Group | [Landscape Designer Internship - Summer 2027](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148861399-landscape-designer-internship-summer-2027) · Summer 2027 | Richmond, VA, us | $25/hour | 2026-11-04 |  |
@@ -160,8 +159,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Garmin | [User Interface Designer Intern](https://careers.garmin.com/careers-home/jobs/19938) · Summer 2027 | Olathe, Kansas |  | 2026-10-21 |  |
 | Disney | [Disney Experiences Graphic Design Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Disney-Experiences-Graphic-Design-Intern--Spring-2027_10160434) · Spring 2027 | Kissimmee, FL, USA | $23/hour | 2026-10-20 |  |
 | Disney | [Disney Consumer Products Retail Creative Graphic Design Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Disney-Consumer-Products-Retail-Creative-Graphic-Design-Intern--Spring-2027_10160400-2) · Spring 2027 | Kissimmee, FL, USA | $23/hour | 2026-10-20 |  |
-| Insomniac Games | [Game Design Intern-Undergraduate](https://job-boards.greenhouse.io/insomniac/jobs/6226630004) | United States, Burbank, CA | $36.50/hour | 2026-10-20 | no visa sponsorship |
-| Insomniac Games | [User Research Intern (Tools)- Master's](https://job-boards.greenhouse.io/insomniac/jobs/6227520004) | United States, Burbank, CA | $40.25/hour | 2026-10-20 | no visa sponsorship |
+| Fox Corporation | [Summer 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033985) · Summer 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
+| Fox Corporation | [Spring 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033952-1) · Spring 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
 | Nintendo of America | [Intern - User Experience](https://careers.nintendo.com/?gh_jid=4418258009) | Redmond, WA |  | 2026-10-20 | no visa sponsorship |
 | Target | [UX Design Internship - Minneapolis, MN (Starting Summer, 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Design-Internship---Minneapolis--MN--Starting-Summer--2027-_R0000451077) · Summer 2027 | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $34/hour | 2026-10-20 |  |
 | Polaris | [Transportation Industrial Design Intern](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Transportation-Industrial-Design-Intern_R31551) | Medina, MN, USA | $19.50 to $30.75/hour | 2026-10-20 | no visa sponsorship, US citizens/persons only |
@@ -171,8 +170,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | GM | [Summer 2027 Intern - Industrial Design](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship |
 | GM | [2027 Summer Intern - Creative Design (Interior/Exterior)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship |
 | KLA | [Precision Motion Control Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Precision-Motion-Control-Intern_2642139-1) | Milpitas, CA |  | 2026-10-20 |  |
-| Fox Corporation | [Summer 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033985) · Summer 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
-| Fox Corporation | [Spring 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033952-1) · Spring 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
 | Formlabs | [Industrial Design Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232) · Spring 2027 | Somerville, MA |  | 2026-10-20 |  |
 | Honda | [Creative Design and Research Co-op/Intern - Summer 2027](https://careers.honda.com/us/en/job/11171) · Summer 2027 | Torrance, California, United States | $26.58 to $34.38/hour | 2026-10-20 |  |
 | Honda | [Creative Design and Research Co-op/Intern - Spring 2027](https://careers.honda.com/us/en/job/10997) · Spring 2027 | Torrance, California, United States | $26.58 to $34.38/hour | 2026-10-20 |  |

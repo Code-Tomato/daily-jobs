@@ -1,6 +1,6 @@
 # Internships and co-ops: Education
 
-64 open, newest first (by the date the scraper first saw them), updated 2026-11-20.
+62 open, newest first (by the date the scraper first saw them), updated 2026-11-21.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -15,7 +15,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | 7AM Enfant Inc. | [Academic Fashion Design Internship](https://7am-enfant-inc.breezy.hr/p/1909a68063a8-academic-fashion-design-internship) | New York, NY |  | 2026-11-09 |  |
 | Chubb | [Agency Education and Development Intern](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38424) · Summer 2027 | Chicago, IL, United States | $18 to $24/hour | 2026-11-07 |  |
 | Strategic HR Client | [CACFP Childcare Centers and Afterschool/Summer Program Specialist I](https://job-boards.greenhouse.io/strategichr/jobs/8197868003) · Summer | Cleveland, Ohio (hybrid) | $20 to $24/hour | 2026-11-07 |  |
-| Middlebury College | [Admissions Communication Intern (AY 26-27 901454)](https://apply.workable.com/j/444DC4C86E) | Middlebury, Vermont, United States | $14.95/hour | 2026-11-07 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Learner Engagement and Community Intern](https://jobs.lever.co/stradaeducation/14537f82-790c-4b10-bd63-f8a80c6564c1) | Indianapolis, Indiana | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Post-Secondary Education Team (PSE)](https://jobs.lever.co/stradaeducation/68c7fe9c-c4b9-4cfb-8165-bcebf6013692) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Strategic Partnership & Corporate Development Intern](https://jobs.lever.co/stradaeducation/2b03de4a-699c-4f1c-aefb-3e57a3d27851) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
@@ -24,7 +23,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Strada Education Foundation | [Strada Education Foundation Internship: Employer Alignment/Institute for the Future of Work Intern](https://jobs.lever.co/stradaeducation/407e6cd0-5789-4366-9449-23461c5e77bb) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
 | DREAM | [[Spring 2027] High School Data and Assessment Intern](https://jobs.lever.co/wearedream/c2f1b009-83aa-4578-80fb-38cda41652a5) · Spring 2027 | New York, NY - Multi-Site | $22/hour | 2026-11-05 |  |
 | Virginia Moca | [Education Internship Spring 2027](https://virginiamoca.bamboohr.com/careers/46) · Spring 2027 | Virginia Beach, Virginia, United States | $15/hour | 2026-11-05 |  |
-| ECHO, Leahy Center for Lake Champlain | [Academic Animal Care Internship (unpaid)](https://echo-leahy-center-for-lake-champlain.breezy.hr/p/27e28d1a0f00-academic-animal-care-internship-unpaid) | Burlington, VT |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - North America Programs Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/181f25c2-aafc-43de-8f8e-242987eef1c6) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Programs Outreach Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/b46a3ae5-18a1-40e3-ba75-a97fb42bf3dd) · Spring 2027 | Atlanta, Georgia |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Training and Education Intern - Atlas Network](https://jobs.lever.co/standtogether/4544fd5a-2854-40db-9e4d-a3b7da8cad3a) · Spring 2027 | Arlington, Virginia |  | 2026-11-05 |  |

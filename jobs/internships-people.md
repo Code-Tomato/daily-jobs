@@ -1,11 +1,19 @@
 # Internships and co-ops: HR, legal and policy
 
-511 open, newest first (by the date the scraper first saw them), updated 2026-11-20.
+508 open, newest first (by the date the scraper first saw them), updated 2026-11-21.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Feyen Zylstra | [Human Resources Intern (Learning & Development Focus)](https://fz.bamboohr.com/careers/260) · Summer 2027 | Grand Rapids, Michigan, United States |  | 2026-11-21 |  |
+| Feyen Zylstra | [Talent Acquisition Intern](https://fz.bamboohr.com/careers/261) · Summer 2027 | Grand Rapids, Michigan, United States |  | 2026-11-21 |  |
+| SharkNinja | [Spring 2027: Early Talent Recruitment Intern (January- June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727071006) · Spring 2027 | Needham, MA, United States | $27 to $33/hour | 2026-11-21 |  |
+| TotalEnergies | [Regulatory Affairs Intern](https://jobs.totalenergies.com/en_US/careers/JobDetail/Regulatory-Affairs-Intern/86476) | BOSTON, United States / US | $17 to $27/hour | 2026-11-21 |  |
+| Xcel Energy | [Regulatory (Fall/Winter) Intern - CO](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Regulatory--Fall-Winter--Intern---CO_JR116423-2) · Fall 2026 | Denver, CO, 80205 (hybrid) | $19.30 to $24.50/hour | 2026-11-21 |  |
+| Mom's Meals | [Compliance & Privacy Intern](https://jobs.lever.co/momsmeals/6a8eb87c-46e8-476a-8ef2-e7c1f76af513) | Ankeny, IA |  | 2026-11-21 |  |
+| Mom's Meals | [Human Resources - Talent Acquisition Intern](https://jobs.lever.co/momsmeals/bb119578-f24c-4245-9437-55265d96adcb) | Ankeny, IA |  | 2026-11-21 |  |
+| Mom's Meals | [Human Resources - Total Rewards Intern](https://jobs.lever.co/momsmeals/4c23e842-eab0-4517-95e8-3fa8079a6657) | Ankeny, IA |  | 2026-11-21 |  |
 | Charles Schwab | [2027 SOX Compliance Intern](https://www.schwabjobs.com/job/lone-tree/2027-sox-compliance-intern/33727/100959818672) | Lone Tree, Colorado |  | 2026-11-20 |  |
 | Minitab | [Data Privacy Intern (Summer 2027)](https://job-boards.greenhouse.io/minitab/jobs/8200490003) · Summer 2027 | State College, Pennsylvania, United States |  | 2026-11-20 | no visa sponsorship |
 | Secretariat | [Intern, Human Resources](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4514822009) | Atlanta, Georgia, United States |  | 2026-11-20 | no visa sponsorship |
@@ -56,7 +64,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Center for Strategic and International Studies, Inc. | [Spring Intern, Geopolitics and Foreign Policy Department and Middle East Program](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4503266009) · Spring 2027 | Washington, D.C. | $18.40 to $20.40/hour | 2026-11-13 |  |
 | ERCOT | [Intern - Legal](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Intern---Legal_R2570) | Austin, TX |  | 2026-11-13 |  |
 | Lowe's | [Government Affairs Intern – Undergraduate Internship - Summer 2027](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Government-Affairs-Intern---Undergraduate-Internship---Summer-2027_JR-02677540-1) · Summer 2027 | Mooresville, NC (SSC) 1999 |  | 2026-11-13 |  |
-| NASTAD | [Intern, Policy and Legislative Affairs](https://jobs.smartrecruiters.com/NASTAD/744000161374561-intern-policy-and-legislative-affairs) | Washington, DC, us | $20/hour | 2026-11-13 |  |
 | PMG | [HR Programs Intern](https://job-boards.greenhouse.io/pmg/jobs/8929431002) | Dallas, TX (hybrid) |  | 2026-11-13 | no visa sponsorship |
 | SiriusXM | [Spring Intern, Talent Relations - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17665) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
 | Sonos | [Compliance Engineering Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Compliance-Engineering-Intern_R2906-1) · Spring 2028 | Boston, MA |  | 2026-11-13 | no visa sponsorship |
@@ -64,7 +71,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Xcimer Energy | [Summer 2027 Internship - Experimental Lasers (Graduate)](https://jobs.lever.co/xcimer/3077fc12-ea51-4065-8082-78f341134574) · Summer 2027 | Denver, CO |  | 2026-11-13 | US citizens/persons only |
 | Xcimer Energy | [Summer 2027 Internship - Experimental Lasers (Undergraduate)](https://jobs.lever.co/xcimer/2bfa2587-23ab-4e40-a6eb-c003c072b3cd) · Summer 2027 | Denver, CO |  | 2026-11-13 | US citizens/persons only |
 | BorgWarner | [Human Resources Internship (Jan 2027 start)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Intern-Undergrad-Admin_R2026-4467) | Auburn Hills - Michigan - USA |  | 2026-11-12 |  |
-| Center for Disability & Elder Law | [Winter/Spring 2027 Policy Intern](https://disability.bamboohr.com/careers/99) · Spring 2027 | Chicago, Illinois, United States |  | 2026-11-12 |  |
 | Bosch | [Human Resources Intern (Winter 2027)](https://jobs.smartrecruiters.com/BoschGroup/744000161100324-human-resources-intern-winter-2027-) · Winter 2027 | Londonderry, NH, us | $25 to $28/hour | 2026-11-12 |  |
 | Create Music Group | [M&A Legal Intern - Spring 2027](https://ats.rippling.com/createmusicgroup/jobs/afd4db07-0bec-48b2-9b50-661542e5bc54) · Spring 2027 | Remote (United States) |  | 2026-11-12 |  |
 | Intel | [2026 Fall Recruiting New Mexico Graduate Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/XMLNAME-2026-Fall-Recruiting-New-Mexico-Graduate-Intern_JR0286496) · Fall 2026 | US, New Mexico, Albuquerque | $89,098 to $89,102 | 2026-11-12 |  |
@@ -94,7 +100,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NBCUniversal | [Government Affairs Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000160661871-government-affairs-internships-summer-2027) · Summer 2027 | Washington, DC, us | $25/hour | 2026-11-10 | no visa sponsorship |
 | NBCUniversal | [Government Affairs Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000160660741-government-affairs-internships-summer-2027) · Summer 2027 | Universal City, CA, us | $19/hour | 2026-11-10 | no visa sponsorship |
 | NBCUniversal | [Government Affairs Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000160660975-government-affairs-internships-summer-2027) · Summer 2027 | New York, NY, us | $19/hour | 2026-11-10 | no visa sponsorship |
-| Protiviti | [Chicago Legal, Risk and Compliance Intern - 2027](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/CHICAGO/Chicago-Legal--Risk-and-Compliance-Intern---2027_JR-258883) | CHICAGO | $28/hour | 2026-11-10 | no visa sponsorship |
 | Protiviti | [Austin Legal, Risk and Compliance Intern - 2027](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/AUSTIN/Austin-Legal--Risk-and-Compliance-Intern---2027_JR-258894) | AUSTIN | $28/hour | 2026-11-10 | no visa sponsorship |
 | Scout Motors | [Intern, Human Resources](https://job-boards.greenhouse.io/scoutmotors/jobs/5287135007) | Charlotte, NC; Blythewood, SC | $18 to $20/hour | 2026-11-10 |  |
 | Scout Motors | [Intern, Legal](https://job-boards.greenhouse.io/scoutmotors/jobs/5287132007) | Charlotte, North Carolina, United States | $20/hour | 2026-11-10 |  |
@@ -129,12 +134,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | WM (Waste Management) | [CDL Driver Apprentice PTO, Home Daily, Day 1 Benefits](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355571) | Crested Butte, CO, United States | $30/hour | 2026-11-05 |  |
 | IMA Financial Group | [Enterprise Benefits Solutions Intern - Summer 2027](https://imacorp.com/careers/openings/5275235007?gh_jid=5275235007) · Summer 2027 | Denver, CO | $18 to $22/hour | 2026-11-05 |  |
 | NFTC | [Internship](https://nftcouncil.bamboohr.com/careers/41) · Spring 2027 | Washington, District of Columbia, United States |  | 2026-11-05 |  |
-| IMA Financial Group | [Employee Benefits Intern - Summer 2027](https://imacorp.com/careers/openings/5274428007?gh_jid=5274428007) · Summer 2027 | Atlanta, GA |  | 2026-11-05 |  |
 | IMA Financial Group | [Employee Benefits Intern - Summer 2027](https://imacorp.com/careers/openings/5274449007?gh_jid=5274449007) · Summer 2027 | Pasadena, CA | $18 to $22/hour | 2026-11-05 |  |
+| IMA Financial Group | [Employee Benefits Intern - Summer 2027](https://imacorp.com/careers/openings/5274428007?gh_jid=5274428007) · Summer 2027 | Atlanta, GA |  | 2026-11-05 |  |
 | IMA Financial Group | [Employee Benefits Private Equity M&A Intern - Summer 2027](https://imacorp.com/careers/openings/5274498007?gh_jid=5274498007) · Summer 2027 | Denver, CO | $18 to $22/hour | 2026-11-05 |  |
 | The Riverside Company | [2027 Summer Internship, Compliance](https://job-boards.greenhouse.io/theriversidecompany/jobs/8927820002) · Summer 2027 | New York, NY | $20/hour | 2026-11-05 |  |
 | The Riverside Company | [2027 Summer Internship, Global Talent Management](https://job-boards.greenhouse.io/theriversidecompany/jobs/8927819002) · Summer 2027 | New York, NY | $20/hour | 2026-11-05 |  |
-| ACLU Georgia | [Policy Internship](https://acluga.bamboohr.com/careers/41) | Atlanta, Georgia, United States |  | 2026-11-05 |  |
 | ACLU Georgia | [Voter Access Project Internship](https://acluga.bamboohr.com/careers/43) · Spring 2027 | Atlanta, Georgia, United States |  | 2026-11-05 |  |
 | Great Gray | [Legal & Compliance Extern (Unpaid) - Current JD or LLM Candidates Only](https://jobs.lever.co/great-gray-group/27f4e048-397b-4408-8735-1e630357a610) · Spring 2027 | Wilmington, DE (hybrid) |  | 2026-11-05 | no visa sponsorship |
 | IMA Financial Group | [Employee Benefits Intern - Summer 2027](https://imacorp.com/careers/openings/5274464007?gh_jid=5274464007) · Summer 2027 | Harrison, NY (hybrid) | $18 to $22/hour | 2026-11-05 |  |
@@ -142,7 +146,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Strada Education Foundation | [Strada Education Foundation Internship: Legal Intern](https://jobs.lever.co/stradaeducation/cf1023bd-5d9f-4caa-a6ed-270bd965eb25) | Indianapolis, Indiana | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Policy Intern](https://jobs.lever.co/stradaeducation/a5d0b720-c67c-466d-829e-bd3cc72d1339) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
 | Alabama Ag Credit | [Skillbridge- Compliance Specialist Internship (DOW Partnership)](https://alabamaagcredit.bamboohr.com/careers/215) | Montgomery, Alabama, United States |  | 2026-11-05 |  |
-| Business & Human Rights Resource Centre | [Just Transition and Legal Research Intern](https://bhrrc.bamboohr.com/careers/119) | Remote |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Policy Research Intern - Bluegrass Institute](https://jobs.lever.co/standtogether/4e19b85f-fcb3-437a-9e7e-b6eaed65f356) · Spring 2027 | Kentucky |  | 2026-11-05 |  |
 | Middle East Institute | [Intern: Policy Center (Spring 2027)](https://ats.rippling.com/mei-employment/jobs/68f4fa94-daf5-4270-a238-6c09d3a1aa28) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
 | New Mexico Immigrant Law Center | [12 Month-Policy Internship](https://nmilc1.bamboohr.com/careers/127) | Albuquerque, New Mexico, United States | $19/hour | 2026-11-05 |  |
@@ -261,7 +264,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Dalcom, LLC | [Part Time Human Resources Intern](https://dalcom-llc.breezy.hr/p/fc3247930333-part-time-human-resources-intern) | Galena, MD | $15 to $20/hour | 2026-11-04 |  |
 | Mission Critical Group | [2027 Summer Internship](https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016430853-2027-summer-internship) · Summer 2027 | Remote, us |  | 2026-11-04 |  |
 | DLR Group | [Talent Acquisition Intern](https://job-boards.greenhouse.io/dlrgroup/jobs/5463666008) | Denver, Colorado, United States; Minneapolis, Minnesota, United States | $20 to $26/hour | 2026-11-04 | no visa sponsorship |
-| Excel Sports Management | [Spring 2027 - Intern, Media](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747604005) · Spring 2027 | West Hollywood, California, United States | $20.94/hour | 2026-11-04 | no visa sponsorship |
 | Select Management Group | [Talent Management & Entertainment Internship - Winter 2027 (LA/NYC)](https://job-boards.greenhouse.io/selectmanagementgroup/jobs/6224630004) · Winter 2027 | Los Angeles, California, United States; New York, New York, United Sta |  | 2026-11-04 |  |
 | Type One Energy Group, Inc. | [Summer Internship - Human Resources](https://ats.rippling.com/type-one-energy-group/jobs/e6a6d057-f15d-4f84-bb26-cd9fc5cccaaa) · Summer 2027 | Knoxville, TN | $25 to $30/hour | 2026-11-04 |  |
 | Langan Engineering & Environmental Services | [Intern/Co-op - Talent Acquisition (Spring & Summer 2027)](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4456535009) · Summer 2027 | Parsippany, NJ | $20 to $23/hour | 2026-11-04 |  |
@@ -313,7 +315,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Quantinuum | [HR OPS Intern - 987](https://jobs.eu.lever.co/quantinuum/c8718a2b-2b14-486d-94aa-99b6f1049a8b) | US Broomfield, CO |  | 2026-11-04 | US citizens/persons only |
 | Sierra Club | [Legal Intern](https://jobs.lever.co/sierraclub/1d928d1f-09d1-4a8e-85d3-7fe711636186) | Oakland, CA |  | 2026-11-04 |  |
 | IDMe University | [Summer Intern 2027 - General Program](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986697003) · Summer | Mountain View, CA |  | 2026-11-04 |  |
-| Athena Global Advisors, LLC | [Summer 2027 Intern, Human Resources](https://ats.rippling.com/athena-careers/jobs/79871848-4679-4288-bbd0-7175c8fd7943) · Summer 2027 | Philadelphia, PA | $20/hour | 2026-11-04 |  |
 | Pilot Company | [Program Intern, Legal](https://jobs.smartrecruiters.com/PilotCompany/744000147579819-program-intern-legal) | Houston, TX, us |  | 2026-11-04 |  |
 | STR | [Summer 2027 Internship Opportunities – Resume & Information Submission](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4710964006) · Summer 2027 | Woburn, MA; Arlington, VA; Melbourne, FL; San Diego, CA; Dayton, OH |  | 2026-11-04 | US citizens/persons only, clearance |
 | Dynamic Catholic | [Internship - Human Resources](https://jobs.lever.co/dynamiccatholic/72a06b1b-26df-431e-970b-f843e062d865) | Erlanger, Kentucky |  | 2026-11-04 |  |
@@ -383,9 +384,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | HCSC | [Early Careers - Governance, Risk & Compliance (GRC) Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Governance--Risk---Compliance--GRC--Intern_R0059509) | IL - Chicago | $19.13 to $34.17/hour | 2026-10-21 | no visa sponsorship |
 | Polaris | [HR Internship - Summer 2027](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/HR-Internship---Summer-2027_R30526) · Summer 2027 | Medina, MN, USA | $21.50 to $31.50/hour | 2026-10-21 | no visa sponsorship, US citizens/persons only |
 | UPS | [MHR Intern - Labor Relations](https://www.jobs-ups.com/us/en/job/R26038547) | ATLANTA, Georgia, United States of America |  | 2026-10-21 | US citizens/persons only |
-| UPS | [Seasonal HR Intern](https://www.jobs-ups.com/us/en/job/R26037022) | LOS ANGELES, California, United States of America | $20.40 to $38.10/hour | 2026-10-21 |  |
 | WM (Waste Management) | [CDL Driver Apprentice PTO, Home Daily, Day 1 Benefits](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2351604) | Salida, CO, United States | $26/hour | 2026-10-21 |  |
-| UPS | [MHR Summer 2027 Intern](https://www.jobs-ups.com/us/en/job/R26011117) · Summer 2027 | ATLANTA, Georgia, United States of America |  | 2026-10-21 | US citizens/persons only |
 | Bechtel | [27 Intern / US / Human Resources](https://jobs.bechtel.com/us/en/job/297299) | United States | $22.25 to $31.24/hour | 2026-10-20 | no visa sponsorship |
 | Bechtel | [27 Intern / US / International Affairs](https://jobs.bechtel.com/us/en/job/297306) | Washington, District of Columbia, United States | $21.14 to $31.42/hour | 2026-10-20 | no visa sponsorship |
 | Xcel Energy | [Regulatory Business (Fall/Winter) Intern - Colorado](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Regulatory-Business-Intern---CO_JR115914-1) · Fall 2026 | Denver, CO, 80205 (hybrid) | $19.30 to $24.50/hour | 2026-10-20 |  |
@@ -402,6 +401,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Travelers | [Legal Intern](https://travelers.wd5.myworkdayjobs.com/External/job/MO---St-Louis/Legal-Intern_R-52966-1) | MO - St. Louis | $36 to $37/hour | 2026-10-20 | no visa sponsorship |
 | Travelers | [Legal Intern](https://travelers.wd5.myworkdayjobs.com/External/job/IL---Chicago/Legal-Intern_R-52968) | IL - Chicago | $36 to $37/hour | 2026-10-20 | no visa sponsorship |
 | Travelers | [Legal Intern](https://travelers.wd5.myworkdayjobs.com/External/job/VA---Chantilly/Legal-Intern_R-52972) | VA - Chantilly | $36 to $37/hour | 2026-10-20 | no visa sponsorship |
+| Fox Corporation | [Summer 2027 FOX Corporation Internship Program - Business and Legal Affairs](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Summer-2027-FOX-Corporation-Internship-Program---Business-and-Legal-Affairs_R50034003) · Summer 2027 | Los Angeles, California, USA | $30/hour | 2026-10-20 |  |
+| Fox Corporation | [Spring 2027 FOX Corporation Internship Program - Business and Legal Affairs](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Spring-2027-FOX-Corporation-Internship-Program---Business-and-Legal-Affairs_R50033995) · Spring 2027 | Los Angeles, California, USA | $30/hour | 2026-10-20 |  |
+| SWBC | [HR Staffing Intern (Onsite)](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/HR-Staffing-Intern_R0013983-1) | San Antonio, TX |  | 2026-10-20 |  |
 | Diamondback Energy | [Summer 2027 Human Resources Intern](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Human-Resources-Intern_R100831) · Summer 2027 | Midland, TX |  | 2026-10-20 |  |
 | Marathon Petroleum | [Intern/Co-op - Human Resources (Summer 2027)](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-OH-Main-Bldg/Intern-Co-op---Human-Resources--Summer-2027-_00023451) · Summer 2027 | Findlay OH Main Bldg |  | 2026-10-20 | no visa sponsorship |
 | Bose | [Product Compliance and Safety Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Product-Compliance-and-Safety-Co-op_R29255) | US, MA - Framingham | $22 to $28/hour | 2026-10-20 |  |
@@ -416,15 +418,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | GlobalFoundries | [Global Trade Compliance Intern (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Global-Trade-Compliance-Intern--Summer-2027-_JR-2604234) · Summer 2027 | USA - New York - Malta | $20 to $40/hour | 2026-10-20 |  |
 | GlobalFoundries | [Commercial Agreements Legal Intern (2027 Summer)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Commercial-Agreements-Legal-Intern--2027-Summer-_JR-2604244) · Summer 2027 | USA - Vermont - Essex Junction | $20 to $40/hour | 2026-10-20 |  |
 | HPE | [HR Compensation Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/HR-Compensation-Intern_1212388) | Spring, Texas, United States of America | $26 to $30/hour | 2026-10-20 |  |
-| Navy Federal Credit Union | [Intern - Year Round (Regulatory Compliance)](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/32416) | Pensacola, FL, United States |  | 2026-10-20 |  |
 | Thrivent | [Recruiting Specialist Intern - Summer 2027](https://thrivent.wd5.myworkdayjobs.com/External/job/Remote-Minnesota-Minneapolis-Metro/Recruiting-Specialist-Intern---Summer-2027_REQ-48512) · Summer 2027 | Remote-Minnesota-Minneapolis Metro | $23 to $26/hour | 2026-10-20 | no visa sponsorship |
 | SIG | [Compliance Co-op with Drexel University](https://careers.sig.com/careers-home/jobs/11669) | Bala Cynwyd (Philadelphia Area), Pennsylvania |  | 2026-10-20 | no visa sponsorship |
 | Danaher | [Regulatory Compliance Intern - Summer 2027](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Regulatory-Compliance-Intern---Summer-2027_R1319127) · Summer 2027 | Logan, Utah, United States |  | 2026-10-20 |  |
 | Danaher | [IT Governance, Risk & Compliance Intern](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Coralville-Iowa-United-States/IT-Governance--Risk---Compliance-Intern_R1316774) | Coralville, Iowa, United States | $30/hour | 2026-10-20 |  |
-| Fox Corporation | [Summer 2027 FOX Corporation Internship Program - Business and Legal Affairs](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Summer-2027-FOX-Corporation-Internship-Program---Business-and-Legal-Affairs_R50034003) · Summer 2027 | Los Angeles, California, USA | $30/hour | 2026-10-20 |  |
-| Fox Corporation | [Spring 2027 FOX Corporation Internship Program - Business and Legal Affairs](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Spring-2027-FOX-Corporation-Internship-Program---Business-and-Legal-Affairs_R50033995) · Spring 2027 | Los Angeles, California, USA | $30/hour | 2026-10-20 |  |
-| Navy Federal Credit Union | [Intern - Year Round (Military Talent Acquisition Programs)](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31481) | Pensacola, FL, United States |  | 2026-10-20 |  |
-| SWBC | [HR Staffing Intern (Onsite)](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/HR-Staffing-Intern_R0013983-1) | San Antonio, TX |  | 2026-10-20 |  |
 | Bosch | [Information Security and Privacy Intern](https://jobs.smartrecruiters.com/BoschGroup/744000155120934-information-security-and-privacy-intern) | Farmington Hills, MI, us |  | 2026-10-20 |  |
 | Bosch | [HR Intern - Winter 2027](https://jobs.smartrecruiters.com/BoschGroup/744000154905820-hr-intern-winter-2027) · Winter 2027 | Farmington Hills, MI, us |  | 2026-10-20 |  |
 | Rocket Lab | [Export Compliance Intern Spring 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8013534003) · Spring 2027 | Long Beach, CA | $25/hour | 2026-10-20 | US citizens/persons only |

@@ -1,11 +1,37 @@
 # Internships and co-ops: Data, ML and AI
 
-1,387 open, newest first (by the date the scraper first saw them), updated 2026-11-20. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,380 open, newest first (by the date the scraper first saw them), updated 2026-11-21. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Allen Institute for AI | [Research Internship, Climate Modeling](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) · Summer 2027 | Seattle, WA | $94,320 to $140,000 | 2026-11-21 |  |
+| B.F. Saul Company | [Intern, Thematic Equities Research (Summer of 2027)](https://jobs.lever.co/bfsaul/ba71b8a2-95de-4176-b3d7-a9b9d72db230) · Summer | Bethesda, Maryland |  | 2026-11-21 |  |
+| Biohub | [AI Research Scientist Intern](https://job-boards.greenhouse.io/biohub/jobs/8400682) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | $64.42 to $88.32/hour | 2026-11-21 | no visa sponsorship |
+| Chubb | [Business Intelligence Intern](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335) · Summer 2027 | Chicago, IL, United States | $18 to $24/hour | 2026-11-21 |  |
+| Cisco | [Data Science Analyst II (Intern) – Untied States](https://careers.cisco.com/global/en/job/2032691) | San Jose, California, United States of America | $44,000 to $185,000 | 2026-11-21 |  |
+| Constellation Energy | [2027 PowerFolio Data Analyst Intern - Houston Office](https://jobs.constellationenergy.com/careers-home/jobs/143909) | ; Houston, Texas |  | 2026-11-21 |  |
+| Current Surgical Inc. | [BME/ME Research and Prototyping Engineer (co-op)](https://jobs.ashbyhq.com/currentsurgical/bd71ef80-dc86-498d-ad6a-406cd0c2e2eb) | San Francisco |  | 2026-11-21 |  |
+| GlobalFoundries | [AI-Enabled PDK Development Intern (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-PDK-Development-Intern--Summer-2027-_JR-2604440) · Summer 2027 | USA - New York - Malta | $20 to $40/hour | 2026-11-21 |  |
+| GlobalFoundries | [AI-Enabled Device Modeling Intern (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-Device-Modeling-Intern--Summer-2027-_JR-2604437) · Summer 2027 | USA - New York - Malta | $20 to $40/hour | 2026-11-21 |  |
+| Intuitive Surgical | [Data Engineering Intern](https://jobs.smartrecruiters.com/Intuitive/744000162832659-data-engineering-intern) | Sunnyvale, CA, us |  | 2026-11-21 |  |
+| Lucid Motors | [Intern, AI/ML, Vehicle Infotainment, Summer 2027](https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007) · Summer 2027 | Newark, CA | $53 to $72/hour | 2026-11-21 |  |
+| Plains All American | [Intern, Operations Management System, Digital & AI Innovation](https://plains.wd1.myworkdayjobs.com/Plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1) | Houston, TX |  | 2026-11-21 | no visa sponsorship |
+| Resultant | [Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis)](https://jobs.smartrecruiters.com/Resultant/744000162782371-data-analytics-consultant-intern-summer-2027-hybrid-in-indianapolis-) · Summer 2027 | Indianapolis, IN, us (hybrid) |  | 2026-11-21 | no visa sponsorship |
+| SAS Institute | [Summer 2027 – Quantum Research & Development Intern (Master's)](https://careers-sas.icims.com/jobs/42752/summer-2027-%e2%80%93-quantum-research-%26-development-intern-%28master%27s%29/job) · Summer 2027 | Cary HQ, NC | $15 to $49/hour | 2026-11-21 |  |
+| State Street | [State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship](https://careers.statestreet.com/global/en/job/R-801341) · Summer 2027 | Clifton, New Jersey, United States of America | $41,600 to $65,000 | 2026-11-21 |  |
+| T-Mobile | [Summer 2027 Data Analyst Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Analyst-Internship_REQ383587) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-21 |  |
+| T-Mobile | [Summer 2027 Data Analyst Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Analyst-Internship_REQ383588) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-21 |  |
+| Teradata | [Ai Engineering Intern](https://careers.teradata.com/jobs/220842/ai-engineering-intern) | San Diego, California, United States |  | 2026-11-21 |  |
+| Teradata | [AI Engineering Intern](https://careers.teradata.com/jobs/220843/ai-engineering-intern) | San Diego, California, United States |  | 2026-11-21 |  |
+| Teradata | [AI Engineering Intern](https://careers.teradata.com/jobs/220845/ai-engineering-intern) | San Diego, California, United States |  | 2026-11-21 |  |
+| Teradata | [Agentic AI Intern](https://careers.teradata.com/jobs/220847/agentic-ai-intern) | San Diego, California, United States |  | 2026-11-21 |  |
+| Teradata | [UX Design Intern (AI-Focused)](https://careers.teradata.com/jobs/220856/ux-design-intern-ai-focused) | San Diego, California, United States |  | 2026-11-21 |  |
+| Mom's Meals | [Data Analytics Intern](https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774) | Ankeny, IA |  | 2026-11-21 |  |
+| Mom's Meals | [Technical Commercialization Intern](https://jobs.lever.co/momsmeals/9dcfcc5d-f6a0-4bfb-8e10-dce09739edda) | Ankeny, IA |  | 2026-11-21 |  |
+| Woolpert | [Intern, Aviation Modeling & Simulation (Summer 2027)](https://job-boards.greenhouse.io/woolpert/jobs/4430700009) · Summer 2027 | San Rafael, CA | $23 to $27/hour | 2026-11-21 | no visa sponsorship |
+| Impulse Space | [Supply Chain Data Analytics Intern (Summer 2027)](https://impulsespace.pinpointhq.com/en/postings/1f5c4103-b81e-4564-a40d-97b86263169c) · Summer 2027 | Redondo Beach, California |  | 2026-11-21 | US citizens/persons only |
 | GlobalFoundries | [AI/ML Analytics Intern, Digital Manufacturing (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Intern--Digital-Manufacturing--Summer-2027-_JR-2604570) · Summer 2027 | USA - New York - Malta | $20 to $40/hour | 2026-11-20 |  |
 | LinkedIn | [AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA)](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808-ai-ml-engineer-intern-master-s-summer-2027-mountain-view-ca-) · Summer 2027 | Mountain View, CA, us (hybrid) | $57 to $70/hour | 2026-11-20 |  |
 | LinkedIn | [AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA)](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639-ai-ml-engineer-intern-generative-ai-phd-summer-2027-mountain-view-ca-) · Summer 2027 | Mountain View, CA, us (hybrid) | $62 to $75/hour | 2026-11-20 |  |
@@ -14,8 +40,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | LLNL | [Computational Chemistry Materials Science (CCMS) Graduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016985536-computational-chemistry-materials-science-ccms-graduate-intern-summer-2027) · Summer 2027 | Livermore, CA, us |  | 2026-11-20 | clearance |
 | OpusClip | [AI Research Intern](https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2) | Mountain View |  | 2026-11-20 |  |
 | State Street | [State Street Product Team - Data Intelligence - 2027 Summer Internship](https://careers.statestreet.com/global/en/job/R-801340) · Summer 2027 | Cambridge, Massachusetts, United States of America |  | 2026-11-20 |  |
-| State Street | [State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship](https://careers.statestreet.com/global/en/job/R-801343) · Summer 2027 | Boston, Massachusetts, United States of America |  | 2026-11-20 |  |
 | State Street | [State Street’s Model Risk Management - Quantitative Analyst - 2027 Summer Internship](https://careers.statestreet.com/global/en/job/R-801342) · Summer 2027 | Boston, Massachusetts, United States of America |  | 2026-11-20 |  |
+| State Street | [State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship](https://careers.statestreet.com/global/en/job/R-801343) · Summer 2027 | Boston, Massachusetts, United States of America |  | 2026-11-20 |  |
 | Wurl | [Data Engineering Intern (Remote)](https://job-boards.greenhouse.io/wurljobs/jobs/4731130006) | Remote - United States |  | 2026-11-20 |  |
 | Barry's | [MBA Summer Associate, Strategy & Analytics - Summer 2027](https://ats.rippling.com/barrys-careers/jobs/4a65ab9f-b283-4365-bcd2-20b06da8e916) · Summer 2027 | New York, NY |  | 2026-11-20 |  |
 | Barry's | [Undergraduate Summer Scholar, Data Analyst - Summer 2027](https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f) · Summer 2027 | New York, NY |  | 2026-11-20 |  |
@@ -48,8 +74,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Intel | [Signal integrity AI enabling intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302) | US, Arizona, Phoenix | $105,698 to $142,002 | 2026-11-20 |  |
 | Intuitive Surgical | [Learning Experience Research Intern](https://jobs.smartrecruiters.com/Intuitive/744000162406479-learning-experience-research-intern) | Sunnyvale, CA, us |  | 2026-11-20 |  |
 | Nike | [NIKE Inc. Nike Computational Materials Innovation, Apparel, Innovation, Graduate Internship](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE-Inc-Nike-Computational-Materials-Innovation--Apparel--Innovation--Graduate-Internship_R-97647) · Winter 2027 | Beaverton, Oregon |  | 2026-11-20 |  |
-| State Street | [Agentic AI Engineering, Technology Intern - Full-time Internship (Jan - June 2027)](https://careers.statestreet.com/global/en/job/R-801277) | Burlington, Massachusetts, United States of America | $41,600 to $65,000 | 2026-11-20 |  |
 | State Street | [Agentic AI Engineering, Technology Intern - Full-time Internship (Jan - June 2027)](https://careers.statestreet.com/global/en/job/R-801282) | Burlington, Massachusetts, United States of America | $41,600 to $65,000 | 2026-11-20 |  |
+| State Street | [Agentic AI Engineering, Technology Intern - Full-time Internship (Jan - June 2027)](https://careers.statestreet.com/global/en/job/R-801277) | Burlington, Massachusetts, United States of America | $41,600 to $65,000 | 2026-11-20 |  |
 | State Street | [AI Engineering Intern - Full-time Internship (Jan - June 2027)](https://careers.statestreet.com/global/en/job/R-801273) | Cambridge, Massachusetts, United States of America | $41,600 to $65,000 | 2026-11-20 |  |
 | State Street | [Data Engineering & Product, Technology Intern - Full-time Internship (Jan - June 2027)](https://careers.statestreet.com/global/en/job/R-801276) | Quincy, Massachusetts, United States of America | $41,600 to $65,000 | 2026-11-20 | no visa sponsorship |
 | State Street | [Data Engineering & Product, Technology Intern - Full-time Internship (Jan - June 2027)](https://careers.statestreet.com/global/en/job/R-801274) | Boston, Massachusetts, United States of America | $41,600 to $65,000 | 2026-11-20 | no visa sponsorship |
@@ -61,7 +87,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | PsiQuantum | [Intern, Quantum Architecture](https://www.psiquantum.com/apply?gh_jid=6536805003) | Remote | $27.50/hour | 2026-11-20 |  |
 | Databricks | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | San Francisco, California | $54 to $60/hour | 2026-11-20 |  |
 | MakerMaker | [RESEARCH INTERN](https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583) | San Francisco |  | 2026-11-19 |  |
-| Metrea | [Research Intern](https://www.metrea.aero/careers/jobs/apply?gh_jid=4507280009) | Washington D.C. | $24/hour | 2026-11-19 |  |
+| Metrea | [Research Intern](https://www.metrea.aero/careers/jobs/apply?gh_jid=4507280009) · Spring 2027 | Washington D.C. | $24/hour | 2026-11-19 |  |
 | Scout Space | [Computer Vision (AI/ML) Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scoutspace/jobs/5489231008) · Summer 2027 | Reston, VA - Remote | $30/hour | 2026-11-19 | US citizens/persons only |
 | DriveWealth | [AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027](https://boards.greenhouse.io/drivewealth/jobs/8200548003?gh_jid=8200548003) · Summer 2027 | Office - Chicago; Office - NYC (hybrid) | $35 to $40/hour | 2026-11-19 | no visa sponsorship |
 | Flagship Pioneering Co-Op Program | [Pioneering Medicines: Drug Substance (Process Modeling) Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8948840002) | Cambridge, MA USA | $25 to $45/hour | 2026-11-19 |  |
@@ -82,7 +108,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Boston Scientific | [R&D Research Data Science Intern](https://bostonscientific.eightfold.ai/careers/job/563602813968810) | US | $43,368 to $73,736 | 2026-11-18 | no visa sponsorship |
 | Climate First Bank | [Business Strategy and Analytics Intern](https://job-boards.greenhouse.io/climatefirstbank/jobs/4510870009) | United States - Remote |  | 2026-11-18 |  |
 | CrowdStrike | [AI Research Launch Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599) | USA - Sunnyvale, CA | $22 to $30/hour | 2026-11-18 |  |
-| Exowatt | [Robotics & Physical AI Spring Intern (Miami)](https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c) · Spring | Miami, FL |  | 2026-11-18 |  |
+| Exowatt | [Robotics & Physical AI Spring Intern (Miami)](https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c) · Spring 2027 | Miami, FL |  | 2026-11-18 |  |
 | GM | [Summer 2027 PhD Battery Research & Development Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-11-18 |  |
 | HPE | [HPE Labs - AI Enablement Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---AI-Enablement-Intern_1217939) | Milpitas, California, United States of America | $90,002 to $193,752 | 2026-11-18 |  |
 | KLA | [Internship: Physics Modeling and Simulations](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Internship--Physics-Modeling-and-Simulations_2642807-2) | Ann Arbor, MI | $50/hour | 2026-11-18 |  |
@@ -116,7 +142,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | R2 | [Collections AI & Operations Intern](https://r2.bamboohr.com/careers/202) | Remote |  | 2026-11-17 |  |
 | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) · Summer | Cambridge, MA |  | 2026-11-17 |  |
 | Seagate | [Engineering Data Analyst Intern](https://seagatecareers.com/job/Shakopee-Engineering-Data-Analyst-Intern-MN/1451182500/) · Fall 2027 | Shakopee, United States | $35/hour | 2026-11-17 |  |
-| T-Mobile | [Summer 2027 Business Development, Physical & Edge AI Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Development--Physical---Edge-AI-Internship_REQ380654) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-17 |  |
 | T-Mobile | [Summer 2027 AI Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ382110) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-17 |  |
 | Texas Instruments | [Kilby Labs RF Analog Design Intern - RF Modeling](https://careers.ti.com/en/sites/CX_1/job/25016351) | Dallas, TX, United States |  | 2026-11-17 |  |
 | Toyota Research Institute | [Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge)](https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476) | Cambridge, MA | $40 to $58/hour | 2026-11-17 |  |
@@ -133,16 +158,15 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Fanatics Collectibles | [Summer 2027 Internship - Manufacturing Planning & Analytics Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507789009) · Summer 2027 | Sunnyvale, TX, United States |  | 2026-11-16 |  |
 | Siemens | [Energy Market Modeling & Optimization for Smart Grids Internship](https://jobs.siemens.com/en_US/externaljobs/JobDetail/529582) | Princeton, New Jersey, United States of America |  | 2026-11-16 |  |
 | Octaura | [Intern, Data Engineering](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | New York |  | 2026-11-16 |  |
+| Amgen | [Grad Intern – AI-Enabled Knowledge Graphs for Patient Journey Analytics (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) · Summer 2027 | United States - Remote | $35.34 to $41.20/hour | 2026-11-15 |  |
 | Micron | [Intern - AI Engineer Platform](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934) | Boise, ID - Main Site |  | 2026-11-15 |  |
 | Allen Institute for AI | [Research Internship, AI for Neuroscience](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636) · Summer 2027 | Seattle, WA | $94,320 to $140,000 | 2026-11-14 |  |
 | Ayar Labs | [Intern, Optical Packaging - Optical Validation & Statistical Analysis](https://ayarlabs.com/careers/?gnk=job&gni=8a78859fa1ccddd201a1d5f1ce793685) | San Jose, CA, United States | $50 to $60/hour | 2026-11-14 |  |
-| Cigna | [Healthcare Analytics Summer Intern - Start Date: May 24, 2027](https://jobs.thecignagroup.com/us/en/job/26009857) · Summer | Morris Plains, New Jersey, United States of America (hybrid) | $26 to $28/hour | 2026-11-14 |  |
 | FieldPulse | [AI Internship](https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d) | Dallas, TX |  | 2026-11-14 |  |
 | Flagship Pioneering Co-Op Program | [Pioneering Medicines: Research Co-Op, Mechanism of Action – Metabolic Disease](https://job-boards.greenhouse.io/fspco-op012325/jobs/8936932002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-14 |  |
 | Horizon3 | [Research Intern, Adversarial Intelligence](https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2) · Summer 2027 | Chicago, Illinois | $40 to $50/hour | 2026-11-14 |  |
 | Microsoft | [Research Intern - AI Coding Agents](https://apply.careers.microsoft.com/careers/job/1970393557073416) | Redmond, WA, US | $6,810 to $14,610/month | 2026-11-14 |  |
 | Minitab | [Research & Design Intern](https://job-boards.greenhouse.io/minitab/jobs/8200707003) | State College, Pennsylvania, United States |  | 2026-11-14 | no visa sponsorship |
-| Molina Healthcare | [Data Analytics Internship (Remote) – Summer 2027 (Undergraduate)](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160) · Summer 2027 | United States (remote) |  | 2026-11-14 |  |
 | Nexus One | [Data Engineering Intern](https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5) · Summer 2027 | Atlanta HQ |  | 2026-11-14 |  |
 | Seagate | [Advanced Data Storage Device Physics Intern](https://seagatecareers.com/job/Bloomington-Advanced-Data-Storage-Device-Physics-Intern-MN/1450625900/) | Normandale, United States | $35 to $43/hour | 2026-11-14 |  |
 | Seagate | [Research Intern - AI-Enabled Atomistic and Multi-Scale Materials Simulation](https://seagatecareers.com/job/Bloomington-Research-Intern-AI-Enabled-Atomistic-and-Multi-Scale-Materials-Simulation-MN/1450649100/) · Fall 2027 | Normandale, United States | $35 to $43/hour | 2026-11-14 |  |
@@ -169,7 +193,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SLAC National Accelerator Laboratory | [Intern - FPD Research Support](https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/CX_1001/job/201710) | Menlo Park, CA, United States |  | 2026-11-13 |  |
 | Stack AV | [Research Intern (PhD), Autonomy](https://job-boards.greenhouse.io/stackav/jobs/5287594007) · Summer 2027 | Pittsburgh, PA or Remote (US) |  | 2026-11-13 |  |
 | Stratolaunch | [Business Intelligence & Systems Analyst Intern 2027](https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008) | Mojave, California, United States (remote) |  | 2026-11-13 | US citizens/persons only |
-| T-Mobile | [Summer 2027 Data Product Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-13 |  |
 | Zoox | [Data Scientist Intern [Summer 2027]](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db) · Summer 2027 | Foster City, CA |  | 2026-11-13 |  |
 | Pattern | [Data Science Internship](https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7) · Summer 2027 | Lehi, UT, US (hybrid) |  | 2026-11-13 |  |
 | Gridmatic Inc | [Energy Systems Research Engineer Intern](https://job-boards.greenhouse.io/gridmaticinc/jobs/4287611009) | Cupertino |  | 2026-11-13 |  |
@@ -185,7 +208,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Arcesium LLC | [AI Transformation Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) | New York |  | 2026-11-12 |  |
 | Bask Health | [AI Product Intern](https://apply.workable.com/j/9D7E69054E) | United States |  | 2026-11-12 |  |
 | Bose | [Agentic AI Engineering Co-op – Active Noise Cancellation / Fall 2027](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391) · Fall 2027 | US, MA - Framingham | $40 to $51.25/hour | 2026-11-12 |  |
-| Cigna | [Product Analytics Summer Intern - Start Date: May 24, 2027](https://jobs.thecignagroup.com/us/en/job/26010180) · Summer | Morris Plains, New Jersey, United States of America (hybrid) | $26 to $28/hour | 2026-11-12 |  |
 | Create Music Group | [A&R Research Intern - Spring 2027](https://ats.rippling.com/createmusicgroup/jobs/e7a14897-62d3-488d-a8d1-728a5091c735) · Spring 2027 | Los Angeles, CA (hybrid) |  | 2026-11-12 |  |
 | Huron | [Internal Audit and Risk Management - Data Analytics & AI (Summer 2027 Internship - Washington, D.C.)](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Washington-DC---1800-M-Street-NW/Internal-Audit-and-Risk-Management---Data-Analytics---AI--Summer-2027-Internship-_JR-0017165) · Summer 2027 | Washington DC - 1800 M Street, NW | $30/hour | 2026-11-12 |  |
 | Leland | [AI Education Intern](https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633) | Leland HQ - Lehi, UT |  | 2026-11-12 |  |
@@ -196,7 +218,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Toyota Research Institute | [Automated Driving Advanced Development Intern, Machine Learning Research](https://jobs.lever.co/tri/da4b4832-36e7-4703-9841-c319efd6d495) | Los Altos, CA | $45 to $65/hour | 2026-11-12 |  |
 | Toyota Research Institute | [Future Product Innovation Research Intern, Human Computer Interaction](https://jobs.lever.co/tri/e01def2d-0ee0-4f24-bf38-0b52a8047ea7) | Los Altos, CA | $45 to $65/hour | 2026-11-12 |  |
 | Toyota Research Institute | [Future Product Innovation Research Intern, Human-AI Computational Design](https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2) | Los Altos, CA | $45 to $65/hour | 2026-11-12 |  |
-| Farmers Mutual Hail Insurance Company | [AI Intern](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009) · Summer 2027 | West Des Moines, IA |  | 2026-11-12 | no visa sponsorship |
 | ICF | [2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA)](https://careers.icf.com/us/en/job/R2603312) · Summer 2027 | Reston, Virginia, United States of America | $32/hour | 2026-11-11 | no visa sponsorship, US citizens/persons only |
 | Ayar Labs | [Intern, AI Automation - HR and Global Operations](https://ayarlabs.com/careers/?gnk=job&gni=8a7887a8a18473d601a1cb116a070891) | San Jose, CA, United States | $45 to $55/hour | 2026-11-11 |  |
 | Regent | [State Estimation Intern (Summer)](https://jobs.ashbyhq.com/REGENT/8c76e568-34ce-49d0-ade8-fcc6bdf656cf) · Summer | North Kingstown, Rhode Island, USA |  | 2026-11-11 |  |
@@ -206,7 +227,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Arista Networks | [Data Analytics Intern](https://jobs.smartrecruiters.com/AristaNetworks/744000160961018-data-analytics-intern) | Austin, TX, us |  | 2026-11-11 |  |
 | Carlisle | [AI & Data Science Intern](https://jobs.smartrecruiters.com/Carlisle/3743990016774046-ai-data-science-intern) | Carlisle, Pennsylvania, us |  | 2026-11-11 |  |
 | Centene | [Analytics Summer 2027 Intern (Graduate)](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) · Summer 2027 | Remote-FL | $21 to $30/hour | 2026-11-11 | no visa sponsorship |
-| Genesis Molecular AI | [Computational Chemistry Intern - 2027](https://jobs.ashbyhq.com/genesis-molecular-ai/3de36849-b8da-4da9-bd22-d706343db9e1) · Summer 2027 | San Mateo, CA |  | 2026-11-11 |  |
+| Genesis Molecular AI | [Computational Chemistry Intern - 2027](https://jobs.ashbyhq.com/genesis-molecular-ai/3de36849-b8da-4da9-bd22-d706343db9e1) · Summer 2027 | NYC or SF Bay Area |  | 2026-11-11 |  |
 | GM | [2027 Summer Intern – Machine Learning Engineer, AV/AI Platform](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) · Summer 2027 | Sunnyvale, California, United States of America | $8,100 to $11,800/month | 2026-11-11 |  |
 | Hook Music | [AI Music Research Intern](https://jobs.ashbyhq.com/hookmusic/f5791be2-0884-43cd-b872-dfe7bca13fe4) | Remote |  | 2026-11-11 |  |
 | Hook Music | [Machine Learning Engineering Intern, Recommendation Systems](https://jobs.ashbyhq.com/hookmusic/d95c6fa3-68b3-4ad4-b228-f44228a4f2c6) | Remote |  | 2026-11-11 |  |
@@ -214,7 +235,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Riot Games | [Data Engineering Intern - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) · Summer 2027 | Los Angeles, USA | $53.41 to $69.28/hour | 2026-11-11 | no visa sponsorship |
 | Salesforce | [Summer 2027 Intern - AI Research Incubator](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655) · Summer 2027 | California - Palo Alto | $54 to $70/hour | 2026-11-11 |  |
 | Seagate | [Generative AI & Machine Learning Engineering Intern (Summer 2027)](https://seagatecareers.com/job/Bloomington-Generative-AI-&-Machine-Learning-Engineering-Intern-%28Summer-2027%29-MN/1449487200/) · Summer 2027 | Normandale, United States | $35 to $45/hour | 2026-11-11 |  |
-| T-Mobile | [Summer 2027 Business Analytics & Reporting Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319) · Summer 2027 | Bellevue, Washington | $27 to $50/hour | 2026-11-11 |  |
 | Toyota Research Institute | [Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027)](https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37) · Summer 2027 | Los Altos, CA | $40 to $65/hour | 2026-11-11 |  |
 | Walmart Global Tech | [Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193) · Summer 2027 | Bentonville, AR | $21 to $40/hour | 2026-11-11 |  |
 | Amperesand | [AI/ML Engineering Intern](https://job-boards.greenhouse.io/amperesand/jobs/4465899009) | Sunnyvale, California, United States |  | 2026-11-11 |  |
@@ -327,15 +347,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Terranova | [AI Intern — Part-Time, Temporary (In Person)](https://jobs.ashbyhq.com/Terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942) | Berkeley |  | 2026-11-05 |  |
 | KEEN Footwear | [Analytics Engineer Intern](https://www.keenfootwear.com/careers-list.html?4748305005&gh_jid=4748305005) | Portland, OR | $22/hour | 2026-11-05 | no visa sponsorship |
 | KEEN Footwear | [Merchandising & Product Data Analytics Intern](https://www.keenfootwear.com/careers-list.html?4748595005&gh_jid=4748595005) | Portland, OR | $22/hour | 2026-11-05 | no visa sponsorship |
-| The Riverside Company | [2027 Summer Internship, Portfolio Reporting & Analytics](https://job-boards.greenhouse.io/theriversidecompany/jobs/8927411002) · Summer 2027 | New York, NY | $20/hour | 2026-11-05 |  |
 | Firework | [Data Engineer Intern](https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09) | San Mateo, California |  | 2026-11-05 |  |
 | Hive Financial Systems | [Analytics Internship 2027](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007) · Summer 2027 | Atlanta, Georgia |  | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Clear Outcomes and Data Science Intern](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
-| One Degree Advisors | [Summer 2027 Research Internship -CLOSED TO NEW APPLICATIONS](https://onedegreeadvisors.bamboohr.com/careers/32) · Summer 2027 | San Diego, California, United States |  | 2026-11-05 |  |
 | Analytic Partners | [Data Science Co-Op / January 2027](https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302) | Miami, Florida, United States |  | 2026-11-05 | no visa sponsorship |
 | Morph | [Research Intern](https://job-boards.greenhouse.io/morph/jobs/4463089009) | New York City | $10,000/month | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b) · Spring 2027 | New York |  | 2026-11-05 |  |
-| Phillips Auctioneers LLC | [Spring Modern & Contemporary Art Research Internship](https://phillipsauctioneers.bamboohr.com/careers/584) · Spring | New York, New York, United States | $17.50/hour | 2026-11-05 |  |
 | Simbe Robotics | [Computer Vision / Applied AI Intern — Summer 2027](https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8) · Summer 2027 | San Francisco Bay Area |  | 2026-11-05 |  |
 | Simbe Robotics | [Data Analytics & Data Science Intern — Spring & Summer 2027](https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f) · Summer 2027 | San Francisco Bay Area |  | 2026-11-05 |  |
 | Acadian Asset Management LLC | [Quantitative Investment Internship Program - Summer 2027](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006) · Summer 2027 | Boston, Massachusetts, United States | $50 to $65/hour | 2026-11-05 |  |
@@ -344,15 +361,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | MasterControl | [AI Engineering Intern](https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&gh_jid=4738478005) | Hybrid | $30 to $50/hour | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Analytics Intern - Illinois Policy Institute](https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b) · Spring 2027 | Chicago, Illinois |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Free Speech America Intern - Media Research Center](https://jobs.lever.co/standtogether/c306f91b-b2d8-4201-aa06-a9a590fcbfc1) · Spring 2027 | Virginia |  | 2026-11-05 |  |
-| Birdseye Solutions | [Intern AI Systems (Dallas)](https://birdseyeaccount.bamboohr.com/careers/288) | Dallas, Texas, United States |  | 2026-11-05 |  |
-| Birdseye Solutions | [Intern Computer Vision (Dallas)](https://birdseyeaccount.bamboohr.com/careers/290) | Dallas, Texas, United States |  | 2026-11-05 |  |
 | Neighbor | [Data Science Internship (Current PhD) - Summer 2027](https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c) · Summer 2027 | Lehi, UT |  | 2026-11-05 |  |
 | Passion For Life | [Internship - Data Analyst](https://mypassion4life.bamboohr.com/careers/52) | United States (Remote) |  | 2026-11-05 |  |
 | Kitware | [AI Research Internship](https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75) | Clifton Park, New York |  | 2026-11-05 | US citizens/persons only |
 | Kitware | [Physics-Based Modeling Research Internship](https://jobs.lever.co/kitware/db050983-7500-4b6d-96f5-19b75d5d7515) | Carrboro, North Carolina |  | 2026-11-05 | US citizens/persons only |
 | Advanced Agrilytics | [Research Field Specialist Intern - Ames (Summer 2027)](https://jobs.lever.co/advancedagrilytics/c827fdd0-350c-466d-af54-4aca5212aa2b) · Summer 2027 | Ames, IA |  | 2026-11-05 |  |
 | Advanced Agrilytics | [Research Field Specialist Intern - Huntington (Summer 2027)](https://jobs.lever.co/advancedagrilytics/fb5dcc47-c0b4-4218-8e59-0731e92b72d7) · Summer 2027 | Huntington, IN |  | 2026-11-05 |  |
-| Institute for the Study of War | [Russia Occupation Research Internship Spring 2027](https://understandingwar.bamboohr.com/careers/246) · Spring 2027 | Washington, District of Columbia, United States |  | 2026-11-05 |  |
 | Children's Research Triangle | [Research Intern(Summer 2027)](https://crtriangle.bamboohr.com/careers/56) · Summer 2027 | Chicago, Illinois, United States |  | 2026-11-05 |  |
 | The SilverLogic | [AI Engineer/Consultant Internship](https://silverlogic.bamboohr.com/careers/36) | Boca Raton, Florida, United States |  | 2026-11-05 |  |
 | Bucheri McCarty & Metz LLP | [Spring 2027 Data Validation Internship](https://bmmcpas.bamboohr.com/careers/34) · Spring 2027 | Kokomo, Indiana, United States |  | 2026-11-05 |  |
@@ -431,8 +445,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | DriveWealth | [AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027](https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003) · Summer 2027 | Office - Chicago; Office - NYC (hybrid) | $35 to $40/hour | 2026-11-04 | no visa sponsorship |
 | Flagship Pioneering Co-Op Program | [Pioneering Medicines: Portfolio Strategy & Analytics Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8893513002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
 | Illumio | [Security Research, Intern](https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260) · Winter 2027 | Sunnyvale, California - HQ |  | 2026-11-04 | no visa sponsorship |
-| Legend Biotech US | [Intern, FFBA Analytical Development](https://job-boards.greenhouse.io/legendcareers/jobs/4745128005) | Somerset, New Jersey, United States |  | 2026-11-04 |  |
 | Legend Biotech US | [Intern, FFBA Analytical Development](https://job-boards.greenhouse.io/legendcareers/jobs/4745147005) | Somerset, New Jersey, United States |  | 2026-11-04 |  |
+| Legend Biotech US | [Intern, FFBA Analytical Development](https://job-boards.greenhouse.io/legendcareers/jobs/4745128005) | Somerset, New Jersey, United States |  | 2026-11-04 |  |
 | Metamorphic | [Research and Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a) · Summer 2027 | Palo Alto |  | 2026-11-04 |  |
 | Amplify | [Summer 2027: AI Scientist Intern](https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8) · Summer 2027 | Remote - United States |  | 2026-11-04 |  |
 | Amplify | [Summer 2027: Data Analytics Intern](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51) · Summer 2027 | Remote - United States |  | 2026-11-04 |  |
@@ -441,8 +455,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Syngenta Group | [Vegetable Seed Field Production Research Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000156341708-vegetable-seed-field-production-research-intern) | Pasco, Washington, us | $20 to $45/hour | 2026-11-04 |  |
 | TPG Careers Page | [Y Analytics, Health and Social Impact, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8036092003) · Spring | Remote | $22.50/hour | 2026-11-04 | no visa sponsorship |
 | TPG Careers Page | [Y Analytics, Responsible Investing, Summer Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8036208003) · Summer | Remote | $22.50/hour | 2026-11-04 | no visa sponsorship |
-| US Internships Public Careers Site | [Machine Learning Intern - Master's](https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221769004) | United States, San Mateo, CA | $55.25/hour | 2026-11-04 | no visa sponsorship |
-| US Internships Public Careers Site | [Machine Learning Intern - PhD](https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221745004) | United States, San Mateo, CA | $63.50/hour | 2026-11-04 | no visa sponsorship |
 | Eulerity | [AI Intern - Office of CEO & Head of Product](https://job-boards.greenhouse.io/eulerity/jobs/4722871006) | New York, NY | $18 to $20/hour | 2026-11-04 |  |
 | Eulerity | [Product Marketing Intern - AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4722805006) | New York, NY | $18 to $20/hour | 2026-11-04 |  |
 | QuEra Computing, Inc. | [QPU Build Co-Op – Optics & Data Analysis](https://job-boards.greenhouse.io/queracomputinginc/jobs/5455950008) | Boston, MA, USA |  | 2026-11-04 |  |
@@ -450,7 +462,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Zendar | [Product / Data Science Intern](https://zendar.breezy.hr/p/d28b44a36bef-product-data-science-intern) | Berkeley, CA | $38 to $40/hour | 2026-11-04 |  |
 | Expedition Technology | [Summer 2027 Internship in Digital Signal Processing and Machine Learning - R148](https://jobs.gem.com/expedition-technology/am9icG9zdDri3N9docy-I-dggpeia5wk) · Summer 2027 | Herndon, VA | $35/hour | 2026-11-04 | US citizens/persons only, clearance |
 | Anduril Industries | [Winter 2027 Research Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) · Winter 2027 | Santa Ana, California, United States | $60 to $75/hour | 2026-11-04 | US citizens/persons only |
-| Kyowa Kirin North America | [2027 Summer Intern - Translational Research](https://job-boards.greenhouse.io/kyowakirinusa90/jobs/8033318003) · Summer 2027 | Princeton, NJ (hybrid) | $23 to $25/hour | 2026-11-04 | no visa sponsorship |
 | MacKay | [Land Survey Intern - Summer 2027](https://job-boards.greenhouse.io/mackaysposito/jobs/4430354009) · Summer 2027 | Roseville, CA | $20 to $23/hour | 2026-11-04 |  |
 | plancraft | [Working Student / Intern GTM AI Growth Engineering (f/m/d)](https://jobs.ashbyhq.com/plancraft/287c0239-776d-4f48-b41d-fc88cd11bd25) | Hamburg (hybrid) |  | 2026-11-04 |  |
 | Zendar | [PhD Research Intern — Learned End-to-End Driving and Actuation](https://zendar.breezy.hr/p/16cbc991ca25-phd-research-intern-learned-end-to-end-driving-and-actuation) | Berkeley, CA | $55/hour | 2026-11-04 |  |
@@ -558,7 +569,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Mesh | [AI Platform Support & Operations Internship](https://whenwemesh.bamboohr.com/careers/28) | Baton Rouge, Louisiana, United States |  | 2026-11-04 |  |
 | Gritt Robotics | [Robotics Perception Engineer Intern](https://jobs.ashbyhq.com/gritt/26af4e71-339d-4aa3-9f22-91574c1166b9) | South San Francisco |  | 2026-11-04 |  |
 | CTC Campus - External, Not Advertised | [Quant Trading Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) · Summer 2027 | Chicago, Illinois, United States |  | 2026-11-04 |  |
-| Current Surgical Inc. | [BME/ME Research and Prototyping Engineer (co-op)](https://jobs.ashbyhq.com/currentsurgical/c5451914-406f-4dae-9068-673ad1e43717) | Washington, DC |  | 2026-11-04 |  |
 | Center for AI Safety (CAIS) | [Research Engineer Intern](https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4308524009) | San Francisco |  | 2026-11-04 |  |
 | Center for Strategic and International Studies, Inc. | [Research Intern - Economics Program (Fall 2026)](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314577009) · Fall 2026 | Washington, D.C. | $18 to $20/hour | 2026-11-04 |  |
 | Pika | [Research Intern (BS/MS/PhD)](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a) | Palo Alto HQ |  | 2026-11-04 |  |
@@ -617,8 +627,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SAP | [SAP iXp Intern - Data Analytics](https://jobs.sap.com/en/jobs/744000159206645/sap-ixp-intern-data-analytics/) | Newtown Square, Pennsylvania, US (hybrid) |  | 2026-11-03 |  |
 | Scripps Research | [INTERN RESEARCH STUDENT NP - SANNA LAB (COMPUTATIONAL)](https://recruiting2.ultipro.com/SCR1003TSRI/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/OpportunityDetail?opportunityId=fa4ff9a1-2b72-48a3-bd73-0eac5707dccb) | San Diego, CA, USA |  | 2026-11-03 |  |
 | Voleon | [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) | Berkeley, CA | $15,000 | 2026-11-03 |  |
-| Molina Healthcare | [Healthcare Quality & Analytics Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate)](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143) · Summer 2027 | WI, United States |  | 2026-11-02 |  |
-| Molina Healthcare | [Customer Experience & Analytics Internship (Remote) – Summer 2027 (Undergraduate)](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169) · Summer 2027 | United States (remote) |  | 2026-11-02 |  |
 | Lila Sciences | [Co-op, Agentic and Generative Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009) | Cambridge, MA USA; San Francisco, CA USA |  | 2026-11-02 |  |
 | Trace3 | [Workplace AI Intern](https://job-boards.greenhouse.io/trace3/jobs/8274799) | Detroit, MI | $18 to $26/hour | 2026-11-02 |  |
 | Federal Reserve System | [Undergraduate Intern – Research Focus](https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Undergraduate-Intern---Research-Focus_R-0000033978-1) · Summer 2027 | Minneapolis, MN | $23/hour | 2026-11-02 | no visa sponsorship, US citizens/persons only |
@@ -637,7 +645,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lila Sciences | [Co-Op, Bayesian Methods for Complex Decision Making](https://job-boards.greenhouse.io/lilasciences/jobs/4469148009) | Cambridge, MA USA; San Francisco, CA USA |  | 2026-10-30 |  |
 | NVIDIA | [VLSI CAD Timing Intern, Applied AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) · Summer 2027 | US, CA, Santa Clara |  | 2026-10-30 |  |
 | Axiom Space | [Enterprise Data Analyst Intern, Power BI & Data Quality (Summer 2027)](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Enterprise-Data-Analyst-Intern--Power-BI---Data-Quality--Summer-2027-_JR100823) · Summer 2027 | Houston |  | 2026-10-30 | US citizens/persons only |
-| Cigna | [Legal Operations Financial, Data & AI Analytics Intern](https://jobs.thecignagroup.com/us/en/job/25016386) | St. Louis, Missouri, United States of America (hybrid) | $24 to $25/hour | 2026-10-30 |  |
 | GM | [2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439) · Summer 2027 | Sunnyvale, California, United States of America | $9,600 to $11,800/month | 2026-10-30 |  |
 | Seagate | [R&D Data Analytics, AI and Production Systems - Summer 2027 Internship (Masters or PhD)](https://seagatecareers.com/job/Bloomington-R&D-Data-Analytics%2C-AI-and-Production-Systems-Summer-2027-Internship-%28Masters-or-PhD%29-MN/1445112100/) · Summer 2027 | Normandale, United States | $35 to $45/hour | 2026-10-30 |  |
 | Toyota Research Institute | [Human Interactive Driving Intern, Platform Research Systems Integration](https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3) | Los Altos, CA | $45 to $65/hour | 2026-10-30 |  |
@@ -676,7 +683,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Mercor | [Research Engineer Intern - Environments, Data and Post-Training](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca) | San Francisco |  | 2026-10-28 |  |
 | Mercor | [Research Engineer, Intern – Benchmarking](https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae) | San Francisco |  | 2026-10-28 |  |
 | NXP | [Data Science / Structured Problem Solving Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) · Summer 2027 | Austin (Ed Bluestein, Office) |  | 2026-10-28 |  |
-| UPS | [MHR Summer 2027 Intern - Data Analytics (HR Systems)](https://www.jobs-ups.com/us/en/job/R26039546) · Summer 2027 | ATLANTA, Georgia, United States of America |  | 2026-10-28 | US citizens/persons only |
 | Skyworks | [Data Analytics Intern](https://careers.skyworksinc.com/job/Greensboro-Data-Analytics-Intern-NC-27409/1444341000/) | Greensboro, US | $23 to $49/hour | 2026-10-28 | no visa sponsorship |
 | Skyworks | [Sales Data Analyst Intern](https://careers.skyworksinc.com/job/Hillsboro-Sales-Data-Analyst-Intern-IL-97124/1444255300/) | Hillsboro, US | $23 to $49/hour | 2026-10-28 | no visa sponsorship |
 | Danaher | [Computer Science/Data AI Co-op Supply Chain](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/USA---Indianapolis---Multiple-OpCo/Computer-Science-Data-AI-Co-op-Supply-Chain_R1320599) | USA - Indianapolis - Multiple OpCo | $30/hour | 2026-10-27 |  |
@@ -695,6 +701,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Schonfeld | [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | New York, New York, United States | $100,000 to $110,000 | 2026-10-27 |  |
 | Dell | [Services Data Science Graduate Intern](https://jobs.dell.com/en/sites/CX_1/job/301413) | TX, United States | $52.28 to $56.25/hour | 2026-10-25 |  |
 | Dell | [Services Analytics Graduate Intern](https://jobs.dell.com/en/sites/CX_1/job/301412) | TX, United States | $52.28 to $56.25/hour | 2026-10-25 |  |
+| Navy Federal Credit Union | [Intern - Year Round (Data Analytics)](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33208) | Pensacola, FL, United States |  | 2026-10-24 |  |
 | DocuSign | [Agentic AI Engineer Intern](https://careers.docusign.com/careers-home/jobs/30587) | San Francisco, California | $34 to $44/hour | 2026-10-24 | no visa sponsorship |
 | Aflac | [2027 Global Investments (NY) Business & Analytics Intern](https://careers.aflac.com/job/New-York-City-2027-Global-Investments-%28NY%29-Business-&-Analytics-Intern-NY-10005/1443293800/) | New York City, NY, US | $20 to $30/hour | 2026-10-24 |  |
 | Bosch | [Agentic AI R&D Intern](https://jobs.smartrecruiters.com/BoschGroup/744000157483412-agentic-ai-r-d-intern) | Sunnyvale, CA, us | $53 to $70/hour | 2026-10-24 |  |
@@ -707,13 +714,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Intercontinental Exchange | [Summer Internship Program 2027 - Quantitative Financial Analytics Intern](https://careers.ice.com/careers-home/jobs/14055) · Summer | Atlanta, Georgia |  | 2026-10-24 |  |
 | Intercontinental Exchange | [Summer Internship Program 2027 - Quantitative Engineer Intern](https://careers.ice.com/careers-home/jobs/14053) · Summer | Atlanta, Georgia |  | 2026-10-24 |  |
 | Microsoft | [Research Intern - Algorithms Group: Theory](https://apply.careers.microsoft.com/careers/job/1970393557045963) | Redmond, WA, US | $6,810 to $14,610/month | 2026-10-24 |  |
-| Navy Federal Credit Union | [Intern - Year Round (Data Analytics)](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33208) | Vienna, VA, United States |  | 2026-10-24 |  |
 | Nike | [Converse AI Enablement Graduate Internship](https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Converse-AI-Enablement-Graduate-Internship_R-96256) · Spring 2028 | Boston, Massachusetts | $63,500 to $125,600 | 2026-10-24 |  |
 | Waymo | [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8304574) · Summer 2027 | San Francisco, CA, USA | $70 to $85/hour | 2026-10-24 |  |
 | CVS Health | [Innovation & Technology Internship - Tech Strategy Ops & Business Analytics Summer 2027 (Undergrad)](https://jobs.cvshealth.com/us/en/job/R1080789) · Summer 2027 | 151 Farmington Avenue, Hartford, Connecticut,United States (hybrid) | $35 to $38.50/hour | 2026-10-23 | no visa sponsorship |
 | Constellation Energy | [2027 Data & Digital Transformation Intern - Geysers](https://jobs.constellationenergy.com/careers-home/jobs/140352) | Middletown, California |  | 2026-10-23 |  |
-| Edward Jones | [Edward Jones Graduate Summer Internship - Saint Louis](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26235&siteid=5374&PageType=JobDetails&jobid=1430000) · Summer | Missouri, St. Louis, Campus-Based, United States |  | 2026-10-23 |  |
-| Edward Jones | [Edward Jones Graduate Summer Internship - Tempe](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26235&siteid=5374&PageType=JobDetails&jobid=1430375) · Summer | Arizona, Tempe, Campus-Based, United States |  | 2026-10-23 |  |
 | Insperity | [Rotational AI Intern](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460) | Kingwood, TX |  | 2026-10-23 |  |
 | Insperity | [Rotational Data Analytics Intern](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103458) | Kingwood, TX |  | 2026-10-23 |  |
 | Siemens | [Machine Learning Engineering Intern - Summer 2027](https://jobs.siemens.com/en_US/externaljobs/JobDetail/526471) · Summer 2027 | Raleigh, North Carolina, United States of America |  | 2026-10-23 |  |
@@ -752,7 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Hartford | [Data Science Intern - Summer 2027](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) · Summer 2027 | Hartford, CT |  | 2026-10-20 | no visa sponsorship |
 | Microsoft | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Redmond, WA, US | $6,810 to $14,610/month | 2026-10-20 |  |
 | KLA | [Machine Learning Engineer Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1) | Milpitas, CA | $49 to $58/hour | 2026-10-20 |  |
-| Charter Communications | [2027 Summer Intern: Data Science](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-science/4673/100143758048) · Summer 2027 | Greenwood Village, Colorado |  | 2026-10-20 | no visa sponsorship |
-| Ericsson | [Technology and AI Intern](https://jobs.ericsson.com/careers/job/563121777173171) | Plano, TX, US |  | 2026-10-20 | no visa sponsorship |
-| Jain Global | [Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/LinkedInCareerSite/job/New-York-New-York/Data-Engineer-Intern_JR100605) · Summer 2027 | New York, New York | $182,000 to $234,000 | 2026-10-20 |  |
-| Jain Global | [Quant Research Intern, Systematic Trading](https://jainglobal.wd5.myworkdayjobs.com/LinkedInCareerSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603) · Summer 2027 | New York, New York | $182,000 to $234,000 | 2026-10-20 |  |

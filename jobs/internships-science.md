@@ -1,11 +1,15 @@
 # Internships and co-ops: Science and research
 
-144 open, newest first (by the date the scraper first saw them), updated 2026-11-20.
+146 open, newest first (by the date the scraper first saw them), updated 2026-11-21.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Capable Labs | [Chemistry Intern](https://jobs.ashbyhq.com/Capable/845ee46b-33f0-45fe-abcd-aee369f512b1) | San Francisco |  | 2026-11-21 |  |
+| AbbVie | [2027 Clinical Pharmacology Intern (PhD)](https://jobs.smartrecruiters.com/AbbVie/3743990016996766-2027-clinical-pharmacology-intern-phd-) | North Chicago, IL, us |  | 2026-11-21 |  |
+| JPMorgan Chase | [2027 Applied Research Associate - Summer Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359) · Summer | New York, NY, United States |  | 2026-11-21 |  |
+| NVIDIA | [Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) · Summer 2027 | US, CA, Santa Clara |  | 2026-11-21 |  |
 | Focused | [Working Student – Laser Lab & Cleanroom Operations (f/m/d)](https://jobs.ashbyhq.com/focused/5795f547-b39c-43ef-81cc-9e8301821b56) | Darmstadt, DE |  | 2026-11-20 |  |
 | Amgen | [Grad Intern – Biophysical Assay Technology Development (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---Biophysical-Assay-Technology-Development--Summer-2027-_R-261996) · Summer 2027 | US - California - South San Francisco | $35.34 to $41.20/hour | 2026-11-20 |  |
 | Analog Devices | [Biomedical Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R267570) · Summer 2027 | US, MA, Wilmington | $22 to $41/hour | 2026-11-20 |  |
@@ -55,7 +59,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Profound Research | [Internship Clinical Research -Talent Community Graduates for 2027-2028 (Southern California)](https://jobs.lever.co/profoundresearch/76dc9e92-41e4-4257-9409-2141ca03e3ae) | Southern California |  | 2026-11-05 |  |
 | Porch Light Health | [Laboratory Internship](https://frontrangeclinic.bamboohr.com/careers/359) | Fort Collins, Colorado, United States |  | 2026-11-05 |  |
 | University of Pikeville | [WS - Spring Term INTERNSHIP - Biology Agricultural Research Technologist - FWS](https://upike.bamboohr.com/careers/564) · Spring | Pikeville, Kentucky, United States |  | 2026-11-05 |  |
-| USA Rare Earth LLC | [Geology Intern (Summer 2027)](https://ats.rippling.com/usare/jobs/bd553e0a-f638-439c-8371-7e271fb39443) · Summer 2027 | Sierra Blanca, TX |  | 2026-11-05 |  |
 | ANS | [Lab Engineer (Intern)](https://jobs.lever.co/ans/6294ad3e-46e5-4196-86a8-3af24ade731f) · Fall 2025 | Oklahoma City, OK |  | 2026-11-05 |  |
 | University of Pikeville | [WS - NSF Biology Student Researcher - IWS](https://upike.bamboohr.com/careers/476) | Pikeville, Kentucky, United States | $10.50/hour | 2026-11-05 |  |
 | University of Pikeville | [WS - NSF Biology Student Researcher - IWS](https://upike.bamboohr.com/careers/477) | Pikeville, Kentucky, United States | $10.50/hour | 2026-11-05 |  |
@@ -66,7 +69,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Veolia Environnement SA | [Membrane R&D Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159693644-membrane-r-d-intern) | Minnetonka, MN, us | $25/hour | 2026-11-04 | no visa sponsorship |
 | Tenet Healthcare | [Cath Lab Tech Extern](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603027812) | Rock Hill, SC, United States |  | 2026-11-04 |  |
 | Environmental Science Associates | [Intern - Florida Environmental Internship (Winter and Summer 2027)](https://job-boards.greenhouse.io/environmentalscienceassociates/jobs/5457591008) · Summer 2027 | Tampa, Florida, United States |  | 2026-11-04 |  |
-| Capable Labs | [Chemistry Intern](https://jobs.ashbyhq.com/Capable/89475683-3915-4971-8c8c-19eeabb869ac) | San Francisco |  | 2026-11-04 |  |
 | Continental Group Sector ContiTech | [CO-OP Engineering Lab](https://jobs.smartrecruiters.com/ContinentalGroupSectorContiTech/744000158575235-co-op-engineering-lab) | Marysville, Ohio, us |  | 2026-11-04 |  |
 | Flagship Pioneering Co-Op Program | [Tilde Bio: Bioconjugation Chemistry Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8919167002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
 | AbbVie | [2027 PDS&T Bioassay Scientist Co-Op (June - Dec)](https://jobs.smartrecruiters.com/AbbVie/3743990016415816-2027-pds-t-bioassay-scientist-co-op-june-dec-) | Irvine, CA, us |  | 2026-11-04 |  |

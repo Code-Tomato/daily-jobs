@@ -1,11 +1,14 @@
 # New grad and entry level: Education
 
-364 open, newest first (by the date the scraper first saw them), updated 2026-11-20.
+360 open, newest first (by the date the scraper first saw them), updated 2026-11-21.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Discovery Kidzone | [Full Time Preschool Teacher](https://discoverykidzone.bamboohr.com/careers/501) | West Haven, Utah, United States | $15 to $18/hour | 2026-11-21 |  |
+| Equip Health | [Admissions Specialist (PST)](https://jobs.ashbyhq.com/equip/c55be18a-6d8f-4895-8963-f807924482a2) | Remote - USA |  | 2026-11-21 |  |
+| Town Square Academy | [Floater](https://job-boards.greenhouse.io/townsquareacademy/jobs/5304031007) | 7597 Taylor Road Riverdale, GA 30274 |  | 2026-11-21 |  |
 | Texas Health Resources | [Admissions Specialist – Admitting ER](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26011794&lang=en) | Plano |  | 2026-11-20 |  |
 | The Vanguard School | [Junior High Science Teacher (Grades 7-8)](https://thevanguardschool.bamboohr.com/careers/270) | Colorado Springs, Colorado, United States | $48,000 | 2026-11-20 |  |
 | UTRGV | [EARLY CHILDHOOD SPECIALIST](https://careers.utrgv.edu/postings/53185) | Edinburg, Texas |  | 2026-11-20 |  |
@@ -35,7 +38,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Sieda Community Action | [Early Head Start Teacher](https://sieda.bamboohr.com/careers/129) | Ottumwa, Iowa, United States | $17.94 to $21.08/hour | 2026-11-14 |  |
 | Texas Children's Hospital | [Childbirth Parenting Educator - PER DIEM, Saturday Sunday ONLY](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428640) | Houston, TX, United States |  | 2026-11-13 |  |
 | Assessment Intervention Management | [Math Test Prep Tutor and/or English Test Prep Tutor](https://assessment-intervention-management.breezy.hr/p/672addd8fec2-math-test-prep-tutor-and-or-english-test-prep-tutor) | San Antonio, TX | $25 to $40/hour | 2026-11-13 | no visa sponsorship |
-| Texas State University | [Graduate Admissions Specialist](https://jobs.hr.txstate.edu/postings/59243) | San Marcos, Other - Remote Work Possible, TX |  | 2026-11-13 | no visa sponsorship |
 | TTUHSC | [Asst/Assoc/Professor - Trauma/CC Surgery, Level 1 Trauma, Lubbock](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5281&PageType=JobDetails&jobid=927401) | Lubbock, Texas, US | $100,000 | 2026-11-13 |  |
 | Uncommon Schools | [High School Math Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000161375569-high-school-math-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-13 |  |
 | Uncommon Schools | [Middle School Science Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000161375519-middle-school-science-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-13 |  |
@@ -49,8 +51,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Frontier Schools | [Math Teacher](https://frontierschools.bamboohr.com/careers/240) | Kansas City, Missouri, United States |  | 2026-11-12 |  |
 | Brella | [Teacher - Pasadena](https://brella.breezy.hr/p/4ff105a72e15-teacher-pasadena) | Pasadena, CA |  | 2026-11-11 |  |
 | Big Ideas Educational Services | [Afterschool PE Teacher - 3PM-6PM](https://bigideas.bamboohr.com/careers/148) | Miami-Gardens, Florida, United States |  | 2026-11-11 |  |
-| Texas State University | [Academic Advisor I - Business Advising](https://jobs.hr.txstate.edu/postings/59214) | San Marcos, TX |  | 2026-11-11 |  |
-| Texas State University | [Academic Advisor I](https://jobs.hr.txstate.edu/postings/59209) | San Marcos, TX |  | 2026-11-11 |  |
 | DREAM | [[Immediate Start] Recess Coach - Mott Haven Elementary and Middle School](https://jobs.lever.co/wearedream/6ef77656-9bef-492b-aee3-d62e7de5f562) | New York, NY - Multi-Site | $17.50 to $18/hour | 2026-11-11 |  |
 | Parker Core Knowledge | [Preschool Teacher](https://ckcs.bamboohr.com/careers/54) | Parker, Colorado, United States | $26.88/hour | 2026-11-10 |  |
 | CSC Generation | [Seasonal Chef Instructor (Sur La Table)](https://jobs.lever.co/cscgeneration-2/2d2a17a6-2c29-4543-9842-b16e42113dcd) | King of Prussia, PA |  | 2026-11-10 |  |
@@ -66,7 +66,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CSC Generation | [Seasonal Chef Instructor, Savory (Sur La Table)](https://jobs.lever.co/cscgeneration-2/23f20dd0-44b3-4762-bfcd-cf327fbc1a9a) | Boulder, CO |  | 2026-11-07 |  |
 | KIPP | [High School Intervention Teacher](https://jobs.smartrecruiters.com/KIPP/744000160217201-high-school-intervention-teacher) | Columbus, OH, us |  | 2026-11-07 |  |
 | KIPP | [Elementary School Intervention Teacher](https://jobs.smartrecruiters.com/KIPP/744000160211383-elementary-school-intervention-teacher) | Columbus, OH, us |  | 2026-11-07 |  |
-| NCW Libraries | [Library Specialist](https://ncwlibraries.bamboohr.com/careers/120) | Tonasket, Washington, United States | $22.42 to $30.15/hour | 2026-11-07 |  |
 | Texas Health Resources | [Admissions Specialist-PRN](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26009928&lang=en) | Fort Worth |  | 2026-11-07 |  |
 | Super Soccer Stars | [Youth Sports Coach / Early Childhood Instructor - Afternoon Program](https://apply.workable.com/j/A8CD253A2A) | Round Rock, Texas, United States | $250 to $600/week | 2026-11-07 |  |
 | Middlebury College | [Snow School Junior Instructor (26-27 Season S00504)](https://apply.workable.com/j/9E0592FCFA) | Hancock, Vermont, United States | $16.50/hour | 2026-11-07 |  |
@@ -80,6 +79,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | YMCA of Greater Boston | [Group Exercise Instructor - Body Pump](https://ymcaboston.pinpointhq.com/en/postings/ed8d0925-16a1-498e-9db6-50abe319210f) | Brighton, MA |  | 2026-11-07 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor - Core Strength](https://ymcaboston.pinpointhq.com/en/postings/2137ca75-3a73-4517-a827-0ed866680229) | Brighton, MA |  | 2026-11-07 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor - Zumba](https://ymcaboston.pinpointhq.com/en/postings/1a86031d-c2ab-4499-95f7-0d67dee03818) | Woburn, MA |  | 2026-11-07 |  |
+| Naperville Public Library | [Facilities Maintenance Worker - Nichols Library](https://napervillepl.bamboohr.com/careers/282) | Naperville, Illinois, United States |  | 2026-11-06 |  |
 | Domino's | [Shift Manager(06615) - 1300 Gattis School Rd., Ste 700](https://jobs.smartrecruiters.com/Dominos/744000160106999-shift-manager-06615-1300-gattis-school-rd-ste-700) | Round Rock, TX, us |  | 2026-11-06 |  |
 | Domino's | [Delivery Driver(08783) - 4909 Gattis School Rd](https://jobs.smartrecruiters.com/Dominos/744000160052708-delivery-driver-08783-4909-gattis-school-rd) | Hutto, TX, us |  | 2026-11-06 |  |
 | Domino's | [Shift Manager(08783) - 4909 Gattis School Rd., Suite 110](https://jobs.smartrecruiters.com/Dominos/744000160027499-shift-manager-08783-4909-gattis-school-rd-suite-110) | Hutto, TX, us |  | 2026-11-06 |  |
@@ -88,7 +88,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Inspiroz | [School Technology Specialist - Washington, DC](https://apply.workable.com/j/C20523D75C) | Washington, District of Columbia, United States |  | 2026-11-06 |  |
 | Inspiroz | [School Technology Specialist - Washington, DC-NEED CONTRACTORS FOR 4 weeks](https://apply.workable.com/j/F45A23B1E9) | Washington, District of Columbia, United States |  | 2026-11-06 |  |
 | Mansfield Hall | [Academic Coach](https://mansfieldhallaccount.bamboohr.com/careers/233) | Madison, Wisconsin, United States | $22/hour | 2026-11-06 |  |
-| Naperville Public Library | [Facilities Maintenance Worker - Nichols Library](https://napervillepl.bamboohr.com/careers/282) | Naperville, Illinois, United States |  | 2026-11-06 |  |
 | Inspiroz | [School Technology Specialist - NYC-NEED URGENT CONTRACTORS](https://apply.workable.com/j/E71D96C35F) | New York, New York, United States |  | 2026-11-06 |  |
 | Fluentbe.com | [English teacher for young learners / Lektor/ka języka angielskiego dla dzieci](https://apply.workable.com/j/B4AD3E73FD) | United States |  | 2026-11-06 |  |
 | Harlem Children's Zone | [Pre-K Learning Specialist (Special Education Teacher)](https://apply.workable.com/j/39335E83D2) | New York, New York, United States | $70,000 to $140,000 | 2026-11-06 |  |
@@ -132,7 +131,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Opportunity Development Centers Inc | [Youth Services Mentor-After School](https://odcinc.bamboohr.com/careers/579) | Wausau, Wisconsin, United States | $17/hour | 2026-11-05 |  |
 | Ppgny | [Sexuality Educator/TAP Advisor](https://jobs.lever.co/ppgny/893b3b8f-5f64-44c5-a7cd-6a8462d00625) | Hempstead, NY |  | 2026-11-05 |  |
 | Ppgny | [Sexuality Educator/Youth Advisor](https://jobs.lever.co/ppgny/5e883e29-e857-42be-b52f-aecc1f73ade9) | Corning, NY |  | 2026-11-05 |  |
-| Opportunity Development Centers Inc | [Youth Services Mentor-After School](https://odcinc.bamboohr.com/careers/564) | Marshfield, Wisconsin, United States | $17/hour | 2026-11-05 |  |
 | Capitol Language Services | [After School Instructor SY 26-27](https://capitollanguageservices.bamboohr.com/careers/65) | Washington, District of Columbia, United States | $19/hour | 2026-11-05 |  |
 | Hope Center for Children | [Night Shift Relief Family Teacher (PRN) Direct Care](https://hopecfc.bamboohr.com/careers/74) | Spartanburg, South Carolina, United States |  | 2026-11-05 |  |
 | Aspire Early Learning Academy | [Full Time Infant/Toddler Teacher](https://aspireearlylearningacademy.bamboohr.com/careers/70) | Moncks Corner, South Carolina, United States |  | 2026-11-05 |  |
@@ -349,15 +347,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | YMCA of Greater Boston | [Group Exercise Instructor - Aqua Fitness](https://ymcaboston.pinpointhq.com/en/postings/293ea85e-6dfa-46ac-9b35-e0f109eb30e4) | Woburn, MA |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor - Body Combat (certification required or equivalent experience)](https://ymcaboston.pinpointhq.com/en/postings/1d0f2e1d-e00b-4f54-a440-5d5cd181398b) | Woburn, MA |  | 2026-11-04 |  |
 | UTMB Health | [Federal Work Study Student, Dean of Graduate School](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2600926&lang=en) | United States-Texas-Galveston |  | 2026-11-02 |  |
-| Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=925953) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-10-23 |  |
 | Rady Children's Health San Diego | [Preschool Classroom Floater (Casual) - Alexa's PLAYC](https://jobs.rchsd.org/job/san-diego/preschool-classroom-floater-casual-alexa-s-playc/1717/102243126416) | San Diego, California | $24.26 to $33.36/hour | 2026-10-22 |  |
+| East Texas A&M University | [Adjunct Faculty - Music (Specific Positions)](https://tamus.wd1.myworkdayjobs.com/ETAMU_External/job/Commerce-TX/Adjunct-Faculty---Music--Specific-Positions-_R-084144) | Commerce, TX |  | 2026-10-20 |  |
 | United Airlines | [Ramp Training Instructor](https://careers.united.com/us/en/job/ORD00003574) | Chicago, Illinois, United States | $66,500 to $86,616 | 2026-10-20 | no visa sponsorship |
 | KLA | [Technical Instructor (EBEAM)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--EBEAM-_2639119) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |
 | KLA | [Technical Instructor (FAST)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--FAST-_2639121) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |
 | UT Dallas | [Part-time Lecturer - Archer Fellowship Program](https://jobs.utdallas.edu/postings/32971) | Washington, D.C. |  | 2026-10-20 |  |
-| East Texas A&M University | [Adjunct Faculty - Music (Specific Positions)](https://tamus.wd1.myworkdayjobs.com/ETAMU_External/job/Commerce-TX/Adjunct-Faculty---Music--Specific-Positions-_R-084144) | Commerce, TX |  | 2026-10-20 |  |
 | Texas Children's Hospital | [Diabetes Educator II](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/427793) | Houston, TX, United States |  | 2026-10-20 |  |
-| Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=925621) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-10-20 |  |
 | ICF | [Library Technician](https://careers.icf.com/us/en/job/R2603422) | Bethesda, Maryland, United States of America | $50,605 to $86,028 | 2026-10-20 | clearance |
 | UT Dallas | [Program Specialist I](https://jobs.utdallas.edu/postings/32839) | Richardson, TX | $50,000 to $52,500 | 2026-10-20 |  |
 | Texas Health Resources | [Admissions Specialist-ER-PRN](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26008277&lang=en) | Fort Worth |  | 2026-10-20 |  |

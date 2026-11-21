@@ -1,11 +1,24 @@
 # New grad and entry level: Product, program and project management
 
-277 open, newest first (by the date the scraper first saw them), updated 2026-11-20.
+286 open, newest first (by the date the scraper first saw them), updated 2026-11-21.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021796-project-manager) | New York City, NY, us |  | 2026-11-21 |  |
+| Cigna | [Entry-Level Product Management Analyst - EviCore - Remote](https://jobs.thecignagroup.com/us/en/job/26013995) | Remote, US |  | 2026-11-21 |  |
+| DH Pace | [Entry level Project Manager](https://job-boards.greenhouse.io/dhpace/jobs/5490676008) | Olathe KS |  | 2026-11-21 |  |
+| DH Pace | [Project Manager - Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5490609008) | Dallas TX |  | 2026-11-21 |  |
+| Ford | [TPP - Technical Program Manager](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74319) | Palo Alto, CA, United States | $74,300 to $144,900 | 2026-11-21 |  |
+| Kikoff | [Associate Program Manager, Customer Experience](https://job-boards.greenhouse.io/kikoff/jobs/4517998009) | San Francisco | $103,000 to $155,000 | 2026-11-21 |  |
+| myKaarma | [Associate Product Manager, Payments](https://ats.rippling.com/mykaarma/jobs/85e4538a-7178-41e0-9a03-8a9f1630ddc5) | Long Beach, CA |  | 2026-11-21 | no visa sponsorship |
+| Onbe | [Associate Product Manager](https://job-boards.greenhouse.io/onbe/jobs/4731257006) | Plano, Texas, United States (hybrid) |  | 2026-11-21 |  |
+| Onbe | [Associate Product Manager](https://job-boards.greenhouse.io/onbe/jobs/4731260006) | Conshohocken, Pennsylvania, United States (hybrid) |  | 2026-11-21 |  |
+| Onbe | [Associate Product Manager](https://job-boards.greenhouse.io/onbe/jobs/4731258006) | Buffalo Grove, Illinois, United States (hybrid) |  | 2026-11-21 |  |
+| Black & Veatch | [Distribution Project Manager](https://careers.bv.com/job/Cary-Distribution-Project-Manager-NC/1458986733/) | Atlanta, GA, US |  | 2026-11-21 |  |
+| Black & Veatch | [Project Manager - St. George, Utah](https://careers.bv.com/job/Project-Manager-St_-George%2C-Utah-UT/1459054733/) | UT, US |  | 2026-11-21 |  |
+| Southwest Research Institute | [ASSOCIATE SPECIALIST - SPECIALIST - SIGINT Solutions Project Management](https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=16-01576) | San Antonio, Texas |  | 2026-11-21 | US citizens/persons only |
 | City of New York | [Project Manager Modernization Program](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016990396-project-manager-modernization-program) | New York, NY, us |  | 2026-11-20 |  |
 | City of New York | [BOB - Associate Project Manager 3](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016990166-bob-associate-project-manager-3) | New York City, NY, us |  | 2026-11-20 | clearance |
 | City of New York | [Program Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016990136-program-manager) | Long Island City, NY, us |  | 2026-11-20 |  |
@@ -59,7 +72,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Quality Group GmbH | [Senior Product Owner (gn) - Logistics](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5029444101) | Hamburg (hybrid) |  | 2026-11-06 |  |
 | The Quality Group GmbH | [Senior Product Owner (gn) - Product Lifecycle Management (PLM)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5029470101) | Hamburg (hybrid) |  | 2026-11-06 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater 1](https://careers.bv.com/job/Las-Vegas-Project-Manager-WaterWastewater-1-NV-89044/1454932633/) | Las Vegas, NV, US |  | 2026-11-06 |  |
-| DH Pace | [Entry level Project Manager](https://job-boards.greenhouse.io/dhpace/jobs/5474920008) | Olathe KS |  | 2026-11-06 |  |
 | Owen Ames Kimball | [Assistant Project Manager](https://oakmi.bamboohr.com/careers/252) | Kalamazoo, Michigan, United States |  | 2026-11-06 |  |
 | Immortals | [Jr. Project Manager, Operations & Product](https://apply.workable.com/j/35C106EA2F) | United States |  | 2026-11-06 |  |
 | Bask Health | [Product Owner](https://apply.workable.com/j/88E8AC387F) | new york, New York, United States |  | 2026-11-06 |  |
@@ -108,11 +120,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016455616-project-manager) | New York City, NY, us |  | 2026-11-04 |  |
 | AECOM | [Entry-Level Deputy Project Manager](https://jobs.smartrecruiters.com/AECOM2/744000157843708-entry-level-deputy-project-manager) | Philadelphia, PA, us |  | 2026-11-04 | no visa sponsorship |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464240008) | Olathe KS |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464243008) | Port St. Lucie FL |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464233008) | Phoenix AZ EDS |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464229008) | Nashville TN |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464244008) | Atlanta GA |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464243008) | Port St. Lucie FL |  | 2026-11-04 |  |
 | ButterflyMX | [Implementation Project Manager (Hybrid)](https://jobs.ashbyhq.com/butterflymx/6da62dcb-ad9e-4de4-865a-14f80ec8d968) | NYC Headquarters (hybrid) | $75,000 to $85,000 | 2026-11-04 |  |
 | iCapital | [Product Manager - Analyst / Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8907186002) | Colorado Springs, Colorado, United States | $60,000 to $90,000 | 2026-11-04 |  |
 | Pleasant Valley Corporation | [Project Manager, Parking Lot Solutions](https://pleasant-valley-corporation.breezy.hr/p/ed5f415fafa0-project-manager-parking-lot-solutions) | Medina, OH |  | 2026-11-04 |  |
@@ -184,7 +196,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Quality Group GmbH | [Senior Product Owner (gn) - Production](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4881210101) | Deutschland, remote |  | 2026-11-04 |  |
 | REI Engineers | [Project Manager](https://rei.bamboohr.com/careers/77) | Charlotte, North Carolina, United States |  | 2026-11-04 |  |
 | B&S Site Development | [Assistant Project Manager](https://job-boards.greenhouse.io/bssitedevelopment/jobs/4259472009) | Manassas, Virginia |  | 2026-11-04 |  |
-| HIKINEX | [Assistant Project Manager](https://recruiting.breezy.hr/p/5494f791371a-assistant-project-manager) | New York, NY |  | 2026-11-04 |  |
 | IXL Learning | [Associate Product Manager, Rosetta Stone](https://www.ixl.com/company/jobs?gh_jid=8450013002) | San Mateo, CA |  | 2026-11-04 |  |
 | Avida | [Associate Product Manager](https://jobs.ashbyhq.com/avida/0b436257-9455-4e8f-a414-2b2b0425e85a) | Remote |  | 2026-11-04 |  |
 | Alpharun | [Agent Product Manager](https://jobs.gem.com/alpharun/am9icG9zdDodLSabn9BVB4bhU9MfHeUj) | San Francisco |  | 2026-11-04 |  |
@@ -248,11 +259,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Aptiv | [Product Manager ADAS](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Boston-MA---USA/Product-Manager-ADAS_J000703323) | Boston, MA - USA |  | 2026-10-20 |  |
 | HPE | [Internal Project Manager I](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Internal-Project-Manager-I_1213447) | Bloomington, Minnesota, United States of America | $57,500 to $130,000 | 2026-10-20 |  |
 | HPE | [PLM Program Manager Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/PLM-Program-Manager-Graduate_1213445-1) | Spring, Texas, United States of America | $62,900 to $145,300 | 2026-10-20 |  |
-| Normal Computing | [Product Manager](https://jobs.ashbyhq.com/NormalComputing/acc80301-3574-4cc8-904a-fb66a346ebd4) | New York, NY |  | 2026-10-20 |  |
 | SLB | [Project Manager](https://careers.slb.com/jobdescription.aspx?id=WDR00136807) | Midland, United States |  | 2026-10-20 | no visa sponsorship |
 | Kinder Morgan | [Engineer-Production CO2](https://careers.kindermorgan.com/careers-home/jobs/6168) | SNYDER, Texas |  | 2026-10-20 |  |
 | Siemens | [Commercial Project Management Development Program](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521258) |  |  | 2026-10-20 | no visa sponsorship |
-| Roblox | [[2027] Associate Product Manager, Early Career](https://careers.roblox.com/jobs/8143976?gh_jid=8143976) | San Mateo, CA, United States | $143,000 | 2026-10-20 |  |
 | ICF | [Commercial Program Manager – Small Business Energy Savings](https://careers.icf.com/us/en/job/R2602830) | Atlanta, Georgia, United States of America | $98,614 to $167,644 | 2026-10-20 |  |
 | The Trade Desk | [Product Manager II](https://job-boards.greenhouse.io/thetradedesk/jobs/5204413007) | New York | $151,400 to $227,000 | 2026-10-20 |  |
 | Texas Children's Hospital | [Facilities Project Manager I](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/426250) | Houston, TX, United States |  | 2026-10-20 |  |
