@@ -1,6 +1,6 @@
 # Internships and co-ops: Design and creative
 
-176 open, newest first (by the date the scraper first saw them), updated 2026-11-21.
+176 open, newest first (by the date the scraper first saw them), updated 2026-11-22.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -119,6 +119,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | MBJ Network | [Lead Graphic Designer - Intern / Remote](https://jobs.smartrecruiters.com/MBJNetwork/744000097967235-lead-graphic-designer-intern-remote) | Lombard, IL, us (remote) |  | 2026-11-04 |  |
 | C.A.C. INDUSTRIES, INC. | [Graphic Design & Proposal Intern](https://cacindinc.bamboohr.com/careers/61) | Long Island City, New York, United States |  | 2026-11-04 |  |
 | Palantir Technologies | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d) | New York, NY | $8,500/month | 2026-11-04 | clearance |
+| Grace Church of Arvada | [Grace Creative Team Intern](https://gracechurchco.bamboohr.com/careers/71) | Arvada, Colorado, United States |  | 2026-11-04 |  |
 | Grace Church of Arvada | [Grace Creative Team Video Intern](https://gracechurchco.bamboohr.com/careers/68) | Arvada, Colorado, United States |  | 2026-11-04 |  |
 | Palantir Technologies | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5) | Washington, D.C. | $8,500/month | 2026-11-04 | clearance |
 | Moonsail North | [Graphic Design Intern](https://moonsailnorth.bamboohr.com/careers/32) | Lansing, Michigan, United States |  | 2026-11-04 |  |
@@ -142,7 +143,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Aparecio Foundation, NFP | [Digital Photographer Volunteer/Intern for 100 Women in S.T.E.M. Program](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83075366-digital-photographer-volunteer-intern-for-100-women-in-s-t-e-m-program) | Los Angeles, CA, us |  | 2026-11-04 |  |
 | The Aparecio Foundation, NFP | [Digital Photographer Volunteer/Intern for 100 Women in S.T.E.M. Program](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83075077-digital-photographer-volunteer-intern-for-100-women-in-s-t-e-m-program) | Chicago, IL, us |  | 2026-11-04 |  |
 | The Aparecio Foundation, NFP | [Digital Photographer Internship (Unpaid)](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/80703850-digital-photographer-internship-unpaid-) | Chicago, IL, us |  | 2026-11-04 |  |
-| Grace Church of Arvada | [Grace Creative Team Intern](https://gracechurchco.bamboohr.com/careers/71) | Arvada, Colorado, United States |  | 2026-11-04 |  |
 | TikTok | [Product Designer Project Intern (TikTok-Design-UX) - 2026 Start - Project Intern (TikTok Design) - 2027 Start](https://lifeattiktok.com/search/7533145462880127240) | San Jose, California, United States of America |  | 2026-11-04 |  |
 | Trilon Group | [Graphic Design Intern](https://trilongroup.pinpointhq.com/en/postings/27869bf8-ee2c-4283-a2a6-eaeee72d1f13) | Charlotte, North Carolina |  | 2026-11-04 |  |
 | Trilon Group | [Internship - Landscape Designer](https://trilongroup.pinpointhq.com/en/postings/32345bfb-fa0d-4adb-9c3f-8ce7463eda0b) | Springfield, Massachusetts |  | 2026-11-04 | no visa sponsorship |

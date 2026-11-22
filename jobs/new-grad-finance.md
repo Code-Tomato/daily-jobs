@@ -1,6 +1,6 @@
 # New grad and entry level: Finance, accounting and banking
 
-2,849 open, newest first (by the date the scraper first saw them), updated 2026-11-21. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,849 open, newest first (by the date the scraper first saw them), updated 2026-11-22. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 

@@ -6,10 +6,10 @@ resume and finds the ones you actually qualify for. The companies are the career
 Greenhouse, Lever, Ashby, SmartRecruiters, Workable, BambooHR, Breezy, Rippling, Recruitee, Teamtailor, Pinpoint and Gem.
 
 <!-- stats -->
-**633,662 US job postings from 20,203 companies**, updated 2026-11-21 (14,863 first seen that day).
+**633,662 US job postings from 20,203 companies**, updated 2026-11-22 (0 first seen that day).
 
-- [Internships and co-ops](jobs/internships.md): 17,226 open, 1,956 new this week
-- [New grad and entry level](jobs/new-grad.md): 49,161 open, 6,093 new this week
+- [Internships and co-ops](jobs/internships.md): 17,226 open, 1,899 new this week
+- [New grad and entry level](jobs/new-grad.md): 49,161 open, 5,918 new this week
 
 <details><summary>Postings by field</summary>
 

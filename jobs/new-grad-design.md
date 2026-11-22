@@ -1,6 +1,6 @@
 # New grad and entry level: Design and creative
 
-181 open, newest first (by the date the scraper first saw them), updated 2026-11-21.
+181 open, newest first (by the date the scraper first saw them), updated 2026-11-22.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 

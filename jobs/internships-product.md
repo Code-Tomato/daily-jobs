@@ -1,6 +1,6 @@
 # Internships and co-ops: Product, program and project management
 
-282 open, newest first (by the date the scraper first saw them), updated 2026-11-21.
+282 open, newest first (by the date the scraper first saw them), updated 2026-11-22.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 

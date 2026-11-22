@@ -1,6 +1,6 @@
 # Internships and co-ops: Other engineering
 
-506 open, newest first (by the date the scraper first saw them), updated 2026-11-21.
+506 open, newest first (by the date the scraper first saw them), updated 2026-11-22.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -248,10 +248,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Fuse | [Internship](https://jobs.ashbyhq.com/Fuse/ce9c7d6d-da98-421e-bceb-d8db2c798d61) | San Leandro, California |  | 2026-11-04 | US citizens/persons only |
 | Impulse Labs | [General Application – Engineering (Full-Time + Internships)](https://jobs.ashbyhq.com/impulse/0b03563e-e0b8-4774-b3da-5a072170614f) | San Francisco |  | 2026-11-04 |  |
 | Plix | [Internship](https://jobs.gem.com/plixai/am9icG9zdDp0WmQB-as3Sz2vzB-EpHzT) | San Mateo |  | 2026-11-04 |  |
+| The Boring Company | [Engineering Internships - Winter/Spring 2027](https://jobs.gem.com/the-boring-company/am9icG9zdDq2wWK0OlUBwTl6S2lg0Wp8) · Spring 2027 | Las Vegas, NV, Bastrop, TX, Nashville, TN |  | 2026-11-04 |  |
 | Rackner | [Computer Science Internship](https://job-boards.greenhouse.io/rackner/jobs/4323518005) | College Park, Maryland |  | 2026-11-04 |  |
 | Boxtro LLP 123 | [Support Engineer Intern](https://boxtro.breezy.hr/p/56fa5756c564-support-engineer-intern) | San Francisco |  | 2026-11-04 |  |
 | Collabera | [Engineering Intern](https://jobs.smartrecruiters.com/Collabera2/82528810-engineering-intern) | Olathe, KS, us |  | 2026-11-04 | US citizens/persons only |
-| The Boring Company | [Engineering Internships - Winter/Spring 2027](https://jobs.gem.com/the-boring-company/am9icG9zdDq2wWK0OlUBwTl6S2lg0Wp8) · Spring 2027 | Las Vegas, NV, Bastrop, TX, Nashville, TN |  | 2026-11-04 |  |
 | Trilon Group | [Intern-Summer 2027](https://trilongroup.pinpointhq.com/en/postings/b498f4c0-7828-4986-9fd7-f2feba2b3dab) · Summer 2027 | Rockford, Illinois |  | 2026-11-04 |  |
 | Trilon Group | [Intern-Summer 2027](https://trilongroup.pinpointhq.com/en/postings/759bb5c8-02d6-4c73-b8e9-95a908e3ac7d) · Summer 2027 | Freeport, Illinois |  | 2026-11-04 |  |
 | Trilon Group | [Intern-Summer 2027](https://trilongroup.pinpointhq.com/en/postings/f0c40926-9868-4a0c-b969-3ecd393a868a) · Summer 2027 | Rochelle, Illinois |  | 2026-11-04 |  |
