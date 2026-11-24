@@ -1,6 +1,6 @@
 # Internships and co-ops: Education
 
-62 open, newest first (by the date the scraper first saw them), updated 2026-11-22.
+61 open, newest first (by the date the scraper first saw them), updated 2026-11-24.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -21,7 +21,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Strada Education Foundation | [Strada Education Foundation: Information Technology Intern](https://jobs.lever.co/stradaeducation/d9d6301a-3fac-4389-b820-3115dfe20a13) | Indianapolis, Indiana | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Communication Intern](https://jobs.lever.co/stradaeducation/91b84789-7d6d-4009-a5a3-13bbf90dc7d4) | Indianapolis, Indiana | $22.75 to $25/hour | 2026-11-05 |  |
 | Strada Education Foundation | [Strada Education Foundation Internship: Employer Alignment/Institute for the Future of Work Intern](https://jobs.lever.co/stradaeducation/407e6cd0-5789-4366-9449-23461c5e77bb) | Washington, DC | $22.75 to $25/hour | 2026-11-05 |  |
-| DREAM | [[Spring 2027] High School Data and Assessment Intern](https://jobs.lever.co/wearedream/c2f1b009-83aa-4578-80fb-38cda41652a5) · Spring 2027 | New York, NY - Multi-Site | $22/hour | 2026-11-05 |  |
 | Virginia Moca | [Education Internship Spring 2027](https://virginiamoca.bamboohr.com/careers/46) · Spring 2027 | Virginia Beach, Virginia, United States | $15/hour | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - North America Programs Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/181f25c2-aafc-43de-8f8e-242987eef1c6) · Spring 2027 | Washington, DC |  | 2026-11-05 |  |
 | Stand Together | [KIP Spring 2027 - Programs Outreach Intern - Foundation for Economic Education](https://jobs.lever.co/standtogether/b46a3ae5-18a1-40e3-ba75-a97fb42bf3dd) · Spring 2027 | Atlanta, Georgia |  | 2026-11-05 |  |

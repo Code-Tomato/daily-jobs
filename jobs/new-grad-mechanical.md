@@ -1,11 +1,66 @@
 # New grad and entry level: Mechanical, aerospace and manufacturing
 
-1,585 open, newest first (by the date the scraper first saw them), updated 2026-11-22. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,604 open, newest first (by the date the scraper first saw them), updated 2026-11-24. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Analog Devices | [Associate Engineer, Quality Engineering](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Engineer--Quality-Engineering_R267322) | US, MA, Wilmington | $64,000 to $88,000 | 2026-11-24 |  |
+| Intel | [Mask Manufacturing Technician](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Mask-Manufacturing-Technician_JR0289458) | US, California, Santa Clara | $60,450 to $99,770 | 2026-11-24 | no visa sponsorship |
+| Johnson & Johnson | [Aseptic Manufacturing Operator CAR-T](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Aseptic-Manufacturing-Operator-CAR-T_R-112441) | Raritan, New Jersey, United States of America | $55,935 to $89,815 | 2026-11-24 |  |
+| Siemens | [Electro-Mechanical Production Engineer- Rolling Stock](https://jobs.siemens.com/en_US/externaljobs/JobDetail/529759) | Sacramento, California, United States of America |  | 2026-11-24 |  |
+| Sierra Space | [Mechanical Engineer I](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26426-1) | Louisville, CO | $77,234 to $106,196.75 | 2026-11-24 | clearance |
+| Analog Devices | [Associate Engineer, Industrial Engineering](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-WA-Camas/Associate-Engineer--Industrial-Engineering_R269503-1) | US, WA, Camas | $64,000 to $88,000 | 2026-11-24 |  |
+| Anduril Industries | [Manufacturing Optimization Specialist](https://boards.greenhouse.io/andurilindustries/jobs/5302864007?gh_jid=5302864007) | Ashville, Ohio, United States | $76,000 to $101,000 | 2026-11-24 | US citizens/persons only |
+| Blue Origin | [Technician - Structures (Engines) / All levels](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Technician---Structures--Engines----All-levels_R76199) | Greater Seattle Area | $43.74 to $61.24/hour | 2026-11-24 | US citizens/persons only |
+| Boston Scientific | [Manufacturing Tech II - 2nd Shift](https://bostonscientific.eightfold.ai/careers/job/563602813946457) | Arden Hills, MN, US | $43,368 to $73,736 | 2026-11-24 | no visa sponsorship |
+| Boston Scientific | [Manufacturing Material Handler II](https://bostonscientific.eightfold.ai/careers/job/563602813979679) | Quincy, MA, US | $33,488 to $56,888 | 2026-11-24 | no visa sponsorship |
+| Broadcom | [Manufacturing Operator 1](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Manufacturing-Operator-1_R027257) | USA-Colorado-Fort Collins-4380 Ziegler Road | $20.50 to $22/hour | 2026-11-24 |  |
+| Carvana | [Automotive Rim Repair Technician](https://www.carvana.com/careers/apply?gh_jid=8411549) | Delanco, NJ | $20 to $25/hour | 2026-11-24 | no visa sponsorship |
+| Entegris | [Manufacturing Technician I](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Decatur-TX/Manufacturing-Technician-I_REQ-14291) | Decatur, TX |  | 2026-11-24 |  |
+| Entegris | [Manufacturing Technician I (CWW Days)](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Decatur-TX/Manufacturing-Technician-I--CWW-Days-_REQ-15681) | Decatur, TX |  | 2026-11-24 |  |
+| Entegris | [Manufacturing Technician I](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Decatur-TX/Manufacturing-Technician-I_REQ-16112) | Decatur, TX |  | 2026-11-24 |  |
+| Ford | [Controls Implementation Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74391) | Dearborn, MI, United States | $86,600 to $166,200 | 2026-11-24 | no visa sponsorship |
+| Form Energy | [Manufacturing Engineer](https://jobs.ashbyhq.com/formenergy/19d7af03-573b-4b51-88d6-6aff91d7a60d) | Weirton, WV |  | 2026-11-24 |  |
+| General Matter | [Design Reliability Engineer (New Grad)](https://job-boards.greenhouse.io/generalmatter/jobs/5492316008) | Los Angeles, CA | $85,000 to $106,000 | 2026-11-24 | clearance |
+| GRVTY | [Aeronautical Production Specialist (Imagery Analyst)](https://job-boards.greenhouse.io/grvty/jobs/4519409009) | St. Louis, Missouri, United States |  | 2026-11-24 | clearance |
+| Honda | [Mechanical Design Engineer](https://careers.honda.com/us/en/job/13461) | Raymond, Ohio, United States |  | 2026-11-24 |  |
+| Honda | [Bill of Materials Administrator](https://careers.honda.com/us/en/job/13475) | Raymond, Ohio, United States |  | 2026-11-24 |  |
+| HPE | [Thermal Engineer (Spring, TX)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Thermal-Engineer_1210868-2) | Spring, Texas, United States of America | $84,400 to $194,200 | 2026-11-24 |  |
+| KLA | [Manufacturing Engineer (Precision Mechanical)](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Manufacturing-Engineer--Precision-Mechanical-_2643022) | Milpitas, CA | $106,700 to $181,400 | 2026-11-24 |  |
+| KLA | [Manufacturing Engineer (Precision Mechanical)](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Manufacturing-Engineer--Precision-Mechanical-_2637170) | Milpitas, CA | $129,700 to $220,500 | 2026-11-24 |  |
+| Micron | [New College Grad Engineer, Manufacturing](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad-Engineer--Manufacturing_JR113007) | Boise, ID - Main Site |  | 2026-11-24 |  |
+| Micron | [New College Grad Line Manufacturing Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad-Line-Manufacturing-Engineer_JR113478) | Boise, ID - Main Site |  | 2026-11-24 |  |
+| Micron | [New College Grad - Industrial Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/New-College-Grad---Industrial-Engineer_JR117455) | Manassas, VA - Fab 6 | $83,000 to $142,000 | 2026-11-24 |  |
+| Neuralink | [Manufacturing Technician, Surgery Consumables](https://boards.greenhouse.io/neuralink/jobs/8214394003?gh_jid=8214394003) | Austin, Texas, United States | $26.44 to $43.75/hour | 2026-11-24 |  |
+| Path Robotics | [Mechanical Engineer, Sensing & Mobile Welding Robotics](https://boards.greenhouse.io/pathrobotics/jobs/8959186002?gh_jid=8959186002) | Columbus, Ohio |  | 2026-11-24 | US citizens/persons only |
+| Red Wing Shoe Company | [Raw Materials Warehouse Worker - 2nd Shift](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000163338297-raw-materials-warehouse-worker-2nd-shift) | Red Wing, MN, us | $24.93 to $26.84/hour | 2026-11-24 |  |
+| Relativity Space | [Vehicle Fluids Engineer I](https://boards.greenhouse.io/relativity/jobs/8929371002?gh_jid=8929371002) | Long Beach, California, United States | $90,000 to $136,000 | 2026-11-24 |  |
+| Ricart Automotive | [Kia Flat Rate Automotive Technician](https://ricart-automotive.breezy.hr/p/11933536ecca-kia-flat-rate-automotive-technician) | 4255 S Hamilton Rd, Columbus, OH 43125, US | $180,000 | 2026-11-24 |  |
+| Rocket Lab | [Spacecraft GNC Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8214652003) | Littleton, CO |  | 2026-11-24 | US citizens/persons only, clearance |
+| RR Donnelley | [Mail Services Specialist 1](https://jobs.smartrecruiters.com/RRDonnelley/744000163264999-mail-services-specialist-1) | Logan, UT, us | $15.31 to $16.06/hour | 2026-11-24 |  |
+| Serán BioScience | [Materials Specialist I](https://jobs.lever.co/seranbio/0ba58657-2cc2-4500-8a8c-af8f1e864fa0) | Bend, Oregon |  | 2026-11-24 | no visa sponsorship |
+| SpaceX | [Propulsion Engineer, Components Manufacturing Fabrication (Raptor)](https://boards.greenhouse.io/spacex/jobs/8959423002?gh_jid=8959423002) | Hawthorne, CA | $100,000 to $160,000 | 2026-11-24 | US citizens/persons only |
+| SpaceX | [Structures Technician (Falcon Integration West) - 1st Shift](https://boards.greenhouse.io/spacex/jobs/8955926002?gh_jid=8955926002) | Vandenberg, CA | $23 to $41.75/hour | 2026-11-24 | US citizens/persons only |
+| Vast | [Materials Testing Technician](https://boards.greenhouse.io/vast/jobs/4731837006?gh_jid=4731837006) | Long Beach, California, United States | $22.87 to $47.35/hour | 2026-11-24 |  |
+| Williams | [Associate Pipeline Controller](https://williams.wd5.myworkdayjobs.com/External/job/TX-Houston---Tower/Associate-Pipeline-Controller_R113117) | TX Houston - Tower |  | 2026-11-24 |  |
+| Worley | [Rotational Graduate Engineer - Mechanical](https://jobs.worley.com/careers/job/1133915649652) | Charleston, WV, US |  | 2026-11-24 |  |
+| Xcite Automotive | [Automotive Junior Detailer](https://xciteauto.breezy.hr/p/91629e07cdf9-automotive-junior-detailer) | Charleston, SC |  | 2026-11-24 |  |
+| Penumbra | [Supplier Quality Engineer I](https://jobs.lever.co/penumbrainc/7560d0e1-166e-4bdd-ad8e-f0b871b3f83d) | Alameda, CA | $76,000 to $100,000 | 2026-11-24 |  |
+| Sierra Space | [Mechanical Engineer I](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26521-1) | Louisville, CO | $77,234 to $106,196.75 | 2026-11-24 |  |
+| Sierra Space | [Mechanical Engineer I (Environmental/Propulsion)](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Middleton-WI/Mechanical-Engineer-I--Environmental-Propulsion-_R26418-1) | Middleton, WI | $70,213 to $96,542.50 | 2026-11-24 |  |
+| Blue Origin | [Sr. Systems Engineer, Spacecraft Guidance Navigation & Control (GN&C)-Project Sunrise](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Denver-CO/Sr-Systems-Engineer--Spacecraft-Guidance-Navigation---Control--GN-C--Project-Sunrise_R75628) | Denver, CO | $133,500 to $203,263.20 | 2026-11-24 | US citizens/persons only |
+| Siemens | [Electro Mechanical Inspector](https://jobs.siemens.com/en_US/externaljobs/JobDetail/530345) | Raleigh, North Carolina, United States of America | $22.46/hour | 2026-11-24 |  |
+| Hyundai Motor America | [Infotainment UI/UX Design Engineer](https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-UIUX-Design-Engineer-MI-48198/1452561200/) | Superior Charter Township, MI, US |  | 2026-11-24 |  |
+| Allegiant | [Flight Attendant - BNA](https://jobs.lever.co/allegiantair/88da6f74-a16b-4f33-af3c-99aa8bbedf6e) | Nashville, TN | $31.01/hour | 2026-11-24 |  |
+| Allegiant | [Flight Attendant - PIT](https://jobs.lever.co/allegiantair/a33bf271-95d8-4717-8573-4538a172bc99) | Pittsburgh, PA | $31.01/hour | 2026-11-24 |  |
+| Allegiant | [Flight Attendant - VPS](https://jobs.lever.co/allegiantair/b7a7c409-001c-4d8a-bad0-e697b2565802) | Eglin AFB, FL | $31.01/hour | 2026-11-24 |  |
+| CaptiveAire | [Commercial HVAC Service Technician](https://www.captiveaire.com/Careers/Opening.asp?id=8944973002&gh_jid=8944973002) | Cincinnati, OH |  | 2026-11-24 |  |
+| Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8382874) | Plainfield, IN |  | 2026-11-24 | no visa sponsorship |
+| Pickle Robot | [Junior Systems Engineer](https://jobs.lever.co/picklerobot/7ba1e281-6f42-4c05-a898-01529866eebc) | Charlestown, MA |  | 2026-11-24 |  |
+| Varda | [Spacecraft Guidance, Navigation, and Controls (GNC) Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/8015207003) | El Segundo, California, United States | $131,494 to $184,026 | 2026-11-24 | US citizens/persons only |
+| Allegiant | [Flight Attendant - IND](https://jobs.lever.co/allegiantair/bc118b37-aa7c-40e8-ab39-2d2e3fa44e19) | Indianapolis, IN | $31.01/hour | 2026-11-24 |  |
 | Anduril Industries | [Mission Systems Engineer, Early Career](https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007) | Costa Mesa, California, United States | $117,000 to $150,000 | 2026-11-21 | clearance |
 | Anduril Industries | [Radar Systems Engineer, Early Career](https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007) | Costa Mesa, California, United States | $117,000 to $150,000 | 2026-11-21 | clearance |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633520) | Austin,TX | $20 to $27.50/hour | 2026-11-21 |  |
@@ -24,6 +79,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633507) | Austin,TX | $20 to $27.50/hour | 2026-11-21 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633519) | Austin,TX | $20 to $27.50/hour | 2026-11-21 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633502) | Austin,TX | $20 to $27.50/hour | 2026-11-21 |  |
+| Base Power | [Manufacturing Engineer](https://jobs.ashbyhq.com/base-power/2fdd769b-f0d2-4527-b552-919fa14db127) | Austin, TX |  | 2026-11-21 |  |
 | Blue Origin | [Engineer - Launch Operations I](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Engineer---Launch-Operations-I_R76183) | Space Coast, FL |  | 2026-11-21 | US citizens/persons only |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8406638) | Sacramento, CA | $19/hour | 2026-11-21 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8406647) | York, PA | $15/hour | 2026-11-21 | no visa sponsorship |
@@ -47,14 +103,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpaceX | [New Graduate Engineer, Propulsion (Raptor)](https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002) | Hawthorne, CA | $100,000 to $130,000 | 2026-11-21 | US citizens/persons only |
 | SpaceX | [Structures Technician (Composites)](https://boards.greenhouse.io/spacex/jobs/8955803002?gh_jid=8955803002) | Hawthorne, CA | $23 to $38/hour | 2026-11-21 | US citizens/persons only |
 | SpaceX | [Supplier Development Engineer, Mechanical (Starlink)](https://boards.greenhouse.io/spacex/jobs/8957263002?gh_jid=8957263002) | Bastrop, TX |  | 2026-11-21 | US citizens/persons only |
-| Carvana | [Entry-Level Automotive Parts Associate](https://www.carvana.com/careers/apply?gh_jid=8382827) | University Park, IL | $17.50 to $18.50/hour | 2026-11-21 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8357251) | Orlando, FL | $16/hour | 2026-11-21 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8356143) | Chesterfield, VA | $18/hour | 2026-11-21 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Parts Associate](https://www.carvana.com/careers/apply?gh_jid=8356260) | Haines City, FL | $16/hour | 2026-11-21 | no visa sponsorship |
-| Carvana | [Automotive Detailer / Lot Attendant - Entry Level](https://www.carvana.com/careers/apply?gh_jid=8350079) | Bessemer, AL | $15/hour | 2026-11-21 | no visa sponsorship |
+| Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8357251) | Orlando, FL | $16/hour | 2026-11-21 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8351337) | Charlotte, NC | $17/hour | 2026-11-21 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8350099) | West Memphis, AR | $15 to $16/hour | 2026-11-21 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8350111) | Winder, GA | $15 to $16/hour | 2026-11-21 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Parts Associate](https://www.carvana.com/careers/apply?gh_jid=8346957) | Concord, NC | $17/hour | 2026-11-21 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Parts Associate](https://www.carvana.com/careers/apply?gh_jid=8315924) | Orlando, FL | $16/hour | 2026-11-21 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8256775) | Chesterfield, VA | $17 to $18/hour | 2026-11-21 | no visa sponsorship |
@@ -66,25 +118,23 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Carvana | [Automotive Detailer / Lot Attendant - Entry Level](https://www.carvana.com/careers/apply?gh_jid=8403554) | Portland, OR | $19/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Automotive Rim Repair (2nd Shift) - Rocklin, CA](https://www.carvana.com/careers/apply?gh_jid=8403465) | Rocklin, CA |  | 2026-11-20 | no visa sponsorship |
 | Carvana | [Automotive Wheel Repair Technician (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8403304) | Plainfield, IN |  | 2026-11-20 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8403532) | Chandler, AZ | $16/hour | 2026-11-20 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8403580) | Tolleson, AZ | $16 to $17/hour | 2026-11-20 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8403549) | Dallas, TX | $16 to $17/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8403569) | Seattle, WA | $19/hour | 2026-11-20 | no visa sponsorship |
+| Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8403580) | Tolleson, AZ | $16 to $17/hour | 2026-11-20 | no visa sponsorship |
+| Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8403532) | Chandler, AZ | $16/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8402842) | Syracuse, NY | $17 to $18/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant - 2nd shift](https://www.carvana.com/careers/apply?gh_jid=8403540) | Chandler, AZ | $16/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant - 2nd Shift](https://www.carvana.com/careers/apply?gh_jid=8403979) | Plainfield, IN | $17/hour | 2026-11-20 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8404050) | Akron, NY | $18/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8403529) | Blue Mound, TX | $16 to $17/hour | 2026-11-20 | no visa sponsorship |
+| Carvana | [Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8404050) | Akron, NY | $18/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8403553) | Dallas, TX | $16/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8403527) | Plainfield, Indiana | $16 to $17/hour | 2026-11-20 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8403556) | Portland, OR | $20/hour | 2026-11-20 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8403566) | San Antonio, TX | $15/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8403503) | Hazelwood, MO | $16 to $17/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8403582) | Tolleson, AZ |  | 2026-11-20 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8402815) | Orlando, FL | $17/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8402802) | Chesterfield, VA | $18 to $19/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8402790) | Fairburn, GA | $16/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8404107) | Hoffman Estates, IL | $17.50/hour | 2026-11-20 | no visa sponsorship |
+| Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8403556) | Portland, OR | $20/hour | 2026-11-20 | no visa sponsorship |
+| Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8403566) | San Antonio, TX | $15/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Parts Associate](https://www.carvana.com/careers/apply?gh_jid=8318889) | Tracy, CA | $19/hour | 2026-11-20 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Parts Associate - 2nd shift](https://www.carvana.com/careers/apply?gh_jid=8403596) | Rocklin, CA | $19 to $20/hour | 2026-11-20 | no visa sponsorship |
 | Champions Group Holdings | [HVAC Maintenance Technician](https://job-boards.greenhouse.io/championsgroupholdings/jobs/5490051008) | Denver, CO | $20 to $25/hour | 2026-11-20 |  |
@@ -129,7 +179,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Carvana | [Entry-Level Automotive Parts Associate - 2nd Shift](https://www.carvana.com/careers/apply?gh_jid=8399470) | Belton, MO |  | 2026-11-19 | no visa sponsorship |
 | Door Controls | [Mechanical Designer I](https://ats.rippling.com/door-controls-usa/jobs/52318a46-fe64-4e8d-9a9b-879676b28765) | Ben Wheeler, TX |  | 2026-11-19 |  |
 | Elemental Brands | [Manufacturing Inspector I](https://jobs.smartrecruiters.com/ElementalLEDInc/3743990016941686--manufacturing-inspector-i) | Reno, NV, us |  | 2026-11-19 |  |
-| Google | [Technical Program Manager I, Colocation Infrastructure, Cloud Networking](https://www.google.com/about/careers/applications/jobs/results/117155667944317638) | Reston, VA, USA / Thornton, CO, USA | $116,000 to $165,000 | 2026-11-19 |  |
 | McCarthy Bush | [Mine Production Trainee - Linwood Mining and Minerals Corporation](https://mcbcorp.bamboohr.com/careers/589) | Davenport, Iowa, United States | $22.50/hour | 2026-11-19 |  |
 | Oetiker | [Manufacturing Associate (2nd Shift - Evenings)](https://jobs.smartrecruiters.com/Oetiker/744000162337566-manufacturing-associate-2nd-shift-evenings-) | 1 Mill St, Batavia, New York, us | $38,000 to $42,000 | 2026-11-19 |  |
 | Pneu-Dart | [Drafting & Design Engineer](https://pneudart.bamboohr.com/careers/142) | Williamsport, Pennsylvania, United States |  | 2026-11-19 |  |
@@ -172,7 +221,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | John Hancock (Manulife) | [Investment Analyst - Infrastructure](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Investment-Analyst---Infrastructure_JR26101364) | Boston, Massachusetts | $88,500 to $159,500 | 2026-11-17 |  |
 | Kinder Morgan | [Pipeliner Entry - Orange](https://careers.kindermorgan.com/careers-home/jobs/6959) | ORANGE, California | $33 to $47/hour | 2026-11-17 |  |
 | Siemens | [Systems Inspector - Fire Alarm](https://jobs.siemens.com/en_US/externaljobs/JobDetail/529556) | St. Louis, Missouri, United States of America | $40,375 to $69,214 | 2026-11-17 | no visa sponsorship |
-| Abbott | [Mechanical Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Mechanical-Engineer_31167604-2) | United States - California - Sylmar | $73,900 to $116,000 | 2026-11-17 |  |
 | Air Liquide | [Plant Engineer](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Nederland-TX---ASU/Plant-Engineer_R10104953) | Nederland, TX - ASU |  | 2026-11-17 | no visa sponsorship |
 | Airbus | [Cabin Systems Engineer I (Contract)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Cabin-Systems-Engineer-I--Contract-_JR10451486) | Mobile Area, AL |  | 2026-11-17 |  |
 | Applied Medical | [Quality Engineer I/II - DCRM](https://careers.appliedmedical.com/careers-home/jobs/15319) | Rancho Santa Margarita, California | $72,500 to $90,000 | 2026-11-17 |  |
@@ -181,7 +229,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Dayton Granger, Inc. | [Manufacturing Assembler – Soldering & Paint Touch-Up](https://dayton-granger-inc.breezy.hr/p/cef2060af43e-manufacturing-assembler-soldering-paint-touch-up) | Fort Lauderdale, FL |  | 2026-11-17 | US citizens/persons only |
 | Dell | [Quality Engineer 1](https://jobs.dell.com/en/sites/CX_1/job/296573) | Franklin, MA, United States | $66,080 to $90,860 | 2026-11-17 |  |
 | Divergent | [Robotics Operator](https://job-boards.greenhouse.io/divergent/jobs/5484072008) | Long Beach, California, United States; Torrance, California, United St | $39 to $55/hour | 2026-11-17 |  |
-| Ford | [Manufacturing Engineer- Prismatic Machining](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74468) | United States | $63,480 | 2026-11-17 |  |
 | Johnson & Johnson | [Lentivirus Manufacturing Operator](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Lentivirus-Manufacturing-Operator_R-105888) | Raritan, New Jersey, United States of America | $47,245 to $75,900 | 2026-11-17 |  |
 | Johnson & Johnson | [Associate Manufacturing Engineer](https://jj.wd5.myworkdayjobs.com/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Associate-Manufacturing-Engineer_R-111395-1) | Anasco, Puerto Rico, United States of America |  | 2026-11-17 |  |
 | KLA | [Opto-Mechanical Design Engineer (Precision Mechanism Design)](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Opto-Mechanical-Design-Engineer--Precision-Mechanism-Design-_2643204-1) | Milpitas, CA | $95,000 to $161,500 | 2026-11-17 |  |
@@ -204,9 +251,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Airbus | [Aerospace Avionics Customer Support Engineer (Contract)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Aerospace-Avionics-Customer-Support-Engineer--Contract-_JR10452844) | Mobile Area, AL |  | 2026-11-16 |  |
 | Johnson & Johnson | [CAR T Manufacturing Operator](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/CAR-T-Manufacturing-Operator_R-108506) | Raritan, New Jersey, United States of America | $47,245 to $75,900 | 2026-11-16 |  |
 | Ally Financial | [Mechanical Claims Specialist](https://ally.wd1.myworkdayjobs.com/Ally/job/Schaumburg-IL/Mechanical-Claims-Specialist_R2601215) | Schaumburg, IL | $57,200 to $76,086 | 2026-11-15 |  |
-| Ally Financial | [Mechanical Claims Specialist](https://ally.wd1.myworkdayjobs.com/Ally/job/Schaumburg-IL/Mechanical-Claims-Specialist_R2601327) | Schaumburg, IL | $57,200 to $76,086 | 2026-11-15 |  |
-| Ally Financial | [Mechanical Claims Specialist](https://ally.wd1.myworkdayjobs.com/Ally/job/Schaumburg-IL/Mechanical-Claims-Specialist_R2601326) | Schaumburg, IL | $57,200 to $76,086 | 2026-11-15 |  |
-| Ally Financial | [Mechanical Claims Specialist](https://ally.wd1.myworkdayjobs.com/Ally/job/Schaumburg-IL/Mechanical-Claims-Specialist_R2601328-1) | Schaumburg, IL | $57,200 to $76,086 | 2026-11-15 |  |
 | Micron | [New College Grad - Design Engineer](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Design-Engineer_JR117605) | San Jose, CA | $86,000 to $173,000 | 2026-11-15 |  |
 | Rockwell Automation | [Mechanical Design Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Mechanical-Design-Engineer_R26-8610-1) | Chelmsford, Massachusetts, United States | $69,600 to $104,400 | 2026-11-15 | no visa sponsorship |
 | Fluor | [Infrastructure Construction Engineer- New Grad](https://careers.fluor.com/careers/job/1099556827326) | Austin, US-TX, United States | $53,500 to $99,500 | 2026-11-15 |  |
@@ -224,7 +268,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpaceX | [Inventory Specialist - Multiple Shifts](https://boards.greenhouse.io/spacex/jobs/8943143002?gh_jid=8943143002) | Hawthorne, CA | $22 to $31.50/hour | 2026-11-14 | US citizens/persons only |
 | SpaceX | [Inventory Specialist (Starship)](https://boards.greenhouse.io/spacex/jobs/8939982002?gh_jid=8939982002) | Starbase, TX |  | 2026-11-14 | US citizens/persons only |
 | Ursa Major | [Product Quality Engineer, In-Space Propulsion](https://ursamajor.com/careers/?gh_jid=4753851005) | Berthoud, Colorado | $75,000 | 2026-11-14 | US citizens/persons only |
-| XNRGY Climate Systems | [Jr. HVAC Technician - Night Shift - Claude, TX](https://jobs.ashbyhq.com/xnrgy-climate-systems/568e12c2-2555-4fd9-a6b7-ab24501153c5) | Amarillo | $32 to $36/hour | 2026-11-14 |  |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8351079) | Yaphank, NY | $19 to $20/hour | 2026-11-14 | no visa sponsorship |
 | Forgen | [CAD Technician](https://job-boards.greenhouse.io/forgen/jobs/5254610007) | Denton, Texas |  | 2026-11-14 |  |
 | Trilon Group | [Entry Level Mechanical Engineer (HVAC)](https://trilongroup.pinpointhq.com/en/postings/9812dbf4-8e32-436c-b4b3-41afa6c03af1) | Hartford, Connecticut (hybrid) |  | 2026-11-14 | no visa sponsorship |
@@ -239,7 +282,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Carvana | [Automotive Wheel Repair Technician (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8384098) | Tolleson, AZ |  | 2026-11-13 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8383677) | Houston, TX | $16 to $17/hour | 2026-11-13 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8383664) | Blue Mound, TX | $16 to $17/hour | 2026-11-13 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Parts Associate](https://www.carvana.com/careers/apply?gh_jid=8383611) | Elyria, OH | $16/hour | 2026-11-13 | no visa sponsorship |
 | Caterpillar | [Associate Design Engineer](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Associate-Design-Engineer_R0000403399) | Alpharetta, Georgia | $81,370 to $122,060 | 2026-11-13 | no visa sponsorship |
 | Entegris | [Engineer I, Manufacturing Engineer](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/San-Luis-Obispo-CA/Engineer-I--Manufacturing-Engineer_REQ-13851) | San Luis Obispo, CA |  | 2026-11-13 |  |
 | Eurofins | [2nd shift Mechanical Maintenance Specialist](https://jobs.smartrecruiters.com/Eurofins/744000161378355-2nd-shift-mechanical-maintenance-specialist) | Lancaster, PA, us |  | 2026-11-13 |  |
@@ -259,7 +301,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpaceX | [Manufacturing Engineer, Machining (Starship)](https://boards.greenhouse.io/spacex/jobs/8939418002?gh_jid=8939418002) | Hawthorne, CA | $100,000 to $160,000 | 2026-11-13 | US citizens/persons only |
 | SpaceX | [Manufacturing Engineer (Starship Components Operations)](https://boards.greenhouse.io/spacex/jobs/8939815002?gh_jid=8939815002) | Hawthorne, CA | $100,000 to $160,000 | 2026-11-13 | US citizens/persons only |
 | Synopsys | [Applications Engineer, Aerospace & Defense](https://synopsys.avature.net/careers/JobDetail/Applications-Engineering-Sr-Engineer-19662/19662) | USA Off-Site |  | 2026-11-13 |  |
-| Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8347996) | Elyria, OH | $16/hour | 2026-11-13 | no visa sponsorship |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633432) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633433) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
 | Applied Materials | [Manufacturing Technician](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician_R2633434) | Austin,TX | $20 to $27.50/hour | 2026-11-12 |  |
@@ -326,7 +367,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8382910) | Greenfield, IN | $16/hour | 2026-11-12 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8382893) | Belton, MO | $16/hour | 2026-11-12 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8382885) | Manville, NJ | $17/hour | 2026-11-12 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8382905) | Greenfield, IN | $16/hour | 2026-11-12 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Parts Associate](https://www.carvana.com/careers/apply?gh_jid=8382839) | Trenton, OH | $17 to $18/hour | 2026-11-12 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Parts Associate - 2nd Shift](https://www.carvana.com/careers/apply?gh_jid=8382889) | Heath, OH | $16 to $17/hour | 2026-11-12 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Parts Associate (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8382883) | Greenfield, IN | $16/hour | 2026-11-12 | no visa sponsorship |
@@ -359,8 +399,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant](https://www.carvana.com/careers/apply?gh_jid=8287582) | Long Island, NY |  | 2026-11-11 | no visa sponsorship |
 | Ford | [ESE Reliability Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73528) | Dearborn, MI, United States | $84,480 to $162,120 | 2026-11-11 | no visa sponsorship |
 | KLA | [Electro-Mechanical Assembler 2 - 2nd Shift](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Electro-Mechanical-Assembler-2---2nd-Shift_2637332-1) | Totowa, NJ | $16.93 to $28.75/hour | 2026-11-11 |  |
-| Legend Biotech US | [Procurement Operations Specialist, Pipeline (Contractor)](https://job-boards.greenhouse.io/legendcareers/jobs/4752923005) | Somerset, New Jersey, United States |  | 2026-11-11 |  |
 | Legend Biotech US | [Procurement Operations Specialist, Pipeline (Contractor)](https://job-boards.greenhouse.io/legendcareers/jobs/4752911005) | Philadelphia, Pennsylvania, United States |  | 2026-11-11 |  |
+| Legend Biotech US | [Procurement Operations Specialist, Pipeline (Contractor)](https://job-boards.greenhouse.io/legendcareers/jobs/4752923005) | Somerset, New Jersey, United States |  | 2026-11-11 |  |
 | LotusWorks | [Junior Mechanical Commissioning Engineer](https://job-boards.eu.greenhouse.io/lotusworks/jobs/5032630101) | New Albany, Ohio, United States |  | 2026-11-11 |  |
 | LotusWorks | [Junior Welding Inspector](https://job-boards.eu.greenhouse.io/lotusworks/jobs/5029168101) | New Albany, Ohio, United States |  | 2026-11-11 |  |
 | MKS Instruments | [Associate Manufacturing Engineer](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Broomfield-CO/Associate-Manufacturing-Engineer_R23451) | Broomfield, CO | $62,000 to $75,000 | 2026-11-11 | no visa sponsorship, US citizens/persons only |
@@ -380,7 +420,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | UT Dallas | [Systems Engineer I](https://jobs.utdallas.edu/postings/33219) | Dallas, TX | $55,000 to $62,000 | 2026-11-11 |  |
 | Willow Innovations | [Associate Manufacturing Engineer (Contract)](https://job-boards.greenhouse.io/willowinnovations/jobs/6250239004) | Mountain View, CA | $25/hour | 2026-11-11 |  |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8328870) | Haines City, FL | $16/hour | 2026-11-11 | no visa sponsorship |
-| Carvana | [Entry-Level Automotive Parts Associate (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8310690) | Long Island, NY | $19/hour | 2026-11-11 | no visa sponsorship |
 | Quest Defense Systems & Solutions, Inc. | [Mechanical Designer and Drafter - Secret Clearance](https://www.quest-defense.com/careers/life-at-quest-defense/current-opportunities/?gh_jid=5215732007) | Cincinnati, OH | $66,000 to $73,000 | 2026-11-11 | US citizens/persons only, clearance |
 | Reliable Safety and Flow Corporation | [JR. Tooling Designer](https://reliablesfc.pinpointhq.com/en/postings/6d3907ec-4225-4f99-9d1d-1b766b1340e2) | Columbia, Pennsylvania |  | 2026-11-11 |  |
 | Caterpillar | [Corinth Reman Manufacturing Engineering Technician I (1st shift)](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Corinth-Mississippi/Corinth-Reman-Manufacturing-Engineering-Technician-I--1st-shift-_R0000404626) | Corinth, Mississippi | $22.90 to $29.80/hour | 2026-11-10 | no visa sponsorship |
@@ -394,7 +433,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Carvana | [Automotive Rim Repair Tech](https://www.carvana.com/careers/apply?gh_jid=8369200) | Tooele, UT |  | 2026-11-10 | no visa sponsorship |
 | Carvana | [Automotive Rim Repair Technician - San Antonio, TX - 2nd shift](https://www.carvana.com/careers/apply?gh_jid=8366074) | San Antonio, TX |  | 2026-11-10 | no visa sponsorship |
 | Decision Technologies, Inc. | [Copy of Junior Mechanical Engineer (Aerospace)](https://ats.rippling.com/decision-technologies-inc/jobs/179b2661-b8da-48db-9fd0-96effcc1d037) | Louisvill, KY |  | 2026-11-10 | US citizens/persons only, clearance |
-| Divergent | [Manufacturing Technician Hiring Event - Saturday, November 21](https://job-boards.greenhouse.io/divergent/jobs/5474691008) | Long Beach, California, United States; Torrance, California, United St | $30 to $70/hour | 2026-11-10 |  |
 | Eurofins | [Manufacturing Quality Specialist (Entry Level 2nd Shift)](https://jobs.smartrecruiters.com/Eurofins/744000160621479-manufacturing-quality-specialist-entry-level-2nd-shift-) | Louisville, KY, us |  | 2026-11-10 |  |
 | Forgen | [CAD Technician](https://job-boards.greenhouse.io/forgen/jobs/5287760007) | West Palm Beach, Florida |  | 2026-11-10 |  |
 | Hyundai Motor America | [Associate, Regional Vehicle Distribution](https://careers-americas.hyundai.com/hma/job/Jersey-City-Associate%2C-Regional-Vehicle-Distribution-NJ-07302/1449178200/) | Jersey City, NJ, US |  | 2026-11-10 |  |
@@ -406,8 +444,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpaceX | [Propulsion Analyst, Chamber and Nozzle (Raptor)](https://boards.greenhouse.io/spacex/jobs/8935834002?gh_jid=8935834002) | Hawthorne, CA | $100,000 to $160,000 | 2026-11-10 | US citizens/persons only |
 | UT Dallas | [HVAC Technician](https://jobs.utdallas.edu/postings/33199) | Dallas, TX | $55,000 to $62,400 | 2026-11-10 |  |
 | UT Dallas | [HVAC Technician](https://jobs.utdallas.edu/postings/33203) | Richardson, TX | $55,000 to $62,400 | 2026-11-10 |  |
-| Uft | [Electromechanical Design Engineer I– Power Distribution Equipment](https://jobs.lever.co/uft/9de481da-ed1b-4935-bc8f-b6ae56953832) | Sacramento, CA |  | 2026-11-10 |  |
-| Howard Air | [HVAC Maintenance Trainee - Sales](https://job-boards.greenhouse.io/howardair/jobs/5470441008) | Phoenix, AZ | $60,000 to $80,000 | 2026-11-10 |  |
 | Rocket Lab | [Systems Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8054797003) | Long Beach, CA | $82,400 to $113,300 | 2026-11-10 | US citizens/persons only |
 | Continental | [Industrial Engineer](https://jobs.smartrecruiters.com/Continental/744000160623389-industrial-engineer) | Mount Vernon, IL, us | $75,000 | 2026-11-09 | no visa sponsorship |
 | Honda | [Supplier Quality Engineer](https://careers.honda.com/us/en/job/13356) | Greensburg, Indiana, United States |  | 2026-11-09 |  |
@@ -490,6 +526,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Harlem Children's Zone | [STEM/Robotics Specialist](https://apply.workable.com/j/13CC1C28D0) | New York, New York, United States | $25 to $30/hour | 2026-11-06 |  |
 | TikTok | [US Commercial Infrastructure Management Graduate (Global Procurement) - 2027 Start (MBA)](https://lifeattiktok.com/search/7668180925700065589) | Seattle, Washington, United States of America |  | 2026-11-06 |  |
 | Green Valley Cooling & Heating | [HVAC Maintenance Technician](https://greenvalleycooling.bamboohr.com/careers/73) | Green Valley, Arizona, United States |  | 2026-11-05 |  |
+| Johnson Controls Federal Systems | [HVAC Controls Systems Technician - Entry Level (Job number: 1683)](https://jcifederal.bamboohr.com/careers/1683) | Fort Stewart, Georgia, United States | $23 to $30/hour | 2026-11-05 | clearance |
 | American AC Heat & Plumbing | [ENTRY LEVEL HVAC TECHNICIAN](https://american-air-conditioning-heating.breezy.hr/p/8c39b910ca06-entry-level-hvac-technician) | Van Nuys, CA | $22/hour | 2026-11-05 |  |
 | American AC Heat & Plumbing | [ENTRY LEVEL HVAC TECHNICIAN](https://american-air-conditioning-heating.breezy.hr/p/0949c03217e3-entry-level-hvac-technician) | Hawthorne, CA | $22/hour | 2026-11-05 |  |
 | Amgen | [Manufacturing Process Tech-Manufacturing Services Nights (D Shift)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Rhode-Island---West-Greenwich/Manufacturing-Process-Tech-Manufacturing-Services-Nights--D-Shift-_R-260530-1) | US - Rhode Island - West Greenwich |  | 2026-11-05 |  |
@@ -513,7 +550,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Seakeeper Inc | [Manufacturing Engineer](https://seakeeper.bamboohr.com/careers/655) | Leesport, Pennsylvania, United States |  | 2026-11-05 |  |
 | Synergy Companies | [HVAC Install Helper](https://synergycompanies.bamboohr.com/careers/374) | Fresno, California, United States |  | 2026-11-05 |  |
 | SQA Services | [Aerospace Visual Inspector (Entry Level)](https://jobs.lever.co/sqaservices/19e94df8-3c32-42aa-9e0e-f1a9cedce6dc) | Wichita, KS |  | 2026-11-05 | US citizens/persons only |
-| Tutor Intelligence | [Field Reliability Engineer](https://jobs.lever.co/tutorintelligence/07959a87-80a3-4149-a606-7fb80b43342f) | Watertown, MA | $90,000 | 2026-11-05 |  |
 | Fehr & Peers | [Entry-level Transportation Design Engineer](https://jobs.lever.co/fehrandpeers/09044abc-cc40-4a0f-8624-67d1b913790c) | Sacramento, California |  | 2026-11-05 |  |
 | Synergy Companies | [HVAC install helper](https://synergycompanies.bamboohr.com/careers/373) | Stockton , California, United States |  | 2026-11-05 |  |
 | OSARO | [Junior Mechatronics Engineer](https://jobs.lever.co/osaro/47d6dad3-7673-42cd-8054-90d24cadbb36) | San Francisco |  | 2026-11-05 | no visa sponsorship |
@@ -550,7 +586,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Delta /v/ Forensic Engineering | [Associate Biomechanical Engineer](https://deltavinc.bamboohr.com/careers/67) | Charlotte, North Carolina, United States |  | 2026-11-05 |  |
 | Specter Aerospace | [GNC Engineer I/II](https://specteraerospace.bamboohr.com/careers/136) | Peabody, Massachusetts, United States |  | 2026-11-05 | US citizens/persons only, clearance |
 | Electrified Thermal | [Structural Design Engineer](https://jobs.lever.co/ElectrifiedThermalSolutions/66d4614f-244e-448a-ae1e-f7dab084b499) | Charlestown, MA |  | 2026-11-05 |  |
-| Johnson Controls Federal Systems | [HVAC Controls Systems Technician - Entry Level](https://jcifederal.bamboohr.com/careers/1683) | Fort Stewart, Georgia, United States | $23 to $30/hour | 2026-11-05 | clearance |
 | aeis llc | [AWS Certified Welding Inspector](https://aeis.bamboohr.com/careers/201) | New York, New York, United States | $50 to $55/hour | 2026-11-05 | no visa sponsorship |
 | Sila Services | [HVAC Maintenance Technician](https://jobs.lever.co/sila/b34c2c02-3050-40bf-a069-f22ca50fa866) | Norfolk, VA |  | 2026-11-05 |  |
 | Forge Nano | [Manufacturing Technician I](https://forge-nano.breezy.hr/p/7cff3ac06a9a-manufacturing-technician-i) | Thornton, CO | $22 to $27/hour | 2026-11-05 |  |
@@ -604,6 +639,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Astrolab | [Electromechanical Engineer (All-Levels)](https://astrolab.pinpointhq.com/en/postings/71d8e952-e972-4de0-9d94-db9891fe9790) | Hawthorne, CA |  | 2026-11-05 |  |
 | Astrolab | [Avionics Manufacturing Engineer (All Levels)](https://astrolab.pinpointhq.com/en/postings/d86b93ef-4c54-418f-bce7-9e8bbb734a21) | Hawthorne, CA |  | 2026-11-05 |  |
 | Lubrizol | [Automotive Mechanical Test Technician 1 1](https://jobs.lubrizol.com/job/Wickliffe-Automotive-Mechanical-Test-Technician-1-1-OH-44092-2298/1447674600/) | Wickliffe, OH, US |  | 2026-11-05 |  |
+| Skydio | [Product Design Engineer (Early Career)](https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1) | San Mateo, California, United States | $132,000 to $175,000 | 2026-11-04 |  |
 | Antares | [Mechanical Design Engineer - Space](https://jobs.ashbyhq.com/Antares/38087f67-5a2b-4c93-93a3-af5633f4b577) | Los Angeles | $104,000 to $150,000 | 2026-11-04 | US citizens/persons only, clearance |
 | Ruekert & Mielke, Inc | [Civil Design Engineer (Entry Level)](https://ruekertmielke.bamboohr.com/careers/323) | Madison, Wisconsin, United States |  | 2026-11-04 |  |
 | Ruekert & Mielke, Inc | [Civil Design Engineer (Entry Level)](https://ruekertmielke.bamboohr.com/careers/328) | Waukesha, Wisconsin, United States |  | 2026-11-04 |  |
@@ -615,7 +651,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | RR Donnelley | [Platemaker_KR](https://jobs.smartrecruiters.com/RRDonnelley/744000159692117-platemaker-kr-) | St Charles, IL, us | $18.69 to $27.60/hour | 2026-11-04 |  |
 | US Conec, Ltd. | [Materials & Logistics Associate](https://job-boards.greenhouse.io/usconec/jobs/4479250009) | Fort Worth, Texas, United States |  | 2026-11-04 | no visa sponsorship |
 | Xcite Automotive | [Automotive Junior Detailer](https://xciteauto.breezy.hr/p/d62209d3bb81-automotive-junior-detailer) | Alhambra, CA |  | 2026-11-04 |  |
-| Abbott | [Associate Manufacturing Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Associate-Manufacturing-Engineer_31166505) | United States - Texas - Irving | $50,700 to $101,300 | 2026-11-04 |  |
 | Blue Origin | [Electro - Mechanical Technician](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Longmont-CO/Electro---Mechanical-Technician_R69480) | Longmont, CO | $22.68 to $31.74/hour | 2026-11-04 | US citizens/persons only |
 | Boston Scientific | [Quality Engineer I](https://bostonscientific.eightfold.ai/careers/job/563602813361056) | Arden Hills, MN, US (hybrid) |  | 2026-11-04 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://www.carvana.com/careers/apply?gh_jid=8351088) | Long Island, NY | $19/hour | 2026-11-04 | no visa sponsorship |
@@ -657,11 +692,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | True Anomaly | [Harness Engineer I](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5272878007) | Denver, CO; Long Beach, CA | $75,000 to $110,000 | 2026-11-04 | US citizens/persons only |
 | Verista, Inc. | [6590 - CQV Engineer - Change Control](https://job-boards.greenhouse.io/veristainc/jobs/5463351008) | Indianapolis, IN | $69,300 to $102,623 | 2026-11-04 |  |
 | Xcite Automotive | [Automotive Jr Detailer](https://xciteauto.breezy.hr/p/e216f8894098-automotive-jr-detailer) | Hardeeville, SC |  | 2026-11-04 |  |
-| Neros Technologies | [Mechanical Engineer](https://job-boards.greenhouse.io/nerostechnologies/jobs/5274007007) | Torrance, California, United States | $100,000 to $160,000 | 2026-11-04 |  |
-| Olsson | [Telecom CAD Designer](https://job-boards.greenhouse.io/olsson/jobs/5462164008) | Overland Park, KS |  | 2026-11-04 |  |
+| Neros Technologies | [Mechanical Engineer](https://job-boards.greenhouse.io/nerostechnologies/jobs/5274007007) | Torrance, California, United States | $97,500 to $136,000 | 2026-11-04 |  |
 | Olsson | [Telecom CAD Designer](https://job-boards.greenhouse.io/olsson/jobs/5462223008) | Dallas, TX |  | 2026-11-04 |  |
+| Olsson | [Telecom CAD Designer](https://job-boards.greenhouse.io/olsson/jobs/5462164008) | Overland Park, KS |  | 2026-11-04 |  |
 | Burns Engineering, Inc. | [Early Career Mechanical Design Associate - 2026/2027 Grad](https://www.burns-group.com/careers/current-openings/?gh_jid=4464467009) | Philadelphia, PA |  | 2026-11-04 |  |
-| Rivian and Volkswagen Group Technologies | [Systems Integration Engineer](https://jobs.ashbyhq.com/rivianvw.tech/f20b60d2-b86d-40ce-bc7d-a1b05997e5c2) | Irvine, California |  | 2026-11-04 |  |
 | City of New York | [ASSISTANT DESIGN ENGINEER 1](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016295824-assistant-design-engineer-1) | Queens, NY, us |  | 2026-11-04 |  |
 | Custom Computer Specialists | [Associate Systems Engineer](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4452111009) | Hauppauge, NY | $60,000 to $70,000 | 2026-11-04 |  |
 | True Anomaly | [Propulsion Engineer I (New Grad)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271680007) | Denver, CO | $90,000 | 2026-11-04 | US citizens/persons only |
@@ -673,14 +707,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Beck Automotive Group | [Automotive Wholesale Parts Counterman Trainee](https://beckautogroup.bamboohr.com/careers/120) | Palatka, Florida, United States | $18/hour | 2026-11-04 | no visa sponsorship |
 | Domino's | [Delivery Driver - Provided Company Fleet Vehicle (06078) - 14604 Main St.](https://jobs.smartrecruiters.com/Dominos/744000156432939-delivery-driver-provided-company-fleet-vehicle-06078-14604-main-st-) | Upper Marlboro, MD, us |  | 2026-11-04 |  |
 | Domino's | [Delivery Driver - Provided Company Fleet Vehicle (06029) - 9546 Crain Hwy](https://jobs.smartrecruiters.com/Dominos/744000156432819-delivery-driver-provided-company-fleet-vehicle-06029-9546-crain-hwy) | Upper Marlboro, MD, us |  | 2026-11-04 |  |
-| Mural Group | [Manufacturing Quality Engineer](https://jobs.ashbyhq.com/themuralgroup/a6a1c80b-094d-4341-8622-af6d61016b3a) | Western Kentucky |  | 2026-11-04 |  |
 | North Wind Group | [Structural Design Engineer 04271 LBYD](https://north-wind-group.breezy.hr/p/86418fbecf6b-structural-design-engineer-04271-lbyd) | BIRMINGHAM, AL |  | 2026-11-04 | clearance |
 | Hankook Tire | [Entry Level Manufacturing Engineer](https://careers-hankooktire.breezy.hr/p/6f829b7570fb-entry-level-manufacturing-engineer) | Clarksville, TN |  | 2026-11-04 |  |
 | Bradshaw Home | [Junior Product Design Engineer](https://bradshaw-home.breezy.hr/p/3103b46bd5a2-junior-product-design-engineer) | Tampa, FL | $68,000 to $75,000 | 2026-11-04 |  |
 | Saronic Technologies | [Associate IT Systems Engineer](https://jobs.ashbyhq.com/saronic/846faa91-763f-4c16-aec5-2cd48830d3ff) | Austin, TX |  | 2026-11-04 | US citizens/persons only |
 | Valinor Enterprises, Inc. | [Junior Mechanical Engineer](https://jobs.ashbyhq.com/valinor/68e88f2e-0e31-4e74-8e79-9ee25b3e787b) | Washington, D.C. |  | 2026-11-04 | clearance |
 | VulcanForms | [Associate NPI Manufacturing Equipment Development Engineer](https://ats.rippling.com/vulcanforms/jobs/a147a3bd-b089-4cb3-819f-2034558e1002) | Devens, MA | $95,000 | 2026-11-04 |  |
-| Skydio | [Product Design Engineer (Early Career)](https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1) | San Mateo, California, United States | $132,000 to $175,000 | 2026-11-04 |  |
 | Vulcan Elements | [Laboratory Technician – Materials Characterization](https://job-boards.greenhouse.io/vulcanelements/jobs/5442056008) | Research Triangle Park, NC |  | 2026-11-04 | US citizens/persons only |
 | Winid | [Trainee Quality Control Manufacturing](https://winid.teamtailor.com/jobs/8549616-trainee-quality-control-manufacturing) |  |  | 2026-11-04 |  |
 | Forge Biologics | [Technician I, GMP Manufacturing Support - Buffers (3rd Shift)](https://boards.greenhouse.io/forgebiologics/jobs/6215967004?gh_jid=6215967004) | Columbus, Ohio |  | 2026-11-04 |  |
@@ -693,8 +725,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Anduril Industries | [2027 Early Career Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) | Boston, Massachusetts, United States; Boulder, Colorado, United States | $100,000 to $130,000 | 2026-11-04 | US citizens/persons only |
 | Northwestern Memorial Healthcare | [Nuclear Med Tech Casual Rotating](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000154743629--nuclear-med-tech-casual-rotating) | Geneva, IL, us |  | 2026-11-04 |  |
 | queueinc | [Mechanical Engineer](https://jobs.ashbyhq.com/queueinc/43357196-2d43-45c9-bf67-b2f2c7960595) | HQ - Newark, CA |  | 2026-11-04 |  |
-| Burgess & Niple | [Bridge Inspection Engineer, EI/EIT](https://job-boards.greenhouse.io/burgessniple/jobs/4423944009) | Flagstaff, AZ; Phoenix, AZ |  | 2026-11-04 |  |
 | Burgess & Niple | [Bridge Inspection Engineer, EI/EIT](https://job-boards.greenhouse.io/burgessniple/jobs/4423926009) | Boise, ID; Portland, OR |  | 2026-11-04 |  |
+| Burgess & Niple | [Bridge Inspection Engineer, EI/EIT](https://job-boards.greenhouse.io/burgessniple/jobs/4423944009) | Flagstaff, AZ; Phoenix, AZ |  | 2026-11-04 |  |
 | Latitude AI | [Technical Vehicle Test Operator - Wittmann, AZ (Contract)](https://job-boards.greenhouse.io/latitude/jobs/8261184) | Wittmann, AZ |  | 2026-11-04 |  |
 | Westgate Resorts | [Trades I - HVAC](https://jobs.smartrecruiters.com/WestgateResorts/744000154140419-trades-i-hvac) | Gatlinburg, TN, us |  | 2026-11-04 |  |
 | Alamar Biosciences | [Manufacturing Associate I (Contract)](https://job-boards.greenhouse.io/alamarbiosciences/jobs/6218213004) | Fremont, California | $35 to $40/hour | 2026-11-04 |  |
@@ -718,41 +750,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CannonDesign | [Mechanical - Entry Level](http://www.cannondesign.com/careers/?gh_jid=8844837002) | Chicago, IL | $28.64 to $35.80/hour | 2026-11-04 |  |
 | Nemera | [Production Trainer](https://jobs.smartrecruiters.com/Nemera/744000151695630-production-trainer) | Vernon Hills, Illinois, us | $30/hour | 2026-11-04 |  |
 | City of New York | [ASSISTANT DESIGN ENGINEER 1](https://jobs.smartrecruiters.com/CityOfNewYork/3743990015552066-assistant-design-engineer-1) | Queens, NY, us |  | 2026-11-04 |  |
-| Cowboy Space Corp. | [TCA Mechanical Design Engineer Level 1](https://jobs.ashbyhq.com/cowboyspace/18481288-902d-4ecf-872b-eb5fd900cfab) | Kent, Washington | $100,000 to $150,000 | 2026-11-04 | US citizens/persons only |
+| Cowboy Space Corp. | [TCA Mechanical Design Engineer Level 1](https://jobs.ashbyhq.com/cowboyspace/18481288-902d-4ecf-872b-eb5fd900cfab) | Kent, Washington | $116,000 to $148,500 | 2026-11-04 | US citizens/persons only |
 | Domino's | [Delivery Driver - Provided Company Fleet Vehicle (04653) - 2950 Donnell Dr](https://jobs.smartrecruiters.com/Dominos/744000150688850-delivery-driver-provided-company-fleet-vehicle-04653-2950-donnell-dr) | Forestville, MD, us |  | 2026-11-04 |  |
 | Domino's | [Delivery Driver - Provided Company Fleet Vehicle (04644) - 9509 Livingston Rd](https://jobs.smartrecruiters.com/Dominos/744000150688949-delivery-driver-provided-company-fleet-vehicle-04644-9509-livingston-rd) | Fort Washington, MD, us |  | 2026-11-04 |  |
 | Striveworks | [Junior Quality Engineer](https://job-boards.greenhouse.io/striveworks/jobs/8001370003) | Austin, Texas, United States | $85,000 to $100,000 | 2026-11-04 | clearance |
 | Anduril Industries | [GNC Engineer, Space Emerging Talent](https://boards.greenhouse.io/andurilindustries/jobs/5236635007?gh_jid=5236635007) | Costa Mesa, California, United States | $117,000 to $154,000 | 2026-11-04 |  |
 | Wabtec | [Remanufacturing Service Technician, Third Shift](https://jobs.smartrecruiters.com/Wabtec/3743990015359346-remanufacturing-service-technician-third-shift) | Las Vegas, NV, us | $23.50/hour | 2026-11-04 |  |
-| Absolics Inc | [Failure Analysis Engineer](https://job-boards.greenhouse.io/absolicsinc/jobs/4408877009) | Covington, Georgia | $70,000 to $115,000 | 2026-11-04 |  |
-| Cowboy Space Corp. | [Mechanism Engineer Level 1](https://jobs.ashbyhq.com/cowboyspace/ff892f97-7afa-4dce-95f2-2899757a34c2) | Kent, Washington | $74,000 to $114,000 | 2026-11-04 | US citizens/persons only |
-| Cowboy Space Corp. | [Fluids Engineer Level 1](https://jobs.ashbyhq.com/cowboyspace/28b2ac23-a7b8-4962-8667-e28060a59b20) | Kent, Washington | $100,000 to $135,000 | 2026-11-04 | US citizens/persons only |
-| Matter Intelligence | [Early Career Systems Engineer](https://jobs.ashbyhq.com/matter-intelligence/57a369d9-4c7d-4ecc-9bfb-b62f27d1e7c1) | El Segundo |  | 2026-11-04 | US citizens/persons only |
-| Anduril Industries | [2027 Early Career Industrial Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5236921007?gh_jid=5236921007) | Ashville, Ohio, United States | $74,000 to $99,000 | 2026-11-04 | US citizens/persons only |
-| Fix-It 24/7 | [HVAC Service Technician](https://job-boards.greenhouse.io/fix-it24-7/jobs/4405570009) | 6778 N Franklin Ave. Loveland, CO 80538 | $80,000 to $250,000 | 2026-11-04 |  |
-| Loenbro | [Mining Project Engineer](https://job-boards.greenhouse.io/loenbro/jobs/4405820009) | Gilbert, AZ |  | 2026-11-04 |  |
-| Atlas Technica | [Jr. Systems Engineer - Dedicated](https://atlas-technica.breezy.hr/p/8d4d2a39246a-jr-systems-engineer-dedicated) | Chicago, IL |  | 2026-11-04 |  |
-| CRB | [Industrial Engineer I](https://jobs.smartrecruiters.com/CRB/744000148854069-industrial-engineer-i) | Raleigh, NC, us |  | 2026-11-04 |  |
-| CRB | [Mechanical Engineer I](https://jobs.smartrecruiters.com/CRB/744000148756010-mechanical-engineer-i) | Irvine, CA, us |  | 2026-11-04 |  |
-| Louis Dreyfus Company | [Industrial Engineer Rotation Program](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000148843694-industrial-engineer-rotation-program) | Upper Sandusky, OH, us |  | 2026-11-04 |  |
-| Louis Dreyfus Company | [Industrial Engineer Rotation Program](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000148840979-industrial-engineer-rotation-program) | Port Allen, LA, us |  | 2026-11-04 |  |
-| Louis Dreyfus Company | [Industrial Engineer Rotation Program](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000148840689-industrial-engineer-rotation-program) | Grand Junction, IA, us |  | 2026-11-04 |  |
-| Louis Dreyfus Company | [Industrial Engineer Rotation Program](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000148840419-industrial-engineer-rotation-program) | Claypool, IN, us |  | 2026-11-04 |  |
-| Sonic Automotive | [Automotive Technician - Land Rover Pasadena](https://jobs.smartrecruiters.com/SonicAutomotive/744000148833979-automotive-technician-land-rover-pasadena) | Pasadena, CA, us | $33 to $70/hour | 2026-11-04 |  |
-| iCapital | [Structured Investments Distribution - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8776670002) | New York, New York, United States | $60,000 to $65,000 | 2026-11-04 |  |
-| CesiumAstro | [Production Materials Coordinator II - Water Spider](https://jobs.lever.co/CesiumAstro/5b422ecb-d2e7-4cea-9675-f66c1fc22ce6) | Austin, TX |  | 2026-11-04 | US citizens/persons only |
-| Divergent | [Advanced Manufacturing Production Specialist](https://job-boards.greenhouse.io/divergent/jobs/5417174008) | Long Beach, California, United States; Torrance, California, United St | $36 to $50/hour | 2026-11-04 |  |
-| Divergent | [Robotics Assembly Technician](https://job-boards.greenhouse.io/divergent/jobs/5417095008) | Long Beach, California, United States; Torrance, California, United St | $39 to $55/hour | 2026-11-04 |  |
-| Syska Hennessy Group | [Mechanical Engineer I](https://job-boards.greenhouse.io/syskahennessy/jobs/8175420) | New York, NY | $57,392 to $86,220 | 2026-11-04 |  |
-| Syska Hennessy Group | [Mechanical Engineer I](https://job-boards.greenhouse.io/syskahennessy/jobs/8175375) | Washington D.C. | $68,788 to $98,182 | 2026-11-04 |  |
-| Syska Hennessy Group | [Mechanical Engineer I](https://job-boards.greenhouse.io/syskahennessy/jobs/8175252) | Dallas, TX | $65,168 to $92,751 | 2026-11-04 |  |
-| Syska Hennessy Group | [Mechanical Engineer I](https://job-boards.greenhouse.io/syskahennessy/jobs/8175136) | San Francisco, CA | $76,029 to $97,043 | 2026-11-04 |  |
-| Armstrong Fluid Technology | [Industrial Painter & Crater](https://armstrongfluidtechnology.bamboohr.com/careers/954) | North Tonawanda, New York, United States |  | 2026-11-04 |  |
-| HP Hood | [Process Systems Engineer I](https://job-boards.greenhouse.io/hoodhp/jobs/5414040008) | Arkport, NY | $77,000 to $84,000 | 2026-11-04 |  |
-| AECOM | [Entry-Level Structural Engineer - Bridge & Transportation Structures](https://jobs.smartrecruiters.com/AECOM2/744000147060489-entry-level-structural-engineer-bridge-transportation-structures) | Glen Allen, VA, us |  | 2026-11-04 | no visa sponsorship |
-| Hyliion | [Engineer, Mechanical](https://job-boards.greenhouse.io/hyliion/jobs/6179419004) | Austin, Texas, United States |  | 2026-11-04 |  |
-| Northmarq | [2027 Early Career Professionals - Talent Pipeline](https://job-boards.greenhouse.io/northmarq/jobs/5383498008) | Dallas, Texas, United States; Denver, Colorado, United States; Minneap |  | 2026-11-04 |  |
-| Sunsrce | [Outside Sales Account Manager - Industrial & Mining Supply](https://jobs.lever.co/sunsrce/af5eeba8-415d-42f7-b226-f15870b0928d) | Granite City, IL 62040 |  | 2026-11-04 |  |
-| General Matter | [Nuclear Engineer (New Grad)](https://job-boards.greenhouse.io/generalmatter/jobs/5375961008) | Los Angeles, CA | $90,000 to $105,000 | 2026-11-04 |  |
-| Mussett Nicholas & Associates | [Mechanical Engineer (New Grad)](https://mussett-nicholas-associates.breezy.hr/p/48345eb27b43-mechanical-engineer-new-grad) | Louisville, KY |  | 2026-11-04 |  |
-| Skillcloud HCM | [HVAC Service Technician-Commercial](https://jobs.lever.co/skillcloudhcm/730313c6-2e13-41e3-a171-f330aa293d41) | Portland, Maine |  | 2026-11-04 |  |

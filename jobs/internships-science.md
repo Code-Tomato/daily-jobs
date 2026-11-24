@@ -1,11 +1,15 @@
 # Internships and co-ops: Science and research
 
-146 open, newest first (by the date the scraper first saw them), updated 2026-11-22.
+149 open, newest first (by the date the scraper first saw them), updated 2026-11-24.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Amgen | [Grad Intern – Genetic Medicines (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Grad-Intern---Genetic-Medicines--Summer-2027-_R-261455) · Summer 2027 | US - California - Thousand Oaks | $35.34 to $41.20/hour | 2026-11-24 |  |
+| Entegris | [Nanoparticle Research Associate Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Nanoparticle-Research-Associate-Co-Op_REQ-14493) · Spring 2027 | Aurora, IL | $20 to $30/hour | 2026-11-24 |  |
+| Flagship Pioneering Co-Op Program | [Flagship Pioneering: Formulations Research Associate Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8948210002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-24 |  |
+| Cell Signaling Technology | [Lab Internship](https://job-boards.greenhouse.io/cellsignalingtechnology79/jobs/4730880006) | DANVERS, MA |  | 2026-11-24 | no visa sponsorship |
 | Capable Labs | [Chemistry Intern](https://jobs.ashbyhq.com/Capable/845ee46b-33f0-45fe-abcd-aee369f512b1) | San Francisco |  | 2026-11-21 |  |
 | AbbVie | [2027 Clinical Pharmacology Intern (PhD)](https://jobs.smartrecruiters.com/AbbVie/3743990016996766-2027-clinical-pharmacology-intern-phd-) | North Chicago, IL, us |  | 2026-11-21 |  |
 | JPMorgan Chase | [2027 Applied Research Associate - Summer Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359) · Summer | New York, NY, United States |  | 2026-11-21 |  |
@@ -90,7 +94,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lydian | [Coatings Engineer/Scientist Co-op](https://jobs.ashbyhq.com/lydian/bc092b36-e885-41dd-b970-ae2c06f5e271) · Spring 2027 | Boston |  | 2026-11-04 |  |
 | Cartesian Systems | [Micro-Intern: Research Assistant (IAP - Alumni Host)](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009) | Cambridge, MA | $20 to $25/hour | 2026-11-04 |  |
 | NETZSCH Group | [Application Center (Lab) Intern](https://jobs.smartrecruiters.com/NETZSCHGroup/744000149939169-application-center-lab-intern) | Exton, PA, us |  | 2026-11-04 |  |
-| Hydrite | [QC Lab Intern (Summer 2027)](https://job-boards.greenhouse.io/hydritechemicalco/jobs/8189314) · Summer 2027 | Visalia, CA | $21 to $25/hour | 2026-11-04 |  |
 | Flagship Pioneering Co-Op Program | [Flagship Labs 116: Protein Chemistry Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8766460002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
 | Hydrite | [Part-Time QC Lab Intern (Winter - Summer 2027)](https://job-boards.greenhouse.io/hydritechemicalco/jobs/8157819) · Summer 2027 | Oshkosh, WI |  | 2026-11-04 |  |
 | SGS | [Summer Internship - Lab Technician](https://jobs.smartrecruiters.com/SGS/744000143536639-summer-internship-lab-technician) · Summer | Appleton, WI, us | $16/hour | 2026-11-04 |  |

@@ -1,11 +1,18 @@
 # Internships and co-ops: Design and creative
 
-176 open, newest first (by the date the scraper first saw them), updated 2026-11-22.
+181 open, newest first (by the date the scraper first saw them), updated 2026-11-24.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Champions Group Holdings | [Graphic Design Intern](https://job-boards.greenhouse.io/championsgroupholdings/jobs/5492840008) | Brea, California | $20/hour | 2026-11-24 |  |
+| Playﬂy Sports | [Graphic Design Intern](https://www.playfly.com/careers?gh_jid=4471204009) | Los Angeles, California, United States; New York, New York, United Sta | $18.42/hour | 2026-11-24 | no visa sponsorship |
+| Red Bull | [2027 Internship, Spring - Graphic Design](https://jobs.smartrecruiters.com/RedBull/744000163296309-2027-internship-spring-graphic-design) · Spring | Harrison, NJ, us |  | 2026-11-24 |  |
+| Shorr Packaging | [Designer Co-Op](https://jobs.gem.com/shorr-careers/am9icG9zdDrtoAKnr4SBq-wEEWh5xSo4) | Cincinnati, OH |  | 2026-11-24 |  |
+| Ogilvy | [2027 Ogilvy Creative Summer Internship](https://www.ogilvy.com/careers/4757364005?gh_jid=4757364005) · Summer | Chicago, United States | $20 to $25/hour | 2026-11-24 |  |
+| Ogilvy | [2027 Ogilvy Creative Summer Internship](https://www.ogilvy.com/careers/4757353005?gh_jid=4757353005) · Summer | New York, New York | $20 to $25/hour | 2026-11-24 |  |
+| Trinidad Benham | [Intern - UI/UX Design Intern](https://trinidadbenham.pinpointhq.com/en/postings/ad797849-e0b7-402a-b3d5-816383ffcfe0) | Greenwood Village, Colorado (hybrid) |  | 2026-11-24 |  |
 | Feyen Zylstra | [Digital Media Intern (Video Focus)](https://fz.bamboohr.com/careers/259) · Summer 2027 | Grand Rapids, Michigan, United States |  | 2026-11-21 |  |
 | Meyocks | [Graphic Design Intern](https://meyocks.bamboohr.com/careers/75) | West Des Moines, Iowa, United States |  | 2026-11-21 |  |
 | Phillips Auctioneers LLC | [Spring Photographs Internship](https://phillipsauctioneers.bamboohr.com/careers/601) · Spring | New York, New York, United States | $17.50/hour | 2026-11-21 |  |
@@ -43,9 +50,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Riot Games | [Game Producer Intern, Teamfight Tactics (Masters/PhD) - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356876?gh_jid=8356876) · Summer 2027 | Los Angeles, USA | $54.62/hour | 2026-11-12 | no visa sponsorship |
 | Riot Games | [Technical Game Design Intern - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525) · Summer 2027 | Los Angeles, USA | $44.86/hour | 2026-11-12 | no visa sponsorship |
 | Riot Games | [Motion Graphics Art Intern - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356815?gh_jid=8356815) · Summer 2027 | Los Angeles, USA | $36.49/hour | 2026-11-11 | no visa sponsorship |
-| Associated Students, Inc. | [Audio Visual Student Technician II](https://apply.workable.com/j/D1E696BDD6) | San Luis Obispo, California, United States | $17.90/hour | 2026-11-10 |  |
 | Duolingo | [Product Designer, Thrive Intern](https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002) · Fall 2028 | Pittsburgh, PA | $43 to $45/hour | 2026-11-10 |  |
-| First Global Management Services, Inc. | [Video Design Intern](https://firstagency.com/position/?job=5287418007&gh_jid=5287418007) | FIRST - New York | $20 to $25/hour | 2026-11-10 |  |
 | ICF | [2027 Summer Intern, Learning Solutions Designer (Reston, VA)](https://careers.icf.com/us/en/job/R2603779) · Summer 2027 | Reston, Virginia, United States of America | $23 to $28/hour | 2026-11-10 | no visa sponsorship |
 | NBCUniversal | [Universal Television Entertainment Digital, Creative & Design Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000160636835-universal-television-entertainment-digital-creative-design-internships-summer-2027) · Summer 2027 | New York, NY, us | $19/hour | 2026-11-10 | no visa sponsorship |
 | NBCUniversal | [Universal Television Entertainment Digital, Creative & Design Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000160635200-universal-television-entertainment-digital-creative-design-internships-summer-2027) · Summer 2027 | Universal City, CA, us | $19/hour | 2026-11-10 | no visa sponsorship |

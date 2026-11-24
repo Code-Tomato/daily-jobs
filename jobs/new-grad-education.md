@@ -1,11 +1,21 @@
 # New grad and entry level: Education
 
-360 open, newest first (by the date the scraper first saw them), updated 2026-11-22.
+369 open, newest first (by the date the scraper first saw them), updated 2026-11-24.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| University of Texas at Austin | [Development Specialist, Cockrell School of Engineering](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Development-Specialist--Cockrell-School-of-Engineering_R_00049314) | UT MAIN CAMPUS |  | 2026-11-24 |  |
+| Apollo After School | [Part Time Substitute Educator](https://apollo-after-school.breezy.hr/p/8e86017412cf-part-time-substitute-educator) | Ventura, CA | $21/hour | 2026-11-24 |  |
+| Everstand | [Music Teacher - Strawbridge](https://job-boards.greenhouse.io/everstand/jobs/4510295009) | 3300 Gaither Rd, Baltimore, MD 21244 | $56,384 to $121,924 | 2026-11-24 |  |
+| Prep Academy Tutors | [Prep Academy Tutors of Boise Tutor Fellowship Program](https://prep-academy-tutors.breezy.hr/p/71b7fcc7adc6-prep-academy-tutors-of-boise-tutor-fellowship-program) · Spring 2027 | Boise, ID |  | 2026-11-24 |  |
+| Rocketship Public Schools | [Teacher Resident](https://jobs.lever.co/rocketship/538b6582-f419-461d-8d32-9a79cc20d23a) | Concord, CA |  | 2026-11-24 |  |
+| Rocketship Public Schools | [Teacher Resident](https://jobs.lever.co/rocketship/6e89fd7b-89c4-41b6-8007-f27e2fde8aa7) | Redwood City, CA |  | 2026-11-24 |  |
+| Rocketship Public Schools | [Teacher Resident](https://jobs.lever.co/rocketship/a0a920c3-e5c8-409a-87ab-fdf27c7d8132) | Antioch, CA |  | 2026-11-24 |  |
+| Texas Health Resources | [Admissions Specialist I](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012612&lang=en) | Fort Worth |  | 2026-11-24 |  |
+| TPAPT | [ISEE & SSAT Tutors](https://apply.workable.com/j/AFB2239259) | San Francisco, California, United States | $45 to $65/hour | 2026-11-24 |  |
+| Rocketship Public Schools | [Teacher Resident](https://jobs.lever.co/rocketship/0f5c0a8a-b4a4-47e4-bc11-75d923bee078) | San Jose, CA |  | 2026-11-24 |  |
 | Discovery Kidzone | [Full Time Preschool Teacher](https://discoverykidzone.bamboohr.com/careers/501) | West Haven, Utah, United States | $15 to $18/hour | 2026-11-21 |  |
 | Equip Health | [Admissions Specialist (PST)](https://jobs.ashbyhq.com/equip/c55be18a-6d8f-4895-8963-f807924482a2) | Remote - USA |  | 2026-11-21 |  |
 | Town Square Academy | [Floater](https://job-boards.greenhouse.io/townsquareacademy/jobs/5304031007) | 7597 Taylor Road Riverdale, GA 30274 |  | 2026-11-21 |  |
@@ -237,7 +247,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Proximity Learning Inc. | [Chicago Title I SAT Prep Instructor](https://proxlearn.bamboohr.com/careers/209) | Chicago , Illinois, United States | $40/hour | 2026-11-04 |  |
 | Uncommon Schools | [High School Science Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000154675789-high-school-science-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-04 |  |
 | Stanford Medicine Children's Health | [Certified Diabetes Care and Education Specialist](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990015978056-certified-diabetes-care-and-education-specialist) | PALO ALTO, CA, us | $49.06 to $61.33/hour | 2026-11-04 |  |
-| Tines | [Technical Support Engineer I](https://job-boards.greenhouse.io/tines/jobs/6220150004) | Boston, MA | $85,000 to $95,000 | 2026-11-04 |  |
+| Tines | [Technical Support Engineer I](https://job-boards.greenhouse.io/tines/jobs/6220150004) | Boston, MA (Remote) | $85,000 to $95,000 | 2026-11-04 |  |
 | Unitek Learning | [Student Services Specialist](https://jobs.smartrecruiters.com/UnitekLearning/744000152498428-student-services-specialist) | Idaho Falls, ID, us |  | 2026-11-04 |  |
 | YMCA of Central Texas | [Specialty & Enrichment Instructor](https://ymca-of-central-texas.breezy.hr/p/57e1f742bcc3-specialty-enrichment-instructor) | Round Rock, TX | $15 to $19/hour | 2026-11-04 |  |
 | Apollo After School | [Part-Time Substitute Educator](https://apollo-after-school.breezy.hr/p/f525d8832968-part-time-substitute-educator) | Mendham, NJ | $21/hour | 2026-11-04 |  |
@@ -347,7 +357,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | YMCA of Greater Boston | [Group Exercise Instructor - Aqua Fitness](https://ymcaboston.pinpointhq.com/en/postings/293ea85e-6dfa-46ac-9b35-e0f109eb30e4) | Woburn, MA |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor - Body Combat (certification required or equivalent experience)](https://ymcaboston.pinpointhq.com/en/postings/1d0f2e1d-e00b-4f54-a440-5d5cd181398b) | Woburn, MA |  | 2026-11-04 |  |
 | UTMB Health | [Federal Work Study Student, Dean of Graduate School](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2600926&lang=en) | United States-Texas-Galveston |  | 2026-11-02 |  |
-| Rady Children's Health San Diego | [Preschool Classroom Floater (Casual) - Alexa's PLAYC](https://jobs.rchsd.org/job/san-diego/preschool-classroom-floater-casual-alexa-s-playc/1717/102243126416) | San Diego, California | $24.26 to $33.36/hour | 2026-10-22 |  |
 | East Texas A&M University | [Adjunct Faculty - Music (Specific Positions)](https://tamus.wd1.myworkdayjobs.com/ETAMU_External/job/Commerce-TX/Adjunct-Faculty---Music--Specific-Positions-_R-084144) | Commerce, TX |  | 2026-10-20 |  |
 | United Airlines | [Ramp Training Instructor](https://careers.united.com/us/en/job/ORD00003574) | Chicago, Illinois, United States | $66,500 to $86,616 | 2026-10-20 | no visa sponsorship |
 | KLA | [Technical Instructor (EBEAM)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--EBEAM-_2639119) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |

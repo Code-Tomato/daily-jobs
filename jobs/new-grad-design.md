@@ -1,11 +1,20 @@
 # New grad and entry level: Design and creative
 
-181 open, newest first (by the date the scraper first saw them), updated 2026-11-22.
+187 open, newest first (by the date the scraper first saw them), updated 2026-11-24.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Chapter 2 | [Junior Designer - Newcastle](https://chapter2.teamtailor.com/jobs/8782718-junior-designer-newcastle) |  |  | 2026-11-24 |  |
+| Konrad | [UI/UX Designer](https://www.konrad.com/careers/job/8214196003?gh_jid=8214196003) | New York | $80,000 to $100,000 | 2026-11-24 |  |
+| Motorola Solutions | [UX Researcher](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Georgia-Remote-Work/UX-Researcher_R69427) | Georgia Remote Work | $90,000 to $100,000 | 2026-11-24 |  |
+| Olsson | [Controls Revit Designer – Data Center](https://job-boards.greenhouse.io/olsson/jobs/5489888008) | Dallas, TX; Denver, CO; Fort Worth, TX; Lincoln, NE; North Kansas City |  | 2026-11-24 |  |
+| TEGNA Inc. | [Producer](https://boards.greenhouse.io/tegnainc/jobs/5294878007?gh_jid=5294878007) | KUSA KTVD-TV Denver | $26.44 to $31.25/hour | 2026-11-24 |  |
+| TEGNA Inc. | [Sports Producer](https://boards.greenhouse.io/tegnainc/jobs/5304412007?gh_jid=5304412007) | KHOU-TV Houston |  | 2026-11-24 |  |
+| Texas State University | [Website & UX Specialist - Temporary](https://jobs.hr.txstate.edu/postings/59337) | Other - Remote, TX |  | 2026-11-24 |  |
+| Thinkingbox | [Junior Designer - Thinkingbox](https://jobs.lever.co/thinkingbox/2b99aa8b-428c-4b84-bc63-516882e0e27c) | New York City |  | 2026-11-24 |  |
+| Clera | [Founding Product Designer](https://jobs.ashbyhq.com/Clera/507a2662-aa91-4f75-899c-72c513308bb2) | San Francisco | $150,000 to $250,000 | 2026-11-24 |  |
 | Panasonic North America | [Technician I Visual Inspection, Nights, D-Shift (7PM-7AM)[Wed-Fri + Alt Sat]](https://careers.na.panasonic.com/careers-home/jobs/52342) | Sparks, Nevada |  | 2026-11-21 |  |
 | VSC Fire & Security | [Integrated Systems Designer l](https://job-boards.greenhouse.io/vscfiresecurityinc/jobs/5486824008) | Baltimore, Maryland, United States | $21 to $31/hour | 2026-11-21 |  |
 | Jobgether | [Performance Creative & Social Specialist](https://jobs.lever.co/jobgether/ffa1dc43-b510-464f-8c16-85ba2ec7985e) | US | $80,000 to $95,000 | 2026-11-20 |  |
@@ -46,7 +55,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Quality Group GmbH | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5023226101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |
 | Trilon Group | [Engineering Designer I](https://trilongroup.pinpointhq.com/en/postings/fd4c31a6-aac2-46f7-9abd-b46b3c2253e8) | Atlanta, Georgia | $65,000 to $80,000 | 2026-11-11 |  |
 | AccuWeather | [Weather Graphics Production Artist](https://job-boards.greenhouse.io/accuweather/jobs/8367396) | State College, PA |  | 2026-11-10 |  |
-| Konrad | [UI/UX Designer](https://www.konrad.com/careers/job/8199570003?gh_jid=8199570003) | New York | $80,000 to $100,000 | 2026-11-10 |  |
 | Garmin | [Aviation Human Factors Designer 1](https://careers.garmin.com/careers-home/jobs/21949) | Olathe, Kansas |  | 2026-11-07 |  |
 | Online Labels Group | [Flexographic Press Operator](https://online-labels.breezy.hr/p/0a3c014235e6-flexographic-press-operator) | 12177 28th Street N St. Petersburg, FL |  | 2026-11-07 |  |
 | Online Labels Group | [Flexographic Press Operator](https://online-labels.breezy.hr/p/ce599aad1ae7-flexographic-press-operator) | 2001 E Lake Mary Blvd Sanford, FL |  | 2026-11-07 |  |
@@ -102,7 +110,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Embedding VC | [Product Designer](https://jobs.ashbyhq.com/embedding-vc/e5cc6c69-27a2-4fe1-992e-7246c1130515) | Mountain View, CA | $120,000 to $170,000 | 2026-11-04 |  |
 | Loudr Agency | [Junior Graphic Designer](https://ats.rippling.com/loudr-agency/jobs/62d14fea-231a-4052-825e-fa1001a759ce) | Denver, CO |  | 2026-11-04 |  |
 | Sleeper | [UX Researcher I](https://jobs.ashbyhq.com/sleeper/168b7639-7759-4880-a94f-7de72607f538) | San Francisco | $75,000 to $95,000 | 2026-11-04 |  |
-| TEGNA Inc. | [Producer](https://boards.greenhouse.io/tegnainc/jobs/5255056007?gh_jid=5255056007) | KIII-TV Corpus Christi |  | 2026-11-04 |  |
 | Benesch | [Railroad Grade Crossing – Designer](https://www.benesch.com/job-openings/5255944007?gh_jid=5255944007) | Remote | $36 to $40/hour | 2026-11-04 |  |
 | Atari | [Industrial Designer](https://job-boards.greenhouse.io/atariinc/jobs/5442825008) | Atari - US (Remote) |  | 2026-11-04 |  |
 | SeatGeek | [UX Design - New Grad](https://seatgeek.com/jobs/8248135?gh_jid=8248135) | New York, New York | $110,000 to $130,000 | 2026-11-04 |  |
@@ -126,8 +133,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Patriot Growth Insurance Services, LLC | [Commercial Lines Producer](https://job-boards.greenhouse.io/patriotgrowthinsuranceservicesllc/jobs/4370621009) | Waterloo, IA | $55,000 to $260,000 | 2026-11-04 |  |
 | Life.Church | [Motion Designer](https://jobs.lever.co/life/8855c924-5777-45b7-8bf5-dba9c7511c52) | Edmond, OK |  | 2026-11-04 |  |
 | CannonDesign | [Designer - Entry Level](http://www.cannondesign.com/careers/?gh_jid=8652909002) | St. Louis, MO |  | 2026-11-04 |  |
-| Metropolis | [Learning Experience Designer](https://job-boards.greenhouse.io/metropolis/jobs/7782384003) | New York, New York, United States | $80,000 to $90,000 | 2026-11-04 |  |
 | Metropolis | [Learning Experience Designer](https://job-boards.greenhouse.io/metropolis/jobs/7782388003) | Los Angeles, California, United States | $80,000 to $90,000 | 2026-11-04 |  |
+| Metropolis | [Learning Experience Designer](https://job-boards.greenhouse.io/metropolis/jobs/7782384003) | New York, New York, United States | $80,000 to $90,000 | 2026-11-04 |  |
 | DLR Group | [Designer, Justice & Civic](https://job-boards.greenhouse.io/dlrgroup/jobs/5366446008) | Phoenix, Arizona, United States (hybrid) |  | 2026-11-04 |  |
 | PMG | [Graduate Leadership Program - Creative Motion Designer](https://job-boards.greenhouse.io/pmg/jobs/8594740002) | Dallas, Texas |  | 2026-11-04 |  |
 | PMG | [Graduate Leadership Program - Junior Designer](https://job-boards.greenhouse.io/pmg/jobs/8594731002) | Dallas, Texas |  | 2026-11-04 |  |
@@ -169,14 +176,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Electronic Arts | [Experience Designer - Madden Core](https://jobs.ea.com/en_US/careers/JobDetail/Experience-Designer-I/216492) | Orlando, United States of America |  | 2026-10-22 |  |
 | Cook Children's | [Registered Polysomnographic Tech (RPSGT)](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Polysomnographic-Tech--RPSGT-_JR-119823) | Fort Worth, TX |  | 2026-10-20 |  |
 | Cook Children's | [Registered Polysomnographic Tech (RPSGT)](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Polysomnographic-Tech--RPSGT-_JR-112297) | Fort Worth, TX |  | 2026-10-20 |  |
+| Paramount | [Digital Producer, WJZ](https://careers.paramount.com/job/Baltimore-Digital-Producer%2C-WJZ-MD-21211/1386247100/) | Baltimore, MD, US | $35/hour | 2026-10-20 |  |
 | Worley | [Piping Designer Level I](https://jobs.worley.com/careers/job/1133916402118) | Long Beach, CA, US; Monrovia, CA, US | $31.07 to $45.69/hour | 2026-10-20 |  |
 | Kiewit | [BIM Designer - Kiewit Industrial & Water Engineering](https://kiewitcareers.kiewit.com/job/Lenexa-BIM-Designer-Kiewit-Industrial-&-Water-Engineering-KS/1420673500/) | Lenexa, KS, US |  | 2026-10-20 |  |
-| Paramount | [Designer, Toys](https://careers.paramount.com/job/Los-Angeles-Designer%2C-Toys-CA-90038/1430786400/) | Los Angeles, CA, US | $64,800 to $81,000 | 2026-10-20 |  |
 | Fox Corporation | [Freelance 'Digital 'Video Specialist](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Freelance--Digital--Video-Specialist_R50034035) | Los Angeles, California, USA | $28.85 to $39.42/hour | 2026-10-20 |  |
 | Hyundai Motor America | [Hyundai Design Center - Interior Designer I](https://careers-americas.hyundai.com/hatci/job/Irvine-Hyundai-Design-Center-Interior-Designer-I-CA-92618/1381053500/) | Irvine, CA, US | $75,000 to $112,000 | 2026-10-20 |  |
 | Service Corporation International | [Memorial Designer](https://sci.wd5.myworkdayjobs.com/SCI/job/TX---Pflugerville/Memorial-Designer_Req167535) | TX - Pflugerville |  | 2026-10-20 |  |
 | DNOW | [Engineering Designer](https://distributionnow.wd5.myworkdayjobs.com/DNOW_Careers/job/US-CO-Denver-1422-Delgany-Street-Suite-100/Engineering-Designer_R08523) | US CO Denver 1422 Delgany Street, Suite 100 |  | 2026-10-20 |  |
-| Paramount | [Digital Producer, WJZ](https://careers.paramount.com/job/Baltimore-Digital-Producer%2C-WJZ-MD-21211/1386247100/) | Baltimore, MD, US | $35/hour | 2026-10-20 |  |
 | xAI | [Data Visualization Engineer](https://job-boards.greenhouse.io/xai/jobs/5265194007) | Palo Alto, CA | $100,000 to $198,000 | 2026-10-20 | US citizens/persons only |
 | Formlabs | [Industrial Designer - Entry Level](https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032) | Boston, MA | $90,000 to $120,000 | 2026-10-20 |  |
 | Quanta Services | [Piping Designer](https://careers-quanta.icims.com/jobs/18961/piping-designer/job) | Huntersville, NC |  | 2026-10-20 |  |
