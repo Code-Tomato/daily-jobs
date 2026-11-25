@@ -1,11 +1,12 @@
 # Internships and co-ops: Science and research
 
-149 open, newest first (by the date the scraper first saw them), updated 2026-11-24.
+147 open, newest first (by the date the scraper first saw them), updated 2026-11-25.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Dozee | [Intern - Clinical Research](https://jobs.lever.co/dozee/0e4a7863-9405-4e89-a961-acc4a94cf7bc) | Lake Jackson, Texas |  | 2026-11-25 |  |
 | Amgen | [Grad Intern – Genetic Medicines (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Grad-Intern---Genetic-Medicines--Summer-2027-_R-261455) · Summer 2027 | US - California - Thousand Oaks | $35.34 to $41.20/hour | 2026-11-24 |  |
 | Entegris | [Nanoparticle Research Associate Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Nanoparticle-Research-Associate-Co-Op_REQ-14493) · Spring 2027 | Aurora, IL | $20 to $30/hour | 2026-11-24 |  |
 | Flagship Pioneering Co-Op Program | [Flagship Pioneering: Formulations Research Associate Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8948210002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-24 |  |
@@ -84,7 +85,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AECOM | [Intern Geologist](https://jobs.smartrecruiters.com/AECOM2/744000155857249-intern-geologist) | Arlington, VA, us |  | 2026-11-04 | US citizens/persons only |
 | Flagship Pioneering Co-Op Program | [Apriori Bio, Inc.: Translational Immunology Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8882282002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
 | SGS | [Microbiology Intern (8 Month Contract)](https://jobs.smartrecruiters.com/SGS/744000153516116-microbiology-intern-8-month-contract-) | Fairfield, NJ, us | $17/hour | 2026-11-04 |  |
-| Brooks Running | [Run Performance Graduate Internship, Run Research Team - Winter 2027](https://jobs.lever.co/brooksrunning/b4462155-4109-43ce-adfa-8e58bb429215) · Winter 2027 | US, Washington, Seattle | $33/hour | 2026-11-04 |  |
 | Flagship Pioneering Co-Op Program | [Metaphore: Antibody Discovery and Molecular Biology Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8851766002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
 | Kernal Biologics, Inc. | [Co-op, Synthetic Biology (mRNA Therapeutics)](https://job-boards.greenhouse.io/kernalbio/jobs/8008352003) | Boston, MA (Seaport) | $20 to $25/hour | 2026-11-04 |  |
 | Flagship Pioneering Co-Op Program | [Abiologics: In Vitro Pharmacology Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8844496002) | Cambridge, MA USA | $25 to $35/hour | 2026-11-04 |  |
@@ -106,7 +106,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | KLA | [Chemistry R&D Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Chemistry-R-D-Intern_2642152-1) · Summer 2027 | Totowa, NJ | $31.50 to $50/hour | 2026-10-24 |  |
 | Constellation Energy | [2027 Chemical Engineering Intern - Geysers](https://jobs.constellationenergy.com/careers-home/jobs/140353) | Middletown, California |  | 2026-10-23 |  |
 | Microsoft | [Research Intern - Gray Systems Lab (GSL)](https://apply.careers.microsoft.com/careers/job/1970393557045445) | Redmond, WA, US; Mountain View, CA, US | $6,810 to $14,610/month | 2026-10-23 |  |
-| Intuitive Surgical | [Clinical Scientist Intern](https://jobs.smartrecruiters.com/Intuitive/744000156899239-clinical-scientist-intern) | Sunnyvale, CA, us |  | 2026-10-22 |  |
 | KLA | [Analytical Chemist Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Analytical-Chemist-Intern_2642081-2) | Totowa, NJ | $31.50 to $50/hour | 2026-10-22 |  |
 | Varda | [Pharmaceutical Lab Internship (Crystallization) Summer 2027](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) · Summer 2027 | El Segundo, California, United States |  | 2026-10-22 | US citizens/persons only |
 | Fluor | [Engineering Technician I- Chemical Engineering Internship](https://careers.fluor.com/careers/job/1099556116892) | Houston, US-TX, United States | $43,000 to $66,000 | 2026-10-21 |  |
@@ -114,6 +113,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Entegris | [Research Associate Co-Op - ICPS](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Research-Associate-Co-Op---ICPS_REQ-14482) · Spring 2027 | Aurora, IL | $20 to $30/hour | 2026-10-20 |  |
 | HF Sinclair | [Intern Chemist](https://careers.hfsinclair.com/job/Petrolia-Intern-Chemist-PA-16050/1435063700/) | Petrolia, PA, US |  | 2026-10-20 |  |
 | Marathon Petroleum | [Refining Chemical Engineering Intern/Co-op Spring 2027](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Refining-Chemical-Engineering-Intern-Co-op-Spring-2027_00020447) · Spring 2027 | Findlay, Ohio |  | 2026-10-20 | no visa sponsorship |
+| HP Inc | [Chemical Engineer / Chemist Postdoctoral Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Electrical-Hardware-Engineering-Intern_UNI4765-1) | Corvallis, Oregon, United States of America | $45 to $52/hour | 2026-10-20 | no visa sponsorship |
 | Air Products | [SUMMER CO-OP/INTERN – Chemical Engineering (FY 2027)](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/SUMMER-CO-OP-INTERN---Chemical-Engineering--FY-2027-_JR-2026-21955) · Summer | Allentown, Pennsylvania |  | 2026-10-20 |  |
 | Huntsman | [Chemist Intern](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Chemist-Intern_J-020029) | USA - Texas - Houston - The Woodlands - Corporate Office |  | 2026-10-20 | no visa sponsorship |
 | Huntsman | [Chemical Engineering Intern](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Chemical-Engineering-Intern_J-020025) | USA - Texas - Houston - The Woodlands - Corporate Office |  | 2026-10-20 | no visa sponsorship |
@@ -132,8 +132,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Stryker | [Summer 2027 Internship - Biomedical Engineering - Florida](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Biomedical-Engineering---Florida_R572592) · Summer 2027 | Fort Lauderdale, Florida | $35/hour | 2026-10-20 | no visa sponsorship |
 | Stryker | [Summer 2027 Internship - Biomedical Engineering - Illinois](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Biomedical-Engineering---Illinois_R572593) · Summer 2027 | Cary, Illinois | $35/hour | 2026-10-20 | no visa sponsorship |
 | Stryker | [Summer 2027 Internship - Biomedical Engineering - New Jersey](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Biomedical-Engineering---New-Jersey_R572594-1) · Summer 2027 | Mahwah, New Jersey | $35/hour | 2026-10-20 | no visa sponsorship |
-| HP Inc | [Chemical Engineer / Chemist Postdoctoral Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Electrical-Hardware-Engineering-Intern_UNI4765-1) | Corvallis, Oregon, United States of America | $45 to $52/hour | 2026-10-20 | no visa sponsorship |
-| Johnson & Johnson | [Clinical Pharmacology and Pharmacometrics Intern - Summer 2027](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Clinical-Pharmacology-and-Pharmacometrics-Intern---Summer-2027_R-098266) · Summer 2027 | Spring House, Pennsylvania, United States of America | $23.50 to $52.50/hour | 2026-10-20 | no visa sponsorship |
 | Seagate | [Intern, Advanced Media R&D Characterization and Recording Physicist](https://seagatecareers.com/job/Fremont-Intern%2C-Advanced-Media-R&D-Characterization-and-Recording-Physicist-CA-94536/1440191600/) | Fremont USA Research Center | $41 to $48/hour | 2026-10-20 |  |
 | Occidental University Recruiting | [Geophysics Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | Houston, Texas |  | 2026-10-20 |  |
 | Occidental University Recruiting | [Geology Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geology-Intern_JR110202) | Houston, Texas |  | 2026-10-20 |  |

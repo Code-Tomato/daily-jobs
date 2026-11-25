@@ -1,11 +1,17 @@
 # New grad and entry level: Education
 
-369 open, newest first (by the date the scraper first saw them), updated 2026-11-24.
+374 open, newest first (by the date the scraper first saw them), updated 2026-11-25.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| A Bright Beginning Childcare | [Floater Teacher](https://job-boards.greenhouse.io/abrightbeginnings/jobs/5308708007) | 216 E 90th Dr., Merrillville, IN 46410 |  | 2026-11-25 |  |
+| Texas A&M University | [Library Specialist I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Library-Specialist-I_R-097432-1) | College Station, TX | $15.85/hour | 2026-11-25 |  |
+| Texas Health Resources | [Admissions Specialist – PRN - Admitting ER](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012698&lang=en) | Plano |  | 2026-11-25 |  |
+| Texas Health Resources | [Admissions Specialist - Breast Center - Full Time - Days](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012656&lang=en) | Dallas |  | 2026-11-25 |  |
+| Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=929004) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-11-25 |  |
+| Tines | [Technical Support Engineer I](https://job-boards.greenhouse.io/tines/jobs/6270033004) | United States - East (Remote) | $85,000 to $95,000 | 2026-11-25 |  |
 | University of Texas at Austin | [Development Specialist, Cockrell School of Engineering](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Development-Specialist--Cockrell-School-of-Engineering_R_00049314) | UT MAIN CAMPUS |  | 2026-11-24 |  |
 | Apollo After School | [Part Time Substitute Educator](https://apollo-after-school.breezy.hr/p/8e86017412cf-part-time-substitute-educator) | Ventura, CA | $21/hour | 2026-11-24 |  |
 | Everstand | [Music Teacher - Strawbridge](https://job-boards.greenhouse.io/everstand/jobs/4510295009) | 3300 Gaither Rd, Baltimore, MD 21244 | $56,384 to $121,924 | 2026-11-24 |  |
@@ -128,7 +134,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Principia Education | [SAT & Test Prep Tutor (In-Person)](https://principiaeducation.bamboohr.com/careers/34) | McLean, Virginia, United States | $50 to $100/hour | 2026-11-05 |  |
 | Freudigman & Billings LLC | [Junior Admissions Test Prep Instructor](https://freudigmanbillings.bamboohr.com/careers/85) | Westport, Connecticut, United States | $67,000 to $75,000 | 2026-11-05 |  |
 | Hope Center for Children | [Direct Care Family Teacher - Second Shift](https://hopecfc.bamboohr.com/careers/75) | Spartanburg, South Carolina, United States |  | 2026-11-05 |  |
-| Magical Beginnings | [Preschool Teacher- PAID WINTER BREAK](https://jobs.lever.co/magicalbeginningslc/77848195-778b-4d55-9630-84ce1421fedc) | Kingston, MA |  | 2026-11-05 |  |
 | Magical Beginnings | [Toddler Teacher- PAID WINTER BREAK](https://jobs.lever.co/magicalbeginningslc/7a003d4c-714b-4c12-90f5-73fbbee0c72e) | Middleton, MA |  | 2026-11-05 |  |
 | ILSC Education Group | [ELS Substitute Instructor](https://ilsc.bamboohr.com/careers/715) | La Verne, California, United States | $19.50 to $25.50/hour | 2026-11-05 |  |
 | Freedom Preparatory Academy Charter Schools | [Full-time Custodian Middle School](https://jobs.lever.co/freedomprep/f89f4301-1759-4693-a1c0-6b23a816515c) | Memphis, TN |  | 2026-11-05 |  |
@@ -235,10 +240,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | LaAmistad | [Afterschool Instructor SY26-27](https://laamistadinc.bamboohr.com/careers/496) | Atlanta, Georgia, United States |  | 2026-11-04 | no visa sponsorship |
 | KIPP | [Paraprofessional](https://jobs.smartrecruiters.com/KIPP/744000155772116-paraprofessional-) | Baltimore, MD, us |  | 2026-11-04 |  |
 | Stanford Medicine Children's Health | [Certified Diabetes Care and Education Specialist](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990016158706-certified-diabetes-care-and-education-specialist) | PALO ALTO, CA, us | $49.06 to $61.33/hour | 2026-11-04 |  |
-| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034550003) | Southport, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
 | Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034552003) | Leland, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
-| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034545003) | Wilmington, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
 | Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034547003) | Shallotte, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
+| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034550003) | Southport, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
+| Wonderschool | [Part-Time Substitute Teacher (Up to $144 Daily)](https://job-boards.greenhouse.io/wonderschool/jobs/8034545003) | Wilmington, North Carolina, United States | $14 to $144/hour | 2026-11-04 |  |
 | Apollo After School | [Substitute Educator (After care/ morning care)](https://apollo-after-school.breezy.hr/p/aa9e5b7e0e4f-substitute-educator-after-care-morning-care) | Beachwood, OH | $20/hour | 2026-11-04 |  |
 | The Wonderful Company | [GEAR-UP Tutor](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000155304022-gear-up-tutor) | Sanger, CA, us | $18/hour | 2026-11-04 |  |
 | Uncommon Schools | [5-12 Teacher - Middle, High School Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000155305354-5-12-teacher-middle-high-school-teacher) | Boston, Massachusetts, us | $71,000 to $116,000 | 2026-11-04 |  |
@@ -357,10 +362,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | YMCA of Greater Boston | [Group Exercise Instructor - Aqua Fitness](https://ymcaboston.pinpointhq.com/en/postings/293ea85e-6dfa-46ac-9b35-e0f109eb30e4) | Woburn, MA |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor - Body Combat (certification required or equivalent experience)](https://ymcaboston.pinpointhq.com/en/postings/1d0f2e1d-e00b-4f54-a440-5d5cd181398b) | Woburn, MA |  | 2026-11-04 |  |
 | UTMB Health | [Federal Work Study Student, Dean of Graduate School](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2600926&lang=en) | United States-Texas-Galveston |  | 2026-11-02 |  |
-| East Texas A&M University | [Adjunct Faculty - Music (Specific Positions)](https://tamus.wd1.myworkdayjobs.com/ETAMU_External/job/Commerce-TX/Adjunct-Faculty---Music--Specific-Positions-_R-084144) | Commerce, TX |  | 2026-10-20 |  |
-| United Airlines | [Ramp Training Instructor](https://careers.united.com/us/en/job/ORD00003574) | Chicago, Illinois, United States | $66,500 to $86,616 | 2026-10-20 | no visa sponsorship |
 | KLA | [Technical Instructor (EBEAM)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--EBEAM-_2639119) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |
 | KLA | [Technical Instructor (FAST)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--FAST-_2639121) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |
+| East Texas A&M University | [Adjunct Faculty - Music (Specific Positions)](https://tamus.wd1.myworkdayjobs.com/ETAMU_External/job/Commerce-TX/Adjunct-Faculty---Music--Specific-Positions-_R-084144) | Commerce, TX |  | 2026-10-20 |  |
+| United Airlines | [Ramp Training Instructor](https://careers.united.com/us/en/job/ORD00003574) | Chicago, Illinois, United States | $66,500 to $86,616 | 2026-10-20 | no visa sponsorship |
 | UT Dallas | [Part-time Lecturer - Archer Fellowship Program](https://jobs.utdallas.edu/postings/32971) | Washington, D.C. |  | 2026-10-20 |  |
 | Texas Children's Hospital | [Diabetes Educator II](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/427793) | Houston, TX, United States |  | 2026-10-20 |  |
 | ICF | [Library Technician](https://careers.icf.com/us/en/job/R2603422) | Bethesda, Maryland, United States of America | $50,605 to $86,028 | 2026-10-20 | clearance |

@@ -1,11 +1,34 @@
 # New grad and entry level: Software engineering
 
-1,663 open, newest first (by the date the scraper first saw them), updated 2026-11-24. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,637 open, newest first (by the date the scraper first saw them), updated 2026-11-25. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Base Power | [Software Engineer, Backend](https://jobs.ashbyhq.com/base-power/23bc4e94-d63c-4933-926b-edcb69138410) | Austin, TX |  | 2026-11-25 |  |
+| City of New York | [Quality Assurance Auditor](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017084106-quality-assurance-auditor) | New York City, NY, us |  | 2026-11-25 |  |
+| Nationwide | [Engineer, Software Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Engineer--Software-Engineer_101372-1) | Iowa - Des Moines, 1100 Locust Street (hybrid) | $60,900 to $113,300 | 2026-11-25 |  |
+| Applied Materials | [Software Engineer II New College Grad- Master's (Chandler, AZ)](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer-II-New-College-Grad--Master-s--Chandler--AZ-_R2627909) | Chandler,AZ | $108,000 to $148,500 | 2026-11-25 |  |
+| Clera | [Founding Software Engineer](https://jobs.ashbyhq.com/Clera/ebef79a6-c2ef-4a25-b959-67dd7f5448a2) | San Francisco | $150,000 to $300,000 | 2026-11-25 | no visa sponsorship |
+| Cox Enterprises | [Software Engineer I - 13851](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I----13851_R202684592-1) | Atlanta GA |  | 2026-11-25 | no visa sponsorship |
+| CVS Health | [Claim Benefit Specialist](https://jobs.cvshealth.com/us/en/job/R1100443) | Work At Home, Phoenix, Arizona,United States | $17 to $28.46/hour | 2026-11-25 |  |
+| Esri | [Product Engineer I – ArcGIS Online Feature Services](https://www.esri.com/careers/5300973007?gh_jid=5300973007) | Redlands, CA | $70,304 to $109,200 | 2026-11-25 |  |
+| GoFasti | [1208 - .Net Developer](https://careers.gofasti.com/job-application/6270764004?gh_jid=6270764004) | Remote | $2,000 to $2,300/month | 2026-11-25 |  |
+| Kyndryl | [SQL Server Database Administrator](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/SQL-Server-Database-Administrator_R-72339-1) | Dallas (USDALFRI) Frisco AI HUB | $55,200 to $119,040 | 2026-11-25 | US citizens/persons only |
+| LG Energy Solution Arizona | [Engineer I, Customer Quality](https://job-boards.greenhouse.io/lgenergyaz/jobs/5491380008) | Queen Creek, AZ |  | 2026-11-25 |  |
+| Lightmatter | [Package Design Layout & Automation Engineer](https://boards.greenhouse.io/lightmatter/jobs/5492485008?gh_jid=5492485008) | Mountain View, CA | $129,000 to $176,000 | 2026-11-25 |  |
+| Northwestern Mutual | [Software Engineer](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Software-Engineer_JR-46291) | Milwaukee, WI Corporate | $98,320 to $169,560 | 2026-11-25 |  |
+| Parkland Health | [Poison Information Specialist - North Texas Poison Center](https://wd12.myworkdaysite.com/recruiting/parklandhospital/Parkland_Careers/job/Logistics-2nd-FLR-BLK-900/Poison-Information-Specialist---North-Texas-Poison-Center_991331) | Logistics: 2nd FLR BLK 900 (hybrid) |  | 2026-11-25 |  |
+| PwC | [Oracle Application Security & Controls - Experienced Associate](https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/GA-Atlanta/Oracle-Application-Security---Controls---Experienced-Associate_775931WD) | GA-Atlanta | $63,000 to $140,000 | 2026-11-25 |  |
+| Rubrik | [Software Engineer - Data Protection](https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058) | Palo Alto, CA | $131,400 to $197,200 | 2026-11-25 |  |
+| Siemens | [Automation Engineer](https://jobs.siemens.com/en_US/externaljobs/JobDetail/530524) | Fort Worth, Texas, United States of America |  | 2026-11-25 | no visa sponsorship |
+| SpaceX | [IT Support Technician (Logistics)](https://boards.greenhouse.io/spacex/jobs/8959533002?gh_jid=8959533002) | New York City, NY | $39 to $55/hour | 2026-11-25 | US citizens/persons only |
+| Veeva Systems | [Associate Software Engineer - 2027 Start Dates](https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f) | North Carolina - Raleigh |  | 2026-11-25 | no visa sponsorship |
+| Wurl | [Software Engineer I](https://job-boards.greenhouse.io/wurljobs/jobs/4731759006) | Remote - United States | $110,000 to $182,000 | 2026-11-25 |  |
+| Huntington Bank | [IT Support Specialist - Executive IT Support](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Detroit-MI/IT-Support-Specialist---Executive-IT-Support_R0075577) | Detroit, MI |  | 2026-11-25 | no visa sponsorship |
+| Zscaler | [Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5283494007) | Santa Clara, California, USA (hybrid) |  | 2026-11-25 |  |
+| Vagaro | [Software Engineer](https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer) | Pleasanton, CA |  | 2026-11-25 |  |
 | Alcon | [Operator, Quality Assurance](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Operator--Quality-Assurance_R-2026-51002-1) | Fort Worth, Texas |  | 2026-11-24 |  |
 | Datalab USA | [Production Programmer - Entry Level SQL Developer](https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a) | Germantown, MD |  | 2026-11-24 |  |
 | Entegris | [Engineer I, Quality Assurance](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Danbury-CT/Engineer-I--Quality-Assurance_REQ-16167) | Danbury, CT | $65,000 to $85,000 | 2026-11-24 |  |
@@ -41,11 +64,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Secureframe | [Software Engineer, New Grad](https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb) · Summer 2027 | New York, NY (hybrid) |  | 2026-11-24 |  |
 | talentpluto | [Forward Deployed Engineer](https://apply.workable.com/j/B4ECE67519) | San Francisco, California, United States |  | 2026-11-24 |  |
 | talentpluto | [Software Engineer](https://apply.workable.com/j/D3354CBA28) | San Francisco, California, United States |  | 2026-11-24 |  |
-| Nava PBC | [IT Support Associate](https://job-boards.greenhouse.io/navapbc/jobs/4486069009) | Remote | $69,600 to $78,300 | 2026-11-24 |  |
 | SMX | [Junior Software Engineer (5510)](https://www.smxtech.com/careers/?gh_jid=7832667003) | Huntsville, AL | $73,100 to $121,800 | 2026-11-24 | no visa sponsorship |
-| Compass Health Network | [Network Engineer I](https://compasshealthnetwork.pinpointhq.com/en/postings/5f216c8a-bb94-4945-8931-965f665364a6) | Clinton, Missouri (Remote) |  | 2026-11-24 |  |
 | ServiceNow | [Assoc Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162837679-assoc-software-engineer) | Santa Clara, CALIFORNIA, us | $121,051 to $136,000 | 2026-11-21 |  |
-| Accenture Federal Services | [ServiceNow Jr. Developer (O&M)](https://boards.greenhouse.io/accenturefederalservices/jobs/4707684006?gh_jid=4707684006) | Chantilly, VA |  | 2026-11-21 | clearance |
+| Accenture Federal Services | [ServiceNow Jr. Developer (O&M)](https://boards.greenhouse.io/accenturefederalservices/jobs/4707684006?gh_jid=4707684006) | Herndon, VA |  | 2026-11-21 | clearance |
 | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Remote US | $115,000 to $180,000 | 2026-11-21 |  |
 | Comcast | [Junior C++ Software Engineer - 2 Days ONSITE - Reston, VA - FreeWheel](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Junior-C---Software-Engineer---2-Days-ONSITE---Reston--VA---FreeWheel_R449188-1) | VA - Reston, 11951 Freedom Dr Ste 900 | $103,629.45 to $155,444.17 | 2026-11-21 |  |
 | Comcast | [Entry Level Software Engineer- Reston, VA- ONSITE 2 Days per Week- FreeWheel](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Entry-Level-Software-Engineer--Englewood--CO--ONSITE-4-Days-per-Week--FreeWheel_R445138) | CO - Englewood, 183 Inverness Dr West | $82,581.08 to $129,502.14 | 2026-11-21 |  |
@@ -53,7 +74,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Garmin | [Software Engineer 1](https://careers.garmin.com/careers-home/jobs/21486) | Salem, Oregon |  | 2026-11-21 |  |
 | Guidehouse | [Data Analyst (Dashboard Developer)](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Data-Analyst--Dashboard-Developer-_46807) | US - Remote (Any location) | $68,000 to $113,000 | 2026-11-21 | US citizens/persons only |
 | Insperity | [Associate Software Implementation Analyst](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103608) | Kingwood, TX |  | 2026-11-21 |  |
-| Katmai | [Information Management Specialist (Sharepoint Developer Jr.)](https://apply.workable.com/j/312A07C272) | Quantico, Virginia, United States | $90,000 to $99,000 | 2026-11-21 | US citizens/persons only, clearance |
+| Katmai | [Information Management Specialist (Sharepoint Developer Jr.)](https://apply.workable.com/j/312A07C272) | Stafford, Virginia, United States | $90,000 to $99,000 | 2026-11-21 | US citizens/persons only, clearance |
 | Keenfinity | [Associate Automation Engineer](https://jobs.smartrecruiters.com/Keenfinity/744000162754894-associate-automation-engineer) | Fairport, NY, us (hybrid) | $75,000 to $83,000 | 2026-11-21 | no visa sponsorship |
 | KPM Analytics | [IT Systems Administrator I](https://KPM.bamboohr.com/careers/129) | Westborough, Massachusetts, United States |  | 2026-11-21 |  |
 | M&T Bank | [Software Engineer - .Net / API](https://mtb.wd5.myworkdayjobs.com/MTB/job/Philadelphia-PA/Software-Engineer---Net---API_R88163) | Philadelphia, PA | $89,000 to $148,300 | 2026-11-21 |  |
@@ -63,8 +84,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NVIDIA | [Software Engineer, DL Kernel Libraries - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) | US, CA, Santa Clara |  | 2026-11-21 |  |
 | Oracle | [Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN](https://careers.oracle.com/en/sites/CX_45001/job/350824) · Spring 2027 | Nashville, TN, United States | $74,100 to $148,300 | 2026-11-21 | US citizens/persons only |
 | SpaceX | [IT Support Technician (Help Desk)](https://boards.greenhouse.io/spacex/jobs/8957538002?gh_jid=8957538002) | Hawthorne, CA | $34 to $50/hour | 2026-11-21 | US citizens/persons only |
-| SpaceX | [Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8942121002?gh_jid=8942121002) | Washington, DC | $135,000 to $235,000 | 2026-11-21 | US citizens/persons only, clearance |
 | SpaceX | [Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8947472002?gh_jid=8947472002) | Redmond, WA | $135,000 to $235,000 | 2026-11-21 | US citizens/persons only, clearance |
+| SpaceX | [Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8942121002?gh_jid=8942121002) | Washington, DC | $135,000 to $235,000 | 2026-11-21 | US citizens/persons only, clearance |
 | SpaceX | [Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8947462002?gh_jid=8947462002) | Hawthorne, CA | $135,000 to $235,000 | 2026-11-21 | US citizens/persons only, clearance |
 | SpaceX | [Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8947451002?gh_jid=8947451002) | Palo Alto, CA | $135,000 to $235,000 | 2026-11-21 | US citizens/persons only, clearance |
 | Toyota North America | [Software Engineer](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Plano-Texas/Software-Engineer_10340846) | Plano, Texas |  | 2026-11-21 | no visa sponsorship |
@@ -79,7 +100,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ericsson | [Software Development Engineer-1](https://jobs.ericsson.com/careers/job/563121777588433) | Boise, ID, US |  | 2026-11-20 | no visa sponsorship |
 | AlphaSights | [Application Support Engineer (Remote) - US](https://www.alphasights.com/careers/open-roles?gh_jid=8403235) | Remote, New York | $80,000 | 2026-11-20 |  |
 | Arva Intelligence | [Junior DevOps Engineer](https://job-boards.greenhouse.io/arvaintelligence/jobs/5484006008) | Houston, Texas / Salt Lake City, Utah | $85,000 to $100,000 | 2026-11-20 |  |
-| AT&T | [Specialist Network Technology Support](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Providence-Rhode-Island/Specialist-Network-Technology-Support_R-127857-1) | Providence, Rhode Island | $87,200 to $130,800 | 2026-11-20 |  |
 | Charles Schwab | [.NET/Angular Developer](https://www.schwabjobs.com/job/austin/net-angular-developer/33727/101011201936) | Austin, Texas |  | 2026-11-20 |  |
 | Chewy | [Software Engineer I](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Bellevue-WA/Software-Engineer-I_R30985-1) | Bellevue, WA | $92,500 to $160,000 | 2026-11-20 |  |
 | Esri | [Software Development Engineer](https://www.esri.com/careers/5291317007?gh_jid=5291317007) | Vienna, Virginia, United States | $131,000 to $135,000 | 2026-11-20 |  |
@@ -99,7 +119,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Formlabs | [Manufacturing Engineer - Software](https://careers.formlabs.com/job/8371375/apply/?gh_jid=8371375) | Perrysburg, OH |  | 2026-11-20 |  |
 | Garmin | [Test Software Engineer 1 - Aviation](https://careers.garmin.com/careers-home/jobs/20379) | Olathe, Kansas |  | 2026-11-20 |  |
 | Garmin | [Android Software Engineer](https://careers.garmin.com/careers-home/jobs/20475) | Chandler, Arizona |  | 2026-11-20 |  |
-| KLA | [Software Applications Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2642018-1) | Milpitas, CA | $114,800 to $195,200 | 2026-11-20 |  |
 | Milliman | [IT Support Specialist (MedInsight)](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=b196dd9a-4284-4ea1-a349-e3e0dd240224) | Seattle, WA, USA | $21.55 to $38/hour | 2026-11-20 |  |
 | Motorola Solutions | [Web Interface Software Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R70910) | Los Angeles, CA (hybrid) | $43.27 to $57/hour | 2026-11-20 | US citizens/persons only |
 | NASA JPL | [Engineering Applications Software Engineer Level 1](https://www.jpl.jobs/us/en/job/R6266) | Pasadena, California, United States of America | $93,080 to $112,112 | 2026-11-20 |  |
@@ -126,6 +145,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Pharmacy Technician - Back End Full Time](https://jobs.cvshealth.com/us/en/job/R0995013) | 7643 Ponderosa Road, Perrysburg, Ohio,United States | $16 to $26.21/hour | 2026-11-19 |  |
 | Kidango | [Junior Developer/Salesforce System Administrator](https://www.kidango.org/careers/apply?gh_jid=5268848007) | Fremont | $124,488 | 2026-11-19 |  |
 | Journal Technologies | [Junior Data Integration Developer](https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d) | Los Angeles, CA |  | 2026-11-19 | no visa sponsorship, US citizens/persons only |
+| HPE | [AI Automation Engineer Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Automation-Engineer-Graduate_1213068-1) | Spring, Texas, United States of America | $25.77 to $51.63/hour | 2026-11-18 |  |
 | Jobgether | [Junior Security Engineer](https://jobs.lever.co/jobgether/7d7aae14-b608-463f-82c1-8eda7918b8cd) | US (remote) |  | 2026-11-18 |  |
 | KSI | [Quality Assurance Specialist - 2nd Shift](https://katalystsystemsimpact.bamboohr.com/careers/763) | Peosta, Iowa, United States | $20 to $25/hour | 2026-11-18 |  |
 | RR Donnelley | [IT Support Engineer](https://jobs.smartrecruiters.com/RRDonnelley/744000162211529-it-support-engineer-) | Logan, UT, us | $46,600 to $68,000 | 2026-11-18 |  |
@@ -141,18 +161,15 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Foundant Technologies Inc | [Junior Security Engineer](https://ats.rippling.com/foundant-careers/jobs/63f86619-9f10-4928-a9d0-1064f68f2946) | Remote (United States) |  | 2026-11-18 |  |
 | Frost Bank | [Quality Automation Engineer I - Enterprise Payments - Global Trade Systems](https://careers.frostbank.com/us/en/job/R262325) | San Antonio, Texas, United States of America |  | 2026-11-18 |  |
 | Google | [Program Manager I, Data Center Software Integration, Cloud Networking](https://www.google.com/about/careers/applications/jobs/results/101849933509731014) | Thornton, CO, USA | $116,000 to $165,000 | 2026-11-18 |  |
-| HPE | [AI Automation Engineer Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Automation-Engineer-Graduate_1213068-1) | Spring, Texas, United States of America | $25.77 to $51.63/hour | 2026-11-18 |  |
 | ICF | [Appian Developer- Remote](https://careers.icf.com/us/en/job/R2603860) | Reston, Virginia, United States of America (remote) | $67,355 to $114,503 | 2026-11-18 | no visa sponsorship, clearance |
 | Intercontinental Exchange | [Associate Software Developer](https://careers.ice.com/careers-home/jobs/14039) | Jacksonville, Florida |  | 2026-11-18 |  |
 | John Deere | [ENGR, Wiring Harness & EL Integration](https://careers.deere.com/careers/job/137480958566) | Waterloo, IA, US |  | 2026-11-18 | no visa sponsorship |
-| Micron | [New College Grad - Engineer, Product Architecture](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Engineer--Product-Architecture_JR117939) | Boise, ID - Main Site | $73,000 to $202,000 | 2026-11-18 |  |
 | Murray's Group - CARSTAR/Fix | [Back-End Collision Estimator](https://carstar.bamboohr.com/careers/183) | Port Orchard, Washington, United States | $28 to $32/hour | 2026-11-18 |  |
 | Relativity Space | [Software Engineer I (Factory Platform)](https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002) | Long Beach, California, United States | $115,000 to $173,000 | 2026-11-18 |  |
 | Riot Platforms, Inc. | [IT Project Specialist](https://ats.rippling.com/riot-platforms-careers/jobs/a3e05cfb-791d-4b55-b4a6-990d3d17f48c) | Castle Rock, CO (hybrid) | $55,000 to $65,000 | 2026-11-18 |  |
 | Roblox | [Software Engineer, Communication Safety](https://careers.roblox.com/jobs/8386848?gh_jid=8386848) | San Mateo, CA, United States | $153,120 to $196,750 | 2026-11-18 |  |
 | SharkNinja | [Associate Product Developer - Robots](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4729918006) | Needham, MA, United States |  | 2026-11-18 |  |
 | SpaceX | [Hardware Test Automation Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8945159002?gh_jid=8945159002) | Redmond, WA | $105,000 to $175,000 | 2026-11-18 | US citizens/persons only |
-| Tandem Diabetes Care | [Embedded Software Engineer I](https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/Remote---San-Diego-CA/Embedded-Software-Engineer-I_JR101708-1) | Remote - San Diego, CA | $39.23 to $49.09/hour | 2026-11-18 | no visa sponsorship |
 | Texas Children's Hospital | [Unit Support Assistant - Housekeeping](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428950) | Houston, TX, United States |  | 2026-11-18 |  |
 | Twitch | [Software Engineer I, Commerce](https://job-boards.greenhouse.io/twitch/jobs/8949388002) | Seattle, WA | $110,500 to $185,000 | 2026-11-18 |  |
 | Woodard & Curran | [2027 Entry-level Instrumentation, Controls & Automation Engineer (MA, RI, CT)](https://jobs.lever.co/woodardcurran/b89ed7ad-8772-4564-9480-ce8d7035f460) | Massachusetts |  | 2026-11-18 | no visa sponsorship |
@@ -160,8 +177,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Accurant International | [Software Development Project Manager](https://apply.workable.com/j/4FB814A45D) | Minneapolis, Minnesota, United States | $80,000 to $120,000 | 2026-11-18 |  |
 | Smithsonian Institution | [IT Specialist (System Administration), IS-2210-11/12](https://trustcareers.si.edu/en/postings/961fac2f-40da-43b9-b66a-edca29e57452) | Cambridge, MA |  | 2026-11-18 | no visa sponsorship |
 | Christus Health | [Information Services Developer I - IS Integration](https://careers.christushealth.org/opportunity/information-services-developer-i-is-integration-405100) | Irving, TX, US |  | 2026-11-17 |  |
-| Huntington Bank | [Credit Analyst - Leveraged Finance](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Chicago-IL/Credit-Analyst---Leveraged-Finance_R0077595-1) | Chicago, IL | $52,000 to $101,000 | 2026-11-17 | no visa sponsorship |
-| Jobgether | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobs.lever.co/jobgether/f4b092a6-63f4-4209-897e-eb386e4aa422) | US |  | 2026-11-17 |  |
 | Unum | [Benefit Specialist Trainee- LTD Chattanooga](https://unum.wd1.myworkdayjobs.com/External/job/Chattanooga-Tennessee-USA/Benefit-Specialist-Trainee---LTD-Chattanooga_836744) | Chattanooga, Tennessee, USA | $25.97/hour | 2026-11-17 |  |
 | Absolics Inc | [Production Automation Engineer](https://job-boards.greenhouse.io/absolicsinc/jobs/4509348009) | Covington, Georgia |  | 2026-11-17 |  |
 | Argonne National Laboratory | [Software Engineer](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Software-Engineer_423698) | Lemont, IL USA | $57,764 to $93,600 | 2026-11-17 | US citizens/persons only |
@@ -193,7 +208,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kyndryl | [IT Project Specialist](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/FL-USA/IT-Project-Specialist_R-71375-1) | FL, USA (hybrid) | $55,200 to $119,040 | 2026-11-16 | no visa sponsorship |
 | Phillips 66 | [Associate, Rodeo IT Support](https://careers.phillips66.com/job/Rodeo-Associate%2C-Rodeo-IT-Support-CA-94572/1450887600/) | Rodeo, CA, US | $83,900 to $102,520 | 2026-11-16 | US citizens/persons only |
 | Netic | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/netic/178a50d3-f3e8-4031-829f-ce6d6f3ed245) | San Francisco |  | 2026-11-16 |  |
-| Dick's Sporting Goods | [Digital Loss Prevention Reviewer (REMOTE)](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Remote---US/Digital-Loss-Prevention-Reviewer--REMOTE-_202642008-1) | Remote - US | $40,700 to $61,100 | 2026-11-15 |  |
 | Raymond James | [Financial Planning Software Support Analyst I](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Financial-Planning-Software-Support-Analyst-I_R-0013527) | Saint Petersburg, Florida - United States |  | 2026-11-15 |  |
 | Travelers | [Software Engineer I (TypeScript, React, AWS, AI-Assisted Development)](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--TypeScript--React--AWS--AI-Assisted-Development-_R-53687) | CT - Hartford | $101,600 to $167,600 | 2026-11-15 | no visa sponsorship |
 | HUMAN | [Cyber Security Analyst (CST)](https://jobs.ashbyhq.com/HUMAN/4cee05ca-901d-4179-87d5-70e38395a289) | Chicago |  | 2026-11-14 |  |
@@ -220,13 +234,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Myrrsgroup.careers | [Software Engineer, New Grad 2027](https://jobs.gem.com/careers-myrrsgroup/am9icG9zdDrURiv9WCj8CriNlamjD62m) | Austin, Houston, Dallas, Atlanta, Seattle, Los Angeles, Tampa, Chicago |  | 2026-11-14 |  |
 | BHG Financial | [Cyber Security Analyst](https://jobs.lever.co/bhg-inc/21442c2c-e4fb-40df-ad4b-e8129c969dbd) | Remote |  | 2026-11-14 |  |
 | KPMG | [Associate, Cloud Engineer](https://www.kpmguscareers.com/jobdetail/?jobId=140022) | Atlanta, GA |  | 2026-11-14 | no visa sponsorship |
+| Micron | [New College Grad - Software Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692) | Boise, ID - Main Site |  | 2026-11-13 |  |
 | HUMAN | [Cyber Security Analyst (PST)](https://jobs.ashbyhq.com/HUMAN/2ef78102-b19a-440b-8876-3bbc52c7f216) | United States |  | 2026-11-13 |  |
-| Apple | [Software Engineer, Apple Ads](https://jobs.apple.com/en-us/details/200694842-0836/software-engineer-apple-ads) | Cupertino |  | 2026-11-13 |  |
 | Prosperity Bank | [Credit Analyst I (Full Time) - Houston, River Oaks](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=009d7dae-06f5-4976-bb97-c97601e32efe&ccId=19000101_000001&jobId=604950&lang=en_US) | RIVER OAKS, Houston, TX, US |  | 2026-11-13 |  |
 | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US | $115,000 to $180,000 | 2026-11-13 |  |
 | HPE | [Systems/Software Engineer I](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2) | Sunnyvale, California, United States of America | $84,100 to $170,800 | 2026-11-13 |  |
 | iCapital | [Configuration Developer - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8940466002) | Colorado Springs, Colorado, United States | $65,000 to $80,000 | 2026-11-13 |  |
-| Micron | [New College Grad - Software Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692) | Boise, ID - Main Site |  | 2026-11-13 |  |
 | Oguz Law | [Junior IT Specialist](https://ats.rippling.com/oguz-law/jobs/d16fcee4-6bd3-4ded-bba1-3df7d435f2e3) | Türkiye - Remote |  | 2026-11-13 |  |
 | Qdrant | [Solutions Engineer (US)](https://jobs.ashbyhq.com/qdrant.tech/f8850cc9-c587-48e2-b1dc-1d20d3f91362) | Remote - United States |  | 2026-11-13 |  |
 | Redhorse Corporation | [Cloud Software Engineer (Full-Stack and AI) - Junior Level](https://jobs.lever.co/redhorsecorp/be90f883-2ec0-460f-8d20-241e4c54951f) | Gainesville, VA |  | 2026-11-13 | clearance |
@@ -252,9 +265,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bask Health | [Junior Product Engineer, Interactive Experiences](https://apply.workable.com/j/7B69E15EFA) | United States |  | 2026-11-12 |  |
 | Bask Health | [Product Engineer, New Grad](https://apply.workable.com/j/E7E44CA0FC) | United States |  | 2026-11-12 |  |
 | Bask Health | [Software Engineer, Early Career](https://apply.workable.com/j/3AC4353728) | United States |  | 2026-11-12 |  |
-| Blue Origin | [Lunar Systems Administrator - Level 1](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Lunar-Systems-Administrator---Level-1_R75118) | Space Coast, FL |  | 2026-11-12 | US citizens/persons only |
 | BorgWarner | [Plant Product Engineer I](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Seneca---South-Carolina---USA/Plant-Product-Engineer-I_R2026-4493) | Seneca - South Carolina - USA | $68,800 to $96,750 | 2026-11-12 |  |
-| Choco | [Solutions Engineer (Integrations)](https://jobs.ashbyhq.com/choco/0adad417-869f-4342-8058-51be23f336c9) | Chicago |  | 2026-11-12 | no visa sponsorship |
 | CVS Health | [Pharmacy Technician Back End](https://jobs.cvshealth.com/us/en/job/R1097979) | 12460 Network Boulevard, San Antonio, Texas,United States | $16 to $26.21/hour | 2026-11-12 |  |
 | CVS Health | [Pharmacy Technician, Front End Full Time](https://jobs.cvshealth.com/us/en/job/R1093945) | 4621 121st Street, Urbandale, Iowa,United States | $17 to $28.46/hour | 2026-11-12 |  |
 | CVS Health | [Pharmacy Technician Back End](https://jobs.cvshealth.com/us/en/job/R1098006) | 8603 Florida Mining Blvd, Tampa, Florida,United States | $16 to $26.21/hour | 2026-11-12 |  |
@@ -274,7 +285,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Twitch | [Software Engineer I, Commerce](https://job-boards.greenhouse.io/twitch/jobs/8934067002) | San Francisco, CA | $110,500 to $185,000 | 2026-11-12 |  |
 | UT Dallas | [Software Systems Specialist I](https://jobs.utdallas.edu/postings/33245) | Dallas, TX | $45,000 to $50,000 | 2026-11-12 |  |
 | Apple | [Darwin Runtime Engineer, Core OS](https://jobs.apple.com/en-us/details/200678840-0836/darwin-runtime-engineer-core-os) | Cupertino |  | 2026-11-11 |  |
-| GlobalFoundries | [AI Processor Hardware/Software Integration Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093) | USA - Texas - Richardson | $72,000 to $124,800 | 2026-11-11 |  |
 | Actian Corporation | [Director of Platform Engineering [gn] – Data Intelligence Platform](https://jobs.lever.co/actian/4e180b28-4497-4530-928a-43992a6a5cb4) | US - East Coast Remote |  | 2026-11-11 |  |
 | Anduril Industries | [2027 New Grad Information Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007) | Costa Mesa, California, United States | $88,000 to $117,000 | 2026-11-11 | US citizens/persons only |
 | Applied Medical | [Software Test Engineer I](https://careers.appliedmedical.com/careers-home/jobs/15385) | Rancho Santa Margarita, California | $72,500 to $85,000 | 2026-11-11 |  |
@@ -294,8 +304,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SRS Acquiom | [IT Support Technician](https://job-boards.greenhouse.io/srsacquiom/jobs/5229391007) | Denver, Colorado, United States (hybrid) | $31.25 to $36/hour | 2026-11-11 | no visa sponsorship |
 | Verkada | [Full Stack Engineer, Business Systems](https://job-boards.greenhouse.io/verkada/jobs/5101666007) | San Mateo, CA United States | $125,000 to $160,000 | 2026-11-11 |  |
 | Zact Inc. | [Software Development Engineer in Test (SDET) – US Recent Grad (Remote)](https://zact-inc.breezy.hr/p/ad4e8b4a2a69-software-development-engineer-in-test-sdet-us-recent-grad-remote) | Saratoga, CA (remote) |  | 2026-11-11 |  |
+| Appodeal | [Junior Software Engineer](https://job-boards.greenhouse.io/appodeal/jobs/4918549008) | Parkland, Florida, USA |  | 2026-11-11 |  |
 | Garmin | [Software Engineer - Garmin Health](https://careers.garmin.com/careers-home/jobs/22181) | Olathe, Kansas |  | 2026-11-10 |  |
-| Gramian Consulting Group | [Aerodynamics & CFD Software Engineering Specialist (MSc/PhD)](https://apply.workable.com/j/D88E19B47A) | United States |  | 2026-11-10 |  |
 | Hadrian Automation | [Manufacturing Engineer, Production](https://jobs.ashbyhq.com/hadrian-automation/a3084765-da52-43a3-a9e7-960e046876cc) | Los Angeles, CA | $85,000 to $100,000 | 2026-11-10 | US citizens/persons only |
 | Sapho Bio | [Full Stack Software Engineer](https://saphobio.bamboohr.com/careers/47) | San Carlos, California, United States | $150,000 to $160,000 | 2026-11-10 |  |
 | Teradyne | [Software Engineer, (Teradyne, North Reading, MA)](https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineer%2C-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1410993000/) | North Reading, MA, US | $102,200 to $163,500 | 2026-11-10 | no visa sponsorship |
@@ -369,7 +379,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Neal R Gross & Co | [Digital Court Reporter (Contract)](https://apply.workable.com/j/CF0DDF65CE) | Lexington, Kentucky, United States | $25 to $45/hour | 2026-11-07 |  |
 | Neal R Gross & Co | [Digital Court Reporter (Contract)](https://apply.workable.com/j/7197C2A08F) | Newark, New Jersey, United States | $25 to $45/hour | 2026-11-07 |  |
 | Neal R Gross & Co | [Digital Court Reporter (Contract)](https://apply.workable.com/j/89309881E1) | Indianapolis, Indiana, United States | $25 to $45/hour | 2026-11-07 |  |
-| Nextech | [Associate Software Support Representative (Remote - US)](https://jobs.lever.co/nextech/c16a9ae9-d134-426d-8c24-9dc8b2a38757) | Remote |  | 2026-11-07 |  |
 | Zealthy | [Mobile Engineer (React Native)](https://apply.workable.com/j/699B46C269) | New York, New York, United States |  | 2026-11-07 |  |
 | Zealthy | [Full Stack Developer](https://apply.workable.com/j/4A079596EF) | New York, New York, United States |  | 2026-11-07 |  |
 | Neal R Gross & Co | [Digital Court Reporter (Contract)](https://apply.workable.com/j/E1406DEA70) | Baltimore, Maryland, United States | $25 to $45/hour | 2026-11-07 |  |
@@ -391,9 +400,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Mom's Meals | [Information Vulnerability Management Engineer](https://jobs.lever.co/momsmeals/dc0f6984-da76-4609-861a-62fb48add19a) | North Jackson, OH (hybrid) | $89,000 to $94,000 | 2026-11-06 |  |
 | Qu Pos, Inc. | [DevOps Engineer 1](https://ats.rippling.com/qu-careers/jobs/73bf0c96-e3e8-42ca-820c-01f2360ed78d) | Remote (United States) |  | 2026-11-06 |  |
 | Scowtt Inc | [Fullstack Software Engineer](https://job-boards.greenhouse.io/scowtt/jobs/4482602009) | Seattle | $110,000 to $150,000 | 2026-11-06 |  |
+| SpaceX | [Site Reliability Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8932368002?gh_jid=8932368002) | Palo Alto, CA | $150,000 to $210,000 | 2026-11-06 | US citizens/persons only |
 | SpaceX | [Site Reliability Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8932369002?gh_jid=8932369002) | Redmond, WA | $140,000 to $200,000 | 2026-11-06 | US citizens/persons only |
 | SpaceX | [Site Reliability Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8886620002?gh_jid=8886620002) | Hawthorne, CA | $135,000 to $195,000 | 2026-11-06 | US citizens/persons only |
-| SpaceX | [Site Reliability Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8932368002?gh_jid=8932368002) | Palo Alto, CA | $150,000 to $210,000 | 2026-11-06 | US citizens/persons only |
 | StubHub | [Software Engineer I (New Grad) - Consumer Experience](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101) | New York, New York, United States | $120,000 to $150,000 | 2026-11-06 |  |
 | TTUHSC | [IT Support Technician I - Help Desk Support](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=927719) | Lubbock, Texas, US | $100,000 | 2026-11-06 |  |
 | Ace IT | [Junior QA Support Analyst](https://apply.workable.com/j/649D50A2B8) | Las Vegas, Nevada, United States |  | 2026-11-06 |  |
@@ -425,10 +434,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Telnyx | [Junior Systems Administrator](https://job-boards.greenhouse.io/telnyx54/jobs/8189221003) | Denver, CO |  | 2026-11-05 |  |
 | Texas Children's Hospital | [Unit Support Assistant - Housekeeping](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428639) | Houston, TX, United States |  | 2026-11-05 |  |
 | UnitedHealth Group | [Cybersecurity Development Program Associate](https://careers.unitedhealthgroup.com/job/eden-prairie/cybersecurity-development-program-associate/34088/102882852704) | Eden Prairie, Minnesota | $60,200 to $107,400 | 2026-11-05 | no visa sponsorship |
-| Cisco | [Software Engineer Full Stack / Backend I (Full Time) - United States](https://careers.cisco.com/global/en/job/2028784) | Austin, Texas, United States of America | $84,600 to $157,400 | 2026-11-05 |  |
 | CyberSheath | [Cyber Security Analyst I](https://job-boards.greenhouse.io/cybersheath/jobs/5473521008) | United States - Remote |  | 2026-11-05 | US citizens/persons only |
 | Deepgram | [Software Engineer - Applied AI](https://jobs.ashbyhq.com/Deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41) | San Francisco, CA |  | 2026-11-05 |  |
-| Emerson (NI) | [Embedded Software Engineer – AI and Web](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013465) | Marshalltown, IA, United States |  | 2026-11-05 | no visa sponsorship |
 | Guidewire | [Software Engineer](https://wd5.myworkdaysite.com/recruiting/guidewire/external/job/United-States---Exton-PA/Software-Engineer_JR_15376-1) | United States - Exton, PA | $86,000 to $164,000 | 2026-11-05 |  |
 | Guidewire | [Software Engineer](https://wd5.myworkdaysite.com/recruiting/guidewire/external/job/United-States---Exton-PA/Software-Engineer_JR_15373-1) | United States - Exton, PA | $86,000 to $164,000 | 2026-11-05 |  |
 | Hilltop Holdings | [Credit Analyst - Banker Development Program](https://ejlu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/HilltopHoldingsAllJobs/job/32161) · Summer 2027 | McAllen, TX, United States |  | 2026-11-05 | no visa sponsorship |
@@ -437,9 +444,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | JPMorgan Chase | [Test Automation Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806442) | Wilmington, DE, United States |  | 2026-11-05 | no visa sponsorship |
 | M&T Bank | [Software Engineer](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Software-Engineer_R89691-1) | Buffalo, NY | $80,900 to $134,800 | 2026-11-05 |  |
 | SpaceX | [Mechanical Engineer, Production Operations (Starship)](https://boards.greenhouse.io/spacex/jobs/8931455002?gh_jid=8931455002) | Starbase, TX |  | 2026-11-05 | US citizens/persons only |
-| Twitch | [Software Dev Engineer I - Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8931343002) | Seattle, WA | $110,500 to $185,000 | 2026-11-05 |  |
-| Twitch | [Software Dev Engineer I - Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8931345002) | Irvine, CA | $110,500 to $185,000 | 2026-11-05 |  |
 | Twitch | [Software Dev Engineer I - Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8929545002) | San Francisco, CA | $110,500 to $185,000 | 2026-11-05 |  |
+| Twitch | [Software Dev Engineer I - Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8931345002) | Irvine, CA | $110,500 to $185,000 | 2026-11-05 |  |
+| Twitch | [Software Dev Engineer I - Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8931343002) | Seattle, WA | $110,500 to $185,000 | 2026-11-05 |  |
 | Cin7 | [Junior Software Engineer](https://jobs.lever.co/cin7/c896656f-9a8b-4263-add3-553226c73df4) | Ahmedabad, IN |  | 2026-11-05 |  |
 | 650 Industries, Inc. (\ | [Platform Engineer (Early Career)](https://ats.rippling.com/expo/jobs/a5b1330b-7061-4e37-8a2e-7ef1f77ee4aa) | Remote (United States) |  | 2026-11-05 |  |
 | Indiana State University Federal Credit Union | [IT Support Specialist](https://isucreditunion.bamboohr.com/careers/27) | Terre Haute, Indiana, United States |  | 2026-11-05 |  |
@@ -559,6 +566,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Greenpages | [IT EUX Junior Engineer I - Remote US Only](https://bluemantis.pinpointhq.com/en/postings/c1c2a699-1c75-4b51-b6a5-a089add78357) | Remote (Remote) | $17 to $19/hour | 2026-11-05 |  |
 | KPMG | [Engineer, IT Svc Mgmt](https://www.kpmguscareers.com/jobdetail/?jobId=139637) | Atlanta, GA (hybrid) |  | 2026-11-05 |  |
 | Sun King | [SDE I - Backend](https://sunking.pinpointhq.com/en/postings/9864ad7b-8726-43d6-88d6-55e00bc8cd62) | New Delhi, Delhi (Remote) |  | 2026-11-05 |  |
+| Swarm Aero | [Software Engineer, Real-Time Systems (Early Career)](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) | San Francisco |  | 2026-11-04 | US citizens/persons only, clearance |
 | Chalk | [Forward Deployed Engineer - New Grad](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) · Spring 2027 | SF (hybrid) | $170,000 to $180,000 | 2026-11-04 |  |
 | Infineon | [Graduate - Sustaining Product Engineer](https://jobs.infineon.com/careers/job/563808972284009) | Leominster, MA, US | $81,000 to $99,000 | 2026-11-04 | US citizens/persons only |
 | Endeavor AI | [Forward Deployed Engineer, 2027 Graduate](https://jobs.ashbyhq.com/endeavorai/00a6bb4f-fccb-4948-a2e9-71b736c2b0b4) | Chicago |  | 2026-11-04 |  |
@@ -575,7 +583,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpaceX | [Embedded Software Engineer, Satellite Antenna (Starlink)](https://boards.greenhouse.io/spacex/jobs/8925605002?gh_jid=8925605002) | Redmond, WA | $125,000 to $200,000 | 2026-11-04 | US citizens/persons only |
 | McWane, Inc. | [McWane Ductile New Jersey-Programmer](https://jobs.smartrecruiters.com/McWaneInc/3743990016562566-mcwane-ductile-new-jersey-programmer) | Phillipsburg, NJ, us | $75,000 to $80,000 | 2026-11-04 |  |
 | Accenture Federal Services | [Mobile/TAK Developer](https://boards.greenhouse.io/accenturefederalservices/jobs/4725823006?gh_jid=4725823006) | Washington, DC |  | 2026-11-04 |  |
-| Blue River Technology | [Embedded Software Engineer, Cameras & CI](https://www.bluerivertechnology.com/job/?gh_jid=8337794) | Santa Clara, CA | $122,000 to $183,000 | 2026-11-04 |  |
 | Bluestaq US External | [Cybersecurity Engineering Residency Program](https://job-boards.greenhouse.io/bluestaq/jobs/4475119009) | Colorado Springs | $40/hour | 2026-11-04 | clearance |
 | Built Technologies | [Innovation Software Engineer 1](https://job-boards.greenhouse.io/getbuilt/jobs/4749545005) | Nashville, Tennessee, United States | $80,000 to $110,000 | 2026-11-04 |  |
 | Tulip Interfaces | [IT Support Engineer](https://tulip.co/careers/job-posting/?gh_jid=8036932003) | Somerville, MA | $72,000 to $92,000 | 2026-11-04 |  |
@@ -592,7 +599,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lumos | [Software Engineer, NHI Platform](https://jobs.ashbyhq.com/lumos/52e98603-8302-4bf1-9bdb-6ab829c8e701) | United States (remote) | $133,500 to $150,000 | 2026-11-04 |  |
 | Madhive | [Software Engineer, Financial Systems](https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c) | Madhive HQ (New York, NY) | $120,000 to $130,000 | 2026-11-04 |  |
 | Ohalo | [IT Support Associate](https://job-boards.greenhouse.io/ohalogenetics/jobs/4747658005) | South San Francisco | $60,000 to $75,000 | 2026-11-04 |  |
-| Swarm Aero | [Software Engineer, Real-Time Systems (Early Career)](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) | San Francisco |  | 2026-11-04 | US citizens/persons only, clearance |
 | Oneleet | [Penetration Testing Coordinator](https://jobs.ashbyhq.com/oneleet/61208670-918f-4b8e-b70a-6d86da715f48) | US/LATAM - Remote |  | 2026-11-04 |  |
 | Sitreps | [Forward Deployed Software Engineer](https://job-boards.greenhouse.io/sitrepsllc/jobs/4465108009) | Remote in the US | $110,000 to $180,000 | 2026-11-04 | US citizens/persons only |
 | Tabbed | [Junior QA Engineer](https://jobs.ashbyhq.com/tabbed/f9f9550b-620a-4ef0-8977-a8fe2f236b37) | New York |  | 2026-11-04 |  |
@@ -641,17 +647,14 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Plaud | [IT Support Engineer (Contractor)- San Francisco](https://jobs.ashbyhq.com/Plaud/0c4bd452-46f3-4ae6-afe7-6157eb6e72e5) | San Francisco | $40 to $50/hour | 2026-11-04 |  |
 | Roadrunner | [Forward Deployed Engineer (New Grad)](https://jobs.ashbyhq.com/Roadrunner/c82b1987-bb02-4420-8fa2-b79075b04480) | San Francisco |  | 2026-11-04 |  |
 | Sparksoft Corporation | [Jr. Full Stack Developer](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5257361007) | Remote/Hybrid if local to Maryland |  | 2026-11-04 |  |
-| True Anomaly | [Software Engineer I to III, Digital Engineering](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007) | Denver, CO; Long Beach, CA (hybrid) | $70,000 to $165,000 | 2026-11-04 | US citizens/persons only |
 | Constant Contact | [Software Engineering Development Program - Hybrid from Waltham, MA](https://job-boards.greenhouse.io/constantcontact/jobs/8212432) | Waltham, MA (hybrid) | $90,000 to $105,000 | 2026-11-04 |  |
 | Ema | [IT Engineer](https://jobs.ashbyhq.com/ema/1119c04d-6cbe-4edc-96f5-9cc3a6c16741) | San Francisco Bay Area |  | 2026-11-04 |  |
 | IDMe | [Software Development Engineer II – Life Hub (Super App) (New Grad / Early Career)](https://job-boards.greenhouse.io/idme/jobs/8011095003) | Mountain View, California, United States | $122,000 to $157,000 | 2026-11-04 |  |
-| Oden Technologies | [Forward Deployed Data Scientist](https://jobs.ashbyhq.com/oden-technologies/48f58ffb-7cfc-49f3-8017-0d38b1774ca6) | Remote | $95,000 | 2026-11-04 | no visa sponsorship |
 | Forterra | [Platform Control Software Engineer](https://ats.rippling.com/forterra/jobs/eb6fb74c-e590-4304-ac3e-626929fc7a41) | Clarksburg, MD | $120,000 to $185,000 | 2026-11-04 |  |
 | Aery Aviation, LLC | [Desktop Support (Entry Level)](https://ats.rippling.com/aery-aviation-llc/jobs/4960f99b-859c-4c0a-bcc5-3eaf3b2751af) | Newport News, VA |  | 2026-11-04 |  |
 | Relling | [Robotics Software Engineer - New Grad](https://jobs.ashbyhq.com/Relling/a31f91ae-30f9-4e36-b9d2-2cb74c398d2e) | San Francisco |  | 2026-11-04 |  |
 | AbbVie | [Manager, Business Systems - IT Warehousing Capabilities](https://jobs.smartrecruiters.com/AbbVie/3743990015845076-manager-business-systems-it-warehousing-capabilities) | North Chicago, IL, us |  | 2026-11-04 |  |
 | Brain Co. | [AI Security Engineer, 2027 New Grad](https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030) · Spring 2027 | San Francisco Bay Area |  | 2026-11-04 |  |
-| Brain Co. | [AI Platform Engineer, 2027 New Grad](https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15) · Spring 2027 | San Francisco Bay Area |  | 2026-11-04 |  |
 | Eulerity | [Associate Backend Engineer](https://job-boards.greenhouse.io/eulerity/jobs/4718113006) | New York, New York | $95,000 | 2026-11-04 |  |
 | M3USA | [AI Software Engineer (Remote)](https://jobs.smartrecruiters.com/M3USA/744000152758649-ai-software-engineer-remote-) | Fort Washington, PA, us (remote) |  | 2026-11-04 |  |
 | Cardinal Technology Systems, Corp. | [Junior Quality Assurance Specialist](https://cardinal-technology-systems-corp.breezy.hr/p/a5722ba2377a-junior-quality-assurance-specialist) | Washington, DC |  | 2026-11-04 | US citizens/persons only |
@@ -753,6 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Anduril Industries | [Software Engineer, Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United St | $114,000 to $152,000 | 2026-11-04 |  |
 | HavocAI | [Field Software Engineer](https://jobs.ashbyhq.com/havocai/f7e2a1b3-8999-40ae-93d7-fc3ed79750f5) | Remote |  | 2026-11-04 |  |
 | Koah | [Software Engineer, Early Career](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808) | San Francisco |  | 2026-11-04 |  |
-| Narmi | [Software Engineer - Professional Services](https://jobs.gem.com/narmi/am9icG9zdDrAJaEbCOTTdxbRZOF7nP2T) | New York, NY |  | 2026-11-04 |  |
-| Ambral | [Member of Technical Staff (New Grad)](https://jobs.ashbyhq.com/Ambral/bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90) | New York |  | 2026-11-04 |  |
-| GRVTY | [iOS-Savvy CNO Developer](https://job-boards.greenhouse.io/grvty/jobs/4371868009) | Fort Meade, Maryland, United States | $140,000 to $170,000 | 2026-11-04 | clearance |

@@ -1,11 +1,12 @@
 # Internships and co-ops: Education
 
-61 open, newest first (by the date the scraper first saw them), updated 2026-11-24.
+62 open, newest first (by the date the scraper first saw them), updated 2026-11-25.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Uncommon Schools | [5-12 Apprentice Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000163477069-5-12-apprentice-teacher) | Boston, Massachusetts, us | $60,000 | 2026-11-25 |  |
 | AECOM | [High School Water Intern](https://jobs.smartrecruiters.com/AECOM2/744000162558310-high-school-water-intern) | Denver, CO, us |  | 2026-11-20 | US citizens/persons only |
 | SiriusXM | [Spring Intern, Music Library - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17678) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
 | Clark Art Institute | [Rodgers' Spring Intern- Community and Family Programs](https://clarkart.bamboohr.com/careers/64) · Spring | Williamstown, Massachusetts, United States |  | 2026-11-12 |  |
@@ -59,11 +60,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Aparecio Foundation, NFP | [Volunteer / Intern High School Mentor Liaison](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/743999659123361-volunteer-intern-high-school-mentor-liaison) | Chicago, IL, us |  | 2026-11-04 |  |
 | The Aparecio Foundation, NFP | [Arts & Culture Curriculum Intern/Volunteer](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/86096847-arts-culture-curriculum-intern-volunteer) | Chicago, IL, us |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Early Education Apprentice](https://ymcaboston.pinpointhq.com/en/postings/6e9b7868-9cb7-47e7-bd61-b5ae3bba400a) | Boston, Massachusetts |  | 2026-11-04 |  |
+| NVIDIA | [Math Libraries Intern, cuEST - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) · Summer 2027 | US, CA, Santa Clara |  | 2026-11-03 |  |
 | Amgen | [Grad Intern – Amgen Library (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871) · Summer 2027 | United States - Remote | $35.34 to $42.20/hour | 2026-11-03 |  |
 | NASA JPL | [Business Admin (Academic Part Time Intern)](https://www.jpl.jobs/us/en/job/R6200) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-11-03 |  |
-| NVIDIA | [Math Libraries Intern, cuEST - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) · Summer 2027 | US, CA, Santa Clara |  | 2026-11-03 |  |
 | Seagate | [Sustaining Intern - Graduating High School Senior (Summer 2027)](https://seagatecareers.com/job/Bloomington-Sustaining-Intern-Graduating-High-School-Senior-%28Summer-2027%29-MN/1442410600/) · Summer 2027 | Normandale, United States | $20 to $22/hour | 2026-10-22 |  |
-| Federal Reserve System | [Summer 2027 Intern - Information and Library Science](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Information-and-Library-Science_R-0000033639-1) · Summer 2027 | Chicago, IL | $20/hour | 2026-10-20 | no visa sponsorship |
 | NVIDIA | [Sparse Linear Algebra Libraries Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429) · Summer 2027 | US, CA, Santa Clara |  | 2026-10-20 |  |
+| Federal Reserve System | [Summer 2027 Intern - Information and Library Science](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Information-and-Library-Science_R-0000033639-1) · Summer 2027 | Chicago, IL | $20/hour | 2026-10-20 | no visa sponsorship |
 | NASA JPL | [Academic Part Time Intern](https://www.jpl.jobs/us/en/job/R6089) | Pasadena, California, United States of America | $21 to $22.50/hour | 2026-10-20 |  |
 | Blue Origin | [Summer 2027 Education Programs and Outreach Intern - Undergraduate](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Education-Programs-and-Outreach-Intern---Undergraduate_R71515) · Summer 2027 | Greater Seattle Area | $28/hour | 2026-10-19 | US citizens/persons only |

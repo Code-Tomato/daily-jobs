@@ -1,11 +1,15 @@
 # New grad and entry level: Design and creative
 
-187 open, newest first (by the date the scraper first saw them), updated 2026-11-24.
+189 open, newest first (by the date the scraper first saw them), updated 2026-11-25.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Texas A&M University | [CEHD - Graphic Designer I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/CEHD---Graphic-Designer-I_R-099151-1) | College Station, TX |  | 2026-11-25 |  |
+| AECOM | [Entry-Level Architecture Designer](https://jobs.smartrecruiters.com/AECOM2/744000163519669-entry-level-architecture-designer) | North Charleston, SC, us |  | 2026-11-25 | no visa sponsorship, US citizens/persons only |
+| Farmers District 40 | [Agent in Training](https://jobs.ashbyhq.com/farmersd40/dbfd6646-c837-4add-bf74-0f040cc8a1a9) | Ben Smith Agency - Culver City | $17 to $24/hour | 2026-11-25 |  |
+| Hadley Designs | [Junior Product Illustrator](https://apply.workable.com/j/75CB36F111) | United States (remote) |  | 2026-11-25 |  |
 | Chapter 2 | [Junior Designer - Newcastle](https://chapter2.teamtailor.com/jobs/8782718-junior-designer-newcastle) |  |  | 2026-11-24 |  |
 | Konrad | [UI/UX Designer](https://www.konrad.com/careers/job/8214196003?gh_jid=8214196003) | New York | $80,000 to $100,000 | 2026-11-24 |  |
 | Motorola Solutions | [UX Researcher](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Georgia-Remote-Work/UX-Researcher_R69427) | Georgia Remote Work | $90,000 to $100,000 | 2026-11-24 |  |
@@ -21,7 +25,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Rapt Studio | [Designer (Interior Design/Architecture)](https://jobs.lever.co/RaptStudio/e638743f-f0a9-4731-8a88-565bce4e82d7) | Los Angeles, CA | $50,000 to $80,000 | 2026-11-20 |  |
 | ICF | [Junior Instructional Designer - Onsite Required](https://careers.icf.com/us/en/job/R2603833) | Vienna, Virginia, United States of America | $61,232 to $104,094 | 2026-11-20 | no visa sponsorship |
 | ICF | [Instructional Designer - Onsite Required](https://careers.icf.com/us/en/job/R2603835) | Vienna, Virginia, United States of America | $61,232 to $104,094 | 2026-11-20 | no visa sponsorship |
-| Medtronic | [UI/UX Designer I](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/UI-UX-Designer-I_R81263-1) | Mounds View, Minnesota, United States of America | $79,200 to $118,800 | 2026-11-20 |  |
 | Rapt Studio | [Designer (Interior Design/Architecture)](https://jobs.lever.co/RaptStudio/70203c3e-859e-419c-8016-b936e3a2121a) | San Francisco, CA | $50,000 to $80,000 | 2026-11-20 |  |
 | UTRGV | [GRAPHIC DESIGNER - ATHLETICS](https://careers.utrgv.edu/postings/53193) | Edinburg, Texas |  | 2026-11-20 |  |
 | KLA | [Product UX/UI Designer](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-UX-UI-Designer_2642334-1) | Ann Arbor, MI | $105,900 to $180,000 | 2026-11-20 |  |
@@ -55,7 +58,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Quality Group GmbH | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5023226101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |
 | Trilon Group | [Engineering Designer I](https://trilongroup.pinpointhq.com/en/postings/fd4c31a6-aac2-46f7-9abd-b46b3c2253e8) | Atlanta, Georgia | $65,000 to $80,000 | 2026-11-11 |  |
 | AccuWeather | [Weather Graphics Production Artist](https://job-boards.greenhouse.io/accuweather/jobs/8367396) | State College, PA |  | 2026-11-10 |  |
-| Garmin | [Aviation Human Factors Designer 1](https://careers.garmin.com/careers-home/jobs/21949) | Olathe, Kansas |  | 2026-11-07 |  |
 | Online Labels Group | [Flexographic Press Operator](https://online-labels.breezy.hr/p/0a3c014235e6-flexographic-press-operator) | 12177 28th Street N St. Petersburg, FL |  | 2026-11-07 |  |
 | Online Labels Group | [Flexographic Press Operator](https://online-labels.breezy.hr/p/ce599aad1ae7-flexographic-press-operator) | 2001 E Lake Mary Blvd Sanford, FL |  | 2026-11-07 |  |
 | OHM Advisors | [Plumbing Designer](https://apply.workable.com/j/879A49B21C) | St. Petersburg, Florida, United States |  | 2026-11-07 |  |

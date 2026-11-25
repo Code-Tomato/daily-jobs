@@ -1,11 +1,14 @@
 # New grad and entry level: Product, program and project management
 
-278 open, newest first (by the date the scraper first saw them), updated 2026-11-24.
+279 open, newest first (by the date the scraper first saw them), updated 2026-11-25.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Fin | [Associate Product Manager - Compliance](https://jobs.ashbyhq.com/fin/cfee7b88-324b-4244-8f06-f4d18d202f53) | New York, NY |  | 2026-11-25 |  |
+| Triumvirate Environmental | [Program Manager](https://job-boards.greenhouse.io/triumvirateenvironmental/jobs/4731723006) | Astoria, NY |  | 2026-11-25 | no visa sponsorship |
+| Funnel Leasing | [Associate Product Manager](https://apply.workable.com/j/29F2E095A4) | United States | $85,000 to $105,000 | 2026-11-25 |  |
 | Telnyx | [Associate Technical Project Manager](https://job-boards.greenhouse.io/telnyx54/jobs/8040550003) | Remote |  | 2026-11-24 |  |
 | City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021796-project-manager) | New York City, NY, us |  | 2026-11-21 |  |
 | Cigna | [Entry-Level Product Management Analyst - EviCore - Remote](https://jobs.thecignagroup.com/us/en/job/26013995) | Remote, US |  | 2026-11-21 |  |
@@ -25,6 +28,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Jobgether | [Risk Adjustment Coding Project Manager](https://jobs.lever.co/jobgether/05e96ced-6e2a-4f1d-928f-3ff550242f1b) | US | $75,000 to $90,000 | 2026-11-20 | no visa sponsorship |
 | Curtin Maritime | [Associate Project Manager](https://curtinmaritime.bamboohr.com/careers/412) | Long Beach, California, United States |  | 2026-11-20 |  |
 | Datavant | [Risk Adjustment Coding Project Manager](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5489482008) | Remote - United States | $75,000 to $90,000 | 2026-11-20 | no visa sponsorship |
+| Eating Recovery Center | [Child and Adolescent Program Manager](https://job-boards.greenhouse.io/erc8585757pathlight53t353/jobs/4515615009) | IL-Northbrook | $66,000 to $77,900 | 2026-11-20 |  |
 | SharkNinja | [Associate Program Manager](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4730200006) | Needham, MA, United States |  | 2026-11-19 |  |
 | TikTok | [TikTok Local Services - Merchant & Listings Governance Program Manager](https://lifeattiktok.com/search/7626137712793569589) | Los Angeles, California, United States of America |  | 2026-11-19 |  |
 | City of New York | [BOB - Associate Project Manager II](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016930046-bob-associate-project-manager-ii) | New York City, NY, us |  | 2026-11-18 |  |
@@ -48,10 +52,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Guidepoint | [Market Research Project Manager](https://job-boards.greenhouse.io/guidepoint/jobs/8936173002) | New York, New York, United States (hybrid) | $70,000 to $74,000 | 2026-11-12 |  |
 | IXL Learning | [IXL Associate Product Manager](https://www.ixl.com/company/jobs?gh_jid=8936808002) | San Mateo, CA |  | 2026-11-12 |  |
 | Lightmatter | [Associate Operations Program Manager](https://boards.greenhouse.io/lightmatter/jobs/5472106008?gh_jid=5472106008) | Boston, MA; Mountain View, CA |  | 2026-11-12 |  |
+| Northwestern Mutual | [Technical Program Manager II](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/Franklin-WI-Corporate/Technical-Program-Manager-II_JR-46308) | Franklin, WI Corporate | $89,360 to $134,040 | 2026-11-11 |  |
 | City of New York | [Program Manager (ACP Sponsor Engagement)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016786436-program-manager-acp-sponsor-engagement-) | New York City, NY, us |  | 2026-11-11 |  |
 | AxisCare | [Associate Product Manager](https://axiscare.bamboohr.com/careers/181) | Waco, Texas, United States (Remote) |  | 2026-11-11 |  |
 | GE HealthCare | [Project Management Imaging Specialist, Western Massachusetts and New England](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Project-Management-Imaging-Specialist--Western-Massachusetts-and-New-England_R4049326-1) | Remote |  | 2026-11-11 | no visa sponsorship |
-| Northwestern Mutual | [Technical Program Manager II](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/Franklin-WI-Corporate/Technical-Program-Manager-II_JR-46308) | Franklin, WI Corporate | $89,360 to $154,200 | 2026-11-11 |  |
 | TikTok | [Project Manager Graduate (Linehaul Management) - 2027 Start](https://lifeattiktok.com/search/7706600831827085621) | Middlesex, New Jersey, United States of America |  | 2026-11-11 |  |
 | City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016750676-project-manager) | New York City, NY, us |  | 2026-11-10 |  |
 | Applied Materials | [Technical Project Manager I - New College Graduate (Bachelors) Kalispell, MT](https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Technical-Project-Manager-I---New-College-Graduate--Bachelors--Kalispell--MT_R2633097) | Kalispell,MT | $65,500 to $90,000 | 2026-11-10 |  |
@@ -84,7 +88,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Cultivate Initiatives | [Community Beautification Program Manager](https://cultivateinitiatives.bamboohr.com/careers/139) | Portland, Oregon, United States | $64,000 to $68,000 | 2026-11-05 |  |
 | Double L Management | [Assistant Project Manager (Fireproofing)](https://doublel.bamboohr.com/careers/82) | Westerville, Ohio, United States |  | 2026-11-05 |  |
 | PMA Consultants | [Assistant Project Manager](https://jobs.lever.co/pmaconsultants/46af906e-a7da-47b0-a1ca-577937313264) | Springfield, MA (hybrid) |  | 2026-11-05 |  |
-| Clerkie | [Associate Product Manager](http://getfiber.ai/careers?gh_jid=5269011007) | Remote |  | 2026-11-05 | no visa sponsorship |
 | Hive | [Associate Product Manager, Deploy Models](https://jobs.lever.co/hive/d5b22ed0-fdd2-4be1-8e6c-b6d734c17986) | San Francisco | $90,000 to $120,000 | 2026-11-05 |  |
 | Optimal Workshop | [Associate Product Manager (ANZ, Remote)](https://optimalworkshop.bamboohr.com/careers/149) | Remote |  | 2026-11-05 |  |
 | Soluna | [Grid Interconnection Project Manager](https://ats.rippling.com/soluna-us-services-llc/jobs/074af315-7e3d-4dfb-b0a4-77eb801297c1) | Remote (Texas, US) |  | 2026-11-05 |  |
@@ -116,11 +119,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016455616-project-manager) | New York City, NY, us |  | 2026-11-04 |  |
 | AECOM | [Entry-Level Deputy Project Manager](https://jobs.smartrecruiters.com/AECOM2/744000157843708-entry-level-deputy-project-manager) | Philadelphia, PA, us |  | 2026-11-04 | no visa sponsorship |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464240008) | Olathe KS |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464244008) | Atlanta GA |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464243008) | Port St. Lucie FL |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
-| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464233008) | Phoenix AZ EDS |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464244008) | Atlanta GA |  | 2026-11-04 |  |
 | DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464229008) | Nashville TN |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464233008) | Phoenix AZ EDS |  | 2026-11-04 |  |
+| DH Pace | [Project Manager-Commercial Entry Door Experience is a Plus](https://job-boards.greenhouse.io/dhpace/jobs/5464242008) | Omaha NE |  | 2026-11-04 |  |
 | ButterflyMX | [Implementation Project Manager (Hybrid)](https://jobs.ashbyhq.com/butterflymx/6da62dcb-ad9e-4de4-865a-14f80ec8d968) | NYC Headquarters (hybrid) | $75,000 to $85,000 | 2026-11-04 |  |
 | iCapital | [Product Manager - Analyst / Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8907186002) | Colorado Springs, Colorado, United States | $60,000 to $90,000 | 2026-11-04 |  |
 | Pleasant Valley Corporation | [Project Manager, Parking Lot Solutions](https://pleasant-valley-corporation.breezy.hr/p/ed5f415fafa0-project-manager-parking-lot-solutions) | Medina, OH |  | 2026-11-04 |  |
@@ -135,7 +138,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | City of New York | [Environmental Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016139821-environmental-project-manager) | New York City, NY, us |  | 2026-11-04 |  |
 | City of New York | [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016139926-project-manager) | New York City, NY, us |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | City of New York | [EV Program Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016040446-ev-program-manager) | Queens, NY, us |  | 2026-11-04 |  |
-| AfterQuery | [Research Program Manager](https://jobs.ashbyhq.com/AfterQuery/a3b974a9-e5ca-4850-aed6-e80daea1d3ad) | San Francisco |  | 2026-11-04 |  |
 | St. Joseph Center | [Licensed ICMS Program Manager - Care Campus](https://jobs.smartrecruiters.com/STJOSEPHCENTER/744000154770849-licensed-icms-program-manager-care-campus) | Los Angeles, CA, us (hybrid) |  | 2026-11-04 |  |
 | Verse | [Product Manager, Fleet Telemetry, Controls & Optimization](https://job-boards.greenhouse.io/verse/jobs/5448559008) | San Francisco, CA | $130,000 to $200,000 | 2026-11-04 |  |
 | Guidepoint | [Associate Project Manager](https://job-boards.greenhouse.io/guidepoint/jobs/8836428002) | Phoenix, Arizona, United States (hybrid) | $65,000 | 2026-11-04 |  |
@@ -238,6 +240,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Project Manager - Transmission](https://careers.bv.com/job/Burlington-Project-Manager-Transmission-MA-01803/1292507701/) | Burlington, MA, US | $126,360 to $221,136 | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Columbus-Project-Manager-WaterWastewater-OH-43085/1421396233/) | Indianapolis, IN, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Des-Moines-Project-Manager-WaterWastewater-IA/1421409133/) | Creve Coeur, MO, US |  | 2026-10-20 |  |
+| HPE | [Internal Project Manager I](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Internal-Project-Manager-I_1213447) | Bloomington, Minnesota, United States of America | $57,500 to $130,000 | 2026-10-20 |  |
+| HPE | [PLM Program Manager Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/PLM-Program-Manager-Graduate_1213445-1) | Spring, Texas, United States of America | $62,900 to $145,300 | 2026-10-20 |  |
 | Black & Veatch | [Data Center Field Project Manager](https://careers.bv.com/job/Overland-Park-Data-Center-Field-Project-Manager-KS-66062/1408970833/) | San Antonio, TX, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Charlotte-Project-Manager-WaterWastewater-NC-28201/1421012033/) | Cary, NC, US |  | 2026-10-20 |  |
 | Black & Veatch | [Project Manager - Water/Wastewater](https://careers.bv.com/job/Greenville-Project-Manager-WaterWastewater-SC/1421015133/) | Charleston, SC, US |  | 2026-10-20 |  |
@@ -249,8 +253,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Invesco | [Associate Product Manager, Equities](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Assoc-Product-Mgr-EM-Equities_R-15536) | New York, New York |  | 2026-10-20 |  |
 | Adobe | [2027 MBA University Graduate - Product Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900) | San Jose | $105,300 to $205,150 | 2026-10-20 |  |
 | Aptiv | [Product Manager ADAS](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Boston-MA---USA/Product-Manager-ADAS_J000703323) | Boston, MA - USA |  | 2026-10-20 |  |
-| HPE | [Internal Project Manager I](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Internal-Project-Manager-I_1213447) | Bloomington, Minnesota, United States of America | $57,500 to $130,000 | 2026-10-20 |  |
-| HPE | [PLM Program Manager Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/PLM-Program-Manager-Graduate_1213445-1) | Spring, Texas, United States of America | $62,900 to $145,300 | 2026-10-20 |  |
 | SLB | [Project Manager](https://careers.slb.com/jobdescription.aspx?id=WDR00136807) | Midland, United States |  | 2026-10-20 | no visa sponsorship |
 | Kinder Morgan | [Engineer-Production CO2](https://careers.kindermorgan.com/careers-home/jobs/6168) | SNYDER, Texas |  | 2026-10-20 |  |
 | Siemens | [Commercial Project Management Development Program](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521258) |  |  | 2026-10-20 | no visa sponsorship |
@@ -280,7 +282,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TikTok | [Program Manager Graduate (PMO) - 2027 Start (MBA)](https://lifeattiktok.com/search/7673236143812184325) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Technical Project Manager(Distribution Partnerships)-TikTok](https://lifeattiktok.com/search/7633303697447913781) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | Micron | [TIQ Program Manager - US Expansions](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/TIQ-Program-Manager---US-Expansions_JR112989) | Boise, ID - ID1 | $68,000 to $203,000 | 2026-10-19 |  |
-| Micron | [New College Grad - Product Manager, HBM](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001) | Boise, ID - Main Site |  | 2026-10-19 |  |
-| Applied Materials | [Product Manager II, New College Grad- Master's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Manager-II--New-College-Grad--Master-s--Santa-Clara--CA-_R2629463) | Santa Clara,CA | $100,000 to $136,500 | 2026-10-19 |  |
 | Applied Materials | [Service Product Manager/Product Line Management New College Grad- Master's (Santa Clara, CA/Austin, TX)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Service-Product-Manager-Product-Line-Management-New-College-Grad--Master-s--Santa-Clara--CA-Austin--TX-_R2629842) | Santa Clara,CA | $86,500 to $119,000 | 2026-10-19 |  |
 | Applied Materials | [Product Management II New College Grad- Master's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882) | Santa Clara,CA | $100,000 to $136,500 | 2026-10-19 |  |
+| Micron | [New College Grad - Product Manager, HBM](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001) | Boise, ID - Main Site |  | 2026-10-19 |  |
