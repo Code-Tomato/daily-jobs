@@ -1,11 +1,16 @@
 # New grad and entry level: Education
 
-374 open, newest first (by the date the scraper first saw them), updated 2026-11-25.
+379 open, newest first (by the date the scraper first saw them), updated 2026-11-26.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Texas Children's Hospital | [Diabetes Educator II PT/PD](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428998) | Houston, TX, United States |  | 2026-11-26 |  |
+| Apollo After School | [Substitute Educator (After care/ morning care)](https://apollo-after-school.breezy.hr/p/e87108ca12c6-substitute-educator-after-care-morning-care) | Beachwood, OH | $20/hour | 2026-11-26 |  |
+| Avid4 Adventure | [Colorado Expedition Camp Instructor](https://jobs.ashbyhq.com/avid4/1287cd4c-297d-47d5-8899-8406bcbfa48a) | Colorado Expeditions |  | 2026-11-26 |  |
+| Green Tree School & Services | [1:1 Support](https://jobs.ashbyhq.com/Green-Tree-School-and-Services/afac86cb-debe-4663-94cc-6d4acb9d45f9) | Philadelphia, PA |  | 2026-11-26 |  |
+| Western Camps, Inc. | [Experienced Horseback Rider - Wrangler / Trail Guide (Part-Time)](https://ats.rippling.com/western-camps-inc/jobs/3dc87de2-b203-4b36-860d-ac11a56d821d) | Sanger, CA | $16.90 to $18.50/hour | 2026-11-26 |  |
 | A Bright Beginning Childcare | [Floater Teacher](https://job-boards.greenhouse.io/abrightbeginnings/jobs/5308708007) | 216 E 90th Dr., Merrillville, IN 46410 |  | 2026-11-25 |  |
 | Texas A&M University | [Library Specialist I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Library-Specialist-I_R-097432-1) | College Station, TX | $15.85/hour | 2026-11-25 |  |
 | Texas Health Resources | [Admissions Specialist – PRN - Admitting ER](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012698&lang=en) | Plano |  | 2026-11-25 |  |
@@ -362,10 +367,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | YMCA of Greater Boston | [Group Exercise Instructor - Aqua Fitness](https://ymcaboston.pinpointhq.com/en/postings/293ea85e-6dfa-46ac-9b35-e0f109eb30e4) | Woburn, MA |  | 2026-11-04 |  |
 | YMCA of Greater Boston | [Group Exercise Instructor - Body Combat (certification required or equivalent experience)](https://ymcaboston.pinpointhq.com/en/postings/1d0f2e1d-e00b-4f54-a440-5d5cd181398b) | Woburn, MA |  | 2026-11-04 |  |
 | UTMB Health | [Federal Work Study Student, Dean of Graduate School](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2600926&lang=en) | United States-Texas-Galveston |  | 2026-11-02 |  |
+| United Airlines | [Ramp Training Instructor](https://careers.united.com/us/en/job/ORD00003574) | San Francisco, California, United States | $66,500 to $86,616 | 2026-10-20 | no visa sponsorship |
 | KLA | [Technical Instructor (EBEAM)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--EBEAM-_2639119) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |
 | KLA | [Technical Instructor (FAST)](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--FAST-_2639121) | Phoenix, AZ | $28.23 to $41/hour | 2026-10-20 |  |
 | East Texas A&M University | [Adjunct Faculty - Music (Specific Positions)](https://tamus.wd1.myworkdayjobs.com/ETAMU_External/job/Commerce-TX/Adjunct-Faculty---Music--Specific-Positions-_R-084144) | Commerce, TX |  | 2026-10-20 |  |
-| United Airlines | [Ramp Training Instructor](https://careers.united.com/us/en/job/ORD00003574) | Chicago, Illinois, United States | $66,500 to $86,616 | 2026-10-20 | no visa sponsorship |
 | UT Dallas | [Part-time Lecturer - Archer Fellowship Program](https://jobs.utdallas.edu/postings/32971) | Washington, D.C. |  | 2026-10-20 |  |
 | Texas Children's Hospital | [Diabetes Educator II](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/427793) | Houston, TX, United States |  | 2026-10-20 |  |
 | ICF | [Library Technician](https://careers.icf.com/us/en/job/R2603422) | Bethesda, Maryland, United States of America | $50,605 to $86,028 | 2026-10-20 | clearance |

@@ -1,11 +1,12 @@
 # Internships and co-ops: Science and research
 
-147 open, newest first (by the date the scraper first saw them), updated 2026-11-25.
+143 open, newest first (by the date the scraper first saw them), updated 2026-11-26.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Pacific Northwest National Laboratory | [PhD Intern - Electrochemical Recovery and Separation of Critical Minerals (Winter 2027)](https://careers.pnnl.gov/careers-home/jobs/14705) · Winter 2027 | Richland, Washington | $24.04 to $36.06/hour | 2026-11-26 | US citizens/persons only, clearance |
 | Dozee | [Intern - Clinical Research](https://jobs.lever.co/dozee/0e4a7863-9405-4e89-a961-acc4a94cf7bc) | Lake Jackson, Texas |  | 2026-11-25 |  |
 | Amgen | [Grad Intern – Genetic Medicines (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Grad-Intern---Genetic-Medicines--Summer-2027-_R-261455) · Summer 2027 | US - California - Thousand Oaks | $35.34 to $41.20/hour | 2026-11-24 |  |
 | Entegris | [Nanoparticle Research Associate Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Nanoparticle-Research-Associate-Co-Op_REQ-14493) · Spring 2027 | Aurora, IL | $20 to $30/hour | 2026-11-24 |  |
@@ -29,7 +30,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | National Laboratory of the Rockies (NREL) | [Undergraduate/Graduate Internship – Biochemistry/Molecular Biology/Fermentation](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-Graduate-Internship---Biochemistry-Molecular-Biology-Fermentation_R14619) | Golden, CO | $39,600 to $63,400 | 2026-11-14 |  |
 | Entegris | [Research Associate Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Research-Associate-Intern---Summer-2027_REQ-15864) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
 | Entegris | [Research Associate Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Research-Associate-Intern---Summer-2027_REQ-15849) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
-| Entegris | [Formulation Scientist, Intern - Summer 2027](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Formulation-Scientist--Intern---Summer-2027_REQ-15876) · Summer 2027 | Aurora, IL | $20 to $30/hour | 2026-11-13 |  |
 | Pacific Northwest National Laboratory | [PhD Intern - Atmospheric Chemistry](https://careers.pnnl.gov/careers-home/jobs/13715) | Richland, Washington | $24.04 to $36.06/hour | 2026-11-13 |  |
 | HPE | [HPE Labs - Systems Architecture Lab Research Associate Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Systems-Architecture-Lab-Research-Associate-Intern_1218728) | Milpitas, California, United States of America | $90,002 to $193,752 | 2026-11-12 |  |
 | Entegris | [Analytical Chemist Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Danbury-CT/Analytical-Chemist-Intern_REQ-15855) · Summer 2027 | Danbury, CT | $20 to $30/hour | 2026-11-11 |  |
@@ -125,9 +125,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Westlake | [Chemical Engineer Intern](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Deer-Park-TX/Chemical-Engineer-Intern_R33810) | US - Deer Park, TX |  | 2026-10-20 |  |
 | Westlake | [2027 Intern- Chemical Engineering](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Lake-Charles-LA/XMLNAME-2027-Intern--Chemical-Engineering_R33594) | US - Lake Charles, LA |  | 2026-10-20 | no visa sponsorship |
 | Westlake | [Chemist Intern (Summer 2027)](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Calvert-City-KY/Chemist-Intern--Summer-2027-_R33642) · Summer 2027 | US - Calvert City, KY |  | 2026-10-20 | no visa sponsorship |
-| Analog Devices | [Biomedical Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577) | US, MA, Wilmington | $22 to $41/hour | 2026-10-20 |  |
-| Entegris | [Metrology Scientist Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Metrology-Scientist--Co-Op_REQ-14501) · Spring 2027 | Billerica, MA | $20 to $30/hour | 2026-10-20 |  |
-| Entegris | [Analytical scientist Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Analytical-scientist-Co-Op_REQ-14500-1) · Spring 2027 | Billerica, MA | $20 to $30/hour | 2026-10-20 |  |
 | Insulet | [Graduate Co-op, R&D Chemistry: January - June 2027 (Onsite)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Chemistry--January---June-2027--Onsite-_REQ-2026-18399) | Acton, Massachusetts | $25 to $34/hour | 2026-10-20 | no visa sponsorship |
 | Stryker | [Summer 2027 Internship - Biomedical Engineering - Florida](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Biomedical-Engineering---Florida_R572592) · Summer 2027 | Fort Lauderdale, Florida | $35/hour | 2026-10-20 | no visa sponsorship |
 | Stryker | [Summer 2027 Internship - Biomedical Engineering - Illinois](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Biomedical-Engineering---Illinois_R572593) · Summer 2027 | Cary, Illinois | $35/hour | 2026-10-20 | no visa sponsorship |
@@ -141,7 +138,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ascension | [Cath Lab Tech Intern](https://jobs.ascension.org/us/en/job/2026-445061) | Racine, WI, US |  | 2026-10-20 |  |
 | Etched | [Lab Operations Intern](https://jobs.ashbyhq.com/Etched/7d400861-c124-475f-8cef-73b9fd5199cf) | San Jose |  | 2026-10-20 |  |
 | Pacific Northwest National Laboratory | [PhD Intern - Geochemistry](https://careers.pnnl.gov/careers-home/jobs/12123) | Richland, Washington | $24.04 to $36.06/hour | 2026-10-20 |  |
-| Siemens | [Test Laboratory Co-op (North Carolina State University)](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521401) · Fall 2027 | Wendell, North Carolina, United States of America |  | 2026-10-20 | no visa sponsorship |
 | Southwest Research Institute | [STUDENT ASSISTANT-R&D - STUDENT ENGINEER - Laboratory Engineer](https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=18-01640) · Fall 2026 | San Antonio, Texas |  | 2026-10-20 | US citizens/persons only |
 | Varda | [Biologics Formulation Research Internship - Spring 2027](https://job-boards.greenhouse.io/vardaspace/jobs/7824834003) · Spring 2027 | El Segundo, California, United States |  | 2026-10-20 | US citizens/persons only |
 | Tenet Healthcare | [Lab Student Extern - Float Pool](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503025142) | West Palm Beach, FL, United States |  | 2026-10-20 |  |

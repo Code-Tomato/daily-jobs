@@ -1,11 +1,12 @@
 # Internships and co-ops: Education
 
-62 open, newest first (by the date the scraper first saw them), updated 2026-11-25.
+63 open, newest first (by the date the scraper first saw them), updated 2026-11-26.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Firestorm | [Curriculum Internship](https://jobs.gem.com/firestorm/am9icG9zdDqq7zt4nZbYlrlc3zt_7up4) | San Diego, CA | $28 to $34/hour | 2026-11-26 | US citizens/persons only, clearance |
 | Uncommon Schools | [5-12 Apprentice Teacher](https://jobs.smartrecruiters.com/UncommonSchools/744000163477069-5-12-apprentice-teacher) | Boston, Massachusetts, us | $60,000 | 2026-11-25 |  |
 | AECOM | [High School Water Intern](https://jobs.smartrecruiters.com/AECOM2/744000162558310-high-school-water-intern) | Denver, CO, us |  | 2026-11-20 | US citizens/persons only |
 | SiriusXM | [Spring Intern, Music Library - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17678) · Spring | New York, New York | $18/hour | 2026-11-13 |  |

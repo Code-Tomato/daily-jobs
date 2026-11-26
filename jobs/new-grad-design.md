@@ -1,11 +1,13 @@
 # New grad and entry level: Design and creative
 
-189 open, newest first (by the date the scraper first saw them), updated 2026-11-25.
+189 open, newest first (by the date the scraper first saw them), updated 2026-11-26.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| GuidePoint Security | [Instructional Designer](https://boards.greenhouse.io/guidepointsecurity/jobs/6271335004?gh_jid=6271335004) | Remote |  | 2026-11-26 |  |
+| Rapt Studio | [Designer (Interior Design/Architecture)](https://jobs.lever.co/RaptStudio/ef5ab49b-6757-42fe-98d6-a3a60a35a050) | New York, NY | $50,000 to $80,000 | 2026-11-26 |  |
 | Texas A&M University | [CEHD - Graphic Designer I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/CEHD---Graphic-Designer-I_R-099151-1) | College Station, TX |  | 2026-11-25 |  |
 | AECOM | [Entry-Level Architecture Designer](https://jobs.smartrecruiters.com/AECOM2/744000163519669-entry-level-architecture-designer) | North Charleston, SC, us |  | 2026-11-25 | no visa sponsorship, US citizens/persons only |
 | Farmers District 40 | [Agent in Training](https://jobs.ashbyhq.com/farmersd40/dbfd6646-c837-4add-bf74-0f040cc8a1a9) | Ben Smith Agency - Culver City | $17 to $24/hour | 2026-11-25 |  |
@@ -42,7 +44,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDrii6RfWSkIbRfbk5w7x6is) | NJ - Warren |  | 2026-11-17 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Landscape Designer](https://jobs.gem.com/bohler-/am9icG9zdDpJF1yuLabQcf3boF59TogT) | PA - Chalfont |  | 2026-11-17 | no visa sponsorship, US citizens/persons only |
 | Siemens Energy | [Drafter / Designer](https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Drafter-Designer/306748) | Richland, Mississippi, United States |  | 2026-11-17 |  |
-| Farmers District 40 | [Manager Trainee - Morgan Raleigh](https://jobs.ashbyhq.com/farmersd40/8b190d4f-9117-474a-85f9-b1083c13e344) | Morgan Raleigh Agency - Battle Creek |  | 2026-11-16 |  |
 | Wade Trim | [Natural Gas Designer](https://jobs.lever.co/wadetrim/51f7d42d-d228-4933-b710-029425a17260) | Fort Worth, TX |  | 2026-11-16 |  |
 | Bask Health | [Junior UX Designer](https://apply.workable.com/j/CE3B5E6259) | United States |  | 2026-11-14 |  |
 | Bask Health | [Junior UX Researcher](https://apply.workable.com/j/9D0E0B899C) | United States |  | 2026-11-14 |  |
@@ -99,7 +100,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AP on AP Media | [Audio Producer](https://jobs.smartrecruiters.com/APOnAPMedia/743999721386886-audio-producer) | Brooklyn, NY, us |  | 2026-11-05 |  |
 | Rice University | [Producer of Broadcast Services](https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6356) | United States |  | 2026-11-04 |  |
 | Jackson Spalding | [Junior Designer](https://ats.rippling.com/jackson-spalding/jobs/787c5542-0e88-47aa-8fe5-713212367328) | Atlanta, GA |  | 2026-11-04 |  |
-| Monumental Sports & Entertainment | [Junior Videographer](https://job-boards.greenhouse.io/monumentalsports/jobs/5275181007) | Washington, DC 20004 | $65,000 to $80,000 | 2026-11-04 |  |
 | Heavy Construction Systems Specialists, LLC | [Product Designer I](https://jobs.gem.com/heavy-construction-systems-specialists-llc/am9icG9zdDoRG9Mm9wyfqMehtdh9PpQE) | Remote |  | 2026-11-04 |  |
 | CannonDesign | [Interior Designer - Entry Level](http://www.cannondesign.com/careers/?gh_jid=8906456002) | Chicago, IL | $23.53 to $26.46/hour | 2026-11-04 |  |
 | Storable | [Junior Graphic Designer](https://www.storable.com/about-us/culture/careers/?gh_jid=6229546004) | Seattle, WA (hybrid) | $70,000 to $100,000 | 2026-11-04 |  |

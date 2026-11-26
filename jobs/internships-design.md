@@ -1,11 +1,17 @@
 # Internships and co-ops: Design and creative
 
-185 open, newest first (by the date the scraper first saw them), updated 2026-11-25.
+184 open, newest first (by the date the scraper first saw them), updated 2026-11-26.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AECOM | [Graphic Design Intern](https://jobs.smartrecruiters.com/AECOM2/744000163757404-graphic-design-intern) | Philadelphia, PA, us |  | 2026-11-26 | no visa sponsorship |
+| AECOM | [Graphic Design Intern](https://jobs.smartrecruiters.com/AECOM2/744000163757360-graphic-design-intern) | Los Angeles, CA, us |  | 2026-11-26 | no visa sponsorship |
+| AECOM | [Graphic Design Intern](https://jobs.smartrecruiters.com/AECOM2/744000163758429-graphic-design-intern) | New York City, NY, us |  | 2026-11-26 | no visa sponsorship |
+| AECOM | [Graphic Design Intern](https://jobs.smartrecruiters.com/AECOM2/744000163758379-graphic-design-intern) | Chicago, IL, us |  | 2026-11-26 | no visa sponsorship |
+| Simplehuman | [Industrial Designer / Model Maker Intern](https://simplehuman.bamboohr.com/careers/184) | Torrance, California, United States |  | 2026-11-26 |  |
+| Tombras | [Art Director Intern](https://ats.rippling.com/tombrascareers/jobs/20a0213f-b95b-4a7f-8813-3c51039c8318) | Knoxville, TN | $18/hour | 2026-11-26 |  |
 | NBCUniversal | [Universal Studios Hollywood, Entertainment Creative Development, Audio & Video Design Internship – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000163605409-universal-studios-hollywood-entertainment-creative-development-audio-video-design-internship-summer-2027) · Summer 2027 | Universal City, CALIFORNIA, us | $22 to $25/hour | 2026-11-25 | no visa sponsorship |
 | NBCUniversal | [Universal Studios Hollywood, Entertainment Creative Development, Production Design Internship – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000163604904-universal-studios-hollywood-entertainment-creative-development-production-design-internship-summer-2027) · Summer 2027 | Universal City, CALIFORNIA, us | $22 to $25/hour | 2026-11-25 | no visa sponsorship |
 | Alcon | [Alcon Summer 2027 Intern - Human Factors & User Experience](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Lake-Forest-California/Alcon-Summer-2027-Intern---Human-Factors---User-Experience_R-2026-51135) · Summer 2027 | Lake Forest, California |  | 2026-11-25 | no visa sponsorship |
@@ -31,7 +37,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Garmin | [Product Designer Intern](https://careers.garmin.com/careers-home/jobs/22511) · Summer 2027 | Olathe, Kansas |  | 2026-11-18 |  |
 | University of Pikeville | [WS - Spring Term - INTERNSHIP – Mountain Top Media – Videographer – IWS](https://upike.bamboohr.com/careers/625) · Spring | Pikeville, Kentucky, United States |  | 2026-11-18 |  |
 | Zoox | [UX Designer Intern [Summer 2027]](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93) · Summer 2027 | Foster City, CA |  | 2026-11-17 |  |
-| Dell | [User Research Graduate Intern](https://jobs.dell.com/en/sites/CX_1/job/302688) | Austin, TX, United States | $29.60 to $31.80/hour | 2026-11-17 |  |
 | Federal Reserve System | [2027 Summer Internship Program - User Experience Intern](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---User-Experience-Intern_R-0000034084) · Summer 2027 | Atlanta, GA |  | 2026-11-17 | no visa sponsorship |
 | SharkNinja | [Summer 2027: HW UX/UI Design Intern (May through August)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006) · Summer 2027 | Needham, MA, United States | $28 to $34/hour | 2026-11-17 |  |
 | Zoox | [Service Designer Intern [Summer 2027]](https://jobs.lever.co/zoox/9fdd6600-099c-45e3-beab-f0ec7dbc296a) · Summer 2027 | Foster City, CA |  | 2026-11-17 |  |
@@ -46,7 +51,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Bask Health | [UX Research Intern](https://apply.workable.com/j/1F58DD2D0A) | United States |  | 2026-11-14 |  |
 | Bask Health | [UX Writing Intern](https://apply.workable.com/j/E35FFA0BD1) | United States |  | 2026-11-14 |  |
 | SiriusXM | [Spring Intern, Video Production - Part-Time](https://careers.siriusxm.com/careers-home/jobs/17682) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
-| Dell | [User Experience (UX) Research Intern](https://jobs.dell.com/en/sites/CX_1/job/302635) | Austin, TX, United States | $29.60 to $31.80/hour | 2026-11-13 |  |
 | Golden Pet Brands | [Creative Team Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4748138005) | Remote (USA) | $17 to $20/hour | 2026-11-13 |  |
 | SiriusXM | [Spring Intern, Podcast Producer - Part Time](https://careers.siriusxm.com/careers-home/jobs/17683) · Spring | Los Angeles, California | $18/hour | 2026-11-13 |  |
 | SiriusXM | [Spring Intern, Podcast Producer - Part Time](https://careers.siriusxm.com/careers-home/jobs/17681) · Spring | New York, New York | $18/hour | 2026-11-13 |  |
@@ -110,7 +114,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SeatGeek | [UX Design - Internship](https://seatgeek.com/jobs/8248125?gh_jid=8248125) | New York, New York | $50/hour | 2026-11-04 |  |
 | National Life Insurance Company | [Graphic Design Intern – Summer 2027](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4404976009) · Summer 2027 | Addison, TX; Montpelier, VT | $19 to $28/hour | 2026-11-04 | no visa sponsorship |
 | Bound | [UX Design Intern (Summer 2027)](https://ats.rippling.com/bound/jobs/ef56b967-e64c-4b26-8a1b-a02753c27d04) · Summer 2027 | Ames, IA |  | 2026-11-04 |  |
-| Megazone Cloud US | [Visual Design Co-op 2027](https://jobs.ashbyhq.com/megazone/66b2d2e9-1b13-40d0-a4d4-e4599fd418ca) | Rochester, NY |  | 2026-11-04 |  |
 | Timmons Group | [Landscape Designer Internship - Summer 2027](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148861879-landscape-designer-internship-summer-2027) · Summer 2027 | Charlottesville, VA, us | $25/hour | 2026-11-04 |  |
 | Timmons Group | [Landscape Designer Internship - Summer 2027](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148861399-landscape-designer-internship-summer-2027) · Summer 2027 | Richmond, VA, us | $25/hour | 2026-11-04 |  |
 | Force Factor | [Summer 2027 Digital Graphic Design Intern](https://forcefactor.com/pages/job-openings?gh_jid=6165087004) · Summer 2027 | Boston, MA or Bentonville, AR |  | 2026-11-04 |  |
@@ -153,18 +156,15 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | The Aparecio Foundation, NFP | [Digital Photographer Volunteer/Intern for 100 Women in S.T.E.M. Program](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/83075077-digital-photographer-volunteer-intern-for-100-women-in-s-t-e-m-program) | Chicago, IL, us |  | 2026-11-04 |  |
 | The Aparecio Foundation, NFP | [Digital Photographer Internship (Unpaid)](https://jobs.smartrecruiters.com/TheAparecioFoundationNFP/80703850-digital-photographer-internship-unpaid-) | Chicago, IL, us |  | 2026-11-04 |  |
 | TikTok | [Product Designer Project Intern (TikTok-Design-UX) - 2026 Start - Project Intern (TikTok Design) - 2027 Start](https://lifeattiktok.com/search/7533145462880127240) | San Jose, California, United States of America |  | 2026-11-04 |  |
-| Trilon Group | [Graphic Design Intern](https://trilongroup.pinpointhq.com/en/postings/27869bf8-ee2c-4283-a2a6-eaeee72d1f13) | Charlotte, North Carolina |  | 2026-11-04 |  |
 | Trilon Group | [Internship - Landscape Designer](https://trilongroup.pinpointhq.com/en/postings/32345bfb-fa0d-4adb-9c3f-8ce7463eda0b) | Springfield, Massachusetts |  | 2026-11-04 | no visa sponsorship |
 | Trilon Group | [Internship - Landscape Designer](https://trilongroup.pinpointhq.com/en/postings/6f378edf-6e74-4f8d-86c2-89d5f775519d) | Providence, Rhode Island |  | 2026-11-04 | no visa sponsorship |
 | Thomson Reuters | [Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Reuters-News-Internship-Program--Temp-Guild----New-York_JREQ204985) | United States of America, New York, New York | $23 to $24/hour | 2026-11-02 |  |
 | PTC | [UI/UX Design Intern (Summer 2027)](https://ptc.wd1.myworkdayjobs.com/PTC/job/USA-San-Mateo-CA/UI-UX-Designer-Intern--Summer-2027-_JR112956) · Summer 2027 | USA-San Mateo, CA | $32 to $36/hour | 2026-10-30 | no visa sponsorship |
-| SAS Institute | [Summer 2027 – User Experience Design Intern](https://careers-sas.icims.com/jobs/42758/summer-2027-%e2%80%93-user-experience-design-intern/job) · Summer 2027 | Cary HQ, NC | $15 to $49/hour | 2026-10-30 |  |
 | Sonos | [User Experience Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/User-Experience-Intern_R2883-1) · Winter 2027 | Seattle, WA |  | 2026-10-29 | no visa sponsorship |
 | Trimble | [Video Production Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/Video-Production-Intern_R58174) | US - OH, Dayton | $18.51 to $27.79/hour | 2026-10-29 |  |
 | ServiceNow | [Experience Team – UX Research Internships – Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000157919529-experience-team-ux-research-internships-summer-2027) · Summer 2027 | San Diego, CALIFORNIA, us | $45.97 to $53.04/hour | 2026-10-28 |  |
 | Intercontinental Exchange | [Summer Internship Program 2027 - User Experience (UX) Designer Intern](https://careers.ice.com/careers-home/jobs/14111) · Summer | New York, New York | $30/hour | 2026-10-24 |  |
 | Intercontinental Exchange | [Summer Internship Program 2027 - Enterprise UX Intern](https://careers.ice.com/careers-home/jobs/14058) · Summer | Atlanta, Georgia |  | 2026-10-24 |  |
-| Entegris | [Designer/Drafter Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/San-Luis-Obispo-CA/Designer-Drafter-Co-Op_REQ-14429) · Spring 2027 | San Luis Obispo, CA | $20 to $30/hour | 2026-10-23 |  |
 | Garmin | [User Interface Designer Intern](https://careers.garmin.com/careers-home/jobs/19938) · Summer 2027 | Olathe, Kansas |  | 2026-10-21 |  |
 | Dick's Sporting Goods | [Product Design (UX) - Summer 2027 Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Product-Design--UX----Summer-2027-Corporate-Internship_202608790-1) · Summer 2027 | Customer Support Center (hybrid) |  | 2026-10-20 |  |
 | GM | [Summer 2027 Intern - Industrial Design](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship |
@@ -180,7 +180,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Stryker | [Summer 2027 Internship - Industrial Design Intern - Michigan](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730) · Summer 2027 | Portage, Michigan | $35/hour | 2026-10-20 | no visa sponsorship |
 | Stryker | [Summer 2027 Intern - Industrial Design, User Experience - Michigan](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833) · Summer 2027 | Portage, Michigan | $35/hour | 2026-10-20 |  |
 | Formlabs | [Industrial Design Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232) · Spring 2027 | Somerville, MA |  | 2026-10-20 |  |
-| Honda | [Creative Design and Research Co-op/Intern - Summer 2027](https://careers.honda.com/us/en/job/11171) · Summer 2027 | Torrance, California, United States | $26.58 to $34.38/hour | 2026-10-20 |  |
 | Honda | [Creative Design and Research Co-op/Intern - Spring 2027](https://careers.honda.com/us/en/job/10997) · Spring 2027 | Torrance, California, United States | $26.58 to $34.38/hour | 2026-10-20 |  |
 | Netflix | [Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026](https://explore.jobs.netflix.net/careers/job/790315673635) · Fall 2026 | Los Gatos, California, United States of America | $40 to $110/hour | 2026-10-20 |  |
 | ByteDance | [Student Researcher - (Seed Model - Video) – 2026 Start (PhD)](https://joinbytedance.com/search/7670326702018906421) | San Jose, California, United States of America |  | 2026-10-20 | no visa sponsorship |
