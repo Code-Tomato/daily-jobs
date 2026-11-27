@@ -1,11 +1,12 @@
 # Internships and co-ops: Civil, construction and environmental
 
-786 open, newest first (by the date the scraper first saw them), updated 2026-11-26. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+785 open, newest first (by the date the scraper first saw them), updated 2026-11-27. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Kiewit | [Field Engineer Intern - MEC Transportation (Summer 2027)](https://kiewitcareers.kiewit.com/MEC/job/Dallas-Field-Engineer-Intern-MEC-Transportation-%28Summer-2027%29-TX-75201/1428983200/) · Summer 2027 | Los Angeles, CA, US | $17 to $24/hour | 2026-11-27 | no visa sponsorship |
 | AECOM | [Civil Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000163752907-civil-engineering-intern) | Waterloo, IA, us |  | 2026-11-26 | US citizens/persons only |
 | Firestorm | [Field Engineering Intern](https://jobs.gem.com/firestorm/am9icG9zdDrnrtsfLHPI0s2AXbtv-ZpN) | San Diego, CA | $28 to $34/hour | 2026-11-26 | US citizens/persons only, clearance |
 | Intel | [Foundry Construction, Supply Chain and Sourcing Intern – Undergraduate](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Foundry-Construction--Supply-Chain-and-Sourcing-Intern---Undergraduate_JR0287912) | US, Arizona, Phoenix (hybrid) | $64,798 to $64,802 | 2026-11-26 | no visa sponsorship |
@@ -739,7 +740,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AEP | [Civil/Structural Designer Intern - Roanoke, VA](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Roanoke-VA/Civil-Structural-Designer-Intern---Roanoke--VA_R19382) | Roanoke, VA |  | 2026-10-20 |  |
 | AEP | [Civil/Structural Designer Intern - Tulsa, OK](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/Civil-Structural-Designer-Intern---Tulsa--OK_R19381) | Tulsa, OK |  | 2026-10-20 |  |
 | Primoris | [Field Engineer Intern](https://prim.wd108.myworkdayjobs.com/Primoris/job/Nationwide/Field-Engineer-Intern_JR102285) | Nationwide |  | 2026-10-20 |  |
-| Symbotic | [Co-Op- Project Engineer, Commissioning](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Co-Op-Project-Engineer_R8240) | USA Wilmington, MA - ITC | $29 to $37.95/hour | 2026-10-20 |  |
 | Occidental University Recruiting | [Environmental Engineering Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Environmental-Engineering-Intern_JR110519) |  |  | 2026-10-20 |  |
 | Kroger | [Summer 2027 Construction Project Engineer Intern](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/237552) · Summer 2027 | Glen Allen, VA, United States |  | 2026-10-20 |  |
 | Kroger | [Summer 2027 Construction Project Engineer Intern](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/237550) · Summer 2027 | Louisville, KY, United States |  | 2026-10-20 |  |

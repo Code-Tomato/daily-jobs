@@ -1,6 +1,6 @@
 # New grad and entry level: Design and creative
 
-189 open, newest first (by the date the scraper first saw them), updated 2026-11-26.
+188 open, newest first (by the date the scraper first saw them), updated 2026-11-27.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -53,7 +53,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Primer | [Curriculum Designer - Pursuits (Contractor)](https://jobs.ashbyhq.com/primer/8eb475e8-4d7b-4663-abd7-d71abdc31c85) | Remote |  | 2026-11-12 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/22246) | Olathe, Kansas |  | 2026-11-11 |  |
 | Garmin | [Industrial Designer 1](https://careers.garmin.com/careers-home/jobs/22247) | Portland, Oregon |  | 2026-11-11 |  |
-| HCSC | [Producer Advocate](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/OK---Oklahoma-City/Producer-Advocate_R0056379-2) | OK - Oklahoma City | $17.75 to $28.39/hour | 2026-11-11 |  |
 | Panasonic North America | [Technician I Visual Inspection, Rotating Days / C-Shift / 7AM-7PM](https://careers.na.panasonic.com/careers-home/jobs/51991) | Sparks, Nevada |  | 2026-11-11 |  |
 | The Quality Group | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/5032407101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |
 | The Quality Group GmbH | [D2C Promotion, Campaign & Hype Manager (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5023226101) | Deutschland, remote; Hamburg (hybrid) |  | 2026-11-11 |  |

@@ -1,11 +1,15 @@
 # New grad and entry level: Skilled trades, service and retail
 
-5,183 open, newest first (by the date the scraper first saw them), updated 2026-11-26. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+5,137 open, newest first (by the date the scraper first saw them), updated 2026-11-27. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Boyd Gaming | [ENTRY LEVEL - Maintenance Engineer](https://jobs.smartrecruiters.com/BoydGaming/3743990017106296-entry-level-maintenance-engineer) | Mulvane, us |  | 2026-11-27 |  |
+| Intel | [S6 Die Pick Technician](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/S6-Die-Pick-Technician_JR0289447-1) | US, Oregon, Hillsboro | $51,710 to $73,010 | 2026-11-27 | no visa sponsorship |
+| SunPower | [Solar installer](https://sunpower.breezy.hr/p/816c8a722d74-solar-installer) | Salem, OR | $60,000 to $80,000 | 2026-11-27 |  |
+| SunPower | [Solar installer](https://sunpower.breezy.hr/p/869fdcb02865-solar-installer) | Portland, OR | $60,000 to $80,000 | 2026-11-27 |  |
 | Better Homes and Gardens Real Estate Advantage Realty | [Real Estate Data Entry Operator](https://jobs.smartrecruiters.com/BetterHomesAndGardensRealEstateAdvantageRealty/744000163782737-real-estate-data-entry-operator) | San Antonio, TX, us | $27.81 to $29.97/hour | 2026-11-26 |  |
 | Enbridge | [Wind Turbine Technician I](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Limon-CO-USA/Wind-Turbine-Technician-I_73847) | Limon, CO, USA | $49,900 to $57,990 | 2026-11-26 |  |
 | Macy's | [Starbucks Barista Trainer, King of Prussia - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/REQ_828045) | King of Prussia, PA, United States |  | 2026-11-26 |  |
@@ -111,7 +115,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Lava Island | [Low Voltage Technician (Travel)](https://lavaisland.bamboohr.com/careers/349) | Dallas Remote (Travel), Texas, United States (Remote) |  | 2026-11-25 |  |
 | McKesson | [Warehouse Worker – Inventory/ Returns](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TN-LaVergne/Warehouse-Worker---Inventory--Returns_JR0156893) | USA, TN, LaVergne | $16.79 to $27.98/hour | 2026-11-25 |  |
 | Miller Transportation Group | [Diesel Mechanic Technician](https://apply.workable.com/j/EE3D461C56) | Syracuse, New York, United States | $25/hour | 2026-11-25 |  |
-| MKS Instruments | [Assembler 2 (Conversion)](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Andover-MA/Assembler-2--Conversion-_R24439) | Andover, MA | $16.70 to $27.83/hour | 2026-11-25 | US citizens/persons only |
 | Monarch Communities | [Dining Server Full-time](https://jobs.smartrecruiters.com/MonarchCommunities/744000163540339-dining-server-full-time) | Southbury, CT, us | $17 to $18/hour | 2026-11-25 |  |
 | Monarch Communities | [Cook (Per Diem)](https://jobs.smartrecruiters.com/MonarchCommunities/744000163508365-cook-per-diem-) | Phoenixville, PA, us | $23 to $24/hour | 2026-11-25 |  |
 | Monarch Communities | [Dining Server - Part Time](https://jobs.smartrecruiters.com/MonarchCommunities/744000163506929-dining-server-part-time) | Toms River, NJ, us | $15.92/hour | 2026-11-25 |  |
@@ -578,13 +581,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kimberly-Clark | [Production Operator](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/USA-WI-Neenah/Production-Operator_888254-2) | USA-WI-Neenah | $28.12/hour | 2026-11-20 |  |
 | Kinder Morgan | [Corrosion Technician](https://careers.kindermorgan.com/careers-home/jobs/7028) | ROME, Georgia |  | 2026-11-20 |  |
 | Lowe's | [Market Delivery Driver (Birmingham, AL)](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Birmingham-AL-Trussville-0594/Market-Delivery-Driver--Birmingham--AL-_JR-02708461) | Birmingham, AL (Trussville) 0594 |  | 2026-11-20 |  |
-| MKS Instruments | [Machinist 1](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Broomfield-CO/Machinist-1_R24070) | Broomfield, CO |  | 2026-11-20 | US citizens/persons only |
 | MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Methuen-MA/Assembler-2_R24161) | Methuen, MA | $14.75 to $24.58/hour | 2026-11-20 | US citizens/persons only |
 | MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Methuen-MA/Assembler-2_R24168) | Methuen, MA | $14.75 to $24.58/hour | 2026-11-20 | US citizens/persons only |
 | MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Methuen-MA/Assembler-2_R24170) | Methuen, MA | $14.75 to $24.58/hour | 2026-11-20 | US citizens/persons only |
-| MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Methuen-MA/Assembler-2_R24163) | Methuen, MA |  | 2026-11-20 | US citizens/persons only |
 | MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Methuen-MA/Assembler-2_R24162) | Methuen, MA |  | 2026-11-20 | US citizens/persons only |
-| MKS Instruments | [Assembler 2](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Wilmington-MA/Assembler-2_R24142) | Wilmington, MA |  | 2026-11-20 | US citizens/persons only |
 | Nordstrom | [Facilities Technician 1 - Cedar Rapids Fulfillment Center](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Cedar-Rapids-IA/Facilities-Technician-1---Cedar-Rapids-Fulfillment-Center_R-897909-1) | Cedar Rapids IA | $19.25 to $32.25/hour | 2026-11-20 |  |
 | Republic Services | [Maintenance Shop Welder](https://jobs.republicservices.com/us/en/job/R-188715) | Houston, Texas, United States of America |  | 2026-11-20 |  |
 | Republic Services | [Technician I - TSDF](https://jobs.republicservices.com/us/en/job/R-188655) | Browns Summit, North Carolina, United States of America |  | 2026-11-20 |  |

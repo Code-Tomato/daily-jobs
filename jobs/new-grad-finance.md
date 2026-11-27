@@ -1,18 +1,27 @@
 # New grad and entry level: Finance, accounting and banking
 
-2,724 open, newest first (by the date the scraper first saw them), updated 2026-11-26. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,673 open, newest first (by the date the scraper first saw them), updated 2026-11-27. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Bank of America | [Financial Solutions Advisor - 95 Wall Street Financial Center](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Financial-Solutions-Advisor---95-Wall-Street-Financial-Center_26043873) | New York | $70,000 to $80,000 | 2026-11-27 |  |
+| Huntington Bank | [Customer Experience Banker- Chicago, IL (Clark/Division)](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Chicago-IL/Customer-Experience-Banker--Chicago--IL--Clark-Division-_R0078157) | Chicago, IL | $23 to $26/hour | 2026-11-27 | no visa sponsorship |
+| JPMorgan Chase | [Relationship Banker - Riverside Central - Riverside, CA](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811842) | Riverside, CA, United States |  | 2026-11-27 |  |
+| Santander US | [Wealth Trainee](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Wealth-Trainee_Req1635353) | Miami |  | 2026-11-27 | no visa sponsorship |
+| TD Bank | [Associate Banker II - Part Time 20hr - Sarasota](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Sarasota-Florida/Associate-Banker-II---Part-Time-20hr---Sarasota_R_1522154-1) | Sarasota, Florida | $22 to $27.75/hour | 2026-11-27 |  |
+| TIAA | [Financial Services Consultant - Non Registered - Frisco, TX National Contact Center](https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/Financial-Services-Consultant---Non-Registered---Frisco--TX-National-Contact-Center_R261100319-1) | 3965 Dallas Parkway Frisco, TX 75034 | $22.60 to $28.85/hour | 2026-11-27 |  |
+| Jobs for Humanity | [Inbound Customer Service Representative (Financial)](https://jobs.smartrecruiters.com/JobsForHumanity/744000163921714-inbound-customer-service-representative-financial-) | Morrow, GA, us |  | 2026-11-27 |  |
+| Jobs for Humanity | [Inbound Phone Banker/Customer Service Representative](https://jobs.smartrecruiters.com/JobsForHumanity/744000163913425-inbound-phone-banker-customer-service-representative) | Indian Trail, NC, us | $19.50 to $23.50/hour | 2026-11-27 |  |
+| JPMorgan Chase | [Relationship Banker - Rt 30 and Williams - New Lenox, IL](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812392) | New Lenox, IL, United States |  | 2026-11-27 |  |
+| Kiewit | [Treasury Analyst 1 - Kiewit](https://kiewitcareers.kiewit.com/job/Omaha-Treasury-Analyst-1-Kiewit-NE-68046/1453831300/) | Omaha, NE, US |  | 2026-11-27 |  |
 | Regions Financial | [Relationship Banker I - Kentucky Oaks Branch](https://careers.regions.com/us/en/job/R107805) | Paducah, Kentucky, United States of America | $35,640.99 to $42,192 | 2026-11-26 |  |
 | Yrefy | [Accountant I](https://yrefy-llc.breezy.hr/p/931e5fba74e7-accountant-i) | Phoenix, AZ |  | 2026-11-26 |  |
 | AgWest Farm Credit | [Credit Underwriter](https://job-boards.greenhouse.io/agwestfarmcredit/jobs/4518783009) | Rocklin, CA; Spokane, WA (HQ) | $60,000 to $144,100 | 2026-11-26 | no visa sponsorship |
 | AgWest Farm Credit | [Insurance Specialist](https://job-boards.greenhouse.io/agwestfarmcredit/jobs/4519128009) | Lewistown, MT | $40,000 to $66,200 | 2026-11-26 | no visa sponsorship |
 | AgWest Farm Credit | [Loan Specialist](https://job-boards.greenhouse.io/agwestfarmcredit/jobs/4518908009) | Tempe, AZ | $44,200 to $81,000 | 2026-11-26 | no visa sponsorship |
 | Ameriprise Financial | [Client Service Associate (CSA) / Financial Advisor Trainee](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Scottsdale-Arizona/Client-Service-Associate_R26_4252) | Scottsdale, Arizona |  | 2026-11-26 |  |
-| Bank of America | [Private Bank Associate - Investments](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Los-Angeles/Private-Bank-Associate---Investments_26042165-2) | Los Angeles | $28.52 to $40.29/hour | 2026-11-26 |  |
 | Bank of America | [Financial Center Manager - Charles River Plaza Financial Center](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Boston/Financial-Center-Manager---Charles-River-Plaza-Financial-Center_26037749-2) | Boston | $76,500 to $109,200 | 2026-11-26 |  |
 | Baselayer | [Finance & Operations Analyst](https://job-boards.greenhouse.io/baselayer/jobs/5494876008) | New York |  | 2026-11-26 |  |
 | HC&D, LLC | [Accounting Assistant](https://myhcd.bamboohr.com/careers/114) | Honolulu, Hawaii, United States |  | 2026-11-26 |  |
@@ -197,7 +206,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | U.S. Bank | [Wealth Connect Investment Special Assistant](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tempe-AZ/Wealth-Connect-Investment-Special-Assistant_2026-0035909) | Tempe, AZ | $20 to $22.50/hour | 2026-11-25 |  |
 | United Community Action Partnership, Inc | [Tax Program Specialist - Marshall (#1126J)](https://unitedcapmn.bamboohr.com/careers/456) | Marshall, Minnesota, United States | $20.57 to $31.54/hour | 2026-11-25 |  |
 | United Community Action Partnership, Inc | [Tax Program Specialist - Hutchinson (#1126K)](https://unitedcapmn.bamboohr.com/careers/457) | Hutchinson, Minnesota, United States | $20.57 to $31.54/hour | 2026-11-25 |  |
-| UnitedHealth Group | [Billing Representative](https://careers.unitedhealthgroup.com/job/dallas/billing-representative/34088/102309592000) | Dallas, Texas | $18 to $32/hour | 2026-11-25 |  |
 | Distro | [Payroll Specialist](https://jobs.lever.co/distro/ef3b25cd-86b3-4731-927b-a3ff0eb72db7) | Renton, Washington | $21 to $24.50/hour | 2026-11-25 |  |
 | Huntington Bank | [Customer Experience Banker - Water St. - Port Huron, MI](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Port-Huron-MI/Customer-Experience-Banker---Port-Huron--MI_R0077732) | Port Huron, MI |  | 2026-11-25 | no visa sponsorship |
 | Huntington Bank | [Customer Experience Banker Non NMLS - Richardson, TX](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Richardson-TX/Customer-Experience-Banker-Non-NMLS---Richardson--TX_R0078106) | Richardson, TX |  | 2026-11-25 | no visa sponsorship |
@@ -334,6 +342,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Davies | [Claims Assistant (Hybrid - Santa Ana, California)](https://davies.pinpointhq.com/en/postings/d15fb974-454c-4f56-a102-866e83b26ee2) | Santa Ana, California (hybrid) |  | 2026-11-24 |  |
 | Wei, Wei & Co., LLP | [Junior Auditor (3 openings)](https://weiweico.pinpointhq.com/en/postings/fb201b0f-a6f8-462f-bc39-b6e2e48f03d0) | Flushing, New York |  | 2026-11-24 |  |
 | Coastal Community Bank | [Banking Operations Assistant Manager (Payments/Back Office)](https://jobs.ashbyhq.com/coastal/4774df93-c94a-4274-bb72-e5b762ca652e) | Hybrid | $77,511 to $93,013 | 2026-11-21 |  |
+| Frost Bank | [Personal Banker II - Trainee Pool](https://careers.frostbank.com/us/en/job/R260998) | San Antonio, Texas, United States of America |  | 2026-11-21 |  |
 | JPMorgan Chase | [Relationship Banker - Livingston, NJ](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810483) | Livingston, NJ, United States |  | 2026-11-21 |  |
 | JPMorgan Chase | [Associate Relationship Banker - Kearny, NJ](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810654) | Kearny, NJ, United States |  | 2026-11-21 |  |
 | Kiewit | [Finance Analyst (2027) - Southern California District](https://kiewitcareers.kiewit.com/job/SantaFe-Springs-Finance-Analyst-%282027%29-Southern-California-District-CA-92262/1429918600/) | SantaFe Springs, CA, US | $70,460 to $81,640 | 2026-11-21 |  |
@@ -345,9 +354,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Allstate | [Licensed Insurance Sales Representative (Remote / Home-Based)](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/GA---Atlanta/Licensed-Insurance-Sales-Representative--Remote---Home-Based-_R37266) | GA - Atlanta (remote) | $18 to $20/hour | 2026-11-21 | no visa sponsorship |
 | Allstate | [Licensed Insurance Sales Representative (Remote / Home-Based)](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/IL---Chicago/Licensed-Insurance-Sales-Representative--Remote---Home-Based-_R37260) | IL - Chicago (remote) | $18 to $20/hour | 2026-11-21 | no visa sponsorship |
 | Allstate | [Licensed Insurance Sales Representative (Remote / Home-Based)](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/AL---Birmingham/Licensed-Insurance-Sales-Representative--Remote---Home-Based-_R37251) | AL - Birmingham (remote) | $20/hour | 2026-11-21 | no visa sponsorship |
-| Bank of America | [Consumer Investments - Investment Specialist Trainee - Chandler, Arizona (Obtain SIE Series 7 & 66)](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chandler/Consumer-Investments---Investment-Specialist-Trainee---Chandler--Arizona--Obtain-SIE-Series-7---66-_26037991) | Chandler |  | 2026-11-21 |  |
 | Bank of America | [Merrill Advisor Development Program - Financial Advisor: South Florida & Islands Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Miami/Merrill-Advisor-Development-Program---Financial-Advisor--South-Florida---Islands-Market_26043373-1) | Miami |  | 2026-11-21 |  |
-| Bank of America | [Analyst, Equity Research , REITs](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Analyst--Equity-Research---REITs_26043203) | New York | $110,000 | 2026-11-21 |  |
 | Blake Willson Group | [Associate - Junior Accountant](https://blakewillsongroup.com/careers?gh_jid=5490628008) | Remote, US | $50,000 to $70,000 | 2026-11-21 | clearance |
 | BMO | [Analyst, Global Markets Corporate Banking](https://jobs.bmo.com/us/en/job/R260027631) | New York, New York, United States of America | $95,000 to $110,000 | 2026-11-21 |  |
 | Christus Health | [Financial Analyst I - Business Office](https://careers.christushealth.org/opportunity/financial-analyst-i-business-office-405493) | Irving, TX, US |  | 2026-11-21 |  |
@@ -356,7 +363,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Fidelity Investments | [Associate Tax Analyst](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Associate-Tax-Analyst_2137274) | Boston, MA | $55,000 to $105,000 | 2026-11-21 | no visa sponsorship |
 | Fifth Third Bank | [Personal Banker Associate II](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Novi-MI/Personal-Banker-II_R71351) | Novi, MI |  | 2026-11-21 |  |
 | First Chair Destinations | [Night Auditor at Main Street Station](https://job-boards.greenhouse.io/firstchairoperatingcompany/jobs/4511561009) | Breckenridge, CO | $21 to $23/hour | 2026-11-21 |  |
-| Frost Bank | [Personal Banker II - Trainee Pool](https://careers.frostbank.com/us/en/job/R260998) | San Antonio, Texas, United States of America |  | 2026-11-21 |  |
 | Home Depot | [Analyst, Trade Credit-2](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Analyst--Trade-Credit-2_Req199678) | GEORGIA - VIRTUAL - GA01 (remote) |  | 2026-11-21 |  |
 | Huntington Bank | [Customer Experience Banker - Jackson Greystone](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Jackson-TN/Customer-Experience-Banker---Jackson-Greystone_R0077884) | Jackson, TN |  | 2026-11-21 | no visa sponsorship |
 | Huntington Bank | [Customer Experience Banker- Columbia Downtown](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbia-SC/Customer-Experience-Banker--Columbia-Downtown_R0077451) | Columbia, SC |  | 2026-11-21 | no visa sponsorship |
@@ -446,7 +452,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AIR Communities | [Analyst, Portfolio Insights](https://jobs.smartrecruiters.com/AIRCommunities/744000162618877-analyst-portfolio-insights) | Denver, CO, us | $85,000 to $95,000 | 2026-11-20 |  |
 | AIR Communities | [Analyst, Portfolio Insights](https://jobs.smartrecruiters.com/AIRCommunities/744000162618939--analyst-portfolio-insights) | Chicago, IL, us | $85,000 to $95,000 | 2026-11-20 |  |
 | Allstate | [Claims Adjuster Trainee - North Carolina](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/NC---Winston-Salem/Claims-Adjuster-Trainee---North-Carolina_R37188) | NC - Winston Salem | $22.84 to $29.57/hour | 2026-11-20 |  |
-| Bank of America | [Market Financial Center Manager](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Southlake/Market-Financial-Center-Manager_26042823-1) | Southlake |  | 2026-11-20 |  |
 | Boyd Gaming | [Revenue Auditor I](https://jobs.smartrecruiters.com/BoydGaming/3743990016969549-revenue-auditor-i) | Kansas City, us |  | 2026-11-20 |  |
 | Burson | [Associate, Financial Communications, Litigation & Government Investigations- Burson Buchanan](https://www.bursonglobal.com/careers/jobs?gh_jid=5489414008) | New York, New York, United States | $50,000 to $105,000 | 2026-11-20 |  |
 | CNA Insurance | [Underwriter, Cyber](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/New-York-NY-USA/Underwriter--Cyber_R-8450) | New York, NY, USA | $47,000 to $78,000 | 2026-11-20 |  |
@@ -533,7 +538,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TD Bank | [Relationship Banker I (20)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Charleston-South-Carolina/Relationship-Banker-I--20-_R_1522658) | Charleston, South Carolina | $22.50 to $29/hour | 2026-11-20 |  |
 | TD Bank | [Associate Banker II- Manchester, NJ (30 hours)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Manchester-New-Jersey/Associate-Banker-II--Manchester--NJ--30-hours-_R_1523212) | Manchester, New Jersey | $22 to $27.75/hour | 2026-11-20 |  |
 | Truist | [Retail Mortgage Loan Originator](https://careers.truist.com/us/en/job/R0122081) | Morgantown, West Virginia, USA |  | 2026-11-20 |  |
-| UnitedHealth Group | [Billing Representative](https://careers.unitedhealthgroup.com/job/dallas/billing-representative/34088/103537533424) | Dallas, Texas | $18 to $32/hour | 2026-11-20 |  |
 | Bank of America | [Market Financial Center Manager - Phoenix West Area](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Phoenix/Market-Financial-Center-Manager---Phoenix-West-Area_26031643-2) | Phoenix |  | 2026-11-20 |  |
 | Bank of America | [Financial Solutions Advisor - Greater DFW Area](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Carrollton/Financial-Solutions-Advisor---Greater-DFW-Area_26036773) | Carrollton |  | 2026-11-20 |  |
 | Fifth Third Bank | [Personal Banker II - Grant Line Rd (New Albany, IN)](https://fifththird.wd5.myworkdayjobs.com/53careers/job/New-Albany-IN/Personal-Banker-II---Grant-Line-Rd--New-Albany--IN-_R75100) | New Albany, IN |  | 2026-11-20 |  |
@@ -658,7 +662,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Aprio | [Tax Associate - Private Client Tax](https://jobs.lever.co/Aprio/68a40c52-a311-4b21-b7cd-a7dc6cac9c7e) | Dedham North, MA |  | 2026-11-18 |  |
 | Aretum | [Junior Accountant](https://apply.workable.com/j/8B83C10E80) | McLean, Virginia, United States (remote) | $90,000 to $105,000 | 2026-11-18 | US citizens/persons only |
 | ATBS | [Entry Level Accountant](https://atbs.breezy.hr/p/b714df4940cc-entry-level-accountant) | Golden, CO |  | 2026-11-18 |  |
-| Bank of America | [Financial Center Manager](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/Financial-Center-Manager_26041121) | Dallas |  | 2026-11-18 |  |
 | Bank of America | [Market Financial Center Manager - Chandler Tempe Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Phoenix/Market-Financial-Center-Manager---Chandler-Tempe-Market_26042276) | Phoenix |  | 2026-11-18 |  |
 | Bank of America | [Financial Solutions Advisor - Central Houston Area](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Houston/Financial-Solutions-Advisor---Central-Houston-Area_26042761) | Houston |  | 2026-11-18 |  |
 | Bask Health | [Junior Billing & Reconciliation Analyst](https://apply.workable.com/j/F54035774C) | United States |  | 2026-11-18 |  |
@@ -753,6 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TD Bank | [Associate Banker II - 20 Hours - New Haven, CT (New Foxon Rd)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-Haven-Connecticut/Associate-Banker-II---20-Hours---New-Haven--CT--New-Foxon-Rd-_R_1510434-1) | New Haven, Connecticut | $22 to $27.75/hour | 2026-11-17 |  |
 | TD Bank | [Associate Banker II - Flemington (20 hour)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Flemington-New-Jersey/Associate-Banker-II---Flemington--20-hour-_R_1522341) | Flemington, New Jersey | $23.75 to $31/hour | 2026-11-17 |  |
 | TD Bank | [Associate Banker II - Green Brook (20 hour) Preferred Bilingual/Spanish](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Green-Brook-New-Jersey/Associate-Banker-II---Green-Brook--20-hour--Preferred-Bilingual-Spanish_R_1522355) | Green Brook, New Jersey | $23.75 to $31/hour | 2026-11-17 |  |
-| TD Bank | [Mortgage Telesales Loan Officer - Bilingual (US)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Mortgage-Telesales-Loan-Officer---Bilingual--US-_R_1521419) | Mount Laurel, New Jersey | $24 to $33.50/hour | 2026-11-17 |  |
-| TD Bank | [Mortgage Telesales Loan Officer, USCC (US)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Mortgage-Telesales-Loan-Officer--USCC--US-_R_1521417) | Mount Laurel, New Jersey | $24 to $33.50/hour | 2026-11-17 |  |
-| Anduril Industries | [2027 Early Career Test & Evaluation Operations Analyst](https://boards.greenhouse.io/andurilindustries/jobs/5296757007?gh_jid=5296757007) | Costa Mesa, California, United States | $88,000 to $117,000 | 2026-11-17 | US citizens/persons only |

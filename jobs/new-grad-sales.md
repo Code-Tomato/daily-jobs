@@ -1,11 +1,19 @@
 # New grad and entry level: Sales, marketing and communications
 
-2,559 open, newest first (by the date the scraper first saw them), updated 2026-11-26. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,540 open, newest first (by the date the scraper first saw them), updated 2026-11-27. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/1ece53f9-094b-4ab4-8384-03e754b1c51e) | Pittsburgh, Pennsylvania (remote) |  | 2026-11-27 |  |
+| AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/7d7c14ba-43ee-4f4e-9f29-abfa30c560f5) | Bloomington, Illinois (remote) |  | 2026-11-27 |  |
+| AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/efe58cce-f7ce-4a53-9518-2b5d0fad0960) | Johnson City, Tennessee (remote) |  | 2026-11-27 |  |
+| Hard Rock Digital | [Specialist - Omni Activation](https://hardrockdigital.recruitee.com/o/specialist-omni-activation-2) | Tampa, FL, US |  | 2026-11-27 |  |
+| MTM LLC | [Entry Level Sales Representative - Base Salary + Commission](https://mtm-llc.breezy.hr/p/ba89ba022f09-entry-level-sales-representative-base-salary-commission) | Grapevine, TX | $70,000 to $140,000 | 2026-11-27 |  |
+| MTM LLC | [Entry Level Sales Representative - Base Salary + Commission](https://mtm-llc.breezy.hr/p/a82191bdb7b0-entry-level-sales-representative-base-salary-commission) | Dallas-Fort Worth, TX | $80,000 to $120,000 | 2026-11-27 |  |
+| MTM LLC | [Entry Level Sales Representative - Base Salary + Commission](https://mtm-llc.breezy.hr/p/62086954d8eb-entry-level-sales-representative-base-salary-commission) | Laurel, MD | $12 to $15/hour | 2026-11-27 |  |
+| MTM LLC | [Entry Level Sales - Base + Commission](https://mtm-llc.breezy.hr/p/87f94b93fc50-entry-level-sales-base-commission) | Grapevine, TX |  | 2026-11-27 |  |
 | AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/1c958721-0d8c-4683-998c-7b8c3ce9bbb5) | Lafayette, Louisiana (remote) |  | 2026-11-26 |  |
 | 3MG Roofing & Solar | [Roofing Sales Trainee](https://job-boards.greenhouse.io/3mgroofing/jobs/4523854009) | Orlando, FL | $34,000 to $90,000 | 2026-11-26 |  |
 | Accenture | [Advertising Account Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/GA---Atlanta/Advertising-Account-Manager_R00374926) | GA - Atlanta | $23.13 to $50/hour | 2026-11-26 |  |
@@ -148,7 +156,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Charles Schwab | [Client Relationship Specialist - Studio City, CA](https://www.schwabjobs.com/job/los-angeles/client-relationship-specialist-studio-city-ca/33727/102162819248) | Los Angeles, California |  | 2026-11-24 |  |
 | Comp Ai | [Sales Development Representative - Outbound (SDR)](https://ats.rippling.com/comp-ai/jobs/ebd96188-35c2-4289-9159-bfe59a28054c) | New York, NY | $100,000 to $130,000 | 2026-11-24 |  |
 | Datavant | [CPC Processor Customer Support](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5473334008) | Remote - United States | $15 to $18.32/hour | 2026-11-24 | no visa sponsorship |
-| Datavant | [CPC Processor Customer Support](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5480061008) | Remote - United States | $15 to $18.32/hour | 2026-11-24 | no visa sponsorship |
 | F. Schumacher & Co. | [Junior Account Manager - Rugs](https://job-boards.greenhouse.io/fschumacherco/jobs/5492983008) | New York, New York, United States | $70,000 to $75,000 | 2026-11-24 |  |
 | Fanatics Commerce | [Marketing Specialist, Paid Search](https://job-boards.greenhouse.io/fanaticscommerce/jobs/4472888009) | Redwood City, CA, United States | $60,000 to $80,000 | 2026-11-24 |  |
 | First American | [Customer Service Representative](https://careers.firstam.com/us/en/job/R059479) | Fort Mill, South Carolina, United States of America |  | 2026-11-24 |  |
@@ -215,6 +222,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Green Star Exteriors | [Entry Level Sales (Base Pay + Benefits)](https://greenstarexteriors.pinpointhq.com/en/postings/9b64f29f-b421-43b1-9ace-1dabe702021e) | Chadds Ford, Pennsylvania |  | 2026-11-24 |  |
 | Green Star Exteriors | [Entry Level Sales (Base Pay + Benefits)](https://greenstarexteriors.pinpointhq.com/en/postings/2cfd905b-0cd3-42ee-93ea-3cfbc30d0e15) | Scotch Plains, New Jersey |  | 2026-11-24 |  |
 | Thorne | [Sales Enablement Support Specialist](https://thorne.pinpointhq.com/en/postings/bfedd667-f61a-4e52-ad57-0dc886aa5dd4) | Remote, South Carolina (Remote) |  | 2026-11-24 |  |
+| Bank of America | [Client Services Representative II-Small Business Deposits](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Phoenix/Client-Services-Representative-II-Small-Business-Deposits_26039144) | Phoenix |  | 2026-11-21 |  |
 | 3MG Roofing & Solar | [Junior Roofing Sales Representative](https://job-boards.greenhouse.io/3mgroofing/jobs/4516731009) | Orlando, FL | $34,000 to $90,000 | 2026-11-21 |  |
 | 3MG Roofing & Solar | [Junior Roofing Sales Representative](https://job-boards.greenhouse.io/3mgroofing/jobs/4516702009) | West Palm Beach, FL | $34,000 to $90,000 | 2026-11-21 |  |
 | AccorHotel | [Group Sales Manager (The Dominick)](https://jobs.smartrecruiters.com/AccorHotel/744000162824779-group-sales-manager-the-dominick-) | New York, NY, us |  | 2026-11-21 |  |
@@ -224,7 +232,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/19c9e71e-e0b2-4b23-97de-c4407710ba35) | Bridgeport, West Virginia (remote) |  | 2026-11-21 |  |
 | AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/6ea0a41d-abaf-4c77-843b-bc608e727a79) | Ketchikan, Alaska (remote) |  | 2026-11-21 |  |
 | AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/b89824d5-47fa-4d82-a6e4-612d8bc23338) | Blue Springs, Missouri (remote) |  | 2026-11-21 |  |
-| Bank of America | [Client Services Representative II-Small Business Deposits](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Phoenix/Client-Services-Representative-II-Small-Business-Deposits_26039144) | Phoenix |  | 2026-11-21 |  |
 | Bonusly | [Sales Development Representative (Inbound)](https://ats.rippling.com/bonusly/jobs/91b80491-0ec0-4dce-a5e6-92defdf1e509) | Boston, MA | $20,000 | 2026-11-21 |  |
 | Buck Mason | [Sales Manager (Fashion Island)](https://jobs.lever.co/buckmason/d31a43f1-cb8b-4865-a96e-cb9b4f560313) | Newport Beach, CA |  | 2026-11-21 |  |
 | Circle Logistics | [Carrier Sales Rep- Entry Level](https://jobs.smartrecruiters.com/CircleLogistics1/3743990017016196-carrier-sales-rep-entry-level) | Fort Wayne, IN, us |  | 2026-11-21 |  |
@@ -301,14 +308,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Verizon | [Inside Sales Representative](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Inside-Sales-Representative_R-1104092) | Alpharetta, Georgia | $54,000 | 2026-11-20 |  |
 | Verizon | [Inside Sales Representative](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Inside-Sales-Representative_R-1104097) | Irving, Texas | $54,000 | 2026-11-20 |  |
 | Verizon | [Inside Sales Representative](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Inside-Sales-Representative_R-1104096) | Temple Terrace, Florida | $54,000 | 2026-11-20 |  |
-| Verizon | [Account Manager - SMB Sales](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Youngstown-Ohio/Account-Manager---SMB-Sales_R-1104051-2) | Youngstown, Ohio | $33,500 to $59,000 | 2026-11-20 |  |
 | Verizon | [Account Manager - SMB Sales](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Smithfield-Rhode-Island/Account-Manager---SMB-Sales_R-1104056-2) | Smithfield, Rhode Island | $37,000 to $64,000 | 2026-11-20 |  |
+| Verizon | [Account Manager - SMB Sales](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Youngstown-Ohio/Account-Manager---SMB-Sales_R-1104051-2) | Youngstown, Ohio | $33,500 to $59,000 | 2026-11-20 |  |
 | Wellfit Technologies | [Contact Center Representative](https://jobs.lever.co/wellfit/315ae6af-e47e-4d3a-9f30-c3ce2b04c540) | Irving, TX | $22 to $23.50/hour | 2026-11-20 |  |
 | Alteryx | [Sales Development Representative (Remote USA based)](https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/US---Remote/Sales-Development-Representative--Remote-USA--based-_R12511) | US - Remote | $50,000 | 2026-11-20 |  |
 | Ameriprise Financial | [Client Service Specialist](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Bloomfield-Hills-Michigan/Client-Service-Specialist_R26_3862-1) | Bloomfield Hills, Michigan |  | 2026-11-20 |  |
 | Bosch | [Entry-level Sales and Marketing Representative - New York City - Diablo Tools - DAT](https://jobs.smartrecruiters.com/BoschGroup/744000162385640-entry-level-sales-and-marketing-representative-new-york-city-diablo-tools-dat) | Queens, NY, us | $55,000 | 2026-11-20 |  |
 | City Wide Facility Solutions | [Account Manager](https://apply.workable.com/j/C31D9D73C9) | Seattle, Washington, United States | $67,500 to $125,000 | 2026-11-20 |  |
-| Elevance Health | [Sales Development Rep](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Sales-Development-Rep_JR211622) | IN-INDIANAPOLIS, 220 VIRGINIA AVE |  | 2026-11-20 |  |
 | Guidehouse | [Communications Operator, Part-Time, Second & Third Shift](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Communications-Operator--Part-Time--Second---Third-Shift_46752) | US - CA, Ventura | $38,000 to $63,000 | 2026-11-20 |  |
 | H-E-B | [Drug & General Merchandise Manager - Midland or Odessa, TX](https://careers.heb.com/careers-home/jobs/256664) | Midland, Texas |  | 2026-11-20 |  |
 | Motorola Solutions | [Customer Engagement Specialist / Spécialiste de l'engagement client](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Quebec-Remote-Work/Customer-Engagement-Specialist_R70848-1) | Quebec Remote Work | $70,000 to $75,000 | 2026-11-20 |  |
@@ -362,8 +368,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | RoadSync | [Implementation Specialist](https://roadsync.teamtailor.com/jobs/8763466-implementation-specialist) | Atlanta, United States |  | 2026-11-19 |  |
 | Salt Security | [Technical Support Engineer (1) EAST](https://salt.security/job-board?gh_jid=5301012007) | USA - EAST |  | 2026-11-19 |  |
 | The Scion Group | [Leasing & Marketing Manager](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8949878002) | Lark Baton Rouge, Baton Rouge, Louisiana, United States |  | 2026-11-19 | no visa sponsorship |
-| UnitedHealth Group | [Customer Service Representative](https://careers.unitedhealthgroup.com/job/dallas/customer-service-representative/34088/103481972720) | Dallas, Texas | $16 to $29/hour | 2026-11-19 |  |
-| UnitedHealth Group | [Customer Service Representative](https://careers.unitedhealthgroup.com/job/dallas/customer-service-representative/34088/103481972752) | Dallas, Texas | $16 to $29/hour | 2026-11-19 |  |
 | Universe | [Junior Creative Marketing Manager](https://jobs.ashbyhq.com/universe/51d70139-0da4-41c1-9abd-ebe57a92294d) | Remote |  | 2026-11-19 |  |
 | VEGA Americas | [Technical Sales Representative - Odessa, TX](https://job-boards.greenhouse.io/vegaamericas/jobs/4730638006) | Technical Sales Representative - Odessa, TX |  | 2026-11-19 |  |
 | VEGA Americas | [Technical Sales Representative - Spokane, WA](https://job-boards.greenhouse.io/vegaamericas/jobs/4729955006) | Technical Sales Representative - Spokane, WA | $65,000 to $90,000 | 2026-11-19 |  |
@@ -372,6 +376,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Yellowstone Local | [Customer Service Representative](https://jobs.yellowstonelocal.com/o/customer-service-representative-26575897) | Auburn, WA, US | $18 to $25/hour | 2026-11-19 |  |
 | Distro | [NOW HIRING: VIP Auto Sales Specialist / $15/hr + Commission / Earn Up to $100K+ Per Year / Doral, Miami, Palme](https://jobs.lever.co/distro/04ceaa6b-3c1d-4784-9d40-58f489abe51f) | Florida |  | 2026-11-19 |  |
 | Abnormal | [Sales Development Representative](https://abnormal.ai/careers/jobs/7730831003?gh_jid=7730831003) | Remote - USA | $50,610 to $59,500 | 2026-11-19 |  |
+| Elevance Health | [Connect Broker Sales Rep](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/MN-MENDOTA-HEIGHTS-1285-NORTHLAND-DR/Connect-Broker-Sales-Rep_JR211720) | MN-MENDOTA HEIGHTS, 1285 NORTHLAND DR | $20.94 to $31.42/hour | 2026-11-18 |  |
+| Insulet | [Inside Sales Representative (Remote)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Nevada/Inside-Sales-Representative--Remote-_REQ-2026-19100) | US - Nevada (remote) | $24.26 to $36.39/hour | 2026-11-18 |  |
 | Airwallex | [Sales Development Representative, Mid Market](https://jobs.ashbyhq.com/airwallex/4acbd6ee-d26e-4810-b2e2-851e7e1d87fe) | US - San Francisco |  | 2026-11-18 |  |
 | City of St Marys | [Customer Service Representative](https://cityofstmarys.bamboohr.com/careers/241) | St Marys, Georgia, United States |  | 2026-11-18 |  |
 | Nivoda | [Sales Development Representative](https://jobs.ashbyhq.com/Nivoda/f466faa0-d3e4-47b4-82b3-e9d2a14d4e97) | Utah, United States |  | 2026-11-18 |  |
@@ -379,17 +385,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Wix | [Social Media Manager](https://jobs.smartrecruiters.com/Wix2/744000162304899-social-media-manager) | New York, NY, us | $110,000 to $130,000 | 2026-11-18 |  |
 | 3 Day Blinds (Sales) | [Sales Trainee](https://job-boards.greenhouse.io/3dayblindssales/jobs/8207378003) | Fontana, CA, United States |  | 2026-11-18 |  |
 | Allstate | [Direct Sales Agent Specialist (1455)](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Jacksonvil1455-Ngr/Direct-Sales-Agent-Specialist--1455-_R37071-1) | Jacksonvil1455 Ngr | $20/hour | 2026-11-18 |  |
-| AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/29ea39f1-3f19-4a50-a65b-7d80416f989b) | Cedar Falls, Iowa (remote) |  | 2026-11-18 |  |
-| AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/c415d840-67e7-4583-8e5a-4f73b208c69f) | Mount Pleasant, South Carolina (remote) |  | 2026-11-18 |  |
 | AppDirect | [Account Manager - Energy Industry](https://job-boards.greenhouse.io/appdirect/jobs/8947634002) | Westlake, Texas, US (hybrid) |  | 2026-11-18 |  |
 | Bask Health | [Junior Implementation Engineer](https://apply.workable.com/j/34EFCC59C4) | United States |  | 2026-11-18 |  |
 | Bask Health | [Sales Development Representative, Entry Level](https://apply.workable.com/j/9118C03198) | United States |  | 2026-11-18 |  |
 | Charles Schwab | [Client Relationship Specialist- National Branch- Phoenix, AZ (South Mountain)](https://www.schwabjobs.com/job/phoenix/client-relationship-specialist-national-branch-phoenix-az-south-mountain/33727/103428630160) | Phoenix, Arizona |  | 2026-11-18 |  |
 | Cranial Technologies | [Zone Sales Manager - Chesapeake Region](https://job-boards.greenhouse.io/cranialtechnologies/jobs/8947402002) | ** Corporate **; Pittsburgh, Pennsylvania, United States |  | 2026-11-18 | no visa sponsorship |
 | Crossroads Inc | [Readiness Support Specialist](https://crossroadsinc.bamboohr.com/careers/1069) | Phoenix, Arizona, United States |  | 2026-11-18 | clearance |
-| Elevance Health | [Connect Broker Sales Rep](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/MN-MENDOTA-HEIGHTS-1285-NORTHLAND-DR/Connect-Broker-Sales-Rep_JR211720) | MN-MENDOTA HEIGHTS, 1285 NORTHLAND DR | $20.94 to $31.42/hour | 2026-11-18 |  |
 | Growe Talents | [SMM Specialist](https://job-boards.eu.greenhouse.io/growetalents/jobs/5036407101) | Anywhere |  | 2026-11-18 |  |
-| Insulet | [Inside Sales Representative (Remote)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Nevada/Inside-Sales-Representative--Remote-_REQ-2026-19100) | US - Nevada (remote) | $24.26 to $36.39/hour | 2026-11-18 |  |
 | KeyBank | [Merchant Sales Advisor](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Tacoma-WA/Merchant-Sales-Advisor_R-43373) | Tacoma, WA | $48,000 to $72,000 | 2026-11-18 |  |
 | Lennox | [Commercial Territory Manager](https://globalcareers-lennox.icims.com/jobs/58057/commercial-territory-manager/job) | Newington, CT | $92,000 to $120,000 | 2026-11-18 |  |
 | LMR Technical Group | [Rescue Training Center Support Specialist (RTCSS) / Instructor](https://lmrtechnicalgroup.bamboohr.com/careers/1742) | Moody AFB, Georgia, United States |  | 2026-11-18 | no visa sponsorship, US citizens/persons only, clearance |
@@ -407,7 +409,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SweetSpot Heating and Cooling | [Video Editor, Home Services Ads (Entry)](https://jobs.ashbyhq.com/sweetspot/162414c7-945b-49e1-8c5c-2f882ee403f4) | New York City | $500 to $1,000/month | 2026-11-18 |  |
 | Texas AirSystems | [Owner Direct Service Sales Representative](https://job-boards.greenhouse.io/texasairsystems/jobs/5485846008) | Houston, Texas |  | 2026-11-18 |  |
 | The Quality Group GmbH | [Media & Shopper Activation Manager Drogerie (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5037181101) | Deutschland, remote |  | 2026-11-18 |  |
-| UnitedHealth Group | [Customer Service Representative](https://careers.unitedhealthgroup.com/job/southborough/customer-service-representative/34088/102812992064) | Southborough, Massachusetts (remote) | $16 to $29/hour | 2026-11-18 |  |
 | USAA | [Customer Service - Bank Sales & Service](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Customer-Service---Bank-Sales---Service_R0121716) | San Antonio Home Office I | $43,680 to $44,680 | 2026-11-18 |  |
 | Usasurveyjob | [Customer Service Rep - Remote Data Entry Agent](https://jobs.lever.co/usasurveyjob/22c8217d-54d5-4ce6-8f15-91d41083ada9) | Sacramento, California (remote) |  | 2026-11-18 |  |
 | VITRA Health | [Community Support Specialist](https://vitra-health.breezy.hr/p/ca60c855e5fe-community-support-specialist) | Lawrence, MA |  | 2026-11-18 |  |
@@ -423,7 +424,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Allstate | [Direct Sales Agent Specialist (Foley)](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/35241---DA---721-N-McKenzie-St-Foley-AL/Direct-Sales-Agent-Specialist--Foley-_R37057) | 35241 - DA - 721 N McKenzie St., Foley, AL | $20/hour | 2026-11-17 |  |
 | Allstate | [Direct Sales Agent Specialist (2981)](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Alice-2981-Ngr/Direct-Sales-Agent-Specialist--2981-_R37028) | Alice 2981 Ngr | $20/hour | 2026-11-17 |  |
 | Ampersand | [Enterprise Sales Development Representative](https://jobs.ashbyhq.com/Ampersand/67564afc-ceb2-4b35-bef6-f103fb4f047d) | San Francisco |  | 2026-11-17 |  |
-| AO Garcia Agency | [Remote - Client Relations Manager Trainee](https://jobs.lever.co/aogarciaagency/7fd67efd-03d8-40e8-b24c-328e544f68ce) | South Jordan, Utah (remote) |  | 2026-11-17 |  |
 | Blueprint Technologies | [Customer Support Agent - (Ukrainian Speaking) (Bench Team)](https://job-boards.greenhouse.io/bpcs/jobs/8393257) | Bellevue, WA (hybrid) | $23 to $25.50/hour | 2026-11-17 |  |
 | Broadway Ventures | [Jr. Sourcer & Social Media Specialist](https://job-boards.greenhouse.io/broadwayventures/jobs/5483958008) | Remote - United States | $50,000 to $65,000 | 2026-11-17 |  |
 | CaptiveAire | [Technical Sales and Field Service Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8945242002&gh_jid=8945242002) | Greensboro, NC |  | 2026-11-17 |  |
@@ -439,8 +439,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Fair Trade Outsourcing | [Inbound Sales Representative](https://fair-trade-outsourcing.breezy.hr/p/ac6b8f0d7818-inbound-sales-representative) | El Paso, TX |  | 2026-11-17 |  |
 | Fanatics Betting & Gaming | [Fraud Agent](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4509346009) | United States (hybrid) | $28 to $29/hour | 2026-11-17 |  |
 | Firestorm | [Social Media Manager - Contract](https://jobs.gem.com/firestorm/am9icG9zdDqkghPfu1avY-WiUDAeSsg6) | San Diego, CA | $34 to $41/hour | 2026-11-17 | US citizens/persons only |
-| Formlabs | [Sales Representative](https://careers.formlabs.com/job/8394707/apply/?gh_jid=8394707) | Milwaukee, WI | $92,000 to $105,000 | 2026-11-17 |  |
 | Formlabs | [Sales Representative](https://careers.formlabs.com/job/8394739/apply/?gh_jid=8394739) | Somerville, MA | $92,000 to $105,000 | 2026-11-17 |  |
+| Formlabs | [Sales Representative](https://careers.formlabs.com/job/8394707/apply/?gh_jid=8394707) | Milwaukee, WI | $92,000 to $105,000 | 2026-11-17 |  |
 | Formlabs | [Technical Sales Representative (0-5 years experience)](https://careers.formlabs.com/job/8394709/apply/?gh_jid=8394709) | Milwaukee, WI | $92,000 to $105,000 | 2026-11-17 |  |
 | Formlabs | [Technical Sales Representative (0-5 years experience)](https://careers.formlabs.com/job/8394714/apply/?gh_jid=8394714) | Somerville, MA | $92,000 to $105,000 | 2026-11-17 |  |
 | Netskope | [Sales Development Representative - Public Sector](https://www.netskope.com/company/careers/open-positions/?gh_jid=8372597) | Washington, District of Columbia, United States | $50,000 to $70,000 | 2026-11-17 |  |
@@ -666,7 +666,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Cursor | [Sales Development Representative - New York](https://jobs.ashbyhq.com/cursor/53dcb040-7a27-4164-b380-9bb0a0a8c5f1) | New York, NY | $70,000 to $84,000 | 2026-11-10 |  |
 | Cursor | [Sales Development Representative - San Francisco](https://jobs.ashbyhq.com/cursor/7178c350-7570-4b61-9a74-b190ab4d4a9a) | San Francisco, CA | $70,000 to $84,000 | 2026-11-10 |  |
 | Emerson (NI) | [Technical Sales Representative - TN](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013559) | Chattanooga, TN, United States (remote) |  | 2026-11-10 | no visa sponsorship |
-| Ericsson | [Early Career Professional: Services Sales Support Specialist](https://jobs.ericsson.com/careers/job/563121777377485) | Plano, TX, US |  | 2026-11-10 | no visa sponsorship |
 | Esri | [Account Manager – AEC](https://www.esri.com/careers/5091940007?gh_jid=5091940007) | San Antonio, TX | $70,304 to $131,040 | 2026-11-10 | no visa sponsorship |
 | Formlabs | [Technical Sales Representative](https://careers.formlabs.com/job/8367783/apply/?gh_jid=8367783) | Milwaukee, WI | $92,000 to $105,000 | 2026-11-10 |  |
 | Formlabs | [Technical Sales Representative (December 2026 Grad)](https://careers.formlabs.com/job/8367817/apply/?gh_jid=8367817) | Milwaukee, WI | $92,000 to $105,000 | 2026-11-10 |  |
@@ -756,3 +755,4 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Millennium Health | [Account Manager - 1878](https://apply.workable.com/j/0C3882A62D) | Billings, Montana, United States |  | 2026-11-07 |  |
 | Ordr | [Inside Sales Specialist](https://apply.workable.com/j/BE888212DF) | United States | $110,000 to $140,000 | 2026-11-07 |  |
 | Millennium Health | [Account Manager- 1738](https://apply.workable.com/j/8D291585A7) | Rochester, New York, United States |  | 2026-11-07 |  |
+| Millennium Health | [Account Manager- 1859](https://apply.workable.com/j/FB97F83F0E) | El Paso, Texas, United States |  | 2026-11-07 |  |

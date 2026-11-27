@@ -1,6 +1,6 @@
 # New grad and entry level: Education
 
-379 open, newest first (by the date the scraper first saw them), updated 2026-11-26.
+378 open, newest first (by the date the scraper first saw them), updated 2026-11-27.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -16,7 +16,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Texas Health Resources | [Admissions Specialist – PRN - Admitting ER](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012698&lang=en) | Plano |  | 2026-11-25 |  |
 | Texas Health Resources | [Admissions Specialist - Breast Center - Full Time - Days](https://texashealth.taleo.net/careersection/ex3/jobdetail.ftl?job=26012656&lang=en) | Dallas |  | 2026-11-25 |  |
 | Texas Tech University | [Academic Advisor](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=929004) | Lubbock, Texas, US | $16.39 to $26.25/hour | 2026-11-25 |  |
-| Tines | [Technical Support Engineer I](https://job-boards.greenhouse.io/tines/jobs/6270033004) | United States - East (Remote) | $85,000 to $95,000 | 2026-11-25 |  |
 | University of Texas at Austin | [Development Specialist, Cockrell School of Engineering](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Development-Specialist--Cockrell-School-of-Engineering_R_00049314) | UT MAIN CAMPUS |  | 2026-11-24 |  |
 | Apollo After School | [Part Time Substitute Educator](https://apollo-after-school.breezy.hr/p/8e86017412cf-part-time-substitute-educator) | Ventura, CA | $21/hour | 2026-11-24 |  |
 | Everstand | [Music Teacher - Strawbridge](https://job-boards.greenhouse.io/everstand/jobs/4510295009) | 3300 Gaither Rd, Baltimore, MD 21244 | $56,384 to $121,924 | 2026-11-24 |  |

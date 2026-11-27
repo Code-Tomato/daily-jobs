@@ -1,11 +1,14 @@
 # New grad and entry level: Hardware, chips and embedded
 
-1,097 open, newest first (by the date the scraper first saw them), updated 2026-11-26. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,091 open, newest first (by the date the scraper first saw them), updated 2026-11-27. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Illumina | [Process Engineer 1 - Laser Systems](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Process-Engineer-1---Laser-Systems_44011-JOB) | US - California - San Diego | $68,400 to $102,600 | 2026-11-27 | no visa sponsorship |
+| Kiewit | [Substation Engineer - Kiewit Power Engineering](https://kiewitcareers.kiewit.com/job/Lenexa-Substation-Engineer-Kiewit-Power-Engineering-KS/1426389100/) | Lenexa, KS, US |  | 2026-11-27 |  |
+| Kiewit | [Substation Engineer - Kiewit Power Engineering](https://kiewitcareers.kiewit.com/job/Columbus-Substation-Engineer-Kiewit-Power-Engineering-OH-43085/1437886100/) | Columbus, OH, US |  | 2026-11-27 |  |
 | Anton Paar | [Application Engineer Analytical Instrumentation](https://jobs.smartrecruiters.com/AntonPaar1/744000163765279-application-engineer-analytical-instrumentation) | Ashland, us |  | 2026-11-26 |  |
 | ASI Hastings | [Electrical Safety Inspection - Sales Trainee](https://job-boards.greenhouse.io/asi/jobs/5494951008) | San Diego, CA | $50,000 to $80,000 | 2026-11-26 |  |
 | Black & Veatch | [Associate Engineer-Electrical, Black & Veatch Corporation, Chicago, IL](https://careers.bv.com/job/Chicago-Associate-Engineer-Electrical%2C-Black-&-Veatch-Corporation%2C-Chicago%2C-IL-IL-60290/1460823533/) | Chicago, IL, US | $91,047 to $152,053 | 2026-11-26 |  |
@@ -136,7 +139,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpaceX | [Integration & Test Engineer (Starlink Propulsion)](https://boards.greenhouse.io/spacex/jobs/8945735002?gh_jid=8945735002) | Redmond, WA | $100,000 to $165,000 | 2026-11-19 | US citizens/persons only |
 | SpaceX | [Power Generation Engineer](https://boards.greenhouse.io/spacex/jobs/8944934002?gh_jid=8944934002) | Starbase, TX |  | 2026-11-19 | US citizens/persons only |
 | Cirrus Logic | [Product Test Engineering Operator - 2nd Shift](https://jobs.eu.lever.co/cirrus/3391820a-a3f0-45f3-b651-92664f01cccf) | Austin, Texas |  | 2026-11-19 | no visa sponsorship |
-| Baylor Scott & White Health | [Insurance Verification Specialist - Hybrid](https://jobs.bswhealth.com/us/en/job/26010747) | Dallas, Texas, United States (hybrid) |  | 2026-11-19 |  |
 | Hermeus | [Avionics Electrical Engineer](https://jobs.lever.co/hermeus/483be3c4-99f8-4dba-89f6-b2643cf9aa8e) | Los Angeles, CA |  | 2026-11-19 | US citizens/persons only |
 | City of New York | [Assistant Electrical Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016929906-assistant-electrical-engineer) | Queens, NY, us |  | 2026-11-18 |  |
 | Microsoft | [Memory Circuit Design Engineer](https://apply.careers.microsoft.com/careers/job/1970393557074579) | Raleigh, NC, US | $85,400 to $183,700 | 2026-11-18 |  |
@@ -283,8 +285,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Base Power | [Electronics Design Engineer](https://jobs.ashbyhq.com/base-power/617e05a6-a617-4223-9e50-1fc12a12c95d) | Austin, TX |  | 2026-11-07 |  |
 | Base Power | [Battery Safety & Abuse Test Engineer](https://jobs.ashbyhq.com/base-power/a2915462-a9de-49c7-9062-826f3405210f) | Austin, TX |  | 2026-11-07 |  |
 | Base Power | [Test Engineer, Abuse Engineering](https://jobs.ashbyhq.com/base-power/6d34e4ff-fd0d-46da-b01a-62be7f1e33e0) | Austin, TX |  | 2026-11-07 |  |
-| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8933127002) | Asheville, NC 28806 / 35.581282476 / -82.610950259 | $18/hour | 2026-11-07 |  |
 | BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8933272002) | Harrisonville, MO 64701 / 38.648093024 / -94.339369912 | $18/hour | 2026-11-07 |  |
+| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8933127002) | Asheville, NC 28806 / 35.581282476 / -82.610950259 | $18/hour | 2026-11-07 |  |
 | BAYADA Home Health Care | [Part-time Special Needs Caregiver (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8933301002) | Liberty, MO 64069 / 39.231181 / -94.432794 | $19/hour | 2026-11-07 |  |
 | BAYADA Home Health Care | [Special Needs Caregivers / DSP](https://jobs.bayada.com/en/jobs?gh_jid=8933152002) | Reading, PA 19601 / 40.346454645 / -75.934254592 | $17 to $19/hour | 2026-11-07 |  |
 | Chevron | [Complex Facility Process Engineer](https://careers.chevron.com/job/richmond/complex-facility-process-engineer/38138/102958801248) | Richmond, California | $104,700 to $180,500 | 2026-11-07 | no visa sponsorship |
@@ -486,9 +488,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpotOn | [Hardware Shipping Specialist](https://jobs.ashbyhq.com/spoton/68cdd664-e7cc-41db-a6ec-ee0c168144a3) | San Rafael, CA | $20 to $25/hour | 2026-11-04 | no visa sponsorship |
 | ASM | [Field Process Engineer](https://www.asm.com/open-vacancies/?gh_jid=5005209101) | US > Arizona > Phoenix |  | 2026-11-04 |  |
 | BAYADA Home Health Care | [Direct Support Professional / DSP](https://jobs.bayada.com/en/jobs?gh_jid=8899956002) | Exton, PA 19341 / 40.04062934 / -75.641171232 | $18/hour | 2026-11-04 |  |
-| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8899933002) | Lansdale, PA 19446 / 40.237983548 / -75.293334042 | $18/hour | 2026-11-04 |  |
-| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8899902002) | Bedford, PA 15522 / 39.99754413 / -78.524634104 | $19/hour | 2026-11-04 |  |
 | BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8899894002) | Fayetteville, NC 28301 / 35.078747415 / -78.888918165 | $16/hour | 2026-11-04 |  |
+| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8899902002) | Bedford, PA 15522 / 39.99754413 / -78.524634104 | $19/hour | 2026-11-04 |  |
+| BAYADA Home Health Care | [Direct Support Professional (DSP)](https://jobs.bayada.com/en/jobs?gh_jid=8899933002) | Lansdale, PA 19446 / 40.237983548 / -75.293334042 | $18/hour | 2026-11-04 |  |
 | BAYADA Home Health Care | [Direct Support Professional (DSP) - Part-time](https://jobs.bayada.com/en/jobs?gh_jid=8901168002) | Raleigh, NC 27610 / 35.756422694 / -78.577185011 | $100/hour | 2026-11-04 |  |
 | BAYADA Home Health Care | [Direct Support Professional (DSP) - Spanish Bilingual](https://jobs.bayada.com/en/jobs?gh_jid=8899876002) | Salisbury, NC 28146 / 35.615653335 / -80.428960371 | $15/hour | 2026-11-04 |  |
 | BAYADA Home Health Care | [DSP / Community Support Worker](https://jobs.bayada.com/en/jobs?gh_jid=8899882002) | Fairview, PA 16415 / 42.039293245 / -80.229925576 |  | 2026-11-04 |  |
@@ -707,7 +709,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Venture Global | [Associate Engineer, Electrical](https://venturegloballng.wd108.myworkdayjobs.com/External_Careers/job/Plaquemines-Parish-LA/Associate-Engineer--Electrical_JR938) | Plaquemines Parish, LA |  | 2026-10-27 |  |
 | Intel | [Module Engineering - Day Shift 5 or 7](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineering---Day-Shift-5-or-7_JR0288497) | US, Arizona, Phoenix | $85,200 to $162,500 | 2026-10-24 | no visa sponsorship |
 | GlobalFoundries | [New Product Development Test Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Sr-Engineer-Design_JR-2604139) | USA - Texas - Richardson | $86,000 to $148,000 | 2026-10-24 |  |
-| Elevance Health | [Benefit Verification Specialist - BioPlus Specialty Pharmacy](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/Benefit-Verification-Specialist---BioPlus-Specialty-Pharmacy_JR203088) | FL-LAKE MARY, 3200 LAKE EMMA RD, STE 1000 |  | 2026-10-24 |  |
 | SpaceX | [PCB Process Technician (Starlink)](https://boards.greenhouse.io/spacex/jobs/8671126002?gh_jid=8671126002) | Bastrop, TX |  | 2026-10-24 | US citizens/persons only |
 | NVIDIA | [Silicon Co-Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | US, CA, Santa Clara |  | 2026-10-23 |  |
 | Applied Materials | [Process Engineer I, New College Grad - Bachelors (Billerica, MA)](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/Process-Engineer-I--New-College-Grad---Bachelors--Billerica--MA-_R2632042) | Billerica,MA | $70,000 to $95,500 | 2026-10-23 |  |
@@ -755,4 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Thermo Fisher Scientific | [Embedded Controls Engineer](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Marietta-Ohio-USA/Embedded-Controls-Engineer_R-01364234) | Marietta, Ohio, USA |  | 2026-10-20 |  |
 | Archrock | [Instrumentation & Electrical Shop Technician Intermediate (Non-Rotational/Local Only)](https://edva.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10000597) | Midland, TX, United States |  | 2026-10-20 |  |
 | Black & Veatch | [Associate Electrical Engineer - Power System Protection](https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833/) | Overland Park, KS, US |  | 2026-10-20 |  |
-| ERCOT | [Engineer Development Program - Entry Level Power Engineer](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Engineer-Development-Program---Entry-Level-Power-Engineer_R2167-1) · Fall 2027 | Austin, TX |  | 2026-10-20 |  |

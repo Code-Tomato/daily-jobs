@@ -1,6 +1,6 @@
 # New grad and entry level: Mechanical, aerospace and manufacturing
 
-1,577 open, newest first (by the date the scraper first saw them), updated 2026-11-26. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+1,568 open, newest first (by the date the scraper first saw them), updated 2026-11-27. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -34,7 +34,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | United Airlines | [Flight Attendant](https://careers.united.com/us/en/job/FA2026-6) | Houston, Texas, United States | $38.21 to $100.13/hour | 2026-11-26 |  |
 | United Airlines | [Flight Attendant (German Speakers Only)](https://careers.united.com/us/en/job/FA2026-LQ-GER-4) | Newark, New Jersey, United States | $38.21 to $100.13/hour | 2026-11-26 |  |
 | United Airlines | [Flight Attendant (Greek Speakers Only)](https://careers.united.com/us/en/job/FA2026-LQ-GRE-4) | Newark, New Jersey, United States | $38.21 to $100.13/hour | 2026-11-26 |  |
-| Service Champions | [HVAC Maintenance Trainee Technician](https://job-boards.greenhouse.io/servicechampions/jobs/5475917008) | Brea, California, United States |  | 2026-11-26 |  |
 | Rocket Lab | [Spacecraft Propulsion Components Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8058356003) | Long Beach, CA | $82,400 to $123,600 | 2026-11-26 | US citizens/persons only, clearance |
 | Rocket Lab | [Spacecraft Propulsion Systems Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8058455003) | Long Beach, CA | $82,400 to $123,600 | 2026-11-26 | US citizens/persons only, clearance |
 | Rocket Lab | [Spacecraft Propulsion Components Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8001348003) | Long Beach, CA | $82,000 to $113,300 | 2026-11-26 | US citizens/persons only, clearance |
@@ -121,7 +120,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CaptiveAire | [Commercial HVAC Service Technician](https://www.captiveaire.com/Careers/Opening.asp?id=8944973002&gh_jid=8944973002) | Cincinnati, OH |  | 2026-11-24 |  |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8382874) | Plainfield, IN | $16/hour | 2026-11-24 | no visa sponsorship |
 | Pickle Robot | [Junior Systems Engineer](https://jobs.lever.co/picklerobot/7ba1e281-6f42-4c05-a898-01529866eebc) | Charlestown, MA |  | 2026-11-24 |  |
-| Varda | [Spacecraft Guidance, Navigation, and Controls (GNC) Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/8015207003) | El Segundo, California, United States | $131,494 to $184,026 | 2026-11-24 | US citizens/persons only |
 | Allegiant | [Flight Attendant - IND](https://jobs.lever.co/allegiantair/bc118b37-aa7c-40e8-ab39-2d2e3fa44e19) | Indianapolis, IN | $31.01/hour | 2026-11-24 |  |
 | Anduril Industries | [Mission Systems Engineer, Early Career](https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007) | Costa Mesa, California, United States | $117,000 to $150,000 | 2026-11-21 | clearance |
 | Anduril Industries | [Radar Systems Engineer, Early Career](https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007) | Costa Mesa, California, United States | $117,000 to $150,000 | 2026-11-21 | clearance |
@@ -290,14 +288,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpaceX | [Power Systems Engineer](https://boards.greenhouse.io/spacex/jobs/8942436002?gh_jid=8942436002) | Starbase, TX |  | 2026-11-17 | US citizens/persons only |
 | SpaceX | [Propulsion Technician (Raptor Foundry)](https://boards.greenhouse.io/spacex/jobs/8942648002?gh_jid=8942648002) | Hawthorne, CA | $23 to $38/hour | 2026-11-17 | US citizens/persons only |
 | T3 Services Group | [HVAC Service Technician](https://done-plumbing-and-heating.breezy.hr/p/1d8d5d560632-hvac-service-technician) | Denver, CO |  | 2026-11-17 |  |
-| Toyota North America | [Engineer I - Production Engineering (Battery Cell)](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Liberty-North-Carolina/Engineer-I---Production-Engineering--Battery-Cell-_10340025) | Liberty, North Carolina |  | 2026-11-17 | no visa sponsorship |
 | Carvana | [Entry-Level Automotive Parts Associate](https://www.carvana.com/careers/apply?gh_jid=8315836) | Delanco, NJ | $19/hour | 2026-11-17 | no visa sponsorship |
 | SpaceX | [CAD Drafter](https://boards.greenhouse.io/spacex/jobs/8729951002?gh_jid=8729951002) | Starbase, TX |  | 2026-11-17 | US citizens/persons only |
 | Momentum | [2027 Launch Graduate Program: Associate Enterprise Systems Analyst](https://job-boards.greenhouse.io/momentumcompany3/jobs/8606824002) · Winter 2026 | Dallas, Texas |  | 2026-11-17 |  |
 | Airbus | [Aerospace Avionics Customer Support Engineer (Contract)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Aerospace-Avionics-Customer-Support-Engineer--Contract-_JR10452844) | Mobile Area, AL |  | 2026-11-16 |  |
 | Johnson & Johnson | [CAR T Manufacturing Operator](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/CAR-T-Manufacturing-Operator_R-108506) | Raritan, New Jersey, United States of America | $47,245 to $75,900 | 2026-11-16 |  |
 | Ally Financial | [Mechanical Claims Specialist](https://ally.wd1.myworkdayjobs.com/Ally/job/Schaumburg-IL/Mechanical-Claims-Specialist_R2601215) | Schaumburg, IL | $57,200 to $76,086 | 2026-11-15 |  |
-| Rockwell Automation | [Mechanical Design Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Mechanical-Design-Engineer_R26-8610-1) | Chelmsford, Massachusetts, United States | $69,600 to $104,400 | 2026-11-15 | no visa sponsorship |
 | Fluor | [Infrastructure Construction Engineer- New Grad](https://careers.fluor.com/careers/job/1099556827326) | Austin, US-TX, United States | $53,500 to $99,500 | 2026-11-15 |  |
 | Mount Family Group, LTD | [Mechanical Assembler - Peabody, MA](https://westaff2.bamboohr.com/careers/2481) | Lowell, Massachusetts, United States |  | 2026-11-14 |  |
 | Accenture | [Custom Quality Engineer Autiomation and Functional tester Price 6591935](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/AR---Bentonville/Custom-Quality-Engineer-Autiomation-and-Functional-tester-Price-6591935_14905487) | AR - Bentonville | $40 to $45/hour | 2026-11-14 |  |
@@ -470,7 +466,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SpaceX | [Propulsion Analyst, Chamber and Nozzle (Raptor)](https://boards.greenhouse.io/spacex/jobs/8935834002?gh_jid=8935834002) | Hawthorne, CA | $100,000 to $160,000 | 2026-11-10 | US citizens/persons only |
 | UT Dallas | [HVAC Technician](https://jobs.utdallas.edu/postings/33199) | Dallas, TX | $55,000 to $62,400 | 2026-11-10 |  |
 | UT Dallas | [HVAC Technician](https://jobs.utdallas.edu/postings/33203) | Richardson, TX | $55,000 to $62,400 | 2026-11-10 |  |
-| Continental | [Industrial Engineer](https://jobs.smartrecruiters.com/Continental/744000160623389-industrial-engineer) | Mount Vernon, IL, us | $75,000 | 2026-11-09 | no visa sponsorship |
 | Honda | [Supplier Quality Engineer](https://careers.honda.com/us/en/job/13356) | Greensburg, Indiana, United States |  | 2026-11-09 |  |
 | Mount Family Group, LTD | [Manufacturing Operator - Coventry, RI](https://westaff2.bamboohr.com/careers/2471) | Warwick, Rhode Island, United States | $22 to $25.25/hour | 2026-11-09 |  |
 | Simpson Gumpertz & Heger | [Field Engineer (Entry-level) – Water Infrastructure](https://www.sgh.com/careers/job-openings/view-job/8810595002?gh_jid=8810595002) | Houston, Texas, United States; Waltham, Massachusetts, United States;  |  | 2026-11-09 |  |
@@ -533,6 +528,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Zachry Group | [Engineer I Mechanical](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16364) | Omaha, NE, United States |  | 2026-11-06 |  |
 | Carvana | [Entry-Level Automotive Detailer / Lot Attendant Post Production](https://www.carvana.com/careers/apply?gh_jid=8347770) | Yaphank, NY | $19 to $20/hour | 2026-11-06 | no visa sponsorship |
 | Continuum Resource Network | [Trainer, Mission Readiness Service (Autonomous Vehicles)](https://apply.workable.com/j/1695A4F6D0) | Miami, Florida, United States | $33/hour | 2026-11-06 |  |
+| EnerMech | [ES/IIS Engineer I - Pipeline, Process and Umbilical Services](https://apply.workable.com/j/2AADE3BD1D) | Houston, Texas, United States |  | 2026-11-06 |  |
 | Exotec | [Integrator Customer Success Engineer - Warehouse Robotics Automation](https://apply.workable.com/j/ECBB547B7F) | Atlanta, Georgia, United States |  | 2026-11-06 |  |
 | BKF | [Design Engineer - Land Development](https://apply.workable.com/j/C96700D76E) | Pleasanton, California, United States | $75,000 to $100,000 | 2026-11-06 |  |
 | David Protein | [Associate Scientist - Manufacturing Innovation](https://apply.workable.com/j/776D5759B8) | New York, New York, United States | $90,000 to $110,000 | 2026-11-06 |  |
@@ -756,3 +752,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | RR Donnelley | [Picker/Packer2](https://jobs.smartrecruiters.com/RRDonnelley/744000153028091-picker-packer2) | Buffalo Grove, IL, us | $15.51 to $18.56/hour | 2026-11-04 |  |
 | AlxCrypto Holdings Inc. | [Robotics Engineer - FF Academy (4 Openings)](https://job-boards.greenhouse.io/alxcryptoholdingsinc/jobs/4426085009) | Los Angeles |  | 2026-11-04 |  |
 | Embraer | [Avionics Technician](https://embraer.breezy.hr/p/d9b8e6922704-avionics-technician) | Mesa, AZ |  | 2026-11-04 |  |
+| Fanatics Collectibles | [Press Helper - Night Shift](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4419053009) | Allen, TX, United States |  | 2026-11-04 |  |
+| CannonDesign | [Mechanical - Entry Level](http://www.cannondesign.com/careers/?gh_jid=8856503002) | Buffalo, NY | $28.64 to $35.80/hour | 2026-11-04 |  |
+| CRABI Robotics | [Robotics GNC Engineer](https://jobs.gem.com/crabi-robotics-com/am9icG9zdDo2sE3Ggvh1h0hELB1qHYPy) | 1 Cabot Rd, Medford |  | 2026-11-04 | US citizens/persons only |
+| Eurofins | [Logistics & Team Support Specialist - External Manufacturing](https://jobs.smartrecruiters.com/Eurofins/744000152197654-logistics-team-support-specialist-external-manufacturing) | Boston, MA, us |  | 2026-11-04 |  |

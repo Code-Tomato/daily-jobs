@@ -1,6 +1,6 @@
 # New grad and entry level: Civil, construction and environmental
 
-843 open, newest first (by the date the scraper first saw them), updated 2026-11-26. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+842 open, newest first (by the date the scraper first saw them), updated 2026-11-27. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -605,7 +605,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Trueline | [Junior Estimator](https://trueline.breezy.hr/p/a3c0ad5f3136-junior-estimator) | Bayshore, NY | $80,000 | 2026-11-04 |  |
 | Quantum Industrial Services | [Travel Project Engineer - Mission Critical](https://ats.rippling.com/quantum-industrial-services/jobs/485eb3a9-439f-4c35-b1c1-97bdd0ae11f8) | Mesa, AZ |  | 2026-11-04 |  |
 | Woolpert | [Architectural Designer (Mission Critical)](https://job-boards.greenhouse.io/woolpert/jobs/4356351009) | Chicago, IL; Miami, FL; New York, NY | $57,800 to $72,200 | 2026-11-04 | no visa sponsorship |
-| Forbes Bros. Group of Companies | [Environmental Specialist](https://job-boards.greenhouse.io/forbesbrosgroupofcompanies/jobs/4355479009) | Stapleton, NE | $38 to $44/hour | 2026-11-04 |  |
 | Bohler | [Entry Level Civil Engineer - Land Development](https://jobs.gem.com/bohler-/am9icG9zdDpPjHMuLWiH7g_JHQkgYn16) | DC - Washington |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | Bohler | [Entry Level Civil Engineer - Land Development](https://jobs.gem.com/bohler-/am9icG9zdDoxQOyoGLNfA_4Xh7JSGaX2) | PA - Chalfont |  | 2026-11-04 | no visa sponsorship, US citizens/persons only |
 | LandDesign | [Designer I Civil Engineer / CLT](https://job-boards.greenhouse.io/landdesign/jobs/4702380006) | Charlotte, North Carolina, United States |  | 2026-11-04 |  |
@@ -756,3 +755,4 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Kiewit | [Field/Office Engineer - Weeks Marine Construction (Hawaii)](https://kiewitcareers.kiewit.com/Weeks/job/Aiea-FieldOffice-Engineer-Weeks-Marine-Construction-%28Hawaii%29-HI/1443509200/) | Kapolei, HI, US | $75,000 to $90,000 | 2026-10-26 |  |
 | Black & Veatch | [Graduate Engineer, Civil - Water (Savannah, GA)](https://careers.bv.com/job/Savannah-Graduate-Engineer%2C-Civil-Water-%28Savannah%2C-GA%29-GA-31401/1450984433/) | Savannah, GA, US |  | 2026-10-25 |  |
 | Black & Veatch | [Graduate Engineer, Civil - Water (Greenville, SC)](https://careers.bv.com/job/Greenville-Graduate-Engineer%2C-Civil-Water-%28Greenville%2C-SC%29-SC/1450984533/) | Greenville, SC, US |  | 2026-10-25 |  |
+| Black & Veatch | [Graduate Engineer, Civil - Water (San Antonio)](https://careers.bv.com/job/San-Antonio-Graduate-Engineer%2C-Civil-Water-%28San-Antonio%29-TX-78201/1450985033/) | San Antonio, TX, US |  | 2026-10-25 |  |

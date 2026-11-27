@@ -1,6 +1,6 @@
 # Internships and co-ops: Design and creative
 
-184 open, newest first (by the date the scraper first saw them), updated 2026-11-26.
+182 open, newest first (by the date the scraper first saw them), updated 2026-11-27.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -161,11 +161,12 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Thomson Reuters | [Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Reuters-News-Internship-Program--Temp-Guild----New-York_JREQ204985) | United States of America, New York, New York | $23 to $24/hour | 2026-11-02 |  |
 | PTC | [UI/UX Design Intern (Summer 2027)](https://ptc.wd1.myworkdayjobs.com/PTC/job/USA-San-Mateo-CA/UI-UX-Designer-Intern--Summer-2027-_JR112956) · Summer 2027 | USA-San Mateo, CA | $32 to $36/hour | 2026-10-30 | no visa sponsorship |
 | Sonos | [User Experience Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/User-Experience-Intern_R2883-1) · Winter 2027 | Seattle, WA |  | 2026-10-29 | no visa sponsorship |
-| Trimble | [Video Production Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/Video-Production-Intern_R58174) | US - OH, Dayton | $18.51 to $27.79/hour | 2026-10-29 |  |
 | ServiceNow | [Experience Team – UX Research Internships – Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000157919529-experience-team-ux-research-internships-summer-2027) · Summer 2027 | San Diego, CALIFORNIA, us | $45.97 to $53.04/hour | 2026-10-28 |  |
 | Intercontinental Exchange | [Summer Internship Program 2027 - User Experience (UX) Designer Intern](https://careers.ice.com/careers-home/jobs/14111) · Summer | New York, New York | $30/hour | 2026-10-24 |  |
 | Intercontinental Exchange | [Summer Internship Program 2027 - Enterprise UX Intern](https://careers.ice.com/careers-home/jobs/14058) · Summer | Atlanta, Georgia |  | 2026-10-24 |  |
 | Garmin | [User Interface Designer Intern](https://careers.garmin.com/careers-home/jobs/19938) · Summer 2027 | Olathe, Kansas |  | 2026-10-21 |  |
+| Polaris | [Transportation Industrial Design Intern](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Transportation-Industrial-Design-Intern_R31551) | Medina, MN, USA | $19.50 to $30.75/hour | 2026-10-20 | no visa sponsorship, US citizens/persons only |
+| Stryker | [Summer 2027 Intern - Industrial Design, User Experience - Michigan](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833) · Summer 2027 | Portage, Michigan | $35/hour | 2026-10-20 |  |
 | Dick's Sporting Goods | [Product Design (UX) - Summer 2027 Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Product-Design--UX----Summer-2027-Corporate-Internship_202608790-1) · Summer 2027 | Customer Support Center (hybrid) |  | 2026-10-20 |  |
 | GM | [Summer 2027 Intern - Industrial Design](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship |
 | GM | [2027 Summer Intern - Creative Design (Interior/Exterior)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship |
@@ -176,9 +177,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Fox Corporation | [Spring 2027 FOX News Media Internship Program - Graphic Design - New York](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033952-1) · Spring 2027 | New York, New York, USA | $20/hour | 2026-10-20 |  |
 | Nintendo of America | [Intern - User Experience](https://careers.nintendo.com/?gh_jid=4418258009) | Redmond, WA |  | 2026-10-20 | no visa sponsorship |
 | Target | [UX Design Internship - Minneapolis, MN (Starting Summer, 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Design-Internship---Minneapolis--MN--Starting-Summer--2027-_R0000451077) · Summer 2027 | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | $34/hour | 2026-10-20 |  |
-| Polaris | [Transportation Industrial Design Intern](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Transportation-Industrial-Design-Intern_R31551) | Medina, MN, USA | $19.50 to $30.75/hour | 2026-10-20 | no visa sponsorship, US citizens/persons only |
-| Stryker | [Summer 2027 Internship - Industrial Design Intern - Michigan](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730) · Summer 2027 | Portage, Michigan | $35/hour | 2026-10-20 | no visa sponsorship |
-| Stryker | [Summer 2027 Intern - Industrial Design, User Experience - Michigan](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833) · Summer 2027 | Portage, Michigan | $35/hour | 2026-10-20 |  |
 | Formlabs | [Industrial Design Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232) · Spring 2027 | Somerville, MA |  | 2026-10-20 |  |
 | Honda | [Creative Design and Research Co-op/Intern - Spring 2027](https://careers.honda.com/us/en/job/10997) · Spring 2027 | Torrance, California, United States | $26.58 to $34.38/hour | 2026-10-20 |  |
 | Netflix | [Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026](https://explore.jobs.netflix.net/careers/job/790315673635) · Fall 2026 | Los Gatos, California, United States of America | $40 to $110/hour | 2026-10-20 |  |

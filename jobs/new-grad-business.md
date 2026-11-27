@@ -1,11 +1,23 @@
 # New grad and entry level: Business, consulting and operations
 
-10,882 open, newest first (by the date the scraper first saw them), updated 2026-11-26. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+10,630 open, newest first (by the date the scraper first saw them), updated 2026-11-27. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Nationwide | [Territory Management Representative-1](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Territory-Management-Representative-1_100978-1) | Ohio - Grandview Heights, 1000 Yard Street, H Building | $46,345 to $75,500 | 2026-11-27 |  |
+| Rotork | [Graduate General Management - US](https://jobs.smartrecruiters.com/Rotork1/744000164012180-graduate-general-management-us-) | Houston, TX, us |  | 2026-11-27 |  |
+| The Quality Group | [Head of Hub Management (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/5052029101) | Deutschland, remote |  | 2026-11-27 |  |
+| The Quality Group GmbH | [Head of Hub Management (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5052028101) | Deutschland, remote |  | 2026-11-27 |  |
+| Walgreens | [Associate, Technology Operations](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1981360) | Orlando, FL |  | 2026-11-27 |  |
+| BMO | [Business and Process Analyst (New or Recent Graduate Opportunity) - Immediate Start Date](https://jobs.bmo.com/us/en/job/R260031118) | Chicago, Illinois, United States of America | $45,000 to $95,000 | 2026-11-27 |  |
+| Clera | [Business Development Representative](https://jobs.ashbyhq.com/Clera/e14da326-1112-4e8f-a9da-31e41dc41972) | San Francisco | $70,000 to $115,000 | 2026-11-27 |  |
+| Fleetworthy | [Business Development Representative](https://job-boards.greenhouse.io/bestpass/jobs/4731787006) | United States (Remote) |  | 2026-11-27 |  |
+| Kpler | [Contract Analyst (Junior Paralegal)](https://jobs.lever.co/kpler/01b41ab1-7860-43b2-a0be-bc2c974b1686) | New York |  | 2026-11-27 |  |
+| Accenture | [Trust & Safety New Associate](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Austin-323-Congress-Avenue-Corp/Trust---Safety-New-Associate_R00349528) | Austin, 323 Congress Avenue, Corp | $23.70/hour | 2026-11-27 |  |
+| Celsius | [Social Media Community & Influencer Coordinator](https://apply.workable.com/j/12A69BC4C6) | Irvine, California, United States | $73,000 to $75,000 | 2026-11-27 |  |
+| Silicon Ranch Corporation | [Remote Operations Center Operator (Onsite -Nashville, TN)](https://job-boards.greenhouse.io/siliconranch/jobs/5179172008) | Nashville, TN (remote) |  | 2026-11-27 |  |
 | AGNT, Inc. | [Stock Plan Services Administrator - (REMOTE)](https://ats.rippling.com/exp-jobs/jobs/3bb5ced2-f0cd-48da-99aa-06c80c469f07) | Remote (United States) |  | 2026-11-26 |  |
 | Ally Financial | [Associate Analyst Bank Fraud Detection Operations](https://ally.wd1.myworkdayjobs.com/Ally/job/Charlotte-NC/Associate-Analyst-Bank-Fraud-Detection-Operations_R2601498) | Charlotte, NC | $47,840 to $75,000 | 2026-11-26 |  |
 | Ascension | [Case Management Assistant](https://jobs.ascension.org/us/en/job/26348) | Austin, TX, US |  | 2026-11-26 |  |
@@ -258,8 +270,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Edwards Lifesciences | [Assoc Analyst, Clin Contracts](https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/USA---California--Irvine/Assoc-Analyst--Clin-Contracts_Req-52399) | USA - California – Irvine | $57,000 to $80,000 | 2026-11-25 |  |
 | Egis Group | [Engineer Associate](https://jobs.smartrecruiters.com/EgisGroup/744000163552094-engineer-associate) | Houston, TX, us |  | 2026-11-25 |  |
 | Equus | [Business Outreach Specialist](https://jobs.smartrecruiters.com/Equus/744000163538250-business-outreach-specialist) | Tyler, TX, us |  | 2026-11-25 |  |
-| Esri | [Deal Desk Associate](https://www.esri.com/careers/5301210007?gh_jid=5301210007) | Denver, CO - Louisville | $70,304 to $98,280 | 2026-11-25 | no visa sponsorship |
 | Esri | [Deal Desk Associate](https://www.esri.com/careers/5301196007?gh_jid=5301196007) | Redlands, CA | $70,304 to $98,280 | 2026-11-25 | no visa sponsorship |
+| Esri | [Deal Desk Associate](https://www.esri.com/careers/5301210007?gh_jid=5301210007) | Denver, CO - Louisville | $70,304 to $98,280 | 2026-11-25 | no visa sponsorship |
 | Eurofins | [Analyst, Asbestos](https://jobs.smartrecruiters.com/Eurofins/744000163519062-analyst-asbestos) | New Orleans, LA, us | $22 to $24/hour | 2026-11-25 |  |
 | Eye Care Partners | [Front Office Specialist](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8960500002) | Avondale, AZ |  | 2026-11-25 |  |
 | Eye Care Partners | [Front Office Specialist - Training Provided!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8960072002) | Krugerville, TX |  | 2026-11-25 |  |
@@ -475,7 +487,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Dungarvin | [Supportive Housing Case Manager](https://jobs.smartrecruiters.com/Dungarvin/744000163321379-supportive-housing-case-manager) | Longview, WA, us |  | 2026-11-24 |  |
 | Eating Recovery Center | [Program Coordinator](https://job-boards.greenhouse.io/erc8585757pathlight53t353/jobs/4519889009) | IL-Northbrook | $18.25 to $29/hour | 2026-11-24 |  |
 | Eating Recovery Center | [Program Coordinator, PRN](https://job-boards.greenhouse.io/erc8585757pathlight53t353/jobs/4519884009) | MD-Baltimore Schilling Res | $21.45 to $29/hour | 2026-11-24 |  |
-| Elevance Health | [Utilization Management Representative I](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/ID-MERIDIAN-2888-W-EXCURSION-LN/Utilization-Management-Representative-I_JR211418) | ID-MERIDIAN, 2888 W EXCURSION LN |  | 2026-11-24 |  |
 | Embraer | [Production Control Specialist](https://embraer.breezy.hr/p/3170bff692c2-production-control-specialist) | Melbourne, FL |  | 2026-11-24 |  |
 | Equinox | [Front Desk Associates, E 85th](https://jobs.smartrecruiters.com/Equinox/744000163318619-front-desk-associates-e-85th) | New York, NY, us | $17/hour | 2026-11-24 |  |
 | Equinox | [Front Desk Associates, Plano](https://jobs.smartrecruiters.com/Equinox/744000163288069-front-desk-associates-plano) | Plano, TX, us |  | 2026-11-24 |  |
@@ -558,7 +569,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Reformation | [Sales Associate, Part-Time - East Hampton](https://job-boards.greenhouse.io/reformation/jobs/8413025) | East Hampton, NY | $17 to $25/hour | 2026-11-24 |  |
 | Reputation Partners | [Assistant Account Executive](https://jobs.smartrecruiters.com/ReputationPartners/744000163271414-assistant-account-executive) | Chicago, IL, us |  | 2026-11-24 |  |
 | ResProp | [Assistant Manager (Bilingual) - La Caliza](https://jobs.gem.com/resprop/am9icG9zdDpDcFV70rUy7IjGbHwR_4jB) | Houston, Texas |  | 2026-11-24 |  |
-| Rice University | [Facilities Supply Chain Services Specialist](https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6326) | Houston, TX, United States |  | 2026-11-24 |  |
 | Rivian | [Administrative Operations Specialist, Remarketing](https://careers.rivian.com/careers-home/jobs/36651) | Irvine, California | $30.03 to $37.54/hour | 2026-11-24 |  |
 | Rivian | [Early Career- Global Supply Manager, Fasteners](https://careers.rivian.com/careers-home/jobs/37655) | Irvine, California | $85,600 to $107,000 | 2026-11-24 |  |
 | Sage Haus | [Household Manager w/ Meal Prep Support](https://sage-haus.breezy.hr/p/37538ef5eb50-household-manager-w-meal-prep-support) | Charlestown, MA | $32 to $37/hour | 2026-11-24 |  |
@@ -572,7 +582,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Surgery Partners | [Front Desk Representative - Key-Whitman Plano](https://job-boards.greenhouse.io/surgerypartners/jobs/4509112009) | Dallas, Texas, United States |  | 2026-11-24 |  |
 | TC Energy | [Project Coordinator](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Project-Coordinator_JR-11407) | Charleston, West Virginia (hybrid) |  | 2026-11-24 |  |
 | Texas A&M University-Corpus Christi | [Coordinator of Outdoor Recreation & Student Development](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Coordinator-of-Outdoor-Recreation---Student-Development_R-096622-1) | Corpus Christi, TX | $43,888 to $48,853.08 | 2026-11-24 |  |
-| Texas Children's Hospital | [Front Office Specialist (FOS) - TCP Westwood/MyCHN Float Pool](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428954) | Houston, TX, United States |  | 2026-11-24 |  |
 | The Quality Group | [Director Order-to-Cash (gn) - B2B Sales, Operations & Fulfilment](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/5040959101) | Hamburg (hybrid) |  | 2026-11-24 |  |
 | The Quality Group GmbH | [Director Order-to-Cash (gn) - B2B Sales, Operations & Fulfilment](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5040958101) | Hamburg (hybrid) |  | 2026-11-24 |  |
 | The Scion Group | [Assistant Community Manager](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8959247002) | The Village at Colbert Park, Savoy, Illinois, United States | $55,000 to $60,000 | 2026-11-24 | no visa sponsorship |
@@ -584,7 +593,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Truist | [Securitized Products Originations Analyst I](https://careers.truist.com/us/en/job/R0121977) | New York, New York, USA | $100,000 | 2026-11-24 | no visa sponsorship |
 | Trusted Results Therapy Group | [Referral Coordinator (Bilingual)](https://trustedresultstg.bamboohr.com/careers/204) | United States (Remote) |  | 2026-11-24 |  |
 | Uber Freight | [Carrier Manager (Transportation Management)](https://job-boards.greenhouse.io/uberfreight/jobs/5492116008) | Newport, KY 41071, United States |  | 2026-11-24 | no visa sponsorship |
-| UnitedHealth Group | [EPIC MyChart Service Desk Analyst](https://careers.unitedhealthgroup.com/job/irvine/epic-mychart-service-desk-analyst/34088/100183403536) | Irvine, California | $24 to $43/hour | 2026-11-24 |  |
 | UnitedHealth Group | [Schedule Specialist (In Office)](https://careers.unitedhealthgroup.com/job/nutley/schedule-specialist-in-office/34088/103166227248) | Nutley, New Jersey | $18.45 to $27.65/hour | 2026-11-24 |  |
 | University of Pikeville | [Public Safety Officer Level I](https://upike.bamboohr.com/careers/634) | Pikeville, Kentucky, United States |  | 2026-11-24 |  |
 | UNOde50 | [Weekend Sales Associate - Disney Springs](https://unode50.bamboohr.com/careers/381) | Lake Buena Vista, Florida, United States |  | 2026-11-24 |  |
@@ -748,11 +756,3 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000158348879-restaurant-manager) | Taylor, MI, us |  | 2026-11-24 |  |
 | Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000158148669-restaurant-zone-manager) | Costa Mesa, CA, us |  | 2026-11-24 |  |
 | Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000158087280-restaurant-manager) | Findlay, OH, us |  | 2026-11-24 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000158072909-restaurant-zone-manager) | Grove City, OH, us |  | 2026-11-24 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000158070410-restaurant-zone-manager) | Columbus, OH, us |  | 2026-11-24 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000158062625-restaurant-zone-manager) | Gahanna, OH, us |  | 2026-11-24 |  |
-| Raising Cane's | [Hourly Restaurant Manager (Shift Manager)](https://jobs.smartrecruiters.com/RaisingCanes/744000158047791-hourly-restaurant-manager-shift-manager-) | New Orleans, LA, us |  | 2026-11-24 |  |
-| Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000157902801-restaurant-manager) | Knoxville, TN, us |  | 2026-11-24 |  |
-| Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000157904089-restaurant-manager) | Knoxville, TN, us |  | 2026-11-24 |  |
-| Raising Cane's | [Restaurant Zone Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000157894329-restaurant-zone-manager) | Sterling, VA, us |  | 2026-11-24 |  |
-| Raising Cane's | [Restaurant Manager](https://jobs.smartrecruiters.com/RaisingCanes/744000157893699-restaurant-manager) | Sterling, VA, us |  | 2026-11-24 |  |

@@ -1,11 +1,26 @@
 # New grad and entry level: Healthcare
 
-12,405 open, newest first (by the date the scraper first saw them), updated 2026-11-26. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+11,944 open, newest first (by the date the scraper first saw them), updated 2026-11-27. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Ascension | [Patient Access Representative](https://jobs.ascension.org/us/en/job/1321856) | Racine, WI, US |  | 2026-11-27 |  |
+| Ascension | [Surgical Scheduler](https://jobs.ascension.org/us/en/job/33483) | Mequon, WI, US |  | 2026-11-27 |  |
+| Texas Children's Hospital | [Patient Care Assistant - PICU](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/429056) | Houston, TX, United States |  | 2026-11-27 |  |
+| BAYADA Home Health Care | [CNA / Certified CNA for Home Care](https://jobs.bayada.com/en/jobs?gh_jid=8963792002) | Forest City, NC 28043 / 35.315695308 / -81.868777417 | $19/hour | 2026-11-27 |  |
+| BAYADA Home Health Care | [CNA / Certified Nurse Aide for Home Care](https://jobs.bayada.com/en/jobs?gh_jid=8963790002) | Shelby, NC 28151 / 35.287418 / -81.537397 | $19/hour | 2026-11-27 |  |
+| BAYADA Home Health Care | [CNA's for Home Care](https://jobs.bayada.com/en/jobs?gh_jid=8963791002) | Gastonia, NC 28053 / 35.26375 / -81.185888 | $19/hour | 2026-11-27 |  |
+| Baylor Scott & White Health | [Patient Care Tech HUC](https://jobs.bswhealth.com/us/en/job/26021680) | Mckinney, Texas, United States |  | 2026-11-27 |  |
+| Baylor Scott & White Health | [Monitor Tech](https://jobs.bswhealth.com/us/en/job/26021655) | Mckinney, Texas, United States |  | 2026-11-27 |  |
+| Baylor Scott & White Health | [ED Support Tech](https://jobs.bswhealth.com/us/en/job/26021724) | Plano, Texas, United States |  | 2026-11-27 |  |
+| Baylor Scott & White Health | [Patient Care Tech HUC](https://jobs.bswhealth.com/us/en/job/26021679) | Mckinney, Texas, United States |  | 2026-11-27 |  |
+| Inland Empire Health Plan | [HEDIS Clinical Review Nurse, LVN (Short Term)](https://careers.iehp.org/job/california/hedis-clinical-review-nurse-lvn-short-term/38317/103822312800) | California |  | 2026-11-27 |  |
+| Monarch Communities | [Caregiver (HHA/CNA)- All Shifts Part Time & Per Diem](https://jobs.smartrecruiters.com/MonarchCommunities/744000163869119-caregiver-hha-cna-all-shifts-part-time-per-diem) | Mahwah, NJ, us | $20.31 to $21.31/hour | 2026-11-27 |  |
+| Baylor Scott & White Health | [Patient Services Specialist 1 - McLane Children's Hospital (Waco)](https://jobs.bswhealth.com/us/en/job/26020245) | Waco, Texas, United States |  | 2026-11-27 |  |
+| Baylor Scott & White Health | [Patient Services Specialist I – Part-Time Hill Country Float](https://jobs.bswhealth.com/us/en/job/26019228) | Marble Falls, Texas, United States |  | 2026-11-27 |  |
+| Akido | [Field Medical Assistant - South LA](https://job-boards.greenhouse.io/akidolabs/jobs/4615991006) | Los Angeles, CA | $28/hour | 2026-11-27 |  |
 | Ascension | [Patient Care Technician Med Surg](https://jobs.ascension.org/us/en/job/33416) | Austin, TX, US |  | 2026-11-26 |  |
 | Ascension | [Patient Care Tech Multispecialty Surgical](https://jobs.ascension.org/us/en/job/33149) | Indianapolis, IN, US |  | 2026-11-26 |  |
 | City of New York | [Junior Public Health Nurse, Bureau of School Health](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017103616-junior-public-health-nurse-bureau-of-school-health) | Long Island City, NY, us |  | 2026-11-26 |  |
@@ -45,19 +60,19 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BAYADA Home Health Care | [LPN- Residency Program](https://jobs.bayada.com/en/jobs?gh_jid=8963101002) | Georgetown, DE 19947 / 38.682445612 / -75.371068797 | $27 to $40/hour | 2026-11-26 |  |
 | BAYADA Home Health Care | [New Graduate LPN - Nurse Residency](https://jobs.bayada.com/en/jobs?gh_jid=8963102002) | Milford, DE 19963 / 38.91386133 / -75.418776642 | $27 to $40/hour | 2026-11-26 |  |
 | BAYADA Home Health Care | [PRN Caregivers and C NA's for Days/Evenings/ Weekends](https://jobs.bayada.com/en/jobs?gh_jid=8963096002) | Columbia, SC 29210 / 34.04386675 / -81.105642603 | $14/hour | 2026-11-26 |  |
-| BAYADA Home Health Care | [Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8962979002) | Elmer, NJ 08318 / 39.562558446 / -75.157104457 | $55 to $62/hour | 2026-11-26 |  |
-| BAYADA Home Health Care | [Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8962980002) | Pennsville, NJ 08070 / 39.647841456 / -75.514013535 | $55 to $62/hour | 2026-11-26 |  |
 | BAYADA Home Health Care | [Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8962984002) | Woodstown, NJ 08098 / 39.648791454 / -75.326519489 | $55 to $62/hour | 2026-11-26 |  |
-| BAYADA Home Health Care | [Registered Nurse - Residency Program](https://jobs.bayada.com/en/jobs?gh_jid=8872618002) | Dover, DE 19901 / 39.154775745 / -75.516464902 | $30 to $43/hour | 2026-11-26 |  |
+| BAYADA Home Health Care | [Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8962980002) | Pennsville, NJ 08070 / 39.647841456 / -75.514013535 | $55 to $62/hour | 2026-11-26 |  |
+| BAYADA Home Health Care | [Registered Nurse](https://jobs.bayada.com/en/jobs?gh_jid=8962979002) | Elmer, NJ 08318 / 39.562558446 / -75.157104457 | $55 to $62/hour | 2026-11-26 |  |
 | BAYADA Home Health Care | [Registered Nurse - Residency Program](https://jobs.bayada.com/en/jobs?gh_jid=8963103002) | Seaford, DE 19973 / 38.647238704 / -75.604552297 | $30 to $43/hour | 2026-11-26 |  |
+| BAYADA Home Health Care | [Registered Nurse - Residency Program](https://jobs.bayada.com/en/jobs?gh_jid=8872618002) | Dover, DE 19901 / 39.154775745 / -75.516464902 | $30 to $43/hour | 2026-11-26 |  |
 | BAYADA Home Health Care | [Registered Nurse, (RN) - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8962535002) | Kinston, NC 28501 / 35.27099995 / -77.562265319 | $60 to $63/hour | 2026-11-26 |  |
 | BAYADA Home Health Care | [STAT LPN - Overnights](https://jobs.bayada.com/en/jobs?gh_jid=8963066002) | Millsboro, DE 19966 / 38.610949167 / -75.224152741 | $50/hour | 2026-11-26 |  |
-| Baylor Scott & White Health | [Patient Care Tech Days](https://jobs.bswhealth.com/us/en/job/26021746) | Dallas, Texas, United States |  | 2026-11-26 |  |
 | Baylor Scott & White Health | [Patient Care Tech PCT Nights](https://jobs.bswhealth.com/us/en/job/26021747) | Dallas, Texas, United States |  | 2026-11-26 |  |
+| Baylor Scott & White Health | [Patient Care Tech Days](https://jobs.bswhealth.com/us/en/job/26021746) | Dallas, Texas, United States |  | 2026-11-26 |  |
 | Baylor Scott & White Health | [Pharmacy Technician PRN (Inpatient)](https://jobs.bswhealth.com/us/en/job/26021380) | Dallas, Texas, United States |  | 2026-11-26 |  |
 | Baylor Scott & White Health | [Pharmacy Technician Retail (Part-time)](https://jobs.bswhealth.com/us/en/job/26021371) | Irving, Texas, United States |  | 2026-11-26 |  |
-| Baylor Scott & White Health | [Patient Services Specialist I (ENT Clinic)](https://jobs.bswhealth.com/us/en/job/26018733) | Waco, Texas, United States |  | 2026-11-26 |  |
 | Baylor Scott & White Health | [Pharmacy Technician Retail](https://jobs.bswhealth.com/us/en/job/26021378) | Frisco, Texas, United States |  | 2026-11-26 |  |
+| Baylor Scott & White Health | [Patient Services Specialist I (ENT Clinic)](https://jobs.bswhealth.com/us/en/job/26018733) | Waco, Texas, United States |  | 2026-11-26 |  |
 | Cadence Health | [Outbound Patient Enrollment Specialist (Bilingual - Spanish)](https://job-boards.greenhouse.io/cadencehealth/jobs/4732272006) | Remote | $23 to $24/hour | 2026-11-26 |  |
 | Campus | [Medical Terminology Teaching Assistant](https://jobs.ashbyhq.com/campus/8562cee0-f303-44f4-921d-453801282d1c) | Campus Remote |  | 2026-11-26 |  |
 | Caring Senior Service | [***Now Hiring Caregivers / CNAs / HHAs / PCAs / Flexible Shifts Available***](https://caring.breezy.hr/p/559c220c791d-now-hiring-caregivers-cnas-hhas-pcas-flexible-shifts-available) | McAllen, TX | $9 to $12/hour | 2026-11-26 |  |
@@ -362,19 +377,18 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BAYADA Home Health Care | [Registered Nurse, (RN) - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8961025002) | Greensboro, NC 27404 / 36.0994 / -79.8365 |  | 2026-11-25 |  |
 | BAYADA Home Health Care | [Registered Nurse, (RN) - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8961078002) | Southern Pines, NC 28387 / 35.178790194 / -79.39438914 |  | 2026-11-25 |  |
 | Baylor Scott & White Health | [Social Worker MSW I](https://jobs.bswhealth.com/us/en/job/26021581) | Plano, Texas, United States |  | 2026-11-25 |  |
-| Baylor Scott & White Health | [Rad Tech NIGHTS Weekends 10k sign on](https://jobs.bswhealth.com/us/en/job/26021548) | Fort Worth, Texas, United States |  | 2026-11-25 |  |
 | Baylor Scott & White Health | [PRN Chaplain 1 - Temple Medical Center](https://jobs.bswhealth.com/us/en/job/26021128) | Temple, Texas, United States |  | 2026-11-25 |  |
 | Baylor Scott & White Health | [Anesthesia Tech 1 PRN](https://jobs.bswhealth.com/us/en/job/26021471) | Fort Worth, Texas, United States |  | 2026-11-25 |  |
-| Baylor Scott & White Health | [Certified Medical Assistant](https://jobs.bswhealth.com/us/en/job/26015756) | Mckinney, Texas, United States |  | 2026-11-25 |  |
-| Baylor Scott & White Health | [ED Support Tech](https://jobs.bswhealth.com/us/en/job/26021488) | Denton, Texas, United States |  | 2026-11-25 |  |
-| Baylor Scott & White Health | [Therapist Physical Assistant](https://jobs.bswhealth.com/us/en/job/26021202) | Round Rock, Texas, United States |  | 2026-11-25 |  |
 | Baylor Scott & White Health | [Surgical Technologist 2 Days](https://jobs.bswhealth.com/us/en/job/26021464) | Waxahachie, Texas, United States |  | 2026-11-25 |  |
-| Baylor Scott & White Health | [ED Support Tech - PRN](https://jobs.bswhealth.com/us/en/job/26019725) | Marble Falls, Texas, United States |  | 2026-11-25 |  |
 | Baylor Scott & White Health | [Social Worker MSW I](https://jobs.bswhealth.com/us/en/job/26021580) | Pflugerville, Texas, United States |  | 2026-11-25 |  |
-| Baylor Scott & White Health | [RN Med Surg/Telemetry Night](https://jobs.bswhealth.com/us/en/job/26021628) | Waxahachie, Texas, United States |  | 2026-11-25 |  |
 | Baylor Scott & White Health | [ED Support Tech](https://jobs.bswhealth.com/us/en/job/26021611) | Rowlett, Texas, United States |  | 2026-11-25 |  |
+| Baylor Scott & White Health | [ED Support Tech - PRN](https://jobs.bswhealth.com/us/en/job/26019725) | Marble Falls, Texas, United States |  | 2026-11-25 |  |
+| Baylor Scott & White Health | [ED Support Tech](https://jobs.bswhealth.com/us/en/job/26021488) | Denton, Texas, United States |  | 2026-11-25 |  |
+| Baylor Scott & White Health | [RN Med Surg/Telemetry Night](https://jobs.bswhealth.com/us/en/job/26021628) | Waxahachie, Texas, United States |  | 2026-11-25 |  |
+| Baylor Scott & White Health | [Therapist Physical Assistant](https://jobs.bswhealth.com/us/en/job/26021202) | Round Rock, Texas, United States |  | 2026-11-25 |  |
 | Baylor Scott & White Health | [Sterile Processing Tech 2](https://jobs.bswhealth.com/us/en/job/26021635) | Waxahachie, Texas, United States |  | 2026-11-25 |  |
 | Baylor Scott & White Health | [RN Universal Bed Unit FT Nights](https://jobs.bswhealth.com/us/en/job/26002432) | Frisco, Texas, United States |  | 2026-11-25 |  |
+| Baylor Scott & White Health | [Certified Medical Assistant](https://jobs.bswhealth.com/us/en/job/26015756) | Mckinney, Texas, United States |  | 2026-11-25 |  |
 | Baylor Scott & White Health | [Sterile Processing Tech 1](https://jobs.bswhealth.com/us/en/job/26021587) | Fort Worth, Texas, United States |  | 2026-11-25 |  |
 | Baylor Scott & White Health | [Anesthesia Tech 2](https://jobs.bswhealth.com/us/en/job/26021636) | Dallas, Texas, United States |  | 2026-11-25 |  |
 | Baylor Scott & White Health | [Surgical Technologist 2](https://jobs.bswhealth.com/us/en/job/26021463) | Waxahachie, Texas, United States |  | 2026-11-25 |  |
@@ -446,10 +460,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Pharmacy Manager](https://jobs.cvshealth.com/us/en/job/R1114027) | 3066 STATE RT. 160, Gallipolis, Ohio,United States | $65 to $81/hour | 2026-11-25 |  |
 | Datavant | [Area Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5477993008) | Alabaster, AL; Jasper, AL; Birmingham, AL; Talladega, AL; |  | 2026-11-25 | no visa sponsorship |
 | Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5474233008) | Pensacola, FL 35203 |  | 2026-11-25 | no visa sponsorship |
-| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5485262008) | Buffalo, NY | $16 to $20.50/hour | 2026-11-25 | no visa sponsorship |
 | Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5481551008) | Johnson, AR |  | 2026-11-25 | no visa sponsorship |
+| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5485262008) | Buffalo, NY | $16 to $20.50/hour | 2026-11-25 | no visa sponsorship |
 | Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5447501008) | Allentown, PA 18103 (hybrid) |  | 2026-11-25 | no visa sponsorship |
-| Datavant | [Health Information Specialist I - Temp](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5485418008) | Albany, GA | $15/hour | 2026-11-25 | no visa sponsorship |
 | Edwards Lifesciences | [Associate Product Manager, TTVR Therapy Marketing](https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/USA---California--Irvine/Associate-Product-Manager--TTVR-Therapy-Marketing_Req-52549) | USA - California – Irvine | $87,000 to $123,000 | 2026-11-25 |  |
 | Elevance Health | [CFSP Managed Care Coordinator - Vance County](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/North-Carolina---Oxford/CFSP-Managed-Care-Coordinator---Vance-County_JR209389) | North Carolina - Oxford |  | 2026-11-25 |  |
 | Eye Care Partners | [Medical Assistant - Ophthalmology - Full benefits, no weekends, PTO!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8959862002) | Richmond, VA | $18 to $22/hour | 2026-11-25 |  |
@@ -535,11 +548,9 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | UnitedHealth Group | [Hospice RN Case Manager](https://careers.unitedhealthgroup.com/job/monroeville/hospice-rn-case-manager/34088/103730623616) | Monroeville, Pennsylvania | $79,600 to $119,400 | 2026-11-25 |  |
 | UnitedHealth Group | [Part Time ProHealth Associate Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/mukwonago/part-time-prohealth-associate-patient-care-coordinator/34088/103743463120) | Mukwonago, Wisconsin | $16 to $29/hour | 2026-11-25 |  |
 | UnitedHealth Group | [Licensed Practical Nurse](https://careers.unitedhealthgroup.com/job/pulaski/licensed-practical-nurse/34088/103730623472) | Pulaski, Virginia | $23.63 to $42.53/hour | 2026-11-25 |  |
-| UnitedHealth Group | [Intake Coordinator Home Health (In Office - Not Remote)](https://careers.unitedhealthgroup.com/job/puyallup/intake-coordinator-home-health-in-office-not-remote/34088/103752535456) | Puyallup, Washington (remote) | $20.10 to $30.10/hour | 2026-11-25 |  |
 | UnitedHealth Group | [RN Hospice Clinical Manager](https://careers.unitedhealthgroup.com/job/rainbow-city/rn-hospice-clinical-manager/34088/103735169904) | Rainbow City, Alabama | $64,152 to $96,228 | 2026-11-25 |  |
 | UnitedHealth Group | [Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/rio-rancho/patient-care-coordinator/34088/103748845808) | Rio Rancho, New Mexico | $18 to $32/hour | 2026-11-25 |  |
 | UnitedHealth Group | [Registered Nurse - Roanoke](https://careers.unitedhealthgroup.com/job/roanoke/registered-nurse-roanoke/34088/103730623648) | Roanoke, Virginia | $34.46 to $62.03/hour | 2026-11-25 |  |
-| UnitedHealth Group | [RN Hospice Nurse](https://careers.unitedhealthgroup.com/job/roseburg/rn-hospice-nurse/34088/103735169024) | Roseburg, Oregon | $79,600 to $119,400 | 2026-11-25 |  |
 | UnitedHealth Group | [RN Home Health Savannah GA FT](https://careers.unitedhealthgroup.com/job/savannah/rn-home-health-savannah-ga-ft/34088/103730623280) | Savannah, Georgia | $34.46 to $62.03/hour | 2026-11-25 |  |
 | UnitedHealth Group | [PT Physical Therapist Home Health](https://careers.unitedhealthgroup.com/job/spartanburg/pt-physical-therapist-home-health/34088/103735170464) | Spartanburg, South Carolina | $80,864 to $121,296 | 2026-11-25 |  |
 | UnitedHealth Group | [Per Diem RN - Kelsey Seybold Clinic: Stafford](https://careers.unitedhealthgroup.com/job/stafford/per-diem-rn-kelsey-seybold-clinic-stafford/34088/103752535312) | Stafford, Texas | $29 to $63/hour | 2026-11-25 |  |
@@ -548,14 +559,15 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | US Physical Therapy | [Briotix Health logo Certified Athletic Trainer - Industrial Injury Prevention (ATC, OT, PT) Full-Time](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990017067095-briotix-health-logo-certified-athletic-trainer-industrial-injury-prevention-atc-ot-pt-full-time) | Columbia, South Carolina, us | $33 to $41/hour | 2026-11-25 |  |
 | UT Southwestern | [Behavioral Health Intake Registered Nurse - Texas Behavioral Health Center](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=990606&lang=en) | Texas-Dallas-4855 Harry Hines Blvd |  | 2026-11-25 |  |
 | UTMB Health | [Correctional Clinical Associate - Hobby Unit](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2606230&lang=en) | United States-Texas-Marlin; United States-Texas-Waco |  | 2026-11-25 | clearance |
+| UTMB Health | [Patient Registration Specialist I - RCO Registration, Clear Lake (Nights; Rotating Schedule)](https://aa083.taleo.net/careersection/ex/jobdetail.ftl?job=2607111&lang=en) | United States-Texas-Webster |  | 2026-11-25 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician - Ardmore, PA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6270203004?gh_jid=6270203004) | Ardmore, Pennsylvania, United States |  | 2026-11-25 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician - Brookfield, WI](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6270414004?gh_jid=6270414004) | Brookfield, Wisconsin, United States |  | 2026-11-25 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician - Clifton, NJ](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6270232004?gh_jid=6270232004) | Clifton, New Jersey, United States | $25 to $44/hour | 2026-11-25 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician - Overland Park, KS](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6264333004?gh_jid=6264333004) | Overland Park, Kansas, United States |  | 2026-11-25 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician - Santa Cruz, CA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6261724004?gh_jid=6261724004) | Santa Cruz, California, United States | $27 to $56/hour | 2026-11-25 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Credentialed Veterinary Technician - Willow Grove, PA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6270165004?gh_jid=6270165004) | Willow Grove, Pennsylvania, United States | $25 to $62/hour | 2026-11-25 |  |
-| Veterinary Emergency Group (VEG) | [Emergency Veterinarian - Ardmore, PA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6218043004?gh_jid=6218043004) | Ardmore, Pennsylvania, United States |  | 2026-11-25 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Veterinarian - Ardmore, PA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6270194004?gh_jid=6270194004) | Ardmore, Pennsylvania, United States |  | 2026-11-25 |  |
+| Veterinary Emergency Group (VEG) | [Emergency Veterinarian - Ardmore, PA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6218043004?gh_jid=6218043004) | Ardmore, Pennsylvania, United States |  | 2026-11-25 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Veterinarian - Brookfield, WI](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6268461004?gh_jid=6268461004) | Brookfield, Wisconsin, United States |  | 2026-11-25 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Veterinarian - Schaumburg, IL](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6270641004?gh_jid=6270641004) | Schaumburg, Illinois, United States | $140,000 to $200,000 | 2026-11-25 |  |
 | Veterinary Emergency Group (VEG) | [Emergency Veterinarian - Willow Grove, PA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6270133004?gh_jid=6270133004) | Willow Grove, Pennsylvania, United States |  | 2026-11-25 |  |
@@ -598,6 +610,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Compass Health Center | [Young Child Group Therapist](https://job-boards.greenhouse.io/compasshealthcenter/jobs/4690232003) | Chicago, Illinois, United States | $47,000 to $65,000 | 2026-11-25 |  |
 | Compass Health Center | [Intake Therapist](https://job-boards.greenhouse.io/compasshealthcenter/jobs/4555117003) | Chicago, Illinois, United States | $55,000 to $90,000 | 2026-11-25 |  |
 | Compass Health Center | [Intake Therapist](https://job-boards.greenhouse.io/compasshealthcenter/jobs/4355101003) | Northbrook, Illinois, United States | $55,000 to $90,000 | 2026-11-25 |  |
+| Baylor Scott & White Health | [RN Med Surg FT Days Sign on Bonus](https://jobs.bswhealth.com/us/en/job/26021486) | Rowlett, Texas, United States |  | 2026-11-24 |  |
+| UnitedHealth Group | [Account Executive Healthcare Sales](https://careers.unitedhealthgroup.com/job/bellaire/account-executive-healthcare-sales/34088/103691379584) | Bellaire, Texas | $83,580 to $89,370 | 2026-11-24 |  |
 | Alls Well | [Entry Level Adult Caregiver](https://allswell.bamboohr.com/careers/306) | San Diego, California, United States | $16.90 to $20/hour | 2026-11-24 |  |
 | Ascension | [Licensed Practical Nurse](https://jobs.ascension.org/us/en/job/34350) | Bartlesville, OK, US |  | 2026-11-24 |  |
 | Ascension | [Licensed Practical Nurse Med Surg](https://jobs.ascension.org/us/en/job/35381) | Wichita, KS, US |  | 2026-11-24 |  |
@@ -611,6 +625,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Ascension | [Patient Care Tech Acute Rehab](https://jobs.ascension.org/us/en/job/35573) | Kokomo, IN, US |  | 2026-11-24 |  |
 | Ascension | [Patient Service Representative](https://jobs.ascension.org/us/en/job/34661) | Baltimore, MD, US |  | 2026-11-24 |  |
 | Ascension | [Patient Service Representative](https://jobs.ascension.org/us/en/job/34064) | Baltimore, MD, US |  | 2026-11-24 |  |
+| Baylor Scott & White Health | [RN ER Nights](https://jobs.bswhealth.com/us/en/job/26013312) | Temple, Texas, United States |  | 2026-11-24 |  |
+| Baylor Scott & White Health | [RN Emergency Room Nights](https://jobs.bswhealth.com/us/en/job/26011380) | Temple, Texas, United States |  | 2026-11-24 |  |
 | Boston Scientific | [Patient Education Specialist I](https://bostonscientific.eightfold.ai/careers/job/563602813923766) | Santa Clarita, CA, US | $44,304 to $75,296 | 2026-11-24 |  |
 | Christus Health | [Registered Nurse - Emergency Care Center](https://careers.christushealth.org/opportunity/registered-nurse-emergency-care-center-402053) | San Antonio, TX, US |  | 2026-11-24 |  |
 | Christus Health | [Registered Nurse - IMC Telemetry](https://careers.christushealth.org/opportunity/registered-nurse-imc-telemetry-405370) | New Braunfels, TX, US |  | 2026-11-24 |  |
@@ -650,13 +666,13 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BAYADA Home Health Care | [New Grad Licensed Practical Nurse - Homecare 1:1](https://jobs.bayada.com/en/jobs?gh_jid=8959001002) | Cape May Court House, NJ 08210 / 39.095640655 / -74.827946333 | $27 to $29/hour | 2026-11-24 |  |
 | BAYADA Home Health Care | [New Grad Occupational Therapist, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8958870002) | Springfield, MO 65804 / 37.162045349 / -93.252092685 |  | 2026-11-24 |  |
 | BAYADA Home Health Care | [New Grad Occupational Therapist, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8958812002) | Lebanon, MO 65536 / 37.682497096 / -92.662247641 |  | 2026-11-24 |  |
-| BAYADA Home Health Care | [New Grad Physical Therapist, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8958901002) | Springfield, MO 65804 / 37.162045349 / -93.252092685 |  | 2026-11-24 |  |
 | BAYADA Home Health Care | [New Grad Physical Therapist, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8958900002) | Joplin, MO 64804 / 37.045934433 / -94.512205699 |  | 2026-11-24 |  |
+| BAYADA Home Health Care | [New Grad Physical Therapist, Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8958901002) | Springfield, MO 65804 / 37.162045349 / -93.252092685 |  | 2026-11-24 |  |
 | BAYADA Home Health Care | [New Grad Registered Nurse - Homecare 1:1](https://jobs.bayada.com/en/jobs?gh_jid=8516794002) | Mays Landing, NJ 08330 / 39.45582123 / -74.69971851 | $30 to $32/hour | 2026-11-24 |  |
 | BAYADA Home Health Care | [Occupational Therapist](https://jobs.bayada.com/en/jobs?gh_jid=8958703002) | Union, NJ 07083 / 40.695724708 / -74.269027042 | $70 to $80/hour | 2026-11-24 |  |
 | BAYADA Home Health Care | [Occupational Therapist](https://jobs.bayada.com/en/jobs?gh_jid=8958699002) | Somerset, NJ 08873 / 40.501778042 / -74.51230258 | $70 to $80/hour | 2026-11-24 |  |
-| BAYADA Home Health Care | [Occupational Therapist](https://jobs.bayada.com/en/jobs?gh_jid=8958710002) | Woodbridge, NJ 07095 / 40.556248266 / -74.28522324 | $70 to $80/hour | 2026-11-24 |  |
 | BAYADA Home Health Care | [Occupational Therapist](https://jobs.bayada.com/en/jobs?gh_jid=8958715002) | Freehold, NJ 07728 / 40.241177148 / -74.276324299 | $70 to $80/hour | 2026-11-24 |  |
+| BAYADA Home Health Care | [Occupational Therapist](https://jobs.bayada.com/en/jobs?gh_jid=8958710002) | Woodbridge, NJ 07095 / 40.556248266 / -74.28522324 | $70 to $80/hour | 2026-11-24 |  |
 | BAYADA Home Health Care | [Occupational Therapist- Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8958735002) | Media, PA 19063 / 39.917562349 / -75.402873424 | $62 to $72/hour | 2026-11-24 |  |
 | BAYADA Home Health Care | [Physical Therapist, PT - Home Health](https://jobs.bayada.com/en/jobs?gh_jid=8958882002) | Salisbury, NC 28144 / 35.68382432 / -80.473299953 | $65 to $72/hour | 2026-11-24 |  |
 | BAYADA Home Health Care | [Physical Therapist, PT, Home Health Visits](https://jobs.bayada.com/en/jobs?gh_jid=8958997002) | Wilmington, DE 19801 / 39.739922845 / -75.549925544 | $72 to $80/hour | 2026-11-24 |  |
@@ -665,19 +681,17 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | BAYADA Home Health Care | [Registered Nurse, Visits](https://jobs.bayada.com/en/jobs?gh_jid=8955908002) | Kailua Kona, HI 96740 / 19.647689845 / -155.97861935 | $70 to $75/hour | 2026-11-24 |  |
 | BAYADA Home Health Care | [School-Based Behavioral Technician Trainee, Behavioral Health](https://jobs.bayada.com/en/jobs?gh_jid=8959510002) | Waikoloa, HI 96738 / 19.929157254 / -155.80477644 | $30 to $35/hour | 2026-11-24 |  |
 | Baylor Scott & White Health | [PRN/PT Social Worker MSW I](https://jobs.bswhealth.com/us/en/job/26021475) | Frisco, Texas, United States |  | 2026-11-24 |  |
-| Baylor Scott & White Health | [RN Operating Room Variable Shifts](https://jobs.bswhealth.com/us/en/job/26021506) | Temple, Texas, United States |  | 2026-11-24 |  |
 | Baylor Scott & White Health | [Patient Services Specialist 1 - Primary Care Clinic (McKinney)](https://jobs.bswhealth.com/us/en/job/26020963) | Mckinney, Texas, United States |  | 2026-11-24 |  |
-| Baylor Scott & White Health | [Sterile Processing Tech 2 FT Evenings](https://jobs.bswhealth.com/us/en/job/26021605) | Dallas, Texas, United States |  | 2026-11-24 |  |
+| Baylor Scott & White Health | [RN Operating Room Variable Shifts](https://jobs.bswhealth.com/us/en/job/26021506) | Temple, Texas, United States |  | 2026-11-24 |  |
 | Baylor Scott & White Health | [Radiologic Tech FT Nights](https://jobs.bswhealth.com/us/en/job/26021566) | Dallas, Texas, United States |  | 2026-11-24 |  |
-| Baylor Scott & White Health | [OR RN Weekend Days 7a-5p](https://jobs.bswhealth.com/us/en/job/26021139) | Temple, Texas, United States |  | 2026-11-24 |  |
+| Baylor Scott & White Health | [Sterile Processing Tech 2 FT Evenings](https://jobs.bswhealth.com/us/en/job/26021605) | Dallas, Texas, United States |  | 2026-11-24 |  |
 | Baylor Scott & White Health | [Patient Services Specialist I – Multi-Specialty Clinic (OB/GYN, Cardiology & Dermatology) / Harker Heights](https://jobs.bswhealth.com/us/en/job/26021615) | Harker Heights, Texas, United States |  | 2026-11-24 |  |
-| Baylor Scott & White Health | [RN Postpartum Nights](https://jobs.bswhealth.com/us/en/job/26021381) | Temple, Texas, United States |  | 2026-11-24 |  |
+| Baylor Scott & White Health | [OR RN Weekend Days 7a-5p](https://jobs.bswhealth.com/us/en/job/26021139) | Temple, Texas, United States |  | 2026-11-24 |  |
 | Baylor Scott & White Health | [Social Worker MSW I](https://jobs.bswhealth.com/us/en/job/26021437) | Grapevine, Texas, United States |  | 2026-11-24 |  |
 | Baylor Scott & White Health | [Certified Medical Assistant](https://jobs.bswhealth.com/us/en/job/26021474) | Red Oak, Texas, United States |  | 2026-11-24 |  |
+| Baylor Scott & White Health | [RN Postpartum Nights](https://jobs.bswhealth.com/us/en/job/26021381) | Temple, Texas, United States |  | 2026-11-24 |  |
 | Baylor Scott & White Health | [Patient Services Specialist I – Centralized Check-In / Specialty Clinic (Round Rock)](https://jobs.bswhealth.com/us/en/job/26021603) | Round Rock, Texas, United States |  | 2026-11-24 |  |
-| Baylor Scott & White Health | [Nurse Practitioner NP Geriatric PRN - Housecalls](https://jobs.bswhealth.com/us/en/job/26020577) | Dallas, Texas, United States |  | 2026-11-24 |  |
 | Baylor Scott & White Health | [Certified Medical Assistant Family Med](https://jobs.bswhealth.com/us/en/job/26021406) | Austin, Texas, United States |  | 2026-11-24 |  |
-| Baylor Scott & White Health | [RN Med Surg FT Days](https://jobs.bswhealth.com/us/en/job/26021486) | Rowlett, Texas, United States |  | 2026-11-24 |  |
 | Cedars-Sinai | [Registered Nurse II, Oncology Imaging - Per Diem; 8hr; Days](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20880) | Los Angeles, CA, United States |  | 2026-11-24 |  |
 | Cedars-Sinai | [Registered Nurse II - GI Motility - 8 Hour Days](https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21860) | Los Angeles, CA, United States |  | 2026-11-24 |  |
 | Centene | [LTSS Service Care Coordinator](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Calumet-City-Illinois60409/LTSS-Service-Care-Coordinator_1677816) | Calumet City-Illinois(60409) (hybrid) | $22.94 to $38.79/hour | 2026-11-24 |  |
@@ -735,24 +749,10 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | CVS Health | [Community Health Worker](https://jobs.cvshealth.com/us/en/job/R1093511) | 553 E Manhattan Blvd Suite 553, Toledo, Ohio,United States | $18.50 to $35.29/hour | 2026-11-24 |  |
 | Datavant | [Area Health Information Specialist 1](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5414287008) | Reading, PA |  | 2026-11-24 | no visa sponsorship |
 | Datavant | [Area Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5471877008) | Jupiter, Florida |  | 2026-11-24 | no visa sponsorship |
-| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5479860008) | Indio, CA 92201 | $24/hour | 2026-11-24 | no visa sponsorship |
 | Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5481504008) | San Antonio, TX 78258 |  | 2026-11-24 | no visa sponsorship |
+| Datavant | [Health Information Specialist I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5479860008) | Indio, CA 92201 | $24/hour | 2026-11-24 | no visa sponsorship |
 | Datavant | [Health Information Specialist I - 8719](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5468709008) | Pottstown, PA |  | 2026-11-24 | no visa sponsorship |
 | Datavant | [Health Information Specialist I-Entry Level-8767](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5473566008) | Alabama, Louisiana, North Dakota, North Carolina | $15/hour | 2026-11-24 | no visa sponsorship |
 | Datavant | [Health Information Specialist I-Entry Level-8880](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5482030008) | Iowa, Oklahoma, Mississippi, Texas | $15/hour | 2026-11-24 | no visa sponsorship |
 | Datavant | [Health Information specialist I-Entry Level-8954](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5490635008) | North Carolina, Wisconsin | $15/hour | 2026-11-24 | no visa sponsorship |
-| Elevance Health | [CFSP Managed Care Coordinator - Guilford County](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/North-Carolina---Greensboro/CFSP-Managed-Care-Coordinator----Guilford-County_JR211426) | North Carolina - Greensboro |  | 2026-11-24 |  |
 | Ennoble Care | [Hospice Social Worker (Easton, PA) - Per Diem](https://job-boards.greenhouse.io/ennoblecare/jobs/4731745006) | Easton, PA | $50 to $85/hour | 2026-11-24 |  |
-| Ennoble Care | [Patient Care Coordinator (Gulf Breeze, FL)](https://job-boards.greenhouse.io/ennoblecare/jobs/4731780006) | Gulf Breeze, FL | $18/hour | 2026-11-24 |  |
-| Eye Care Partners | [Medical Assistant, Ophthalmology - Willing to Train!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8958723002) | Owensboro, KY |  | 2026-11-24 |  |
-| Eye Care Partners | [Ophthalmic Assistant / Medical Assistant - Paid training! No weekends!](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8959175002) | Henrico, VA |  | 2026-11-24 |  |
-| Eye Care Partners | [Optometric Technician](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8958430002) | Navarre, FL |  | 2026-11-24 |  |
-| Harris Health | [Registered Nurse II - Ben Taub - 6A MedSurg Nursing Unit - FT/Night](https://jobs.harrishealth.org/registered-nurse-ii-ben-taub-6a-medsurg-nursing-unit-ft-night/job/675EECF892B474BB0E426F03DEE006EC) | Houston, TX, US |  | 2026-11-24 |  |
-| Harris Health | [Registered Nurse II - Internal Float Pool - Full-Time - LBJ](https://jobs.harrishealth.org/registered-nurse-ii-internal-float-pool-full-time-lbj/job/81AF19982D4C9B60B075CEDDB0767E2B) | Houston, TX, US |  | 2026-11-24 |  |
-| Harris Health | [Registered Nurse II - Internal Float Pool - Full-Time - LBJ - Night](https://jobs.harrishealth.org/registered-nurse-ii-internal-float-pool-full-time-lbj-night/job/83159DA0C1827442995ED469A531FB1D) | Houston, TX, US |  | 2026-11-24 |  |
-| Harris Health | [Registered Nurse II - Ben Taub - MedSurg 5D - FT](https://jobs.harrishealth.org/registered-nurse-ii-ben-taub-medsurg-5d-ft/job/A3438574C5CF9979B773DBFA4CFB86CF) | Houston, TX, US |  | 2026-11-24 |  |
-| Harris Health | [Registered Nurse II - Internal Float Pool - Full-Time - LBJ - Night](https://jobs.harrishealth.org/registered-nurse-ii-internal-float-pool-full-time-lbj-night/job/F3348695A26BBB9E38746C5BF4827B0E) | Houston, TX, US |  | 2026-11-24 |  |
-| Henry Ford Health | [Medical Assistant](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990017042156-medical-assistant) | West Bloomfield, MI, us |  | 2026-11-24 |  |
-| Henry Ford Health | [Behavioral Health Technician](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990017041876-behavioral-health-technician) | West Bloomfield, MI, us |  | 2026-11-24 |  |
-| Henry Ford Health | [Nurse Assistant- 7W Cardio](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990017040146-nurse-assistant-7w-cardio) | Warren, MI, us |  | 2026-11-24 |  |
-| Henry Ford Health | [Nurse Assistant- 7W Cardio](https://jobs.smartrecruiters.com/HenryFordHealth1/3743990017040055-nurse-assistant-7w-cardio) | Warren, MI, us |  | 2026-11-24 |  |

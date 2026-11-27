@@ -1,6 +1,6 @@
 # Internships and co-ops: Science and research
 
-143 open, newest first (by the date the scraper first saw them), updated 2026-11-26.
+140 open, newest first (by the date the scraper first saw them), updated 2026-11-27.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
@@ -112,6 +112,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | GM | [2027 Summer Intern - Research and Development - Defense Lab Support](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Support_JR-202621738) · Summer 2027 | Warren, Michigan, United States of America |  | 2026-10-20 | no visa sponsorship, US citizens/persons only, clearance |
 | Entegris | [Research Associate Co-Op - ICPS](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Research-Associate-Co-Op---ICPS_REQ-14482) · Spring 2027 | Aurora, IL | $20 to $30/hour | 2026-10-20 |  |
 | HF Sinclair | [Intern Chemist](https://careers.hfsinclair.com/job/Petrolia-Intern-Chemist-PA-16050/1435063700/) | Petrolia, PA, US |  | 2026-10-20 |  |
+| Insulet | [Graduate Co-op, R&D Chemistry: January - June 2027 (Onsite)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Chemistry--January---June-2027--Onsite-_REQ-2026-18399) | Acton, Massachusetts | $25 to $34/hour | 2026-10-20 | no visa sponsorship |
 | Marathon Petroleum | [Refining Chemical Engineering Intern/Co-op Spring 2027](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Refining-Chemical-Engineering-Intern-Co-op-Spring-2027_00020447) · Spring 2027 | Findlay, Ohio |  | 2026-10-20 | no visa sponsorship |
 | HP Inc | [Chemical Engineer / Chemist Postdoctoral Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Electrical-Hardware-Engineering-Intern_UNI4765-1) | Corvallis, Oregon, United States of America | $45 to $52/hour | 2026-10-20 | no visa sponsorship |
 | Air Products | [SUMMER CO-OP/INTERN – Chemical Engineering (FY 2027)](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/SUMMER-CO-OP-INTERN---Chemical-Engineering--FY-2027-_JR-2026-21955) · Summer | Allentown, Pennsylvania |  | 2026-10-20 |  |
@@ -125,10 +126,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Westlake | [Chemical Engineer Intern](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Deer-Park-TX/Chemical-Engineer-Intern_R33810) | US - Deer Park, TX |  | 2026-10-20 |  |
 | Westlake | [2027 Intern- Chemical Engineering](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Lake-Charles-LA/XMLNAME-2027-Intern--Chemical-Engineering_R33594) | US - Lake Charles, LA |  | 2026-10-20 | no visa sponsorship |
 | Westlake | [Chemist Intern (Summer 2027)](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Calvert-City-KY/Chemist-Intern--Summer-2027-_R33642) · Summer 2027 | US - Calvert City, KY |  | 2026-10-20 | no visa sponsorship |
-| Insulet | [Graduate Co-op, R&D Chemistry: January - June 2027 (Onsite)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Chemistry--January---June-2027--Onsite-_REQ-2026-18399) | Acton, Massachusetts | $25 to $34/hour | 2026-10-20 | no visa sponsorship |
-| Stryker | [Summer 2027 Internship - Biomedical Engineering - Florida](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Biomedical-Engineering---Florida_R572592) · Summer 2027 | Fort Lauderdale, Florida | $35/hour | 2026-10-20 | no visa sponsorship |
-| Stryker | [Summer 2027 Internship - Biomedical Engineering - Illinois](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Biomedical-Engineering---Illinois_R572593) · Summer 2027 | Cary, Illinois | $35/hour | 2026-10-20 | no visa sponsorship |
-| Stryker | [Summer 2027 Internship - Biomedical Engineering - New Jersey](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Biomedical-Engineering---New-Jersey_R572594-1) · Summer 2027 | Mahwah, New Jersey | $35/hour | 2026-10-20 | no visa sponsorship |
 | Seagate | [Intern, Advanced Media R&D Characterization and Recording Physicist](https://seagatecareers.com/job/Fremont-Intern%2C-Advanced-Media-R&D-Characterization-and-Recording-Physicist-CA-94536/1440191600/) | Fremont USA Research Center | $41 to $48/hour | 2026-10-20 |  |
 | Occidental University Recruiting | [Geophysics Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | Houston, Texas |  | 2026-10-20 |  |
 | Occidental University Recruiting | [Geology Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geology-Intern_JR110202) | Houston, Texas |  | 2026-10-20 |  |

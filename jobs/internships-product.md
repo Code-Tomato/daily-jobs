@@ -1,11 +1,12 @@
 # Internships and co-ops: Product, program and project management
 
-287 open, newest first (by the date the scraper first saw them), updated 2026-11-26.
+281 open, newest first (by the date the scraper first saw them), updated 2026-11-27.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| R2 | [Product Operations Intern](https://r2.bamboohr.com/careers/204) | Remote |  | 2026-11-27 |  |
 | DocuSign | [Product Manager Intern](https://careers.docusign.com/careers-home/jobs/32541) | San Francisco, California | $38 to $44/hour | 2026-11-26 | no visa sponsorship |
 | DocuSign | [Product Manager Intern - Abuse Protection](https://careers.docusign.com/careers-home/jobs/32212) | San Francisco, California | $48 to $59/hour | 2026-11-26 | no visa sponsorship |
 | Fortitude Re | [Program Management Office Intern](https://app.careerpuck.com/job-board/fortitudegroupholdingsllc/job/5308211007?gh_jid=5308211007) | Nashville |  | 2026-11-26 |  |
@@ -66,7 +67,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NetApp | [Intern - Product Manager](https://netapp.eightfold.ai/careers/job/45500454) | San Jose, CA, USA Office (SANJOSE) |  | 2026-11-14 |  |
 | Entegris | [Associate Product Manager Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) · Summer 2027 | Chaska, MN | $20 to $30/hour | 2026-11-13 |  |
 | Entegris | [Product Management Intern](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) · Summer 2027 | Rockrimmon, Colorado Springs, CO | $20 to $30/hour | 2026-11-13 |  |
-| Kinder Morgan | [2027 BOLT Intern – Engineering (Integrity-OSG)](https://careers.kindermorgan.com/careers-home/jobs/6456) | HOUSTON, Texas |  | 2026-11-13 |  |
 | apexanalytix | [Product Management (Discovery) Intern - Summer 2027](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) · Summer 2027 | Greensboro, NC |  | 2026-11-12 |  |
 | Bask Health | [Apprentice Product Manager](https://apply.workable.com/j/641A955226) | United States |  | 2026-11-12 |  |
 | Bask Health | [Product Management Intern](https://apply.workable.com/j/AAE5145A49) | United States |  | 2026-11-12 |  |
@@ -93,7 +93,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | TikTok | [GEO Content Product Manager Intern (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7696000178264361269) | San Jose, California, United States of America |  | 2026-11-07 |  |
 | Match Group | [Technical Program Management Intern](https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c) | Los Angeles, California (hybrid) |  | 2026-11-06 |  |
 | Collective Measures | [Project Management Intern - Marketing](https://collectivemeasures.bamboohr.com/careers/318) | Minneapolis, Minnesota, United States | $20/hour | 2026-11-06 |  |
-| Invesco | [Early Career Intern - Digital Product Management](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) | Atlanta, Georgia | $35/hour | 2026-11-06 |  |
 | Tenet Healthcare | [HR Project Management Intern – Summer 2027 – Onsite in Dallas, TX](https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028283) · Summer 2027 | Dallas, TX, United States |  | 2026-11-06 |  |
 | Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/62DA4AD911) · Summer 2027 | New Brunswick, New Jersey, United States | $24 to $29/hour | 2026-11-06 |  |
 | Consigli Construction | [Project Management Intern (Summer 2027)](https://apply.workable.com/j/5BAF2265C4) · Summer 2027 | Hoboken, New Jersey, United States | $24 to $29/hour | 2026-11-06 |  |
@@ -169,25 +168,21 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ProSidian Consulting, LLC | [Program Manager - Youth Apprenticeships Project](https://jobs.smartrecruiters.com/prosidianconsulting/743999686635345-program-manager-youth-apprenticeships-project) | Charlotte, NC, us |  | 2026-11-04 |  |
 | Applied Materials | [Summer 2027 Data Intelligence/Technical Program Management Intern- Master's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) · Summer 2027 | Santa Clara,CA |  | 2026-11-03 |  |
 | Applied Materials | [Summer 2027 Technical Project/Program Management Intern- Master's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Technical-Project-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627706) · Summer 2027 | Santa Clara,CA |  | 2026-11-03 |  |
-| Zebra Technologies | [2027 Summer Internship (US) - Global Marketing Program Management](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Global-Marketing-Program-Management_JR103611) · Summer 2027 | Lincolnshire, Illinois | $24 to $25.50/hour | 2026-11-03 | no visa sponsorship |
 | Motorola Solutions | [Program Manager Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Program-Manager-Intern---Summer-2027_R69762) · Summer 2027 | Plantation, FL |  | 2026-11-02 | US citizens/persons only |
 | Microsoft | [Business Program Manager, Global Intern Experience & Innovation](https://apply.careers.microsoft.com/careers/job/1970393557043712) | Redmond, WA, US | $97,600 to $206,400 | 2026-11-02 |  |
 | Amgen | [Undergrad Intern – Global Program Management (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Global-Program-Management--Summer-2027-_R-260084) · Summer 2027 | United States - Remote | $28.87/hour | 2026-11-02 |  |
 | HP Inc | [Product Management Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1) · Winter 2027 | Spring, Texas, United States of America | $23 to $28/hour | 2026-11-02 | no visa sponsorship |
 | TikTok | [Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start](https://lifeattiktok.com/search/7701486873210390837) | San Jose, California, United States of America |  | 2026-11-02 |  |
 | TikTok | [Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start](https://lifeattiktok.com/search/7701480558070597893) | Seattle, Washington, United States of America |  | 2026-11-02 |  |
-| Boston Dynamics | [Technical Program Manager Co-Op](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Technical-Program-Manager-Co-Op_R3331) | Waltham Office (POST) | $30 to $35/hour | 2026-10-30 | no visa sponsorship |
-| Loft Orbital | [Summer 2027 Internship – Satellite Programs](https://jobs.lever.co/loftorbital/d49feb08-351a-4f03-84ba-948c8df633ab) · Summer 2027 | Golden, CO | $30/hour | 2026-10-30 |  |
 | Analog Devices | [Project / Program Management (Eng) Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Project---Program-Management--Eng--Intern_R267572) | US, MA, Wilmington | $22 to $41/hour | 2026-10-29 |  |
 | Skyworks | [Product Management Intern](https://careers.skyworksinc.com/job/Greensboro-Product-Management-Intern-NC-27409/1444618000/) | Greensboro, US | $23 to $49/hour | 2026-10-29 | no visa sponsorship |
 | Skyworks | [Product Management Intern](https://careers.skyworksinc.com/job/Greensboro-Product-Management-Intern-NC-27409/1444620700/) | Greensboro, US | $23 to $49/hour | 2026-10-29 | no visa sponsorship |
+| Zebra Technologies | [2027 Summer Internship (US) - Program Management](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Program-Management_JR103641) · Summer 2027 | Holtsville, New York | $40.50 to $44.50/hour | 2026-10-28 | no visa sponsorship |
 | Kinder Morgan | [2027 BOLT Intern - Project Management](https://careers.kindermorgan.com/careers-home/jobs/6151) | HOUSTON, Texas |  | 2026-10-28 |  |
 | Micron | [Intern – CMBU Product Management](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) | San Jose, CA | $55.82/hour | 2026-10-28 |  |
 | Micron | [Intern - Technical Program Manager, Program Management Office (PMO)](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Technical-Program-Manager--Program-Management-Office--PMO-_JR115692) | Boise, ID - Main Site |  | 2026-10-28 |  |
-| Zebra Technologies | [2027 Summer Internship (US) - Program Management](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Program-Management_JR103641) · Summer 2027 | Holtsville, New York | $40.50 to $44.50/hour | 2026-10-28 | no visa sponsorship |
 | Kinder Morgan | [2027 BOLT Intern - Project Management](https://careers.kindermorgan.com/careers-home/jobs/6149) | HOUSTON, Texas |  | 2026-10-27 |  |
 | Keysight | [IT Project Manager, Intern](https://jobs.keysight.com/careers-home/jobs/54824) | Colorado Springs, Colorado | $24.89 to $26.81/hour | 2026-10-27 |  |
-| Zebra Technologies | [2027 Summer Internship (US) - Product Management](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) · Summer 2027 | Lincolnshire, Illinois | $25.50 to $32/hour | 2026-10-27 | no visa sponsorship |
 | TikTok | [Project Manager Intern (Linehaul Management) - 2027 Summer - 2027 Start](https://lifeattiktok.com/search/7699929433938970933) · Summer 2027 | Middlesex, New Jersey, United States of America |  | 2026-10-27 |  |
 | Electronic Arts | [Product Management Intern, Fan Care Community Care - Summer 2027](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) · Summer 2027 | Austin, United States of America |  | 2026-10-22 |  |
 | Electronic Arts | [Strategy & Program Management Intern, Fan Care Community Care - Summer 2027](https://jobs.ea.com/en_US/careers/JobDetail/Strategy-Program-Management-Intern-Fan-Care-Community-Care-Summer-2027/216184) · Summer 2027 | Austin, United States of America |  | 2026-10-22 |  |
@@ -196,9 +191,11 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | NVIDIA | [Product Management MBA Intern, Data Center GPU - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) · Summer 2027 | US, CA, Santa Clara |  | 2026-10-20 |  |
 | NVIDIA | [Product Management MBA Intern, Laptop - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) · Summer 2027 | US, CA, Santa Clara |  | 2026-10-20 |  |
 | Western Midstream | [Project Management Office- Intern](https://careers.westernmidstream.com/job/The-Woodlands-Project-Management-Office-Intern-TX-77380/1432523500/) | The Woodlands, TX, US |  | 2026-10-20 |  |
-| Symbotic | [Intern- Project Manager](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Project-Manager_R7971) | USA Wilmington, MA - HQ | $29 to $40/hour | 2026-10-20 |  |
 | Trimble | [Product Management Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) | US - CO, Westminster |  | 2026-10-20 | no visa sponsorship |
 | Panasonic North America | [Project Management Intern](https://careers.na.panasonic.com/careers-home/jobs/51282) | De Soto, Kansas |  | 2026-10-20 | no visa sponsorship |
+| HCSC | [Early Careers - Project Management Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Project-Management-Intern_R0059491) | IL - Chicago | $19.13 to $34.17/hour | 2026-10-20 | no visa sponsorship |
+| HCSC | [Early Careers - Security Program Management Senior Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515) | IL - Chicago | $22.54 to $40.31/hour | 2026-10-20 | no visa sponsorship |
+| Insulet | [Co-op, Supplier Engineering - Project Management Excellence: January - June 2027 (Onsite)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Engineering---Project-Management-Excellence--January---June-2027--Onsite-_REQ-2026-18211) | Acton, Massachusetts | $25 to $34/hour | 2026-10-20 | no visa sponsorship |
 | Q2 | [2027 Summer Internship - Product Operations](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) · Summer 2027 | Austin, Texas |  | 2026-10-20 | no visa sponsorship |
 | Adobe | [2027 MBA Intern – Product Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) | San Jose | $37 to $50/hour | 2026-10-20 |  |
 | Dick's Sporting Goods | [Product Management - Summer 2027 Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) · Summer 2027 | Customer Support Center (hybrid) |  | 2026-10-20 |  |
@@ -211,11 +208,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | DocuSign | [Program Management Intern](https://careers.docusign.com/careers-home/jobs/30469) | Seattle, Washington | $38 to $40/hour | 2026-10-20 | no visa sponsorship |
 | Nintendo of America | [Intern - IT Project Manager](https://careers.nintendo.com/?gh_jid=4417316009) | Redmond, WA |  | 2026-10-20 | no visa sponsorship |
 | Nintendo of America | [Intern - Project Manager](https://careers.nintendo.com/?gh_jid=4417308009) | Redmond, WA |  | 2026-10-20 | no visa sponsorship |
-| HCSC | [Early Careers - Project Management Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Project-Management-Intern_R0059491) | IL - Chicago | $19.13 to $34.17/hour | 2026-10-20 | no visa sponsorship |
-| HCSC | [Early Careers - Security Program Management Senior Intern](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515) | IL - Chicago | $22.54 to $40.31/hour | 2026-10-20 | no visa sponsorship |
 | Qorvo | [Product Management Intern](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421954200/) | Greensboro, NC, US | $31 to $42/hour | 2026-10-20 | no visa sponsorship |
 | Qorvo | [Product Management Intern](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421973000/) | Greensboro, NC, US | $31 to $42/hour | 2026-10-20 | no visa sponsorship |
-| Insulet | [Co-op, Supplier Engineering - Project Management Excellence: January - June 2027 (Onsite)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Engineering---Project-Management-Excellence--January---June-2027--Onsite-_REQ-2026-18211) | Acton, Massachusetts | $25 to $34/hour | 2026-10-20 | no visa sponsorship |
 | Rivian | [Engineering Intern - Technical Program Management (Spring 2027 Co-op)](https://careers.rivian.com/careers-home/jobs/34505) · Spring 2027 | Palo Alto, California | $45 to $51/hour | 2026-10-20 | no visa sponsorship |
 | Commonwealth Fusion Systems | [Intern - Assembly Technical Project Manager - Spring 2027](https://jobs.lever.co/cfsenergy/43b60f04-f044-47dd-9291-f40b38ffaab3) · Spring 2027 | Devens, MA |  | 2026-10-20 |  |
 | Constellation Energy | [Summer 2027 Project Management Intern - Kennett Square, PA](https://jobs.constellationenergy.com/careers-home/jobs/139996) · Summer 2027 | Kennett Square, Pennsylvania |  | 2026-10-20 |  |

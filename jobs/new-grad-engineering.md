@@ -1,11 +1,12 @@
 # New grad and entry level: Other engineering
 
-433 open, newest first (by the date the scraper first saw them), updated 2026-11-26.
+431 open, newest first (by the date the scraper first saw them), updated 2026-11-27.
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| Clera | [Founding Engineer](https://jobs.ashbyhq.com/Clera/8c2b0e2e-8dd2-4495-afaa-df2b97918f07) | San Francisco | $150,000 to $250,000 | 2026-11-27 | no visa sponsorship |
 | Burgess & Niple | [Water/Wastewater Engineer, Early Career](https://job-boards.greenhouse.io/burgessniple/jobs/4514397009) | Columbus, OH |  | 2026-11-26 |  |
 | Eight Sleep | [New Grad - Engineering (full-time)](https://jobs.ashbyhq.com/eightsleep/1ea47d9f-b325-4fbb-a59e-f13646ad092c) | New York City |  | 2026-11-26 |  |
 | HPE | [Engineering Resolution Team Engineer Graduate](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553-1) | Spring, Texas, United States of America | $53,600 to $107,400 | 2026-11-26 |  |
@@ -120,7 +121,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Stream Realty | [Building Engineer I](https://jobs.smartrecruiters.com/StreamRealty/744000159959579-building-engineer-i) | San Antonio, TX, us |  | 2026-11-06 |  |
 | InterImage | [Junior System Engineer](https://apply.workable.com/j/169E6928BE) | Annapolis Junction, Maryland, United States | $94,213 to $122,500 | 2026-11-06 |  |
 | Consigli Construction | [VDC Engineer](https://apply.workable.com/j/A301A60E5C) | Milford, Massachusetts, United States | $82,000 to $89,000 | 2026-11-06 |  |
-| EnerMech | [ES/IIS Engineer I](https://apply.workable.com/j/2AADE3BD1D) | Houston, Texas, United States |  | 2026-11-06 |  |
 | Cook Children's | [Utility Engineer](https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Utility-Engineer_JR-120082) | Fort Worth, TX |  | 2026-11-05 |  |
 | Applied Materials | [2027 Process Support Engineer, New College Grad - Bachelor's or Master's (Multiple Locations!)](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/XMLNAME-2027-Process-Support-Engineer--New-College-Grad---Bachelor-s--Multiple-Locations--_R2632289) | Boise,ID | $70,000 to $95,500 | 2026-11-05 |  |
 | Illumina | [Engineer 1/2 Process Development](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Bay-Area---Hayward/Engineer-1-2-Process-Development_43714-JOB) | US - Bay Area - Hayward | $78,900 to $118,300 | 2026-11-05 | no visa sponsorship |
@@ -275,7 +275,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Teradyne | [Field Applications Engineer, New College Graduate, (Teradyne, Plano TX)](https://jobs.teradyne.com/Teradyne/job/Plano-Field-Applications-Engineer%2C-New-College-Graduate%2C-%28Teradyne%2C-Plano-TX%29-TX/1442389200/) | Plano, TX, US | $82,800 to $132,500 | 2026-10-22 | no visa sponsorship |
 | GlobalFoundries | [Sr Failure Analysis Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Sr-Failure-Analysis-Engineer--2027-New-College-Graduate-_JR-2604786) | USA - New York - Malta | $69,000 to $120,000 | 2026-10-22 |  |
 | Seagate | [HDM Senior Engineer - Early Career](https://seagatecareers.com/job/Shakopee-HDM-Senior-Engineer-Early-Career-MN/1442447200/) | Shakopee, United States | $94,000 to $118,000 | 2026-10-22 |  |
-| Symbotic | [Site Engineer](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Palestine-TX/Site-Engineer_R8306) | USA Palestine, TX | $69,000 to $101,200 | 2026-10-21 |  |
 | KLA | [Product Development Applications Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Product-Development-Applications-Engineer_2639658) | Totowa, NJ | $108,000 to $183,600 | 2026-10-20 |  |
 | KLA | [Applications Development Engineer](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Applications-Development-Engineer_2637623) | Totowa, NJ | $108,000 to $183,600 | 2026-10-20 |  |
 | Samsung Semiconductor | [AMHS Engineer](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/AMHS-Entry-level-Engineer_R120379) | 1530 FM 973 Taylor, TX, USA | $76,000 to $95,000 | 2026-10-20 |  |
@@ -304,6 +303,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Trimble | [Radio Frequency Engineer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CA-Sunnyvale/Radio-Frequency-Engineer_R57360-1) | US - CA, Sunnyvale | $76,700 to $105,500 | 2026-10-20 |  |
 | BD | [Field Service Engineer (Myrtle Beach or Florence)](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-SC---Moncks-Corner/Field-Service-Engineer--Myrtle-Beach-_R-552114) | USA SC - Moncks Corner | $28.20 to $45.10/hour | 2026-10-20 |  |
 | KLA | [Customer Engagement Applications Engineer - SFS](https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Engagement-Applications-Engineer---SFS_2636968) | Hillsboro, OR | $83,100 to $141,300 | 2026-10-20 |  |
+| Invesco | [Engineer., SIP](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Engineer--SIP_R-13716-1) | Atlanta, Georgia |  | 2026-10-20 |  |
 | GE HealthCare | [Trainee Field Service Engineer (w/m/d) Raum Stuttgart](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Trainee-Field-Service-Engineer--w-m-d--Raum-Stuttgart_R4047397) | Remote |  | 2026-10-20 |  |
 | GE HealthCare | [Early Career Trainee- Field Service Engineer (Scotland, Manchester, Leeds, Birmingham, London and Bristol)](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Early-Career-Trainee--Field-Service-Engineer_R4047058-2) | Remote |  | 2026-10-20 |  |
 | GE HealthCare | [Early Career Trainee - Field Services Engineer](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Early-Career-Trainee---Field-Services-Engineer_R4045163-1) | Remote |  | 2026-10-20 |  |
@@ -348,7 +348,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Black & Veatch | [Substation Commissioning Engineer - Central Region](https://careers.bv.com/job/Substation-Commissioning-Engineer-Central-Region-TX/1419475833/) | SC, US |  | 2026-10-20 |  |
 | Target | [Engineer - Guest Feedback](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---Guest-Feedback_R0000475403) | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | $75,400 to $135,700 | 2026-10-20 |  |
 | Target | [Engineer - US](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---US_R0000454091) | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | $75,400 to $135,700 | 2026-10-20 |  |
-| Invesco | [Engineer., SIP](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Engineer--SIP_R-13716-1) | Atlanta, Georgia |  | 2026-10-20 |  |
 | Monolithic Power Systems | [New Grad Applications Engineer](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/New-Grad-Applications-Engineer_R-2040) | San Jose, CA | $100,000 to $150,000 | 2026-10-20 |  |
 | Tokyo Electron | [Field Service/Start-Up Engineer - ES](https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin/Field-Service-Start-Up-Engineer---ES_R26-01278-1) | Austin |  | 2026-10-20 |  |
 | Tokyo Electron | [Field Service/Start-Up Engineer - BOEL - Prober - Contract Role](https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/North-Phoenix-Deer-Valley/Field-Service-Start-Up-Engineer---BOEL---Prober---Contract-Role_R26-01854) | North Phoenix (Deer Valley) |  | 2026-10-20 |  |
@@ -409,7 +408,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ByteDance | [XR Camera and Machine Vision Engineer Graduate (PICO) - 2027 Start (PhD)](https://joinbytedance.com/search/7665402536010680629) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | ByteDance | [XR Camera and Machine Vision Engineer Graduate (PICO) - 2026 Start (PhD)](https://joinbytedance.com/search/7537439865178523911) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | Entergy | [Engineer I (Pwr Gen)](https://jobs.entergy.com/job/Redfield-Engineer-I-%28Pwr-Gen%29-Arka/1432055700/) | Redfield, Arkansas, United States |  | 2026-10-20 | no visa sponsorship |
-| NRG Energy | [Support Engineer](https://careers.nrgenergy.com/nrg/job/Houston-Support-Engineer-TX-77010/1420628800/) | Houston, TX, US |  | 2026-10-20 |  |
 | TikTok | [Testing Engineer Graduate (TikTok-Testing-Social-User and Relation) - 2027 Start](https://lifeattiktok.com/search/7670331433437956405) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | TikTok | [Testing Engineer Graduate (TikTok - Intelligent Creation) - 2027 Start](https://lifeattiktok.com/search/7670351062847260981) | San Jose, California, United States of America |  | 2026-10-20 |  |
 | Applied Materials | [Applied Early Career Program - Field Service Engineer](https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/Applied-Early-Career-Program---Field-Service-Engineer_R2617841) | Phoenix,AZ | $27 to $37.40/hour | 2026-10-19 |  |

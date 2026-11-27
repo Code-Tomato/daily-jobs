@@ -1,11 +1,12 @@
 # Internships and co-ops: Business, consulting and operations
 
-2,313 open, newest first (by the date the scraper first saw them), updated 2026-11-26. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
+2,301 open, newest first (by the date the scraper first saw them), updated 2026-11-27. Showing the newest 750; the rest are in the dataset (see the [README](../README.md)).
 
 Flags come from the posting text and can be wrong. Check the posting before you apply.
 
 | Company | Role | Location | Pay | First seen | Flags |
 |---|---|---|---|---|---|
+| AT&T | [Corporate Development Summer Associate](https://att.wd1.myworkdayjobs.com/ATTCollege/job/Dallas-Texas/Corporate-Development-Summer-Associate_R-119729) · Summer 2028 | Dallas, Texas | $130,700 to $196,100 | 2026-11-27 | no visa sponsorship |
 | Vital Lyfe | [Supply Chain Engineer Internship - Summer 2027](https://jobs.ashbyhq.com/vital-lyfe/0a604bb1-8230-45fa-8f65-5101e5774a8c) · Summer 2027 | Los Angeles - Greater Area |  | 2026-11-26 |  |
 | AECOM | [Consulting Services Intern](https://jobs.smartrecruiters.com/AECOM2/744000163765679-consulting-services-intern) | Chicago, IL, us |  | 2026-11-26 | no visa sponsorship |
 | AIRS Medical Inc | [US - HR Operations Intern](https://apply.workable.com/j/720BFFB9EA) | Schaumburg, Illinois, United States |  | 2026-11-26 |  |
@@ -132,7 +133,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Santander US | [2027 Market Risk Summer Intern](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Market-Risk-Summer-Intern_Req1636216) · Summer 2027 | Madison Ave Corp |  | 2026-11-21 | no visa sponsorship |
 | ServiceNow | [Corporate Business Development Intern - MBA](https://jobs.smartrecruiters.com/ServiceNow/744000162808049-corporate-business-development-intern-mba) | San Francisco, CALIFORNIA, us | $57.70 to $73.97/hour | 2026-11-21 | no visa sponsorship |
 | South Alabama Regional Planning Commission | [Community Planning & Economic Development Intern](https://sarpc.bamboohr.com/careers/75) | Mobile, Alabama, United States |  | 2026-11-21 |  |
-| State Farm | [Summer 2027 Intern - Administrative Services - Designer](https://jobs.statefarm.com/careers-home/jobs/46991) · Summer 2027 | Bloomington, Illinois | $24/hour | 2026-11-21 | no visa sponsorship |
 | T-Mobile | [Summer 2027 Fiber Technical Engineering Operations Internship](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Fiber-Technical-Engineering-Operations-Internship_REQ383611) · Summer 2027 | Overland Park, Kansas | $27 to $50/hour | 2026-11-21 |  |
 | Target | [Operation Manager Intern (Starting Summer 2027) Regional Distribution Center - Phoenix, AZ](https://target.wd5.myworkdayjobs.com/targetcareers/job/25-N-75th-Ave-PhoenixAZ-85043-2109/Operation-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center---Phoenix--AZ_R0000450404) · Summer 2027 | 25 N 75th Ave, Phoenix,AZ 85043-2109 | $25.25/hour | 2026-11-21 |  |
 | Target | [Operation Manager Intern (Starting Summer 2027) Last Mile Distribution Center - Minneapolis, MN](https://target.wd5.myworkdayjobs.com/targetcareers/job/2700-Winter-St-NE-MinneapolisMN-55413-2945/Operation-Manager-Intern--Starting-Summer-2027--Last-Mile-Distribution-Center---Minneapolis--MN_R0000450437) · Summer 2027 | 2700 Winter St NE, Minneapolis,MN 55413-2945 | $27/hour | 2026-11-21 |  |
@@ -180,7 +180,7 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | Xcel Energy | [Distribution Planning Engineering Intern - MN](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Maple-Grove-MN-55369/Distribution-Planning-Engineering-Intern---MN_JR115809-2) | Maple Grove, MN, 55369 (hybrid) | $21.20 to $24.60/hour | 2026-11-20 |  |
 | Zoox | [Process Improvement Intern (L) [Summer 2027]](https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f) · Summer 2027 | Foster City, CA |  | 2026-11-20 |  |
 | Formlabs | [Global Operations MBA Intern (Summer 2027)](https://careers.formlabs.com/job/8385550/apply/?gh_jid=8385550) · Summer 2027 | Somerville, MA |  | 2026-11-20 |  |
-| SIG | [Electricity + Natural Gas Analyst Internship: Summer 2027](https://careers.sig.com/careers-home/jobs/10945) · Summer 2027 | Bala Cynwyd (Philadelphia Area), Pennsylvania |  | 2026-11-20 |  |
+| SIG | [Electricity + Natural Gas Analyst Internship: Summer 2027](https://careers.sig.com/careers-home/jobs/10945) · Summer 2027 | Bala Cynwyd (Greater Philadelphia), Pennsylvania |  | 2026-11-20 |  |
 | Goldman Sachs | [2027 / Americas / Albany / Engineering / Summer Analyst](https://higher.gs.com/roles/189373) · Summer | Albany, NY, United States |  | 2026-11-20 |  |
 | University of Pikeville | [WS - Spring Term - INTERNSHIP – Mountain Top Media – Sports Media Assistant – IWS](https://upike.bamboohr.com/careers/628) · Spring | Pikeville, Kentucky, United States |  | 2026-11-19 |  |
 | Central City Opera | [2027 Festival - Administrative Intern](https://centralcityopera.bamboohr.com/careers/83) | Central City, Colorado, United States | $15.71/hour | 2026-11-19 |  |
@@ -443,7 +443,6 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | LandCare | [Internship](https://apply.workable.com/j/186BDB8A24) | San Diego, California, United States |  | 2026-11-07 |  |
 | Super Soccer Stars | [Sports Management Intern](https://apply.workable.com/j/AD6C8EBA49) | West Hempstead, New York, United States |  | 2026-11-07 |  |
 | Super Soccer Stars | [Sports Business Operations Intern](https://apply.workable.com/j/47426562C8) | West Hempstead, New York, United States |  | 2026-11-07 |  |
-| Goldman Sachs | [2027 / Americas / New York City Area / Executive Office, Office of the Chairman / Summer Analyst](https://higher.gs.com/roles/188644) · Summer | New York, NY, United States |  | 2026-11-07 |  |
 | TikTok | [Data Operations Intern (SoundOn) - 2027 Start](https://lifeattiktok.com/search/7704912455690504453) | Los Angeles, California, United States of America |  | 2026-11-07 |  |
 | TikTok | [Travel Creator Operations Intern (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7678597116231158069) | Los Angeles, California, United States of America |  | 2026-11-07 |  |
 | TikTok | [Dine-In Creator Operations Intern (TikTok Local Services) - 2027 Start](https://lifeattiktok.com/search/7704961831681132805) | Los Angeles, California, United States of America |  | 2026-11-07 |  |
@@ -633,8 +632,8 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | SFMOMA | [Archives and Records Management Intern: Artwork Documentation](https://jobs.lever.co/sfmoma/1f7fa3df-ef91-460c-a93d-9673565028a7) · Fall 2027 | San Francisco, CA |  | 2026-11-05 |  |
 | SFMOMA | [Archives and Records Management Intern: Digitization](https://jobs.lever.co/sfmoma/be82a32a-59e0-4d42-9d94-2a13a08cdfff) · Fall 2027 | San Francisco, CA |  | 2026-11-05 |  |
 | AlphaSights | [Summer Associate, Client Service, Mandarin Speaker, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909518) · Summer | New York | $15,384.62 | 2026-11-05 |  |
-| AlphaSights | [Summer Associate, Client Service, Portuguese Speaker 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909510) · Summer | New York | $15,384.62 | 2026-11-05 |  |
 | AlphaSights | [Summer Associate, Client Service, Portuguese Speaker 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909594) · Summer | San Francisco | $15,384.62 | 2026-11-05 |  |
+| AlphaSights | [Summer Associate, Client Service, Portuguese Speaker 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909510) · Summer | New York | $15,384.62 | 2026-11-05 |  |
 | AlphaSights | [Summer Associate, Client Service, Spanish Speaker (NY)](https://www.alphasights.com/careers/open-roles?gh_jid=7909591) · Summer | New York | $15,384.62 | 2026-11-05 |  |
 | UX Woman | [Business Analyst to UX Research Career Changer Apprenticeship](https://ux-woman.breezy.hr/p/34000c5998bd-business-analyst-to-ux-research-career-changer-apprenticeship) | Philadelphia, PA |  | 2026-11-05 |  |
 | AlphaSights | [Summer Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7872333) · Summer | New York | $15,384.62 | 2026-11-05 |  |
@@ -756,3 +755,4 @@ Flags come from the posting text and can be wrong. Check the posting before you 
 | ATIA Ltd | [Facebook Administrator - Paid Internship](https://jobs.smartrecruiters.com/ATIALtd/95213932-facebook-administrator-paid-internship) | Denver, CO, us |  | 2026-11-05 |  |
 | ATIA Ltd | [Facebook Administrator - Paid Internship](https://jobs.smartrecruiters.com/ATIALtd/95213849-facebook-administrator-paid-internship) | Indianapolis, IN, us |  | 2026-11-05 |  |
 | ATIA Ltd | [Facebook Administrator - Paid Internship](https://jobs.smartrecruiters.com/ATIALtd/95213773-facebook-administrator-paid-internship) | San Francisco, CA, us |  | 2026-11-05 |  |
+| ATIA Ltd | [Facebook Administrator - Paid Internship](https://jobs.smartrecruiters.com/ATIALtd/95213754-facebook-administrator-paid-internship) | Austin, TX, us |  | 2026-11-05 |  |
